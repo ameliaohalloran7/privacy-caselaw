@@ -7,7 +7,16 @@ The objective of this analysis is to compare US and UK privacy caselaw by perfor
 Scope of analysis: US Supreme Court Cases 1997 - 2023; UK House of Lords Cases 1997 - 2009; UK Supreme Court Cases 2009 - 2023.
 
 
-Instructions: In order to run the analysis, download the folder and navigate to the directory in your terminal. Then enter "python Run.py". Run.py will gather raw HTML data for cases from 1997 to 2023, convert them to readable text, and then run Comparative_analysis.Rmd, which runs R code to perform the distant reading analysis. It then outputs Comparative_analysis.html, which provides graphs that demonstrate the differences between US and UK privacy cases. 
+Instructions: In order to run the analysis, download the folder and navigate to the directory in your terminal. Then enter "python Run.py". 
+
+
+Analysis steps: 
+Run.py will perform the following actions:
+0. Use Python scripts in the Python_scrtips/Selenium folder to gather raw HTML data for cases from 1997 to 2023
+1. Use Python scripts in the Python_scripts/Beautiful_soup folder to convert raw HTML data to readable text
+2. Use Python scripts in the Python_scripts/Intermediate_processing folder to perform additional text processing on readable text files (e.g., aggregating multiple pages for a single case into one file)
+3. Runs Comparative_analysis.Rmd, which runs R code to perform distant reading analysis
+4. Outputs Comparative_analysis.html, which provides graphs that demonstrate the differences between US and UK privacy cases. 
 
 
 Input: Input_files contains the input for this project, which is a set of three CSVs that contain URLs for each US, UKSC, and UKHL case in the timeframe. However, for the sake of time, I have already performed the first step and downloaded the raw HTML extract from each page in the CSV. Thus, the input raw HTML extracts already exist in the Intermediate_files/ folder. If you would like to start from scratch and work off of the CSVs instead of the pre-downloaded raw HTML extracts, please see "Additional options" below. 
