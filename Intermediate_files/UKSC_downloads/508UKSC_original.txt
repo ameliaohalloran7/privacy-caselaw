@@ -1,0 +1,1267 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Gordon v Scottish Criminal Cases Review Commission  (Scotland) [2017] UKSC 20 (22 March 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:PlantinStd;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:ArialUnicodeMS;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@ArialUnicodeMS";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Gordon v Scottish Criminal Cases Review Commission  (Scotland) [2017] UKSC 20 (22 March 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/20.html</i>
+<br>Cite as: 
+2017 SLT 365,
+
+2017 SC (UKSC) 86,
+
+2017 SCCR 214,
+
+[2017] UKSC 20,
+
+2017 GWD 11-144
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/20.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 20</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2013/2013CSIH101.html">[2013] CSIH 101</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Gordon (Appellant) <i>v</i> Scottish Criminal Cases
+Review Commission (Respondent) (Scotland)</span></p>
+
+<p class="Title1" align="left" style="margin-left:0cm;text-align:left"><span style="font-size:16.0pt;font-weight:normal">&nbsp;</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">22 March 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 13 December 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Mungo Bovey QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Gerry Coll</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Drummond Miller LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Gerry Moynihan QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Chris Pirie</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Scottish Criminal Cases Review Commission)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD REED: (<span style="text-transform:none">with whom Lord
+Kerr, Lord Clarke, Lord Hughes and Lord Hodge agree</span>)</p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal arises out of an application for judicial review of a
+decision taken by the Scottish Criminal Cases Review Commission (“the
+Commission”) under section 194B(1) of the Criminal Procedure (Scotland) Act
+1995, as amended (”the 1995 Act”). That subsection provides, so far as
+material:</a></p><a name="para1">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The Commission on the
+consideration of any conviction of a person ... who has been convicted on indictment
+or complaint may, if they think fit, at any time, and whether or not an appeal
+against such conviction has previously been heard and determined by the High
+Court ... refer the whole case to the High Court and, subject to section 194DA of
+this Act, the case shall be heard and determined, subject to any directions the
+High Court may make, as if it were an appeal under Part VIII or, as the case
+may be, Part X of this Act.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The grounds for a reference under section 194B(1) are set out in section
+194C:</a></p><a name="para2">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The grounds upon which
+the Commission may refer a case to the High Court are that they believe -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that a miscarriage of
+justice may have occurred; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that it is in the
+interests of justice that a reference should be made.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In determining whether
+or not it is in the interests of justice that a reference should be made, the
+Commission must have regard to the need for finality and certainty in the determination
+of criminal proceedings.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is also relevant to note section 194DA. So far as material, it
+provides:</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Where the Commission has
+referred a case to the High Court under section 194B of this Act, the High
+Court may, despite section 194B(1), reject the reference if the Court considers
+that it is not in the interests of justice that any appeal arising from the
+reference should proceed.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In determining whether
+or not it is in the interests of justice that any appeal arising from the
+reference should proceed, the High Court must have regard to the need for
+finality and certainty in the determination of criminal proceedings<span style="color:black">.”</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sections 194C(2) and 194DA were inserted into the 1995 Act by the
+Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act
+2010 (“the 2010 Act”), a piece of emergency legislation which was enacted on
+the day after this court gave judgment in <i>Cadder v HM Advocate </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2010/43.html">[2010] UKSC 43</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/43.html">2011 SC (UKSC) 13</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/43.html">[2010] 1 WLR 2601</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These proceedings arise out of the Commission’s consideration of the
+appellant’s conviction for rape. The Commission decided not to refer his case
+to the High Court of Justiciary. They accepted that a miscarriage of justice
+might have occurred, but they did not believe that it was in the interests of
+justice that a reference should be made. The condition laid down in section
+194C(1)(b) was therefore not met. The appellant challenges that decision on the
+basis that the Commission’s decision was vitiated by errors of law.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant’s application for judicial review was refused by the Lord
+Ordinary, Lord Pentland. That decision was upheld by an Extra Division (Lord
+Menzies, Lady Clark of Calton and Lord Wheatley). The present appeal against
+their decision was brought before the introduction of a requirement that
+permission to appeal should be obtained.</a></p><a name="para6">
+
+<p class="ParaHeading">The factual background to the appeal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 12 August 2001 the appellant had sexual intercourse with a woman who
+then reported to the police that she had been raped. She was medically
+examined, and vaginal swabs were taken from her for forensic examination. The
+following day, the appellant was informed by the police that the allegation had
+been made. As requested, he went to a police station and was interviewed by
+police officers. At the beginning of the interview he was cautioned. He
+confirmed that he fully understood the caution and that he had attended the
+police station voluntarily. He was asked if he wished to have a solicitor
+advised, but declined. In accordance with practice at the time, and the law as
+then understood, he was not offered the option to consult a solicitor before
+the interview, and no solicitor was present during it. When questioned, he
+freely admitted having had sexual intercourse with the complainer at his flat,
+and maintained that it had taken place with her consent. As a result of his
+admission, the semen found on the vaginal swabs was not subjected to DNA
+analysis. That also was in accordance with the usual practice at the time, when
+the fact that sexual intercourse had taken place between an accused and a
+complainer was not in dispute. The appellant was subsequently charged with the
+rape of the complainer, and also with indecent assaults on two other women.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The subsequent trial took place between 30 August and 5 September 2002.
+At the trial, the appellant was represented by a highly experienced Queen’s
+Counsel. He pled guilty to one of the charges of indecent assault, and the
+other charge of indecent assault was withdrawn. In relation to the charge of
+rape, the Crown relied on the appellant’s admission as corroboration of the
+complainer’s evidence that sexual intercourse had occurred, that being an
+element of the offence which must be proved by corroborated evidence. A
+videotape of the appellant’s interview was therefore played to the jury as part
+of the Crown case, without objection. Corroboration of the complainer’s evidence
+as to the other essential element of the offence, namely that she had not
+consented to sexual intercourse, was provided by other Crown witnesses, who
+gave evidence of her being in a state of shock and distress shortly after her
+encounter with the appellant, and of injuries which were found when she was
+medically examined. There was also evidence that a decorative chain on her
+trousers had been broken, although her clothing was otherwise undamaged.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In cross-examination, the complainer accepted that she had initially
+given the police an untrue account of where the incident occurred, when she had
+stated that she had been raped in a lane near the nightclub where she met the
+appellant, rather than at his flat, some miles away. She explained that she had
+been disorientated. In relation to the evidence of her being distressed, the
+line of cross-examination sought to attribute her distress to her consumption
+of alcohol and medication, and to the appellant’s having rejected her at the
+end of their encounter. It was also established that the complainer initially
+told the police that she had been taken from the nightclub forcibly, but later
+said that she left it willingly. She had explained her earlier account by
+saying that she had been embarrassed to admit that she had gone home with a man
+she had only just met.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant elected not to give evidence, but relied on the interview
+as setting out his defence to the charge, namely that the sexual intercourse
+had been consensual. As a result, he avoided having his version of events
+subjected to cross-examination.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant was convicted. He was sentenced to five years’
+imprisonment on the rape charge and admonished for the indecent assault. The
+sentence was completed long ago.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant’s case is fairly typical of rape cases of that period. It
+was usual for persons accused of rape to be interviewed by the police without
+having the opportunity to consult a solicitor. It was common for them to accept
+that sexual intercourse had taken place and to maintain that it was consensual.
+It was common, in those circumstances, for the police not to complete forensic
+examination of samples which might have provided independent corroboration of
+the fact of sexual intercourse, since the accused’s admission at interview
+rendered such examination unnecessary. It was usual for the Crown then to rely
+on the admission as part of the Crown case at the trial. It was common for the
+accused to rely on the exculpatory part of the interview in his defence.</a></p><a name="para12">
+
+<p class="ParaHeading">The first appeal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant appealed against his conviction for rape on three grounds.
+The first was defective representation. He claimed that evidence should have
+been led from a number of witnesses who could have given evidence about such
+matters as his kissing the complainer in the night club prior to their going to
+his flat, and the lack of noise from his flat at the material time. The second
+ground was that the jury had been directed on the law of rape in accordance
+with the decision in <i>Lord Advocate’s Reference (No 1 of 2001) </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotHC/2002/35.html">2002 SCCR 435</a>, which post-dated the incident. The third ground concerned the prejudicial effect
+of pre-trial publicity. Each ground was considered at first sift (by a single
+judge) on 20 June 2003. Leave to appeal was refused, the first sift judge
+giving detailed reasons for his decision. However, at second sift (by three
+judges) on 23 December 2003, leave to appeal was granted, but only on the
+defective representation ground. Notwithstanding that decision, on 30 April
+2004 the court allowed the appellant to lodge two additional grounds of appeal.
+The new grounds related to the adequacy of corroboration, and to the directions
+given on mens rea<span style="font-size:10.0pt;font-family:PlantinStd">.</span>
+At the hearing of the appeal on 29 September 2004, it was only the new grounds
+which were relied upon. The appeal was refused: <i>Gordon v HM Advocate </i>2004
+SCCR 641.</p>
+
+<p class="ParaHeading">The second appeal</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant applied to the Commission to have his case referred back
+to the High Court on a number of grounds, namely prejudicial pre-trial
+publicity, the effect of the development in the law of rape between the
+incident and the trial, the sufficiency of the evidence, misdirection on the
+law of rape, failure by the Crown to disclose that the complainer’s clothing
+had been seized by the police, and police misconduct and failures in relation
+to the investigation of the incident, the gathering of evidence and the
+disclosure of evidence.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In April 2007 the Commission referred the case back to the High Court,
+primarily on the basis that (1) the police investigation had been defective in
+a number of respects, (2) there had been a failure by the Crown to disclose a
+statement taken from the complainer in which she said that she shouted during
+the incident, contrary to her evidence at the trial (although the defence knew
+at the trial that such a statement had been made, and the complainer was
+cross-examined on the basis that she had made such a statement), and (3) the
+Commission had discovered evidence that the complainer had previously been in a
+relationship with one of the witnesses who had given evidence of her distress. In
+accordance with section 194B(1) of the 1995 Act, the referral was dealt with as
+a second appeal.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 20 April 2007 the appellant made a further application to the
+Commission, on the basis that there had been an imbalance between men and women
+on the jury. The Commission rejected the application on the ground that the
+case had already been referred, and the matter could be raised as a ground of
+appeal. In the event, the matter was not pursued.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant’s grounds of appeal were lodged in June 2007. They
+concerned the matters identified by the Commission, and also a failure to
+disclose that the complainer had been charged by the police with child neglect
+in relation to an occasion several months after the incident involving the
+appellant, when her estranged husband reported that their 11 year old daughter
+had been left at home on her own. The charge had not been pursued.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appeal had an extended procedural history, described in the judgment
+of Lord Carloway in <i>Gordon v HM Advocate </i></a><a title="Link to BAILII version" href="/scot/cases/ScotHC/2009/2009HCJAC52.html">[2009] HCJAC 52</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotHC/2009/2009HCJAC52.html">2009 SCCR 570</a>.
+In the light of that judgment, in July 2009 the appeal was set down for a
+hearing on 26-28 January 2010. On those dates the appellant appeared on his own
+behalf, having parted company (not for the first time) with his legal
+representatives. He sought to have the hearing discharged in order to instruct
+fresh counsel and solicitors, but that application was refused in view of the
+protracted procedural history and the age of the conviction, amongst other
+matters. The appeal was refused on 6 May 2010: <i>Gordon v HM Advocate </i><a title="Link to BAILII version" href="/scot/cases/ScotHC/2010/2010HCJAC44.html">[2010] HCJAC 44</a>;<i> </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotHC/2010/2010HCJAC44.html">2010 SCCR 589</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In its opinion, delivered by Lord Carloway, the court considered each of
+the grounds of appeal with meticulous care. Its conclusion reflected its evaluation
+of the likely effect on the jury’s verdict of the additional or undisclosed
+evidence, and of the potential evidence which was unavailable because of
+defects in investigation:</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The points raised in this appeal
+are essentially matters of fact which the appellant maintains might, or perhaps
+would, have made a difference in the jury’s deliberations. But the reality is
+that this was a complainer who was demonstrated to have given different
+accounts to the police and others after the occurrence of the incident. The
+defence brought out a number of points in favour of the defence position,
+including the lack of damage to the clothing. There was ample material
+available at the trial which could have persuaded the jury that there was a
+reasonable doubt about the guilt of the appellant. But, the jury had no
+reasonable doubt and it is easy to see why. Although there were substantial
+variations in the complainer’s early accounts, she ultimately spoke clearly to
+leaving the nightclub, ending up at the appellant’s flat and being raped by
+him.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">... [T]he evidence of the bruising
+to the complainer’s breast, arms, thighs and buttocks must have seemed to the
+jury, as it does to this court, to be of some note. The ornamental chain of her
+trousers was broken. In addition, it was not disputed that the complainer had
+left the appellant’s flat abruptly. She did not go home, as might have been
+anticipated after a consensual event, but went first to a male friend’s house
+in the early hours of the morning in a distressed state. When she left his
+flat, she still did not go home, but called a female friend to pick her up from
+a shopping centre some time around 3.30 am, when she was witnessed still to be
+in a state of distress. In addition, there was the appellant’s own account where,
+at parts of his interview, he accepts that he escorted the complainer to his
+flat when he knew she was in a drunken state. He admitted that things ‘got a
+wee bit out of control’ at some point, albeit that he had an alternative
+explanation for this. He admitted that he did not provide the complainer with
+his name or address, so that she could telephone a taxi. The jury would have
+been entitled to regard these admissions as highly supportive of the
+complainer’s account and not consistent with an episode of consensual
+intercourse.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The evidence therefore fully
+entitled the jury to reach the verdict they did and nothing in the grounds of
+appeal or otherwise has persuaded the court that a miscarriage of justice did
+occur, or even might have occurred, in this case.” (paras 105-107)</p>
+
+<p class="ParaHeading">The Cadder decision</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 26 October 2010, several months after the appellant’s second appeal
+had been refused, this court gave judgment in the case of <i>Cadder v HM
+Advocate. </i>It held that the right under article 6 of the European Convention
+on Human Rights not to incriminate oneself implied that a suspect should be
+permitted access to legal advice prior to and during interrogation by the
+police, unless there were compelling reasons in the particular circumstances of
+the case which justified a restriction on the right of access to a solicitor;
+and that, as a general rule, answers to police questioning conducted without
+the opportunity of access to legal advice ought not to be admitted in evidence.
+However, their admission in evidence did not in itself make the trial unfair. A
+conviction would only be quashed if (per Lord Hope at para 64) it was clear
+that there was insufficient evidence for a conviction without the evidence of
+the police interview or that, taking all the circumstances of the trial into
+account, there was a real possibility that the jury would have arrived at a
+different verdict had they not had that evidence before them.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This decision was not unexpected. There had however been considerable
+concern about its practical implications, partly because of an apprehension
+that the resultant change in understanding of the law might form the basis of
+appeals by the large numbers of persons who had previously been convicted on
+the basis of evidence obtained at interviews conducted without their having had
+access to a solicitor. Such persons had been properly convicted under the law
+as it was understood at the time of their trial and any subsequent appeal, but
+they might, following <i>Cadder, </i>argue that they were the victims of a
+miscarriage of justice. There was little if any authority on the approach which
+the High Court should take to applications for extensions of time to lodge
+notices or notes of appeal, based upon developments in the law. If the ordinary
+approach to applications for extensions were adopted, then it appeared that
+such applications might be granted in large numbers of cases, since the
+lateness of the application would generally be excusable. There was also
+uncertainty as to whether the refusal of applications would in any event be
+compatible with Convention rights. Even if the court adopted a restrictive
+approach, the refusal of applications might simply result in a flood of
+references by the Commission.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Cadder, </i>this court considered the retroactive effect of its
+own decision in an effort to address those concerns. Lord Hope, in a judgment
+with which the other members of the court agreed, referred to dicta in earlier
+decisions of this court, to the effect that it has an inherent power to limit
+the retrospective effect of its decisions. The Convention principle of legal
+certainty suggested that there would be no objection to this on Convention
+grounds. He concluded, however, that the exercise of that power was precluded
+in this context by the statutory regime created by the Scotland Act 1998.
+Furthermore, the relevant Strasbourg authority (<i>Salduz v Turkey </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2008/1542.html">(2009) 49 EHRR 19</a>) had not laid down a new principle: far from making a ruling that
+was not applicable to acts or situations that pre-dated its judgment, it ruled
+that the applicant’s Convention rights were violated in 2001, when the relevant
+events took place.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nevertheless, Lord Hope considered that there were strong grounds for
+ruling, on the basis of the principle of legal certainty, that the decision in <i>Cadder
+</i>did not permit the re-opening of cases which had been finally determined.
+After referring to judgments of the European Court of Human Rights concerned
+with the principle of legal certainty in the application of the Convention, to
+the decision of the Supreme Court of Ireland in <i>A v Governor, Arbour Hill
+Prison </i></a><a title="Link to BAILII version" href="/ie/cases/IESC/2006/S45.html">[2006] IESC 45</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ie/cases/IESC/2006/S45.html">[2006] 4 IR 88</a>, and to that of the Court of Appeal
+in England in <i>R v Budimir </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Crim/2010/1486.html">[2010] EWCA Crim 1486</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Crim/2010/1486.html">[2011] QB 744</a>, Lord
+Hope stated:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In the light of these authorities
+I would hold that convictions that have become final because they were not
+appealed timeously, and appeals that have been finally disposed of by the High
+Court of Justiciary, must be treated as incapable of being brought under review
+on the ground that there was a miscarriage of justice because the accused did
+not have access to a solicitor while he was detained prior to the police
+interview. The Scottish Criminal Cases Review Commission must make up its own
+mind, if it is asked to do so, as to whether it would be in the public interest
+for those cases to be referred to the High Court of Justiciary. It will be for
+the Appeal Court to decide what course it ought to take if a reference were to
+be made to it on those grounds by the commission”. (para 62)</p>
+
+<p class="ParaNoNumber">The reference to the public interest in that passage, and
+in a similar passage in the judgment of Lord Rodger (para 103), should be
+understood as referring to the interests of justice, in accordance with section
+194C(1) of the 1995 Act.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Rodger, in a judgment with which the other members of the court
+also agreed, observed (para 101) that guidance could be derived from the
+judgment of Murray CJ in <i>A v Governor, Arbour Hill Prison </i>at paras
+36-38:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[T]he retrospective effect of a
+judicial decision is excluded from cases already finally determined. This is
+the common law position ... No one has ever suggested that every time there is
+a judicial adjudication clarifying or interpreting the law in a particular
+manner which could have had some bearing on previous and finally decided cases,
+civil or criminal, that such cases be reopened or the decisions set aside. It
+has not been suggested because no legal system comprehends such an absolute or
+complete retroactive effect of judicial decisions. To do so would render a
+legal system uncertain, incoherent and dysfunctional. Such consequences would
+cause widespread injustices.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Rodger considered that Murray CJ’s description of the effect of a
+decision which alters the law as previously understood could be applied to
+Scots law, and that such an approach was also compatible with the Convention:</a></p><a name="para25">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para25">“For instance, in <i>Smith v Lees</i>
+1997 JC 73 the Court of Five Judges overruled <i>Stobo v HM Advocate</i> 1994
+JC 28 and thereby laid down a more restrictive test for corroboration in cases
+of sexual assault. The new test applied to the appellant’s case and to other
+cases that were still live. But it could never have been suggested that the
+decision meant that convictions in completed cases, which had been obtained on
+the basis of the law as laid down in <i>Stobo</i>, were ipso facto undermined
+or invalidated. Similarly, in <i>Thompson v Crowe </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotHC/1999/15.html">2000 JC 173</a>, the Full
+Bench overruled <i>Balloch v HM Advocate</i> 1977 JC 23 and re-established the
+need to use the procedure of a trial within a trial when the admissibility of
+statements by the accused is in issue. But, again, this had no effect on the
+countless completed cases where convictions had been obtained on the basis of
+evidence of such statements by the accused which judges had admitted in
+evidence without going through that procedure. So, here, the court’s decision
+as to the implications of article 6(1) and (3)(c) of the Convention for the use
+of evidence of answers to police questioning has no direct effect on convictions
+in proceedings that have been completed. To hold otherwise would be to create
+uncertainty and, as Murray CJ rightly observes [in <i>A v Governor, Arbour Hill
+Prison A v Governor, Arbour Hill Prison, </i>para 38], cause widespread injustices.
+And the Strasbourg court has pointed out that the principle of legal certainty
+is necessarily inherent in the law of the European Convention (<i>Marckx v
+Belgium</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1979/2.html">(1979) 2 EHRR 330</a>, para 58). In <i>A v Governor, Arbour Hill Prison</i>
+(para 286) Geoghegan J said that he was ‘satisfied ... that it would be wholly
+against good order if convictions and sentences which were deemed to be lawful
+at the time they were decided had to be reopened.’ I emphatically agree. And
+that policy is, of course, embodied in section 124 of the 1995 Act which makes
+interlocutors and sentences pronounced by the Appeal Court ‘final and
+conclusive and not subject to review by any court whatsoever’, except in
+proceedings on a reference by the Scottish Criminal Cases Review Commission.”
+(para 102)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the subsequent cases of <i>Lang and Hastie v United Kingdom </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2012/922.html">(2012) 55 EHRR SE7</a>, in which applications were made to the European Court of Human
+Rights by persons who had been refused extensions of time to appeal on a <i>Cadder
+</i>basis, the court referred approvingly to “the legal certainty the Supreme
+Court properly sought to introduce when it limited the effect of its ruling in <i>Cadder</i>”
+(para 32).</p>
+
+<p class="ParaHeading">The 2010 Act</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A legislative response to <i>Cadder </i>had been prepared in
+anticipation of this court’s decision, and as earlier explained, the 2010 Act
+was immediately enacted. As well as amending the legislation governing the
+rights of persons arrested or detained by the police, so as to provide them
+with a right of access to a solicitor, and making consequential amendments to
+legal aid legislation, it amended the provisions of the 1995 Act relating to
+references by the Commission as explained earlier. As a result, in determining
+whether or not it was in the interests of justice that a reference should be
+made, the Commission was required to have regard to the need for finality and
+certainty in the determination of criminal proceedings. The High Court was also
+given the power to reject references if it considered that it was not in the
+interests of justice that any appeal arising from the reference should proceed;
+and in that regard it also was required to have regard to the need for finality
+and certainty in the determination of criminal proceedings.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the immediate occasion for the enactment of the provisions of
+the 2010 Act concerning references by the Commission was the case of <i>Cadder,</i>
+it is important to appreciate that those provisions have a wider significance.
+They are not confined either to <i>Cadder</i>-type cases or to other cases
+concerned with changes in the law. It is inherent in the role of the Commission
+that it qualifies the principle of finality in criminal proceedings, otherwise
+secured by statutory provisions concerning the time limits for bringing appeals
+and the finality of the disposal of appeals by the High Court. The
+justification for that inroad into finality and legal certainty is the need to
+provide a mechanism for the review of cases where a possible miscarriage of
+justice comes to light after the exhaustion of rights of appeal. This is
+necessary not only in the interests of the potential victim of a miscarriage of
+justice but also in order to maintain public confidence in the administration
+of justice. Certainty and finality nevertheless remain important considerations
+for any system of criminal justice: the re-opening of cases which have been
+completed has significant implications for the victims of crime, and the
+families of deceased victims, as well as for those who have been convicted.
+Public confidence in the administration of justice is also damaged if the
+outcome of completed proceedings appears to be merely provisional. There are in
+addition more pragmatic considerations. In a legal system with limited
+resources, the public interest requires priority generally to be given to
+dealing with current cases.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In order for these considerations to be taken into account, it is necessary
+that the Commission should not merely ask itself whether a miscarriage of
+justice may have occurred, but also whether it is in the interests of justice
+that the case should be referred to the High Court; and that, in deciding the
+latter question, it should have regard to the need for finality and certainty
+in the determination of criminal proceedings.</a></p><a name="para29">
+
+<p class="ParaHeading">The post-Cadder application to the Commission</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 7 May 2010, the day after the refusal of his second appeal, the
+appellant made another application to the Commission, raising matters relating
+to forensic findings. On 29 October 2010 the appellant also sought to have his
+case referred on the basis of the <i>Cadder </i>decision, issued three days
+earlier. The Commission declined to make a reference on the grounds relating to
+forensic findings, saying in a statement of reasons dated 25 February 2011 that
+they did not believe that a miscarriage of justice might have occurred. In
+relation to <i>Cadder</i>,<i> </i>the Commission decided to defer their
+decision until judgment had been given in a number of appeals to this court. No
+issue is taken with that decision in this appeal.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In response to further submissions on behalf of the appellant, relating
+to scientific matters and also making allegations of unfairness and oppression
+at the hearing of the second appeal, the Commission declined to make a
+reference on those grounds in a supplementary statement of reasons dated 30
+September 2011. No issue is taken with that decision in this appeal.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following the giving of judgment by this court in the case of <i>Ambrose
+v Harris </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/43.html">[2011] UKSC 43</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/43.html">2012 SC (UKSC) 53</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/43.html">[2011] 1 WLR 2435</a> and related
+appeals, the Commission addressed the <i>Cadder </i>ground in a statement of
+reasons dated 27 January 2012. They considered that, since the Crown had relied
+upon the appellant’s admission that sexual intercourse had occurred as
+corroboration of the complainer’s evidence in that regard, and no other
+corroborative evidence existed, there might have been a miscarriage of justice.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The remaining question was whether it was in the interests of justice
+that a reference should be made. In that regard, the Commission noted the
+requirement to have regard to the need for finality and certainty in the
+determination of criminal proceedings, in accordance with section 194C(2) of
+the 1995 Act. They noted that the appellant had been convicted in 2002, long
+before the decision in <i>Cadder </i>or the judgments of the European Court of
+Human Rights on which it was based. They noted the history of the previous
+applications and appeals. They stated that they considered the following
+matters to be relevant:</a></p><a name="para33">
+
+<p class="ParaLevel2" style="text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The amount of time that had passed since the conviction.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That the appellant had never disputed that he had sexual intercourse
+with the complainer, and had relied on the interview at his trial in order to
+present his defence of consent.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That, in so far as the Crown had used the interview not only as
+corroboration of sexual intercourse having taken place, but also to undermine
+the appellant’s credibility, no objection had been taken at the trial (whereas
+objection had been taken, successfully, to the admissibility of a further
+interview).</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That no issue had been raised in the two appeals as to the fairness of
+the manner in which the interview was conducted.</p>
+
+<p class="ParaNoNumber">In the light of these considerations, the Commission
+concluded that it was not in the interests of justice to refer the case back to
+the High Court.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the light of further submissions on behalf of the appellant, the
+Commission confirmed their decision in a supplementary statement of reasons
+dated 27 April 2012. The submissions argued that the appellant’s case should be
+regarded as exceptional, particularly because he had been unrepresented at the
+hearing of the second appeal and had lacked the necessary knowledge to raise a <i>Cadder
+</i>point. The Commission accepted, as they had in their earlier statement of
+reasons, that the appellant could not be criticised for raising the point only
+after the decision in <i>Cadder</i>,<i> </i>and considered that the reasons for
+his not having raised the point earlier were not relevant to the question of
+whether it was in the interests of justice to refer his case. In relation to
+that question, the Commission adhered to their earlier reasoning. They
+emphasised in particular the fact that the appellant had at no stage disputed
+the veracity of what he said to the police, together with the fact that he
+relied upon the interview in order to present his defence of consent.</a></p><a name="para34">
+
+<p class="ParaHeading">The proceedings below</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 13 September 2012 the appellant commenced proceedings for judicial
+review of the Commission’s decision not to refer his case back to the High
+Court on the <i>Cadder </i>ground. It was argued that the Commission had erred
+in taking account of the amount of time that had passed since the conviction,
+or had in any event attached undue weight to that consideration. It was also
+argued that the Commission should have given greater weight to the adverse
+impression which might have been created in the minds of the jury by the
+appellant’s attitude towards women, as revealed by the interview: an attitude
+described as one of flippancy, coarseness, indelicacy and selfishness. Finally,
+it was argued that notwithstanding what had been said by this court in <i>Cadder
+</i>about the need for finality in criminal proceedings, the appellant’s case
+should have been treated as exceptional, particularly since he had been
+unrepresented when his appeal was heard, and the <i>Cadder </i>appeal had then
+been pending. In those circumstances, it was argued, the High Court should have
+advised him to seek an adjournment of the hearing of his appeal.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 24 January 2013 the Lord Ordinary refused the application: </a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2013/2013CSOH13.html">[2013] CSOH 13</a>. In a careful judgment, Lord Pentland considered fully the various
+points made on behalf of the appellant, and rejected each of them. His decision
+was upheld by the Extra Division on 6 November 2013: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2013/2013CSIH101.html">[2013] CSIH 101</a>.</p>
+
+<p class="ParaHeading">The present appeal</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issues raised by the appellant in the present appeal are stated to
+be “whether the Commission erred in law in taking into account the following considerations,
+when, had <i>Cadder</i> applied, the interview that provided the corroboration
+of the Crown case would have been inadmissible and the appellant would not have
+been convicted:</a></p><a name="para37">
+
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp; that the appellant had not disputed the truth of
+what he told the police at interview;</p>
+
+<p class="MsoQuote">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the appellant had not challenged the fairness
+of the police interview or its use at his trial in that, before <i>Cadder</i>,
+there was no basis upon which to do so; and</p>
+
+<p class="MsoQuote">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the appellant made use of the interview at
+trial, when this was a course of action decided upon in circumstances forced on
+the appellant, namely that the interview was already before the jury.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the first of these matters, Lord Pentland said:</a></p><a name="para38">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[I]t was clearly relevant for the
+respondents to recognise that the petitioner has never disputed the truth of
+what he told the police in his interview and, in particular, that he has never
+suggested that he did not have sexual intercourse with the complainer. What he
+now seeks to do is to take advantage of a subsequent change in the law
+rendering inadmissible evidence which was not in dispute at the trial,
+videlicet evidence that he admitted having intercourse with the complainer. It
+would, in my opinion, be repugnant to the interests of justice if the
+petitioner were now to be permitted to invoke <i>Cadder</i> for the purpose of
+ruling out uncontested evidence that was essential to the technical sufficiency
+of the Crown case at his trial. To do so would allow the petitioner to
+transform what was a non-issue at the trial into an issue of critical
+importance years later. That would run counter to the principle of finality and
+certainty that is central to the fair working of the criminal justice system.”</p>
+
+<p class="ParaNoNumber">I respectfully agree. The fact that the evidence in
+question was and remains undisputed is plainly relevant to an evaluation of
+whether it is in the interests of justice to make a reference. It would not
+normally be in the interests of justice to quash a conviction merely because,
+under the law as now understood, there was a lack of admissible corroboration
+of a fact which had never been in dispute.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Counsel for the appellant submitted that, if the appellant had been
+offered the opportunity to consult a solicitor, and if (1) he had taken
+advantage of that opportunity, (2) he had been advised on corroboration,
+self-incrimination and his right to remain silent, and (3) he had exercised his
+right to remain silent, then he might not have admitted having sexual
+intercourse, in which event the interview would not have provided the necessary
+corroboration that sexual intercourse had occurred. That also is a relevant
+consideration. So too, for that matter, are factors affecting the likelihood of
+each of those conditions being satisfied: for example, the fact that the
+appellant actually declined to have intimation of his being interviewed given
+to any solicitor (para 7 above), the fact that other potentially corroborative
+evidence was available, in the form of the semen found on vaginal swabs (para 7
+above), and the fact that a person accused of rape might have been advised that
+the only defence, if sexual intercourse could be proved to have taken place,
+was one of consent, and that the credibility of such a defence would be
+enhanced if it were put forward at the earliest opportunity. The fact that it
+was because of the answers given at interview, and the admissibility of those
+answers under the law at that time, that the semen was not subjected to
+examination so as potentially to provide other corroborative evidence, is also
+relevant. The relevance of considerations such as these does not, however, in
+any way detract from the relevance of the fact that the truth of what was said
+at interview about sexual intercourse taking place was and remains undisputed.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the second matter, Lord Pentland said:</a></p><a name="para40">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I also consider that it was
+plainly important for the respondents to acknowledge that in the course of two
+full appeals against his conviction the petitioner never challenged the
+fairness of the manner in which the police conducted the interview. Nor did he
+seek to argue on appeal that the use made of the interview by the Crown at his
+trial was unfair.”</p>
+
+<p class="ParaNoNumber">I again agree. Counsel for the appellant argued that
+there was no basis on which the appellant could have challenged the fairness of
+the interview or its use at his trial, before <i>Cadder. </i>But that misses
+the point. The decision in <i>Cadder </i>established a new basis on which
+evidence of answers to police questioning might be inadmissible, but there were
+already other well-established grounds of objection, including unfairness in
+the conduct of the interview or in the use made of it at the trial. The short
+point being made by the Commission was that, in the appellant’s case, unlike
+some others, the fairness of the conduct of the interview and the use made of
+it at the trial had not been challenged. That was plainly relevant to an
+evaluation of where the interests of justice lay.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third matter was not raised in quite the same way before the courts below,
+but Lord Pentland accepted that the fact that the appellant had chosen to rely
+on his police interview to present his defence to the jury was a relevant
+consideration. Again, I agree. Counsel for the appellant argued that this was a
+course of action decided upon in circumstances forced upon the appellant,
+namely that the interview was already before the jury. That is not a complete
+answer. Given that the appellant’s admission that sexual intercourse had taken
+place was admissible under the law as it then stood, he was entitled to have
+the whole of the interview placed before the jury, as a matter of fairness, so
+that the jury were aware that the admission was made in the context of his also
+maintaining that intercourse had been consensual. The result was that, although
+he was entitled to give evidence in his own defence, he did not have to do so
+in order for his defence to be placed before the jury: they had already heard
+his account to the police. He did not, therefore, have to expose his account to
+cross-examination. That afforded him an opportunity which would not have
+existed if the interview had been inadmissible. In the event, he availed
+himself of that opportunity. That was a matter which could properly be taken
+into account by the Commission when evaluating the course of action which the
+interests of justice required.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Counsel for the appellant also argued that the approach to the
+application of the “interests of justice” test in section 194C of the 2009 Act
+which had been adopted by the Commission in the present case was inconsistent
+with the approach to the application of the corresponding test in section 194DA
+by the High Court in <i>M v HM Advocate; Gallacher v HM Advocate </i></a><a title="Link to BAILII version" href="/scot/cases/ScotHC/2012/2012HCJAC121.html">[2012] HCJAC 121</a>; <a title="Link to BAILII version" href="/scot/cases/ScotHC/2012/2012HCJAC121.html">2012 SCL 1027</a>. It was argued that the case of <i>Chamberlain-Davidson
+v HM Advocate </i><a title="Link to BAILII version" href="/scot/cases/ScotHC/2013/2013HCJAC54.html">[2013] HCJAC 54</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotHC/2013/2013HCJAC54.html">2013 SCCR 295</a> was a good illustration of the
+approach proposed by the appellant.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are a number of difficulties with these arguments. One arises from
+the fact that the High Court has not itself seen its task in applying the
+interests of justice test in section 194DA as identical to that of the
+Commission applying the corresponding test under section 194C. In <i>M v HM
+Advocate; Gallacher v HM Advocate, </i>Lord Justice-General Hamilton,
+delivering the opinion of the court, considered the role of the Commission and
+its relationship with the court, and stated:</a></p><a name="para43">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Although this court has been
+given the power to reject a reference in language that replicates the provision
+applicable to the Commission (section 194DA(1), (2)), it cannot be right for us
+simply to duplicate the Commission’s function and give effect to our own view.
+In light of the impressive record of the Commission, it is unlikely that we
+will have cause to differ from its judgment on this point. I think that we are
+entitled to assume, unless the contrary is apparent, that the Commission has
+considered the criteria set out in section 194C and has duly made its
+independent and informed judgment on them. In my view, we should reject a
+reference only where the Commission has demonstrably failed in its task; for
+example, by failing to apply the statutory test at all; by ignoring relevant
+factors; by considering irrelevant factors; by giving inadequate reasons, or by
+making a decision that is perverse.” (para 33)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the Lord Justice-General pointed out in that passage, the Commission
+makes an independent judgment. It is therefore possible, as was noted in the
+Report of the Carloway Review (2011), that “there may be cases in which the
+SCCRC and the High Court could reach a different decision on where the
+interests of justice may lie” (para 8.2.11).</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A further difficulty with the argument is that the expression “the
+interests of justice”, which appears in both section 194C and section 194DA, is
+not susceptible of a precise legal definition which can be applied mechanically.
+It requires an evaluation of a broad nature, based on an assessment of the
+particular circumstances of individual cases. Thanks to the thoroughness of the
+Commission’s reports and the High Court’s judgments in the present case, this
+court has access to a wealth of information about the facts which led the
+Commission to conclude that a reference was not in the interests of justice.
+Its knowledge of the other cases relied on in argument is derived entirely from
+the judgments of the High Court in those cases, and is more limited. Certain
+points of distinction are however readily apparent.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The cases of <i>M v HM Advocate </i>and<i> Gallacher v HM Advocate, </i>which
+were decided together,<i> </i>raised the question whether the court should
+reject two references under section 194DA. Each reference concerned the
+admission of a police interview prior to <i>Cadder. </i>In the case of <i>M v
+HM</i> <i>Advocate</i> (the subsequent stage of which is reported as <i>RMM v
+HM Advocate </i></a><a title="Link to BAILII version" href="/scot/cases/ScotHC/2012/2012HCJAC157.html">[2012] HCJAC 157</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotHC/2012/2012HCJAC157.html">2013 JC 153</a>), where the appellant had been
+convicted of rape, the statements made during the interview went to the issue
+of consent: in relation to that issue, the appellant gave several potentially
+incriminating answers to questions put to him. At his trial, he did not accept
+the truth of those answers, and gave evidence in his own defence. The interview
+was then used in cross-examination, and in the prosecutor’s speech to the jury,
+to attack his credibility. There was also a lack of clarity in the verdict. The
+appellant was still serving his sentence.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Gallacher v HM Advocate</i>, the appellant made admissions during
+a police interview which could be held to show special knowledge of a series of
+sexual offences. He claimed that the police had bullied him and briefed him as
+to the answers he should give to their questions. That, he maintained, was how
+he came to show special knowledge. The court allowed the references to proceed.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In each of those cases, the circumstances were very different from those
+of the present case. None of the factors referred to in para 37 above appears
+to have been present. Most importantly, the statements in question in those
+cases went to an issue which was in dispute at the trial and remained in
+dispute. Their veracity was not accepted.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The case of <i>Chamberlain-Davidson v HM Advocate </i>was concerned with
+a conviction for attempted rape, where the appellant had told the police at
+interview that he had met the complainer in the street, had said hello, and had
+grabbed her wrists when she started to scream. The latter admission was the
+only corroboration of the complaint of assault. The Commission made a reference
+on grounds concerned with misdirection. They declined to make a reference on a <i>Cadder
+</i>ground, for similar reasons to those given in the present case: the
+appellant had served his sentence; all parties had proceeded in good faith on
+the understanding that the interview had been conducted fairly and that its
+contents were admissible; the appellant had never denied the veracity of the incriminating
+statement he had made; and he had relied on his police interview by way of his
+defence. The court decided not to reject the reference under section 194DA: [2012]
+HCJAC 120. Subsequently, in the exercise of its power under section 194D(4B) of
+the 1995 Act to grant leave for the appellant to found the appeal on additional
+grounds, the court allowed additional grounds of appeal to be received,
+including a ground raising a question as to the retroactive effect of the
+decision in <i>Cadder</i>: [2012] HCJAC 122. In the event, that point was not
+discussed at the hearing of the appeal. The Crown conceded that, if there was
+not a sufficiency of evidence without the police interview, the appeal must
+succeed. It succeeded on that basis. Nothing in that case suggests that the
+Commission erred in taking account of the matters mentioned in para 37 above.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows that the Commission did not err in any of the respects
+complained of, as the courts below correctly held.</a></p><a name="para50">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, I would dismiss the appeal.</a></p><a name="para51">
+
+</a></div><a name="para51">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/20.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

@@ -1,0 +1,756 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>MB v Secretary of State for Work and Pensions [2016] UKSC 53 (5 July 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      MB v Secretary of State for Work and Pensions [2016] UKSC 53 (5 July 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/53.html</i>
+<br>Cite as: 
+[2017] 1 All ER 338,
+
+[2016] UKSC 53,
+
+[2017] 1 CMLR 13
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/53.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/53(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 53</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/1112.html">[2014] EWCA Civ 1112</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">MB (Appellant) <i>v</i> Secretary of State for Work
+and Pensions (Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">10 August 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 5 July 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:96.6pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Lord Pannick QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Kerry Bretherton QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Christopher
+  Stothers</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Arnold &amp; Porter)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jason Coppel QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Ben Lask</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD SUMPTION: (<span style="text-transform:none">with whom
+Lady Hale, Lord Wilson, Lord Toulson and Lord Hodge agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Council Directive 79/7/EEC on the Progressive Implementation of the
+Principle of Equal Treatment for Men and Women in Matters of Social Security is
+concerned with state benefits, including old age and retirement pensions. It
+provides by article 4 that there shall be “no discrimination whatsoever on
+ground of sex either directly, or indirectly by reference in particular to
+marital or family status ...” The material provisions of the Directive have
+direct effect.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 7.1(a) of the Directive provided that it was to be without
+prejudice to the right of member states to exclude from its scope the
+determination of pensionable age for the purpose of granting old age and
+retirement pensions. The United Kingdom has exercised that right. The combined
+effect of (i) the Social Security Contributions and Benefits Act 1992, section
+44, (ii) the definition of “pensionable age” in section 122 of the Act, and
+(iii) the Pensions Act 1995, Schedule 4, paragraph 1, is that a woman born
+before 6 April 1950 becomes eligible for the state retirement pension (referred
+to in the legislation as a “Category A retirement pension”) at the age of 60,
+and a man born before 6 December 1953 becomes eligible at the age of 65. The
+pensionable age of younger persons will converge over a period of time and will
+eventually be the same, but these changes do not affect the present appeal.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the time which is relevant to this appeal, the acquired gender of a
+transsexual person was not recognised for the purpose of determining the
+qualifying age for a state pension, if that person was and remained party to a
+subsisting marriage. The question at issue on this appeal is whether that state
+of affairs was compatible with the Directive.</a></p><a name="para3">
+
+<p class="ParaHeading">The United Kingdom statutory framework</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Until 2005, the law made no provision for gender reassignment in any of
+the three jurisdictions of the United Kingdom. A person was for all legal
+purposes treated as having the gender determined by the application of
+biological criteria at birth without regard to any psychological
+characteristics or later surgical intervention. In <i>Goodwin v United Kingdom</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2002/588.html">(2002) 35 EHRR 18</a>, the European Court of Human Rights held that this was
+incompatible with article 8 of the European Convention on Human Rights and
+that, so far as it prevented a transsexual from contracting a valid marriage
+with a person of the same birth gender, it was also incompatible with article
+12.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In consequence, Parliament enacted the Gender Recognition Act 2004,
+which received royal assent on 1 July 2004 and came into force on 4 April 2005.
+Section 1 of the Act provided that a person could apply to a Gender Recognition
+Panel for a full gender recognition certificate recording a change of his or
+her birth gender “on the basis of … living in the other gender”. The
+applicant’s new gender was referred to as the “acquired gender”.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sections 2 and 3 of the Gender Recognition Act deal with the criteria
+for determining whether a change of gender has occurred. Section 2 provides
+that the Gender Recognition Panel is required to grant the application if the
+applicant has or has had gender dysphoria, has lived in the acquired gender for
+at least two years up to the date of the application, intends to live in the
+acquired gender until death and satisfies the evidential requirements laid down
+by section 3. Section 3 requires the Panel to be furnished with a report from
+two medical practitioners or from a medical practitioner and a psychologist. If
+the Panel concludes having regard to the evidence required by section 3 that
+the criteria in section 2 are satisfied, it must grant the application.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By section 9 of the Act, where a full certificate is issued, the
+acquired gender thereafter becomes the person’s gender for all purposes.
+Schedule 5, paragraph 7 of the Gender Recognition Act deals specifically with
+the effect of a full gender recognition certificate on eligibility for a state
+pension. It provides that once the certificate has been issued, any question of
+entitlement to a state retirement pension is to be decided as if the person’s
+gender has always been the acquired gender. Accordingly, where the person was a
+man immediately before the issue of the certificate but had attained the age at
+which a woman would have attained pensionable age, she is to be treated as
+having attained pensionable age upon the issue of the certificate.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the time that the Gender Recognition Act was passed a valid marriage
+could subsist in law only between a man and a woman. This had always been the
+law, but had been confirmed by the Matrimonial Causes Act 1973, section 11(c).
+For this reason, the 2004 Act made special provision for married applicants,
+whose change of legally recognised gender would otherwise have resulted in
+their being married to a person of the same gender as themselves. This will be
+referred to below as the “marriage condition”. By section 4(2) an unmarried
+applicant who satisfied the criteria for gender recognition in sections 2 and 3
+was entitled to a full gender recognition certificate, whereas by section 4(3)
+a married applicant who satisfied the same criteria was entitled only to an
+interim gender recognition certificate.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Unlike a final gender recognition certificate, an interim gender
+recognition certificate did not itself effect any change in the applicant’s
+legally recognised gender. It merely entitled a married applicant to apply to
+have the marriage annulled by a court. The Matrimonial Causes Act 1973 (as
+amended), section 12(g), provided that upon the issue of an interim gender
+recognition certificate the applicant’s marriage became voidable. By section 13(2A)
+of the same Act, the court was then bound to grant a decree of nullity,
+provided that proceedings to that end were instituted within six months from
+the date of issue of the interim gender recognition certificate, and subject to
+certain other conditions which are irrelevant for present purposes. Only when
+this had been done did the applicant become entitled to a full gender
+recognition certificate. The court granting the decree of nullity was required
+by section 5(1) of the Gender Recognition Act to issue the full certificate.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Shortly after the Gender Recognition Act was passed, Parliament passed
+the Civil Partnership Act 2004, which received royal assent on 18 November 2004
+and came into force on 5 December 2005. The Act provided for the legal recognition
+of same-sex partnerships upon registration. A civil partnership was not a
+marriage but had substantially the same legal consequences as a marriage. Once
+the Civil Partnership Act had come into force, a married person to whom an
+interim gender recognition certificate had been issued could, after obtaining
+the annulment of the marriage, enter into a civil partnership with his or her
+former spouse.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These statutory arrangements were changed by the Marriage (Same Sex
+Couples) Act 2013, which came into full force on 10 December 2014. The Act of
+2013 provided for same sex couples to enter into a marriage. Schedule 5 amended
+section 4 of the Gender Recognition Act 2004 so as to provide that a Gender
+Recognition Panel must issue a full gender recognition certificate to a married
+applicant if the applicant’s spouse consents. The Act of 2013 does not apply
+retrospectively and does not affect the present appeal.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The relevant statutory provisions are attached.</a></p><a name="para12">
+
+<p class="ParaHeading">The situation of MB</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>MB (the initials have been used in these proceedings to protect her
+anonymity) was born on 31 May 1948 and was registered at birth as a man. MB was
+married on 21 September 1974. In 1991 she began to live as a woman and in 1995
+underwent sex reassignment surgery. MB has not applied for a gender recognition
+certificate since the coming into force of the Gender Recognition Act. This is
+because she and her wife continued and still continue to live together and wish
+to remain married. For religious reasons, they are unwilling to see their
+marriage annulled, even if it can be replaced by a civil partnership.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 31 May 2008 MB attained the age of 60. On 28 July 2008, she applied
+for a state retirement pension, backdated to 31 May 2008, on the footing that
+she was a woman. The application was rejected on 2 September 2008 on the ground
+that in the absence of a full gender recognition certificate, she could not be
+treated as a woman for the purpose of determining her pensionable age. That
+decision was subsequently upheld by the First-tier Tribunal (18 November 2009),
+the Upper Tribunal (13 September 2013) and the Court of Appeal (31 July 2014).
+Permission to appeal was granted by the Supreme Court of the United Kingdom on
+11 March 2015.</a></p><a name="para14">
+
+<p class="ParaHeading">The arguments</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principal arguments for MB may be summarised as follows:</a></p><a name="para15">
+
+</a><p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm"><a name="para15">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Justice has already recognised that the prohibition in
+article 4(1) of the Directive of discrimination on grounds of sex extends to
+discrimination between persons of a given birth gender and persons who have
+acquired the same gender by later reassignment: <i>P v S and Cornwall County
+Council</i> (Case C-13/94) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1996/C1394.html">[1996] ECR I-2143</a>, para 20; <i>Richards v Secretary
+of State for Work and Pensions</i> (Case C-423/04) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2006/C42304.html">[2006] ECR I-3585</a>, paras 24,
+29-30.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>MB accepts that in principle it is for member states to determine by
+their domestic law the conditions on which a person’s change of gender may be
+legally recognised: <i>KB v National Health Service Pensions Agency and
+Secretary of State for Health</i> (Case C-117/01) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2004/C11701.html">[2004] ECR I-541</a>, para 35; <i>Richards
+v Secretary of State for Work and Pensions</i> (Case C-423/04) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2006/C42304.html">[2006] ECR I-3585</a>, para 21. But she submits that the power to impose conditions is
+confined to conditions relating to the objective physical or psychological
+characteristics which determine whether an applicant is a man or a woman: see <i>Richards</i>,
+at para 38 (and cf the opinion of Advocate General Jacobs at para 57). It may
+not be used to impose conditions relating to such matters as marital status
+which have nothing to do with the determination of an applicant’s gender.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Since the holder of an interim gender recognition certificate must have
+satisfied the physical and psychological criteria for gender recognition, the
+imposition of a further condition for obtaining a full certificate which applies
+to married applicants only constitutes unlawful discrimination.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Even if it were legitimate to impose the marriage condition for the
+purpose of protecting the status of marriage as a relationship between a man
+and a woman, that could not justify imposing the same condition on eligibility
+for a state retirement pension, to which marital status is likewise irrelevant.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although MB’s primary case is that the Gender Recognition Act directly
+discriminates against her on grounds of sex, she also contends that it
+discriminates indirectly, because the evidence is that the great majority of
+persons who have undergone gender reassignment have been reassigned from male
+to female. For the above reasons, it cannot be justified.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principal arguments for the Secretary of State may be summarised as
+follows:</a></p><a name="para16">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The decision of the Court of Justice in <i>Richards</i> was concerned
+with discrimination arising from the absence at the relevant time of any
+provision in English law for recognising gender reassignment. That lacuna has
+been filled in the United Kingdom since 2005. The decision is of limited
+relevance to the conditions on which gender reassignment may lawfully be
+recognised under a comprehensive legislative scheme for recognition.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the time when <i>Richards</i> was decided, the Court of Justice had
+already recognised in <i>KB</i> that it was for member states to determine
+those conditions, and it reaffirmed that principle in <i>Richards</i> itself:
+see para 15(2) above. A corresponding principle is applied under the European
+Convention on Human Rights: <i>Goodwin v United Kingdom</i>, para 103.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The United Kingdom may properly make the recognition of gender change
+dependent on a process of registration or certification, as the Gender
+Reassignment Act does. Under the Act, a person born a man is not a woman merely
+by virtue of establishing that she has the qualifying social, physical and
+psychological characteristics. A full certificate must have been issued.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is no reason why the conditions for the issue of that certificate
+should be limited to satisfaction of the social, physical and psychological
+criteria of gender. Gender reassignment has significant social implications
+which the law may also regulate. The conditions may therefore properly reflect
+criteria such as the status of marriage, which are legitimate social
+considerations not regulated by EU law. In acknowledging, as para 103 of <i>Goodwin</i>
+does, that it was for national law to determine the conditions for recognising
+gender reassignment, the European Court of Human Rights acknowledged that they
+may include conditions “under which past marriages cease to be valid”. This was
+implicitly accepted by the Court of Justice in <i>Richards</i>, when it adopted
+the principle thus stated at para 21.</p>
+
+</a><p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm"><a name="para16">(5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Since the decision in <i>Goodwin</i>, the European Court of Human Rights
+has upheld the marriage condition as being in itself compatible with the Human
+Rights Convention (<i>Parry v United Kingdom</i> (Application No 42971/05) </a><a title="Link to BAILII version" href="/eu/cases/ECHR/2006/1157.html">[2006] ECHR 1157</a>) as
+well as a similar condition in corresponding legislation in Finland (<i>Hamalainen
+v Finland</i> <a href="http://www.bailii.org/eu/cases/ECHR/2014/787.html"></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2014/787.html">37 BHRC 55</a>). The reason was that, although the Convention
+requires states to recognise the acquired gender of transsexual persons, it
+does not require them to allow marriages between same sex couples. In the
+absence of such a requirement, a state which does not recognise same-sex
+marriages has a legitimate interest in maintaining the traditional concept of
+marriage between a man and a woman. That interest justified the imposition of
+the marriage condition in the Finnish legislation. The proviso could not be
+regarded as disproportionate given that a civil partnership was available to
+same sex couples as an alternative to marriage.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(6)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>No question of indirect discrimination arises. Even on the footing that
+most gender reassignments are male to female, there is no reason to regard it as
+any more difficult for a male to female transsexual to qualify for a full
+gender recognition certificate than it is for a female to male transsexual.</p>
+
+<p class="ParaHeading">The Supreme Court’s conclusion</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Supreme Court is divided on the question, and in the absence of
+Court of Justice authority directly in point considers that it cannot finally
+resolve the appeal without a reference to the Court of Justice.</a></p><a name="para17">
+
+<p class="ParaHeading">The question</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question referred is whether Council Directive 79/7 EEC precludes
+the imposition in national law of a requirement that, in addition to satisfying
+the physical, social and psychological criteria for recognising a change of
+gender, a person who has changed gender must also be unmarried in order to
+qualify for a state retirement pension.</a></p><a name="para18">
+
+</a></div><a name="para18">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/53.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

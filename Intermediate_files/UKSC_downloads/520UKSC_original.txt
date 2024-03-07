@@ -1,0 +1,2317 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Nuclear Decommissioning Authority  v EnergySolutions EU Ltd (now called ATK Energy EU Ltd) (Rev 1) [2017] UKSC 34 (11 April 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-top:16.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Calibri Light",sans-serif;
+	text-transform:uppercase;
+	letter-spacing:.2pt;}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Calibri Light",sans-serif;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	letter-spacing:.2pt;
+	font-weight:normal;}
+h4
+	{mso-style-link:"Heading 4 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	font-weight:normal;
+	font-style:italic;}
+h5
+	{mso-style-link:"Heading 5 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Calibri Light",sans-serif;}
+h6
+	{mso-style-link:"Heading 6 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Calibri Light",sans-serif;
+	font-style:italic;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-link:"Heading 7 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	font-style:italic;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-link:"Heading 8 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-link:"Heading 9 Char";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	font-style:italic;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:105%;
+	font-size:9.0pt;
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Calibri Light",sans-serif;
+	letter-spacing:-.35pt;
+	font-weight:bold;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Calibri Light",sans-serif;
+	letter-spacing:-.35pt;
+	font-weight:bold;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Calibri Light",sans-serif;
+	letter-spacing:-.35pt;
+	font-weight:bold;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Calibri Light",sans-serif;
+	letter-spacing:-.35pt;
+	font-weight:bold;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-link:"Subtitle Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	text-align:center;
+	line-height:105%;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+strong
+	{color:windowtext;}
+em
+	{color:windowtext;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-link:"Intense Quote Char";
+	margin-right:46.8pt;
+	margin-bottom:12.0pt;
+	margin-left:46.8pt;
+	text-align:center;
+	line-height:105%;
+	font-size:13.0pt;
+	font-family:"Calibri Light",sans-serif;}
+span.MsoSubtleEmphasis
+	{color:windowtext;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{color:windowtext;
+	font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleReference
+	{font-variant:small-caps;
+	color:windowtext;
+	text-decoration:underline;}
+span.MsoIntenseReference
+	{font-variant:small-caps;
+	color:windowtext;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoBookTitle
+	{font-variant:small-caps;
+	color:windowtext;
+	font-weight:bold;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{margin-top:16.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:105%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Calibri Light",sans-serif;
+	text-transform:uppercase;
+	letter-spacing:.2pt;
+	font-weight:bold;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Calibri Light",sans-serif;
+	text-transform:uppercase;
+	letter-spacing:.2pt;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Calibri Light",sans-serif;
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Calibri Light",sans-serif;
+	letter-spacing:.2pt;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-link:"Heading 4";
+	font-family:"Calibri Light",sans-serif;
+	font-style:italic;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-link:"Heading 5";
+	font-family:"Calibri Light",sans-serif;
+	font-weight:bold;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-link:"Heading 6";
+	font-family:"Calibri Light",sans-serif;
+	font-weight:bold;
+	font-style:italic;}
+span.Heading7Char
+	{mso-style-name:"Heading 7 Char";
+	mso-style-link:"Heading 7";
+	font-family:"Calibri",sans-serif;
+	font-style:italic;}
+span.Heading8Char
+	{mso-style-name:"Heading 8 Char";
+	mso-style-link:"Heading 8";
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+span.Heading9Char
+	{mso-style-name:"Heading 9 Char";
+	mso-style-link:"Heading 9";
+	font-family:"Calibri",sans-serif;
+	font-style:italic;}
+p.Title10, li.Title10, div.Title10
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	line-height:105%;
+	font-size:13.0pt;
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-link:Title;
+	font-family:"Calibri Light",sans-serif;
+	letter-spacing:-.35pt;
+	font-weight:bold;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-link:Subtitle;
+	font-family:"Calibri Light",sans-serif;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+span.IntenseQuoteChar
+	{mso-style-name:"Intense Quote Char";
+	mso-style-link:"Intense Quote";
+	font-family:"Calibri Light",sans-serif;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";
+	font-family:"Calibri",sans-serif;}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-family:"Calibri",sans-serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Nuclear Decommissioning Authority  v EnergySolutions EU Ltd (now called ATK Energy EU Ltd) (Rev 1) [2017] UKSC 34 (11 April 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/34.html</i>
+<br>Cite as: 
+[2017] 1 WLR 1373,
+
+[2017] WLR 1373,
+
+[2017] WLR(D) 272,
+
+171 Con LR 16,
+
+[2017] 3 CMLR 13,
+
+[2017] BLR 351,
+
+[2017] UKSC 34,
+
+[2017] 4 All ER 1,
+
+[2017] PTSR 539
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/34.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+272">[2017] WLR(D) 272</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+1+WLR+1373">[2017] 1 WLR 1373</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+PTSR+539">[2017] PTSR 539</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/34(image1).pdf">Summary</a></span></p><br>
+
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 34</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1262.html">[2015] EWCA Civ 1262</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin:0cm;margin-bottom:.0001pt"><span style="font-size:20.0pt">Nuclear Decommissioning Authority
+(Appellant) <i>v</i> EnergySolutions EU Ltd (now called ATK Energy EU Ltd)
+(Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">11 April 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 1 and 2 March
+2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:96.6pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Lord Pannick QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Joseph Barrett</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Rupert Paines</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Burges Salmon LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">John Howell QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew Hunter QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Ewan West</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Skadden, Arps, Slate, Meagher &amp; Flom (UK) LLP)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD MANCE: (<span style="text-transform:none">with whom Lord
+Neuberger, Lady Hale, Lord Sumption and Lord Carnwath agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is an appeal on preliminary points of European Union and domestic
+law regarding the circumstances in which damages may be recoverable for failure
+to comply with the requirements of the Public Procurement Directive (Parliament
+and Council Directive 2004/18/EC on the coordination of procedures for the
+award of public works contracts, public supply contracts and public service
+contracts (OJ 2004 L134, p114) (“the PP Directive”)), as given effect in the
+United Kingdom by the Public Contracts Regulations 2006 (SI 2006/5) (“the 2006
+Regulations”).</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As recited in the Statement of Facts and Issues, the appellant, the
+Nuclear Decommissioning Authority (“the NDA”) is a non-departmental public body
+established under the Energy Act 2004 (“the EA 2004”), and is responsible for
+17 nuclear sites and the associated civil nuclear assets and liabilities
+formerly owned by the UK Atomic Energy Authority and British Nuclear Fuels Ltd.
+Pursuant to its duties under the EA 2004, the appellant is responsible for
+ensuring that, once decommissioned, sites previously used for nuclear
+generation are made suitable to be used for other purposes. The respondent, ATK
+Energy EU Ltd (“ATK”), provides integrated waste management and decommissioning
+services for the nuclear industry.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ATK has pursued against the NDA a claim for damages for breaches of the
+NDA’s obligations under the PP Directive and the 2006 Regulations in respect of
+the award of a contract for the decommissioning of 12 Magnox power stations, at
+Berkeley, Bradwell, Chapelcross, Dungeness A, Hinkley Point A, Hunterston A,
+Oldbury, Sizewell A, Trawsfynydd, Wylfa and two others. An agreement of
+compromise has been reached in respect of the claim, but the parties wish this
+judgment to be issued nonetheless. In short, Fraser J held, and it is for the
+purposes of the present appeal to be assumed, that the NDA failed to award the
+contract to the tenderer which submitted the most economically advantageous
+offer determined in accordance with the criteria which the NDA had itself
+specified, in breach of obligations under regulations 18(27) and 30(1) to (4)
+of the 2006 Regulations read against the background of the articles 29.1, 29.7
+and 53 of the PP Directive. The NDA erroneously concluded that a consortium, known
+as CFP, had provided the most economically advantageous offer, awarding it a
+score of 86.48%. It awarded a consortium known as Reactor Site Solutions
+(“RSS”), of which ATK and another company, Bechtel, were members, a score of
+85.42%. Fraser J </a><a title="Link to BAILII version" href="/ew/cases/EWHC/TCC/2016/1988.html">[2016] EWHC 1988 (TCC)</a> found (i) that CFP should have been
+disqualified from the competition for failing two threshold requirements, and
+(ii) that, in any event, RSS would have won the competition had the NDA not
+made “many manifest errors” (para 944) in its assessment of the tenders, but
+for which the NDA would have awarded RSS a score of 91.48% and CFP a score of
+only 85.56%.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The public procurement directives in effect prior to 2004, concerning
+works (Council Directive 71/305/EEC (OJ 1971 L185, p5)) and supplies (Council
+Directive 77/62/EEC (OJ 1977 L13, p1)), contained no enforcement provisions.
+Following the decision of the Court of Justice in <i>Gebroeders Beentjes BV v
+State of the Netherlands</i> (Case C-31/87) [1988] ECR I-4635, paras 38-44,
+that the provisions of these Directives were unconditional and sufficiently
+precise to be relied upon by persons before national courts, a further
+Directive was introduced, Council Directive 89/665/EEC (OJ 1989 L395, p33)
+later amended by Council Directive 2007/66/EC (OJ 2007 L335, p31) (“the 2007
+Directive”), to provide effective remedies for economic operators, including
+the setting aside of awards and compensation. I will refer to Council Directive
+No 89/665/EEC, as so amended, as the Remedies Directive. Domestic effect was
+given to the Remedies Directive by amendment of the 2006 Regulations by the
+Public Contracts (Amendment) Regulations 2009 (SI 2009/2992) (“the 2009
+Amendment Regulations”). The 2006 Regulations have since been superseded by the
+Public Contracts Regulations 2015 (SI 2015/102). Under regulation 118 thereof,
+the 2006 Regulations remain, however, applicable for the purposes of this case.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The scheme of the Remedies Directive, as implemented and as applicable
+on the facts of this case, was, in outline, as follows:</a></p><a name="para5">
+
+<p class="ParaLevel2" style="text-indent:0cm">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under article 2a(2) of the Remedies Directive, a standstill period of at
+least ten days was required, from the date of receipt of a telephone or letter
+communication to an economic operator (such as ATK) that it had not been
+awarded the contract; during the standstill period the relevant contracting
+authority (here the NDA) could not enter into the contract; as implemented
+domestically by regulations 32(1) and 32A(5) of the 2006 Regulations, the
+standstill period was fixed as exactly ten days from the date of such receipt.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under article 2c of the Remedies Directive, the United Kingdom was
+required to allow a period of at least ten days from any such communication for
+the economic operator to issue proceedings seeking a review of the authority’s
+decision; it implemented this requirement under regulation 47D(2) by allowing
+30 days beginning with the date on which the economic operator first knew or
+ought to have known that grounds for starting proceedings had arisen; this was
+coupled with a proviso under regulation 47D(3) that it did not require
+proceedings to be started before the end of a defined period, corresponding
+with that stated in article 2c. (Article 2f in fact required that domestic law
+allow a period of at least 30 days, from publication of a contract award notice
+or information given by the contracting authority about the conclusion of the
+contract, for challenges based on limited grounds of “ineffectiveness”
+identified in article 2d; this may, perhaps, have been an inspiration for the more
+general 30 day period in regulation 47D(2).)</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(c)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under article 2(3) of the Remedies Directive, as implemented by
+regulation 47G, the authority, on becoming aware of the issue of a claim form
+relating to its decision to award the contract to CFP, was required to refrain
+from entering into the contract, if not already entered into, until court order
+or disposal of the proceedings.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, the NDA informed RSS by telephone and letter
+delivered on 31 March 2014 that RSS had been unsuccessful. It also informed all
+bidders that it would voluntarily observe an extended standstill period until
+14 April 2014. RSS wrote letters on 6, 8 and 10 April 2014, by which it
+requested various information and ultimately asked for a further extended
+standstill period until 23 April 2014, saying that it might otherwise be forced
+to issue a claim by 14 April to protect its position. On 11 April 2014, the NDA
+refused to extend the standstill period, and on the same day RSS replied that
+this was “regrettable” and that it was actively considering commencing a claim,
+and urged the NDA not to enter into the contract. On 15 April the NDA repeated
+that it was unable to agree to refrain from taking steps to enter into the
+contract, explaining that delay would cause it to suffer significant additional
+cost. Later that day, the NDA entered into the contract with CFP and informed
+RSS accordingly. On 28 April 2014, and so within the 30 days referred to in
+para 5(b) above, ATK, though not Bechtel, issued the claim form beginning the present
+proceedings.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Preliminary issues ordered by Akenhead J on 10 October 2014 were decided
+by Edwards-Stuart J on 23 January 2015 (</a><a title="Link to BAILII version" href="/ew/cases/EWHC/TCC/2015/73.html">[2015] PTSR 1106</a>), leading to an appeal
+determined by the Court of Appeal (Lord Dyson MR, Tomlinson and Vos LJJ) by
+judgment dated 15 December 2015: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1262.html">[2016] PTSR 689</a>. The shape of the arguments
+has changed, leading to a position where three main issues are now presented in
+the Statement of Facts and Issues as arising on this appeal. Slightly
+reformulated to reflect the submissions before the Supreme Court, they are:</p>
+
+<p class="ParaLevel2">(i)(a)&nbsp;&nbsp; whether the Remedies Directive only requires an
+award of damages to be made when any breach of the PP Directive is
+“sufficiently serious” and (b) whether the answer to this question is acte
+clair, so that it need not be referred to the Court of Justice?</p>
+
+<p class="ParaLevel2">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether regulation 47J(2)(c) of the 2006
+Regulations confers a power to award damages in respect of any loss or damage
+suffered by an economic operator (a) in the case of any breach, or (b) only in
+the case of a “sufficiently serious” breach, of the Regulations?</p>
+
+<p class="ParaLevel2">(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether (and, if so, when) an award of damages
+under regulation 47J(2)(c) of the 2006 Regulations may be refused on the ground
+that an economic operator, who issued a claim form in respect of a contract
+award decision within the 30 day time limit prescribed by regulation 47D of the
+2006 Regulations, did not do so and inform the contracting authority that it
+had done so before the contracting authority entered into the contract?</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><span lang="ES"><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para8">Before Edwards-Stuart J issue (i) only appears to have arisen
+tangentially to an argument, which no longer directly arises, that damages were
+discretionary. So far as he addressed it, his answer appears to have been
+negative (para 86). Issue (ii), he answered: (a) Yes; (b) No (para 71). Issue
+(iii), he held, involved a question of fact, not suitable for resolution as a
+preliminary issue in this case, though his views were generally discouraging of
+the idea that damages would be refused on any such basis (paras 42-54). In the
+Court of Appeal, Vos LJ, in a judgment with which the other members concurred,
+determined these issues to the following effect: (i)(a) Yes. <span lang="ES">(b)
+Yes (para 55). (ii)(a) Yes. (b) No (paras 66-70). (iii) No (paras 71-77).</span></a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the first issue, Vos LJ, after analysing Court of Justice
+case law, concluded (paras 62-65) that breaches of the PP Directive must, in
+the light of the Remedies Directive, be actionable under the following three
+minimum conditions (the “<i>Francovich</i>” conditions): (1) the rule of law
+infringed must be intended to confer rights on individuals, (2) the breach must
+be sufficiently serious, and (3) there must be a direct causal link between the
+breach of the obligation and the damage sustained by the injured party.
+National law must also respect the principle of equivalence of EU with domestic
+rights (para 62). For present purposes, it is <i>Francovich </i>condition (2)
+which matters. As to the second issue, Vos LJ held, and this is not
+contentious, that it is open to national law to lay down “criteria that provide
+a less restrictive remedy in damages than would be provided by the <i>Francovich</i>
+conditions” (para 66). He went on to hold (and this is contentious) that the
+2006 Regulations had this effect; whether ATK’s claim was viewed as being for
+breach of directly enforceable EU law or for breach of domestic law enacted to
+give effect to the EU obligation contained in the Remedies Directive, it
+constituted a private law claim for breach of statutory duty, which, under
+English law, was not subject to any restrictive condition limiting its
+availability to cases of “sufficiently serious” breach (paras 66-67). As to the
+third issue, Vos LJ held that this involved an issue of “determination or
+estimation” of damages, which was for domestic law to determine (paras 55 and
+71). He went on to hold that there was nothing in the 2006 Regulations or in
+general domestic law to oblige an economic operator to issue its claim form
+before the contracting authority entered into the contract, or to deprive it of
+a claim to damages on the ground that it had failed to invoke any other remedy
+(paras 72-76). The NDA now appeals by permission of the Supreme Court.</a></p><a name="para9">
+
+<p class="ParaHeading">Issue (i) - Francovich condition (2) in EU law</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Articles 1 to 3 of the Remedies Directive read:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1(1). … Member states shall take the measures necessary to ensure that, as regards contracts falling within the scope of Directive 2004/18/EC, decisions taken by the contracting authorities may be reviewed effectively and, in particular, as rapidly as possible in accordance with the conditions set out in articles 2 to 2f of this Directive on the grounds that such decisions have infringed Community law in the field of public procurement or national rules transposing that law.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2(1) Member states shall ensure that the measures taken concerning the review procedures specified in Article 1 include provision for powers to:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; take, at the earliest
+opportunity and by way of interlocutory procedures, interim measures with the
+aim of correcting the alleged infringement or preventing further damage to the
+interests concerned, including measures to suspend or to ensure the suspension
+of the procedure for the award of a public contract or the implementation of
+any decision taken by the contracting authority;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; either set aside or
+ensure the setting aside of decisions taken unlawfully, including the removal
+of discriminatory technical, economic or financial specifications in the
+invitation to tender, the contract documents or in any other document relating
+to the contract award procedure;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; award damages to
+persons harmed by an infringement.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; … except where a
+decision must be set aside prior to the award of damages, a member state may
+provide that, after the conclusion of a contract …, the powers of the body
+responsible for review procedures shall be limited to awarding damages to any
+person harmed by an infringement.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3(1)&nbsp;&nbsp;&nbsp;&nbsp; The Commission may invoke
+the procedure provided for in paras 2 to 5 when, prior to a contract being
+concluded, it considers that a serious infringement of Community law in the
+field of public procurement has been committed during a contract award
+procedure falling within the scope of Directive 2004/18/EC.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Francovich</i> conditions derive from the Court of Justice’s
+decisions in <i>Francovich v Italian Republic</i> (Joined Cases C-6/90 and
+C-9/90) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1991/C690.html">[1995] ICR 722</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1991/C690.html">[1991] ECR I-5357</a> and <i>Brasserie du Pêcheur SA v Federal
+Republic of Germany, R v Secretary of State for Transport, Ex p Factortame Ltd
+(No 4)</i> (Joined Cases C-46/93 and C-48/93) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1996/C4693.html">[1996] QB 404</a> (“<i>Brasserie du
+Pêcheur</i>”). These were decisions on state liability, in <i>Francovich</i>
+itself for failure to transpose a directive and in <i>Brasserie du Pêcheur</i>
+for domestic laws which violated European law. In the latter case, the Court of
+Justice set out the three <i>Francovich</i> conditions at para 51, remarking in
+this respect that “Community law confers a right to reparation where three
+conditions are met”, and went on:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“55.&nbsp;&nbsp;&nbsp;&nbsp; As to the second
+condition, as regards both Community liability under article 215 and member
+state liability for breaches of Community law, the decisive test for finding
+that a breach of Community law is sufficiently serious is whether the member
+state or the Community institution concerned manifestly and gravely disregarded
+the limits on its discretion.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">56.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The factors which the
+competent court may take into consideration include the clarity and precision
+of the rule breached; the measure of discretion left by that rule to the
+national or Community authorities; whether the infringement and the damage
+caused was intentional or involuntary; whether any error of law was excusable
+or inexcusable; the fact that the position taken by a Community institution may
+have contributed towards the omission, and the adoption or retention of
+national measures or practices contrary to Community law.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">57.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On any view, a breach of
+Community law will clearly be sufficiently serious if it has persisted despite
+a judgment finding the infringement in question to be established, or a
+preliminary ruling or settled case law of the court on the matter from which it
+is clear that the conduct in question constituted an infringement. …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">66.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The aforementioned three
+conditions are necessary and sufficient to found a right in individuals to
+obtain redress, although this does not mean that the state cannot incur
+liability under less strict conditions on the basis of national law.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Brasserie du Pêcheur</i> one issue before the Court of Justice was
+whether a national court was entitled to make reparation conditional on the
+existence of fault, whether intentional or negligent. Referring to the second <i>Francovich
+</i>condition, the Court said:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“78.&nbsp;&nbsp;&nbsp;&nbsp; So, certain objective and
+subjective factors connected with the concept of fault under a national legal
+system may well be relevant for the purpose of determining whether or not a
+given breach of Community law is serious: see the factors mentioned in paras 56
+and 57 above.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">79.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The obligation to make reparation
+for loss or damage caused to individuals cannot, however, depend on a condition
+based on any concept of fault going beyond that of a sufficiently serious
+breach of Community law. …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">80.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accordingly, …
+reparation of loss or damage cannot be made conditional on fault (intentional
+or negligent) on the part of the organ of the state responsible for the breach,
+going beyond that of a sufficiently serious breach of Community law.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The three <i>Francovich </i>conditions were in <i>Köbler v Republik
+Österreich </i>(Case C-224/01) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2003/C22401.html">[2004] QB 848</a>, para 51, deployed in the context
+of state liability for failure by a final state court to apply European Union
+law, with the gloss (para 53) that, having regard to the specific nature of the
+judicial function and the legitimate requirements of legal certainty, the
+second condition could only be met “in the exceptional case where the court has
+manifestly infringed the applicable law”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question on this appeal is whether, as the Court of Appeal
+considered, the three <i>Francovich </i>conditions apply to a claim against a
+contracting authority under the PP and Remedies Directives (and whether the
+answer to this question is acte clair). In submitting that the Court of Appeal
+was wrong, ATK makes a number of points. It points to the purposes of the
+Remedies Directive generally, and to the terms of articles 1(1) and 2(1) in
+particular, as showing an intention to address and provide a remedy in damages
+for harm caused by infringements generally. It points to the wording of article
+3 as indicating that, where there is an intention to limit provisions of the
+Directive to cases of serious infringement, the intention is made express. It
+points to the fact that, if the <i>Francovich </i>conditions apply, then no
+remedy at all would potentially be available in cases falling within the last words
+of article 2(7).</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ATK also submits that the Court of Appeal’s approach is inconsistent
+with the European Union’s international obligations under the Government
+Procurement Agreement (“GPA 1994”), a plurilateral agreement contained in Annex
+4 to the Agreement in 1994 establishing the World Trade Organisation and
+approved on behalf of the Union by article 2 of Council Decision 94/800/EC (OJ
+1994 L336, p144). Article XX(2) of the GPA 1994 provided for each party to
+provide “effective procedures enabling suppliers to challenge alleged breaches
+of the Agreement arising in the context of procurements in which they have, or
+have had, an interest”, while article XX(7) provided that:</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Challenge procedures shall
+provide for:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rapid interim measures
+to correct breaches of the Agreement ...;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an assessment and a
+possibility for a decision on the justification of the challenge;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; correction of the
+breach of the Agreement or compensation for the loss or damages suffered, which
+may be limited to costs for tender preparation or protest.”</p>
+
+<p class="ParaNoNumber">A similar provision appears in the more recent revised
+GPA to which the EU became party on 6 April 2014: Council Decision 2014/115/EU
+(OJ 2014 L68, p1). ATK submits that article XX(7) contemplates that damages
+must always be recoverable for a breach (and cannot be restricted to cases of
+serious breach), even if they may be limited to costs for tender preparation or
+protest. It points to the principle, endorsed in <i>Řízení Letového
+Provozu ČR, sp v Bundesamt für Finanzen </i>(Case C-335/05) [2007] STC
+1509, para 16, and <i>Association Justice &amp; Environment zs v Commission of
+the European Communities </i>(Case T-727/15) 23 January 2017, para 77, that
+secondary EU legislation should, so far as possible, be interpreted
+consistently with international agreements concluded by the European Union.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, but most importantly, ATK submits that Court of Justice case
+law supports its position. The debate in this area turns on two principal
+authorities: <i>Stadt Graz v Strabag AG </i>(Case C-314/09) [2010] ECR I-8769
+(decided 30 September 2010 by the Third Chamber, without an Advocate General’s
+opinion) and <i>Combinatie Spijker Infrabouw-De Jonge Konstruktie v Provincie
+Drenthe</i> (Case C-568/08) [2010] ECR I-12655 (Advocate General’s opinion
+delivered 14 September 2010; Judgment of the Second Chamber 9 December 2010).</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Stadt Graz</i> the basic question referred was whether the
+Remedies Directive precluded national legislation which made the right to
+damages for an infringement of public procurement law by a contracting
+authority conditional upon the infringement being culpable. The legislation in
+question included a presumption that the contracting authority was at fault,
+and a provision that the authority could not rely on a “lack of individual
+abilities”. The court, in holding that such legislation was impermissible, said
+this:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“33.&nbsp;&nbsp;&nbsp;&nbsp; … Directive 89/665 lays
+down only the minimum conditions to be satisfied by the review procedures
+established in domestic law to ensure compliance with the requirements of EU
+law concerning public procurement … If there is no specific provision governing
+the matter, it is therefore for the domestic law of each member state to
+determine the measures necessary to ensure that the review procedures
+effectively award damages to persons harmed by an infringement of the law on
+public contracts …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">34.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Although, therefore, the
+implementation of article 2(1)(c) of Directive 89/665 in principle comes under
+the procedural autonomy of the member states, limited by the principles of
+equivalence and effectiveness, it is necessary to examine whether that
+provision, interpreted in the light of the general context and aim of the
+judicial remedy of damages, precludes a national provision such as that at
+issue in the main proceedings from making the award of damages conditional, in
+the circumstances …, on a finding that the contracting authority’s infringement
+of the law on public contracts is culpable.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In that regard, it
+should first be noted that the wording of article 1(1), article 2(1), (5) and
+(6), and the sixth recital in the preamble to Directive 89/665 in no way
+indicates that the infringement of the public procurement legislation liable to
+give rise to a right to damages in favour of the person harmed should have
+specific features, such as being connected to fault - proved or presumed - on
+the part of the contracting authority, or not being covered by any ground for
+exemption from liability.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">36.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That assessment is
+supported by the general context and aim of the judicial remedy of damages, as
+provided for in Directive 89/665</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">37.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to settled
+case law, while the member states are required to provide legal remedies
+enabling the annulment of a decision of a contracting authority which infringes
+the law relating to public contracts, they are entitled in the light of the
+objective of rapidity pursued by Directive 89/665 to couple that type of review
+with reasonable limitation periods for bringing proceedings, so as to prevent
+the candidates and tenderers from being able, at any moment, to invoke
+infringements of that legislation, thus obliging the contracting authority to
+restart the entire procedure in order to correct such infringements …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">38.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, the second
+subparagraph of article 2(6) of Directive 89/665 reserves to the member states
+the right to limit the powers of the body responsible for the review
+procedures, after the conclusion of a contract following its award, to the
+award of damages.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">39.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Against that background,
+the remedy of damages provided for in article 2(1)(c) of Directive 89/665 can
+constitute, where appropriate, a procedural alternative which is compatible
+with the principle of effectiveness underlying the objective pursued by that
+directive of ensuring effective review procedures … only where the possibility
+of damages being awarded in the event of infringement of the public procurement
+rules is no more dependent than the other legal remedies provided for in article
+2(1) of Directive 89/665 on a finding that the contracting authority is at
+fault.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ... it makes little
+difference in that regard that, by contrast with the national legislation
+referred to in <i>Commission of the European Communities v Portugal </i>(Case
+C-275/03), the legislation at issue in the main proceedings does not impose on
+the person harmed the burden of proving that the contracting authority is at
+fault, but requires the latter to rebut the presumption that it is at fault,
+while limiting the grounds on which it can rely for that purpose.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reason is that that
+legislation, too, creates the risk that the tenderer who has been harmed by an
+unlawful decision of a contracting authority is nevertheless deprived of the
+right to damages in respect of the damage caused by that decision, where the
+contracting authority is able to rebut the presumption that it is at fault. …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the very least, that
+tenderer runs the risk, under that legislation, of only belatedly being able to
+obtain damages, in view of the possible duration of civil proceedings seeking a
+finding that the alleged infringement is culpable.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ATK submits that, although the immediate focus of <i>Stadt Graz </i>was
+on the impermissibility of any limitation of liability by reference to a
+requirement of fault, its whole tenor was that the Remedies Directive
+contemplates a general right to damages for any infringement of the public
+procurement legislation, neither subject, nor capable of being made subject, to
+any specific features. A requirement that the breach should be “sufficiently
+serious” would, it submits, be an example of a special feature.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Spijker </i>concerned a situation not dissimilar to the present. The
+claimant’s tender had come second in circumstances which the claimant (“<i>Combinatie</i>”)
+alleged breached the PP Directive. The defendant Provincie, following an
+interim administrative court order that the contract should be awarded to
+no-one else but Machinefabriek Emmen BV (“MFE”), awarded it to MFE. The
+claimant sued the Provincie for damages in the civil courts. One issue which
+the civil court, the Rechtbank Assen, identified was whether any unlawful act
+fell to be attributed to the Provincie. The court, taking the view that the
+Provincie might have acted unlawfully, asked the Court of Justice by questions
+4(c) and (d):</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(c)&nbsp;&nbsp;&nbsp;&nbsp; If [the] authority is
+required to pay damages, does Community law set criteria for determining and
+estimating those damages, and if so, what are they?</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the contracting public
+authority cannot be deemed liable, is it possible, under Community law, for
+some other person to be shown to be liable, and on what basis?”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Advocate General Cruz Villalón said (para 5), in connection with
+question 4(c) that:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“the present case offers the
+opportunity to clarify certain points of Directive 89/665 which are of great
+significance for the purpose of upholding the legality which European Union law
+requires in the context of public procurement.”</p>
+
+<p class="ParaNoNumber">In the course of his opinion, he said (para 77) that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In my view, it is solely for the
+Rechtbank to assess<sup>(40)</sup> points such as whether there was any
+liability and whether, where appropriate, it must be attributed to the
+Provincie, to the State - on account of the actions of the judge dealing with
+interim relief proceedings - or to any other person taking into consideration
+the evidence which has been shown to be relevant: the fact that the Provincie
+did not wait before making the award or appeal against the interim measures;
+the possible alternatives (if any) to making the award to MFE; the
+circumstances surrounding the provisional enforcement of the order of the judge
+dealing with interim relief proceedings, and the Combinatie’s voluntary
+withdrawal of the appeal lodged against that order.”</p>
+
+<p class="ParaNoNumber">Footnote 40 to this passage read:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“40.&nbsp;&nbsp;&nbsp;&nbsp; In order to do so, it
+must take into account all the factors which characterise the situation which
+has been brought before it, ‘in particular, the degree of clarity and precision
+of the rule infringed, whether the infringement was intentional, whether the
+error of law was excusable or inexcusable, the position taken, where
+applicable, by a Community institution and non-compliance by the court in
+question with its obligation to make a reference for a preliminary ruling under
+… article [267 TFEU]’ (Case C<span style="font-family:&quot;MS Mincho&quot;">-</span>224/01
+<i>Köbler</i> [2003] ECR I<span style="font-family:&quot;MS Mincho&quot;">‑</span>10239,
+para 55), a sufficiently serious infringement of European Union law occurring
+‘where the decision concerned was made in manifest breach of the case law of
+the court in the matter’.” (Joined Cases C<span style="font-family:&quot;MS Mincho&quot;">‑</span>46/93
+and C<span style="font-family:&quot;MS Mincho&quot;">‑</span>48/93 <i>Brasserie du
+pêcheur and Factortame</i> [1996] ECR I<span style="font-family:&quot;MS Mincho&quot;">‑</span>1029,
+para 57, and <i>Köbler</i>, para 56.)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court addressed question 4(c) as follows:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“85.&nbsp;&nbsp;&nbsp;&nbsp; By its fourth question,
+part (c), the referring court asks, in essence, whether, if the awarding
+authority has to make good the damage arising from an infringement of EU law on
+the award of public contracts, EU law provides criteria on the basis of which
+the damage may be determined and estimated and, if so, what those criteria are.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">86.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Article 2(1)(c) of [the
+Remedies Directive] clearly indicates that member states must make provision
+for the possibility of awarding damages in the case of infringement of EU law
+on the award of public contracts, but contains no detailed statement either as
+to the conditions under which an awarding authority may be held liable or as to
+the determination of the amount of the damages which it may be ordered to pay.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">87.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That provision gives
+concrete expression to the principle of State liability for loss and damage
+caused to individuals as a result of breaches of EU law for which the State can
+be held responsible. According to case law developed since the adoption of the
+[Remedies Directive], but which is now consistent, that principle is inherent
+in the legal order of the Union. The Court has held that individuals harmed
+have a right to reparation where three conditions are met: the rule of EU law
+infringed must be intended to confer rights on them; the breach of that rule
+must be sufficiently serious; and there must be a direct causal link between
+the breach and the loss or damage sustained by the individuals ([the <i>Francovich</i>
+case] para 35, the <i>Brasserie du Pêcheur </i>case] paras 31 and 51; and [the <i>Danske
+Slagterier </i>case] paras 19 and 20).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">88.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As matters stand at
+present, the case law of the Court of Justice has not yet set out, as regards
+review of the award of public contracts, more detailed criteria on the basis of
+which damage must be determined and estimated.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">89.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As regards EU
+legislation, it should be noted that Directive 89/665 has been largely amended
+by Directive 2007/66/EC of the European Parliament and of the Council of 11
+December 2007 amending Council Directives 89/665/EEC and 92/13/EEC (OJ 2007 L
+335, p 31), adopted after the date of the facts which gave rise to the dispute
+in the main proceedings. However, on that occasion, the EU legislature
+refrained from adopting any provisions on that point.</p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para21">90.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the absence of EU
+provisions in that area, it is for the legal order of each member state to
+determine the criteria on the basis of which damage arising from an
+infringement of EU law on the award of public contracts must be determined and
+estimated (see, by analogy, Case C-315/01 <i>GAT</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2003/C31501.html">[2003] ECR I-6351</a>, para
+46; and Case C-314/09 [the <i>Stadt Graz</i> case [2010] ECR I-8769], para 33)
+provided the principles of equivalence and effectiveness are complied with
+(see, to that effect, Joined Cases C-295/04 to C-298/04 <i>Manfredi and others</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2006/C29504.html">[2006] ECR I-6619</a>, para 98).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">91.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is apparent from well-established
+case law that the detailed procedural rules governing actions for safeguarding
+an individual’s rights under EU law must be no less favourable than those
+governing similar domestic actions (principle of equivalence) and must not
+render practically impossible or excessively difficult the exercise of rights
+conferred by EU law (principle of effectiveness) ...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">92.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Therefore, the answer to
+the fourth question, part (c) is that, as regards state liability for damage
+caused to individuals by infringements of EU law for which the state may be
+held responsible, the individuals harmed have a right to redress where the rule
+of EU law which has been infringed is intended to confer rights on them, the
+breach of that rule is sufficiently serious, and there is a direct causal link
+between the breach and the loss or damage sustained by the individuals. In the
+absence of any provision of EU law in that area, it is for the internal legal
+order of each member state, once those conditions have been complied with, to
+determine the criteria on the basis of which the damage arising from an
+infringement of EU law on the award of public contracts must be determined and
+estimated, provided the principles of equivalence and effectiveness are
+complied with.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">93.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In view of that answer,
+there is no need to reply to part (d) of the fourth question.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ATK argues that, in the light of para 93, these paragraphs must be taken
+to contain answers to both questions 4(c) and (d), that paras 89 and 90
+indicate that no EU law conditions attach to liability of a contracting
+authority of the sort covered by question 4(c), whereas para 92 (and presumably
+para 87 on which para 92 is evidently based), which refer to the <i>Francovich</i>
+conditions, cover question 4(d) and are confined to the liability of the state
+and those for whom the state may be liable who are not contracting authorities.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am unable to accept this interpretation of the Court of Justice’s
+judgment. It converts an apparently clear exposition of the position regarding
+question 4(c) into an incoherent mixture of two differing schemes between which
+the text, on ATK’s interpretation, jumps back and forwards. In my view, the
+text is clear. Paras 85 and 86 set the scene, viz that what is about to be
+discussed is the liability of an “awarding authority” for damage arising from
+an infringement of the PP Directive, and para 87 proceeds by making clear that
+the liability of an awarding authority is to be assessed by reference to the <i>Francovich
+</i>conditions. Subject to those conditions being met, paras 88 to 90 go on to
+make clear that the criteria for damages are to be determined and estimated by
+national law, with the further caveat that the general principles of
+equivalence and effectiveness must also be met (para 91). Finally, para 92
+summarises what has gone before, repeating the need to satisfy the <i>Francovich
+</i>conditions. This is also exactly what the Advocate General had indicated in
+footnote 40 of his opinion. As to para 93, the inference is that the Court
+considered that the same principles must govern any claim against the State
+itself or a body for which the State is answerable (such as perhaps the
+administrative court which issued the interim order in <i>Spijker</i>). That is
+of course logical.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Justice in <i>Spijker </i>was aware of the recent decision
+in <i>Stadt Graz</i>, cited it in para 90, and clearly did not consider it in
+any way inconsistent with what the Court of Justice said about the general
+applicability of the <i>Francovich </i>conditions. Nor was it inconsistent.
+Whether an error is excusable or inexcusable is a matter that a court may take
+into account when considering whether a breach is sufficiently serious to
+justify an award of damages under the second condition: see <i>Brasserie du
+Pêcheur</i>, para 57, quoted in para 11 above. But the introduction of a fixed
+requirement of fault as a condition of State liability, on whichever party the
+burden of proving or disproving fault is placed, is well-established as
+illegitimate on a line of authority which goes back to <i>Brasserie du Pêcheur</i>
+itself (see para 12 above), and to <i>Commission of the European Communities v
+Portugal</i> (Case C-275/03) EU:C:2004:632 and which was merely reflected in
+the decision in <i>Stadt Graz</i>. The clarity of EU law in this respect was,
+no doubt, why the decision was taken that no Advocate General’s opinion was
+required in <i>Stadt Graz</i>.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In these circumstances, there is in my view very clear authority of the
+Court of Justice confirming that the liability of a contracting authority under
+the Remedies Directive for breach of the PP Directive is assimilated to that of
+the state or of a public body for which the state is responsible. It is in
+particular only required to exist where the minimum <i>Francovich </i>conditions
+are met, although it is open to States in their domestic law to introduce wider
+liability free of those conditions. In the light of <i>Spijker</i>, ATK’s
+submissions based on the general wording of articles 1 and 2 of the Remedies
+Directive cannot lead to a contrary conclusion. Article 3 is dealing with a
+different subject matter, which, even by way of contrast, could not throw much
+light on the scope of articles 1 and 2, and certainly cannot in the light of <i>Spijker</i>.
+Nor is ATK’s argument by reference to the EU’s international obligations under
+the GPA 1994 capable of leading to a contrary decision on any points. Any
+impetus which article XX(7) can give to ATK’s argument is very weak at best.
+That article requires no more than either correction of the breach or
+compensation, and the compensation required may fall far short of covering the
+actual loss or damage suffered (since it “may be limited to costs for tender
+preparation or protest”). There is, apparently, no WTO authority on the
+interpretation of article XX(7) (or as to whether it might not itself be read
+subject to a condition such as the second <i>Francovich</i> condition). The
+argument based on GPA 1994 cannot in any event withstand the clear impact of
+the Court’s judgment in <i>Spijker</i>.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, the Supreme Court, during the course of submissions, asked
+about academic authority, and was shown a further article additional to any in
+the agreed bundles. That was Professor Steen Treumer’s article <i>Basis and
+Conditions for a Damages Claim for Breach of the EU Public Procurement Rules </i>in<i>
+</i>Fairgrieve and Lichère,<i> Public Procurement Law</i> (2011). Professor
+Treumer wrote then of a lack of clarity in cases such as <i>Commission v
+Portugal</i>, of confusion arising from, and fundamentally different approaches
+taken in, the cases of <i>Stadt Graz </i>and <i>Spijker</i> and of differing
+approaches taken in national law, presumably before those cases. For the
+reasons I have already given, I do not see any such lack of clarity or
+confusion. Further, the Supreme Court was shown in the agreed bundles a more
+recent article, by a serving judge of the General Court, Judge Anthony M
+Collins, <i>Damages in Public Procurement - An Illusory Remedy?</i> in Chapter
+21 (p 339) in <i>Of Courts and Constitutions - Liber Amicorum in honour of Nial
+Fennelly </i>(ed Bradley, Travers and Whelan) (2014). Setting out the criteria
+for the recovery of damages for breaches of the procurement rules, Judge
+Collins explains <i>Spijker </i>precisely in the sense which I consider that it
+obviously bears. It harmonises liability for such breaches “irrespective of the
+identity of the author of the alleged illegality”, with the minimum <i>Francovich
+</i>conditions applying to all such breaches (p 340), and with the result (p
+341) that:</a></p><a name="para26">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the requirements that the rule
+breached must be intended to confer rights on individuals and that the breach
+of such a rule must be ‘<i>sufficiently </i>serious’, means that not every
+legal error in the course of an award procedure can ground an action in damages.”</p>
+
+<p class="ParaNoNumber">This article reinforces my view that there is no
+uncertainty or confusion in the Court of Justice’s case law, and that the
+Supreme Court can be safe in relying on the clear language and ruling in <i>Spijker</i>
+as settling the position, whatever may have been previous doubts or differences
+of view at national level.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, I consider that the Court of Appeal answered the
+first question correctly, and in a manner which does not call for any reference
+by the Supreme Court, as the final court of appeal, to the Court of Justice.</a></p><a name="para27">
+
+<p class="ParaHeading">Issue (ii) - Francovich condition (ii) at domestic law
+level</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is a domestic law issue. The question is whether the UK legislator
+has, by the 2006 Regulations, gone further than European law requires, by
+making any contracting authority breaching the Regulations liable for any
+damages thereby caused, irrespective of whether the breach would under the
+second <i>Francovich</i> principle be sufficiently serious to require domestic
+law to make available a remedy in damages.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The relevant Regulations read as follows:</a></p><a name="para29">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“32.- Information about contract
+award procedures</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">[Award decision notice]</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to paragraph
+(13), a contracting authority shall, as soon as possible after the decision has
+been made, inform the tenderers and candidates of its decision to -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; award the contract; or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; conclude the framework
+agreement,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">and shall do so by notice in
+writing by the most rapid means of communication practicable.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where it is to be sent
+to a tenderer, the notice referred to in paragraph (1) shall include -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the criteria for the
+award of the contract;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the reasons for the
+decision, including the characteristics and relative advantages of the
+successful tender, the score (if any) obtained by -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the economic operator
+which is to receive the notice; and</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the economic operator</p>
+
+<p class="MsoQuote" style="margin-left:180.0pt">(aa)&nbsp;&nbsp;&nbsp;&nbsp; to be awarded the
+contract; or</p>
+
+<p class="MsoQuote" style="margin-left:180.0pt">(bb)&nbsp;&nbsp;&nbsp;&nbsp; to become party to the
+framework agreement,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">and anything required by paragraph
+(10);</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the name of the
+economic operator -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to be awarded the
+contract; or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to become a party to
+the framework agreement; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a precise statement of
+either -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; when, in accordance
+with regulation 32A, the standstill period is expected to end and, if relevant,
+how the timing of its ending might be affected by any and, if so what,
+contingencies; or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the date before which
+the contracting authority will not, in conformity with regulation 32A, enter
+into the contract or conclude the framework agreement.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2A)&nbsp;&nbsp;&nbsp; Where it is to be sent to
+a candidate, the notice referred to in paragraph (1) shall include -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the reasons why the
+candidate was unsuccessful; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the information
+mentioned in paragraph (2), but as if the words “and relative advantages” were
+omitted from sub-paragraph (b).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">47A.&nbsp;&nbsp;&nbsp; Duty owed to economic
+operators</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This regulation applies
+to the obligation on -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a contracting authority
+to comply with -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the provisions of
+these Regulations, other than regulations 14(2), 30(9), 32(14),40 and 41(1);
+and</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any enforceable [EU]
+obligation in respect of a contract or design contest (other than one excluded
+from the application of these Regulations by regulation 6, 8 or 33); and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a concessionaire to
+comply with the provisions of regulation 37(3).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">47C.&nbsp;&nbsp;&nbsp; Enforcement of duties
+through the Court</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A breach of the duty owed
+in accordance with regulation 47A or 47B is actionable by any economic operator
+which, in consequence, suffers, or risks suffering, loss or damage.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proceedings for that
+purpose must be started in the High Court, and regulations 47D to 47P apply to
+such proceedings.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">47I.&nbsp;&nbsp;&nbsp;&nbsp; Remedies where the
+contract has not been entered into</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paragraph (2) applies
+where -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Court is satisfied
+that a decision or action taken by a contracting authority was in breach of the
+duty owed in accordance with regulation 47A or 47B; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the contract has not
+yet been entered into.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In those circumstances,
+the Court may do one or more of the following-</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; order the setting aside
+of the decision or action concerned;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; order the contracting
+authority to amend any document;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; award damages to an
+economic operator which has suffered loss or damage as a consequence of the
+breach.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This regulation does not
+prejudice any other powers of the Court.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">47J.&nbsp;&nbsp;&nbsp;&nbsp; Remedies where the
+contract has been entered into</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paragraph (2) applies if
+-</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Court is satisfied
+that a decision or action taken by a contracting authority was in breach of the
+duty owed in accordance with regulation 47A or 47B; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the contract has
+already been entered into.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In those circumstances,
+the Court -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must, if it is
+satisfied that any of the grounds for ineffectiveness applies, make a
+declaration of ineffectiveness in respect of the contract unless regulation 47L
+requires the Court not to do so;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must, where required by
+regulation 47N, impose penalties in accordance with that regulation;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; may award damages to an
+economic operator which has suffered loss or damage as a consequence of the
+breach, regardless of whether the Court also acts as described in sub-paragraphs
+(a) and (b);</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must not order any
+other remedies.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…”</p>
+
+<p class="ParaNoNumber">These Regulations were all introduced by the 2009
+Amendment Regulations, to implement the 2007 Directive.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 2006 Regulations and 2009 Amendment Regulations were made under the
+power contained in section 2(2) of the European Communities Act 1972, to make
+provision for the purpose of implementing EU obligations of the United Kingdom
+and/or dealing with matters arising out of or related to any such obligation.
+The <i>Francovich </i>conditions are no more than minimum conditions, which
+domestic law is free to relax or ignore. There is therefore no <i>Marleasing </i>presumption
+that the United Kingdom legislator intended to reflect the <i>Francovich </i>conditions
+(<i>Marleasing SA v La Comercial Internacional de Alimentación SA </i>(Case
+C-106/89) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/C10689.html">[1990] ECR I-4135</a>). Further, it is not suggested that it would be
+outside the scope of section 2(2) for the United Kingdom legislator to provide
+for the recovery of damages in respect of breaches which were not sufficiently
+serious to meet the EU law minimum requirement that a damages remedy be
+available: see <i>United States v Nolan </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/63.html">[2015] UKSC 63</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/63.html">[2016] AC 463</a>, para
+63.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ATK relies on the wording of the 2006 Regulations as introducing
+unconditional actionability of breaches, coupled with unconditional domestic
+liability for breaches of any domestically-based statutory duty. It points to
+the obligation contained in regulation 47A(2) and the duty, breach of which is
+by regulation 47C(1) prescribed as actionable by any economic operator who in
+consequence suffers loss or damage. ATK submits that there is no warrant for
+reading into these Regulations any condition that the breach must be
+“sufficiently serious” before it is actionable in damages.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although there was no requirement to do so, or presumption that this
+would be done, the NDA invites the Supreme Court to conclude that it was the
+intention of the UK legislator simply to give effect to the minimum EU
+requirements regarding damages. It points to the uses of the word “may” in regulations
+47I(2) and 47J(2)(c). It does not suggest that this gives rise to any general
+discretion. But it suggests that it is consistent with a limitation of damages
+by reference to the <i>Francovich</i> conditions. It picks up, in domestic law,
+the requirement under article 2(1) of the Remedies Directive that domestic law
+shall include a “power” to award damages to an economic operator harmed by an
+infringement, a requirement which, as I have held, is limited by the <i>Francovich
+</i>conditions. ATK in response submits the word “may” can be explained as a
+reference to the possibility that the contracting authority might have a
+defence, for example due to failure by the economic operator to mitigate its
+loss. That to my mind is a somewhat slender explanation for the introduction of
+the word “may”, especially as loss arising from a failure to mitigate is
+commonly regarded as not having been caused by the breach: see eg <i>Sotiros
+Shipping Inc v Sameiet Solholt (The Solholt) </i>[1983] 1 Lloyd’s Rep 605.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal dealt with this issue quite shortly. It noted that
+the 2009 Amendment Regulations had been preceded by an Explanatory Memorandum
+and a Transposition Note as well as a Consultation Document of April 2009, “all
+of which [it said] make it reasonably clear that the Government’s intention was
+to do only what was necessary to implement the Remedies Directive without any
+‘gold plating’ save where such was expressly identified” (para 17). But it
+viewed the claim provided by the 2006 Regulations, as amended in 2009, as an
+ordinary private law claim for breach of statutory duty, to which no
+restrictive condition applies under English law, and saw it as irrelevant in
+this context whether or not the legislator intended to “gold plate” the EU law
+on public procurement when introducing the Regulations (para 67).</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal was right in para 17 to identify the legislator’s
+intention in 2009 as having been not to gold plate. The Explanatory Note to the
+2009 Amendment Regulations said that “except where otherwise stated” (none of
+the respects so stated being presently relevant) the Regulations implemented
+the Directive. The Explanatory Memorandum laid before Parliament referred to
+the Regulations as implementing articles in the Directive “that need to be
+transposed” and to the amendments to the 2006 Regulations as “needed to
+implement” the Directive. The Impact Assessment, prepared by the Office of
+Government Commerce (“the OGC”) and attached to the Explanatory Memorandum,
+concluded by saying that the OGC had adhered to guidance including “avoidance
+of ‘gold-plating’ and taking a minimalist approach to implementation … insofar
+as is possible within the context of this implementation” and that the impact
+assessment had “examined, article by article, the choices available for the UK
+and identified a range of options”, “invariably” selecting those which
+“represent the least cost and greatest benefit within the confines of the
+mandate laid down in the Directive” (para 72). The Impact Assessment contained
+a detailed account of the choices available and made. None relates to or suggests
+a choice in 2009 to implement the Directive by introducing domestic liability
+for damages in circumstances not required under EU law.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Explanatory Note, the Explanatory Memorandum and the Impact
+Assessment are all potentially admissible as aids to the understanding of the
+legislator’s intentions in 2009, on the principle identified by the House of
+Lords in <i>R v Montila </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2004/50.html">[2004] UKHL 50</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2004/50.html">[2004] 1 WLR 3141</a>, para 35.
+However, ATK submits that 2009 is not the relevant date. It points out that,
+although regulations 47A through to 47P (Part 9) of the 2006 Regulations as
+amended by the 2009 Amendment Regulations were introduced as a complete
+substitute for the previous section 47 (Part 9) and were the product of
+extensive re-writing of previous text with many new elements, the bare outline of
+regulations 47A to 47C, 47I and 47J can still be detected in the much more
+limited language of regulation 47(1), (6), (8) and (9) of the earlier 2006
+Regulations, which can in turn be traced back to the Public Services Contracts Regulations
+1993 (SI 1993/3228), regulation 32(1), (2), (4) and (5). ATK submits that there
+is no reason to suggest that the legislator in 2009 intended any different
+approach to the damages recoverable under the earlier 1993 and 2006 Regulations,
+and that there is no material to show that avoidance of “gold-plating” had the
+same weight at those earlier dates. As to this, it is true that there is no
+material bearing directly on the legislator’s intentions at those earlier dates
+(though there is equally nothing to show that it was necessarily any
+different). But in my view it is unrealistic, when construing regulations 47A
+through to 47P, to ignore the legislator’s intention in 2009 to introduce a
+whole new package of substituted provisions which should, save where a
+deliberate choice to the contrary appeared, have no greater force than EU law
+requires. What happened in 2009 was effectively a new start, based on the
+Remedies Directive.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ATK also points to <i>Matra Communications SAS v Home Office</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1999/860.html">[1999] 1 WLR 1646</a>. There the Court of Appeal specifically expressed the view (p 1655B)
+that damages under the Remedies Directive 89/665/EEC were not subject to the <i>Francovich
+</i>conditions (described by the Court of Appeal as <i>Norbrook </i>conditions,
+after <i>Norbrook Laboratories Ltd v Ministry of Agriculture, Fisheries and
+Food</i> (Case C-127/95) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1998/C12795.html">[1998] ECR I-1531</a>). The Court of Appeal went on (para
+1655D-G) to express the view that the “damages provided by domestic law remain
+damages on the basis envisaged by Directive (89/665/EEC); but regulation
+32(5)(b)(ii) none the less thereby creates a private law, non-discretionary,
+remedy, because within the national legal order any remedy in damages
+necessarily has those qualities”. The Court of Appeal in <i>Matra</i> can now
+be seen to have been wrong in treating the <i>Francovich </i>conditions as
+irrelevant. Its further view that domestic law damages “remain damages on the
+basis envisaged by [the] Directive” might however be read as consistent with
+the NDA’s case on the present issue.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Where the Court of Appeal in the present case went in my opinion clearly
+wrong was in its assumption that any claim for damages under the 2006
+Regulations was no more than a private law claim for breach of a
+domestically-based statutory duty, and for that reason subject to ordinary
+English law rules which include no requirement that a breach must be shown to
+be “sufficiently serious” before damages are awarded (para 67). The Court of
+Appeal appears to have assumed that the categorisation in domestic law of a
+claim based on EU law as being for breach of statutory duty freed it
+automatically from any conditions which would otherwise apply under EU law.
+That this is not so is clear if one takes the simple case of a domestic claim
+against the State for failure correctly to transpose EU law. Such a claim is
+subject to the <i>Francovich </i>and <i>Brasserie du Pêcheur</i> principles and
+conditions.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sir Andrew Morritt put the matter correctly, with references to past
+authority, when he said in <i>Phonographic Performance Ltd v Department of Trade
+and Industry</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2004/1795.html">[2004] 1 WLR 2893</a>, paras 11 to 12:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“11.&nbsp;&nbsp;&nbsp;&nbsp; At the outset it is
+necessary to consider the nature of PPL’s claim. The decisions of the European
+Court of Justice in <i>Francovich v Italian Republic</i> (Joined Cases C-6/90
+and C-9/90) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1991/C690.html">[1995] ICR 722</a> and <i>Brasserie du Pêcheur SA v Federal Republic of
+Germany</i> (Joined Cases C-46 and C-48/93) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1996/C4693.html">[1996] QB 404</a> have established, and
+it is not disputed, that a member state may incur liability to a person under
+Community law where three conditions are satisfied. They are that (1) the rule
+of Community law infringed is intended to confer rights on individuals; (2) the
+breach is sufficiently serious, and in particular that there was a manifest and
+grave disregard by the member state of its discretion; and (3) there is a
+direct causal link between the breach of the obligation resting on the member state
+and the damage sustained by the injured party. As I have already pointed out
+for the purposes of these preliminary issues I have to assume that all those conditions
+will be established.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The nature of such a
+claim in English law was considered by Hobhouse LJ in <i>R v Secretary of State
+for Transport, Ex p Factortame Ltd (No 5)</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/1997/756.html">[1998] 1 CMLR 1353</a>. In that case
+the Divisional Court concluded that liability had been established and went on
+to consider whether exemplary damages could and should be awarded. It was in
+that context that Hobhouse LJ considered (para 173) that the liability was best
+understood as a breach of statutory duty. In so doing he relied on the dictum to
+the same effect of Lord Diplock in <i>Garden Cottage Foods v Milk Marketing Board</i>
+[1984] AC 130, 141 and the conclusion of Mann J in <i>Bourgoin v Ministry of
+Agriculture, Fisheries and Food</i> [1986] QB 716, 733 that the duty was
+imposed by the relevant article and section 2(1) European Communities Act 1972.
+Transposed to the facts of this case the duty for the breach of which the Crown
+is sued is that imposed by article 8.2 of the Rental Directive and section 2(1)
+[of the] European Communities Act 1972.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The scheme of the Remedies Directive is a balanced one. The <i>Francovich</i>
+conditions represent the Court of Justice’s conclusion as to the appropriate
+minimum protection by way of damages which an economic operator can expect.
+Although there is no <i>Marleasing </i>imperative to construe the scheme so far
+as possible consistently with the <i>Francovich </i>conditions, it is I think a
+natural assumption that the UK legislator will not go further than required by
+EU law when implementing such a scheme, without considering this and making it
+clear. That is fortified by the legislator’s clear intention not to gold plate
+when substituting the new Part 9 scheme for the old in 2009. In these
+circumstances, I consider that the 2006 Regulations as amended in 2009 should
+be read as providing for damages only upon satisfaction of the <i>Francovich </i>conditions.
+That is also consistent with the use of the word “may” which otherwise seems to
+me to have no real significance.</a></p><a name="para39">
+
+<p class="ParaHeading">Issue (iii) - failure to claim before the contract was
+made</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Issue (iii) is whether, if proceedings have been started within the 30
+day time limit prescribed by regulation 47D of the 2006 Regulations, an award
+of damages under regulation 47J(2)(c) of the 2006 Regulations may nonetheless
+be refused on the ground that the economic operator did not issue its claim
+form in respect of a contract award decision and inform the contracting
+authority that it had done so before the contracting authority entered into the
+contract?</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Issue (iii) arises from the difference between the periods set by the
+domestic legislator for a standstill and for the commencement of proceedings by
+a person aggrieved by the decision to award a public procurement contract. The
+UK legislator <i>could</i> have implemented articles 2a(2) and 2c of the
+Remedies Directive by assimilating the standstill period and the period for
+applying for a review. The former had under article 2a(2) to be at least ten
+days from sending by fax or electronically or from receipt of the contract
+award decision. The latter could under article 2c have been at least ten days
+from the same moment. While regulation 32A(2) reflected the period identified
+in article 2a(2), regulation 47D(2) gave a period for proceedings for review
+(not involving a claim of ineffectiveness) 20 days longer than the minimum
+required by article 2c. Thus, in the present case, the NDA was free after ten days
+(extended voluntarily for four further days) to enter into the contract, but
+ATK had another 20 (or, after the voluntary extension) 16 days within which to
+issue its claim form for damages.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The significance of this issue is that, if ATK had issued its claim form
+before the NDA entered into the contract, then</a></p><a name="para42">
+
+<p class="ParaLevel2" style="text-indent:0cm">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the NDA would have been required under regulation 47G(1) to refrain from
+entering into the contract;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If this requirement to refrain continued, and ATK’s challenge succeeded,
+ATK would in due course be awarded the contract and avoid the GBP 100m loss
+claimed.</p>
+
+<p class="ParaNoNumber">However, it should be noted that:</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(c)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the NDA could have applied under regulation 47H(1) to bring the
+requirement to an end;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(d)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the court would then under regulation 47H(2) have been obliged to
+consider whether, apart from regulation 47G(1) it would be appropriate to make
+an interim order requiring the NDA to refrain from entering into the contract;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(e)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>assuming that the court concluded that ATK’s challenge had some merit
+(which it would in this case presumably have been seen as having, since it
+ultimately succeeded), the court would have considered whether “it would not be
+appropriate to make an interim order … in the absence of undertakings or
+conditions” (regulation 47H(3)), and would have had the power to require or
+impose undertakings or conditions in relation to the requirement that the NDA
+refrain from entering into the contract;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(f)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the NDA would in this way, assuming that it was ordered to continue to
+refrain from entering into the contract while ATK’s challenge was resolved,
+have had the benefit of a cross-undertaking and/or security, which would, if
+the NDA defeated ATK’s challenge, cover loss or damage which the NDA suffered
+through not being able to enter into the contract.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The NDA contends in these circumstances that ATK failed to mitigate (or
+avoid) its loss by deliberately deciding not to issue a claim form until after
+the NDA had entered into the contract. ATK’s response is that the NDA’s case
+conflicts with the scheme of the 2006 Regulations, as well as with a general
+principle that it is open to a party to elect as it chooses between remedies,
+particularly between seeking interim relief and relying on a claim for damages.
+ATK also submits that the NDA’s case amounts to imposing a time limit which
+would be shorter than that required by EU law or stipulated by domestic law
+and/or incompatible with EU principles of legal certainty and effectiveness.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is Court of Justice authority that national law may recognise a
+general principle of mitigation along the lines for which the NDA contends in
+respect of breaches by the State of EU law. The Court of Justice said this in <i>Brasserie
+du Pêcheur</i>, paras 83-85:</a></p><a name="para44">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“83.&nbsp;&nbsp;&nbsp;&nbsp; In the absence of
+relevant Community provisions, it is for the domestic legal system of each
+member state to set the criteria for determining the extent of reparation.
+However, those criteria must not be less favourable than those applying to
+similar claims based on domestic law and must not be such as in practice to
+make it impossible or excessively difficult to obtain reparation.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">84.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In particular, in order
+to determine the loss or damage for which reparation may be granted, the
+national court may inquire whether the injured person showed reasonable
+diligence in order to avoid the loss or damage or limit its extent and whether,
+in particular, he availed himself in time of all the legal remedies available
+to him.</p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para44">85.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indeed, it is a general
+principle common to the legal systems of the member states that the injured
+party must show reasonable diligence in limiting the extent of the loss or
+damage, or risk having to bear the damage himself <i>Mulder v Council and
+Commission of the European Communities</i> (Joined Cases C-104/89 and C-37/90) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1992/C10489.html">[1992] ECR I-3061</a>, 3136-3137, para 33.”</p>
+
+<p class="ParaNoNumber">The court reiterated the substance of these paragraphs in
+<i>Danske Slagterier v Bundesrepublik Deutschland </i>(Case C-445/06) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2009/C44506.html">[2010] All ER (EC) 74</a>, paras 59-61.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is, in my opinion, clear that the Court of Justice was here leaving
+it to domestic law to determine whether and how far to apply any such
+principle, even though it expressed the view that it was “a general principle
+common to the legal systems of the member states that the injured party must
+show reasonable diligence in limiting the extent of the loss or damage, or risk
+having to bear the damage himself”.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The general legislative schemes, constituting the background to this issue
+under EU and domestic law, have been summarised in paras 5 and 42 above. In the
+context of an argument about mitigation, it is worth underlining one feature.
+Both the Remedies Directive and the 2006 Regulations treat a contracting
+authority’s decision to award a contract in circumstances where the substantive
+requirements of the PP Directive or the 2006 Regulations have not been observed
+as an actionable infringement or breach of duty to any economic operator
+thereby disadvantaged. This is so, although no contract will at that point have
+been entered into. Proceedings may be begun, within the relevant time limit,
+before or after the entry into the contract, but in either case they involve
+the same complaint, viz failings in the prescribed procurement process, leading
+to the decision to award the contract to the wrong person. In this context, the
+actual entry into any contract appears in effect to be treated not as the
+relevant breach, but as the consequence of the prior breach consisting in the
+prior wrongful decision to award the contract. This is also consistent with the
+way in which ATK’s present claim was formulated and litigated before Fraser J
+who gave judgment on 29 July 2016, holding that the NDA had failed properly to
+conduct the procurement process and ought to have awarded the contract to ATK.
+If that proves to be the right analysis, it at least opens the way to a
+submission under domestic law that the duty to mitigate arose as from the date
+of ATK’s receipt of the decision to award the contract to CFP. I do not
+understand ATK to have contested that in their submissions.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Accordingly, since the appeal is concerned with what the Remedies
+Directive and the 2006 Regulations treat as an existing infringement, an
+argument that ATK failed to mitigate is in principle open to the NDA. But issue
+(iii) as formulated before the Supreme Court (para 7(iii)), falls to be
+answered with reference to the circumstances of this appeal. We are not
+concerned with a familiar form of mitigation, such as a failure to take steps
+to seek alternative business to replace the contract wrongly awarded to a
+competitor. We are concerned with a very unusual form of mitigation, whereby,
+it is suggested, ATK should have taken steps to prevent the NDA giving effect
+to the NDA’s infringement, even if ATK thereby had to expose themselves to the
+risks associated with the possibility of their challenge to the contract award
+decision failing.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That the so-called duty to mitigate may in some circumstances require
+the victim of a breach to take steps by way of legal action is, in my opinion,
+clear. Lord Pannick QC, representing the NDA, was able to refer to cases in
+which English courts have held that the victim of a breach of duty should, by
+way of mitigation, pursue available legal remedies, before, for example, suing
+his professional advisers for negligence: <i>Western Trust &amp; Savings Ltd v
+Travers &amp; Co</i> (1998) 75 P &amp; CR 200; <i>Walker v Geo H Medlicott
+&amp; Son</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1998/1806.html">[1999] 1 WLR 727</a>. See also the discussion of these and other
+cases in Jackson &amp; Powell on <i>Professional Liability</i> 8th ed (2017),
+paras 11.336-11.339. The principle that a breach may call for mitigation, by
+third party action of this sort, is therefore uncontroversial. If my builder
+leaves my front door open and squatters enter, I cannot say that I have lost my
+house. I must take steps, legal steps if necessary, to recover possession.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Pannick also referred to cases on the exercise of a discretion,
+where the failure to seek interim relief as against the person or body alleged
+to have been in breach of duty was regarded as a relevant factor. In one, Evans
+LJ expressed a view that a failure to seek interim relief was relevant to the
+exercise of discretion to give leave for judicial review of a local authority
+decision to award a waste disposal contract to a competitor of the claimant: <i>Mass
+Energy Ltd v Birmingham City Council</i> [1994] Env LR 298. In another, <i>R
+(Gavin) v Haringey Borough Council</i> [2004] 1 PLR 61 David Richards J took
+into account an objector’s failure to apply for interim relief - reasonable
+though it was since such an application would have involved giving an
+undertaking in damages - as relevant to an issue whether planning permission
+should be quashed; the developer had a reasonable case for considering that the
+planning permission was valid, and the objector’s failure had enabled the
+developer, reasonably, to continue to incur costs on the development. The
+factors relevant to an exercise of discretion can be very wide. But the
+awarding of damages for a breach, or their refusal on account of a failure to
+mitigate, is not discretionary.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>No authority was cited to us on a situation directly comparable to the
+present, where it is submitted that the victim of a breach may be regarded as
+acting unreasonably, by not taking steps to stop the perpetrator of the breach
+from carrying it into effect. The NDA does not suggest that ATK’s conduct, in
+delaying the issue of a claim form, would necessarily or always fall to be
+regarded as unreasonable. The NDA’s proposition is that, on a full examination
+at a trial of all the circumstances in the light of evidence, including in
+particular examination of the reasons for ATK’s conduct, ATK may be held to
+have acted unreasonably and thereby to have failed to avoid the loss of the
+contract, so disabling itself from claiming damages for any loss arising from
+the NDA’s entry into the contract with CFP, rather than with RSS.</a></p><a name="para50">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this connection, the NDA surmises, plausibly, that the reason why ATK
+did not issue its claim form at a time when this would have put an automatic
+stop on the NDA entering into the contract is that it appreciated that this
+would lead to the NDA seeking to lift the stop. In that case, it would very
+probably only have been possible to maintain the stop if ATK was ready and able
+to put up security for any loss which the NDA would suffer through the
+continuation of the stop. This, ATK may well not have been. But another
+possible reason why ATK might not have been able to maintain the stop (or not have
+thought it sensible to bring about a stop in the first place, by issuing a
+claim form before the contract was entered into) was that it could not show
+that damages would not constitute an adequate remedy if the NDA proved to have
+failed wrongly to award the contract to the RSS consortium to which ATK
+belonged.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question therefore arises whether and on what basis it could be said
+to be unreasonable for ATK to delay commencing proceedings until after the
+entry into the contract. If ATK regarded damages as an adequate remedy, there
+would be no point in bringing about a stop in the first place. Even if it did
+not regard damages as an adequate remedy - and confident though it may have
+been in the prospects of success of its (ultimately successful) challenge to the
+NDA’s contract award decision - it may in its own interests have preferred to
+rest on a claim for damages if its challenge to the contract award decision
+succeeded, rather than give a cross-undertaking and expose itself to an
+indeterminate liability thereunder if its challenge failed.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is true, as Lord Pannick submits, that the scheme of the Remedies
+Directive and the 2006 Regulations aims specifically at giving an economic
+operator the opportunity to stop the wrongful award of a procurement contract
+to a competitor. But that does not mean that the economic operator is obliged
+to take advantage of the opportunity. The scheme gives both parties choices as
+to how to proceed and how to protect themselves. It assimilates the position,
+after a stop has been placed on the entry into a contract by the issue of a
+claim, with that which exists when a party is seeking an interim injunction:
+see para 42(d) above. An economic operator is, under the scheme as enacted in
+the United Kingdom, thus left free to issue a claim for damages after awaiting
+the entry into the contract. If, on the other hand, it issues a claim before
+entry into the contract, it is, on the face of it, also entitled to consider in
+its own interests whether or not to give an undertaking or put up security, if
+that is later required as the price of continuing the stop on entry into the
+contract.</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The provision of an undertaking or security as a condition of the
+continuation of a stop order or stay is a matter of free choice for a party.
+There is no basis for regarding the victim of an alleged breach seeking interim
+relief as obliged to exercise that choice in the interests of the other party,
+or indeed of anyone save itself. I am unable to accept the NDA’s proposition
+that, because the court could reasonably demand a cross-undertaking or security
+as a condition of a continuation of the stop order, it would or could be
+regarded as unreasonable for ATK to refuse to put this up. For the court to
+impose a condition as the price of continued relief which a party is seeking is
+quite different from treating the victim of a breach as acting unreasonably if
+it fails to seek a particular form of relief or to back it with an undertaking
+or security.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The present issue only arises, by definition, in a context where the
+contracting authority proves to have infringed procurement rules by its
+contract award decision. Under the scheme, the contracting authority also has a
+choice as to whether and how to act and to protect itself in a context where
+this is alleged or is a possibility. If it wishes to avoid the exposure
+resulting from having entered into the contract in circumstances where there is
+still time for an aggrieved economic operator to issue a claim form, it can
+delay entering into the contract until after the expiry of the 30 day period
+allowed to the economic operator for issue of a claim form. The delayed entry
+into the contract could involve the contracting authority in some loss, over
+and above that due to the minimum ten day standstill anyway required under the
+Remedies Directive and the 2006 Regulations. In the event that the contract
+award decision proved not to have involved any infringement, the contracting
+authority would have to bear that loss, without any recourse. But some loss of
+this sort could anyway result under the scheme from the ten day standstill
+period (and from the period which might elapse between the imposition of any
+stop and its discharge, in a case where the Court did not see fit to continue
+the stop by requiring an undertaking or security). The loss would on any view
+be unlikely to be anything approaching that which would arise from entering
+into the contract with one economic operator and being held liable to another
+for having wrongly done so.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In summary, an economic operator is entitled, in the face of what it
+views as (and later proves to have been) a breach of duty by the contracting
+authority, to leave it to the authority to take the risk of implementing its
+wrongful award decision. The economic operator cannot be said to be acting
+unreasonably if it fails to stop the authority from perpetrating a breach of
+duty which the authority could itself stop perpetrating. It cannot be said to
+be acting unreasonably if it refuses to give an undertaking or put up security
+in order to maintain a stop which it has in the first instance obtained by
+issuing a claim form before the authority has entered into the contract to give
+effect to its wrongful contract award decision.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I add that it has not been - and could not be - suggested that the NDA
+entered into the contract only because it thought that it was not exposed to a
+subsequent claim by ATK. Indeed, NDA’s submissions before the Court of Appeal
+said this (para 51):</a></p><a name="para57">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The [NDA] makes no bones about
+the fact that, because of the financial implications of delay, it would have
+applied to lift the suspension and (if successful) signed the contract, had
+[ATK] sought to trigger and maintain the suspension without offering a
+cross-undertaking in damages. The [NDA] does not know what it would have done
+if a cross-undertaking had been offered - it would have depended upon advice
+that was not in fact sought, and factors such as the likely date of an
+expedited trial that did not become known, because of the way that [ATK] in
+fact acted.”</p>
+
+<p class="ParaNoNumber">The second sentence indicates that the NDA might have
+sought to remove any stop on its entry into of the contract, even if ATK had
+offered a suitable cross-undertaking in order to achieve its continuation. In
+other words, the NDA may, even in that context, have preferred to run the same
+risk that it did by entering into the contract in this case.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the reasons I have given, I do not consider that there are any
+circumstances in which ATK could be regarded as having failed unreasonably to
+mitigate its loss arising from the NDA’s wrongful contract award decision, by
+failing to initiate or pursue steps to prevent the NDA from implementing that
+decision by entering into the contract with ATK’s competitor, CFP. Under the
+scheme of the Remedies Directive and 2006 Regulations, each side had choices
+which it was entitled to, and no doubt did, exercise in its own interests. In
+these circumstances, the answer to issue (iii) is in the negative as the Court
+of Appeal held.</a></p><a name="para58">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under issue (i), ATK’s case in this Court was that European Union law
+requires a remedy in damages for any breach, whether serious or not, or that
+this issue should at least be referred to the Court of Justice. This case
+would, if accepted, have constituted a reason for reaching the same result as
+the Court of Appeal did by reference to domestic law. The Supreme Court does
+not however accept ATK’s case on this issue. Under issue (ii), the NDA’s case
+has been the Court of Appeal was wrong to hold that, even though European Union
+law only requires a remedy in damages for a serious breach, domestic law goes
+further by requiring a remedy in damages for any breach, whether serious or
+not. The NDA has succeeded, and its appeal should be allowed, on this issue.
+Under issue (iii), the NDA also sought to establish that there should be a
+trial as to whether an award of damages may in the circumstances of this case
+be refused to an economic operator. The NDA has failed, and its appeal should
+be dismissed, on this issue.</a></p><a name="para59">
+
+</a></div><a name="para59">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/34.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

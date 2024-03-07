@@ -1,0 +1,321 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Luckhurst, R. v [2022] UKSC 23 (20 July 2022)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Gisha;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:18.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.Paraheading2, li.Paraheading2, div.Paraheading2  {mso-style-name:"Paraheading 2";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  line-height:200%;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:18.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} 
+--> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Luckhurst, R. v [2022] UKSC 23 (20 July 2022)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/23.html</i>
+<br>Cite as: 
+[2022] WLR 3818,
+
+[2022] 1 WLR 3818,
+
+[2022] UKSC 23,
+
+[2023] 1 All ER 807,
+
+[2022] Crim LR 996
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2022/23.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2020007751/casereport_4f7aa169-3be4-4d3a-aed4-72fa058c840a/html">[2022] 1 WLR 3818</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2022/23.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2022/23.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b>Trinity Term</b></a></p>  
+<p class="JudgmentReferences" style="margin:0cm"><b>[2022] UKSC 23</b></p>  
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Crim/2020/1579.html">[2020] EWCA Crim 1579</a></i></p>  
+<p class="JudgmentTitle">JUDGMENT</p>  
+<p class="JudgmentDetail1">R</p>  
+<p class="JudgmentDetail1">&nbsp;<i>v</i> </p>  
+<p class="JudgmentDetail1">Luckhurst (Respondent)</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">Before</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hodge, Deputy President</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Kitchin</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hamblen</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Burrows</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Stephens</p>  
+<p class="JudgmentJudges"><span style="font-weight:normal">&nbsp;</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">20 July 2022</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+<p class="JudgmentJudges">Heard on 7 June 2022</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>Appellant</i></a></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Kennedy Talbot QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Richard Hoyle</p>  
+<p class="JudgmentAppRespInt">(Instructed by Crown Prosecution Service Appeals Unit)</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent</i></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Benjamin Douglas-Jones QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Nathaniel Rudolf QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">William Douglas-Jones</p>  
+<p class="JudgmentAppRespInt">(Instructed by Jonas Roy Bloom Solicitors (Birmingham))</p>  
+<p class="JudgmentAppRespInt"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3"><ol>  
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">LORD BURROWS (</a><span style="text-transform:none">with whom Lord Hodge, Lord Kitchin, Lord Hamblen, and Lord Stephens agree</span>)</p>  
+<p class="ParaHeading1"><span style="text-transform:none">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction</span></p>  
+<li value="1"><a name="para1"> Following a conviction for a criminal offence, the Proceeds of Crime Act 2002 (“POCA”) provides for the making of a confiscation order by the courts. The aim of such an order is to take away the fruits of crime by requiring a payment by the criminal to the State. In order to prevent the frustration of a confiscation order, and usually made in advance of such an order, POCA gives the courts the power to make a restraint order freezing the assets of the (alleged) criminal.
+</a></li>
+<p> </p>  
+<li value="2"><a name="para2"> In this case, the Supreme Court is required to resolve a narrow but important point of law about restraint orders. The point of law, as certified by the Court of Appeal, is as follows:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“Does section 41(4) of POCA preclude an exception to a restraint order to make provision for reasonable legal expenses incurred by the defendant or the recipient of a tainted gift where those expenses incurred by the defendant or the recipient of a tainted gift are in respect of civil proceedings founded on the same or similar allegations, alleged facts and/or evidence as those of the offence(s) (within the meaning of section 41(5)) which gave rise to the making of the restraint order?”</p>  
+<li value="3"><a name="para3"> The background to the question posed is that, while an exception to a restraint order may be made to allow the (alleged) criminal to incur reasonable legal expenses, that exception is precluded under section 41(4) of POCA where the legal expenses “relate to an offence” giving rise to the restraint order. It is clear that because they do relate to such an offence, the legal expenses of defending criminal proceedings for the offence itself, or of resisting a confiscation or restraint order in respect of that offence, are precluded. But does the preclusion extend to legal expenses in respect of a civil cause of action (for example, a tort or equitable wrong) founded on the same or similar alleged facts and/or evidence as the offence? Do those legal expenses relate to the offence?
+</a></li>
+<p> </p>  
+<p class="ParaHeading1">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">The statutory framework</span></p>  
+<li value="4"><a name="para4"> The first legislation providing for confiscation and restraint orders in England and Wales was the Drug Trafficking Offences Act 1986 which, as the title indicates, was confined to the confiscation of profits from drug trafficking offences. Under section 8(1) of the 1986 Act, a restraint order could be made subject to such conditions and exceptions as were specified in the order; and rules of court (see RSC Order 115 rule 4(1)) explicitly referred to exceptions permitting the defendant to incur living expenses and legal expenses. Subsequently the provisions on confiscation and restraint orders were extended to all offences and are now contained in Part 2 of POCA (which has itself been subject to further amendments since it was enacted in 2002).
+</a></li>
+<p> </p>  
+<li value="5"><a name="para5"> Section 40 of POCA enables a restraint order to be made in five circumstances which are expressed as five “conditions”. The two principal ones (and, in deciding this appeal, we do not need to consider the other three) are, first, where “(a) a criminal investigation has been started in England and Wales with regard to an offence, and (b) there are reasonable grounds to suspect that the alleged offender has benefited from his criminal conduct” (section 40(2)); and, secondly, where “(a) proceedings for an offence have been started in England and Wales and not concluded, and (b) there is reasonable cause to believe that the defendant has benefited from his criminal conduct” (section 40(3)).
+</a></li>
+<p> </p>  
+<li value="6"><a name="para6"> Section 41 provides as follows:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“<b>41.&nbsp;&nbsp;&nbsp;&nbsp; Restraint orders</b></p>  
+<p class="MsoQuote">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If any condition set out in section 40 is satisfied the Crown Court may make an order (a restraint order) prohibiting any specified person from dealing with any realisable property held by him.</p>  
+<p class="MsoQuote">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A restraint order may provide that it applies -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to all realisable property held by the specified person whether or not the property is described in the order;</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to realisable property transferred to the specified person after the order is made.</p>  
+<p class="MsoQuote">(2A)&nbsp;&nbsp;&nbsp;&nbsp; A restraint order must be made subject to an exception enabling relevant legal aid payments to be made (a legal aid exception).</p>  
+<p class="MsoQuote">(2B)&nbsp;&nbsp;&nbsp;&nbsp; A relevant legal aid payment is a payment that the specified person is obliged to make -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by regulations under section 23 or 24 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in connection with services provided in relation to an offence which falls within subsection (5), whether the obligation to make the payment arises before or after the restraint order is made.</p>  
+<p class="MsoQuote">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A restraint order may be made subject to other exceptions, and an exception may in particular -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make provision for reasonable living expenses and reasonable legal expenses;</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make provision for the purpose of enabling any person to carry on any trade, business, profession or occupation.</p>  
+<p class="MsoQuote">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But where an exception to a restraint order is made under subsection (3), it must not make provision for any legal expenses which -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; relate to an offence which falls within subsection (5), and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are incurred by the defendant or by a recipient of a tainted gift.</p>  
+<p class="MsoQuote">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These offences fall within this subsection -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the offence mentioned in section 40(2) or (3), if the first or second condition (as the case may be) is satisfied;</p>  
+<p class="MsoQuote">…”</p>  
+<li value="7"><a name="para7"> Section 42 deals, amongst other matters, with the power to vary a restraint order on the application of the person who applied for the order or any person affected by the order.
+</a></li>
+<p> </p>  
+<li value="8"><a name="para8"> Section 69(2) provides that the powers under sections 41 and 42 to grant and vary a restraint order (and other powers):
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must be exercised with a view to the value for the time being of realisable property being made available (by the property’s realisation) for satisfying any confiscation order that has been or may be made against the defendant;</p>  
+<p class="MsoQuote">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must be exercised, in a case where a confiscation order has not been made, with a view to securing that there is no diminution in the value of realisable property;</p>  
+<p class="MsoQuote">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; must be exercised without taking account of any obligation of the defendant or a recipient of a tainted gift if the obligation conflicts with the object of satisfying any confiscation order that has been or may be made against the defendant;</p>  
+<p class="MsoQuote">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; may be exercised in respect of a debt owed by the Crown.”</p>  
+<li value="9"><a name="para9"> This subsection has been referred to as giving a “legislative steer” to the courts towards exercising their powers so as to preserve the assets to satisfy the confiscation order (see <i>In re S (Restraint Order: Release of Assets) </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Crim/2004/2374.html">[2004] EWCA Crim 2374</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Crim/2004/2374.html">[2005] 1 WLR 1338</a>, paras 32-33; and <i>In re Peters </i>[1988] QB 871, 879, referring to the predecessor of section 69(2)(a) and (b)).
+</li>
+<p> </p>  
+<p class="ParaHeading1">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">The underlying facts and the proceedings below</span></p>  
+<li value="10"><a name="para10"> After a career as a professional cricketer and footballer, the defendant, Andrew Luckhurst, set up a financial services business, BBT Partnership Ltd (“BBT”), through which he practised as an independent financial adviser for some 25 years before BBT collapsed in 2016. In 2014, Mr Luckhurst and Nicholas Shaw, his long-time colleague at BBT, set up a company, Aspirations Europe Ltd, together with Ian Bascombe, through which they introduced clients to an investment scheme run by a Mr Denton and Mr Oakley. It is the Crown’s case that the scheme was a fraudulent Ponzi scheme; that of £15.25m collected from investors by Aspirations Europe Ltd, only £9.75m was invested; and that Mr Luckhurst stole other monies from his clients. He was charged with offences of fraud and theft in Spring 2018, together with others. His trial (which has been fixed for 12 weeks beginning on 31 October 2022) is to take place separately from that of Messrs Denton and Oakley, and after its conclusion.
+</a></li>
+<p> </p>  
+<li value="11"><a name="para11"> In 2016, six of BBT’s investors in the scheme commenced proceedings in the Chancery Division of the High Court against Mr Luckhurst, BBT, Messrs Shaw, Bascombe and Denton, and others, including a firm of solicitors, Locke Lord (UK) LLP (“Locke Lord”). On 30 September 2016 Barling J made a worldwide freezing order in those proceedings against Mr Luckhurst up to a value of £2.71m. It permitted him to spend £600 per week on ordinary living expenses and a reasonable sum on legal advice and representation. The living expenses amount was increased to £1,500 per week on 11 October 2016.
+</a></li>
+<p> </p>  
+<li value="12"><a name="para12"> A settlement was reached in the civil proceedings on 8 December 2017 which resulted in the freezing order being discharged. Mr Luckhurst was not party to that settlement, which was between Locke Lord and the claimants, now numbering 48, but Mr Luckhurst has been told by Locke Lord’s solicitors that the settlement included an assignment of the investors’ claims against him and the other defendants. Mr Luckhurst therefore faces the investors’ claims against him being pursued in Locke Lord’s name; and Locke Lord also has its own Part 20 claim against him for an indemnity or contribution. Those claims have been pursued in correspondence by Locke Lord’s solicitors, resulting in an offer of settlement on 9 April 2019.
+</a></li>
+<p> </p>  
+<li value="13"><a name="para13"> At the time of the discharge of the freezing order on 8 December 2017, the police were already investigating the alleged fraud. A restraint order against Mr Luckhurst was considered but it would appear that the Crown Prosecution Service (“CPS”) took the view that such an order was unnecessary or could not be granted whilst the freezing order was in place restraining dissipation of assets. Shortly after the freezing order was discharged, an ex parte application was made by the CPS for a restraint order, which was granted by Judge Clark on 15 December 2017. The restraint order extended to all Mr Luckhurst’s assets. It permitted him to spend £250 per week on ordinary living expenses but permitted variation of that amount with the written agreement of the CPS. Such variations have been made on a number of occasions.
+</a></li>
+<p> </p>  
+<li value="14"><a name="para14"> Mr Luckhurst subsequently made an application to vary the restraint order. The variation application ultimately covered four categories of expenses: (i) expenditure in relation to a BMW X5 on hire purchase; (ii) £3,000 for legal advice in the civil proceedings; (iii) £8,154.58 in respect of home improvements; and (iv) £48,700 in respect of living expenses, funded by way of loans made by family and friends.
+</a></li>
+<p> </p>  
+<li value="15"><a name="para15"> On 30 September 2019, the variation application was refused (in respect of all four categories of expenses) by Judge Carr, sitting in the Crown Court at Birmingham. As far as the £3,000 was concerned, he held that a variation was precluded by section 41(4) of POCA because “[t]he civil action brought against the applicant (amongst others) clearly has its factual origins in the case that has brought the applicant before this court for trial” and that “the plain and unambiguous language of section 41(4) means that I cannot make the variation requested” (these are quotes from the last page of the transcript of the judgment).
+</a></li>
+<p> </p>  
+<li value="16"><a name="para16"> Mr Luckhurst appealed to the Court of Appeal. While the appeal failed in relation to the first, third and fourth categories of expenses - with which we are not concerned in this appeal - it succeeded in respect of the second category, the £3,000 legal expenses. The judgment of the Court of Appeal (Popplewell LJ, McGowan J and Judge Molyneux) was given by Popplewell LJ. He gave five reasons for concluding that section 41(4) of POCA provides no bar to permitting reasonable legal expenses in civil proceedings even though they engage in whole or in part the same factual inquiry as will be engaged in the trial of the offence which gives rise to the restraint order. In outline, those five reasons were as follows: (i) the CPS’s argument would put a strained and unnatural gloss on the language of the statute; (ii) the CPS’s interpretation would run contrary to the purpose of the statute because the civil proceedings might preserve the (alleged) criminal’s assets as where he or she is a claimant or a Part 20 claimant in the civil proceedings; (iii) there would be real difficulties in the practical application of the interpretation advanced by the CPS; (iv) the approach being taken by the Court of Appeal had support in the case law; (v) the approach being taken by the Court of Appeal was supported by the contrast with section 245C of POCA which applies to civil recovery proceedings under Part 5 of POCA and expressly allows for legal expenses in respect of the recovery proceedings themselves.
+</a></li>
+<p> </p>  
+<li value="17"><a name="para17"> The Crown (ie the CPS) now appeals to the Supreme Court on the legal expenses issue. It seeks to overturn the decision of the Court of Appeal on the certified question set out in para 2 above. The CPS submits that the answer to that question should be “yes”.
+</a></li>
+<p> </p>  
+<p class="ParaHeading1">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">Two previous court of appeal decisions</span></p>  
+<li value="18"><a name="para18"> There is no previous decision on the question with which this appeal is concerned and we were referred to only one case -<i> Financial Services Authority v Anderson </i></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2010/308.html">[2010] EWHC 308 (Ch)</a> (Briggs J) and, at a later stage of the proceedings in the same case, <a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2010/1547.html">[2010] EWHC 1547 (Ch)</a> (Vos J), paras 24-26 - where the matter has even been obliquely discussed. Moreover, that brief discussion was in a context where there had been no appeal against the decision made by Judge Taylor in the Crown Court that the legal expenses of defending the civil proceedings brought against the defendants by the Financial Services Authority (“FSA”) were precluded and Briggs J and Vos J were instead focusing on other matters, including the legal aid position and the consequent apparent prejudice and risk of injustice caused to one of the defendants. As Briggs J said, at para 36, “It is not for me to express any view of my own as to [Judge Taylor’s] interpretation of section 41(4)(a)”. In those circumstances, no help is to be gained from <i>Financial Services Authority v Anderson</i>.
+</li>
+<p> </p>  
+<li value="19"><a name="para19"> However, there are two Court of Appeal decisions that were thought to be helpful by Popplewell LJ. These are <i>In re S </i>and <i>R v AP and U Ltd </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Crim/2007/3128.html">[2007] EWCA Crim 3128</a>; [2008] 1 Cr App R 39.
+</li>
+<p> </p>  
+<li value="20"><a name="para20"> In <i>In re S </i>the question was whether the legal expenses incurred in the restraint order proceedings were precluded under section 41(4) of POCA (and, as established in <i>R (McCann) v Crown Court at Manchester </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2002/39.html">[2002] UKHL 39</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/39.html">[2003] 1 AC 787</a>, restraint proceedings are civil not criminal proceedings). It was held by the Court of Appeal (Scott Baker LJ, Holland J and Dame Heather Steel) that those legal expenses were precluded because they did “relate to” the offence. At first sight that decision might be thought to offer support to the CPS’s submissions in this case. But two additional points are noteworthy about the decision. The first is that, giving the judgment of the court, Scott Baker LJ explicitly recognised, at para 49, that restraint orders “are, by their nature, draconian.” This perhaps obvious point may be important because it tends to indicate that, in so far as there are rival possible interpretations, a narrower rather than a wider interpretation of the scope of the preclusion should be favoured precisely because the order is draconian. Secondly, and more importantly, it is clear that the Court of Appeal was reluctant to reach the decision it did and did so principally because a quid pro quo for the preclusion was the provision of legal aid for restraint proceedings and because, as they are not the defendants in the criminal proceedings, the inclusion of the recipients of tainted gifts in section 41(4) would make no sense unless their legal expenses in respect of the restraint proceedings were precluded. A flavour of the reluctance can be shown by the following two passages from Scott Baker LJ’s judgment at paras 11 and 58 respectively:
+</li>
+<p> </p>  
+<p class="MsoQuote">“The word ‘reasonable’ indicates control by the court over the amount of legal expenses or living expenses that are to be allowed. If one stopped at section 41(3) and looked no further there would be no restriction on what legal expenses the court might, in its discretion, permit. The only qualification would be as to their reasonableness. That is the position with living expenses. One might have thought that Parliament could have left it to the courts to decide what in any case were reasonable legal expenses having regard to all the circumstances, including the fact of the restraint order, its scope and objective.”</p>  
+<p class="MsoQuote">“Contrary to our initial view that section 41 of the 2002 Act permits the release of restrained funds for legal expenses incurred in relation to a restraint order albeit not to the underlying offence that caused it to be made, we are in the end satisfied that on its true construction section 41 of the 2002 Act does not permit this. <i>This is not a conclusion we have reached with any enthusiasm. We are driven to it</i> by the underlying scheme and purpose of the Act and in particular: (1) by reason of the inclusion of the recipients of tainted gifts in section 41(4) of the 2002 Act; and (2) the amendment in Schedule [2] to the Access to Justice Act 1999 making public funding available.” (Emphasis added)</p>  
+<li value="21"><a name="para21"> In <i>R v AP and U Ltd </i>two main points were decided by the Court of Appeal (Latham LJ, Aikens and Grigson JJ) in relation to the appeal by U Ltd and the cross-appeal by the Crown as regards the restraint order made against U Ltd. First, although U Ltd was a company which was not entitled to legal aid, it was held that no declaration of incompatibility in respect of section 41(4) of POCA should be made under section 4 of the Human Rights Act 1998. The argument was rejected that the blanket restriction on legal expenses that “relate to an offence” in section 41(4) was incompatible with the right of access to the courts or to a fair hearing under article 6 of the European Convention on Human Rights (“ECHR”) (or, as decided in the <i>AP </i>case, to the right to peaceful enjoyment of possessions under article 1 protocol 1 of the ECHR). However, the Court of Appeal accepted that, on particular facts where the defendant is effectively being prevented from being able to present a case, the proceedings might have to be stayed under article 6 of the ECHR because of potential unfairness.
+</a></li>
+<p> </p>  
+<li value="22"><a name="para22"> Secondly, and most relevantly to the issue we have to decide, it was held that the restraint order should not have been varied to allow for the legal expenses of U Ltd in bringing a judicial review application. U Ltd was under criminal investigation, following a disclosure report to the Serious Organised Crime Agency (“SOCA”), for suspected money laundering offences. As a consequence, SOCA refused permission to a bank to provide facilities to U Ltd. U Ltd sought judicial review of that decision by SOCA. The Court of Appeal decided that U Ltd’s legal expenses in respect of the judicial review proceedings were caught by the preclusion under section 41(4) of POCA. The disclosure report (and hence the decision of SOCA) was triggered by transactions that were the subject of the criminal investigation for suspected money laundering. It followed that the judicial review proceedings were “related to” the money laundering offence or offences. In the words of Latham LJ, giving the judgment of the Court of Appeal, at para 33:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“The Crown’s case is that the disclosure reports were triggered by transactions which were suspected of being part of [a dishonest money-laundering] scheme. That being so, it seems to us that there is a sufficiently clear connection between the offence or offences into which there was the investigation to mean that the judicial review proceedings ‘related to’ that offence or offences.”</p>  
+<p class="ParaHeading1">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">My reasons why the answer to the certified question is “no</span>”</p>  
+<p class="Paraheading2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:13.0pt;line-height: 200%">The correct approach to statutory interpretation: words, context and purpose</span></p>  
+<li value="23"><a name="para23"> The issue in this case is one of statutory interpretation so it is important at the outset to refer to the correct modern approach to statutory interpretation. In his restatement of the approach to statutory interpretation in <i>R (O) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2022/3.html">[2022] UKSC 3</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2022/3.html">[2022] 2 WLR 343</a>, Lord Hodge (with whom Lord Briggs, Lord Stephens and Lady Rose agreed) clarified, at paras 28-29, that statutory interpretation is concerned to identify the meaning of the words used by Parliament and that, in ascertaining that meaning, the context and purpose of the provision are important: see to similar effect, for example, <i>Uber BV v Aslam</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2021/5.html">[2021] UKSC 5</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2021/5.html">[2021] ICR 657</a>, para 70; and <i>Rittson-Thomas v Oxfordshire County Council</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2021/13.html">[2021] UKSC 13</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2021/13.html">[2022] AC 129</a>, para 33. Lord Hodge also made clear, at paras 30-32, that, in carrying out their interpretative role, the courts can look not only at the statute but also, for example, at the explanatory notes to the statute, at relevant reports (such as those of the Law Commission) and, within the parameters set by <i>Pepper v Hart</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1992/3.html">[1993] AC 593</a>, at ministerial statements reported in <i>Hansard</i>. 
+</li>
+<p> </p>  
+<p class="Paraheading2"><span style="font-size:13.0pt;line-height:200%">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The natural meaning of the words in their context</span></p>  
+<li value="24"><a name="para24"> On a natural meaning of the words in their context, legal expenses in civil proceedings for a cause of action (for example, for a tort or equitable wrong) do not relate to a criminal offence. If one were to ask a judge or lawyer or litigant in such a civil case “which if any of the legal expenses being incurred relate to a criminal offence?”, the obvious answer would be “none of them”. Indeed, the judge, lawyer or litigant is likely to regard the question as meaningless because, at least normally, no attention at all is given to what, on the same facts (and/or evidence), the position is or might be in criminal law. The legal expenses relate to a cause of action in civil law and have nothing to do with a criminal offence. It might be said that this natural meaning of the words in their context follows axiomatically from the fundamental division between civil law and criminal law.
+</a></li>
+<p> </p>  
+<li value="25"><a name="para25"> It further follows that, on the natural meaning of the words in their context, legal expenses that “relate to an offence” in section 41(4) include legal expenses that are incurred in defending criminal proceedings</a><a name="_Hlk105850766"> for, or a criminal investigation into, an offence or in resisting a confiscation order for an offence. As laid down in <i>In re S </i>and <i>R v AP and U Ltd </i>(see paras 20-21 above) section 41(4) also covers the restraint order proceedings themselves </a>and judicial review proceedings that are bound up with the criminal process. The legal expenses of other proceedings for orders (one might perhaps label them “ancillary orders”) related to the offence, such as applications for bail and production orders, are also precluded. In contrast, legal expenses in defending proceedings for a criminal offence that is not an offence giving rise to the restraint order do not “relate to” the offence. For example, the legal expenses of defending a criminal prosecution for causing death by dangerous driving would not fall within section 41(4) because that is not an offence giving reasonable cause to believe that the alleged offender has benefited from his or her relevant conduct. This would be so even if the dangerous driving were in the course of the profitable drug dealing that is the offence giving rise to the restraint order. Even though the dangerous driving is related factually to the commission of the offence that factual connection is irrelevant because the relevant offence for the purposes of the restraint order is the drug-dealing not the dangerous driving.
+</li>
+<p> </p>  
+<li value="26"><a name="para26"> It also follows that any attempt to carve out a meaning for legal expenses in civil proceedings for a cause of action that “relate to an offence” will be artificial and problematic. This is what Kennedy Talbot QC, counsel for the CPS, has sought to do in this case. His suggested test, which is the basis of the legal question that we are required to answer, is that legal expenses in civil proceedings are precluded where the civil proceedings are founded on the same or similar allegations, alleged facts and/or evidence as those of the offence(s) which give rise to the making of the restraint order. But apart from the objection that this is reading into the statute a test that one does not find in the statute itself - and may therefore be criticised as judicial legislation - it is fraught with practical difficulty. What is meant by “similar” as opposed to “same”? Is any degree of overlap, however minor, between the alleged civil cause of action and the alleged criminal offence sufficient? How would that test deal with a situation where the main civil proceedings are factually connected to the criminal offence but the cause of action alleged does not involve any benefit to the alleged tortfeasor (for example, where the civil claim is for damages for a death caused by negligent driving where the driving was in carrying out a successful burglary and it is the fruits of that burglary that are the basis of the restraint order)? To avoid the proposed test being too wide and having unacceptable consequences, Mr Talbot proposed that the test should be modified by a de minimis exception. However, that would in turn raise the difficulty as to what would here be meant by de minimis and once again one does not find any support for this being an exception laid down, even impliedly, by Parliament rather than simply being posited by the appellant as a possible interpretation.
+</a></li>
+<p> </p>  
+<li value="27"><a name="para27"> I agree, therefore, with the first and third of the reasons given by Popplewell LJ in the Court of Appeal for the answer to the certified question being “no”. As regards his first reason, Popplewell LJ said, at para 44, that the CPS’s argument:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“puts a strained and unnatural gloss on the language of the statute. The subsection talks simply of expenses related to the offence. It does not talk of expenses incurred in proceedings which engage an overlapping factual inquiry with the offence.”</p>  
+<li value="28"><a name="para28"> As regards his third reason, Popplewell LJ said this, at para 46:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“we see real difficulties in the practical application of the construction advanced by the CPS. The ingredients of civil proceedings will rarely mirror exactly the criminal allegations constituting the offence. So, for example, where the offence concerned is fraud, the civil causes of action may include misrepresentation, unlawful means conspiracy, other economic torts, negligence, breaches of fiduciary duty, and constructive trust liability for dishonest assistance or knowing receipt. These will inevitably raise some different factual issues. It is a common experience that civil proceedings often involve additional transactions to those in related criminal proceedings. Criminal proceedings may reflect the overall criminality in specimen charges. Civil claims seeking compensation must prove all the breaches said to have caused damage. Some aspects of the series of events in question may not constitute criminal behaviour but nevertheless give rise to civil liability. What then is the degree of overlap which is necessary to engage the bright line exclusionary rule suggested by the CPS argument? Is one overlapping issue or area of factual inquiry sufficient to engage it (and if so which), even if the civil proceedings are concerned in their majority with other unrelated transactions or issues? Mr Talbot’s answer when pressed in the course of argument was that any degree of overlap was sufficient unless it could be characterised as de minimis. This is a conclusion which would be unjust, and is unsupported by the language of the statute. There is no principled reason why a person facing investigation for an offence, with which he may not be ever be charged, should be mandatorily precluded from spending <i>any </i>of his assets on defending (or pursuing) civil proceedings which are very largely, although not exclusively, unrelated to the investigation. Such a restraint would be unfair. Moreover it would be an abuse of English to describe all the costs of such civil proceedings in which the issues were predominantly different as ‘legal expenses related to the offence’.”</p>  
+<p class="Paraheading2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="font-size:13.0pt;line-height: 200%">The purpose of the statutory provision</span></p>  
+<li value="29"><a name="para29"> Mr Talbot urged upon us that the purpose or policy of the restraint order provisions is to ensure the maximum confiscation of a criminal’s ill-gotten gains, not least so as to ensure that victims of crime can be compensated. He submitted that this was borne out by the “legislative steer” given by section 69(2) of POCA (see paras 8-9 above) including that a confiscation and restraint order should be made even though this will prevent the defendant complying with civil obligations.
+</a></li>
+<p> </p>  
+<li value="30"><a name="para30"> However, it is clear that the pursuit of the policy of maximising confiscation is qualified by the need to ensure that restraint orders do not unfairly prevent the (alleged) criminal incurring reasonable expenses of certain kinds. These include reasonable living expenses, ordinary business expenses and, subject to the exclusion in section 41(4), reasonable legal expenses. It follows that the policy of the restraint order provisions is not simply one of ensuring maximum confiscation. It is not in dispute, therefore, that legal expenses that are very clearly unrelated to any criminal offence - for example, where the (alleged) criminal seeks to incur the legal expenses of a divorce or of a dispute concerning a party wall - may be allowed even though this will inevitably cut down the amount of benefit available for confiscation. The general purpose or policy of the restraint order provisions is therefore one of balancing the goal of ensuring confiscation with the need to ensure that the (alleged) criminal can incur certain kinds of expense. Where that balance has been struck by Parliament is dependent on the meaning of the relevant words used (“relate to an offence”) in their context; and the meaning of the words in their context that has been set out in paras 24-25 above is perfectly consistent with the Act having a balanced purpose or policy.
+</a></li>
+<p> </p>  
+<li value="31"><a name="para31"> Furthermore, there are two specific indicators that the primary focus of the policy underlying the preclusion of legal fees in section 41(4) was on the legal expenses of defending the alleged criminal offence(s) and resisting the confiscation and restraint orders themselves. First, the June 2000 Report of the Performance and Innovation Unit of the Cabinet Office entitled "Recovering the Proceeds of Crime", chapter 8, especially paras 8.36-8.37, which preceded the implementation of section 41(4), pointed to excessive legal fees that were being spent in defending the criminal case which were seriously depleting the restrained assets. Secondly, the quid pro quo for section 41(4) was that, by amending Schedule 2 to the Access to Justice Act 1999, legal aid was extended to cover resisting restraint orders. As Scott Baker LJ said in <i>In re S, </i>at para 42:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“[T]he 2002 Act imposed a complete prohibition on such expenditure [ie expenditure on restraint order proceedings] but in exchange made sure that public funding was readily available.</p>  
+<li value="32"><a name="para32"> This is further reflected in the explanatory notes published with the Act in relation to section 41 of POCA which include the following:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“Subsection (4) prevents funds under restraint from being released to the defendant or the recipient of a tainted gift for legal expenses incurred in relation to the offences in respect of which the restraint order is made. However, public funding for legal expenses, on the standard conditions, will be available to both instead.”</p>  
+<li value="33"><a name="para33"> In contrast, there was no indication in the Report of June 2000 or the explanatory notes (or in any other relevant policy document) that legal expenses incurred in civil proceedings for causes of action were a cause for concern. And in the early 2000s, even before the later more significant cut backs in legal aid made by the Legal Aid Sentencing and Punishment of Offenders Act 2012, it would be unlikely defendants would receive legal aid for most relevant civil claims so that the provision of state funding would not be a quid pro quo for a preclusion of that type of legal expense.
+</a></li>
+<p> </p>  
+<li value="34"><a name="para34"> It is also very important to appreciate that, denying that the preclusion in section 41(4) extends to the legal expenses of civil proceedings for causes of action, does not entail contradicting the policy of not excessively diminishing the assets available for confiscation. Rather, as with reasonable living expenses, it will be for the courts to follow the “legislative steer” in section 69(2) so as to strike the correct balance in the exercise of their discretion in determining whether the legal expenses are reasonable. An application to vary a restraint order to permit excessive legal expenses should be refused. On the best interpretation of the statute, whether the legal expenses of civil proceedings for causes of action are reasonable, so as to permit a variation of the restraint order, is a matter falling within the discretion of the courts rather than such expenses being mandatorily precluded by the restraint order.
+</a></li>
+<p> </p>  
+<li value="35"><a name="para35"> Having pointed out the unfairness that the CPS’s “absolute prohibition” interpretation would produce, Popplewell LJ went on, at the end of para 46, to emphasise that recognising a judicial discretion would be a preferable way to proceed:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“If, as we have concluded, subsection (4) is not a complete bar, then the degree of overlap and amount of permitted expenditure can be determined in the exercise of a discretion. The CPS argument of absolute prohibition, however, precludes justice being done in this way.”</p>  
+<li value="36"><a name="para36"> Mr Talbot submitted that leaving the legal expenses of civil proceedings for causes of action to be dealt with at the discretion of the courts dealing with restraint orders would be problematic because the relevant judges would be Crown Court judges with limited experience of civil proceedings. But sometimes the relevant judge will be a Crown Court judge who also sits in civil cases or a High Court judge who can reconstitute himself or herself as a Crown Court judge. In any event, I do not accept that this would raise any practical problem. The issues as to whether the legal expenses are reasonable do not raise complex questions of civil law and Crown Court judges already have, and must exercise, a discretion to deal with the legal expenses of civil proceedings (eg divorce proceedings) that very clearly have nothing to do with any criminal offence and therefore indisputably fall outside section 41(4).
+</a></li>
+<p> </p>  
+<li value="37"><a name="para37"> Popplewell LJ further reasoned - this was his second reason for rejecting the CPS’s submission - that a blanket preclusion may even operate to contradict the policy of ensuring maximum confiscation of a criminal’s ill-gotten gains. This will be in cases where legal expenses incurred on the civil cause of action are likely to lead to the recovery of funds or a favourable settlement. He said this at para 45:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“the construction advanced by the CPS would have the effect of frustrating rather than fulfilling the purpose of the statute. The defendant might be a claimant, or a Part 20 claimant, in the civil proceedings, seeking to make a recovery; and so seeking to spend money with the objective of swelling the pool of assets amenable to satisfaction of a confiscation order. It is not difficult to imagine how such circumstances might obtain where the offence is a fraud and the defendant seeks contribution from third parties. To take another example, a defendant may be facing a civil claim from a claimant who is asserting a proprietary right over an asset; the effect of defeating the claim would be to preserve the asset as part of his realisable assets under the 2002 Act. It is not difficult to envisage and multiply other examples in which the legal expenditure may be for the very purpose of preserving or increasing the assets which will then be available to meet a confiscation order. Yet if Mr Talbot be right, the court has no discretion to further the statutory purpose in this way.”</p>  
+<li value="38"><a name="para38"> Mr Talbot submitted that this reasoning was in some respects “somewhat otherworldly” and that, in so far as realistic, there were other mechanisms to achieve the same end of protecting or swelling the confiscation pool, in particular the appointment of a management receiver. But while I accept that this “frustration of purpose” is not the strongest aspect of Popplewell LJ’s reasoning, the advantage of relying on a discretion is that, in contrast to a blanket prohibition, it can deal with the rare case where allowing the defendant reasonable legal expenses can help to satisfy the legislative purpose by funding civil proceedings that may swell or maintain the confiscation pool (and without the expense of appointing a receiver).
+</a></li>
+<p> </p>  
+<p class="Paraheading2"><span style="font-size:13.0pt;line-height:200%">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The case law</span></p>  
+<li value="39"><a name="para39"> In paras 20-21 above, I have looked at two previous decisions of the Court of Appeal. Popplewell LJ’s fourth reason was that those cases supported the approach he was taking. In my view, that overstates the position. Nevertheless, I accept that the interpretation I am adopting reflects the spirit of the reasoning of the Court of Appeal in <i>In re S </i>which, as we have seen, stressed the draconian nature of a restraint order and was reluctant to depart from leaving even legal expenses in restraint proceedings to the discretion of the court.
+</a></li>
+<p> </p>  
+<li value="40"><a name="para40"> Moreover, although Mr Talbot submitted that the outcome in <i>R v AP and U Ltd </i>directly supported the CPS’s case, that case is plainly distinguishable from the present case and the reasoning and decision in that case is consistent with the approach here being taken. That is because the judicial review proceedings, albeit civil proceedings, were triggered by the suspected criminal offence(s) of money laundering and were bound up with the criminal process. I therefore agree with what Popplewell LJ said on this at para 50:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“That aspect of the decision does not in our view assist Mr Talbot’s argument. The subject matter of the judicial review proceedings was the SOCA decision to refuse permission to continue facilities because of suspected money laundering; that was a decision taken in exercise of powers related to investigation of money laundering offences, and it was the criminal investigation into the same money laundering which constituted the offence which gave rise to the restraint order. Although judicial review proceedings are civil in nature, the challenge was in substance to the criminal investigation process and parasitic upon it. The case provides no authority that the subsection applies generally to civil proceedings which are independent of the criminal inquiry or process.”</p>  
+<p class="Paraheading2"><span style="font-size:13.0pt;line-height:200%">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Section 245C of POCA</span></p>  
+<li value="41"><a name="para41"> For completeness, I should add that I prefer not to place any reliance on Popplewell LJ’s fifth reason. This was the contrast to section 245C of POCA which applies to civil recovery proceedings under Part 5. Mr Talbot submitted that the principles of statutory interpretation indicate that, at least normally, it is inappropriate to place any reliance on a later amendment, such as section 245C (which amended POCA in 2015), in interpreting an earlier unamended section, such as section 41(4). As it is unnecessary to do so, I prefer not to say anything about that interesting question of statutory interpretation.
+</a></li>
+<p> </p>  
+<p class="ParaHeading1">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">Conclusion</span></p>  
+<li value="42"><a name="para42"> My primary reasons for answering the certified question “no” are the natural meaning of the words “relate to an offence” in their context; and that, consistently with that meaning, the purpose or policy of section 41(4) is best understood as not precluding an exception for legal expenses in respect of civil proceedings for causes of action. In contrast, the provision precludes the legal expenses of defending the alleged criminal offence(s) and resisting the confiscation and restraint orders themselves. On the correct interpretation, legal expenses in respect of civil proceedings for causes of action (such as for torts or equitable wrongs) are not precluded but are controlled by the courts’ discretion in the same way as, for example, living expenses.
+</a></li>
+<p> </p>  
+<li value="43"><a name="para43"> For these reasons, I would dismiss the appeal.
+</a></li>
+<p> </p> </ol>  </div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/23.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

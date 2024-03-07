@@ -1,0 +1,827 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Jones v Birmingham City Council &amp; Anor (Rev1) [2023] UKSC 27 (19 July 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:"Segoe UI";  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Gisha;} @font-face  {font-family:"Univers \(W1\)";}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} h1  {mso-style-link:"Heading 1 Char";  margin-top:12.0pt;  margin-right:0cm;  margin-bottom:0cm;  margin-left:0cm;  page-break-after:avoid;  font-size:16.0pt;  font-family:"Calibri Light",sans-serif;  color:#2F5496;  font-weight:normal;} h4  {mso-style-link:"Heading 4 Char";  margin-right:0cm;  margin-left:0cm;  font-size:12.0pt;  font-family:"Times New Roman",serif;  font-weight:bold;} p.MsoCommentText, li.MsoCommentText, div.MsoCommentText  {mso-style-link:"Comment Text Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} a:link, span.MsoHyperlink  {color:blue;  text-decoration:underline;} a:visited, span.MsoHyperlinkFollowed  {color:#954F72;  text-decoration:underline;} p  {margin-right:0cm;  margin-left:0cm;  font-size:12.0pt;  font-family:"Times New Roman",serif;} p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject  {mso-style-link:"Comment Subject Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.MsoRMPane, li.MsoRMPane, div.MsoRMPane  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} p.Caveat, li.Caveat, div.Caveat  {mso-style-name:Caveat;  margin:0cm;  text-align:justify;  border:none;  padding:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.Paraheading2, li.Paraheading2, div.Paraheading2  {mso-style-name:"Paraheading 2";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.Paraheading3, li.Paraheading3, div.Paraheading3  {mso-style-name:"Paraheading 3";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  text-decoration:underline;} p.Embargo, li.Embargo, div.Embargo  {mso-style-name:Embargo;  margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:0cm;  text-align:justify;  line-height:107%;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.Bulletpara, li.Bulletpara, div.Bulletpara  {mso-style-name:"Bullet para";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.Paraheading4, li.Paraheading4, div.Paraheading4  {mso-style-name:"Paraheading 4";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.Paraheading5, li.Paraheading5, div.Paraheading5  {mso-style-name:"Paraheading 5";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.Paraheading6, li.Paraheading6, div.Paraheading6  {mso-style-name:"Paraheading 6";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.CourtOrder, li.CourtOrder, div.CourtOrder  {mso-style-name:"Court Order";  margin:0cm;  line-height:107%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  color:#C00000;  font-weight:bold;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaSubHeading2, li.ParaSubHeading2, div.ParaSubHeading2  {mso-style-name:ParaSubHeading2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.ParaSubHeading3, li.ParaSubHeading3, div.ParaSubHeading3  {mso-style-name:ParaSubHeading3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaNoNumberApproved, li.ParaNoNumberApproved, div.ParaNoNumberApproved  {mso-style-name:ParaNoNumberApproved;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.Heading4Char  {mso-style-name:"Heading 4 Char";  mso-style-link:"Heading 4";  font-family:"Times New Roman",serif;  font-weight:bold;} p.legclearfix1, li.legclearfix1, div.legclearfix1  {mso-style-name:legclearfix1;  margin-right:0cm;  margin-left:0cm;  font-size:12.0pt;  font-family:"Times New Roman",serif;} span.legds  {mso-style-name:legds;} p.elementtoproof, li.elementtoproof, div.elementtoproof  {mso-style-name:elementtoproof;  margin:0cm;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} span.contentpasted1  {mso-style-name:contentpasted1;} span.apple-converted-space  {mso-style-name:apple-converted-space;} span.costarpage  {mso-style-name:co_starpage;} span.coitalic  {mso-style-name:co_italic;} span.CommentTextChar  {mso-style-name:"Comment Text Char";  mso-style-link:"Comment Text";  font-family:"Calibri",sans-serif;} span.CommentSubjectChar  {mso-style-name:"Comment Subject Char";  mso-style-link:"Comment Subject";  font-family:"Calibri",sans-serif;  font-weight:bold;} span.Heading1Char  {mso-style-name:"Heading 1 Char";  mso-style-link:"Heading 1";  font-family:"Calibri Light",sans-serif;  color:#2F5496;} p.pf0, li.pf0, div.pf0  {mso-style-name:pf0;  margin-right:0cm;  margin-left:0cm;  font-size:12.0pt;  font-family:"Times New Roman",serif;} span.cf01  {mso-style-name:cf01;  font-family:"Segoe UI",sans-serif;} p.Default, li.Default, div.Default  {mso-style-name:Default;  margin:0cm;  text-autospace:none;  font-size:12.0pt;  font-family:"Times New Roman",serif;  color:black;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" link="blue" vlink="#954F72" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Jones v Birmingham City Council &amp; Anor (Rev1) [2023] UKSC 27 (19 July 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/27.html</i>
+<br>Cite as: 
+[2023] UKSC 27,
+
+[2023] WLR(D) 317,
+
+[2023] 3 WLR 343
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/27.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2018001283/casereport_45db6f66-4a7e-4bf1-999a-fb9c6b92e084/html">[2023] 3 WLR 343</a>]
+[View ICLR summary: <a href="https://www.iclr.co.uk/document/2018001283/casereport_b7e8c4c7-f304-4ed9-a248-696d49971b4a/html">[2023] WLR(D) 317</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/27.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/27.image1.pdf">Issues &amp; Facts</a></span></b></p> <div class="WordSection1">  
+
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b>Trinity Term</b></a></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>[2023] UKSC 27</b></p>  
+
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/1189.html">[2018] EWCA Civ 1189</a></i></p>  
+
+<p class="JudgmentTitle">JUDGMENT</p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">Jones (Appellant)<br><i>v</i><br>Birmingham City Council and another (Respondents)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Reed, President </p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hodge, Deputy President</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Lloyd-Jones</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Sales</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Stephens</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lady Rose</p>  
+
+<p class="JudgmentJudges">Lord Richards</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">19 July 2023</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges">Heard on 30 and 31 January 2023</p>  </div>  <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>Appellant</i></a></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Helen Mountfield KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">James Stark</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Community Law Partnership)</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent - Birmingham City Council</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Jonathan Manning</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Charlotte Crocombe</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Birmingham City Council)</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent - Secretary of State for the Home Department</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Samantha Broadfoot KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Yaaser Vanderman</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Government Legal Department)</p>  
+
+<p class="JudgmentAppRespInt"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">Lord Lloyd-Jones (</a><span style="text-transform:none">with whom Lord Reed, Lord Hodge, Lord Sales, Lord Stephens, Lady Rose and Lord Richards agree</span>):</p>  <ol>
+
+<li value="1"><a name="para1"> This appeal concerns the power of the courts on the application of public authorities to grant injunctions to prevent gang-related violence and drug-dealing activity pursuant to section 34 of the Policing and Crime Act 2009 (“the 2009 Act”) and to grant injunctions pursuant to Part 1 of the Anti-social Behaviour, Crime and Policing Act 2014 (“the 2014 Act”). More specifically it concerns the question whether article 6(1) of the European Convention on Human Rights (“ECHR”), as given effect within the United Kingdom by the Human Rights Act 1998 (“HRA 1998”), requires the criminal standard of proof (ie proof beyond a reasonable doubt) to be satisfied in respect of:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proof that a person has engaged in or has encouraged or assisted gang-related violence or gang-related drug dealing activity within section 34(2) of the 2009 Act; and</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proof that a person has engaged or threatens to engage in anti-social behaviour within section 1(1) of the 2014 Act.</p>  
+
+<li value="2"><a name="para2"> Section 34(2) of the 2009 Act and section 1(2) of the 2014 Act provide expressly that the court must be satisfied that these respective conditions are met on the balance of probabilities (ie to the civil standard). Furthermore, it is now established that such applications under the 2009 Act and the 2014 Act are civil proceedings, both as a matter of domestic law and for the purposes of the ECHR. Nevertheless, it is submitted on behalf of the appellant that the right to a fair hearing under article 6(1) of the ECHR requires the application of the criminal standard of proof in proceedings brought by public authorities to obtain injunctive relief under these provisions, because of the potentially significant effects upon a person’s right to respect for his family life, private life and home, and upon that person’s rights of freedom of association and expression. In the light of the express statutory provisions, it is accepted on behalf of the appellant that the only basis on which the appeal can succeed is by establishing that article 6(1) of the ECHR as given effect by the HRA 1998 requires the application of the criminal standard of proof in such circumstances. It is further accepted on behalf of the appellant that this is not a case where it is possible to read down the statutory provisions pursuant to section 3 of the HRA 1998 in order to give effect to Convention rights. Accordingly, the remedy sought is a declaration of incompatibility pursuant to section 4 of the HRA 1998.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><u><span style="text-transform:none;font-weight:normal">Background to these proceedings</span></u></p>  
+
+<li value="3"><a name="para3"> The background to these proceedings is of some importance and is set out in detail in the judgment of Sir Brian Leveson P in the Court of Appeal </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/1189.html">[2019] QB 521</a> on which I gratefully draw for this purpose. He states (at paras 1-2):
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“1 Gang-related violence and the resulting public disorder have become a scourge which affects many cities. It may flow from drug-dealing but is not unusually accompanied by the discharge of firearms or other acts of extreme violence directed at members of other gangs such that entirely innocent members of the public can become caught up in the cross fire. Investigation of such incidents is rendered more difficult (if not impossible) by the refusal of those who are injured to assist the police by naming their attackers (whom they will frequently have recognised), either because they fear the potentially violent consequences of doing so or because they prefer to take the law into their own hands and retaliate in like mode. Additionally, members of the public are fearful of being involved in prosecutions because of the risk of intimidation and violence. The result is not only that public safety is seriously affected but also that maintenance of the rule of law is endangered.</p>  
+
+<p class="MsoQuote">2 The challenge presented by this type of behaviour is not to be underestimated. It has been felt particularly acutely in various areas of Birmingham where a gang known as the ‘Guns and Money Gang’ (‘GMG’) is said to operate. The GMG aligns its loyalty with another gang, ‘the Johnson Crew’, which was previously contained within the INCH 1 gang. However, the INCH 1 fractured into the Johnson Crew and ‘the Burger Bar gang’ following an internal dispute, and these two breakaway groups have been intense rivals ever since. This rivalry increased during the 1990s with both groups (and smaller affiliates) claiming postcode areas as ‘their’ territory. An example of the violence that spilled out as a result is the infamous murder, at a New Year’s Eve party in January 2003, of Leticia Shakespeare and Charlene Ellis, who were caught in the cross fire of automatic machine gun fire wielded by offenders linked to the Burger Bar Gang targeting members of the Johnson Crew.”</p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<li value="4"><a name="para4"> The President explains that in an attempt to address the inability of the criminal justice system to bring the perpetrators of gang-related crime to justice Birmingham City Council sought to use section 222 of the Local Government Act 1972 and commenced proceedings for injunctions against named individuals alleged to be involved. In <i>Birmingham City Council v Shafi</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2008/1186.html">[2008] EWCA Civ 1186</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2008/1186.html">[2009] 1 WLR 1961</a> it was held that such an application for the purpose of preventing gang-related activity should be refused by the court in its discretion, save in exceptional cases, because Parliament had intended the authorities to use anti-social behaviour orders under the Crime and Disorder Act 1998 for this purpose and that the applicable standard of proof in such cases as would warrant an injunction was the criminal standard so as to achieve parity with the anti-social behaviour order regime.
+</li>
+<p> </p>  
+
+<li value="5"><a name="para5"> Subsequently, the 2009 Act, aimed at reversing the effect of <i>Shafi</i>, introduced a new remedy enabling the County Court or the High Court to grant an injunction for the purpose of preventing gang-related violence. By section 51 of the Serious Crime Act 2015 (“the 2015 Act”), which came into force on 1 June 2015, the statutory purpose was extended to gang-related drug-dealing activity. The 2014 Act replaced the old scheme for anti-social behaviour orders with effect from 23 March 2015.
+</a></li>
+<p> </p>  
+
+<li value="6"><a name="para6"> The President explains that the violence did not abate and that the resulting social problems in Birmingham remained acute. He refers, at para 6, by way of example to a statement dated 11 February 2016 by a police officer in support of these proceedings.
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Over the last 6 months, there have been more than 11 firearm discharges alone and 4 more reported shootings in Birmingham City involving two separate gangs; innocent members of the public have been shot or put at risk. Incidents have occurred in busy areas during the day time. The number of incidents alone is alarming and the local press are reporting heavily on each and every shooting, which in itself is alarming for the public and is spreading fear among the communities.” </p>  
+
+<p class="ParaHeading1"><u><span style="text-transform:none;font-weight:normal">The present proceedings</span></u></p>  
+
+<li value="7"><a name="para7"> In February 2016, following investigation by the West Midlands Police, proceedings were commenced by Birmingham City Council against the appellant, Mr Jerome Jones, and 17 other defendants all of whom were said to be members of the GMG or a rival gang. The applications for injunctive relief were made under the 2009 Act and, in the alternative, the 2014 Act. On 15 February 2016, in the Birmingham County Court, on an application without notice, HH Judge McKenna granted an interim injunction against the appellant and 17 others pursuant to section 34 of the 2009 Act and section 1 of the 2014 Act. These injunctions, including the injunction against the appellant, were later continued by HH Judge Worster.
+</a></li>
+<p> </p>  
+
+<li value="8"><a name="para8"> On 3 May 2016, the appellant applied for the injunction claim in his case to be transferred to the High Court, in order to apply for a declaration under section 4 of the HRA 1998 that section 34(2) of the 2009 Act and section 1(2) of the 2014 Act were incompatible with article 6 ECHR. On 27 May 2016, HHJ Worster transferred the application to the High Court solely for the purpose of determining the section 4 HRA application as a preliminary issue. That application was heard, combined with a similar application in a case pursued in Liverpool (<i>Chief Constable of Merseyside Police v Joyce</i>), by Burton J on 11 October 2016. At that hearing the judge was referred to the decision of Kerr J in <i>Chief Constable of Lancashire v Wilson</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2015/2763.html">[2015] EWHC 2763 (QB)</a> in which the judge had, after hearing full argument, rejected the challenge alleging incompatibility with the ECHR. The decision of Kerr J was to have been the subject of an appeal but the case was discontinued by the Chief Constable of Lancashire for reasons unconnected with the merits of the legal challenge. At the hearing before Burton J, the judge expressed the view, on the papers, that he agreed with the judgment of Kerr J. He was prepared to grant permission to appeal. On that basis the parties agreed that he would so rule. Accordingly, Burton J held that the proceedings in this case were not in respect of a criminal charge and did not require the application of the criminal standard of proof.
+</li>
+<p> </p>  
+
+<li value="9"><a name="para9"> In 2017 the trial of the action came before HH Judge Carmel Wall in the Birmingham County Court. Judge Wall tried the applications for injunctions against all of the original defendants except the second defendant, who had moved from Birmingham, and against an additional 18th defendant. In an extensive judgment delivered on 12 July 2017 Judge Wall concluded, applying the civil standard of proof, that the appellant, Mr Jones, had been involved in gang-related drug-dealing activity and therefore satisfied the first condition in section 34(2) of the 2009 Act. On 13 July 2017 Judge Wall granted an injunction against the appellant, pursuant to sections 34-36 of the 2009 Act, as amended by the Crime and Security Act 2010 and the 2015 Act. She therefore did not consider the application for an injunction under Part 1 of the 2014 Act. The injunction was in the following terms:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Jerome Jones (whether by himself or by instructing, encouraging or allowing any other person) SHALL NOT</p>  
+
+<p class="MsoQuote">1. Use or threaten to use violence, harass or intimidate any person.</p>  
+
+<p class="MsoQuote">2. Enter the area outlined in red on the map attached to this Order except that he may:</p>  
+
+<p class="MsoQuote">i. Enter the Birmingham City Hospital site from Spring Hill/Dudley Road or Western Road when attending at that hospital for a pre-arranged appointment or emergency treatment and</p>  
+
+<p class="MsoQuote">ii. Travel through the area without stopping, to attend Birmingham City Hospital for treatment in an emergency vehicle or at the direction of the emergency services.</p>  
+
+<p class="MsoQuote">3. Associate with, contact or attempt to contact, whether directly or through another person, by any means whatsoever, including social media, any of the following [10 named] people ...</p>  
+
+<p class="MsoQuote">4. Be in possession of any controlled drug or psychoactive substance as defined by the Misuse of Drugs Act 1971 and the Psychoactive Substances Act 2016 (unless he has a prescription for that drug).</p>  
+
+<p class="MsoQuote">5. Participate in any music video that he knows or ought to know includes any material that relates to the Johnson Crew, Burger Bar Gang or any other gang affiliated to either of those gangs including the GMG and AR gangs, and that may have the effect of promoting, supporting or assisting gang-related violence or drug-dealing by such gangs.”</p>  
+
+<p class="ParaNoNumber">The area outlined in red covered a substantial part of the centre of Birmingham including much of Handsworth and Winson Green and including Lozells and Newtown to the East. Further, the court ordered that a power of arrest under section 36(6) of the 2009 Act (as amended) applied to paragraphs 1-4 of the order and that it should continue until 4.00pm on 12 July 2019 unless, before that date, it was varied or discharged by the court.</p>  
+
+<li value="10"><a name="para10"> The appeal against the order of Burton J was heard by the Court of Appeal (Sir Brian Leveson P, Underhill and Irwin LJJ) on 24 and 25 April 2018. In a judgment delivered on 23 May 2018 (</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/1189.html">[2019] QB 521</a>) the President, with whom the other members of the court agreed, held that 
+</li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proceedings under section 34 of the 2009 Act do not involve a criminal charge within article 6(1) of the ECHR; and</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The standard of proof for proving the threshold conditions prescribed by section 34 of the 2009 Act for applications for injunctions in respect of gang-related drug-dealing and by section 1(2) of the 2014 Act for applications for injunctions in respect of anti-social behaviour as defined by section 2(1)(a) of that Act, namely proof on the balance of probabilities, is compatible with article 6 of the ECHR.</p>  
+
+<li value="11"><a name="para11"> On 9 October 2018 the appellant’s applications for permission to appeal against the making of the injunction and in particular against some aspects of its scope were refused by Jefford J.
+</a></li>
+<p> </p>  
+
+<li value="12"><a name="para12"> The appellant now appeals to the Supreme Court against the decision of the Court of Appeal, pursuant to leave granted by the Supreme Court on 30 March 2022. It is no longer maintained on behalf of the appellant that the proceedings against him under section 34 of the 2009 Act involve a criminal charge within article 6(1) of the ECHR. As a result the principal issues on this appeal are as follows.
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether the Court of Appeal erred in law by distinguishing and declining to follow the decision of the House of Lords in <i>R (McCann) v Crown Court at Manchester</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/39.html">[2003] 1 AC 787</a> (“<i>McCann</i>”) that the criminal standard of proof should be applied in proceedings in respect of an anti-social behaviour order under section 1, Crime and Disorder Act 1998, and in failing to apply that standard of proof to applications for injunctions under section 34 of the 2009 Act and section 1 of the 2014 Act (based on conduct under section 2(1)(a) of that Act).</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the Court of Appeal was entitled to depart from the decision of the House of Lords in <i>McCann</i>, whether, in any event, it erred in law in holding that the criminal standard of proof did not need to be applied to the first condition under section 34 of the 2009 Act and section 1(2) of the 2014 Act in order to satisfy the requirements of fairness in article 6(1) of the ECHR when considering whether to make an injunction under either or both of those provisions.</p>  
+
+<li value="13"><a name="para13"> The question whether article 6(1) of the ECHR requires the application of the criminal standard of proof in these circumstances and the effect of the decision of the House of Lords in <i>McCann</i> will be considered in turn.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><u><span style="text-transform:none;font-weight:normal">The legislation</span></u></p>  
+
+<p class="ParaSubHeading1"><u><span style="font-weight:normal;font-style:normal">The 2009 Act</span></u></p>  
+
+<li value="14"><a name="para14"> Sections 34 and 35 of the 2009 Act as amended by the Crime and Security Act 2009 and the 2015 Act provide in relevant part: 
+</a></li>
+<p> </p>  
+
+<p class="Default" style="margin-left:0cm;text-indent:0cm">&nbsp;</p>  
+
+<p class="MsoQuote"><i>34 Injunctions to prevent gang-related violence and drug-dealing activity</i></p>  
+
+<p class="MsoQuote">(1) A court may grant an injunction under this section against a respondent aged 14 or over if the first and second conditions are met.</p>  
+
+<p class="MsoQuote">(2) The first condition is that the court is satisfied on the balance of probabilities that the respondent has engaged in or has encouraged or assisted—</p>  
+
+<p class="MsoQuote">(a) gang-related violence, or</p>  
+
+<p class="MsoQuote">(b) gang-related drug-dealing activity.</p>  
+
+<p class="MsoQuote">(3) The second condition is that the court thinks it is necessary to grant the injunction for either or both of the following purposes—</p>  
+
+<p class="MsoQuote">(a) to prevent the respondent from engaging in, or encouraging or assisting, gang-related violence or gang-related drug-dealing activity;</p>  
+
+<p class="MsoQuote">(b) to protect the respondent from gang-related violence or gang-related drug-dealing activity.</p>  
+
+<p class="MsoQuote">(4) An injunction under this section may (for either or both of those purposes)—</p>  
+
+<p class="MsoQuote">(a) prohibit the respondent from doing anything described in the injunction;</p>  
+
+<p class="MsoQuote">(b) require the respondent to do anything described in the injunction.</p>  
+
+<p class="MsoQuote">(5) For the purposes of this section, something is ‘gang-related’ if it occurs in the course of, or is otherwise related to, the activities of a group that—</p>  
+
+<p class="MsoQuote">(a) consists of at least three people, and</p>  
+
+<p class="MsoQuote">(b) has one or more characteristics that enable its members to be identified by others as a group.</p>  
+
+<p class="MsoQuote">(6) In this section ‘violence’ includes a threat of violence.</p>  
+
+<p class="MsoQuote">(7) In this Part ‘drug-dealing activity’ means—</p>  
+
+<p class="MsoQuote">(a) the unlawful production, supply, importation or exportation of a controlled drug, or</p>  
+
+<p class="MsoQuote">(b) the unlawful production, supply, importation or exportation of a psychoactive substance.</p>  
+
+<p class="MsoQuote">(8) In subsection (7)—</p>  
+
+<p class="MsoQuote">(a) in paragraph (a), ‘production’, ‘supply’ and ‘controlled drug’ have the meaning given by section 37(1) of the Misuse of Drugs Act 1971;</p>  
+
+<p class="MsoQuote">(b) in paragraph (b), ‘production’, ‘supply’ and ‘psychoactive substance’ have the meaning given by section 59 of the Psychoactive Substances Act 2016.</p>  
+
+<p class="MsoQuote"><i>35 Contents of injunctions</i></p>  
+
+<p class="MsoQuote">(1) This section applies in relation to an injunction under section 34.</p>  
+
+<p class="MsoQuote">(2) The prohibitions included in the injunction may, in particular, have the effect of prohibiting the respondent from—</p>  
+
+<p class="MsoQuote">(a) being in a particular place;</p>  
+
+<p class="MsoQuote">(b) being with particular persons in a particular place;</p>  
+
+<p class="MsoQuote">(c) being in charge of a particular species of animal in a particular place;</p>  
+
+<p class="MsoQuote">(d) wearing particular descriptions of articles of clothing in a particular place;</p>  
+
+<p class="MsoQuote">(e) using the internet to facilitate or encourage violence or drug-dealing activity.</p>  
+
+<p class="MsoQuote">(3) The requirements included in the injunction may, in particular, have the effect of requiring the respondent to—</p>  
+
+<p class="MsoQuote">(a) notify the person who applied for the injunction of the respondent’s address and of any change to that address;</p>  
+
+<p class="MsoQuote">(b) be at a particular place between particular times on particular days;</p>  
+
+<p class="MsoQuote">(c) present himself or herself to a particular person at a place where he or she is required to be between particular times on particular days;</p>  
+
+<p class="MsoQuote">(d) participate in particular activities between particular times on particular days.</p>  
+
+<p class="MsoQuote">(4) A requirement of the kind mentioned in subsection (3)(b) may not be such as to require the respondent to be at a particular place for more than 8 hours in any day.</p>  
+
+<p class="MsoQuote">(5) The prohibitions and requirements included in the injunction must, so far as practicable, be such as to avoid—</p>  
+
+<p class="MsoQuote">(a) any conflict with the respondent’s religious beliefs, and</p>  
+
+<p class="MsoQuote">(b) any interference with the times, if any, at which the respondent normally works or attends any educational establishment.</p>  
+
+<p class="MsoQuote">(6) Nothing in subsection (2) or (3) affects the generality of section 34(4).</p>  
+
+<p class="MsoQuote">(7) In subsection (2) ‘place’ includes an area.”</p>  
+
+<li value="15"><a name="para15"> Section 36(2) provides that an injunction may not include a prohibition or requirement that has effect after the end of the period of two years beginning with the day on which the injunction is granted. Section 36(2)-(4A) makes provision for review hearings with the purpose of considering whether to vary or discharge an injunction.
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“<i>36 Contents of injunctions: supplemental</i></p>  
+
+<p class="MsoQuote">(2) The injunction may not include a prohibition or requirement that has effect after the end of the period of 2 years beginning with the day on which the injunction is granted (‘the injunction date’).</p>  
+
+<p class="MsoQuote">(3) The court may order the applicant and the respondent to attend one or more review hearings on a specified date or dates.</p>  
+
+<p class="MsoQuote">(4) If any prohibition or requirement in the injunction is to have effect after the end of the period of 1 year beginning with the injunction date, the court must order the applicant and the respondent to attend a review hearing on a specified date within the last 4 weeks of the 1 year period (whether or not the court orders them to attend any other review hearings). </p>  
+
+<p class="MsoQuote">(4A) Where—</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a) the respondent is under the age of 18 on the injunction date, and</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b) any prohibition or requirement in the injunction is to have effect after the respondent reaches that age and for at least the period of four weeks beginning with the respondent’s 18th birthday,</p>  
+
+<p class="MsoQuote">the court must order the applicant and the respondent to attend a review hearing on a specified date within that period.”</p>  
+
+<li value="16"><a name="para16"> Section 36(6) and (7) provide for a power of arrest:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“(6) The court may attach a power of arrest in relation to—</p>  
+
+<p class="MsoQuote">(a) any prohibition in the injunction, or</p>  
+
+<p class="MsoQuote">(b) any requirement in the injunction, other than one which has the effect of requiring the respondent to participate in particular activities.</p>  
+
+<p class="MsoQuote">(7) If the court attaches a power of arrest, it may specify that the power is to have effect for a shorter period than the prohibition or requirement to which it relates.”</p>  
+
+<li value="17"><a name="para17"> Section 37 provides that an application for an injunction under section 34 may be made by the chief officer of police for a police area, the chief constable of the British Transport Police Force or a local authority.
+</a></li>
+<p> </p>  
+
+<li value="18"><a name="para18"> Before applying for a gang injunction, the applicant must comply with the consultation requirements set out in section 38(2). These include mandatory consultation with any local authority and chief police officer considered appropriate to consult, the youth offending team and any other body or individual considered appropriate to consult.
+</a></li>
+<p> </p>  
+
+<li value="19"><a name="para19"> Section 46B provides for a respondent under 18 a statutory right of appeal to the Crown Court against a decision made by a youth court to make a gang injunction.
+</a></li>
+<p> </p>  
+
+<li value="20"><a name="para20"> The Secretary of State was under an obligation to review the operation of Part 4 of the 2009 Act and to publish a report on the outcome of the review within three years of its coming into force. The report was published in 2014.
+</a></li>
+<p> </p>  
+
+<li value="21"><a name="para21"> The breach of a gang injunction is not a criminal offence. Committal proceedings may be brought for contempt of court. In respect of those under 18, supervision orders or detention orders may be made where breach of a gang injunction is proved beyond reasonable doubt (Schedule 5A, para 1).
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><u><span style="font-weight:normal;font-style:normal">The 2014 Act</span></u></p>  
+
+<li value="22"><a name="para22"> Sections 1 and 2 of 2014 Act provide in relevant part:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“<i>1 Power to grant injunctions</i></p>  
+
+<p class="MsoQuote">(1) A court may grant an injunction under this section against a person aged 10 or over (‘the respondent’) if two conditions are met.</p>  
+
+<p class="MsoQuote">(2) The first condition is that the court is satisfied, on the balance of probabilities, that the respondent has engaged or threatens to engage in anti-social behaviour.</p>  
+
+<p class="MsoQuote">(3) The second condition is that the court considers it just and convenient to grant the injunction for the purpose of preventing the respondent from engaging in anti-social behaviour.</p>  
+
+<p class="MsoQuote">(4) An injunction under this section may for the purpose of preventing the respondent from engaging in anti-social behaviour—</p>  
+
+<p class="MsoQuote">(a) prohibit the respondent from doing anything described in the injunction;</p>  
+
+<p class="MsoQuote">(b) require the respondent to do anything described in the injunction.</p>  
+
+<p class="MsoQuote">(5) Prohibitions and requirements in an injunction under this section must, so far as practicable, be such as to avoid—</p>  
+
+<p class="MsoQuote">(a) any interference with the times, if any, at which the respondent normally works or attends school or any other educational establishment;</p>  
+
+<p class="MsoQuote">(b) any conflict with the requirements of any other court order or injunction to which the respondent may be subject.</p>  
+
+<p class="MsoQuote">(6) An injunction under this section must—</p>  
+
+<p class="MsoQuote">(a) specify the period for which it has effect, or</p>  
+
+<p class="MsoQuote">(b) state that it has effect until further order.</p>  
+
+<p class="MsoQuote">In the case of an injunction granted before the respondent has reached the age of 18, a period must be specified and it must be no more than 12 months.</p>  
+
+<p class="MsoQuote">(7) An injunction under this section may specify periods for which particular prohibitions or requirements have effect.</p>  
+
+<p class="MsoQuote">(8) An application for an injunction under this section must be made to—</p>  
+
+<p class="MsoQuote">(a) a youth court, in the case of a respondent aged under 18;</p>  
+
+<p class="MsoQuote">(b) the High Court or the county court, in any other case.</p>  
+
+<p class="MsoQuote">Paragraph (b) is subject to any rules of court made under section 18(2).</p>  
+
+<p class="MsoQuote"><i>2 Meaning of ‘anti-social behaviour’</i></p>  
+
+<p class="MsoQuote">(1) In this Part ‘anti-social behaviour’ means—</p>  
+
+<p class="MsoQuote">(a) conduct that has caused, or is likely to cause, harassment, alarm or distress to any person,</p>  
+
+<p class="MsoQuote">(b) conduct capable of causing nuisance or annoyance to a person in relation to that person's occupation of residential premises, or</p>  
+
+<p class="MsoQuote">(c) conduct capable of causing housing-related nuisance or annoyance to any person.</p>  
+
+<p class="MsoQuote">(2) Subsection (1)(b) applies only where the injunction under section 1 is applied for by—</p>  
+
+<p class="MsoQuote">(a) a housing provider,</p>  
+
+<p class="MsoQuote">(b) a local authority, or</p>  
+
+<p class="MsoQuote">(c) a chief officer of police.</p>  
+
+<p class="MsoQuote">(3) In subsection (1)(c) ‘housing-related’ means directly or indirectly relating to the housing management functions of—</p>  
+
+<p class="MsoQuote">(a) a housing provider, or</p>  
+
+<p class="MsoQuote">(b) a local authority.</p>  
+
+<p class="MsoQuote">(4) For the purposes of subsection (3) the housing management functions of a housing provider or a local authority include—</p>  
+
+<p class="MsoQuote">(a) functions conferred by or under an enactment;</p>  
+
+<p class="MsoQuote">(b) the powers and duties of the housing provider or local authority as the holder of an estate or interest in housing accommodation.”</p>  
+
+<li value="23"><a name="para23"> Section 3 provides certain protections in respect of requirements:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“<i>3 Requirements included in injunctions</i></p>  
+
+<p class="MsoQuote">(1) An injunction under section 1 that includes a requirement must specify the person who is to be responsible for supervising compliance with the requirement.</p>  
+
+<p class="MsoQuote">The person may be an individual or an organisation.</p>  
+
+<p class="MsoQuote">(2) Before including a requirement, the court must receive evidence about its suitability and enforceability from—</p>  
+
+<p class="MsoQuote">(a) the individual to be specified under subsection (1), if an individual is to be specified;</p>  
+
+<p class="MsoQuote">(b) an individual representing the organisation to be specified under subsection (1), if an organisation is to be specified.</p>  
+
+<p class="MsoQuote">(3) Before including two or more requirements, the court must consider their compatibility with each other.</p>  
+
+<p class="MsoQuote">(4) It is the duty of a person specified under subsection (1)—</p>  
+
+<p class="MsoQuote">(a) to make any necessary arrangements in connection with the requirements for which the person has responsibility (the ‘relevant requirements’);</p>  
+
+<p class="MsoQuote">(b) to promote the respondent's compliance with the relevant requirements;</p>  
+
+<p class="MsoQuote">(c) if the person considers that the respondent—</p>  
+
+<p class="MsoQuote">(i) has complied with all the relevant requirements, or</p>  
+
+<p class="MsoQuote">(ii) has failed to comply with a relevant requirement,</p>  
+
+<p class="MsoQuote">to inform the person who applied for the injunction and the appropriate chief officer of police.</p>  
+
+<p class="MsoQuote">(5) In subsection (4)(c) ‘the appropriate chief officer of police’ means—</p>  
+
+<p class="MsoQuote">(a) the chief officer of police for the police area in which it appears to the person specified under subsection (1) that the respondent lives, or</p>  
+
+<p class="MsoQuote">(b) if it appears to that person that the respondent lives in more than one police area, whichever of the relevant chief officers of police that person thinks it most appropriate to inform.</p>  
+
+<p class="MsoQuote">(6) A respondent subject to a requirement included in an injunction under section 1 must—</p>  
+
+<p class="MsoQuote">(a) keep in touch with the person specified under subsection (1) in relation to that requirement, in accordance with any instructions given by that person from time to time;</p>  
+
+<p class="MsoQuote">(b) notify the person of any change of address.</p>  
+
+<p class="MsoQuote">These obligations have effect as requirements of the injunction.”</p>  
+
+<li value="24"><a name="para24"> Section 4 provides for a power of arrest.
+</a></li>
+<p> </p>  
+
+<li value="25"><a name="para25"> Section 5 provides that an injunction under section 1 may be granted only on the application of identified persons or bodies including a local authority and a chief officer of police for a police area.
+</a></li>
+<p> </p>  
+
+<li value="26"><a name="para26"> Section 8 provides that a court may vary or discharge an injunction under section 1 on the application of the person who applied for the injunction or the respondent.
+</a></li>
+<p> </p>  
+
+<li value="27"><a name="para27"> Before applying for an injunction under section 1, section 14 imposes an obligation to consult. If the respondent is under 18 this requires consultation with the local youth offending team and informing any other body or individual the applicant thinks appropriate.
+</a></li>
+<p> </p>  
+
+<li value="28"><a name="para28"> Section 15(1) provides for a respondent under 18 a statutory right of appeal to the Crown Court against a decision of the youth court to make a Part 1 injunction.
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><u><span style="font-weight:normal;font-style:normal">Article 6(1) of the ECHR</span></u></p>  
+
+<li value="29"><a name="para29"> Article 6 of the ECHR provides in relevant part:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“<i>Article 6</i><i><span style="text-transform:uppercase">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></i><i>Right to a fair trial</i></p>  
+
+<p class="MsoQuote">1. In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. …</p>  
+
+<p class="MsoQuote">2. Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.”</p>  
+
+<p class="ParaNoNumber">Article 6(3) sets out certain minimum rights of a person charged with a criminal offence.</p>  
+
+<li value="30"><a name="para30"> There has been no appeal against the decision of the Court of Appeal that the present proceedings are not in respect of a criminal charge and it is now common ground between the parties that these proceedings are civil proceedings both as a matter of domestic law and for the purposes of the ECHR. Accordingly, we are concerned only with article 6(1) and not with article 6(2) or (3).
+</a></li>
+<p> </p>  
+
+<li value="31"><a name="para31"> Article 6(1) does not make express reference to the burden or standard of proof in civil proceedings and it is therefore necessary to turn to the Strasbourg case law. The Strasbourg court has made no attempt to standardise the national rules of evidence applicable in proceedings before the courts of contracting states (<i>Taxquet v Belgium</i> (Grand Chamber) (Application No </a><a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;926/05&quot;]}">926/05</a>) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2010/1806.html">54 EHRR 26</a>, para 83, and <i>Şahin and v Turkey</i> (Grand Chamber) (Application No <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;13279/05&quot;]}">13279/05</a>) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2011/1787.html">54 EHRR 20</a>, para 68). (Indeed, it appears that the approaches to standards of proof by states party to the ECHR differ widely. Taruffo argues that where a standard is fixed, as in Germany, it is followed, while in other States such as France, Italy and Spain there simply are no fixed standards of proof, since the evaluation of proofs is left to the free discretion of the judge (M Taruffo, Rethinking the standards of proof, (2003) 51 Am J Comp L 659, 669.)) On the contrary the Strasbourg court has shown itself reluctant to rule on particular rules of evidence in isolation and more concerned to assess whether the national proceedings considered as a whole were fair as required by article 6(1) (<i>Mantovanelli v France</i> (Application No <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;21497/93&quot;]}">21497/93</a>) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1997/14.html">24 EHRR 370</a>, para 34; <i>Regner v Czech Republic</i> (Application No <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;35289/11&quot;]}">35289/11</a>) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2017/1180.html">66 EHRR 9</a>, para 161). Thus in <i>García Ruiz v Spain</i> (Application No <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;30544/96&quot;]}">30544/96</a>) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1999/2.html">31 EHRR 22</a>, para 28, the Grand Chamber observed:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“… [W]hile article 6 of the Convention guarantees the right to a fair hearing, it does not lay down any rules on the admissibility of evidence or the way it should be assessed, which are therefore primarily matters for regulation by national law and the national courts (see <i>Schenk v Switzerland</i> judgment of 12 July 1988, Series A no. 140, p. 29, paras 45-46).”</p>  
+
+<p class="ParaNoNumber">The court then went on, however, to note (at paras 29-30) that the applicant in that case had had the benefit of adversarial proceedings in which he was able to submit the arguments he considered relevant to his case. Furthermore, although in its view a more substantial statement by the appellate court of the reasons for its decision might have been desirable, it considered that the applicant could not validly argue that this judgment lacked reasons. It concluded that, taken as a whole, the proceedings were fair for the purposes of article 6(1). </p>  
+
+<li value="32"><a name="para32"> Similarly, in <i>Dombo Beheer BV v The Netherlands</i> (Application No </a><a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;14448/88&quot;]}">14448/88</a>) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1993/49.html">18 EHRR 213</a>, where a rule of evidence in Netherlands law had rendered inadmissible the evidence of one party to an alleged oral agreement, the Strasbourg court observed (at para 31) that the competence of witnesses is primarily governed by national law. It then described its function in respect of a fair hearing under article 6(1) in the following terms:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“31. …The court’s task is to ascertain whether the proceedings in their entirety, including the way in which evidence was permitted, were ‘fair’ within the meaning of article 6(1).</p>  
+
+<p class="MsoQuote">32. The requirements inherent in the concept of ‘fair hearing’ are not necessarily the same in cases concerning the determination of civil rights and obligations as they are in cases concerning the determination of a criminal charge. This is borne out by the absence of detailed provisions such as paragraphs 2 and 3 of article 6 applying to cases of the former category. Thus, although these provisions have a certain relevance outside the strict confines of criminal law, the contracting states have greater latitude when dealing with civil cases concerning civil rights and obligations than they have when dealing with criminal cases.</p>  
+
+<p class="MsoQuote">33. Nevertheless, certain principles concerning the notion of a ‘fair hearing’ in cases concerning civil rights and obligations emerge from the court’s case law. Most significantly for the present case, it is clear that the requirement of ‘equality of arms’, in the sense of a ‘fair balance’ between the parties, applies in principle to such cases as well as to criminal cases.” </p>  
+
+<p class="ParaNoNumber">(See also, with regard to the greater latitude accorded to national courts when dealing with civil cases, the observations of the Strasbourg court in <i>Saliba v Malta</i>, (Application No <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;24221/13&quot;]}">24221/13</a>) <a title="Link to BAILII version" href="/eu/cases/ECHR/2016/1058.html">[2016] ECHR 1058</a> at para 67, considered further below.) The court then turned to address the overall fairness of the proceedings. It considered that equality of arms implies that parties must be afforded a reasonable opportunity to present their case, including evidence, under conditions that do not place them at a substantial disadvantage vis-à-vis their opponent. It was left to the national authorities to ensure in each individual case that the requirements of a fair hearing were met. However, in <i>D</i><i>ombo Beheer </i>the applicant company had been placed at a substantial disadvantage vis-à-vis the bank and there had accordingly been a violation of article 6(1) (at paras 33-35). </p>  
+
+<li value="33"><a name="para33"> The approach of the Strasbourg court in <i>Saliba v Malta</i>, is consistent with that in <i>Dombo Beheer BV</i>. In <i>Saliba</i> civil proceedings had been brought against Mr Saliba alleging that he had robbed the claimants. The national court applied the civil standard of proof (the balance of probabilities) and held Mr Saliba liable. He then brought proceedings in Strasbourg alleging infringement of his rights under article 6(1). In particular, he alleged that the national court had failed to apply an adequate standard of proof (para 51). The Strasbourg court reiterated that while article 6 guarantees the right to a fair hearing, it does not lay down any rules on the admissibility of evidence or the way it should be assessed, which are primarily matters for regulation by national law and national courts (at para 63). However, it went on to emphasise (at paras 64-65) that article 6(1) places a tribunal under a duty to conduct a proper examination of the submissions, argument and evidence adduced by the parties. An error of law or fact by the national court which was so evident as to be characterised as a manifest error, ie an error that no reasonable court could ever have made, may be such as to disturb the fairness of the proceedings. On that basis the Strasbourg court upheld the complaint of an infringement of article 6(1) because the only objective evidence could not fulfil the test of the balance of probabilities (at paras 72-73). The significance of the decision, for present purposes, however, is that the decision turns on the arbitrary approach of the national court and that the Strasbourg court made no criticism of the application of the civil standard of proof.
+</a></li>
+<p> </p>  
+
+<li value="34"><a name="para34"> While the approach of the Strasbourg court has been to make a broad, overall assessment of the fairness of national proceedings, this is not simply a matter of intuition on the part of the court as to what it considers fairness requires. In this regard, it has placed emphasis, for example, upon principles such as equality of arms before the tribunal, affording the parties a fair opportunity to present their case, requiring the judge to behave in a judicial manner, requiring a fair assessment of the submissions and evidence by the tribunal, and the need to give reasons for the decision. It also appears that in the case of civil proceedings governed only by article 6(1), a wider discretion is afforded to national courts to apply national rules of evidence provided the result is not inconsistent with the essence of the Strasbourg court’s view of fairness.
+</a></li>
+<p> </p>  
+
+<li value="35"><a name="para35"> This approach is acknowledged in domestic decisions in this jurisdiction. In <i>R (Hammond) v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2005/69.html">[2005] UKHL 69</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2005/69.html">[2006] 1 AC 603</a> Lord Bingham of Cornhill observed at para 10:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“The European court for its part assesses the fairness of proceedings in national jurisdictions retrospectively, since applicants are required to exhaust their national remedies before resorting to it, and the court repeatedly asserts and follows the practice of making its assessment on an overall consideration of the national proceedings, viewed as a whole …” </p>  
+
+<p class="MsoQuote">(See also <i>R (Roberts) v Parole Board</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2005/45.html">[2005] UKHL 45</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2005/45.html">[2005] 2 AC 738</a> per Lord Woolf CJ at para 83(vii); <i>Secretary of State for the Home Department v MB</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2007/46.html">[2007] UKHL 46</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/46.html">[2008] 1 AC 440</a> per Lord Bingham at para 35.)</p>  
+
+<p class="ParaNoNumber">So the question becomes whether there is, considering the legislative scheme in the round, a fair balance between the interests of the parties.</p>  
+
+<li value="36"><a name="para36"> In these circumstances it is not surprising that the Strasbourg case law has little to say in respect of the standard of proof in civil cases before national courts. In <i>Tiemann v France and Germany</i> (Application No. 47457/99 and 47458/99, 27 April 2000) the court observed (at para 2):
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Article 6(1) of the Convention does not lay down any rules on the admissibility or probative value of evidence or on the burden of proof, which are essentially a matter for domestic law”.</p>  
+
+<p class="ParaNoNumber">Although the court here refers to the burden of proof and not expressly to the standard of proof, this statement is clearly wide enough to cover both. </p>  
+
+<li value="37"><a name="para37"> On the hearing of this appeal, we were also referred to a number of Strasbourg authorities concerning the standard of proof in criminal cases within article 6(2) and (3) (<i>Ringvold v Norway</i> (Application No </a><a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;34964/97&quot;]}">34964/97</a>), 11 February 2003; <i>Bikas v Germany</i> (Application No <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;76607/13&quot;]}">76607/13</a>), 25 January 2018; <i>SA Capital Oy v Finland</i> (Application No <a href="http://hudoc.echr.coe.int/sites/eng/pages/search.aspx#{&quot;appno&quot;:[&quot;5556/10&quot;]}">5556/10</a>), 14 February 2019). However, in such cases the presumption of innocence under article 6(2) has an important bearing on the burden and standard of proof, a consideration that does not apply to civil cases within article 6(1) and, as a result, we have not been assisted by these authorities. 
+</li>
+<p> </p>  
+
+<li value="38"><a name="para38"> It is clear, therefore, that the Strasbourg authorities to which we have been referred provide no support for the view that a fair hearing under article 6(1) requires the application of the criminal standard of proof in circumstances such as those in the present appeal. While it would be open to the Strasbourg court to develop its jurisprudence on article 6(1) so as to require the application of the criminal standard of proof in such circumstances, there is no sign in its case law to date that such a development is likely. The principle is well established that it is not the function of this court to undertake such a substantial development of Convention rights. Rather, it is intended that the rights enforced domestically under the HRA 1998 and those enforced in Strasbourg should, in general, correspond (<i>R (Ullah) v Special Adjudicator</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2004/26.html">[2004] UKHL 26</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2004/26.html">[2004] 2 AC 323</a>, per Lord Bingham at para 20; <i>R (SB) v Governors of Denbigh High School</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2006/15.html">[2006] UKHL 15</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2006/15.html">[2007] 1 AC 100</a> per Lord Bingham at para 29). As Lord Brown of Eaton-under-Heywood explained in <i>R (Al-Skeini) v Secretary of State for Defence (The Redress Trust intervening)</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2007/26.html">[2007] UKHL 26</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/26.html">[2008] AC 153</a> (at para 106) the objective of the HRA 1998 that the rights and remedies available in Strasbourg should also be available before domestic courts would be at risk of being undermined if domestic courts were to go further in the development of new rights and remedies than they could be fully confident that the Strasbourg court would go, because a contracting state cannot itself go to Strasbourg to have the matter corrected. While it is open to domestic courts to apply principles established in the Strasbourg court’s case law to novel situations, it is not the function of domestic courts to establish new principles of Convention law (<i>R (Animal Defenders International) v Secretary of State for Culture, Media and Sport</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2008/15.html">[2008] UKHL 15</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2008/15.html">[2008] 1 AC 1312</a>, per Baroness Hale of Richmond at para 53; <i>Manchester City Council v Pinnock (Secretary of State for Communities and Local Government intervening)</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2010/45.html">[2010] UKSC 45</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/6.html">[2011] 2 AC 104</a> per Lord Neuberger of Abbotsbury MR at para 48; <i>Smith v Ministry of Defence</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2013/41.html">[2013] UKSC 41</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/41.html">[2014] AC 52</a>; <i>R (AB) v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2021/28.html">[2021] UKSC 28</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2021/28.html">[2022] AC 487</a>, per Lord Reed PSC at paras 53-59; <i>R (Elan-Cane) v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2021/56.html">[2021] UKSC 56</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2021/56.html">[2023] AC 559</a>, per Lord Reed PSC at para 63). This court cannot be fully confident that the Strasbourg court will in future develop Convention rights under article 6(1) in the manner contended for by the appellant and, accordingly, such a development should not be anticipated by this court.
+</li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><u><span style="font-weight:normal;font-style:normal">R (McCann) v Crown Court at Manchester</span></u></p>  
+
+<li value="39"><a name="para39"> The second principal issue on which argument before us focussed is the effect of the decision of the House of Lords in the <i>McCann</i> case </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/39.html">[2003] 1 AC 787</a>. On behalf of the appellant, it was submitted by Ms Helen Mountfield KC that this decision establishes that article 6(1) of the ECHR requires the application of the criminal standard of proof in cases such as the present. It was submitted that the Court of Appeal erred in distinguishing and declining to follow <i>McCann</i>. It was further submitted that <i>McCann</i> is authority binding on the Supreme Court in the present appeal. In response, Mr Jonathan Manning on behalf of Birmingham City Council and Ms Samantha Broadfoot KC on behalf of the Secretary of State disputed that <i>McCann</i> is authority for the proposition that article 6(1) requires the application of the criminal standard of proof in cases such as the present or that it is a binding precedent for the purposes of this appeal. Alternatively, they submitted that if <i>McCann</i> is authority to that effect and if it is binding on the Supreme Court, we should depart from it in accordance with the <span style="color:#202124;background:white">Practice Statement (Judicial Precedent) [1966] 1 WLR 1234</span>. As a result, a panel of seven justices was convened to hear the present appeal.
+</li>
+<p> </p>  
+
+<li value="40"><a name="para40"> The reported case concerns two unconnected appeals in which anti-social behaviour orders were made against defendants pursuant to section 1 of the Crime and Disorder Act 1998 (“the 1998 Act”). Section 1(1) provided in relevant part:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“An application for an order under this section may be made by a relevant authority if it appears to the authority that the following conditions are fulfilled with respect to any person aged ten or over, namely - (a) that the person has acted, since the commencement date, in an anti-social manner, that is to say, in a manner that caused or was likely to cause harassment, alarm or distress to one or more persons not of the same household as himself; and (b) that such an order is necessary to protect persons in the local government area in which the harassment, alarm or distress was caused or was likely to be caused from further anti-social acts by him; …”</p>  
+
+<p class="ParaNoNumber">On an application to the magistrates’ court, if it was proved that the conditions in section 1(1) were fulfilled the court was empowered to make an anti-social behaviour order which prohibited the defendant from doing anything described in the order (section 1(4)). The legislation did not specify the standard of proof applicable under section 1(1)(a). The prohibitions which might be imposed were those necessary for the purpose of protecting certain groups of persons from further anti-social acts by the defendant (section 1(6)). An anti-social behaviour order was to have effect for a period (not less than two years) specified in the order or until further order (section 1(7)). Provision was made for an application to be made to vary or discharge an order (section 1(8)). Except with the consent of both parties, no anti-social behaviour order should be discharged before the end of the period of two years beginning with the date of service of the order (section 1(9)). Section 1(10) provided that if without reasonable excuse a person does anything which he is prohibited from doing by an anti-social behaviour order, he shall commit a criminal offence.</p>  
+
+<li value="41"><a name="para41"> The three McCann brothers had been accused by members of the public of criminal activity and other anti-social behaviour. On an application by the Chief Constable of Manchester, the stipendiary magistrate found the requirements of section 1(1) proved and made anti-social behaviour orders against all three defendants. The orders prohibited them, inter alia, from entering a specified area of Manchester, from using or engaging in any abusive, insulting, offensive, threatening or intimidating language or behaviour in any public place in Manchester, and from threatening or engaging in violence or damage against any person or property within Manchester.
+</a></li>
+<p> </p>  
+
+<li value="42"><a name="para42"> On an appeal to the Crown Court, the Recorder of Manchester, Sir Rhys Davies QC, sitting with magistrates, held that proceedings under section 1(1) are civil under domestic law and for the purposes of article 6 of the ECHR. He then turned to the submission that, despite this classification, the criminal standard should apply under section 1(1). He cited an observation by Lord Bingham of CJ in <i>B v Chief Constable of Avon and Somerset Constabulary</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2000/559.html">[2001] 1 WLR 340</a>, (at para 31), in the context of section 2 of the 1998 Act which deals with orders against sex offenders, that the “heightened civil standard of proof” was “for all practical purposes … indistinguishable from the criminal standard” (see <i>McCann</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/39.html">[2003] 1 AC 787</a>, para 13). The Recorder was satisfied that the standard to be applied in cases under section 1 was the civil standard, but he asked how he was to give effect to the guidance of the Lord Chief Justice “that is to apply the civil standard with the strictness appropriate to the seriousness of the matters to be proved and the implications of proving them”. He observed (para 13) that he and the magistrates sitting with him: 
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“have concluded that in reality it is difficult to establish reliable gradations between a heightened civil standard commensurate with [the] seriousness and implications of proving the requirements, and the criminal standard. And we have concluded that for the purposes of this particular case, and we do not intend to lay down any form of precedent, so I emphasise that for the purposes of this particular case, we will apply the standard of being satisfied so that we are sure that the conditions are fulfilled before we would consider the making of an order in the case of each [defendant] severally …”</p>  
+
+<li value="43"><a name="para43"> The defendants appealed to the Divisional Court (Lord Woolf CJ and Rafferty J) which held that the proceedings were correctly classified under domestic law and under article 6 as civil proceedings and dismissed the appeal (<i>R (McCann) v Crown Court at Manchester</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2000/565.html">[2001] 1 WLR 358</a>).
+</li>
+<p> </p>  
+
+<li value="44"><a name="para44"> On further appeal to the Court of Appeal (Lord Phillips of Worth Matravers MR, Kennedy and Dyson LJJ) the court held that the proceedings were correctly classified under domestic law and under article 6 as civil proceedings. With reference to the standard of proof, Lord Phillips referred to the observation of Lord Bingham CJ in <i>B</i> and that of the Recorder of Manchester in <i>McCann</i>, both cited above, and commended the course followed by the Crown Court in <i>McCann</i> as likely to be appropriate in the majority of cases where an anti-social behaviour order is sought (<i>R (McCann) v Crown Court at Manchester</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/281.html">[2001] 1 WLR 1084</a> at para 67).
+</li>
+<p> </p>  
+
+<li value="45"><a name="para45"> On a further appeal to the House of Lords (</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/39.html">[2003] 1 AC 787</a>), the principal issues were (1) whether proceedings leading to the making of an anti-social behaviour order were criminal in nature in domestic law; (2) whether they involved a criminal charge under article 6 of the ECHR; and (3) what standard of proof was applicable in such proceedings. The House of Lords held that applications for anti-social behaviour orders under section 1(1) of the 1998 Act were civil proceedings in domestic law and could not be classified as criminal proceedings for the purposes of article 6. It is not necessary to consider that aspect of the appeal any further. So far as the applicable standard of proof is concerned, it is necessary to examine in detail the three judgments in which it was considered, those of Lord Steyn, Lord Hope of Craighead and Lord Hutton. Lord Hobhouse and Lord Scott agreed with all three judgments.
+</li>
+<p> </p>  
+
+<li value="46"><a name="para46"> Lord Steyn considered that a defendant against whom an anti-social behaviour order is sought had the benefit of the guarantee applicable to civil proceedings under article 6(1) and, under English law, a constitutional right to a fair hearing in respect of such proceedings (at para 29). With regard to the standard of proof he said this (at para 37):
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Having concluded that the relevant proceedings are civil, in principle it follows that the standard of proof ordinarily applicable in civil proceedings, namely the balance of probabilities, should apply. However, I agree that, given the seriousness of matters involved, at least some reference to the heightened civil standard would usually be necessary: <i>In re H (Minors) (Sexual Abuse: Standard of Proof</i>) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1995/16.html">[1996] AC 563</a>, 586D-H, per Lord Nicholls of Birkenhead. For essentially practical reasons, the Recorder of Manchester decided to apply the criminal standard. The Court of Appeal said that would usually be the right course to adopt. Lord Bingham of Cornhill has observed that the heightened civil standard and the criminal standard are virtually indistinguishable. I do not disagree with any of these views. But in my view pragmatism dictates that the task of magistrates should be made more straightforward by ruling that they must in all cases under section 1 apply the criminal standard. If the House takes this view it will be sufficient for the magistrates, when applying section 1(1)(a) <i>to be sure </i>that the defendant has acted in an anti-social manner, that is to say, in a manner that caused or was likely to cause harassment, alarm or distress to one or more persons not of the same household as himself. The inquiry under section 1(1)(b), namely that such an order is necessary to protect persons from further anti-social acts by him, does not involve a standard of proof: it is an exercise of judgment or evaluation. This approach should facilitate correct decision-making and should ensure consistency and predictability in this corner of the law. In coming to this conclusion I bear in mind that the use of hearsay evidence will often be of crucial importance. For my part, hearsay evidence depending on its logical probativeness is quite capable of satisfying the requirements of section 1(1).” (Original emphasis.)</p>  
+
+<li value="47"><a name="para47"> In order fully to understand the significance of this passage it is necessary to say something concerning what was referred to in the <i>McCann</i> litigation as the “heightened civil standard of proof”. The history of this notion of a flexible standard of proof is helpfully traced by Sir Brian Leveson P in his judgment in the Court of Appeal in the present proceedings (</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/1189.html">[2019] QB 521</a>, paras 48-50). He explains that although there had been some judicial support, most particularly in care proceedings, for the notion that the civil standard of proof required satisfaction of a variable standard according to the seriousness of the matters to be proved and the implications of proving them, the retreat from such an approach had started even prior to <i>McCann</i>. In <i>In re H (Minors) (Sexual Abuse: Standard of Proof)</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1995/16.html">[1996] AC 563</a>, 586 G Lord Nicholls of Birkenhead considered that built into the preponderance of probability standard is a generous degree of flexibility in respect of the seriousness of the allegation. He continued:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“Although the result is much the same, this does not mean that where a serious allegation is in issue the standard of proof required is higher. It means only that the inherent probability or improbability of an event is itself a matter to be taken into account when weighing the probabilities and deciding whether, on balance, the event occurred. The more improbable the event, the stronger must be the evidence that it did occur before, on the balance of probability, its occurrence will be established.”</p>  
+
+<li value="48"><a name="para48"> In <i>Secretary of State for the Home Department v Rehman</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2001/47.html">[2001] UKHL 47</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2001/47.html">[2003] 1 AC 153</a>, also before the decision in <i>McCann</i>, Lord Hoffmann observed at para 55:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">"I turn next to the Commission's views on the standard of proof. By way of preliminary I feel bound to say that I think that a 'high civil balance of probabilities' is an unfortunate mixed metaphor. The civil standard of proof always means more likely than not. The only higher degree of probability required by the law is the criminal standard. But, as Lord Nicholls of Birkenhead explained in <i>In re H (Minors) (Sexual Abuse:</i> <i>Standard of Proof) </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1995/16.html">[1996] AC 563</a>, 586, some things are inherently more likely than others. It would need more cogent evidence to satisfy one that the creature seen walking in Regent's Park was more likely than not to have been a lioness than to be satisfied to the same standard of probability that it was an Alsatian. On this basis, cogent evidence is generally required to satisfy a civil tribunal that a person has been fraudulent or behaved in some other reprehensible manner. But the question is always whether the tribunal thinks it more probable than not."</p>  
+
+<li value="49"><a name="para49"> Following the decision in <i>McCann </i>in 2002, in <i>R(N) v Mental Health Review Tribunal (Northern Region)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2005/1605.html">[2006] QB 468</a>, Richards LJ provided the following explanation (at para 62):
+</li>
+<p> </p>  
+
+<p class="MsoQuote">"Although there is a single civil <i>standard </i>of proof on the balance of probabilities, it is flexible in its <i>application. </i>In particular, the more serious the allegation or the more serious the consequences if the allegation is proved, the stronger must be the evidence before a court will find the allegation proved on the balance of probabilities. Thus the flexibility of the standard lies not in any adjustment to the degree of probability required for an allegation to be proved (such that a more serious allegation has to be proved to a higher degree of probability), but in the strength or quality of the evidence that will in practice be required for an allegation to be proved on the “balance of probabilities." (Original emphasis.)</p>  
+
+<li value="50"><a name="para50"> In <i>Re B (Children) (Care Proceedings: Standard of Proof)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2008/35.html">[2009] AC 11</a> Lord Hoffmann repeated his earlier observations and said (at para 13), with regard to the decision in <i>McCann</i>:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">"I think that the time has come to say, once and for all, that there is only one civil standard of proof and that is proof that the fact in issue more probably occurred than not. I do not intend to disapprove any of the cases in what I have called the first category, but I agree with the observation of Lord Steyn in <i>McCann's </i>case, at p 812, that clarity would be greatly enhanced if the courts said simply that although the proceedings were civil, the nature of the particular issue involved made it appropriate to apply the criminal standard."</p>  
+
+<p class="MsoNormal" style="text-autospace:none">&nbsp;</p>  
+
+<li value="51"><a name="para51"> &nbsp;I pause at this point to take stock of these developments.
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is now established that there is only one civil standard of proof at common law and that is proof on the balance of probabilities.</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nevertheless, the inherent improbability of an event having occurred will, as a matter of common sense, be a relevant factor when deciding whether it did in fact occur. As a result, proof of an improbable event may require more cogent evidence than might otherwise be required.</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However, the seriousness of an allegation, or of the consequences which would follow for a defendant if an allegation is proved, does not necessarily affect the likelihood of its being true. As a result, there cannot be a general rule that the seriousness of an allegation or of the consequences of upholding an allegation justifies a requirement of more cogent evidence where the civil standard is applied. I would therefore respectfully disagree with the contrary statement by Richards LJ in <i>N</i> (cited at para 49 above) and with the statements of Lord Carswell (at para 28) and Lord Brown (at paras 43, 47) in <i>Re D </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2008/33.html">[2008] 1 WLR 1499</a>; <a title="Link to BAILII version" href="/uk/cases/UKHL/2008/33.html">[2008] UKHL 33</a>, to the extent that they may be read as supporting that statement of Richards LJ in <i>N</i>. </p>  
+
+<li value="52"><a name="para52"> The decision of the House of Lords in <i>McCann</i> must be read in the light of this evolution of the law and, in particular, the point which it had reached in 2002. In the passage from his opinion in <i>McCann</i> cited at para 46 above, Lord Steyn took a pragmatic approach to the question of the standard of proof. He clearly shared the concerns touched upon by the Recorder of Manchester and Lord Phillips as to the difficulties which could arise in applying a heightened civil standard of proof. The conceptual and practical problems in such an approach, in particular in their application by magistrates, are obvious and they led Lord Steyn to adopt a purely practical solution: since it was accepted at that time that a heightened civil standard was virtually indistinguishable from the criminal standard (<i>B v Chief Constable of Avon and Somerset Authority</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2000/559.html">[2001] 1 WLR 340</a> per Lord Bingham CJ at para 31 (the making of a sex offender order under the Crime and Disorder Act 1998)); <i>Gough v Chief Constable of Derbyshire Constabulary</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2002/351.html">[2002] QB 1213</a> per Lord Phillips MR at para 90 (banning orders under the Football Spectators Act 1989)), the simplest course was to apply the criminal standard in all such cases. However, this was not an acceptance that there was a legal requirement to apply the criminal standard in all such cases. On the contrary, Lord Steyn’s starting point was that the civil standard should in principle apply to what had been held to be civil proceedings. His approach is a response to the complexity of the reasoning in <i>In re H (Minors)</i>. In deciding that in all cases under section 1 of the 1998 Act magistrates must apply the criminal standard to the question whether the defendant had acted in an anti-social manner, Lord Steyn was adopting, for their benefit, a straightforward approach which avoided the complexities of <i>In Re H</i>. Since the decision in <i>McCann</i>, the reasoning of Lord Nicholls in <i>In re H (Minors) </i>has been further clarified, as explained above. It is now clearly established that there are two standards of proof in domestic law: a civil standard (balance of probabilities) and a criminal standard (beyond a reasonable doubt). There is therefore no longer any need on pragmatic grounds to apply the criminal standard in that context.
+</li>
+<p> </p>  
+
+<li value="53"><a name="para53"> In <i>McCann</i>, Lord Hope, having concluded (at para 76) that proceedings under section 1 of the Crime and Disorder Act 1998 did not have the character of criminal proceedings for the purposes of article 6 of the ECHR, considered (at para 80) that such proceedings attracted the right to a fair trial under article 6(1). He continued:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“This means that the court must act with scrupulous fairness at all stages in the proceedings. When it is making its assessment of the facts and circumstances that have been put before it in evidence and of the prohibitions, if any, that are to be imposed, it must ensure that the defendant does not suffer any injustice.”</p>  
+
+<p class="ParaNoNumber">He then turned to the standard of proof. It is significant, to my mind, that he began his consideration of this topic (at paras 81-83) by referring to the observation of Lord Phillips MR in <i>McCann</i> in the Court of Appeal (<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/281.html">[2001] 1 WLR 1084</a>, para 65) that anti-social behaviour orders have serious consequences and expressed the view that it was with that point in mind that Lord Phillips commended the course which the Recorder of Manchester followed in the Crown Court when he had said that (para 67), without intending to lay down any form of precedent, the court had decided to apply the standard of being satisfied so that they were sure that the statutory conditions were fulfilled before they would consider making an order in the case of each defendant. Lord Hope endorsed that approach and then (at paras 82-83) set out his reasons for coming to that conclusion. Referring to the submission on behalf of the Secretary of State that those were civil proceedings which should be decided according to the civil evidence rules, Lord Hope continued (at para 82):</p>  
+
+<p class="MsoQuote">“But it is not an invariable rule that the lower standard of proof must be applied in civil proceedings. I think that there are good reasons, in the interests of fairness, for applying the higher standard when allegations are made of criminal or quasi-criminal conduct which, if proved, would have serious consequences for the person against whom they are made.”</p>  
+
+<p class="ParaNoNumber">This, he observed, was the view of the Court of Session in <i>Constanda v M</i> 1997 SC 217. He continued (at para 83):</p>  
+
+<p class="MsoQuote">“There is now a substantial body of opinion that, if the case for an order such as a banning order or sex offender order is to be made out, account should be taken of the seriousness of the matters to be proved and the implication of proving them. It has also been recognised that if this is done the civil standard of proof will for all practical purposes be indistinguishable from the criminal standard”.</p>  
+
+<p class="ParaNoNumber">At this point he referred to <i>B</i> and to <i>Gough</i>. He next accepted the submission on behalf of the Secretary of State that the condition in section 1(1)(b) of the 1998 Act that a prohibition order is necessary to protect persons from further anti-social acts raised a question which was a matter for evaluation and assessment. He then expressed his conclusion (para 83):</p>  
+
+<p class="MsoQuote">“But the condition in section 1(1)(a) that the defendant has acted in an anti-social manner raises serious questions of fact, and the implications for him of proving that he has acted in this way are also serious. I would hold that the standard of proof that ought to be applied in these cases to allegations about the defendant’s conduct is the criminal standard”.</p>  
+
+<li value="54"><a name="para54"> Different threads of reasoning are detectable in the judgment of Lord Hope. He addressed the issue of the applicable standards of proof (at para 81 and following) in the context of the pragmatic solution adopted by the Recorder of Manchester who had expressly stated that he was not intending to lay down any form of precedent, an approach which Lord Hope endorsed for the reasons which followed. In coming to that view Lord Hope was clearly influenced by the seriousness of the consequences of a finding of anti-social behaviour. Similarly, his references to <i>B</i> and to <i>Gough</i> (at para 83) support the view that he was applying an enhanced civil standard. It is, with respect, unclear whether he was saying that the consequences of a finding of anti-social behaviour required that the criminal standard should be applied to the section 1(1)(a) issue in any event. If he was, he did not advance any jurisprudential basis for this view.
+</a></li>
+<p> </p>  
+
+<li value="55"><a name="para55"> The only other opinion delivered was that of Lord Hutton. On the issue of the standard of proof he expressed himself (at para 114) to be in agreement with the opinions of Lord Steyn and Lord Hope. For the reasons they gave, he considered that in proceedings under section 1 of the 1998 Act the standard of proof that ought to be applied to allegations about the defendants’ past behaviour was the criminal standard. 
+</a></li>
+<p> </p>  
+
+<li value="56"><a name="para56"> For these reasons, I do not consider that <i>McCann</i> is authority for the proposition that anti-social behaviour within section 1(1)(a) of the 1998 Act required to be proved to the criminal standard. The standard of proof under section 1(1)(a) of the 1998 Act was the civil standard of proof on the balance of probabilities and to the extent that any reasoning in the <i>McCann</i> opinions is to the contrary effect it is in my view wrong.
+</a></li>
+<p> </p>  
+
+<li value="57"><a name="para57"> Furthermore, I am unable to accept the submission of Ms Mountfield on behalf of the appellant that any of their Lordships in <i>McCann</i> considered that article 6 of the ECHR required the application of the criminal standard. Despite the valiant efforts of Ms Mountfield to persuade us of this proposition, an examination of Lord Steyn’s reasoning in para 37, when considered in the context of his entire opinion, simply does not bear this out. Similarly, nothing in the opinions of Lord Hope or Lord Hutton provides any support for the view that article 6(1) required the application of the criminal standard of proof in those cases. Indeed, there is nothing to indicate that anyone argued in <i>McCann</i> that article 6(1) required the application of the criminal standard of proof in such circumstances.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><u><span style="text-transform:none;font-weight:normal">The test under the 2009 Act and the 2014 Act</span></u></p>  
+
+<li value="58"><a name="para58"> In the case of the Policing and Crime Act 2009 and the Anti-social Behaviour, Crime and Policing Act 2014, unlike the Crime and Disorder Act 1998 considered in <i>McCann</i>, Parliament has expressly provided that the standard of proof applicable to the proof of condition 1 shall be the civil standard. In the light of this express provision, there is no room for the courts to decide that as a matter of common law fairness the criminal standard should be applied.
+</a></li>
+<p> </p>  
+
+<li value="59"><a name="para59"> The appellant seeks to challenge this express statutory provision on the ground that the application of the civil standard of proof in such circumstances would infringe his rights to a fair hearing under article 6(1) and seeks a declaration of incompatibility under section 4 of the HRA 1998. If I am correct in my conclusion that article 6 does not require the application of a criminal standard of proof here, there is no basis on which the appellant’s appeal can succeed.
+</a></li>
+<p> </p>  
+
+<li value="60"><a name="para60"> The standard applicable to the relevant issues under the 2009 Act and the 2014 Act is therefore the civil standard. The court’s task is to determine whether on the balance of probabilities the conduct took place. In considering that question, it is a matter of common sense that the more unlikely it is that an event has occurred, the more cogent the evidence will have to be in order to establish that it did. However, there is no such thing as a heightened civil standard. 
+</a></li>
+<p> </p>  
+
+<li value="61"><a name="para61"> It is also appropriate to observe, however, that Parliament has made its own assessment of procedural fairness and has concluded that the civil standard is appropriate in these circumstances. In this regard it is important to recall the intractable and corrosive social problem posed by gang violence, described by Leveson P in the Court of Appeal (see paras 3-6 above), which the legislation was intended to defeat. As the President observed, at para 21 of his judgment:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“ … the broad legislative purpose of the 2009 Act was an avowed attack on the operation, ethos and culture of gangs and the need to break them up, and that purpose could not be achieved without measures which would have a major impact on the life of persons against whom such injunctions were granted.”</p>  
+
+<li value="62"><a name="para62"> The primary purpose of the legislation is preventative and protective. The Revised Statutory Guidance: Injunctions to Prevent Gang-Related violence and Gang-Related Drug Dealing, May 2016, presented to Parliament pursuant to section 47(4) of the 2009 Act, states at para 2.1:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“By imposing a range of prohibitions and requirements on the respondent, a gang injunction aims:</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt;text-indent:-18.0pt"><span style="font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>to prevent the respondent from engaging in, or encouraging or assisting, gang-related violence or gang-related drug dealing activity; and/or</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt;text-indent:-18.0pt"><span style="font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>to protect the respondent from gang-related violence or gang-related drug dealing activity.</p>  
+
+<p class="MsoQuote">Over the medium and longer term, gang injunctions aim to break down violent gang culture, prevent the violent behaviour of gang members from escalating and engage gang members in positive activities to help them leave the gang. Gang injunctions can also be used to help protect people, in particular children, from being drawn further into more serious activity.” </p>  
+
+<li value="63"><a name="para63"> It is highly significant that, following the decision in <i>Shafi</i> that, save in exceptional cases, the regime of Anti-social Behaviour Orders pursuant to the Crime and Disorder Act 1998 should be used for the purpose of preventing gang-related activity, Parliament took the view that a change in the standard of proof was necessary in order to achieve the legislative aim of dealing with gangs and specifically designed the present scheme. In <i>Birmingham City Council v James</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/552.html">[2014] 1 WLR 23</a> Moore-Bick LJ observed (at para 13):
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“… Part 4 [of the 2009 Act] represents Parliament’s considered response to the particular problem of gang-related violence. Although some kinds of gang activity may be classified under the generic description of anti-social behaviour, section 1(1) of the [Crime and Disorder Act 1998] was not enacted with a view to dealing specifically with the consequences of gang culture. It is much broader in nature and is apt to apply to anti-social behaviour of all kinds. Section 34 of the 2009 Act, as its terms indicate, is aimed at a particular kind of mischief and the choice of the civil standard of proof appears to have been a deliberate response to the view expressed by the majority in<i> Shafi’s </i>case about the appropriate standard of proof in proceedings for an injunction of the kind that the council was seeking.” (See also Leveson P in the Court of Appeal in the present proceedings at para 57.)</p>  
+
+<p class="ParaNoNumber">The adoption of the civil standard was a deliberate step which Parliament considered was justified by the mischief which had to be addressed.</p>  
+
+<li value="64"><a name="para64"> Furthermore, Parliament has incorporated into the 2009 Act procedural safeguards which secure the fairness of any trial. On behalf of the Secretary of State, Ms Broadfoot draws attention to the following matters in particular. 
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The preventative and protective purpose of the legislation is incorporated in the requirement in section 34(3) that an injunction can be granted only if the court considers it necessary to grant an injunction for either or both of the specified purposes: to prevent the respondent from engaging in, or encouraging or assisting, gang-related violence or gang-related drug-dealing activity or to protect him from the same.</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The measures in section 35 may only be imposed insofar as they are necessary to meet either or both of these objectives. Restrictions apply to the measures which can be imposed (section 35(4)-(5)). There are consultation requirements (sections 38, 39). There are detailed provisions for the review, variation and discharge of injunctions (section 42(2)).</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An injunction may not include a prohibition or requirement that has effect after the end of the period of two years beginning with the day on which the injunction is granted (section 36(2)).</p>  
+
+<p class="ParaApprovedLevel2">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the case of a respondent aged 14 to 17 years, the Statutory Guidance indicates that a gang injunction should normally be part of a multi-agency approach (Statutory Guidance, para 3.2). </p>  
+
+<p class="ParaApprovedLevel2">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Breach of a gang injunction is not a criminal offence, does not result in a criminal record but is a civil contempt of court.</p>  
+
+<li value="65"><a name="para65"> Parliament has also established procedural safeguards in Part 1 of the 2014 Act. These include the following.
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span class="cf01"><span style="font-family:&quot;Calibri&quot;,sans-serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Injunctions made under the 2014 Act must specify a person or organisation in charge of supervising compliance with the requirements of the injunction (section 3(1)).</span></span></p>  
+
+<p class="ParaApprovedLevel2"><span class="cf01"><span style="font-family:&quot;Calibri&quot;,sans-serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Before including a requirement, the court must receive evidence about its suitability and enforceability from the person or organisation supervising compliance with the injunction (section 3(2)).</span></span></p>  
+
+<p class="ParaApprovedLevel2"><span class="cf01"><span style="font-family:&quot;Calibri&quot;,sans-serif">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>Save in the case of a without notice application, consultation is mandatory under the 2014 Act, if the respondent will be aged under 18 when the application is made. The individual or agency applying for an injunction must, before doing so, consult with the local youth offending team. In all cases the applicant must inform any other body or individual the applicant thinks appropriate of the application. In the case of without-notice applications, these consultation and information requirements must be complied with before the date of the first on-notice hearing. The same requirements apply to applications to vary or discharge an injunction (section 14(1-3)).</p>  
+
+<p class="ParaApprovedLevel2"><span class="cf01"><span style="font-family:&quot;Calibri&quot;,sans-serif">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The court considering ordering an injunction must consider the compatibility of each requirement under the injunction with the other requirements (section 3(3)).</span></span></p>  
+
+<p class="ParaApprovedLevel2"><span class="cf01"><span style="font-family:&quot;Calibri&quot;,sans-serif">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Although it is possible to make an application for an injunction under the 2014 Act without notice to the respondent, if an application is made without notice the court must either (a) adjourn the proceedings and grant an interim injunction (see section 7), or (b) adjourn the proceedings without granting an interim injunction, or (c) dismiss the application (section 6 (1-2)). An interim injunction made at a hearing of which the respondent was not given notice may not have the effect of requiring the respondent to participate in particular activities (section 7(3)).</span></span></p>  
+
+<p class="ParaApprovedLevel2"><span class="cf01"><span style="font-family:&quot;Calibri&quot;,sans-serif">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An injunction must specify the period for which it has effect or state that it has effect until further order. In the case of an injunction granted before the respondent has reached the age of 18, a period must be specified and it must be no more than 12 months (section 1(6)).</span></span></p>  
+
+<p class="ParaApprovedLevel2"><span class="cf01"><span style="font-family:&quot;Calibri&quot;,sans-serif">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The power to exclude persons from their homes in cases of violence or risk of harm is restricted and only applies where the respondent is aged 18 or over (section 13 (1)).</span></span></p>  
+
+<p class="ParaHeading1"><u><span style="text-transform:none;font-weight:normal">Conclusion</span></u></p>  
+
+<li value="66"><a name="para66"> For these reasons I consider that 
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Article 6(1) of the ECHR, as given effect by the HRA 1998, does not require the criminal standard of proof (ie proof beyond a reasonable doubt) to be satisfied in respect of (a) proof that a person has engaged in or has encouraged or assisted gang-related violence or gang-related drug dealing activity within section 34(2) of the 2009 Act or (b) proof that a person has engaged or threatens to engage in anti-social behaviour within section 1(1) of the 2014 Act;</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under Part 4 of the 2009 Act and Part 1 of the 2014 Act Parliament has devised statutory schemes which conform with the requirements of a fair hearing under article 6 of the ECHR.</p>  
+
+<li value="67"><a name="para67"> For these reasons I would dismiss the appeal.
+</a></li>
+<p> </p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/27.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

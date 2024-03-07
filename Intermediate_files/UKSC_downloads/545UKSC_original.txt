@@ -1,0 +1,1754 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Walker v Innospec Ltd &amp; Ors (Rev 1) [2017] UKSC 47 (12 July 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+span.i
+	{mso-style-name:i;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Walker v Innospec Ltd &amp; Ors (Rev 1) [2017] UKSC 47 (12 July 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/47.html</i>
+<br>Cite as: 
+[2017] IRLR 928,
+
+[2018] 1 CMLR 26,
+
+[2017] UKSC 47,
+
+[2017] Pens LR 18,
+
+[2017] WLR(D) 477,
+
+[2017] 4 All ER 1004,
+
+[2017] ICR 1077,
+
+[2017] HRLR 10
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/47.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+ICR+1077">[2017] ICR 1077</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+477">[2017] WLR(D) 477</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/47.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 47</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1000.html">[2015] EWCA Civ 1000</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Walker (Appellant) <i>v</i> Innospec Limited and
+others (Respondents)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">12 July 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 8 and 9 March
+2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:82.8pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Martin Chamberlain
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Max Schaefer</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Liberty)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Nicholas Randall QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Claire Darwin</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Eversheds Sutherland (International) LLP (Manchester))</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:110.4pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:110.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:110.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:110.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Interested Party
+  (Secretary of State for Work and Pensions)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jason Coppel QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Holly Stout</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD KERR: (<span style="text-transform:none">with whom Lady
+Hale and Lord Reed agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>John Walker, the appellant in these proceedings, started to work for
+Innospec Ltd on 2 January 1980. From the beginning of his employment, he was
+required to become a member of the firm’s contributory pension scheme. He
+continued to pay into the scheme throughout the time that he was employed by
+Innospec. His employment continued until Mr Walker accepted early retirement on
+31 March 2003. He would have reached normal retirement age, as prescribed by
+the pension scheme, in 2007.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under the terms on which Mr Walker could take early retirement, he was
+able to maximise his pension to the level that it would have reached if he had
+retired in 2007. The concessions made by his employer which allowed him to do
+so were not made in exchange for any waiver by him of his future pension
+rights.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Walker is gay. He has lived with his male partner since 1993. They
+applied for a civil partnership on 5 December 2005 (the same day the Civil
+Partnership Act 2004 came into force) and their civil partnership was
+registered on 23 January 2006. They are now married.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Shortly after the civil partnership was registered, Mr Walker asked
+Innospec to confirm that, in the event of his death, they would pay the
+spouse’s pension, which the scheme provides for, to his civil partner. They
+refused, because his service predated 5 December 2005. The basis of the refusal
+(which was confirmed after Mr Walker and his partner married) is paragraph 18
+of Schedule 9 to the Equality Act 2010. This provision must be considered in
+greater detail later in this judgment but, in broad outline, it provides an
+exception to the general non-discrimination rule implied into occupational
+pension schemes. Under this exception, it is lawful to prevent or restrict
+access to a benefit, facility or service to a person (a) where the right to that
+benefit etc accrued before 5 December 2005, or (b) which is payable in respect
+of periods of service before that date.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If Mr Walker was married to a woman, or, indeed, if he married a woman
+in the future, she would be entitled on his death to the pension provided by
+the scheme to a surviving spouse. When the claim was issued, the value of that
+“spouse’s pension” was about £45,700 per annum. As things stand at present, Mr
+Walker’s husband will be entitled to a pension of about £1,000 per annum (the
+statutory guaranteed minimum).</a></p><a name="para5">
+
+<p class="ParaHeading">The proceedings</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In November 2011, Mr Walker lodged a claim in the Employment Tribunal
+(ET) against his employers, alleging that they had discriminated against him on
+the ground of his sexual orientation. On 13 November 2012, the ET unanimously
+decided that there had been both direct and indirect discrimination on that
+ground. It had been argued on behalf of the respondents that there had not been
+direct discrimination and that, although the operation of the pension scheme
+amounted to indirect discrimination, this was justified. Both arguments were
+rejected by the ET. The discrimination was direct, the ET said, in that it
+involved unequal treatment of straightforwardly comparable individuals <i>viz </i>heterosexual
+married couples and same sex couples who had entered a lifetime commitment to
+each other. It was likewise indirect discrimination because an unwarranted
+requirement had been imposed in respect of the couple of the same gender. The
+proffered justification by the respondents (that it was necessary to have the
+restriction in place in order to ensure proper funding of the scheme) was found
+by the ET to be unsupported by sufficiently cogent evidence.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The ET concluded that paragraph 18 could and should be read in a manner
+which would render it compliant with Council Directive 2000/78/EC of 27
+November 2000 [2000] OJ L 303/16 (the Framework Directive). This establishes a
+general framework for equal treatment in employment and occupation. It
+therefore upheld Mr Walker’s claim on liability and fixed a date for a remedies
+hearing.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Innospec appealed. Its arguments on direct and indirect discrimination
+failed. The Employment Appeal Tribunal (EAT) rejected the argument that
+because, as a matter of status, a spouse is entitled to a pension or survivor’s
+benefit without the restriction which paragraph 18 places upon a civil partner,
+they were not comparable: </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/2014/0232_13_1802.html">[2014] ICR 645</a>. The EAT’s dismissal of the argument
+drew on section 23(3) of the Equality Act 2010 which provides that if the
+protected characteristic is sexual orientation, the fact that one person “is a
+civil partner while another is married is not a material difference between the
+circumstances relating to each case” and on the statement of Lady Hale in <i>Bull
+v Hall </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/73.html">[2013] UKSC 73</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/73.html">[2013] 1 WLR 3741</a>, para 29, to the effect that the
+“criterion of marriage or civil partnership [should be regarded] as
+indissociable from the sexual orientation of those who qualify to enter it”. On
+the question of indirect discrimination, the EAT held that the ET was entitled
+to conclude that Innospec had failed to produce any cogent evidence on the
+issue of justification but had merely relied on generalised assertions. It had
+thus failed to show that the indirect discrimination was proportionate.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The EAT allowed Innospec’s appeal, however. It held that the Framework
+Directive did not have retrospective effect to render unlawful inequalities
+based on sexual orientation that arose before the last date for its transposition.
+After that date the Directive provided a basis for ensuring equal treatment
+between those with different sexual orientation but not before. Paragraph 18
+was therefore not incompatible with the Directive.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The EAT further held that if, contrary to its view, paragraph 18 was, on
+its face, incompatible with the Directive, it was not open to it to interpret
+that provision in a way that rendered it compatible. The plain purpose of the
+paragraph was to create an exception. To nullify that exception would run
+directly contrary to the “grain” of the legislation (<i>Ghaidan v Godin-Mendoza</i><b>
+</b></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2004/30.html">[2004] 2 AC 557</a>). It was also held that paragraph 18 could not be
+disapplied. In reaching that conclusion, the EAT referred to the judgment of
+Lord Mance in <i>R (Chester) v Secretary of State for Justice </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/63.html">[2013] UKSC 63</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/63.html">[2014] AC 271</a>, at paras 61-62 where he said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The Court of Justice has accepted
+that, although the Treaty contemplates that the general principle of
+non-discrimination underlying article 13 EC will be implemented by Directives,
+member states will be bound thereby to discontinue, disregard or set aside
+measures so far as they involve discrimination on a basis contrary to article
+13 at least after the time for transposition of such a Directive: <i>Kücükdeveci</i>
+<i>v Swedex GmbH and Co KG</i> (Case C-555/07) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C55507.html">[2010] All ER (EC) 867</a>, <span class="i"><i><span style="border:none windowtext 1.0pt;padding:0cm;background:
+white">Römer v Freie und Hansestadt Hamburg</span></i></span><span style="background:white"> (Case C-147/08) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C14708.html">[2011] ECR I-3591</a>,</span> para 61 ...
+however, for the general principle of non-discrimination to apply, the context
+must fall within the scope of Community or now Union law ...”</p>
+
+<p class="ParaNoNumber">The EAT considered that Mr Walker’s claim, in so far as
+it related to an asserted entitlement to spousal pension, could not be brought within
+the scope of European Union (EU) law in respect of the period prior to the time
+limit for transposing the Framework Directive.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Walker appealed the EAT’s decision. In the Court of Appeal the
+Secretary of State argued that the EAT was wrong in its conclusion on direct
+discrimination. In effect, he repeated the argument advanced by Innospec to the
+EAT that civil partners and married persons are not “in a comparable position”
+in respect of pension rights because paragraph 18 itself created a difference
+in status between the two groups. That argument was rejected, Lewison and
+Underhill LJJ finding that civil partnership and marriage were indeed
+comparable situations in the UK and Lord Dyson MR agreeing with both: </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1000.html">[2016] ICR 182</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal nevertheless dismissed Mr Walker’s appeal. At the
+outset, Lewison LJ identified what he described as two relevant principles of
+EU law. These were said to be the “no retroactivity” principle and the “future
+effects” principle. Lewison LJ described the first of these principles as
+prescribing that “EU legislation does not have retroactive effect unless,
+exceptionally, it is clear from its terms or general scheme that the legislator
+intended such an effect, that the purpose to be achieved so requires and that
+the legitimate expectations of those concerned are duly respected” - para 5 of
+his judgment. Because the Court of Appeal found that to require payment of a
+spouse’s pension to Mr Walker’s husband, after Mr Walker’s death, would be to
+give the Framework Directive retrospective effect, it concluded that the no
+retroactivity principle precluded this. The second principle was said to be that
+amending legislation applies immediately to the future effects of a situation
+which arose under the law as it stood before amendment, unless there was a
+specific provision to the contrary - again para 5.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The application of those principles by the Court of Appeal is central to
+their decision. They underpin critically their conclusion that the Framework
+Directive’s prohibition of discrimination on grounds of sexual orientation
+applies only to pension payable in the future in respect of service and/or contributions
+paid prior to 2 December 2003, the deadline for its transposition. In turn that
+conclusion depends vitally on the Court of Appeal’s analysis of the EU cases
+which, it says, articulate the no retroactivity and future effects principles.</a></p><a name="para13">
+
+<p class="ParaHeading">The issues in broad outline</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant identified three principal issues. The first is whether
+the differential treatment provided for by paragraph 18 of Schedule 9 is
+compatible with the Framework Directive.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second issue is whether, if the differential treatment is not
+compatible with the Framework Directive, the appellant’s claim must nonetheless
+fail because paragraph 18 must be given effect, or whether, as the appellant
+contends, the paragraph must be disapplied because of its inescapable conflict
+with the Directive.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The final issue raised by the appellant is whether a declaration of
+incompatibility under section 4 of the Human Rights Act 1998 should be made by
+this court, declaring that paragraph 18 is incompatible with article 14, read
+with article 8 and/or article 1 of the First Protocol of the European
+Convention on Human Rights and Fundamental Freedoms (ECHR).</a></p><a name="para16">
+
+<p class="ParaHeading">Some general considerations</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Until the beginning of this century there was no legal prohibition on
+discrimination on the grounds of sexual orientation at work. Since then, the
+legal status of gay and lesbian employees has been transformed, mainly because
+of two developments. The first was the introduction of equal treatment
+legislation by the European Union. The Framework Directive’s prohibition of discrimination
+in the field of employment and occupation extended to unequal treatment on the
+ground of sexual orientation. The deadline for transposing the Directive into
+domestic law was 2 December 2003 and the UK did this initially by way of
+regulations (the Employment Equality (Sexual Orientation) Regulations 2003) (SI
+2003/1661)) and subsequently in primary legislation now incorporated into the
+Equality Act 2010. Part 5 of that Act prohibits direct and indirect
+discrimination on grounds of sexual orientation in the context of employment.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second development is domestic in origin. Parliament has legislated
+to recognise same-sex unions, first by introducing civil partnerships
+equivalent to marriage (the Civil Partnership Act 2004) and subsequently by legalising
+same-sex marriage itself (the Marriage (Same Sex Couples) Act 2013). The recognition
+of same-sex partnerships, which is not required by EU law, was motivated by an
+appreciation that formal equality for same-sex couples will always be deficient
+if they are unable to avail themselves of the legal benefits attendant on
+marriage. In her foreword to the consultation paper preceding the introduction
+of the Civil Partnership Act 2004, Jacqui Smith, the Minister of State for
+Industry and the Regions and Deputy Minister for Women and Equality, noted:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Many [same-sex couples] have been
+refused a hospital visit to see their seriously ill partner, or have been
+refused their rightful place at their partner’s funeral. Others find themselves
+unable to access employment benefits reserved only for married partners.
+Couples who have supported each other financially throughout their working
+lives often have no way of gaining pension rights. Grieving partners can find
+themselves unable to stay in their shared home or to inherit the possessions
+they have shared for years when one partner dies suddenly without leaving a
+will. In so many areas, as far as the law is concerned, same-sex relationships
+simply do not exist. That is not acceptable.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although EU law does not impose any requirement on member states to
+recognise same-sex partnerships, the European Court of Justice has held that if
+a status equivalent to marriage is available under national law, it is directly
+discriminatory contrary to the Framework Directive for an employer to treat a
+same-sex partner who is in such a partnership less favourably than an
+opposite-sex spouse (<i>Maruko v Versorgungsanstalt der Deutschen Bühnen</i>
+(Case C-267/06) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2008/C26706.html">[2008] 2 CMLR 32</a>). Thus in the UK it is unlawful as a matter of
+both EU and domestic law for an employer to deny a same-sex civil partner or
+spouse of an employee a benefit that would be provided to a spouse of the
+opposite sex.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That is not an end of the matter, however. When it introduced civil
+partnerships, Parliament also decided to include an exception to the
+prohibition on discrimination in the context of employment. That is now
+contained in paragraph 18 of Schedule 9 of the Equality Act 2010, which
+provides in its current form:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; A person does not
+contravene this Part of this Act, so far as relating to sexual orientation, by
+doing anything which prevents or restricts a person who is not [within
+sub-paragraph (1A)] from having access to a benefit, facility or service -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the right to which
+accrued before 5 December 2005 (the day on which section 1 of the Civil
+Partnership Act 2004 came into force), or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is payable in
+respect of periods of service before that date.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Walker does not come within section 1A. (It concerns either (a) a man
+who is married to a woman, or (b) a woman who is married to a man, or (c) someone
+married to a person of the same sex in a relevant gender change case.) If the
+effect of the Framework Directive is to prohibit discrimination on the ground
+of sexual orientation with regard to the payment of pensions in respect of
+periods of service before 5 December 2005, paragraph 18 is plainly incompatible
+with it. The essential question, therefore, is whether that is the effect of
+the Directive.</a></p><a name="para21">
+
+<p class="ParaHeading">The rule against retroactive legislation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The general rule, applicable in most modern legal systems, is that
+legislative changes apply prospectively. Under English law, for example, unless
+a contrary intention appears, an enactment is presumed not to be intended to
+have retrospective effect. The logic behind this principle is explained in <i>Bennion
+on Statutory Interpretation</i>, 6th ed (2013), Comment on Code section 97:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If we do something today, we feel
+that the law applying to it should be the law in force today, not tomorrow’s
+backward adjustment of it. Such, we believe, is the nature of law. ‘… those who
+have arranged their affairs … in reliance on a decision which has stood for
+many years should not find that their plans have been retrospectively upset’.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>EU law is no different in this respect. As the Court of Appeal observed,
+the Court of Justice of the European Union (CJEU) has developed two principles
+to establish the temporal application of EU legislation - the “no
+retroactivity” principle and the “future effects” principle. These were described
+by the CJEU in <i>Land Nordrhein-Westfalen v Pokrzeptowicz-Meyer</i> (Case
+C-162/00) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2002/C16200.html">[2002] 2 CMLR 1</a>, paras 49-50 as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“According to settled case law, in
+order to ensure observance of the principles of legal certainty and the
+protection of legitimate expectations, the substantive rules of Community law
+must be interpreted as applying to situations existing before their entry into
+force only in so far as it clearly follows from their terms, their objectives
+or their general scheme that such effect must be given to them (see, in
+particular, <i>Bout</i> (Case C-21/81) [1982] ECR 381, para 13, and <i>GruSa
+Fleisch</i> (Case C-34/92) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1993/C3492.html">[1993] ECR I-4147</a>, para 22).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">It also follows from settled case law
+that new rules apply immediately to the future effects of a situation which
+arose under the old rules (see, among other cases, <i>Licata v Economic and
+Social Committee</i> (Case C-270/84) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1986/C27084.html">[1986] ECR 2305</a>, para 31). In application
+of that principle the Court has held, in particular, that since the Act
+concerning the conditions of accession of the Republic of Austria, the Republic
+of Finland and the Kingdom of Sweden and the adjustments to the Treaties on
+which the European Union is founded (OJ 1994 C 241, p 21, and OJ 1995 L 1, p
+1) contains no specific conditions whatsoever with regard to the application of article 6 of the EC Treaty (now, after amendment, article 12 EC), that provision must be regarded as being immediately applicable and binding on the Republic of Austria from the date of its accession, with the result that it applies to the future effects of situations arising prior to that new member state’s accession to the Communities (Case C-122/96) Saldanha and MTS <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1997/C12296.html">[1997] ECR I-5325</a>, para 14).”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The policy behind the no retroactivity principle is thus similar to that
+described in <i>Bennion</i> - the need to ensure “legal certainty” and to
+protect the “legitimate expectations” of those who have relied on the law as it
+previously stood. The future effects principle is simply the other side of the
+same coin. It is a method developed by the CJEU to avoid any retrospective
+effect and to ensure the immediate prospective application of legislation to
+ongoing legal relationships. The principle is necessary because it is not
+always easy to identify the point at which a right accrues. Employment provides
+a paradigm example. How should a new EU provision be applied to an ongoing
+employment relationship that had begun before the provision came into force? In
+<i>Land Nordrhein-Westfalen</i>, the CJEU answered that question by holding that
+“the application of a new rule … from the date of its entry into force, to a
+contract of employment concluded prior to its entry into force, cannot be
+regarded as affecting a situation arising prior to that date (para 52).” As
+Advocate General Jacobs explained at para 59 of his Opinion:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Applying a legal provision to a
+fixed-term employment contract which has not finally ended by the time that
+provision enters into force does not involve the retroactive application of the
+law; it entails only the immediate application of that provision to the effects
+in the future of situations which have arisen under the law as it stood before
+amendment.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The CJEU draws a distinction, therefore, between the retroactive
+application of legislation to past situations (which is prohibited unless
+expressly provided for) and its immediate application to continuing situations
+(which is generally permitted). The distinction was elucidated by Advocate
+General Jacobs in <i>Andersson v Svenska Staten</i> (Case C-321/97) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1999/C32197.html">[2000] 2 CMLR 191</a>, para 57:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Retroactive effect consists in
+the application of the rule to situations which were permanently fixed before
+that rule came into force. Immediate effect, which, in principle, works
+likewise according to the principle tempus regit actum, consists in applying
+the rule to situations which are continuing.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The application of these principles presents a challenge when one is
+dealing with entitlement to an occupational retirement pension. Conventionally,
+the right to a pension accumulates over decades. During the time that the right
+is accruing, actuarial assumptions are made based on existing legal conditions,
+notwithstanding that the pension is payable in the future. Those assumptions
+are upset when, because of changes in social values, a new equal treatment
+provision is introduced. It is not immediately easy to identify the point at
+which entitlement to a pension becomes “permanently fixed” - whether for
+example at the date of retirement or when the pension is paid.</a></p><a name="para26">
+
+<p class="ParaHeading">The Directive</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So far as are material to the circumstances of this case, the relevant
+passages from Recitals 11 and 12 of the Framework Directive are these:</a></p><a name="para27">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(11)&nbsp;&nbsp; Discrimination based on
+religion or belief, disability, age or sexual orientation may undermine the
+achievement of the objectives of the EC Treaty, in particular the attainment of
+a high level of employment and social protection, raising the standard of
+living and the quality of life, economic and social cohesion and solidarity,
+and the free movement of persons.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(12)&nbsp;&nbsp;&nbsp;&nbsp; To this end, any direct
+or indirect discrimination based on religion or belief, disability, age or
+sexual orientation as regards the areas covered by this Directive should be
+prohibited throughout the Community. …”</p>
+
+<p class="ParaNoNumber">Article 1 provides that “The purpose of this Directive is
+to lay down a general framework for combating discrimination on the grounds of
+religion or belief, disability, age or sexual orientation as regards employment
+and occupation, with a view to putting into effect in the member states, the
+principle of equal treatment”. Article 2 provides:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of this
+Directive, the ‘principle of equal treatment’ shall mean that there shall be no
+direct or indirect discrimination whatsoever on any of the grounds referred to
+in article 1.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of
+paragraph 1:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; direct discrimination
+shall be taken to occur where one person is treated less favourably than
+another is, has been or would be treated in a comparable situation, on any of
+the grounds referred to in article 1;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; indirect discrimination
+shall be taken to occur where an apparently neutral provision, criterion or
+practice would put persons having a particular ... sexual orientation at a
+particular disadvantage compared with other persons unless:</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that provision,
+criterion or practice is objectively justified by a legitimate aim and the
+means of achieving that aim are appropriate and necessary ...”</p>
+
+<p class="ParaHeading">The appellant’s arguments</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the appellant, Mr Martin Chamberlain QC submits that the Court of
+Appeal has fundamentally misconstrued the nature of the issues involved in the
+jurisprudence of the CJEU. Mr Chamberlain argues that the line of cases on
+which the Court of Appeal relied are all concerned with temporal limitations
+imposed on claims for equal pay for men and women, not for claims for equal
+treatment in relation to pension entitlement for heterosexual and gay men and
+women. Moreover, that limitation was, he says, introduced as an exceptional
+measure to deal with the consequence of the abrupt, financially catastrophic
+impact that retrospective entitlement to equality of pay would have had on the
+economies of many member states of the EU.</a></p><a name="para28">
+
+<p class="ParaHeading">The cases considered by the Court of Appeal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Defrenne v Sabena</i> (Case 43/75)<i> </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1976/C-4375.html">[1976] ECR 455</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1976/C-4375.html">[1981] 1 All ER 122</a> (<i>Defrenne II</i>) the court held that article 119 had direct
+effect and could be relied on from the date by which it had required member
+states to implement the principle of equal pay (1 January 1962). The court
+recognised, however, that this would have far-reaching economic consequences.
+In light of these and the anticipated impact of large numbers of backdated
+claims, the court exceptionally limited the effect in time of its judgment, so
+that the direct effect of article 119 could not be relied on to support claims
+for pay periods before the judgment date (except those that had already been
+launched by that date). That this was a pragmatic decision, inspired by the
+combination of unusual circumstances surrounding the application of article 119,
+is clear from the final part of the judgment. In para 70 it referred to the
+fact that many undertakings could not have foreseen that they might become
+liable for claims from the date that member states were required to implement
+the principle of equal pay and that many might be driven to bankruptcy in
+consequence. Then at paras 72-74, the court said this:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“72.&nbsp;&nbsp;&nbsp;&nbsp; However, in the light of
+the conduct of several of the member states and the views adopted by the
+Commission and repeatedly brought to the notice of the circles concerned, it is
+appropriate to take exceptionally into account the fact that, over a prolonged
+period, the parties concerned have been led to continue with practices which
+were contrary to article 119, although not yet prohibited under their national
+law.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">73.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fact that, in spite
+of the warnings given, the Commission did not initiate proceedings under article
+169 against the member states concerned on grounds of failure to fulfil an
+obligation was likely to consolidate the incorrect impression as to the effects
+of article 119.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">74.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In these circumstances,
+it is appropriate to determine that, as the general level at which pay would
+have been fixed cannot be known, important considerations of legal certainty
+affecting all the interests involved, both public and private, make it
+impossible in principle to reopen the question as regards the past.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear from these passages that the CJEU was not propounding a
+general rule relating to the <i>retrospective application of legislation</i>.
+Rather, it was expressing an exception to the general rule that <i>judicial
+decisions </i>will generally have retrospective application. The statement in
+para 5 of Lewison LJ’s judgment (see para 12 above) that “EU legislation does
+not have retroactive effect unless, exceptionally, it is clear from its terms
+or general scheme that the legislator intended such an effect,” though no doubt
+correct, is not supported in any way by <i>Defrenne II</i>. Moreover, the
+statement that the legitimate expectations of those concerned are required to
+be “duly respected” must also be approached with some caution in the context of
+judicial decisions, which are generally retroactive. In <i>Defrenne II</i>, it
+was the combination of the expectations of undertakings (fuelled as they were
+by the inaction of the Commission) and the circumstance that considerable
+financial hardship might accrue which led the court to take the exceptional
+course which it did.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Bilka-Kaufhaus GmbH v Weber von Hartz</i> (Case C-170/84) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1986/R17084.html">[1986] ECR 1607</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1986/R17084.html">[1986] 2 CMLR 701</a> determined that benefits under an occupational pension
+scheme amounted to “pay” within the meaning of article 119, being
+“consideration received by the worker from the employer in respect of his
+employment” (para 22). The issue whether there was entitlement to benefits
+deriving from service before article 119 should have been implemented in
+Germany did not arise.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Barber v Guardian Royal Exchange Assurance Group</i> (Case C-262/88) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/R26288.html">[1990] ECR I-1889</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/R26288.html">[1991] 1 QB 344</a> involved a different question from that in <i>Bilka-Kaufhaus</i>.
+The issue in <i>Barber </i>was whether benefits under contracted-out schemes
+fell within “pay” for the purposes of article 119. The court held that they did
+- para 28. Under the cross heading, <i>“Effects of this judgment ratione
+temporis”</i> the court considered in paras 40-44 the question whether the
+judgment should be restricted in relation to any retrospective effect. Some
+passages from these paragraphs are of significance in understanding whether
+this case has any bearing on the principle of non-retroactivity of legislation.
+At para 40 the court recorded the submissions of the Commission and the UK
+government:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“40.&nbsp;&nbsp;&nbsp;&nbsp; … the Commission has
+referred to the possibility for the court of restricting the effect of this
+judgment ratione temporis in the event of the concept of pay, for the purposes
+of the second paragraph of article 119 of the Treaty, being interpreted in such
+a way as to cover pensions paid by contracted-out private occupational schemes,
+so as to make it possible to rely on this judgment only in proceedings already pending
+before the national courts and in disputes concerning events occurring after
+the date of the judgment. For its part the United Kingdom emphasised at the
+hearing the serious financial consequences of such an interpretation of article
+119. The number of workers affiliated to contracted-out schemes is very large
+in the United Kingdom and the schemes in question frequently derogate from the
+principle of equality between men and women, in particular by providing for
+different pensionable ages.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Referring to its judgment in <i>Defrenne II</i>, the court then made
+clear in para 41 that taking the course that the Commission and the UK
+government had invited it to follow was only possible as an exceptional
+measure. It said that “it may, <i>by way of exception, taking account of the
+serious difficulties which its judgment may create</i> as regards events in the
+past, be moved to restrict the possibility for all persons concerned of relying
+on the interpretation which the court, in proceedings on a reference to it for
+a preliminary ruling, gives to a provision.” (emphasis added)</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Another factor in play in the court’s decision to restrict the effect of
+its judgment was that, because of earlier Directives, “the member states and
+the parties concerned were reasonably entitled to consider that article 119 did
+not apply to pensions paid under contracted-out schemes and that derogations
+from the principle of equality between men and women were still permitted in
+that sphere” - para 43. This factor carries echoes of the situation which
+pertained in <i>Defrenne II.</i> As in that case, the decision in <i>Barber </i>does
+not constitute an example of a general principle of non-retroactivity for EU
+legislation. It is, rather, an instance of curtailing what would otherwise be
+the logical application of the judgment to existing and precedent situations
+for essentially practical reasons.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The scope of the <i>Barber</i> limitation was considered in <i>Ten Oever
+v Stichting Bedrijfspensioenfonds voor het Glazenwassers- en Schoonmaakbedrijf</i>
+(Case C-109/91) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1993/C10991.html">[1993] ECR I-4879</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1993/C10991.html">[1995] ICR 74</a>. That case related to an occupational
+pension scheme. Until 1 January 1989 rules of the scheme provided for
+survivors’ pensions for widows only, but after that date widowers also were
+entitled to pensions. After the death in October 1988 of the applicant’s wife,
+who had been a member of the scheme, he requested but was refused the grant of
+a widower’s pension. He brought proceedings for a declaration that he was
+entitled to the pension because such a pension was to be treated as “pay”
+within the meaning of article 119 of the EEC Treaty and that no discrimination
+between men and women was permissible. The national court referred to the Court
+of Justice the questions whether “pay” in article 119 covered non-statutory
+benefits to surviving relations and, if so, from what date the applicant could
+claim a widower’s pension.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Various possible interpretations of the effect of the <i>Barber </i>limitation
+were considered by the judge rapporteur and the Advocate General - see AG10. One
+of these was “to apply equal treatment to all pension payments made after 17
+May 1990 [the date of the <i>Barber </i>judgment], including benefits or
+pensions which had already fallen due and … irrespective of the date of the
+periods of service during which the pension accrued.” Advocate General Van
+Gerven explained in AG13-17 why he considered that it was not appropriate to do
+so. An important passage appears at AG13:</a></p><a name="para36">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para36">“Before I take my position on the
+effect in time of <i>Barber v Guardian Royal Exchange Assurance Group </i>(Case
+C-262/88) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/R26288.html">[1990] ICR 616</a>, I consider it important to clarify the rationale
+which led the court to introduce that limitation into its judgment. That that
+is an unusual step needs no demonstration, given the declaratory character
+which in principle attaches to the court’s interpretation of Community law
+pursuant to article 177 of the EEC Treaty: … That was formulated by the court
+in <i>Amministrazione delle Finanze dello Stato v Denkavit Italiano Srl</i>
+(Case 61/79) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1980/R6179.html">[1980] ECR 1205</a>, 1223-1224, paras 16-18 and <i>Amministrazione
+delle Finanze dello Stato v Meridionale lndustria Srl</i> (Cases 66/79, 127/79,
+128/79) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1980/R12879.html">[1980] ECR 1237</a>, 1260-1261, paras 9-11:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">‘The interpretation which, in the
+exercise of the jurisdiction conferred on it by article 177, the Court of
+Justice gives to a rule of Community law clarifies and defines where necessary
+the meaning and scope of that rule as it must be or ought to have been
+understood and applied from the time of its coming into force. It follows that
+the rule as thus interpreted may, and must, be applied by the courts <i>even to
+legal relationships arising and established before the judgment ruling on the
+request for interpretation</i>, provided that in other respects the conditions
+enabling an action relating to the application of that rule to be brought
+before the courts having jurisdiction, are satisfied.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">As the court recognised in its
+judgment of 8 April 1976 in <i>Defrenne v Sabena</i> (Case C-43/75) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1976/C-4375.html">[1976] ECR 455</a>, it is only exceptionally that the court may, in application of the general
+principle of legal certainty inherent in the Community legal order and in
+taking account of the serious effects which its judgment might have, as regards
+the past, on legal relationships established in good faith, be moved to
+restrict for any person concerned the opportunity of relying on the provision
+as thus interpreted with a view to calling in question those legal
+relationships’ …” (emphasis added)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Once again, the exceptionality of restricting the full availability of a
+right declared by the CJEU as deriving from an EU measure is emphasised. AG Van
+Gerven was clearly heavily influenced to the view that a restriction on the
+availability of the right was essential because of the dire financial
+consequences that would otherwise follow. They had been described in the Judge
+Rapporteur’s report at p 86. If the option discussed above had been chosen, “the
+additional financial impact on occupational pension schemes would be at least
+£45 billion, and [under another canvassed option] £33 billion. [To these
+figures would have to be] added approximately £2 billion per annum required in
+any event to meet the effect of equalisation of pensions for the future.” It is
+unsurprising, therefore, that in para 26, AG Van Gerven stated that the
+financial consequences of allowing article 119 to have retroactive effect would
+be “catastrophic”.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is important to recognise, however, that AG Van Gerven accepted that
+a literal reading of the <i>Barber </i>judgment <i>would</i> apply equal
+treatment to all pension payments made after 17 May 1990, including those which
+had already fallen due irrespective of the date of the periods of service
+during which the pension accrued. At para 19 he said:</a></p><a name="para38">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“On a literal reading, it may
+indeed be asserted that the effects of an occupational pension are only fully
+exhausted once the pension has been paid in full to the retired employee. [He
+then explained why that could not be permitted by continuing …] Such a reading
+would mean that the temporal limitation of the judgment decided on by the Court
+would have almost no significance and that the useful effect of the limitation
+imposed by the Court would largely vanish.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Advocate General expanded on his reasons for adopting the more
+restrictive interpretation of <i>Barber </i>in para 21:</a></p><a name="para39">
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:29.3pt;margin-bottom:26.0pt;
+margin-left:72.0pt">“The fact that the good faith of the parties concerned, in
+particular of employers and occupational pension funds, is to be taken into
+account means that, before <i>Barber</i>, those parties, in the belief that article
+119 … was not applicable, could promise pensions and make payments based on a
+different pensionable age for men and women. The financial balance of the
+pension schemes concerned could therefore be maintained on that basis before
+the judgment. Only in respect of periods of service after <i>Barber</i> did
+employers know that, in administering occupational pension schemes and
+calculating the contributions to be made to them, account had to be taken of a
+pensionable age which was the same for men and women. If no account were taken
+of their good faith and that of pension scheme administrators, that would
+entail serious financial problems for pension schemes. All these factors argue
+in favour of not allowing obligations entered into and payments made before the
+date of the <i>Barber</i> judgment to be affected.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court accepted the more restrictive definition, stating at para 19:</a></p><a name="para40">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para40">“Given the reasons explained in <i>Barber</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/R26288.html">[1990] ICR 616</a>, 672, para 44, for limiting its effects in time, it must be made
+clear that equality of treatment in the matter of occupational pensions may be
+claimed only in relation to benefits payable in respect of periods of
+employment subsequent to 17 May 1990, the date of the judgment in <i>Barber</i>,
+subject to the exception in favour of workers or those claiming under them who
+have, before that date, initiated legal proceedings or raised an equivalent
+claim under the applicable national law.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court thus allied itself closely to the reasons in <i>Barber </i>(discussed
+in paras 33 and 34 above) for espousing and extending to occupational pension
+schemes a similar restriction on the retroactive effect of article 119.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Vroege v NCIV Instituut voor Volkshuisvesting BV</i> (Case C-57/93) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1994/C5793.html">[1994] ECR I-4541</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1994/C5793.html">[1995] 1 CMLR 881</a>, concerned a pension scheme that until 1990 did
+not admit married women. Among the questions referred to the CJEU was whether
+the <i>Barber</i> limitation applied to Mrs Vroege’s claim for equal access to
+the scheme. The court said that it was “important to remember the context in
+which it was decided to limit the effects in time of the <i>Barber</i>
+judgment” (para 20), and reaffirmed the two “essential criteria” for such a
+limitation, <i>viz</i>, “the general principle of legal certainty … and the
+serious difficulties which its judgment may create as regards the past for
+legal relations established in good faith” (para 21), both of which had been
+met in <i>Barber</i> (paras 22-25). On that basis, it stated that the Barber
+limitation “concerns only those kinds of discrimination which employers and
+pension schemes could reasonably have considered to be permissible owing to the
+transitional derogations for which Community law provided and which were
+capable of being applied to occupational pensions” - para 27.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal in the present case understood the decision in <i>Ten
+Oever</i> to establish a general principle of EU law, to the effect that
+entitlement to a survivor’s pension is “permanently fixed” as it is earned. It
+concluded that the same principle could be applied where the law is changed not
+by a judgment, but by legislation. It was influenced to this view by the
+opinion that the same policy considerations lay behind the no retroactivity
+principle and the CJEU’s power to limit the retrospective application of its
+judgments. To an extent, the same policy considerations are in play. In both scenarios
+one can acknowledge the need to ensure legal certainty and to protect the
+legitimate expectations of those who rely on the law as it was thought to be.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But it is vital to keep the two concepts distinct. “No retroactivity” and
+“future effects” are principles of law which apply to all EU legislation,
+unless a contrary intention can be found. The <i>Barber</i> exception is an
+example of a technique used by the CJEU to limit the generally retroactive
+application of its <i>judgments</i>, which it will only exercise in the most
+exceptional circumstances and where the impact would be truly “catastrophic”. The
+court limits the temporal application of its judgments in cases where reliance
+has been placed on a different understanding of the law and legitimate
+expectations may be upset, but only in the most special circumstances. Therefore,
+how the court exceptionally applies a temporal limitation to one of its rulings
+has no inevitable bearing on the temporal application of legislation as a
+matter of principle.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Chamberlain submits that all the cases considered by the Court of
+Appeal and the EAT, in so far as they concerned article 119, involved the
+application of the exceptional limitations imposed in <i>Defrenne II</i> and <i>Barber</i>.
+None expressed a general rule that immediate application of EU legislation at
+the point of enactment should normally be avoided. On the contrary, the
+consistent theme of the CJEU jurisprudence was that rights established by
+legislation should be activated at the time that they were stated to exist.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree with Mr Chamberlain’s analysis of the relevant jurisprudence and
+I turn now to consider his principal argument that two recent decisions of the
+Grand Chamber of the CJEU (which troubled the Court of Appeal because of their
+perceived incongruence with what that court considered to be the fundamental
+principles governing retroactivity) put success for Mr Walker’s claim beyond
+doubt. Those decisions are <i>Maruko v Versorgungsanstalt der Deutschen Bühnen</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2008/C26706.html">[2008] ECR I-1757</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2008/C26706.html">[2008] All ER (EC) 977</a>; (<i>Maruko</i>) and <i>Römer v Freie
+und Hansestadt Hamburg</i> (Case C-147/08) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C14708.html">[2011] ECR I-3591</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C14708.html">[2013] 2 CMLR 11</a>
+(<i>Römer</i>).</p>
+
+<p class="ParaHeading">Maruko</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The claimant in <i>Maruko</i> was a registered life partner of a
+designer of theatrical costumes who had been a member of the German theatre
+pension institution (VddB). After his partner’s death in 2005, the VddB refused
+Mr Maruko the pension which would have been paid automatically to a surviving
+spouse. He brought a claim before the Bavarian Administrative Court, which
+referred several questions to the Court of Justice. The most pertinent of these
+for present purposes is the fifth. This was whether entitlement to the
+survivor’s benefits should be restricted to the period from 17 May 1990 in the
+light of <i>Barber</i>, as considered in <i>Coloroll Pension Trustees Ltd v
+Russell</i> (Case C-200/91) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1994/C20091.html">[1995] All ER (EC) 23</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1994/C20091.html">[1994] ECR I-4389</a>. The
+spouse’s pension in issue arose from Mr Maruko’s service and contributions
+during a period that started in 1959 and ended (in all likelihood) before 2003.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the question proceeded on the premise that any limitation to
+the relevant period of service would be from the date of the <i>Barber </i>judgment,
+the CJEU’s summary of the issue makes it clear that it considered that wider
+considerations were potentially at stake, for it said at para 74 that the
+referring court “seeks to know whether … entitlement to the survivor’s benefit …
+must be restricted in time and in particular to periods subsequent to [the <i>Barber
+</i>judgment]”.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The pension fund in the <i>Maruko </i>case presented an argument similar
+to that advanced by the Secretary of State in the present appeal. It suggested
+that, to take account of service before the Framework Directive’s implementation
+deadline would give the Directive retrospective effect. The court summarised
+that argument in para 75:</a></p><a name="para49">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The VddB considers that the case
+which led to the judgment in <i>Barber</i>’s case differs, on its facts and in
+law, from the case in the main proceedings and that Directive 2000/78 cannot be
+given retroactive effect by means of a decision that the Directive applied at a
+date prior to the date of expiry of the period allowed to member states for its
+transposition.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At paras 77-79, the CJEU unambiguously rejected that argument:</a></p><a name="para50">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para50">“77.&nbsp;&nbsp;&nbsp;&nbsp; It is clear from the case
+law that the court may, exceptionally, taking account of the serious
+difficulties which its judgment may create as regards events in the past, be
+moved to restrict the possibility for all persons concerned of relying on the
+interpretation which the court gives to a provision in response to a reference
+for a preliminary ruling. A restriction of that kind may be permitted only by
+the court, in the actual judgment ruling upon the interpretation sought (see
+inter alia <i>Barber</i> at para 41; and <i>Meilicke v Finanzamt
+Bonn-Innenstadt</i> (Case C-292/04) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2007/C29204.html">[2007] 2 CMLR 19</a> at para 36).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">78.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is nothing in the
+documents before the court to suggest that the financial balance of the scheme
+managed by VddB is likely to be retroactively disturbed if the effects of this
+judgment are not restricted in time.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">79.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It follows from the
+foregoing that the answer to the fifth question must be that there is no need
+to restrict the effects of this judgment in time.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The material ruling of the court was that “The combined provisions of
+articles 1 and 2 of Directive 2000/78 preclude legislation such as that at
+issue in the main proceedings under which, after the death of his life partner,
+the surviving partner does not receive a survivor’s benefit equivalent to that
+granted to a surviving spouse”. The effect of this, as regards Mr Walker and
+his husband, is unmistakable. If he survives Mr Walker, his husband is entitled
+to a spouse’s pension on the same basis as would a wife.</a></p><a name="para51">
+
+<p class="ParaHeading">Römer</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This was a case of a pensioner who had been in a registered life
+partnership. His claim was for the same supplementary pension payments that
+were given to married pensioners. His pension rights arose from contributions
+paid during a period of service from 1950 until 31 May 1990. The CJEU held that
+he was entitled to equal treatment if German life partnerships were comparable
+to marriage.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>One of the supplementary questions which the court considered was
+whether, if Mr Römer was entitled to pension payments, their amount should be
+calculated only by reference to the contributions that were made after the <i>Barber
+</i>judgment. Advocate General Jääskinen approached this question on the basis
+that any limitation of the period of service to be considered would require a
+restriction on the otherwise natural application of the principle that
+contemporaneous discrimination was forbidden unless exceptional circumstances
+would justify such a restriction (AG157-158). As it happened, no party had
+requested one in the <i>Römer </i>case, and it was, moreover, “by no means
+apparent from the documents in the case that the financial balance of the supplementary
+pension scheme managed by the defendant in the main proceedings risks being
+retroactively disturbed by the lack of such limitation.” (AG159)</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the circumstances, the CJEU held that <i>Barber </i>had no bearing on
+Mr Römer’s entitlement. Neither the Federal Republic of Germany nor the Freie
+und Hansestadt Hamburg had suggested any limitation in time of the effects of
+the present judgment and no evidence submitted to the court indicated that they
+should be so limited.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>From this it is clear that, unless evidence establishes that there would
+be unacceptable economic or social consequences of giving effect to Mr Walker’s
+entitlement to a survivor’s pension for his husband, at the time that this
+pension would fall due, there is no reason that he should be subjected to
+unequal treatment as to the payment of that pension.</a></p><a name="para55">
+
+<p class="ParaHeading">The decisions of the EAT and the Court of Appeal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Chamberlain submitted that the EAT wrongly took AG Van Gerven’s
+description of pension benefits in <i>Ten Oever </i>as “deferred pay” as
+equating the time at which a pension right accrues with the time at which any
+discrimination in the provision of resulting benefits is to be judged. I agree
+that the EAT was wrong to do so. The point of unequal treatment occurs at the
+time that the pension falls to be paid. If Mr Walker married a woman long after
+his retirement, she would be entitled to a spouse’s pension, notwithstanding
+the fact that they were not married during the time that he was paying
+contributions to his pension fund. Whether benefits referable to those
+contributions are to be regarded as “deferred pay” is neither here nor there,
+so far as entitlement to pension is concerned. Mr Walker was entitled to have
+for his married partner a spouse’s pension at the time he contracted a legal
+marriage. The period during which he acquired that entitlement had nothing whatever
+to do with its fulfilment.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As AG Jääskinen said in <i>Römer</i> at AG160:</a></p><a name="para57">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In the hypothetical case that Mr
+Römer had been able to enter into a marriage in October 2001, instead of a life
+partnership, the Freie und Hansestadt Hamburg would have had to increase the
+supplementary pension paid to him ... The financing of the retirement scheme
+concerned must have been planned taking into account the possibility of changes
+in the marital status of pensioners.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Likewise, the financing of Innospec’s retirement scheme should have been
+planned taking into account a possible change in Mr Walker’s marital status. He
+could not have been denied entitlement to a spouse’s pension if, perfectly
+legally, he married a woman after he retired. His marriage to his current
+partner is just as legal as would be a heterosexual marriage. His entitlement
+to a spouse’s pension is equally well-founded.</a></p><a name="para58">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal considered that the <i>Barber </i>case explained how
+the future effects principle should be applied to the Framework Directive. At
+para 11 of his judgment, Lewison LJ said of the exception in <i>Barber</i>,
+“The concept underpinning this limitation on the effect of the judgment is, in
+my judgment, the same concept that distinguishes between situations that are
+permanently fixed or established and those that are not.” In fact, none of the <i>Barber
+</i>line of cases mentions the future effects principle. As Mr Chamberlain
+submitted, this is because that principle is concerned with the effects of
+legislation, whereas <i>Barber </i>and <i>Ten Oever </i>dealt with temporal
+limitations on judgments.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The approach of the Court of Appeal led it to the same conclusion as the
+EAT, in equating the time at which a right to a pension accrues with the time
+at which discrimination in the provision of benefits is to be judged. The
+implication of this approach was considered by Professor Wintemute in an
+article in (2014) 43 ILJ 506, 510, commenting on the EAT judgment when he said:</a></p><a name="para60">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The implication of the EAT’s
+analogy was that, from 1980 to 2003, Mr Walker had been paid the lower ‘gay
+wage’ (one with no expectation that a survivor’s pension would ever be paid to
+the employee’s surviving partner despite the employee’s equal contributions to
+the pension scheme), rather than the higher ‘heterosexual wage’ (one with an
+expectation that a survivor’s pension might be paid to the employee’s surviving
+spouse based on the employee’s contributions to the pension scheme).”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This illustrates the essential flaw in the approach of the EAT and the
+Court of Appeal. The salary paid to Mr Walker throughout his working life was
+precisely the same as that which would have been paid to a heterosexual man.
+There was no reason for the company to anticipate that it would not become
+liable to pay a survivor’s pension to his lawful spouse. The date when that
+pension will come due, provided Mr Walker and his partner remain married and
+his partner does not predecease Mr Walker, is the time at which denial of a
+pension would amount to discrimination on the ground of sexual orientation.</a></p><a name="para61">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Dealing with <i>Maruko </i>Lewison LJ said that the fifth question which
+the referring court had posed (set out at para 47 above) was “very puzzling” -
+para 37. He suggested (at para 40) that the court had given “an unnecessary
+answer to the wrong question.” Undoubtedly, the referring court’s reference to
+17 May 1990 was misplaced - how could that date, being the date of the <i>Barber</i>
+judgment on equal pay under article 119, have any possible relevance to the
+temporal application of the judgment in <i>Maruko </i>on equal treatment under
+the Framework Directive? But the Court plainly understood the referring court
+as asking essentially whether the effect of its judgment should be “limited in
+time”. That question is only puzzling or unnecessary if one proceeds on the
+assumption that there is a general rule that the time at which a pension right
+accrues should be equated with the time at which discrimination in the
+provision of resulting benefits occurs. For the reasons given earlier, I do not
+consider that this is correct. The response given to the fifth question in <i>Maruko
+</i>is therefore perfectly explicable and provides<i> </i>the inescapable
+answer in Mr Walker’s case.</a></p><a name="para62">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In order to deal with the Court of Appeal’s treatment of the <i>Römer</i>
+decision, it is necessary to say a little more about the questions referred to
+the CJEU in that case. The fifth question had two parts which the CJEU
+interpolated as 5(a) and (b). Question 5(a) asked whether, if the domestic
+legislation contravened the Framework Directive, Mr Römer was entitled to
+supplementary pension payments in line with married people before that
+legislation was amended. This was answered affirmatively by the court - see
+paras 53-56. Question 5(b) was whether, if the domestic legislation contravened
+the Directive, Mr Römer was entitled to backdated supplementary pension payments
+even for the period before the transposition deadline for the Framework
+Directive. Question 6 was whether, if Mr Römer was entitled to supplementary
+pension payments, the amount of those payments should be calculated by
+reference to the contributions made after the <i>Barber </i>judgment.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Römer had conceded that the answer to question 5(b) might be that he
+could only receive backdated supplementary payments from 2003. But, as far as
+question 6 was concerned, “his pension payments should, in any event, be
+calculated from that date on the basis of all the contributions he has paid,
+irrespective of their date.” A-G Jääskinen - AG142. The CJEU accepted that Mr
+Römer was not entitled to payments that were <i>due to be paid </i>before 2003
+(because the Directive had not been implemented before then) but that when it
+came to the calculation of the <i>quantum</i> of the pension payments, the fact
+that the contributions underpinning the entitlement had been paid before then made
+no difference - para 66.</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Put simply, Mr Römer could not claim pension payments before 2003 but
+the pension due to him after that date should be calculated on the basis of all
+the years during which entitlements to them had been built up. Translating that
+to Mr Walker’s case, the message is clear. He could not have claimed
+entitlement to the payment of the pension before the transposition of the Directive
+into UK law but, once that happened, the rate of his pension was to be based on
+all the years of his service, even those which preceded the date of the
+transposition.</a></p><a name="para65">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal misunderstood <i>R</i><i>ömer</i>. At para 43,
+Lewison LJ said that the CJEU had held that entitlement to equal treatment did
+not become part of EU law until the time limit for transposing the Directive
+had expired. On that basis, the “answer to question 5 was plainly a negative
+answer: the entitlement did not apply before the deadline for transposing the Directive”
+(para 44). It was, of course, true that entitlement did not arise until the Directive
+had to be transposed, but this does not address the question of <i>what the
+entitlement was </i>after the deadline was reached. Lewison LJ thought that
+question 6 was conditional on an affirmative answer to question 5” and since,
+in his estimation, a negative answer had been given to question 5, question 6
+was irrelevant. This was, I am afraid, wrong.</a></p><a name="para66">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the first place, both parts of question 5 had <i>not </i>been given a
+negative answer. Question 5(a) had been answered affirmatively. More
+importantly, question 6 remained supremely relevant to Mr Walker’s case. His
+entitlement to a spouse’s pension did not materialise until after the
+transposition of the Directive but the response to question 6 provided the key
+to the nature of the right that Mr Walker then acquired. It was entitlement to
+a pension calculated on the basis of his years of service before the Directive
+was transposed.</a></p><a name="para67">
+
+<p class="ParaHeading">Parris v Trinity College Dublin</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para67"></a><a name="para68">68.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The case <i>Parris v Trinity College Dublin</i> (Case C-443/15) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2016/C44315.html">[2017] Pens LR 3</a> was a reference to the CJEU from the Labour Court in Ireland. It also
+concerned a claim for a survivor’s pension under the Framework Directive. Dr
+Parris had entered a civil partnership with his partner of 30 years in the UK
+on his 63rd birthday in 2009. This civil partnership was not recognised in
+Ireland until a change in the law on 12 January 2011. Dr Parris had been
+employed as a lecturer by Trinity College Dublin (TCD) from 1972 to 2010. He
+took early retirement in 2010. He had been a member of TCD’s non-contributory
+occupational pension scheme. The scheme provided a survivor’s pension, but only
+where the marriage or civil partnership took place before the member’s 60th birthday.
+The questions referred to the CJEU concerned whether TCD’s refusal to provide
+the survivor’s pension to Dr Parris’ civil partner, by reference to that rule,
+constituted indirect discrimination on sexual orientation grounds, direct age
+discrimination, and/or discrimination on a combination of those grounds.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para69">69.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The questions referred did not concern Dr Parris’s period of service. In
+fact, his employment almost entirely predated the deadline for transposing the
+Framework Directive, and had ended before Ireland’s recognition of civil
+partnerships. The UK nevertheless made submissions to the CJEU which broadly
+mirror those of the Secretary of State in the present appeal. It was submitted
+that since Dr Parris’s pension entitlements were based almost entirely on
+periods of service completed before the coming into force of the Directive,
+they could not be subject to the principle of equal treatment.</a></p><a name="para69">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para69"></a><a name="para70">70.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Advocate General Kokott rejected those submissions. At paras 39-42 of
+her Opinion she said</a></p><a name="para70">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“39.&nbsp;&nbsp;&nbsp;&nbsp; ... that objection is
+unfounded. For it is settled case law that a new rule of law applies from the
+entry into force of the act introducing it, and, while it does not apply to
+legal situations that have arisen and become definitive under the old law, it
+does apply to their future effects, and to new legal situations. It is
+otherwise, subject to the principle of the non-retroactivity of legal acts,
+only if the new rule is accompanied by special provisions which specifically
+lay down its conditions of temporal application.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Those principles also
+apply to the temporal application of Directive 2000/78. A restriction of the temporal
+scope of that Directive, in derogation from the aforementioned general
+principles, would have required an express stipulation to that effect by the EU
+legislature. No such special provision has been made, however.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequently, the Court
+has already declared Directive 2000/78 to be applicable to cases concerning
+occupational and survivor’s pension schemes the entitlements under which had
+arisen - much as they did here - long before the entry into force of that Directive
+and any contributions or reference periods in respect of which also predated
+the entry into force of that Directive. Unlike in <i>Barber</i>, for example,
+concerning article 119 of the EEC Treaty (now article 157 TFEU), the Court expressly
+did not apply a temporal restriction to the effects of its case law relating to
+occupational pension schemes under Directive 2000/78. I would add that there
+was, moreover, no longer any need for such a temporal restriction, since it had
+become sufficiently apparent to all the interested parties since the judgment
+in <i>Barber</i> that occupational pensions fall within the EU-law concept of
+pay and are subject to any prohibitions on discrimination.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">42.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is true that the
+Court has held that the prohibition on discrimination contained in Directive 2000/78
+cannot give rise to claims for payments in respect of periods in the past that
+predate the time limit for transposing that Directive. However, the recognition
+of the right to a future survivor’s pension, at issue in the present case, is
+unaffected by that principle because such recognition is concerned only with
+future pension scheme payments, even though the calculation of those payments is
+based on periods of service completed or contributions made in the past.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para70"></a><a name="para71">71.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These statements are entirely consistent with the analysis of <i>Maruko </i>and
+<i>Römer</i> which Mr Chamberlain offered and which I accept. The CJEU held
+that Dr Parris’s case did not amount to discrimination at all, citing the
+principle in <i>Maruko</i> that legislation treating surviving civil partners
+less favourably than surviving spouses will amount to direct discrimination if
+the two are in comparable situations under national law, but noting that the
+rule in issue in Dr Parris’s case applied equally to opposite-sex marriages and
+same-sex civil partnerships. His inability to meet the qualifying criterion for
+the survivor’s pension resulted from the lack of provision for same-sex
+partnerships under Irish law at the time of his 60th birthday and it was for
+member states to decide both whether to make such provision and, if so, whether
+to make it retrospective. The CJEU did not, therefore, need to address the UK
+government’s argument that Dr Parris’s claim fell outside the temporal scope of
+the Directive but nothing in its judgment cast doubt on AG Kokott’s clearly
+expressed opinion that the submissions of the UK were incompatible with <i>Maruko</i>
+and <i>R</i><i>ömer.</i></a></p><a name="para71">
+
+<p class="ParaHeading">Conclusion on the first issue</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para71"></a><a name="para72">72.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would therefore hold that Mr Walker’s husband, provided he does not
+predecease him, and that they remain married at the time of Mr Walker’s death,
+is entitled under the Framework Directive to a spouse’s pension calculated on
+the basis of all the years of Mr Walker’s service with Innospec. On that
+account, paragraph 18 of Schedule 9 is incompatible with the Framework
+Directive. In particular, paragraph 18(1)(b) which authorises a restriction of
+payment of benefits based on periods of service before 5 December 2005 cannot
+be reconciled with what I consider to be the plain effect of the Directive.</a></p><a name="para72">
+
+<p class="ParaHeading">Must effect be given to paragraph 18 or should it be
+disapplied - the second issue?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para72"></a><a name="para73">73.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant claims that, applying the principles established by <i>Kücükdeveci</i>
+<i>v Swedex GmbH and Co KG</i> (Case C-555/07) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C55507.html">[2010] 2 CMLR 33</a>, paragraph 18
+must be disapplied. As Lord Mance explained in <i>R (Chester) v Secretary of
+State for Justice</i><i> </i>in the passage cited at para 10 above, for the
+general principle of non-discrimination to apply, the context must fall within
+EU law. Both the EAT and the Court of Appeal considered that non-discrimination
+did not become a fundamental principle of EU law until the transposition deadline
+of the Framework Directive - Lewison LJ at para 49 and Underhill LJ at para 59.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74">74.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Chamberlain submits that this is incorrect, arguing that the CJEU did
+not say that non-discrimination only became a general principle of EU law in
+2003. Its relevant finding was that Mr Römer’s claim for equal pension benefits
+only came within the material scope of EU law from that time. Whether that is
+right or not need not be decided finally in this case because Mr Chamberlain’s
+second argument disposes of the issue. That is that non-discrimination on
+grounds of sexual orientation is now a principle of EU law. It follows that any
+contemporary denial to his husband of a spouse’s pension, calculated on all the
+years of Mr Walker’s service, would be incompatible with the Framework
+Directive. In so far as paragraph 18 authorises that, it must be disapplied on
+the basis of the principles articulated in <i>Kücükdeveci</i> and <i>Chester</i>.</a></p><a name="para74">
+
+<p class="ParaHeading">The third issue</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74"></a><a name="para75">75.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In light of my conclusion on the first two issues, it is not necessary
+to decide the third issue, <i>viz </i>whether paragraph 18 is incompatible with
+Mr Walker’s rights under article 14 of ECHR, when read together with article 8
+and article 1 of the First Protocol.</a></p><a name="para75">
+
+<p class="ParaHeading">Final conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para75"></a><a name="para76">76.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would allow Mr Walker’s appeal and declare that, in so far as it
+authorises a restriction of payment of benefits based on periods of service
+before 5 December 2005, paragraph 18 of Schedule 9 to the 2010 Act is
+incompatible with the Framework Directive and must be disapplied. I would make
+a further declaration that Mr Walker’s husband is entitled to a spouse’s
+pension calculated on all the years of his service with Innospec, provided that
+at the date of Mr Walker’s death, they remain married.</a></p><a name="para76">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LORD CARNWATH AND LORD
+HUGHES:</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para76"></a><a name="para77">77.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We agree that Mr Walker’s appeal should be allowed, but on more limited
+grounds. This appeal was heard at the same time as the appeal in <i>O’Brien v
+Ministry of Justice </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2017/46.html">[2017] UKSC 46</a>,<i> </i>in which the court has decided
+to refer to the European court a question relating to the pension entitlement
+of part-time workers. As explained in the judgment of Lord Reed, that arises
+from a difference among the members of the court as to the interpretation of
+the <i>Ten Oever </i>line of authority (as he describes it - para 20). In so
+far as Lord Kerr’s reasoning in the present case (in particular, paras 35-46)
+turns on his interpretation of that line of authority, we prefer to await the
+authoritative ruling of the European court.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78">78.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The present case is in our view distinguishable substantially for the
+reasons given by Lord Kerr at paras 56-58. On any view Mr Walker had earned a
+right to a pension for his spouse. That right, and the possibility of a change
+in his marital status, should have been taken into account in the financing of
+the scheme. The question who qualified as his spouse fell to be answered at a
+date when it was unlawful under the Directive to discriminate as between
+heterosexual and same-sex marriages. At that time, as Lord Kerr says (para 56),
+he was entitled to have for his married partner a spouse’s pension; “The period
+during which he acquired that entitlement had nothing whatever to do with its
+fulfilment.” To the extent that paragraph 18 of Schedule 9 to the Equality Act
+2010 restricted that right it was incompatible with European law, and must be
+disapplied.</a></p><a name="para78">
+
+</a></div><a name="para78">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/47.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

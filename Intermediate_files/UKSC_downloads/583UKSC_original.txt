@@ -1,0 +1,958 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Mott, R (on the application of ) v Environment Agency [2018] UKSC 10 (14 February 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:10.0pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:10.0pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:10.0pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:10.0pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:10.0pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Mott, R (on the application of ) v Environment Agency [2018] UKSC 10 (14 February 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/10.html</i>
+<br>Cite as: 
+[2018] 2 All ER 663,
+
+[2018] LLR 356,
+
+[2018] UKSC 10,
+
+[2018] WLR 1022,
+
+[2018] Env LR 20,
+
+[2018] 1 WLR 1022,
+
+[2018] WLR(D) 86
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/10.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016003967/casereport_d4a74305-62dc-462c-b5ab-c9809f5c007a/html">[2018] 1 WLR 1022</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016003967/casereport_4f6a9ea2-db82-4011-a148-72af66179fac/html">[2018] WLR(D) 86</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<ol>
+
+<center><a href="/uk/cases/UKSC/2018/10.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 10</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/564.html">[2016] EWCA Civ 564</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">R (on the application of Mott) (Respondent) <i>v</i>
+Environment Agency (Appellant)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">14 February 2018</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 13 December 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">James Maurici QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Gwion Lewis</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Environment Agency Legal Services)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Stephen Hockman QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Mark Beard</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Harrison Clark Rickerbys Inc Simon Jackson)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD CARNWATH: (<span style="text-transform:none">with whom
+Lady Hale, Lord Kerr, Lady Black and Lord Briggs agree)</span></p>
+
+<p class="ParaHeading"><b>Background</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the legality under the European Convention on Human
+Rights of licensing conditions imposed by the Environment Agency (“the Agency”)
+restricting certain forms of salmon-fishing in the Severn Estuary.</a></p><a name="para1">
+
+<p class="ParaHeading">Mr Mott’s interest</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondent, Mr Mott, has a leasehold interest in a so-called
+“putcher rank” fishery at Lydney on the north bank of the Severn Estuary. A
+putcher rank is an old fishing technique, involving the use of conical baskets
+or “putchers” to trap adult salmon as they attempt to return from the open sea
+to their river of origin to spawn. Mr Mott has operated the putcher rank under
+successive leases since 1975. Since 1979, according to his evidence, it has
+been his full-time occupation. He claims that, before the limits introduced by
+the Agency in 2011, his average catch using the rank was some 600 salmon per
+year, at a value of about £100 each, giving him a gross annual income in the
+order of £60,000.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The right to operate the rank is derived from a “Certificate of
+Privilege” dated 14 May 1866, issued by the Special Commissioners for English
+Fisheries, and owned by the Lydney Park Estate. The current 20-year lease was
+granted jointly to Mr Mott and a Mr David Merrett, and will expire on 31 March
+2018. It gives them the right to fish two stop nets and 650 putchers, in return
+for payment of an annual rent in two parts: a “fish rent” equivalent to 65
+pounds in weight of salmon, and a “monetary rent” of (since the last review
+date) £276. The tenants are required to operate the putcher rank during each
+fishing season unless circumstances make it impossible. Further they may not assign,
+let or part with the fishery during the term of the lease, save upon death or
+disability, when they may with the written consent of the landlord assign to
+another family member.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To operate the putcher rank Mr Mott has required an annual licence from
+the Environment Agency (“the Agency”), under section 25 of the Salmon and
+Freshwater Fisheries Act 1975 (“the 1975 Act”). The salmon season runs from 1
+June to 15 August. Licences are usually issued by the Agency in late April or
+early May, shortly before the season opens. Until recently a licence for use of
+“an historic installation” such as the putcher rank (unlike other methods of
+fishing) could not be made subject to conditions limiting the number of fish
+taken (“catch limitations”). However, with effect from 1 January 2011, the 1975
+Act was amended to enable the Agency to impose such conditions where considered
+“necessary … for the protection of any fishery” (paragraph 14A of Schedule 2 to
+the 1975 Act, inserted by Marine and Coastal Access Act 2009 section 217(7)).</a></p><a name="para4">
+
+<p class="ParaHeading">Measures to protect salmon stock</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It has been government policy, as implemented by the Agency and its
+predecessors, supported by government, that in the interests of effective
+management “mixed stock fisheries” should be gradually phased out, and
+exploitation limited, as far as possible, to places where the stock of salmon
+is from a single river. The Agency considers that all the fisheries in the
+Severn Estuary exploit a mixed salmon stock, with fish destined to return to
+the rivers Severn, Wye, Usk, Rhymney, Taff and Ely and other rivers.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rivers Wye and Usk are designated as Special Areas of Conservation
+(“SAC”) under the European “Habitats Directive” (Council Directive 92/44/EEC),
+transposed into domestic law by the Conservation of Habitats and Species
+Regulations 2017 (“the Habitats Regulations”). One of the main reasons for the
+designation of these rivers is the need to conserve their salmon stocks. The
+Severn Estuary itself is designated as a SAC, a Special Protection Area (under
+the Council Directive on the Conservation of Wild Birds (Council Directive
+79/409/EEC)), and a Ramsar site. Together, these areas constitute the Severn
+Estuary European Marine Site, for which salmon is a qualifying feature.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For some years the status of salmon stock in the Wye and Usk has been
+categorised by the responsible authorities as “unfavourable” or “at risk”,
+because of failure to achieve stock conservation targets or the objectives set
+under the Habitats Directive.</a></p><a name="para7">
+
+<p class="ParaHeading">Dealings between the Agency and the Tenants</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In late 2003, the Agency attempted to purchase the Certificate of
+Privilege to operate the putcher rank. It agreed terms with the Estate, subject
+to contract, and (as the Estate required) subject to agreement with the tenants
+for termination of the lease. Negotiations between the Agency and the tenants
+took place in 2004. By an agreement in 2004, the Agency paid the tenants
+£30,000 compensation not to operate the putcher rank fishery during the 2004
+fishing season. The agreement also provided a further payment of £10,000, if
+agreement were reached before 1 June 2005 for permanent cessation. In the event
+negotiations for permanent cessation were unsuccessful. It was agreed in
+principle that compensation should be paid, but the parties failed to agree the
+basis of valuation. During the 2005 to 2009 seasons the tenants continued to
+operate the fishery. In 2010 an agreement was again reached for payment of
+£30,000 compensation not to operate the fishery during that season.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In February 2011, the Agency offered to purchase the then remaining term
+of the lease (seven years), but negotiations were unsuccessful. However, in
+response to the application for a licence for the 2011 season, the Agency
+agreed to pay the tenants £35,000 compensation not to operate the putcher rank
+fishery during that season. Another historic installation fishery was also paid
+not to seek a licence in the 2011 season. The only historic installation
+fishery that was licensed in 2011 operated under the terms of a catch
+condition, imposed under the new powers in paragraph 14A of Schedule 2 to the
+1975 Act which had by then come into effect. The catch condition was determined
+following an “appropriate assessment” under the Habitats Regulations (“the 2011
+HRA”).</a></p><a name="para9">
+
+<p class="ParaHeading">The dispute</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The events leading to the present dispute began with a letter from the
+Agency dated 16 April 2012, informing Mr Mott of a report by the University of
+Exeter (“the Exeter Report”), which, it was said, provided clear evidence of
+the mixed stock nature of the catch in the Severn Estuary. He was informed of
+the intention to set a catch limit of 30 fish for that year, and of the power
+under the amended 1975 Act to impose a catch limit without compensation. The
+Exeter Report was followed in May 2012 by a Habitats Regulations Assessment
+(“the 2012 HRA”) to the effect that unconstrained catches of salmon in the
+estuary were threatening the integrity of the River Wye SAC, and that it was
+necessary to limit the use of the historic installation fisheries. As HHJ
+Cooke, sitting as a judge of the High Court noted (para 13), the contemporary
+documents showed that the “controlling factor” was consideration of the numbers
+of salmon returning to the Wye to spawn, the stock in that river being
+considered to be the most vulnerable; and the impact of the claimant’s fishery
+was considered therefore in terms of its potential effect on salmon destined to
+spawn in the Wye.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Mott did not accept the Exeter Report’s findings. Having failed to
+persuade its authors at a meeting in May 2012, he commissioned his own expert
+report from a Professor Fewster of University of Auckland, New Zealand. The
+disagreements between the experts were the subject of detailed study in the
+courts below but are not relevant to the remaining issue in this appeal.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the meantime, Mr Mott was served with a notice under the 1975 Act on
+1 June 2012, the first day of the new fishing season, limiting his catch to 30
+fish. This figure was fixed “by reference to the lowest catch by any of the
+historic installation fisheries that had sought a licence in the preceding
+ten-year period”, with some increase to mitigate the risk of “reduction in
+licence uptake and failure to maintain possible heritage”. A further reduction
+to 23 salmon was proposed for 2013, and 24 for the 2014 season.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge referred to a sentence in the Habitats Regulations Assessment
+for 2013 which explained that under the new regime “the catch by the most
+productive estuary fisheries will be restricted to the approximate long-term de
+minimus (sic) catch.”: </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2015/314.html">[2015] EWHC 314 (Admin)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2015/314.html">[2016] Env LR 27</a> (para 31). He
+commented on the effect on Mr Mott:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“33.&nbsp;&nbsp;&nbsp;&nbsp; The final sentence quoted
+above was explained as meaning that the number of fish allowed per licence was
+set as being approximately the ten year average catch of the least productive
+of all the fisheries licensed. The practical result for the claimant is that
+his fishery of 650 putchers is given the same catch allocation as the smallest
+and least effective of the other putcher fisheries, which may operate 50
+baskets or less. These he says are not commercially viable but operated only as
+a hobby. Plainly, the heaviest impact of this policy falls on the claimant who
+relies on the fishery for his living rather than the smaller operators.”</p>
+
+<p class="ParaHeading">The proceedings</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present judicial review proceedings Mr Mott challenged the
+decisions of the Agency to impose conditions on the licences for 2012, 2013 and
+2014, limiting catches respectively to 30, 23, and 24 salmon per season. He
+alleged irrationality, and breach of his rights under the Convention. It was Mr
+Mott’s case that the catch limit conditions have made the putcher rank fishery
+wholly uneconomic and the lease worthless.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge upheld both claims and concluded that the decisions to impose
+the catch conditions were irrational, as the Exeter Report did not provide a
+reasonable basis for the view that the putcher installations were having a
+material effect on the salmon fishery in the river Wye. He held further that
+the Agency could not under Article 1 of Protocol 1 of the ECHR (“A1P1”)
+properly have imposed the conditions, if otherwise lawful, without payment of
+compensation.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In a judgment dated 17 June 2016, the Court of Appeal (Beatson LJ, with
+whom Lord Dyson MR and McFarlane LJ agreed) allowed the Agency’s appeal on the
+issue of irrationality, but dismissed the appeal under A1P1. It made a
+declaration that all three decisions amounted to an unlawful interference with
+his A1P1 rights “in the absence of compensation”: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/564.html">[2016] EWCA Civ 564</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/564.html">[2016] 1 WLR 4338</a>. Only the latter issue arises on the appeal to this court.</p>
+
+<p class="ParaHeading"><b>A1P1 Principles</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 1 of the first Protocol (“A1P1”) to the Convention provides:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Every natural or legal
+person is entitled to the peaceful enjoyment of his possessions. No one shall
+be deprived of his possessions except in the public interest and subject to the
+conditions provided for by law and by the general principles of international
+law.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The preceding provisions
+shall not, however, in any way impair the right of a state to enforce such laws
+as it deems necessary to control the use of property in accordance with the
+general interest or to secure the payment of taxes or other contributions or
+penalties.”</p>
+
+<p class="ParaNoNumber">It is accepted that the right to fish granted to Mr Mott
+by lease is a “possession” for these purposes.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The general principles governing the interpretation of A1P1 are well
+established in European and domestic authorities. In<i> Back v Finland</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2004/360.html">(2005) 40 EHRR 48</a> the Strasbourg court explained that it comprises “three distinct
+rules”: the first (in the first sentence of para 52) is “of a general nature
+and enunciates the principle of peaceful enjoyment of property”; the second (in
+the second sentence of the same paragraph) covers “deprivation of possessions
+and makes it subject to certain conditions”; the third (in the second
+paragraph) concerns the right of the state to “control the use of property in
+accordance with the general interest”. The court added:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The three rules are not
+‘distinct’ in the sense of being unconnected: the second and third rules are
+concerned with particular instances of interference with the right to peaceful
+enjoyment of property and should therefore be construed in the light of the
+general principle enunciated in the first rule. Each of the two forms of
+interference defined must comply with the principle of lawfulness and pursue a
+legitimate aim by means reasonably proportionate to the aim sought to be
+realised.”</p>
+
+<p class="ParaNoNumber">The principles were summarised by Lord Reed in <i>AXA
+General Insurance Ltd v HM Advocate </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/46.html">[2011] UKSC 46</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/46.html">[2012] 1 AC 868</a>, paras 107-108.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The application of A1P1, in circumstances comparable in some respects to
+the present, was considered by the Court of Appeal in <i>R (Trailer and Marina
+(Leven) Ltd) v Secretary of State for the Environment, Food and Rural Affairs</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2004/1580.html">[2005] 1 WLR 1267</a>; <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2004/1580.html">[2004] EWCA Civ 1580</a>. The claimant company owned a stretch
+of canal designated a Site of Special Scientific Interest (“SSSI”) under the
+Wildlife and Countryside Act 1981 (“the 1981 Act”). The company entered into a
+management agreement with English Nature, under which it agreed not to develop
+fishing and boating activities in return for annual compensation of £19,000.
+The agreement expired at the end of 2000. In January 2001, amendments to the
+1981 Act (under the Countryside and Rights of Way Act 2000), imposed a new
+regulatory regime under which compensation was no longer payable. The company
+claimed that the amended legislation involved a breach of their rights under
+A1P1, and sought a declaration of incompatibility under the Human Rights Act
+1998. The claim failed.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Neuberger LJ, giving the judgment of the court, reviewed the authorities
+dealing with the distinction between the taking or deprivation of property and
+mere control of use. As he noted, the former normally requires payment of
+compensation to avoid a breach of the article; the latter does not, even if the
+control result in serious financial loss. He noted that the division drawn by
+the Strasbourg jurisprudence is not clear-cut. He referred in particular to the
+Grand Chamber decision in <i>Sporrong &amp; Lönnroth v Sweden</i> (1982) 5 EHRR
+85, for the propositions, first, that under the second rule the court may need
+to “investigate the realities” of the situation complained of to determine
+whether it amounts to “de facto expropriation” and thus deprivation (para 63);
+and that even where the interference does not fall clearly within the ambit of
+either the second or third rule, it may be necessary to consider the
+application of the first more general rule, and for that purpose to determine -</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… whether a fair balance was
+struck between the demands of the general interest of the community and the
+requirements of the protection of the individual’s fundamental rights …” (para
+69)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the facts of <i>Trailer &amp; Marina</i>, the court held:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“We accept, of course, that the
+consequence of the amendments effected by the 2000 Act must have been to
+diminish, sometimes substantially, the scope of the uses to which an SSSI could
+be put, and accordingly to reduce, sometimes substantially, the income which
+could be obtained from activities on an SSSI, and consequently its market
+value. It can fairly be said that, in those circumstances, the public benefit
+enjoyed as a result of the amendments effected by the 2000 Act will, in the
+absence of any compensation provisions, have been at the expense of the owners
+and occupiers of SSSIs. However, given the purpose and genesis of the
+legislation, and the jurisprudence of the [ECtHR], that cannot of itself
+justify an argument that there has been an infringement of the Article 1 of the
+first Protocol rights of the owner of an SSSI whose value has been
+substantially diminished as a result of the amendments effected by the 2000
+Act.” (para 65)</p>
+
+<p class="ParaNoNumber">As Neuberger LJ noted, the challenge was directed to the
+compatibility of the legislation with the Convention. It had not been argued
+that the restrictions in the particular case amounted to de facto
+expropriation, or a disproportionate burden on the owner of the land concerned
+(para 68).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>An authoritative summary of the principles is found in the Grand Chamber
+decision in <i>Hutten-Czapska v Poland</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2006/628.html">(2007) 45 EHRR 4</a>, para 167:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Not only must an interference
+with the right of property pursue, on the facts as well as in principle, a
+‘legitimate aim’ in the ‘general interest’, but there must also be a reasonable
+relation of proportionality between the means employed and the aim sought to be
+realised by any measures applied by the state, including measures designed to
+control the use of the individual’s property. That requirement is expressed by
+the notion of a ‘fair balance’ that must be struck between the demands of the
+general interest of the community and the requirements of the protection of the
+individual’s fundamental rights.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The concern to achieve this
+balance is reflected in the structure of Article 1 of Protocol No 1 as a whole.
+In each case involving an alleged violation of that article the court must
+therefore ascertain whether by reason of the state’s interference the person
+concerned had to bear a disproportionate and excessive burden …”</p>
+
+<p class="ParaHeading"><b>The judgments below</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, the judge distinguished the <i>Trailer and Marina</i>
+case, as a challenge to the legislation as a whole, rather than a particular
+executive decision made under it. Thus the question of infringement of A1P1 had
+had to be considered in principle, and not in relation to the specific
+circumstances of the claimant. The court had recognised that there were powers
+available to compensate an owner in an “extreme case”. The decision did not
+therefore support a conclusion that any restriction on property on
+environmental grounds can be made without a requirement for compensation (para
+93).</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>His own conclusion that there was no reasonable basis for the
+restrictions inevitably meant that the restrictions were not proportionate,
+however categorised. However, he went on to consider the position apart from
+that finding:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“96.&nbsp;&nbsp;&nbsp;&nbsp; In my judgment this case,
+like that in <i>Back v Finland</i>, has elements both of deprivation and of
+control. The claimant’s right is largely but not entirely extinguished. It
+could be exploited and would presumably have some small value if sold for
+leisure interest rather than commercial use. It should be considered under the
+general statement of principle with which A1P1 commences. Given the extent of the
+restriction imposed, which eliminated at least 95% of the benefit of the right,
+it is to be considered as closer to deprivation than mere control, and that
+balance is relevant when considering the proportionality of the measure
+challenged.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">97.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In adopting the measure
+decided on, there is no evidence that the Agency considered the extent of the
+effect on the claimant and his livelihood in any meaningful way at all. Though
+the HRAs refer to the desirability of permitting the continuation of historic
+fishing methods to an extent described as ‘residual’ they did not address what
+the consequences would be for the rights holders affected at all, looking no
+further than their own statement of the conservation objective.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">98.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is thus no
+evidence that any balanced consideration took place at all. It would have been
+relevant to that consideration that the claimant’s rights were of a commercial
+nature, so that by making them uneconomic to exercise he was being deprived of
+his livelihood and not merely of a pleasurable leisure activity or the
+opportunity to maintain an ancient tradition. So far as the claimant is
+concerned the position is exacerbated because the method chosen of levelling
+all permitted catches down to the previous lowest meant that by far the
+greatest impact fell on him whereas others who may only have used their rights
+for leisure or hobby purposes would be less affected, and possibly scarcely
+affected at all.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">99.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In my judgment, the
+effect is that even if the Agency could properly have imposed the total catch
+limit that it did, the size of that limit and the way in which it was
+apportioned would still have meant that the claimant has been required to
+shoulder an excessive and disproportionate burden, such that a breach of A1P1
+could only be prevented by payment of compensation.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is to be noted (in particular from para 96) that the judge did not
+feel able, or find it necessary, to categorise the action under A1P1 as either
+deprivation (second rule) or control (first rule). He considered it under the
+first general rule, as identified in <i>Back v Finland</i>, while regarding it
+as closer to deprivation for the purpose of the proportionality balance.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the Court of Appeal Beatson LJ agreed with this assessment. It is
+unnecessary to set out his reasoning, which in substance followed that of the
+judge (paras 87-89). It was sufficient in any event that the court found no
+error in the judge’s reasoning, without needing to conduct their own
+independent assessment of proportionality (see <i>In re B (A Child) (Care
+Proceedings: Threshold Criteria)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/33.html">[2013] 1 WLR 1911</a>).</p>
+
+<p class="ParaHeading"><b>The appeal</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issues identified by the parties as arising in the appeal are in
+short (i) whether the conditions imposed by the Agency amounted to control or
+de facto expropriation under A1P1? (ii) if the former, did the “fair balance”
+require compensation to be paid? (iii) if the latter, were there any
+exceptional circumstances justifying absence of compensation?</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Maurici QC for the Agency submitted that the restrictions clearly
+constituted a control, rather than expropriation, in spite of the adverse
+effects on Mr Mott. He referred for example to <i>Mellacher v Austria</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1989/25.html">(1990) 12 EHRR 391</a> concerning a new Austrian Rent Act which had the effect of
+greatly reducing the rents to which certain landlords were entitled under
+existing tenancy agreements. The court held that there had been no de facto
+expropriation of their property, since they retained the right to use it even
+if they had been deprived of a large part of their income. Indeed the only
+example in the decided cases of de facto expropriation was the exceptional case
+of <i>Papamichalopoulos v Greece</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1993/28.html">(1993) 16 EHRR 440</a>, in which the
+applicants were owners of a large area of valuable land in Greece, of which the
+military dictatorship had assumed control and transferred to the Navy to build
+a naval base and holiday resort for officers. Although the land was not
+formally expropriated, the applicants had been deprived of the entirety of the
+use and value of the land in question.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to whether a fair balance had been drawn, Mr Maurici drew attention
+to the emphasis given by European and domestic law to the protection of the
+environment, and the important responsibilities imposed on the Agency in that
+regard. The responsibility was particularly strict in respect of sites
+designated under the Habitats Directive (citing <i>Sweetman v An Bord Pleanála
+(Galway County Council intervening) </i>(Case C-258/11)<i> </i></a><a title="Link to BAILII version" href="/eu/cases/EUECJ/2013/C25811.html">[2014] PTSR 1092</a>,
+paras 40-41). He submitted further that it would be contrary to public policy,
+and inconsistent with the “polluter pays” principle, for public funds to be
+used to pay compensation to individuals such as Mr Mott, whose activities were
+found to have caused environmental damage.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As an example of the emphasis given to the environment in the Strasbourg
+case law, he cited <i>Hamer v Belgium</i> (2008) (Application No 21861/03), </a><a title="Link to BAILII version" href="/eu/cases/ECHR/2008/1909.html">[2008] ECHR 1909</a>. The
+court under A1P1 upheld an order for the demolition of a house in a woodland
+area, which was unpermitted, but had existed as a holiday home for 37 years
+with the full knowledge of the authorities. The court held that the order was a
+control, rather than expropriation; and that it struck a fair balance, having
+regard to the wide margin of appreciation enjoyed by authorities in the field
+of environmental protection:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“... The environment is a cause
+whose defence arouses the constant and sustained interest of the public, and
+consequently the public authorities. Financial imperatives and even certain
+fundamental rights, such as ownership, should not be afforded priority over
+environmental protection considerations, in particular where the state has
+legislated in this regard. The public authorities therefore assume a
+responsibility which should in practice result in their intervention at the
+appropriate time in order to ensure that the statutory provisions enacted with
+the purpose of protecting the environment are not entirely ineffective.” (para
+79)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For Mr Mott, Mr Hockman QC supported the reasoning of the courts below.
+He submitted that the effect of the conditions was to nullify the practical use
+of Mr Mott’s lease, and thus amounted to expropriation. But even if they were
+regarded as a control, the courts below were entitled to find that they
+required Mr Mott to shoulder an excessive and disproportionate burden, such
+that breach of A1P1 could only be prevented by payment of compensation. It was
+accepted that the Agency had power to pay compensation, and it had done so in
+the past. The 1975 Act itself (even following the amendments made by the 2009
+Act), recognised that compensation might be necessary in certain cases. Thus,
+section 26 dealing with limitation of licences for fishing with nets provides
+that where an order under the section would prevent a person from fishing “in
+circumstances where that person is wholly dependent on the fishing for his
+livelihood”, the Agency “may pay that person such amount by way of compensation
+as it considers appropriate”.</a></p><a name="para31">
+
+<p class="ParaHeading"><b>Discussion</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Strasbourg cases show that the distinction between expropriation and
+control is neither clear-cut, nor crucial to the analysis. Viewed from the
+Agency’s point of view, and that of the public, the restrictions imposed in the
+present case were (as found by the Court of Appeal) a proper exercise of the
+Agency’s powers to control fishing activity in the interests of the protection of
+the environment. We were not referred to any case in which such action has been
+treated as amounting to expropriation merely because of the extreme effects on
+particular individuals or their businesses. However, it was still necessary to
+consider whether the effect on the particular claimant was excessive and
+disproportionate.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Maurici is right to emphasise the special importance to be attached
+to the protection of the environment. However, this does not detract from the
+need to draw a “fair balance”, nor from the potential relevance of compensation
+in that context. As Mr Hockman pointed out, the potential need for compensation
+is recognised in other parts of the 1975 Act itself.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Compensation played a part in a Strasbourg case close to the present on
+the facts. <i>Posti v Finland</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2002/634.html">(2003) 37 EHRR 6</a> concerned a claim by two
+fishermen who operated under leases granted by the Finnish state. They
+complained that restrictions imposed by the government to safeguard fish stocks
+had failed to strike a fair balance under A1P1. The court held that the fishing
+restrictions were a control, rather than deprivation of property, and that the
+interference was justified and proportionate; the interference “did not completely
+extinguish the applicants’ right to fish salmon and saltwater trout in the
+relevant waters”, and they had received compensation for losses suffered (para
+77).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By contrast in <i>Pindstrup Mosebrug A/S v Denmark</i> (2008) (Application
+No 34943/06), </a><a title="Link to BAILII version" href="/eu/cases/ECHR/2008/1660.html">[2008] ECHR 1660</a>, absence of compensation did not prevent the court ruling
+inadmissible a claim in respect of restrictions on the commercial exploitation
+of a peat bog, regarded as geologically and biologically unique. The court
+upheld the assessment of the domestic courts that the effect on the claimants
+was not unduly severe, having regard to the findings that they had not invested
+in production facilities for the purpose of exercising their extraction rights
+at the bog and that they had access to the extraction of considerable amounts
+of peat elsewhere.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Against that background I am unable to fault the judge’s analysis of the
+applicable legal principles in this case. As already noted, he did not find it
+necessary to categorise the measure as either expropriation or control. It was
+enough that it “eliminated at least 95% of the benefit of the right”, thus
+making it “closer to deprivation than mere control”. This was clearly relevant
+to the “fair balance”. Yet the Agency had given no consideration to the
+particular impact on his livelihood. The impact was exacerbated because the
+method chosen meant that by far the greatest impact fell on him, as compared to
+others whose use may have been only for leisure purposes. Indeed the judge
+might have gone further. He thought that the lease might have retained “some small
+value” if sold for leisure rather than commercial use. However, as Mr Hockman
+pointed out, even that is doubtful given the strict limits in the lease on the
+power to assign.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would therefore uphold the decision of the courts below. In doing so,
+I would emphasise that this was an exceptional case on the facts, because of
+the severity and the disproportion (as compared to others) of the impact on Mr
+Mott. As the Strasbourg cases show, the national authorities have a wide margin
+of discretion in the imposition of necessary environmental controls, and A1P1
+gives no general expectation of compensation for adverse effects. Furthermore,
+where (unlike this case) the authorities have given proper consideration to the
+issues of fair balance, the courts should give weight to their assessment.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would dismiss the appeal.</a></p><a name="para38">
+
+</a></div><a name="para38">
+
+</a></ol><a name="para38">
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/10.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

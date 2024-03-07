@@ -1,0 +1,1372 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Sveriges Angfartygs Assurans Forening (The Swedish Club) &amp; Ors v Connect Shipping Inc &amp; Anor [2019] UKSC 29 (12 June 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Header Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Footer Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoRMPane, li.MsoRMPane, div.MsoRMPane
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.legrhs1, li.legrhs1, div.legrhs1
+	{mso-style-name:legrhs1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:18.0pt;
+	background:white;
+	font-size:9.5pt;
+	font-family:"Times New Roman",serif;
+	color:black;}
+span.legds2
+	{mso-style-name:legds2;
+	display:none;}
+span.legextentrestriction7
+	{mso-style-name:legextentrestriction7;
+	color:white;
+	display:none;
+	background:#660066;
+	font-weight:bold;
+	font-style:normal;}
+p.legclearfix2, li.legclearfix2, div.legclearfix2
+	{mso-style-name:legclearfix2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:18.0pt;
+	background:white;
+	font-size:9.5pt;
+	font-family:"Times New Roman",serif;
+	color:black;}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Univers (W1)",sans-serif;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;
+	font-family:"Univers (W1)",sans-serif;}
+span.searchterm1
+	{mso-style-name:searchterm1;
+	background:yellow;
+	font-weight:bold;}
+p.indent11, li.indent11, div.indent11
+	{mso-style-name:indent11;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.starpage1
+	{mso-style-name:starpage1;
+	color:#663366;
+	font-weight:bold;
+	font-style:italic;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Sveriges Angfartygs Assurans Forening (The Swedish Club) &amp; Ors v Connect Shipping Inc &amp; Anor [2019] UKSC 29 (12 June 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/29.html</i>
+<br>Cite as: 
+[2019] 1 CLC 964,
+
+[2019] 2 All ER (Comm) 627,
+
+[2019] UKSC 29,
+
+[2019] Lloyd's Rep IR 415,
+
+[2019] 2 Lloyd's Rep 78,
+
+[2019] Bus LR 1584,
+
+[2019] 4 All ER 885,
+
+[2019] WLR(D) 349
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/29.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016004457/casereport_7f22a512-5852-4001-9c48-6109affb5ce4/html">[2019] WLR(D) 349</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016004457/casereport_bc45b360-2fd1-41e0-982b-4e204ccf0804/html">[2019] Bus LR 1584</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/29.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 29</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/230.html">[2018] EWCA Civ 230</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="width:448.6pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Sveriges
+  Angfartygs Assurans Forening (The Swedish Club) and others (Appellants) <i>v</i>
+  Connect Shipping Inc and another (Respondents)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kitchin</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">12 June 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 10 and 11 April 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondents</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Ashcroft QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Steven Berry QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Luke Pearce</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Neil Hart</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Thomas
+  Cooper LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Hill
+  Dickinson LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD SUMPTION: (<span style="text-transform:none">with whom
+Lord Reed, Lord Hodge, Lord Lloyd-Jones and Lord Kitchin agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 23 August 2012 the m v “RENOS” was seriously damaged by an engine
+room fire while on a laden voyage in the Red Sea. On the same day, the owners
+appointed salvors under Lloyd’s Open Form 2011 (No Cure - No Pay). The vessel
+was towed by the salvors to Adabiya, where her cargo was discharged, and then
+to Suez, where the salvage services came to an end. A tug was hired to stand by
+the vessel throughout the time when she was at Suez and to tow her to a place
+where she could be scrapped or repaired. These proceedings were brought in
+support of a claim against the hull underwriters for a constructive total loss.
+Notice of abandonment was served on the insurers on 1 February 2013, while the
+vessel was at Suez.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The “RENOS” was insured at an agreed value of US$12m under a hull and
+machinery policy subscribed by the appellants (among others) and incorporating
+the Institute Time Clauses Hulls (1/10/83). The lead hull and machinery insurer
+was the first appellant, the Swedish Club. In addition, the Swedish Club alone
+subscribed an Increased Value Policy against the same risks covering certain
+charges so far as they exceeded those recoverable under the hull and machinery
+policy, up to a maximum of US$3m. At the trial of the action before Knowles J,
+it was common ground that there had been a loss by an insured peril. The sole
+issue was the measure of indemnity. The insurers acknowledged liability for a
+partial loss but declined the notice of abandonment and denied that the vessel
+was a constructive total loss.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Knowles J held that there was a constructive total loss. The Court of
+Appeal agreed with both his conclusions and his reasons. The courts below addressed
+a number of issues, only two of which are before this court. Section 60(2)(ii)
+of the Marine Insurance Act 1906 provides that in the case of damage to a ship,
+there is a constructive total loss where “<span lang="EN" style="color:black">she
+is so damaged by a peril insured against that the cost of repairing the damage
+would exceed the value of the ship when repaired”. As a matter of practice, the
+“cost of repair” has always been treated as including salvage charges, and that
+is put beyond question by clause 19.2 of the Institute Time Clauses Hulls
+(1/10/83), which requires account to be taken of the “cost of recovery and/or
+repair”. </span>Both of the issues before this court relate to the expenditure
+to be taken into account in computing that cost. The first issue is whether it
+includes expenditure already incurred before the service of notice of
+abandonment. The insurers say that none of this expenditure is to be taken into
+account. If they are right about that, the whole of the salvors’ remuneration
+will be excluded, together with the greater part of the cost of the standby tug
+and some other miscellaneous costs incurred at Suez. On that footing, the judge
+found that the “cost of repairing the damage” would be between US$9,079,533.05
+and US$11,248,311.20, as against an insured value of US$12m. It is common
+ground that on these figures the insurers are liable for a partial loss only.
+The second issue is whether the relevant costs include charges payable to the
+salvors under the SCOPIC (Special Compensation, Protection and Indemnity)
+clause of Lloyd’s Open Form. The SCOPIC clause is a clause supplementary to the
+Form which entitles the salvors to additional remuneration for measures taken
+while performing the salvage services in order to prevent or minimise damage to
+the environment. The SCOPIC charges, like the rest of the salvors’
+remuneration, were all incurred before the service of notice of abandonment,
+and will be disregarded if the insurers are right on the first issue. The judge
+found that if SCOPIC charges are excluded from the computation but other costs
+incurred before notice of abandonment are included, the “cost of repairing the
+vessel” ranged from US$11,820,260.05 to US$13,989,038.20 as against an insured
+value of US$12m. In that case, she may or may not have been a constructive
+total loss, depending on where in that range the true figure lay. Both issues
+were decided in the shipowner’s favour in the courts below.</a></p><a name="para3">
+
+<p class="ParaHeading">Costs incurred before notice of abandonment</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The relevant rules are codified by sections 60-63 of the Marine
+Insurance Act. They are in the following terms:</a></p><a name="para4">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<b>60.&nbsp;&nbsp;&nbsp;&nbsp; Constructive total
+loss defined</b></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN" style="color:black">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject
+to any express provision in the policy, there is a constructive total loss
+where the subject-matter insured is reasonably abandoned on account of its
+actual total loss appearing to be unavoidable, or because it could not be
+preserved from actual total loss without an expenditure which would exceed its
+value when the expenditure had been incurred.</span></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN" style="color:black">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In
+particular, there is a constructive total loss -</span></p>
+
+<p class="MsoQuote" style="margin-left:144.0pt"><span lang="EN" style="color:black">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where
+the assured is deprived of the possession of his ship or goods by a peril
+insured against, and (a) it is unlikely that he can recover the ship or goods,
+as the case may be, or (b) the cost of recovering the ship or goods, as the
+case may be, would exceed their value when recovered; or</span></p>
+
+<p class="MsoQuote" style="margin-left:144.0pt"><span lang="EN" style="color:black">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In
+the case of damage to a ship, where she is so damaged by a peril insured
+against that the cost of repairing the damage would exceed the value of the
+ship when repaired.</span></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN" style="color:black">In
+estimating the cost of repairs, no deduction is to be made in respect of
+general average contributions to those repairs payable by other interests, but
+account is to be taken of the expense of future salvage operations and of any
+future general average contributions to which the ship would be liable if
+repaired;</span></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN" style="color:black">…</span></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><b><span lang="EN" style="color:
+black">61.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Effect of constructive total loss</span></b></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN" style="color:black">Where
+there is a constructive total loss the assured may either treat the loss as a
+partial loss or abandon the subject-matter insured to the insurer and treat the
+loss as if it were an actual total loss.</span></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><b>62.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notice of abandonment</b></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to the
+provisions of this section, where the assured elects to abandon the
+subject-matter insured to the insurer, he must give notice of abandonment. If
+he fails to do so the loss can only be treated as a partial loss.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notice of abandonment
+may be given in writing, or by word of mouth, or partly in writing and partly
+by word of mouth, and may be given in any terms which indicate the intention of
+the assured to abandon his insured interest in the subject-matter insured
+unconditionally to the insurer.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notice of abandonment
+must be given with reasonable diligence after the receipt of reliable
+information of the loss, but where the information is of a doubtful character
+the assured is entitled to a reasonable time to make inquiry.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where notice of
+abandonment is properly given, the rights of the assured are not prejudiced by
+the fact that the insurer refuses to accept the abandonment.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The acceptance of an
+abandonment may be either express or implied from the conduct of the insurer.
+The mere silence of the insurer after notice is not an acceptance.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where notice of
+abandonment is accepted the abandonment is irrevocable. The acceptance of the
+notice conclusively admits liability for the loss and the sufficiency of the
+notice.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notice of abandonment
+is unnecessary where, at the time when the assured receives information of the
+loss, there would be no possibility of benefit to the insurer if notice were
+given to him.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notice of abandonment
+may be waived by the insurer.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where an insurer has
+re-insured his risk, no notice of abandonment need be given by him.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><b>63.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Effect of abandonment</b></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where
+there is a valid abandonment the insurer is entitled to take over the interest
+of the assured in whatever may remain of the subject-matter insured, and all
+proprietary rights incidental thereto.</span></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN" style="color:black">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upon
+the abandonment of a ship, the insurer thereof is entitled to any freight in
+course of being earned, and which is earned by her subsequent to the casualty
+causing the loss, less the expenses of earning it incurred after the casualty;
+and, where the ship is carrying the owner’s goods, the insurer is entitled to a
+reasonable remuneration for the carriage of them subsequent to the casualty
+causing the loss.”</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These provisions substantially restate the previous common law. Their
+effect is that unless notice of abandonment is waived by the insurer or the
+circumstances are such that there would be “no possibility of benefit to the
+insurer if notice were given to him”, it is a condition precedent to the
+assured’s right to claim for a constructive total loss, that he should have
+given a valid notice of abandonment: see section 62(1). This is a true
+election, although it has some features which differentiate it from other cases
+in which the law requires a person to elect between inconsistent rights or
+remedies. In particular, it becomes irrevocable only if and when the insurer
+accepts the abandonment, in which case he is taken to admit both the validity
+of the notice and his own liability to pay on a total loss: section 62(6). He
+then becomes entitled to take over the assured’s interest in the subject-matter
+insured and all incidental proprietary rights: section 63. In practice,
+insurers hardly ever do accept an abandonment except as part of an overall
+settlement of the claim. But section 62(4) provides that the insurer’s refusal
+to accept the abandonment does not prejudice the assured’s rights.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The owners’ case on pre-notice expenditure is straightforward. They say
+that the damage to which section 60(2)(ii) of the Act refers is the entire
+damage flowing from the casualty, and that the cost of recovery and repair is
+the entire cost, whenever incurred. The insurers dispute this. Their case is more
+elaborate. They say that the question whether there has been a constructive
+total loss falls to be decided as at the time when notice of abandonment is
+given, and by reference to the facts then existing, because the parties’ rights
+are, so to speak, crystallised at that point. This question is, as Mr Ashcroft
+QC put it, “time-sensitive”, in that a ship may be a constructive total loss at
+one point of time and not at another, as events occur which alter the prospective
+cost of reinstatement. The assured has to elect between claiming a total loss
+or a partial loss on the basis of the options open to him at that time. Those
+options cannot be said to include the incurring of costs which he has already
+incurred. They are sunk costs, and his real choice is between incurring further
+costs in future and abandoning the ship to the insurer. Therefore, only the
+further costs can count. The financial and practical implications of this
+disagreement are considerable. It is often impossible to know with any
+confidence what it would cost to restore the vessel to serviceable condition
+after a casualty, until the damage has been professionally assessed. This is
+commonly possible only after salvors have brought her to a place of safety. The
+insurers’ argument, if it is correct, will in many cases have the effect of excluding
+salvage remuneration from the computation of repair costs for the purpose of
+ascertaining whether there has been a constructive total loss.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the present question must have arisen in a high proportion of
+cases where a constructive total loss is alleged, there is very little
+assistance to be obtained either from the language of the Act or from
+authority.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Dealing first with the language of the Act, I reject the submission that
+the references in section 60 to expenditure which “would” be incurred point
+only to future expenditure to be incurred after abandonment. Notice of
+abandonment is not mentioned in section 60, and if the section refers to future
+expenditure there is nothing to show from what point it must be “future”. More
+generally, it is clear that the word “would” reflects the hypothetical
+character of the whole exercise and not the chronology of the expenditure. I
+also reject the submission that the reference in the additional paragraph of
+section 60(2)(ii) to “future” salvage operations and general average
+contributions, points to expenditure following abandonment. Again, there is no
+indication of the point of time from which these costs must be “future”, except
+that it is implicitly from the time as at which the estimate is made, whenever
+that is. I am inclined to think, but do not need to decide, that the additional
+paragraph is concerned only with the treatment of general average
+contributions. Its effect is that in computing the owner’s cost of repairs (i)
+no account is to be taken of general average contributions receivable by him
+from other interests such as cargo or freight, whereas (ii) account is to be
+taken of future general average contributions payable by him to other
+interests. On that footing “future salvage operations” are being treated as
+included in the future general average contributions, and would be estimated
+looking forward from the general average sacrifice. There is much to be said
+for the view of the current editors of <i>Arnould’s Law of Marine Insurance and
+Average</i>, 19th ed (2018), para 29.34 that the result was to overrule the
+decision of the House of Lords in <i>Kemp v Halliday</i> (1866) LR 1 QB 520
+that the owner’s cost of repairs had to be computed net of any liability of
+other interests to contribute in general average to salvage charges. But
+whether that be so or not, it seems to me to be clear that the reference to
+future liabilities was not intended as an implicit exclusion of past
+expenditure even for the purpose of general average, let alone more generally
+for the purpose of determining whether the ship is a constructive total loss.
+It has been said that the maxim expressio unius, exclusio alterius is “often
+perilous”: <i>National Grid Co plc v Mayes</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2001/20.html">[2001] 1 WLR 864</a>, para 55 (Lord
+Hoffmann). I do not think that it will bear the weight which the appellants
+seek to place on it in this case.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning to authority, there appears to have been no case in which the
+present question was considered before the passing of the Marine Insurance Act
+1906, although we were referred to a number of earlier cases in which salvage
+charges incurred before notice of abandonment were allowed without discussion.
+They include <i>Bradlie v Maryland Insurance Co</i> (1838) 37 US 378, a
+decision of the United States Supreme Court in which the opinion of the court
+carried the considerable authority of Justice Story; and the English decisions
+in <i>Holdsworth v Wise</i> (1828) 7 B &amp; C 794 and <i>Rosetto v Gurney</i>
+(1851) 20 LJCP 257. We were also pressed with the observations of Mr Carver QC
+at an international conference at Buffalo in 1899 in connection with an
+abortive project to draft common rules for marine insurance, in which he proposed
+that what happened before the giving of notice of abandonment should be
+ignored, adding that he was “not sure that that has always been done”: <i>Report
+of the 18th Conference of the International Law Association held at Buffalo,
+USA</i> (1900), 120. Since the passing of the Act, there have been two English
+decisions lending some support to the insurers’ case. In <i>Hall v Hayman</i>
+(1912) 17 Comm Cas 81, 90, Bray J accepted a concession that pre-notice
+expenditure was irrelevant. Half a century later, in <i>Helmville Ltd v
+Yorkshire Insurance Co Ltd (The “MEDINA PRINCESS”)</i> [1965] 1 Lloyd’s Rep
+361, 429, Roskill J accepted without discussion a submission in relation to one
+of a large number of disputed items of expenditure that it was “inadmissible
+for the purposes of the constructive total loss claim because the work was done
+before the date of notice of abandonment.” The lack of reasoning and apparent
+lack of argument make it difficult to attach much weight to either decision,
+and they are certainly not beyond controversy. Every edition of <i>Arnould’s
+Law of Marine Insurance and Average</i> from the 15th ed (1961) onward has
+taken the contrary view. The editors of the 12th ed of <i>Lowndes &amp;
+Rudolph, The Law of General Average and the York-Antwerp Rules</i> (1997),
+considered that the concession accepted by Bray J was correct in law, but the
+(different) editors of the 14th ed (2013) appear to resile from that view. In
+my opinion, the issue is better approached as a matter of principle than by
+trying to squeeze more juice from these rather dry lemons. The answer depends
+on some basic principles of insurance law and on an analysis of how those
+principles are affected by the requirement for a notice of abandonment.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first point to be made is that as a general rule, the loss under a
+hull and machinery policy occurs at the time of the casualty and not when the
+measure of indemnity is ascertained. A claim on an insurance policy is a claim
+for unliquidated damages. The obligation of the insurer is to hold the assured
+harmless against an insured loss, from which it follows that where the
+insurance is against physical damage to property the insurer is in breach of
+that obligation as soon as the damage occurs: <i>Chandris v Argo Insurance Co
+Ltd</i> [1963] 2 Lloyd’s Rep 65, 73-74; <i>Firma C-Trade SA v Newcastle
+Protection and Indemnity Association (“The FANTI”)</i> [1991] 2 AC 1, para 35
+(Lord Goff of Chieveley). As Megaw J pointed out in the former case, at p 74,
+the result is that “it is not a condition precedent - it is not a fact which
+must exist and be pleaded - that the plaintiff has quantified the amount of his
+claim; or even that all the facts exist at the date of the writ which will
+enable the proper amount of the claim to be determined.” These are “matters of
+evidence, not prerequisites of a cause of action.” The rule that the loss is
+suffered at the time of the casualty applies notwithstanding that the loss
+developed thereafter, unless it developed as a result of something that can be
+regarded as a second casualty, breaking the chain of causation between the
+first one and the loss. For that reason, it has been held that the fact that
+the policy expires before the loss has fully developed will not affect the
+assured’s right to recover under it in full: <i>Knight v Faith</i> (1850) 15 QB
+649, 667 (Lord Campbell CJ); <i>Wasa International Insurance Co Ltd v Lexington
+Insurance Co</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/40.html">[2010] 1 AC 180</a>, para 39 (Lord Mance). For the same reason, as
+the editors of <i>Arnould</i>, 19th ed (2018) point out at para 29.07, if a
+casualty occurs within the policy period, and the loss develops after its
+expiry into one which is constructively total, there is still a constructive
+total loss under the policy.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Constructive total loss is a legal device for determining the measure of
+indemnity. An insured loss is either total or partial, and any loss other than
+a total loss is a partial loss: see section 56(1) of the Act. A constructive
+total loss is not a sui generis kind of loss, conceptually distinct from these.
+It is a partial loss which is financially equivalent to a total loss, and may
+be treated as either at the election of the assured. The ordinary measure of
+indemnity under an insurance against damage to property is the depreciation in
+the value of the property attributable to the operation of the insured peril.
+Section 69 of the Marine Insurance Act provides that the measure of loss is the
+reasonable cost of repairs so far as these have been carried out and the
+reasonable depreciation arising from the unrepaired damage so far as they have
+not: see section 69. The reasonable cost of repairs which have been carried out
+is treated as the measure of the depreciation of the ship’s value. Therefore,
+if the reasonable cost of repairs exceeds the insured value, as the statutory
+definition of a constructive total loss envisages, the value of the ship is
+nil, and in financial though not physical terms the loss is total.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although section 60(1) of the Act refers to an actual total loss
+“appearing to be unavoidable”, it is not in doubt that the question whether
+there has been a constructive total loss depends on the objective facts. So far
+as they are future or unknown facts, a reasonable assessment of the
+probabilities must be made. But the test does not depend on the opinion or
+predictions of the owner, however reasonable. The rule was laid down by Lord
+Ellenborough in <i>Bainbridge v Neilson</i> (1808) 10 East 329, 341:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The effect of an offer to abandon
+is truly this, that if the offer appear to have been properly made upon certain
+supposed facts, which turn out to be true, the assured has put himself in a
+condition to insist upon his abandonment: but it is not enough that it was
+properly made, upon facts which were supposed to exist at the time, if it turn
+out that no such facts existed, or that other circumstances had occurred which
+did not justify such abandonment.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows from the objective character of the exercise and the fact
+that the loss is suffered at the time of the casualty notwithstanding its
+development thereafter, that the damage referred to in section 60(2)(ii) of the
+Act is in principle the entire damage arising from the casualty from the moment
+that it happens. The measure of that damage is its effect on the depreciation
+of the vessel, represented by the entire cost of recovering and repairing it.
+It cannot make any difference when that cost was incurred. This being the
+ordinary principle to be applied, the next question is whether it is affected
+by the legal requirement for a notice of abandonment.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It would be surprising if it were. In the first place, a notice of
+abandonment is not always required, even in the case of a constructive total
+loss. Section 62 envisages two cases where it is not required: where it is
+waived by the insurer, and where there is no possibility of benefit to the
+insurer. Both exceptions reflect the fact that the requirement for notice of
+abandonment exists wholly for the benefit of the insurer. Its purpose is to
+enable him to exercise the rights which arise in his favour upon an effective
+abandonment. Thus where a total loss is constructive as opposed to actual, the
+insurer is entitled to take over what remains of the hull and to receive the
+freight in cases where it has been earned notwithstanding the casualty: section
+63. Secondly, under section 61 of the Act, there must be a constructive total
+loss before any question can arise of an election to treat it as a partial or a
+total loss. For this reason, the House of Lords held in <i>Robertson v Petros M
+Nomikos Ltd</i> [1939] AC 371, that service of a notice of abandonment was a condition
+precedent not to the existence of a constructive total loss but only of the
+right to claim against the hull insurers on that basis. It followed that where
+recovery under the terms of an insurance on freight depended on the ship having
+become an actual or constructive total loss, the assured was entitled to
+recover notwithstanding that the shipowner had elected to treat the loss as
+partial and had not tendered notice of abandonment. Lord Wright, with whom Lord
+Atkin, Lord Thankerton and Lord Russell of Killowen agreed, went on to point
+out, at p 387, that the constructive total loss dated back to the time of the
+casualty. The freight insurers being liable upon the vessel becoming a
+constructive total loss:</a></p><a name="para14">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“That liability accrues at once
+when the casualty happens, even if the exact position is not ascertained till
+later. If the assured has rightly given notice of abandonment of the ship, the
+loss dates back retrospectively to the date of the casualty.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mainstay of the insurers’ case is the proposition that the assured
+may not recover on the basis of a constructive total loss unless the loss is
+still total at the time of notice of abandonment. The proposition itself is not
+in doubt. It was established by a series of cases dating back to the decision
+of Lord Mansfield CJ in <i>Hamilton v Mendes</i> (1761) 2 Bur 1198. It is,
+however, important to appreciate the basis on which these cases were decided.
+They do not depart from the orthodoxy that a loss, including a constructive
+total loss, occurs at the time of the casualty and includes any development of
+the damage thereafter. Nor do they hold that a constructive total loss may
+cease to be regarded as one by reference to the facts existing at some later
+stage. They are concerned with the question what happens if the loss is, as it
+is put in the older cases, “adeemed” because something happens after the
+casualty to reverse it. The ratio of these cases is that even if the vessel is
+a constructive total loss, the character of the policy as a contract of
+indemnity requires the assured to be limited to his actual loss at the time
+when notice of abandonment is given. Exactly the same reasoning underlies the
+corresponding rule that he is limited to his actual loss at the time when the
+action is brought.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Hamilton v Mendes</i> itself, the “SELBY” was captured by a French
+privateer in the Atlantic during the Seven Years War, and then recaptured from
+her French prize crew a few weeks later by a British man-of-war. News of the
+capture and recapture reached the assured simultaneously. He purported to give
+notice of abandonment. Lord Mansfield, sitting at Guildhall, held that the ship
+was never a constructive total loss, because it was never sufficiently clear
+that the loss arising from the original capture would be permanent. But on the
+footing that it was a constructive total loss, he held that the assured could
+recover only for a partial loss, arising from the prize due to the recaptors.
+His reason appears at p 1210 of the report:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The plaintiff’s demand is for an
+indemnity. His action, then, must be founded upon the nature of his
+damnification, as it really is at the time the action is brought. It is
+repugnant, upon a contract of indemnity, to recover as for a total loss, when
+the final event has decided that the damnification, in truth, is an average, or
+perhaps no loss at all. Whatever undoes the damnification, in whole or in part,
+must operate upon the indemnity in the same degree. It is a contradiction in
+terms, to bring an action for indemnity, when, upon the whole event, no damage
+has been sustained.”</p>
+
+<p class="ParaNoNumber">Lord Mansfield (p 1214) left open the question what would
+have happened if news of the recapture had arrived after the notice of
+abandonment. That question was, however, resolved nearly half a century later
+in <i>Bainbridge v Neilson</i> (1808) 10 East 329, another case of capture and
+recapture, this time during the Napoleonic wars. In this case news of the
+recapture arrived between the tender of notice of abandonment and the
+commencement of the action. I have already referred to it as authority for the
+objective character of the factual enquiry involved. Lord Ellenborough held (p
+344) that the recapture adeemed the loss so that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“that which was supposed to be a
+total loss at the time of the notice of abandonment first given had ceased, and
+as only a small loss has been incurred in the salvage; that is the real amount
+of the damnification which the plaintiff is entitled to receive under this
+contract of indemnity.”</p>
+
+<p class="ParaNoNumber">The leading modern case, which holds that the position
+was not altered by the Marine Insurance Act 1906, is the decision of the Court
+of Appeal in <i>Polurrian Steamship Co Ltd v Young</i> [1915] 1 KB 922.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Roura &amp; Forgas v Townend</i> [1919] 1 KB 189, the plaintiffs
+were the voyage charterers of the “IGOTZ MENDI”. They insured their anticipated
+profit on the voyage against the actual or constructive total loss of the
+vessel. The vessel was captured by a German cruiser in the Indian Ocean, as a
+result of which the profit was lost. But before action was brought against the
+insurer, the ship was stranded and abandoned on the coast of Denmark while in
+the charge of her German prize crew, and recovered by salvors employed by the
+shipowner. Roche J held that the plaintiffs were entitled to succeed. This was
+because the rule was that</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“restoration precludes recovery,
+not because in such a case there never was a constructive total loss, but
+because an assured cannot, under a contract of indemnity, although he may at one
+time have suffered a loss, recover in respect of such loss if before action it
+has already been made good to him.” (p 195)</p>
+
+<p class="ParaNoNumber">The recovery of the ship by her owners did not therefore
+mean that the vessel was no longer to be regarded as having suffered a constructive
+total loss. At p 196, he observed:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I have already held that there
+was a constructive total loss of the <i>Igotz Mendi </i>by her capture, and
+before the ship was restored to the owners such capture resulted in a total
+loss to the plaintiffs of their rights and profit under the charter. In short,
+the event agreed upon as necessary to give a right to indemnity had happened,
+and had irrevocably caused the loss of the subject-matter of the insurance. In
+these circumstances, as the restoration of the vessel itself to its owners did
+nothing to extinguish or minimise the plaintiffs’ loss, so also it cannot, in
+my judgment, operate to extinguish or to bar the plaintiffs’ claim.”</p>
+
+<p class="ParaNoNumber">This decision was subsequently approved by the House of
+Lords in <i>Robertson v Petros M Nomikos Ltd</i> [1939] AC 371, 382-383 (Lord
+Wright), 395 (Lord Porter).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If the principle in these cases is that although a constructive total
+loss has occurred, the assured is limited to his actual loss so far as reduced
+by subsequent events, it must follow that no expenditure of the owner himself
+by way of salvage or repair can be regarded as reducing the “cost of repairing
+the damage”. It does not reduce his loss. On the contrary, it is part of the
+measure of loss against which he is entitled to be indemnified, if not as part
+of the sum insured then as sue and labour charges. This was what the House of
+Lords decided in the Scottish appeal of <i>Sailing Ship “BLAIRMORE” Co Ltd v
+Macredie</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1898/37.html">[1898] AC 593</a>. The “BLAIRMORE” was sunk by a storm while moored in
+San Franscisco Bay and abandoned to the insurers by her owner. The assured
+pleaded that the cost of raising and repairing the ship was such as to make her
+a constructive total loss at the time of the notice of abandonment. After the
+notice of abandonment the insurers raised her at their own expense and when
+sued for a total loss contended that by the time action was brought the loss
+was only partial: she would no longer have cost more to raise and repair than
+she was worth, because she had already been raised at their expense. This is
+substantially what the insurers are saying in the present case, when they argue
+that the position must be determined by reference to the situation of the
+vessel at the moment of abandonment, without regard to what has already been spent
+on reinstating her. The case came to the House on an issue as to relevancy.
+Lord Halsbury appears to have thought that there had been an actual total loss.
+But the other members of the Appellate Committee proceeded on the footing that
+there had been a constructive total loss. They held that the loss could not be
+reduced to a partial loss by the mere expenditure of money by the insurer.
+This, as Lord Watson explained at p 607, was because the insurers could not</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“avoid their liability as for a
+total constructive loss by their intervening gratuitously and taking upon
+themselves part of the expenses which primâ facie fall upon the assured, and
+would otherwise have been taken into account in estimating whether there has
+been such a total loss.”</p>
+
+<p class="ParaNoNumber">In other words, if the assured had incurred the
+expenditure, it would not have reduced the amount of his loss, and it made no
+difference that instead of the assured incurring the expenditure and recovering
+it from the insurer, the insurer incurred it directly.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, the “cost of repairing the damage” for the purpose
+of determining whether the vessel was a constructive total loss included all
+the reasonable costs of salving and safeguarding the “RENOS” from the time of
+the casualty onwards, together with the prospective cost of repairing her. The
+cost of repairing the damage was in no way “adeemed” because part of it had
+already been incurred at the time when notice of abandonment was given and
+action brought on the policy. These costs are therefore to be taken into
+account for the purposes of section 60(2)(ii) of the Act. On this point, I
+would affirm the decision of the courts below.</a></p><a name="para19">
+
+<p class="ParaHeading">SCOPIC costs</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As with the earlier issue concerning pre-abandonment expenditure, the
+financial implications of this question are significant. The SCOPIC charges incurred
+by the “RENOS” were found by the judge to amount to about half of the total
+salvage remuneration, and if included in the calculation it might make the
+difference between recovery on a partial or total loss basis. In other cases,
+especially where a casualty involves an oil or chemical tanker, SCOPIC charges
+may be many times the remuneration attributable to the “classic” salvage
+services directed at saving the property.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Salvage remuneration is payable under maritime law, independently of
+contract, but in practice has for many years been payable under Lloyd’s Open
+Form (No Cure - No Pay) in its successive iterations, which provides for its
+assessment by arbitration in London. Historically, remuneration was payable
+only for services supplied for the salvage of property, ie the ship and her
+cargo. Salvors were not rewarded for any additional services supplied for any
+other purpose, such as preventing or minimising environmental damage. Indeed they
+exposed themselves in some cases to liability for such damage. After the
+grounding of the “AMOCO CADIZ” on the French Atlantic coast in 1978, special
+provision was made in the 1980 ed of Lloyd’s Open Form for an enhanced rate of
+remuneration to those supplying salvage services to laden oil tankers. But the
+general law was not modified until the International Convention on Salvage
+1989, which has the force of law in the United Kingdom by virtue of section
+224(1) of the Merchant Shipping Act 1995. Article 8(1)(b) of the Convention provided
+that in performing salvage services as traditionally understood, a salvor had a
+duty to “exercise due care to prevent or minimise damage to the environment”.
+Article 13(1) provides for the assessment of the salvors’ remuneration, and
+stipulates that it should reflect, inter alia, “the skill and efforts of the
+salvors in preventing or minimising damage to the environment”. Article 14(1)
+entitles the salvors to “special compensation” from the shipowner equivalent to
+the expenses incurred in performing the duty under article 8(1)(b). The
+Convention regime was not initially as successful in its object as had been
+hoped, mainly because article 14(1) did not provide for a profit element in
+respect of salvage services provided to safeguard the environment. In 1999,
+therefore, the SCOPIC clause was added to Lloyd’s Open Form, which provided for
+compensation to be based on commercial rates for the service supplied. In its
+current form, it is an addendum to the 2011 edition of the form, which is in
+almost universal use for the provision of salvage services.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 2011 Form provides by clause A for the provision of the classic
+salvage services, ie services to “salve the property”, being the vessel, her
+cargo, freight, bunkers and stores together with any property thereon (with
+specified exceptions), and to take the property to an agreed place or in the
+absence of agreement on the place, to a place of safety. It provides separately
+by clause B that “while performing the salvage services the Contractors shall
+also use their best endeavours to prevent or minimise damage to the
+environment”, and by clause C that unless otherwise agreed the SCOPIC clause is
+to be treated as incorporated. The critical parts of the SCOPIC clause for
+present purposes are clauses 5 and 6. Clause 5 provides for the assessment of
+the salvors’ remuneration for the totality of the services provided, including
+those required for the protection of the environment, in accordance with an
+elaborate tariff set out in Appendix A. Clause 6 provides that the salvors’
+basic remuneration shall be assessed in accordance with article 13 of the
+Convention, but that so far as the remuneration calculated in accordance with
+clause 5 exceeds the amount payable under article 13, it will be payable in
+addition by the shipowners alone. In other words, it will not be shared with
+the other interests salved. This reflects the fact that SCOPIC remuneration is
+intended to avoid environmental damage which would be a liability of the
+shipowner, in respect of which he will be insured not under the hull and
+machinery policy but by the owner’s Protection and Indemnity insurer.
+Accordingly, clause 15 of SCOPIC, which deals with general average, provides:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“SCOPIC remuneration shall not be
+a General Average expense to the extent that it exceeds the article 13 Award;
+any liability to pay such SCOPIC remuneration shall be that of the Shipowner
+alone and no claim whether direct, indirect, by way of indemnity or recourse or
+otherwise relating to SCOPIC remuneration in excess of the article 13 Award
+shall be made in General Average or under the vessel’s Hull and Machinery
+Policy by the owners of the vessel.”</p>
+
+<p class="ParaNoNumber">The “RENOS” was entered for these among other risks with
+the American Club, which ultimately paid the SCOPIC charges in this case.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The insurers’ case is that the test for determining whether some item of
+expenditure is part of the “cost of repairing the damage” depends on the
+characterisation of the expenditure. They say that SCOPIC charges fall to be
+disregarded because they are not part of the “cost of repairing the damage” for
+the purpose of section 60(2)(ii) even on the footing (which is common ground)
+that that includes the cost of recovering the vessel. The assured, by
+comparison, say that the SCOPIC charges are part of the “cost of repairing the
+damage” because they were an integral part of the salvors’ remuneration. They
+had to be paid if the ship was to be salved, and she had to be salved if she
+was to be repaired. The assured accept that the shipowners could in theory have
+contracted with the salvors on terms which excluded the SCOPIC clause. But they
+say that the test is whether a prudent uninsured owner would have contracted on
+terms that the salvors’ remuneration included SCOPIC costs. There is no basis
+in the judge’s findings for concluding that the prudent uninsured owner would
+have contracted with the salvors on terms any different from those that these
+owners agreed. This submission was accepted by Knowles J and the Court of
+Appeal.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I can travel a certain distance down the path favoured by the assured,
+but not as far as their destination. Although, on the face of it, the words
+“the cost of repairing the damage” describe a kind of expenditure, it is well
+established that they include some costs which are not directly expended on the
+actual reinstatement of the ship but are preliminary to that reinstatement.
+Salvage charges are the classic example. They are included in the cost of
+repairs because the vessel must be salved in order to be repaired. For the same
+reason, temporary repairs near the site of the casualty and towage to a repair
+yard are generally allowed if they are reasonable preliminaries to the repairs
+themselves. As Roskill J put it in <i>The “MEDINA PRINCESS”</i> [1965] 1
+Lloyd’s Rep 361, 520, temporary repairs and towage to a repair yard may be part
+of “what would have to be expended to put the ship right.” This accords with
+the concept of a constructive total loss. The cost of repairs is the measure of
+the extent of the damage. The reason why section 60(2)(ii) requires a
+comparison between the cost of the repairs and the value of the ship when
+repaired, is to determine whether the ship is financially worth repairing.
+Expenses for a purpose which is an essential preliminary to repairing her
+necessarily enter into that comparison. Even if the actual repairs would cost
+less than the repaired value of the ship, if she cannot be got off the rocks or
+towed to a place where she can be repaired save at a cost which when added to
+the cost of the actual repairs will exceed her value, then she is not
+financially worth saving. For the same reason, the mere fact that the insurer
+would not, under the policy terms, be liable to indemnify the assured for some
+item of expenditure on a partial loss basis does not necessarily mean that it cannot
+be included in the comparison for the purpose of deciding whether there is a
+constructive total loss. It is still potentially relevant to the question
+whether the vessel is financially worth saving.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The common feature of all the cases where the cost of steps preliminary
+to repairs have been included in the comparison is that their objective purpose
+was to enable the ship to be repaired. That will generally be true of salvage
+charges. The same goes for the cost of temporary repairs, towage, and other steps
+which are plainly preliminaries to carrying out permanent repairs. The
+objective purpose of SCOPIC charges was different. It was not to enable the
+ship to be repaired, but to protect an entirely distinct interest of the
+shipowner, namely his potential liability for environmental pollution. That
+purpose has nothing to do with the subject-matter insured, namely the hull. It
+was no part of the measure of the damage to the ship, and had nothing to do
+with the possibility of repairing her. The point may be tested by asking what
+the position would have been if the shipowner, instead of making a single
+agreement with salvors to salve the ship and prevent or minimise environmental
+damage, had contracted with one enterprise to salve the ship and another to put
+floating booms around her with a view to preventing or minimising environmental
+damage. Mr Berry QC was inclined to accept that in that case the cost of the
+booms would not have entered into the comparison required by section 60(2)(ii).
+I think that his instinct was right. The money paid to the boom contractor
+would in no sense have been preliminary to the repairs. By comparison, the cost
+of temporary repairs or towage to the repair yard would have been preliminary
+to the repairs whether these tasks were undertaken by the salvors or by some
+other contractor. What this suggests is that the only reason why the SCOPIC
+charges are said to be part of the cost of repair is that the charges for
+environmental protection were owed to the same contractor as the charges for
+salving the property so that she could be repaired. Yet that is an entirely
+adventitious factor. Whether the same contractor or different contractors were
+used has nothing to do with the objective purpose of the expenditure or with
+the comparison required by section 60(2)(ii).</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am prepared to assume that a prudent uninsured owner would have done
+what these owners did and contracted with the salvors for both the salving of
+the ship and protecting the environment. But I do not think that that makes any
+difference. The prudent uninsured owner test was first laid down by Lord
+Abinger CB in <i>Roux v Salvador</i> (1836) 3 Bing NC 266, 286 and endorsed by
+the House of Lords, adopting the advice of the judges of the Exchequer Chamber
+in <i>Irving v Manning</i> (1847) 1 HL Cas 287. It is a test for determining
+whether the subject-matter insured is a constructive total loss in
+circumstances where the relevant facts are hypothetical or cannot be known. As
+applied to a damaged ship, the test is whether the prudent uninsured owner
+would have repaired her and if so how. Before the passing of the Marine
+Insurance Act 1906, there was a controversy about how far the prudent uninsured
+owner was assumed to take account of matters other than the cost of repair and
+the repaired value of the ship, such as the value of the wreck if sold to
+breakers. In <i>Angel v Merchants’ Marine Insurance Co</i> </a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpKQB/1903/77.html">[1903] 1 KB 811</a>, the
+Court of Appeal held that only the comparison between the repaired value of the
+ship and the cost of repair (including steps preliminary to repair) was
+relevant. In <i>Macbeth &amp; Co Ltd v Maritime Insurance Co Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1908/17.html">[1908] AC 144</a>, a case decided after the Act but by reference to the law as it stood
+before, the House of Lords overruled <i>Angel</i>, holding that the question
+fell to be decided by reference to whatever other considerations would have
+been taken into account by a prudent uninsured owner. These might include the
+financial benefits and detriments of not repairing, which in that case included
+the benefit of being able to sell the wreck. If that view had prevailed, it
+would have been relevant to ask whether the prudent uninsured owner would have been
+induced to repair notwithstanding that the cost of salvage and repair would
+exceed her repaired value, because of the potential liability for environmental
+pollution associated with abandoning her. But section 60(2)(ii) resolves that
+question in favour of the view taken in <i>Angel</i>, which was the leading
+authority at the time that the Act was drafted. The effect of that provision is
+that the prudent uninsured owner is assumed to be interested only in the
+comparison between the cost of repair and the repaired value, and his
+hypothetical choices are relevant only to the quantum of the repair costs. The
+statutory solution has sometimes been criticised as illogical, but the world of
+marine insurance has accommodated it and moved on. The classic division of
+risks between hull insurers and P&amp;I insurers assigns environmental
+liabilities and associated sue and labour charges to P&amp;I insurers, a state
+of affairs which is reflected in clause 15 of the SCOPIC clause. The old
+controversy about the value of the wreck has for many years been resolved by
+what is now clause 19.1 of the Institute Time Clauses Hulls (1/10/83), which
+excludes it from the constructive total loss comparison.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The result is that it is necessary to identify the purpose of the
+expenditure which it is proposed to take into account, and to apply the prudent
+uninsured owner test only to expenditure for the purpose of repairing the ship
+in the larger sense which I indicated above. The fact that a prudent uninsured
+owner might have contracted with the same contractors for both the protection
+of the property and the prevention of environmental pollution does not show
+that both are part of the cost of repairing the damage. Neither does the fact
+that the charges under both heads are secured on the ship. The two heads of
+expenditure have quite different purposes, only one of which is related to the
+reinstatement of the vessel. If they were truly indivisible, this might not
+matter. But the whole scheme of the SCOPIC clause depends on their being
+separately identifiable, and the very fact that one is for the hull
+underwriter’s account and the other for the P&amp;I insurers shows that they
+cannot be indivisible. In my opinion, SCOPIC charges are not part of the “cost
+of repairing the damage” for the purpose of section 60(2)(ii) of the Act or the
+“cost of recovery and/or repair” for the purpose of clause 19.2 of the
+Institute Clauses, because their purpose is unconnected with the damage to the
+hull or its hypothetical reinstatement. I would therefore allow the appeal on
+that point.</a></p><a name="para27">
+
+<p class="ParaHeading">Disposal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would make a declaration accordingly, set aside the order of Knowles J
+and remit the matter to him to determine in the light of this court’s judgment
+whether the “RENOS” was a constructive total loss and what financial
+consequences follow from that.</a></p><a name="para28">
+
+</a></div><a name="para28">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/29.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

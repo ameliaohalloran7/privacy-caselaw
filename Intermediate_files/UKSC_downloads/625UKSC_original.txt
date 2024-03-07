@@ -1,0 +1,573 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Nottingham City Council  v Parr &amp; Anor [2018] UKSC 51 (10 October 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.legds2
+	{mso-style-name:legds2;
+	display:none;}
+span.legextentrestriction7
+	{mso-style-name:legextentrestriction7;
+	color:white;
+	display:none;
+	background:#660066;
+	font-weight:bold;
+	font-style:normal;}
+span.ennote
+	{mso-style-name:ennote;}
+p.legclearfix2, li.legclearfix2, div.legclearfix2
+	{mso-style-name:legclearfix2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:18.0pt;
+	background:white;
+	font-size:9.5pt;
+	font-family:"Times New Roman",serif;
+	color:black;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Nottingham City Council  v Parr &amp; Anor [2018] UKSC 51 (10 October 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/51.html</i>
+<br>Cite as: 
+[2018] PTSR 1871,
+
+[2019] LLR 63,
+
+[2018] 1 WLR 4985,
+
+[2018] HLR 48,
+
+[2019] 1 All ER 1103,
+
+[2018] WLR 4985,
+
+[2018] UKSC 51
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/51.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016010011/casereport_bba6aab1-7159-4dfc-a1b5-b1f35b3ff309/html">[2018] PTSR 1871</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016010011/casereport_2b9b16e1-bd54-420a-9b1c-5b308bdeb2ef/html">[2018] 1 WLR 4985</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<center><a href="/uk/cases/UKSC/2018/51.image.pdf">Summary</a></center>
+ <div class="WordSection1">
+ <p class="MsoNormal" align="right" style="text-align:right"> <b>&nbsp; </b></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <a name="Text12"> <b>Michaelmas Term </b> </a></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <b>[2018] UKSC 51 </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/188.html">[2017] EWCA Civ 188</a> </i></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:20.0pt">JUDGMENT </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b>&nbsp; </b></p>
+ <p class="MsoNormal"> <b>&nbsp; </b></p>
+ <center><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:5.0pt;border-collapse:collapse"> <tbody><tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="Title1" style="margin-left:4.0pt"> <span style="font-size:20.0pt">Nottingham City Council (Appellant) <i>v </i>Parr and another (Respondents) </span></p>
+ <p class="MsoNormal"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="MsoNormal"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:14.0pt">before </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lady Hale, President </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Wilson </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Carnwath </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lady Black </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Lloyd-Jones </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">JUDGMENT GIVEN ON </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">10 October 2018 </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center; text-indent:-288.0pt"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" style="text-align:justify"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:15.0pt">Heard on 13 June 2018 </span> </b></p> </td> </tr> </tbody></table> </center></div> <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> <br clear="all" style="page-break-before:always"> </span>
+ <div class="WordSection2">
+ <p class="MsoNormal">&nbsp; </p>
+ <center><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> <tbody><tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <a name="_Hlk512861874"> <i>Appellant </i> </a></p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Respondents </i></p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Andrew Arden QC </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">None </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Annette Cafferkey </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Nottingham City Council) </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> </tr> </tbody></table>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> <tbody><tr style="height:27.6pt"> <td width="568" valign="top" style="width:426.1pt;padding:0cm 5.4pt 0cm 5.4pt; height:27.6pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Advocate to the Court </i></p>
+ <p class="MsoNormal" align="center" style="text-align:center">Martin Chamberlain QC </p> </td> </tr> </tbody></table>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> <tbody><tr> <td width="568" valign="top" style="width:426.1pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Intervener </i></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>(Secretary of State for Housing, Communities and Local Government) </i></p> </td> </tr> <tr> <td width="568" valign="top" style="width:426.1pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Jonathan Moffett QC </p> </td> </tr> <tr style="height:55.2pt"> <td width="568" valign="top" style="width:426.1pt;padding:0cm 5.4pt 0cm 5.4pt; height:55.2pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Heather Emmerson </p>
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The Government Legal Department) </p> </td> </tr> </tbody></table>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal"> <b> <span style="font-size:15.0pt">&nbsp; </span> </b></p> </center></div> <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> <br clear="all" style="page-break-before:always"> </span>
+ <div class="WordSection3">
+ <p class="NewSpeech">LORD LLOYD-JONES: ( <span style="text-transform:none">with whom Lady Hale, Lord Wilson, Lord Carnwath and Lady Black agree) </span></p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The appellant, Nottingham City Council (“Nottingham”), is the licensing authority for those houses in multiple occupation (“HMOs”) in its district which are licensable under Part 2, Housing Act 2004. This appeal concerns two HMOs, namely 44, Rothesay Avenue, Lenton, Nottingham NG7 1PU and 50, Bute Avenue, Lenton, Nottingham NG7 1QA. Both are owned by the second respondent, Trevor Parr Associates Ltd, which carries on the business of providing accommodation for students. The first respondent Dominic Parr is the managing director of the second respondent and the manager of the properties. </a></p><a name="para1">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Nottingham appeals against the decision of the Court of Appeal dated 29 March 2017, dismissing its appeal against the decision of the Upper Tribunal (Lands Chamber) dated 9 February 2016, dismissing its appeals against decisions of the First-tier Tribunal dated 5 November 2014 (44, Rothesay Avenue) and 6 May 2015 (50, Bute Avenue) respectively, allowing the respondents’ appeal against the imposition by Nottingham of certain HMO licensing conditions. </a></p><a name="para2">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On this appeal to the Supreme Court the respondents have not appeared and have not been represented. In these circumstances, at the request of the Court an Advocate to the Court was appointed in order to argue the grounds for resisting the present appeal and we are grateful to Mr Martin Chamberlain QC for performing this role. In addition, the Secretary of State for Housing, Communities and Local Government (“the Secretary of State”) has intervened in this appeal. We are grateful to all counsel for their submissions. </a></p><a name="para3">
+ <p class="ParaHeading">Legislation </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Housing Act 2004, Part 2 replaced the previous law on HMOs which was to be found in the Housing Act 1985, Part XI (“the 1985 Act”). The 1985 Act defined an HMO as “a house which is occupied by persons who do not form a single household” but left the word “household” undefined. In <i>Barnes v Sheffield City Council </i>(1995) 27 HLR 719 the Court of Appeal set out a number of factors relevant to determining whether occupants were living together as a single household. It held that in the particular circumstances of that case a group of students sharing a house constituted a single household. The 1999 consultation paper, “Licensing of Houses in Multiple Occupation - England” (DETR, 1999), which preceded the 2004 Act observed (section 2, para 24) that, as a result of this judgment, housing authorities were wary of attempting to use their HMO powers in shared houses, particularly those occupied by students. The 2004 Act was intended, inter alia, to extend the regulatory scheme of HMOs to include shared student accommodation, subject to certain exceptions. </a></p><a name="para4">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The 2004 Act introduced for the first time a system of licensing of HMOs authorising occupation of the house concerned by not more than a maximum number of households or persons specified in the licence (section 61(2)). A building or part of a building will qualify as an HMO if the living accommodation is “occupied by persons who do not form a single household” (section 254(2)(b), (3) and 4(c)) and if “occupied by those persons as their only or main residence or they are to be treated as so occupying it” (section 254(2)(c), (3) and 4(d)). Section 258 makes provision for determining when persons are to be regarded as not forming a single household for the purposes of section 254. They are to be so regarded unless they are members of the same family or their circumstances are of a description specified in regulations (section 258(2)). Such provision is made in the Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006 (SI 2006/373) (“the 2006 Regulations”). Section 259 makes provision for determining when persons should be treated as occupying premises as their only or main residence. In particular, a person is to be so treated, inter alia, if premises are occupied by the person as the person’s residence for the purpose of undertaking a full-time course of further or higher education (section 259(2)(a)). </a></p><a name="para5">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If an application for a licence is made to the local housing authority, it may grant a licence if it is satisfied as to the matters mentioned in section 64(3). Those requirements include “that the house is reasonably suitable for occupation by not more than the maximum number of households or persons [specified in the application or decided by the authority] or that it can be made so suitable by the imposition of conditions under section 67” (section 64(1), (2), (3)(a)). Section 67 provides in material part: </a></p><a name="para6">
+ <p class="MsoQuote" style="margin-left:72.0pt">
+ <span class="legds2"> <span lang="EN" style="color:black">“67&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Licence conditions </span> </span> </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">
+ <span class="legds2"> <span lang="EN">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> </span> <span lang="EN">A licence may include such conditions as the local housing authority consider appropriate for regulating all or any of the following - </span> </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">
+ <span class="legds2"> <span lang="EN">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> </span> <span lang="EN">the management, use and occupation of the house concerned, and </span> </p>
+ <p class="MsoQuote" style="margin-left:108.0pt"> <span lang="EN">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; its condition and contents. </span></p>
+ <p class="MsoQuote" style="margin-left:72.0pt"> <span lang="EN">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Those conditions may, in particular, include (so far as appropriate in the circumstances) - </span></p>
+ <p class="MsoQuote" style="margin-left:108.0pt"> <span lang="EN">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; conditions imposing restrictions or prohibitions on the use or occupation of particular parts of the house by persons occupying it; … </span></p>
+ <p class="MsoQuote" style="margin-left:72.0pt"> <span lang="EN">… </span></p>
+ <p class="MsoQuote" style="margin-left:72.0pt"> <span lang="EN">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A licence may not include conditions imposing restrictions or obligations on a particular person other than the licence holder unless that person has consented to the imposition of the restrictions or obligations. </span></p>
+ <p class="MsoQuote" style="margin-left:72.0pt"> <span lang="EN">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A licence may not include conditions requiring (or intended to secure) any alteration in the terms of any tenancy or licence under which any person occupies the house.” </span></p>
+ <p class="ParaHeading">Guidance </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the material time, minimum sizes of bedrooms in HMOs were not prescribed in legislation. However, Nottingham issues guidance to its housing officers on the operation of this licensing system. For present purposes the relevant document is “HMO Amenity Guidance 3 - Space Provision for Licensable and Non-Licensable HMOs”. This states that in the case of bedrooms in single occupation in HMOs where there is adequate dining space elsewhere and where cooking facilities are not provided in the room the minimum space provision is eight square metres. A general note adds: </a></p><a name="para7">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The dimensions and areas specified shall normally be regarded as the minimum, particularly with regard to new proposals. However it is recognised that existing buildings cannot always achieve these minima. A degree of flexibility will sometimes be possible if other compensating features are present. Conversely it should be noted that irrespective of the dimensions, the shape and useable living space of any room is a determining factor in the calculation of the maximum number of people for which it is suitable.” </p>
+ <p class="ParaLevel1">In carrying out its measurements Nottingham disregards all space with a floor to ceiling height of less than 1.53 metres. </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Nottingham participates with other housing authorities in the East Midlands in an organisation named East Midlands Decent and Safe Homes which also sets out amenity standards for HMOs in “Amenity and Space in HMOs: A Landlords Guide” (“the East Midlands DASH Guide”). This recommends adopting eight square metres as the minimum size for bedrooms of this sort but also states: </a></p><a name="para8">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The standards are usually regarded as a MINIMUM but are a guide only. Other factors or compensatory features will be taken into account when inspecting a property, therefore allowing for a degree of flexibility in certain circumstances. These factors could include the shape of the usable living space, or the needs and wishes of the occupants.” (Original emphasis) </p>
+ <p class="ParaHeading">The properties </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>44, Rothesay Avenue and 50, Bute Avenue are both terraced houses of traditional brick construction with a slate roof. Both are used for letting to students and in each case the attics have been converted into bedrooms. In each property the front attic bedroom has a sloping ceiling which reduces the area regarded by Nottingham as useable living space below eight square metres. At 44, Rothesay Avenue the front attic room has a total floor area of 9.75 square metres but, due to the sloping ceiling, only 5.89 square metres has a floor to ceiling height of 1.53 metres or more. The front attic room at 50, Bute Avenue has a floor area of approximately 11 square metres of which only 6.89 square metres has a floor to ceiling height of 1.53 metres or more. Both the Upper Tribunal and the Court of Appeal quoted the following description of the attic bedroom at 44, Rothesay Avenue by the First-tier Tribunal: </a></p><a name="para9">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The area of the relevant bedroom having a height of less than 1.53m was utilised to accommodate a desk and for storage. The relevant room includes a double bed, desk, chest of drawers, bedside table, bookshelves and a built-in wardrobe. The pitch of the roof slope was such that it appeared possible to use the desk without undue risk of collision and any such risk could be reduced further by placing the chair in the area beneath the pitched roof window thereby eliminating the risk of collision when rising from the chair. The head of the bed was fitted under that part of the room with reduced height. Risk of collision could be avoided by turning the bed through 180°. The risk of collision when changing the bed linen could be avoided by pulling the bed out of the area with reduced headroom prior to performing the task.” </p>
+ <p class="ParaLevel1">The assessment of the attic bedroom at 50, Bute Avenue was to similar effect. </p>
+ <p class="ParaHeading">Nottingham’s decisions and the appeals </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In each case Nottingham granted a new HMO licence which imposed a condition prohibiting the use of the attic bedroom for sleeping. The licence for 44, Rothesay Avenue provided: </a></p><a name="para10">
+ <p class="MsoQuote" style="margin-left:72.0pt">“… [T]he second floor front bedroom be prohibited for the use of sleeping. This room will not be allowed for the use for sleeping until it has provided by way of alteration, adaptation or extension a useable floor surface area of eight square metres within a minimum ceiling height of 1.53 metres below the sloping ceiling from the floor.” (para 36) </p>
+ <p class="ParaNoNumber">The licence for 50, Bute Avenue limited the number of persons permitted to occupy the HMO to a maximum of five and provided: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“The second floor front bedroom is not to be used as a sleeping room, except where it is let in combination with another room within the property in such a way as to provide the occupant with the exclusive use of two rooms.” (para 38) </p>
+ <p class="ParaLevel1">This licence further provided that the restriction on sleeping in the room might be removed if alterations were carried out to increase the size of the room to eight square metres (excluding any area where the ceiling height is below 1.53m). </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In each case the respondents appealed to the First-tier Tribunal against the imposition of these conditions. Each of the First-tier Tribunals referred in its decision to the guidance issued by Nottingham and, in particular, to the general note quoted at para 7 above. Each considered that Nottingham’s guidance on space provision was reasonable as general guidance but noted that some flexibility was permitted if other compensating features were present. Each considered that in each of the rooms the area with the reduced headroom was of some value for the uses described. Furthermore, each considered that in each of the HMOs the provision of communal living space was significantly larger than the minimum contemplated by Nottingham’s requirements for additional living space. In each case the Tribunal regarded this over-provision as a compensating feature which could be taken into account in applying Nottingham’s own guidance. In each case the Tribunal concluded that the attic rooms were adequate as study/bedrooms “where cohesive living is envisaged” and that there were sufficient compensating features in the HMOs to make them suitable for “student or similar cohesive occupation for six persons in six households”. Accordingly, in the licence for 44, Rothesay Avenue the First-tier Tribunal substituted an alternative condition, namely that: </a></p><a name="para11">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The second floor front bedroom may only be used for sleeping accommodation by a person engaged in full-time education and who resides in the dwelling for a maximum period of ten calendar months over a period of one year.” </p>
+ <p class="ParaLevel1">No similar condition was introduced by the First-tier Tribunal which heard the appeal in relation to 50, Bute Avenue, but it justified its conclusion by stating that “there are sufficient compensating features in the property to make it suitable for students or similar cohesive occupation for six persons in six households.” In dismissing Nottingham’s further appeal in that case, however, the Upper Tribunal directed that the same condition be included in the licence for 50, Bute Avenue. </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On appeal to the Upper Tribunal (Lands Chamber) both appeals were dismissed. Martin Rodger QC, Deputy President, referred to examples of guidance by local housing authorities modifying space standards for particular modes of occupation which, he considered, recognise that certain categories of occupier may wish to occupy accommodation in a particular way. The purpose of all conditions under section 67 was to ensure that the HMO is suitable for the number of persons permitted to occupy it and there was therefore nothing unlawful in formulating a condition applicable to a particular mode of occupation by a category of occupants if the house was suitable for them in greater numbers than it would be for a different mode of occupation. He rejected Nottingham’s submission that the Act requires that an HMO must be capable of occupation by all potential occupants. Referring to the substituted condition in the case of 44, Rothesay Avenue, he observed that the condition was formulated on the basis that the property was one “where cohesive living is envisaged” and that by “cohesive living” the First-tier Tribunal clearly had in mind the level of shared activity and social interaction to be expected in a “shared-house” or “Category B” HMO, as described at greater length in the policy documents of other local authorities. In his view, the basic idea of a house shared by a number of individuals, not forming a family but who nevertheless wish to share communal living facilities and enjoy a significant level of social interaction, is readily understood. With regard to the terms of the condition he observed: </a></p><a name="para12">
+ <p class="MsoQuote" style="margin-left:72.0pt">“I am satisfied that there is nothing unlawful in a condition restricting the use of sleeping accommodation in part of an HMO to a person in full-time education, if the decision maker is satisfied that, looked at as a whole, the HMO is suitable for the number of households specified in the licence. An alternative condition, perhaps more closely reflecting the reason for permitting the use of a room smaller than would normally be acceptable, might require that the occupiers be members of a group who intend to share the communal living space, but I do not think the reference to students makes the condition unlawful.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Court of Appeal (Longmore, Lewison and Briggs LJJ) upheld the decision of the Upper Tribunal: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/188.html">[2017] PTSR 879</a>. The Court of Appeal considered that the power to impose conditions permitted a condition defined by reference to the general characteristics and activities of an occupier. A restriction of occupation to “occupation by students” was a restriction on “occupation by persons”. The Court of Appeal rejected submissions that the condition imposed by the First-tier Tribunal was irrational and incapable of effective enforcement. However, it varied the licences to include two further conditions: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the communal space on the ground floor, comprising a kitchen/diner and living room area, be kept available for communal living space only; </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that no bedrooms may be let to persons other than students engaged in full-time education.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Nottingham now appeals to the Supreme Court, by leave granted by this Court, on the following grounds: </a></p><a name="para14">
+ <p class="ParaNoNumber" style="margin-left:35.45pt">Ground 1: The power to impose conditions under sections 64 and 67, Housing Act 2004, in order to make an HMO suitable for a particular number of households or persons, cannot be used so as to limit the class of persons for whom the HMO is suitable. </p>
+ <p class="ParaNoNumber" style="margin-left:36.0pt">Ground 2: The conditions imposed by the Tribunals and Court of Appeal are irrational and unenforceable. </p>
+ <p class="ParaHeading"> <u> <span style="font-style:normal">Ground 1 </span> </u></p>
+ <p class="ParaHeading">Submissions of the parties </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On behalf of Nottingham, Mr Andrew Arden QC submits that the conditions imposed seek to make an exception for full-time students otherwise than in the circumstances permitted by the legislation. Section 64(3)(a) requires the authority to be satisfied “that the house is reasonably suitable for occupation by not more than the maximum number of households or persons mentioned in subsection (4) or that it can be made so suitable by the imposition of conditions under section 67.” In his submission the legislation, at this stage, is unequivocal and concerned only with numbers. Furthermore, section 67(2)(a) which permits “conditions imposing restrictions or prohibitions on the use or occupation of particular parts of the house by persons occupying it” does not permit conditions restricting who may occupy an HMO. The references elsewhere in the statute to the characteristics of occupants do not support setting conditions by reference to such characteristics. In the alternative, the proposed conditions here seek, contrary to the policy of the legislation, to introduce an exception to its operation for a category of persons or a defined set of circumstances. A condition which restricts the occupation of an HMO by reference to a class of occupier does not achieve the purpose of improving or maintaining standards and has the effect of making accommodation unavailable to a section of the rental market. That standards may be lowered for certain categories otherwise than as specified by Parliament is the antithesis of the legislative purpose. In the further alternative, treating occupation by students in this way is contrary to the statutory object of Part 2 of the 2004 Act which was intended in part to reverse the decision of the Court of Appeal in <i>Barnes v Sheffield City Council </i>. </a></p><a name="para15">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On behalf of the Secretary of State Mr Jonathan Moffett QC accepts that, in an appropriate case, section 67 does empower a housing authority to impose a condition on a licence which restricts the occupation of all or part of an HMO to occupation by a particular class of person. However, he submits that a housing authority may not, on the basis of such a condition, grant a licence for an HMO which authorises the HMO to be occupied by a greater number of households or persons than the authority would otherwise authorise. In particular, he criticises the approach of the Court of Appeal on the grounds that it allows for the application of different standards for different classes of person and assumes that a particular class of occupier will live in the HMO in a way that requires a lower standard of accommodation than other classes. He submits that section 64(3)(a) refers to conditions that make the house reasonably suitable for occupation by the maximum number of households or persons and does not refer to conditions that make the households or persons suitable to occupy the house. </a></p><a name="para16">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Chamberlain, as Advocate to the Court, has at the Court’s request advanced the submissions which might have been made by the respondents had they taken part in this further appeal. He submits that section 67 permits the imposition of the conditions in question here. First, he submits that the conditions imposed on the letting of each of the properties were, on their face, conditions regulating the “use” of the second floor front bedroom and were correctly characterised as such. However, Parliament chose to permit conditions regulating “management, use and occupation” of an HMO. On a natural reading, a condition “regulating the occupation” of a house is apt to include one that governs how or by whom it may be occupied. Contrary to the submissions of Nottingham, the Court of Appeal decision does not introduce an exception to the operation of the legislation for a category of persons or a defined set of circumstances, nor does it allow occupation at a lower standard than would otherwise have been permitted in the circumstance of the HMOs in question. </a></p><a name="para17">
+ <p class="ParaHeading">Discussion </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 64(3)(a) indicates that the purpose of the imposition of conditions is to make a house reasonably suitable for occupation by not more than the maximum number of households or persons specified in the application or decided by the housing authority. The question as to what sort of conditions may be imposed is governed by section 67. Section 67(1)(a) provides that a licence may include such conditions as the local housing authority considers appropriate for regulating all or any of “the management, use and occupation of the house concerned”. Section 67(1) is followed in section 67(2) by a non-exhaustive list of permitted conditions including in section 67(2)(a) “conditions imposing restrictions or prohibitions on the use or occupation of particular parts of the house by persons occupying it”. Considering these words in their natural meaning, they extend sufficiently widely to include the conditions with which we are concerned. I am persuaded that the words “use and occupation” in section 67(1) are not used as a composite term. Section 67(2)(a) refers disjunctively to “the use or occupation of particular parts of the house”. The inclusion of “occupation” in addition to “use” must have been intended to extend the scope of permissible conditions. It may well be, as Mr Chamberlain submits, that the conditions in respect of each of these houses related to the “use” of the attic bedrooms. However, it seems clear that they relate to the “occupation” of those rooms. As Mr Chamberlain put it, on a natural reading a condition “regulating the occupation” of a house is apt to include one that governs how or by whom it may be occupied. In my view, these conditions seek to regulate “the … occupation of particular parts of the house by persons occupying it” and fall squarely within the natural meaning of section 67(2)(a). </a></p><a name="para18">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is, however, necessary to stand back from the plain meaning of these provisions and to consider whether such a reading is consistent with the object of the legislation. </a></p><a name="para19">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In this regard it is significant that elsewhere in Part 2 of the 2004 Act the manner of occupation of a house and the general characteristics of occupants are considered relevant in contexts connected with HMOs and with housing standards generally. In some instances, the personal occupation or activities of an occupier will have a bearing on whether the legislation applies. Thus, for example, persons carrying out domestic services are regarded as occupying the same household as their employer if they are occupying rent free tied accommodation in the same building (2006 Regulations, regulation 3); a full-time student is regarded as occupying accommodation as his only or main residence if it is occupied for the purpose of his full-time course (section 259(2)(a)); and some religious communities are outside the HMO scheme if their principal occupation is prayer, contemplation, education or the relief of suffering (Schedule 14, paragraph 5). Therefore, in certain circumstances the operation of the legislative scheme will depend on the personal characteristics of the occupants or their activities. </a></p><a name="para20">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the present case the Deputy President of the Upper Tribunal drew attention in his judgment to the fact that prior to the present legislation, under the 1985 Act, regard was had to the suitability of an HMO for occupation by a particular category of occupier. Thus, in 1986 the Institution of Environmental Health Officers published guidance on amenity standards for HMOs which distinguished between different categories of HMOs. In particular, Category A comprised houses occupied as individual rooms where there was some exclusive occupation and some sharing of amenities but each occupant lived otherwise independently of all others. Category B comprised houses occupied on a shared basis which would normally be occupied by members of a defined social group, for example students or a group of young single adults. In such houses the occupants each enjoyed exclusive use of a bedroom but would share other facilities including a communal living space. Having distinguished between these categories in this way on the basis of the manner of occupation, the guidance then went on to set out different specifications for each category. I note, moreover, that a revised version, “the 1994 Amenity Standards”, remained current until very recently and was available on the website of the successor body, the Chartered Institute of Environmental Health. </a></p><a name="para21">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A similar approach can be detected in certain guidance issued following the implementation of the current legislation. The Deputy President of the Upper Tribunal in his judgment in the present case drew attention to the East Midlands DASH Guide produced by housing authorities in the East Midlands including Nottingham (see para 8, above) which recognises that different facilities may be required for different modes of occupation. It provides that “in HMOs where the occupants tend to live separately there should … be a sink/wash hand basin within the living units.” Similarly, there was before the Court of Appeal in the present case a note prepared by Mr Robert Fookes, counsel for the respondents, setting out extracts from the current guidance issued by a selection of housing authorities responsible for accommodation likely to be used by students attending Oxford, Cambridge and Russell Group universities. In half of these standards the housing authorities distinguish between students and other occupants. </a></p><a name="para22">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As the Deputy President of the Upper Tribunal observed, it is obvious that nothing in this guidance can change the meaning of the present legislation. Nevertheless, I agree with him that it provides a useful point of reference. It may be thought that, as a matter of common sense, the manner of occupation of a room and the type of occupant may have a bearing on the suitability of a particular room for a particular use and that this is reflected in the guidance referred to above. That guidance also supports the view that in practical terms the availability of communal living space may be capable of compensating for an undersized bedroom. However, the critical question is whether the approach reflected in such guidance is consistent with the present legislation. </a></p><a name="para23">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the heart of the appeal on this ground lie two submissions by Mr Arden on behalf of Nottingham. First, he submits that the conditions in issue here seek, contrary to the policy of the legislation, to introduce an exception to its operation for a category of persons or a defined set of circumstances. It is clear that Part 2 of the 2004 Act is intended to apply to shared student houses. One purpose behind the 2004 Act was to reverse the effect of <i>Barnes v Sheffield City Council </i>as a result of which many shared student houses fell outside the scope of the 1985 Act. Express provision is made in section 259(2)(a) in respect of occupation for the purpose of undertaking a full-time course of further or higher education and the effect of section 254(5) and Schedule 14, paragraph 4 is, by way of exception, to remove from this regulatory scheme certain buildings occupied by students. Contrary to Nottingham’s submission, however, I do not consider that the three conditions with which we are concerned have the effect of undermining this purpose. These conditions do not remove shared student houses from the regulatory scheme. On the contrary, as the decisions of the First-tier Tribunal in the present cases demonstrate, the standard of accommodation available in a shared student house will be inspected and subjected to rigorous examination and the house will be licensed as suitable for a stipulated number of occupants only if it is considered to be so suitable (if necessary subject to conditions) by the housing authority for the area or, on appeal, by a specialist tribunal. </a></p><a name="para24">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Secondly, Mr Arden submits that there is no doubt that the purpose in imposing the conditions in the present case was to allow occupation at a lower standard or by a greater number than would otherwise have been permitted in the circumstances of the HMOs in question. I should observe at this point that it is clear that Nottingham in bringing this appeal and the Secretary of State in intervening have clearly been motivated by a wish to ensure that HMOs provide acceptable living conditions, to protect the vulnerable or potentially vulnerable groups that tend to occupy HMOs and to avoid an interpretation of the legislation as a result of which lower standards are to be considered appropriate for particular groups such as students. That is commendable. However, I consider that their concern is unfounded. The imposition of conditions such as those imposed by the Tribunals and the Court of Appeal in the present case do not have that effect. It is entirely appropriate, when considering the suitability of accommodation in an HMO for a particular purpose, to have regard to the mode of occupation. If the house is to be occupied by a group living together “cohesively”, each having his or her own bedroom but sharing other facilities including a kitchen/diner and a living room, the availability of those additional facilities is a material consideration. In these circumstances the mode of occupation means that the shared facilities will benefit all the occupants and, as a result, this may compensate for a bedroom which is slightly smaller than the recommended minimum. By contrast, where occupants of an HMO each live independently of all others, sharing only bathroom, toilet and kitchen facilities, any communal living space made available will not benefit the occupants in the same way because of their different living arrangements. </a></p><a name="para25">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It seems to me to be entirely appropriate, therefore, that in considering the suitability of accommodation in an HMO regard should be had to the proposed mode of occupation. Furthermore, in appropriate cases effect may be given to such considerations by the imposition of conditions in the licence. This is not inconsistent with the statutory scheme. As the Deputy President of the Upper Tribunal pointed out in his judgment, certain types of accommodation may lend themselves to different styles of occupation and it would be surprising if the 2004 Act did not reflect that. The various guidelines referred to earlier in this judgment refer in different ways to the need for flexibility in their application. In that regard, account should be taken of the proposed mode of occupation where it is likely to influence the quality of the accommodation made available to the occupant. It must be emphasised that this does not permit the application of lower standards than would otherwise be applicable. On the contrary, it is simply that there will be certain circumstances in which, as a matter of common sense, it will be appropriate to have regard to the mode of occupation when applying the same objective standards which apply to all HMOs. </a></p><a name="para26">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For these reasons, I consider that the power to impose conditions under sections 64 and 67, Housing Act 2004, in order to make an HMO suitable for a particular number of households or persons, can be used so as to limit the class of persons for whom the HMO is suitable. </a></p><a name="para27">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Finally, I should draw attention to the fact that there exist other mechanisms to maintain standards of accommodation in HMOs, in particular the imposition of mandatory conditions under Schedule 4 of the 2004 Act. In this regard, I note that the Licensing of Houses in Multiple Occupation (Mandatory Conditions of Licences) (England) Regulations 2018 (2018 No 616) (“the 2018 Regulations”), came into force on 1 October 2018 and introduced additional mandatory conditions in respect of floor area. As a result a licence must now include a condition requiring the licence holder to ensure that the floor area of any room in the HMO used as sleeping accommodation by one person over ten years is not less than 6.51 square metres (paragraph 2, inserting Schedule 4, paragraph 1A(2)(a)). </a></p><a name="para28">
+ <p class="ParaHeading"> <u> <span style="font-style:normal">Ground 2 </span> </u></p>
+ <p class="ParaHeading">Submissions of the parties </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On behalf of Nottingham, Mr Arden submits that if there is a power to impose a condition based on a class of occupier, the conditions in the present case as directed by the Tribunals and the Court of Appeal are irrational, both in the conventional sense and in the sense that they are not effective to achieve their purpose, and incapable of enforcement. While the conditions are designed to secure occupation only by students, this, he submits, is not necessarily the same as “cohesive living”. The judgments below are said to have proceeded on the basis of an image of student life which is simply not true of all or necessarily most students, and this is an irrational basis for determining who may or may not occupy an HMO. The conditions go no further than setting up the possibility of sharing. In addition, it is said that the condition limiting occupation “for a maximum period of ten calendar months over a period of one year” is irrational. Either the rooms are or are not suitable to be used as sleeping accommodation all the year round. </a></p><a name="para29">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Nottingham objects that the condition that the attic rooms be occupied for only ten months over the course of a year could not practicably be monitored. It also maintains that while it is possible to ensure that occupants are all in full-time education, that requirement cannot in practice be enforced. </a></p><a name="para30">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Secretary of State has taken no position on this ground of appeal. </a></p><a name="para31">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Chamberlain submits that, while not all students live in the same way, the proxy employed by the condition is sufficiently precise. Moreover, the First-tier Tribunals which heard the initial appeals were well placed to judge whether cohesive living was the norm among students in the area where the properties were located. With regard to enforceability, he takes issue with Nottingham. </a></p><a name="para32">
+ <p class="ParaHeading">Discussion </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I agree with the Court of Appeal that the conditions imposed by the Tribunals were deficient in that they failed to require any part of the HMO to be available for communal living and did not require the bedrooms other than the front attic bedrooms to be let to students. That deficiency is, however, cured by the further conditions introduced by the Court of Appeal. </a></p><a name="para33">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The reasoning of the First-tier Tribunals and the Upper Tribunal in this case makes clear that the intention was to restrict occupation to students because they were considered to be a category of occupants who were likely to live in a cohesive manner. In the Upper Tribunal the Deputy President observed that by “cohesive living” the First-tier Tribunal clearly had in mind “the level of shared activity and social interaction to be expected in a ‘shared-house’ or ‘Category B’ HMO, as described at greater length in the policy documents of other local authorities”. The first issue for consideration under this ground is therefore, as Mr Chamberlain put it, whether a condition limiting the occupation of each of the houses to occupation by persons engaged in full-time education is a sufficiently precise proxy for occupation by persons living together cohesively. </a></p><a name="para34">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>All students are individuals and their respective activities and life-styles will, no doubt, vary considerably. Nevertheless, it does seem to me that the normal state of affairs generally to be expected when students share a student house is that there will be a high level of social activity and social interaction among them and that they will all make extensive use of the shared living facilities. There can be no guarantee that any given student occupier will make full use of the shared facilities, but the availability of such facilities, emphasised by the Court of Appeal, coupled with the normal expectation of cohesive living in a student house makes it reasonable to adopt this proxy in this context. It is also significant that the members of the First-tier Tribunals in these cases, with their experience of student accommodation in Nottingham, considered this a reasonable approach. While I agree with the Deputy President of the Upper Tribunal that an alternative condition, perhaps more closely reflecting its rationale, might require that all occupants be members of a group who intend to share the communal living space, the proxy adopted is sufficiently precise. Moreover, the alternative might give rise to difficulties of enforcement. </a></p><a name="para35">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The requirement that the attic rooms may only be occupied for ten months in each year was clearly intended to reinforce the requirement that occupation be by full-time students. If the latter requirement is lawful, the former is strictly unnecessary. I consider that the requirement limiting occupation to ten months in each year is irrational. If a room is suitable for occupation for sleeping for ten months in the year, it is suitable for such occupation for the entire year. Moreover, full-time students often require accommodation for the entire year. In these circumstances, it is unnecessary to consider whether this requirement is enforceable. I would vary the conditions imposed in respect of each property to delete the requirement that the attic rooms may only be occupied for ten months in each year. </a></p><a name="para36">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Finally, it is said on behalf of Nottingham that while it is possible to ensure that occupants are all in full-time education, it is not in practice possible to enforce the requirement. Nottingham points to the 12 months assured shorthold tenancy agreements employed by the respondents. Each requires the tenant to “ensure that the property’s strict purpose as a set of lets to students of the University is not prejudiced” and also contains a clause which entitles the landlord to re-enter if the tenant ceases to be a student of the university. However, Nottingham draws attention to the practical difficulties of evicting a tenant in these circumstances which, it is said, would make it practically impossible to enforce the conditions in the way envisaged by the legislation. I note that if a landlord tries but fails to evict tenants who have ceased to be full-time students, for example because the court considers it unreasonable to make the order, the landlord may well have a reasonable excuse for permitting the occupants to remain and a defence under section 72(5) of the 2004 Act to the offence of failing to comply with the licence condition. However, the sanction of revocation of the licence will be available which, in itself, should be a sufficient sanction. </a></p><a name="para37">
+ <p class="ParaHeading"> <u> <span style="font-style:normal">Conclusion </span> </u></p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For these reasons, and subject to the deletion of the requirement of occupation for only ten months in each year, I consider that the conditions imposed by the Tribunals and the Court of Appeal, considered cumulatively, in respect of 44, Rothesay Avenue and 50, Bute Avenue, respectively, were entirely lawful. Accordingly, I would vary the conditions to delete the requirement of occupation for only ten months in each year but would otherwise dismiss the appeal. </a></p><a name="para38"> </a></div><a name="para38"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/51.html</i>
+</small>
+<p></p>
+
+ 
+
+
+</body></html>

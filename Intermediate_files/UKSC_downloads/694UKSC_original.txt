@@ -1,0 +1,1529 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>RR v Secretary of State for Work and Pensions [2019] UKSC 52 (13 November 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	border:none;
+	padding:0cm;
+	font-size:18.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	font-weight:normal;}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	font-weight:normal;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;
+	font-weight:normal;}
+h4
+	{mso-style-link:"Heading 4 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Calibri Light","sans-serif";
+	font-weight:normal;}
+h5
+	{mso-style-link:"Heading 5 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Calibri Light","sans-serif";
+	font-weight:normal;
+	font-style:italic;}
+h6
+	{mso-style-link:"Heading 6 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-link:"Heading 7 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;
+	font-style:italic;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-link:"Heading 8 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-link:"Heading 9 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;
+	font-style:italic;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	color:#404040;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-link:"Subtitle Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	font-size:15.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-link:"Intense Quote Char";
+	margin-right:43.2pt;
+	margin-bottom:12.0pt;
+	margin-left:43.2pt;
+	text-align:center;
+	line-height:110%;
+	font-size:14.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#5B9BD5;}
+span.MsoSubtleEmphasis
+	{color:#595959;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleReference
+	{font-variant:small-caps;
+	color:#404040;}
+span.MsoIntenseReference
+	{font-variant:small-caps;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoBookTitle
+	{font-variant:small-caps;
+	font-weight:bold;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	border:none;
+	padding:0cm;
+	font-size:18.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-link:"Heading 4";
+	font-family:"Calibri Light","sans-serif";}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-link:"Heading 5";
+	font-family:"Calibri Light","sans-serif";
+	font-style:italic;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-link:"Heading 6";
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;}
+span.Heading7Char
+	{mso-style-name:"Heading 7 Char";
+	mso-style-link:"Heading 7";
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;
+	font-style:italic;}
+span.Heading8Char
+	{mso-style-name:"Heading 8 Char";
+	mso-style-link:"Heading 8";
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;}
+span.Heading9Char
+	{mso-style-name:"Heading 9 Char";
+	mso-style-link:"Heading 9";
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;
+	font-style:italic;}
+p.Title2, li.Title2, div.Title2
+	{mso-style-name:Title2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	line-height:110%;
+	font-size:13.0pt;
+	font-family:"Calibri","sans-serif";
+	font-weight:bold;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-link:Title;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-link:Subtitle;
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+span.IntenseQuoteChar
+	{mso-style-name:"Intense Quote Char";
+	mso-style-link:"Intense Quote";
+	font-family:"Calibri Light","sans-serif";
+	color:#5B9BD5;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      RR v Secretary of State for Work and Pensions [2019] UKSC 52 (13 November 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/52.html</i>
+<br>Cite as: 
+[2020] 2 All ER 477,
+
+[2019] WLR 6430,
+
+[2019] UKSC 52,
+
+[2019] WLR(D) 638,
+
+[2019] 1 WLR 6430,
+
+[2020] HLR 8,
+
+(2020) 171 BMLR 37
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/52.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2019000845/casereport_7d39084a-b44c-4e28-a0aa-feb7e58f2872/html">[2019] WLR(D) 638</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2019000845/casereport_2a121e51-678a-4761-b8d0-3095929687cd/html">[2019] 1 WLR 6430</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/52.image.pdf"><h2>Summary</h2></a></center><br><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" style="text-align:justify"><b><span style="font-size:13.0pt;
+font-family:&quot;Garamond&quot;,&quot;serif&quot;;color:red">THE COURT ORDERED that no one shall
+publish or reveal the name or address of the Appellant who is the subject of
+these proceedings or publish or reveal any information which would be likely to
+lead to the identification of the Appellant or of any member of his family in
+connection with these proceedings.</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 52</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/uk/cases/UKUT/AAC/2018/355.html">[2018] UKUT 355 (AAC)</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">RR
+  (Appellant) <i>v</i> Secretary of State for Work and Pensions (Respondent)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Arden</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">13 November 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 3 July 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Richard Drabble QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Sir James Eadie QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Matthew Fraser</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Edward Brown</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Leigh
+  Day)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener (1)</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Dan Squires QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Chris Buttler</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Equality
+  and Human Rights Commission (Manchester))</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Interveners (2)</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Martin Chamberlain
+  QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Tom Royston</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jennifer MacLeod</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Herbert
+  Smith Freehills LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><u>Interveners:</u></b></p>
+
+<p class="MsoNormal">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Equality and Human Rights Commission</p>
+
+<p class="MsoNormal">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Liberty, Child Poverty Action Group and Public
+Law Project</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LADY HALE: <span style="text-transform:none">(with whom Lord
+Reed, Lady Black, Lord Briggs and Lady Arden agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 9 November 2016, this Court handed down judgment in the series of
+cases collectively reported as <i>R (Carmichael) v Secretary of State for Work
+and Pensions</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/58.html">[2016] UKSC 58</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/58.html">[2016] 1 WLR 4550</a> (“<i>Carmichael (SC)</i>”).
+This was a judicial review of the regulations governing the removal of the
+spare room subsidy, otherwise known as the “bedroom tax”. Regulation B13 of the
+Housing Benefit Regulations 2006 (first introduced in 2013) required a
+percentage reduction in the eligible rent for social sector housing if the
+number of bedrooms in the property exceeded the number defined by regulation
+B13(5) and (6) as appropriate for the size of the household living there. This
+Court held that where there was “a transparent medical need for an additional
+bedroom” not catered for in regulation B13(5) and (6) there was unjustified
+discrimination on the ground of disability and thus a violation of the
+claimant’s rights under article 14 read with article 8 of the European
+Convention on Human Rights. Mrs Carmichael could not share a bedroom with her
+husband because of her disabilities, but whereas the regulation catered for
+children who could not share a bedroom for that reason, it did not cater for a
+couple who could not do so. Mr and Mrs Rutherford cared for their grandson who
+needed an overnight carer because of his disabilities, but whereas the
+regulation catered for adults who needed an overnight carer, it did not cater
+for children who did so. In both cases, the relief granted was a declaration
+that the claimant had suffered discrimination contrary to article 14 of the
+Convention: see <i>Carmichael (SC)</i> above and <i>R (Rutherford) v Secretary
+of State for Work and Pensions</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/29.html">[2016] EWCA Civ 29</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/29.html">[2016] HLR 8</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 2 March 2017, the Secretary of State for Work and Pensions laid
+before Parliament the Housing Benefit and Universal Credit (Size Criteria)
+(Miscellaneous Amendments) Regulations 2017 (SI 2017/213) which were intended
+to cater for the two instances in which this Court had held that the previous
+version of regulation B13(5) and (6) led to violations of a Convention right.
+They came into effect on 1 April 2017 and were not retrospective.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principal issue in this case is the effect of this Court’s decision
+in <i>Carmichael (SC)</i> upon the decision-makers in the housing benefit
+system - the local authorities, responsible for the payment of housing benefit,
+and the First-tier Tribunal (“FTT”) and the Upper Tribunal (“UT”) hearing
+appeals from local authority decisions - in claims relating to periods before
+the regulations were amended. Do they have to carry on applying the regulation
+in its original form? Or do they have to calculate housing benefit without
+making the percentage deduction in cases where to do so will breach the
+Convention rights of the claimants in the way determined in the <i>Carmichael</i>
+and <i>Rutherford</i> cases? This is an important constitutional question.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A secondary issue is whether, if the housing benefit is to be calculated
+without the percentage deduction in such cases, account should be taken of any
+discretionary housing payments (“DHPs”) received by the claimant during the
+period in question.</a></p><a name="para4">
+
+<p class="ParaHeading">The history</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant, RR, lives with his severely disabled partner in a two-bedroomed
+rented social housing property for which he claims housing benefit. The
+respondent local authority, Sefton Borough Council, applied regulation B13 and
+decided that, because they were a couple, they were only entitled to one
+bedroom and so applied the 14% discount required by regulation B13(3)(a) with
+effect from 1 April 2013. RR appealed to the FTT. On 15 August 2014, the FTT
+found as a fact that RR and his partner required separate bedrooms because of
+her disabilities and her need to accommodate medical equipment and supplies.
+Sefton accepted that, as her primary carer, RR needed to be able to get a
+night’s sleep. The FTT further held that RR had suffered discrimination as
+between a member of a couple with a disability and a member of a couple without
+disability which could not be objectively and reasonably justified. To avoid
+this discrimination, the FTT held, applying the interpretative obligation in
+section 3(1) of the Human Rights Act 1998 (“the HRA”), that regulation
+B13(5)(a) should be read so as to apply either to a couple or to one member of
+a couple who could not share a bedroom because of the disability of one of
+them.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Meanwhile, in parallel to the judicial review proceedings which
+culminated in this Court’s decision in <i>Carmichael (SC)</i>, Mr Carmichael
+had appealed to the FTT against the local authority’s decision that his housing
+benefit entitlement should be reduced by 14%. The FTT allowed his appeal on a
+similar basis to that on which it had allowed the appeal of RR. The Secretary
+of State’s appeals against both decisions were stayed until the outcome of <i>Carmichael
+(SC) </i>was known. Both stays were lifted in January 2017.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Carmichael’s appeal was determined by the UT in April 2017: <i>Secretary
+of State for Work and Pensions v Carmichael</i> </a><a title="Link to BAILII version" href="/uk/cases/UKUT/AAC/2017/174.html">[2017] UKUT 174 (AAC)</a> (“<i>Carmichael
+(UT)</i>”). The UT held that the FTT’s reading of regulation B13(5)(a) was
+impermissible but nevertheless reached the same result by holding that Mr
+Carmichael’s housing benefit was to be calculated without making the 14%
+deduction because to make it would be a clear breach of his Convention rights,
+contrary to section 6(1) of the HRA.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Secretary of State appealed the <i>Carmichael</i> <i>(UT)</i>
+decision to the Court of Appeal and that Court stayed the appeal in <i>RR </i>and
+some 130 other cases (referred to as the “Carmichael/Rutherford lookalike
+cases”) pending the outcome of that appeal. The Court of Appeal gave judgment
+on 20 March 2018: <i>Secretary of State for Work and Pensions v Carmichael </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/548.html">[2018] EWCA Civ 548</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/548.html">[2018] 1 WLR 3429</a> (“<i>Carmichael (CA)</i>”). The appeal was
+allowed. The majority (Sir Brian Leveson PQBD and Flaux LJ) held that the UT
+did not have power to direct as it did, as this would amount to an
+impermissible rewording of the regulation: any remedy for the violation of
+Convention rights was to be found in an action for damages under section 8(2)
+of the HRA. Leggatt LJ dissented: he would have held that the UT did have power
+to do what it did. However, he also held that the UT had erred in not taking
+into account the DHPs that Mr Carmichael had received. So the Court was
+unanimous in allowing the Secretary of State’s appeal. Mr Carmichael has not
+appealed to this Court. Nevertheless, this case is effectively a challenge to
+that decision.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The stay on the Secretary of State’s appeal to the UT in the case of <i>RR
+</i>(and another) was lifted on 4 May 2018. RR accepted that the UT was bound
+by <i>Carmichael (CA) </i>to allow the appeal, which by a decision dated 28
+August 2018, it duly did: <i>Secretary of State for Work and Pensions v RR and
+Sefton Borough Council </i></a><a title="Link to BAILII version" href="/uk/cases/UKUT/AAC/2018/355.html">[2018] UKUT 355 (AAC)</a>. The UT also commented that it
+seemed “eminently arguable” the problem of double payment, identified by
+Leggatt LJ, could be overcome by reason of regulation 8(2)(b) of the
+Discretionary Financial Assistance Regulations 2001 (SI 2001/1167).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The UT granted RR a “leapfrog certificate” under section 14A of the
+Tribunals, Courts and Enforcement Act 2007, enabling him to appeal directly
+from the UT to this Court (leapfrogging the Court of Appeal) if given
+permission to do so. This Court granted permission on 11 February 2019.</a></p><a name="para10">
+
+<p class="ParaHeading">The evolution of regulation B13</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In its original form, introduced by the Housing Benefit (Amendment)
+Regulations (SI 2012/3040), regulation 5(7), the relevant parts of regulation
+B13 read as follows:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The maximum rent (social
+sector) is determined in accordance with paragraphs (2) to (4).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </i>The relevant
+authority must determine a limited rent by -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; determining the amount
+that the claimant’s eligible rent would be in accordance with regulation 12B(2)
+…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where the number of
+bedrooms in the dwelling exceeds the number of bedrooms to which the claimant
+is entitled in accordance with paragraph (5), reducing that amount by the
+appropriate percentage set out in paragraph (3); …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The appropriate
+percentage is -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14% where the number of
+bedrooms in the dwelling exceeds by one the number of bedrooms to which the
+claimant is entitled; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25% where the number of<span style="font-size:15.0pt"> </span>bedrooms in the dwelling exceeds by two or
+more the number of bedrooms to which the claimant is entitled.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The claimant is entitled
+to one bedroom for each of the following categories of person whom the relevant
+authority is satisfied occupies the claimant’s dwelling as their home (and each
+person shall come within the first category only which is applicable) -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a couple (within the
+meaning of Part 7 of the Act);</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a person who is not a
+child;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; two children of the
+same sex;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; two children who are
+less than ten years old;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a child,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">and one additional bedroom in any
+case where the claimant or the claimant’s partner is a person who requires
+overnight care (or in any case where each of them is).”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first amendment (made by SI 2013/665), which came into force on the
+same day that the regulation came into force, 1 April 2013, repealed the tailpiece
+to paragraph (5) and incorporated it in a new paragraph (6) as follows:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(6)&nbsp;&nbsp;&nbsp;&nbsp; The claimant is entitled
+to one additional bedroom in any case where -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the claimant or the
+claimant’s partner is (or each of them is) a person who requires overnight care;
+or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the claimant or the
+claimant’s partner is (or each of them is) a qualifying parent or carer.”</p>
+
+</a><p class="ParaNoNumber"><a name="para12">A “person who requires overnight care” was defined in
+regulation 2(1) in terms which had the effect of not including any child. The
+inclusion of claimants or their partners who required overnight care in the
+original and amended regulation was as a result of the decision of the Court of
+Appeal in <i>Burnip v Birmingham City Council </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/629.html">[2012] EWCA Civ 629</a>; <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/629.html">[2013] PTSR 117</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The next amendment (made by SI 2013/2828 in December 2013) added to the
+list in paragraph (5):</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(ba)&nbsp;&nbsp; a child who cannot share a
+bedroom;”</p>
+
+<p class="ParaNoNumber">This was as a result of the decision of the Court of
+Appeal in <i>Gorry v Wiltshire County Council</i>, decided at the same time as <i>Burnip</i>
+and reported with it. The category of adults whose disabilities might count for
+the purpose of paragraph (6) was also expanded to include people responsible
+for the rent and their partners.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus it will be seen that, by the time of <i>Carmichael (SC)</i>,<i> </i>the
+regulation catered for children who could not share a bedroom but not for
+members of a couple who could not do so. It also catered for adults who needed
+overnight care but not for children who needed it. It was in those two respects
+that the regulation was held discriminatory by this Court and the third
+amendment (made by SI 2017/213) was designed to cure them. As the effect of
+those amendments is not in issue in this appeal, and their wording is by no
+means crystal clear, there is no need to prolong this judgment by quoting them.</a></p><a name="para14">
+
+<p class="ParaHeading">The arguments on the principal issue</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Richard Drabble QC, who appears for the appellant, does not argue
+that regulation B13 is ultra vires. Rather, he argues that it is unlawful for
+the local authority, the FTT and the UT to apply the deduction mandated by
+regulation B13(2)(b) and (3) in breach of the appellant’s Convention rights.
+Under section 6(1) of the HRA, “It is unlawful for a public authority to act in
+a way which is incompatible with a Convention right”. A local authority is
+undoubtedly a public authority for this purpose. Further, by virtue of section
+6(3)(a), a “public authority” includes a court or tribunal. It is therefore
+unlawful for a local authority, the FTT, the UT, or indeed the Court of Appeal
+or this Court, to make or uphold an award which is incompatible with the
+claimant’s Convention rights.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This would not be the case if the decision were mandated by primary
+legislation. Section 6(2)(a) of the HRA provides that subsection (1) does not
+apply to an act if “as the result of one or more provisions of primary
+legislation, the authority could not have acted differently”. But the
+regulation is not primary legislation. Nor does primary legislation require
+that the regulation take the form that it does: it has subsequently been
+amended with a view to curing the incompatibility found in <i>Carmichael (SC)</i>.
+Thus section 6(2)(b) is also inapplicable. This provides that subsection (1)
+does not apply to an act if “in the case of one or more provisions of, or made
+under, primary legislation which cannot be read and given effect in a way which
+is compatible with the Convention rights, the authority was acting so as to
+give effect to or enforce those provisions”. The regulation is not primary
+legislation and, although made under primary legislation, the enabling Act does
+not mandate a regulation which, in some respects, was incompatible with a
+Convention right.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under section 7(1)(b) of the HRA, “A person who claims that a public
+authority has acted (or proposes to act) in a way which is made unlawful by
+section 6(1), may rely on the Convention right or rights concerned in any legal
+proceedings”. Hence the appellant did not have to bring separate, free-standing
+proceedings to claim a remedy for a breach of his Convention rights. He could
+rely on it in the tribunal proceedings. The authority, and the tribunals,
+should have made an award of housing benefit without the 14% reduction which,
+in the light of the FTT’s findings of fact, was incompatible with the
+appellant’s Convention rights.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Drabble is able to pray in aid at least two decisions at the level of
+this Court which support that analysis. Closest to it is <i>Mathieson v
+Secretary of State for Work and Pensions</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/47.html">[2015] UKSC 47</a>;<i> </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/47.html">[2015] 1 WLR 3250</a>. The regulations governing entitlement to disability living allowance (“DLA”)
+suspended the entitlement of a child under 16 after the first 84 days of free
+in-patient treatment in an NHS hospital. This Court held that, in the
+circumstances of that case, to suspend entitlement was a violation of the
+child’s Convention rights under article 14 read with article 1 of the First
+Protocol. The Secretary of State was not obliged by any provision of primary
+legislation to suspend payment; thus he had acted unlawfully under section 6(1)
+of the HRA in deciding to do so. The FTT should have allowed the child’s appeal
+against that decision and substituted a decision that he was entitled to
+continued payment of DLA from the date when it was suspended until the date
+when it was reinstated. This Court allowed the child’s appeal and made the
+order which the FTT should have made.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Significantly, the Court declined to make a declaration that the
+Secretary of State had violated the child’s rights. In a statutory appeal such
+as this, the FTT, UT and Court of Appeal had no power to make a formal
+declaration: see sections 12(4) and 14(4) of the Tribunals, Courts and
+Enforcement Act 2007. Even if the powers of this Court were wider, to make a
+declaration would add nothing to the substantive order made by the Court.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court also declined to use the interpretative obligation in section
+3(1) of the HRA, to read the regulations relating to suspension so as not to
+apply to children. Section 3(1) requires that “So far as it is possible to do
+so, primary legislation and subordinate legislation must be read and given
+effect in a way which is compatible with the Convention rights”. Lord Wilson
+did not think that possible in that case. But in any event, the 84-day rule
+would not always or inevitably be in breach of a child’s Convention rights:
+much would depend upon the circumstances of the individual case.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Mathieson</i> approach had previously been applied in a number of
+other benefit cases. In <i>Francis v Secretary of State for Work and Pensions </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2005/1303.html">[2005] EWCA Civ 1303</a>;<i> </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2005/1303.html">[2006] 1 WLR 3202</a>, the regulations governing entitlement
+to a maternity grant were held incompatible with the Convention rights of a
+woman who had obtained a residence order giving her parental responsibility for
+her sister’s baby son, because they treated the holder of a residence order less
+favourably that the holder of an adoption order. The remedy was not to construe
+the regulations in her favour but to make a declaration that she was entitled
+to the maternity grant. In <i>Burnip v Birmingham City Council</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/629.html">[2012] EWCA Civ 629</a>; <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/629.html">[2013] PTSR 117</a>, mentioned earlier, the Court of Appeal remitted each
+case where a violation had been found to the local authority for the decision
+to be remade in accordance with the Court of Appeal’s judgment. Each claimant
+was entitled to such further sum as was necessary to comply with the judgment
+and article 14. As Leggatt LJ explained in <i>Carmichael (CA)</i>, at para 94,
+“Thus, the Court of Appeal treated the Housing Benefit Regulations as having no
+effect in the three individual cases before them insofar as applying the
+Regulations in calculating the claimants’ entitlement to housing benefit
+violated their Convention rights by treating them as under-occupying their
+accommodation.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A further example of the application of the same approach, albeit in a
+rather different context, is the decision of the House of Lords in <i>In re G
+(Adoption: Unmarried Couple) </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2008/38.html">[2008] UKHL 38</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2008/38.html">[2009] AC 173</a>. Article 14 of
+the Adoption (Northern Ireland) Order 1987 (SI 1987/2203) provided that an
+adoption order could only be made in favour of more than one person if they
+were married to one another. The House of Lords held that this discrimination
+between married and unmarried couples was irrational and in breach of article
+14 read with article 8 of the Convention. The remedy was a declaration that
+this particular couple were entitled to apply to adopt the child. Had the Order
+been primary legislation, the courts would have been bound to give effect to
+it: the most they would have done was to make a declaration of incompatibility
+under section 4 of the HRA. But, at para 116, it was explained that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The courts are free simply to
+disregard subordinate legislation which cannot be interpreted or given effect
+in a way which is compatible with the Convention rights. Indeed, in my view,
+this cannot be a matter of discretion. Section 6(1) requires the court to act
+compatibly with the Convention rights if it is free to do so.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A more recent example of the same approach is <i>JT v First-tier
+Tribunal </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/1735.html">[2018] EWCA Civ 1735</a>;<i> </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/1735.html">[2019] 1 WLR 1313</a>. This concerned a
+rule in the criminal injuries compensation scheme which barred victims who had
+suffered injury before 1979 from making a claim if at the time of the injury
+they were living under the same roof as the perpetrator. The Court of Appeal
+held that this was incompatible with article 14 read with article 1 of the First
+Protocol and granted a declaration that the claimant was not prevented by the
+rule from being paid an award of compensation under the scheme. As Leggatt LJ
+explained, at para 122:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Where, as here, a provision of
+subordinate legislation cannot be given effect in a way which is compatible
+with a Convention right and there is no primary legislation which prevents
+removal of the incompatibility, the court’s duty under section 6(1) is to treat
+the provision as having no effect, as to give effect to it would be unlawful.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Against that, Sir James Eadie QC, for the Secretary of State, accepts
+that the regulation was incompatible in the respects identified in <i>Carmichael
+(SC)</i>, and that it could not be interpreted under section 3(1) of the HRA in
+a way which avoided that incompatibility. No-one sought to defend the FTT’s
+rewriting of the regulation so as to add words in. It was the size criteria
+rather than the 14% deduction which gave rise to the incompatibility. Rectifying
+that would require rewriting the regulation, which could be done in a variety
+of ways. It was not for the local authority or the tribunals to redesign the
+legislative scheme so as to render it compatible with the Convention rights.
+That would be constitutionally inappropriate, usurping the role of the
+legislator. It was also outside their statutory powers.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He did not accept that <i>Mathieson </i>represented a consistent line of
+authority that incompatible provisions in subordinate legislation could simply
+be ignored. It was a case in which a specific finding was made that could be
+dealt with as an individual case, not a structural problem as in this case. The
+court declined to go further and did not address the constitutional problems of
+what it had done.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Further, he argues that to allow the tribunals to disapply the
+regulation would be to cut across the provisions of the HRA relating to
+damages. Section 8(1) of the HRA provides that “In relation to any act (or
+proposed act) of a public authority which the court finds is (or would be)
+unlawful, it may grant such relief or remedy, or make such order, within its
+powers as it considers just and appropriate”. Section 8(2) provides that
+“damages may be awarded only by a court which has power to award damages, or to
+order payment of compensation, in civil proceedings”. Making an award of
+housing benefit without the deduction would be tantamount to making an award of
+damages or compensation which the tribunals have no power to do. Thus, if there
+has been a violation of the Convention rights, the correct remedy is a
+free-standing application, under section 7(1)(a) of the HRA, to a court which
+does have power to award damages.</a></p><a name="para26">
+
+<p class="ParaHeading">Conclusions on the principal issue</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the majority of the Court of Appeal in <i>Carmichael (CA)</i> accepted
+the arguments of the Secretary of State, in my view Leggatt LJ was entirely
+right to accept the arguments of the appellant. There is nothing
+unconstitutional about a public authority, court or tribunal disapplying a
+provision of subordinate legislation which would otherwise result in their
+acting incompatibly with a Convention right, where this is necessary in order
+to comply with the HRA. Subordinate legislation is subordinate to the
+requirements of an Act of Parliament. The HRA is an Act of Parliament and its
+requirements are clear.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The HRA draws a clear and careful distinction between primary and
+subordinate legislation. This is shown, not only by the provisions of section
+6(1) and 6(2) which have already been referred to, but also by the provisions
+of section 3(2). This provides that the interpretative obligation in section
+3(1):</a></p><a name="para28">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; applies to primary and
+subordinate legislation whenever enacted;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; does not affect the
+validity, continuing operation or enforcement of any incompatible primary
+legislation; and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; does not affect the
+validity, continuing operation or enforcement of any incompatible subordinate
+legislation if (disregarding any possibility of revocation) primary legislation
+prevents the removal of the incompatibility.”</p>
+
+<p class="ParaNoNumber">Once again, a clear distinction is drawn between primary
+and subordinate legislation.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The obligation in section 6(1), not to act in a way which is
+incompatible with a Convention right, is subject to the exception in section
+6(2). But this only applies to acts which are required by primary legislation.
+If it had been intended to disapply the obligation in section 6(1) to acts
+which are required by subordinate legislation, the HRA would have said so.
+Again, under section 3(2), primary legislation which cannot be read or given
+effect compatibly with the Convention rights must still be given effect, as
+must subordinate legislation if primary legislation prevents removal of the
+incompatibility. If it had been intended that the section would not affect the
+validity, continuing operation or enforcement of incurably incompatible
+subordinate legislation, where there was no primary legislation preventing
+removal of the incompatibility, the HRA would have said so.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Contrary to the Secretary of State’s argument, <i>Mathieson </i>was not
+a “one off”. As shown by the authorities listed in paras 21 to 23 above, the
+courts have consistently held that, where it is possible to do so, a provision
+of subordinate legislation which results in a breach of a Convention right must
+be disregarded. There may be cases where it is not possible to do so, because
+it is not clear how the statutory scheme can be applied without the offending
+provision. But that was not the case in <i>Francis</i>, where the maternity
+grant could be paid to the holder of a residence order who qualified for it in
+all other respects; nor was it the case in<i> In re G</i>, where the unmarried
+couple could be allowed to apply to adopt (in reaching my Opinion, I satisfied
+myself that this would not cause problems elsewhere in the statutory scheme);
+nor was it the case in <i>Burnip </i>and <i>Gorry</i>, where housing benefit
+could simply be calculated without making the deduction for under-occupation;
+nor was it the case in <i>Mathieson</i>, where DLA could simply continue to be
+paid during the whole period of hospitalisation; nor was it the case in <i>JT</i>,
+where criminal injuries compensation could be paid without regard to the “same
+roof” rule; and nor is it the case here, where the situation is on all fours
+with <i>Burnip </i>and <i>Gorry</i>. There is no legislative choice to be exercised.
+As Dan Squires QC, for the Equality and Human Rights Commission, put it, where
+discrimination has been found, a legislator may choose between levelling up and
+levelling down, but a decision-maker can only level up: if claimant A is
+entitled to housing benefit of £X and claimant B is only entitled to housing
+benefit of £X-Y, and the difference in treatment is unjustifiably
+discriminatory, the decision-maker must find that claimant B is also entitled
+to benefit of £X.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Secretary of State did suggest that the incompatibility could not be
+cured in the same way for houses rented in the private sector, because the
+amount of housing benefit is calculated in a different way under regulation
+13D, although the same size criteria are applied. That situation is not before
+us and we have not heard proper argument upon it, but I would be surprised if
+an equivalent calculation could not be made, so as to place <i>Carmichael </i>and
+<i>Rutherford </i>type claimants in the same position as <i>Burnip </i>and <i>Gorry
+</i>type claimants.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As that great judge, Lord Bingham of Cornhill, put it in <i>Attorney
+General’s Reference (No 2 of 2001)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2003/68.html">[2003] UKHL 68</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2003/68.html">[2004] 2 AC 72</a>, 92, “I
+cannot accept that it can ever be proper for a court, whose purpose is to
+uphold, vindicate and apply the law, to act in a manner which a statute (here,
+section 6 of the Human Rights Act 1998) declares to be unlawful”.</p>
+
+<p class="ParaHeading">The secondary issue</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question of whether any DHPs received by the appellant should be
+deducted from the housing benefit to which he is entitled as a result of this
+decision can be dealt with shortly, as the parties are agreed as to the
+position. The initial decision which is under appeal to this Court was made by
+the local authority on 5 March 2013, applying the size criteria which were to
+come into force on 1 April 2013. At that stage no question of DHPs could have
+arisen. The appeal against that decision was heard a year later. The task of
+the FTT was to decide whether the local authority’s decision was correct. As a
+Tribunal of Social Security Commissioners, presided over by His Honour Judge
+Hickinbottom put it in <i>R (IB) 2/04</i> (unreported) 21 January 2004, at para
+25:</a></p><a name="para33">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Taking the simple case of an
+appeal against a decision on an initial claim, in<b> </b>our view the appeal
+tribunal has power to consider any issue and make any decision on the claim
+which the decision-maker could have considered and made. The appeal tribunal in
+effect stands in the shoes of the decision-maker for the purpose of making a
+decision on the claim.”</p>
+
+<p class="ParaNoNumber">In deciding a housing benefit appeal, the FTT is not
+permitted to take into account any circumstances not obtaining at the time when
+the decision appealed against was made: Child Support, Pensions and Social
+Security Act 2000, Schedule 7, paragraph 6(9). The task of the UT was the same.
+In remaking the decision having set aside the decision of the FTT, it has power
+to make any decision which the FTT could make if the FTT were remaking the
+decision: Tribunals, Courts and Enforcement Act 2007, section 12(4).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus, neither the initial decision-maker in the local authority, nor the
+FTT on appeal, nor the UT on appeal, was concerned with anything other than
+entitlement to housing benefit. They were not concerned with DHPs and had no
+power to take them into account. Indeed, the Secretary of State relied upon
+this fact to bolster the argument that an award of damages under section 8 of
+the HRA was a more appropriate remedy than applying section 6, because such an
+award could take DHPs into account. But we are concerned with whether the
+initial decision was correct and in my view it was not. It is for the local
+authority to consider whether there are any steps which they can take to
+recover any DHPs and if there are whether they wish to take them.</a></p><a name="para34">
+
+<p class="ParaHeading">Final conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would allow this appeal. I would make the same order as the UT made in
+<i>Carmichael (UT) </i>that (1) the appeal against the local authority’s
+decision of 5 March 2013 is allowed; and (2) that RR’s housing benefit
+entitlement is to be recalculated without making the under-occupancy deduction
+of 14%. The reason for doing so is the same as that which the UT gave: “if the tribunal
+or the council were to apply this deduction there would be a clear breach of
+[RR’s] Convention rights, contrary to section 6(1) of the Human Rights Act 1998
+(<i>R (Carmichael) v Secretary of State for Work and Pensions </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/58.html">[2016] UKSC 58</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/58.html">[2016] 1 WLR 4550</a>).”</p>
+
+</div>
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/52.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

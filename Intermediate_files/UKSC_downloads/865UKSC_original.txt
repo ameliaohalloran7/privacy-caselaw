@@ -1,0 +1,493 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>London Borough of Merton Council v Nuffield Health [2023] UKSC 18 (07 June 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:Gisha;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:18.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" link="#0563C1" vlink="#954F72" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      London Borough of Merton Council v Nuffield Health [2023] UKSC 18 (07 June 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/18.html</i>
+<br>Cite as: 
+[2023] UKSC 18,
+
+[2023] 3 WLR 13,
+
+[2023] RA 301,
+
+[2023] 3 All ER 871
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/18.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2021002582/casereport_7f4b82a1-e438-49ac-806a-a8b2d8b4defd/html">[2023] 3 WLR 13</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/18.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/18.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>Trinity Term</b></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>[2023] UKSC 18</b></p>  
+
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/826.html">[2021] EWCA Civ 826</a></i></p>  
+
+<p class="JudgmentTitle">JUDGMENT</p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">London Borough of Merton Council (Appellant)</span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">&nbsp;<i>v</i> </span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">Nuffield Health (Respondent)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Briggs</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Kitchin</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Sales</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hamblen</p>  
+
+<p class="JudgmentJudges">Lord Leggatt</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">7 June 2023</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges">Heard on 7 and 8 March 2023</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>Appellant</i></a></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">James Goudie KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Jonathan Fowles</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Cain Ormondroyd</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by South London Legal Partnership)</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Daniel Kolinsky KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Matthew Smith</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by BDB Pitmans LLP (London))</p>  
+
+<p class="JudgmentAppRespInt">&nbsp;</p>  
+
+<p class="JudgmentAppRespInt"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">Lord briggs and Lord Sales (</a><span style="text-transform:none">with whom Lord Kitchin, Lord Hamblen and Lord Leggatt agree</span>): </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Introduction</span></p> <ol> 
+
+<li value="1"><a name="para1"> &nbsp;Section 43(5) and (6)(a) of the Local Government Finance Act 1988 (“section 43(6)”, for short, and “the LGFA 1988”, respectively) provides for a mandatory 80% relief from business rates where:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“the ratepayer is a charity or trustees for a charity and the hereditament is wholly or mainly used for charitable purposes (whether of that charity or of that and other charities)”.</p>  
+
+<li value="2"><a name="para2"> The respondent Nuffield Health is a registered charity, which operates some 31 hospitals, 112 fitness and wellbeing centres, five medical centres and over 200 further gyms and health assessment facilities in workplaces across the United Kingdom for the purposes described in its Memorandum of Association as follows:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“to advance, promote and maintain health and healthcare of all descriptions and to prevent, relieve and cure sickness and ill health of any kind, all for the public benefit.”</p>  
+
+<li value="3"><a name="para3"> One of those fitness and wellbeing centres is a members-only gym known as Merton Abbey, located in the London Borough of Merton, the council of which is the appellant (“Merton”). Merton took the view that, viewed on its own, the Merton Abbey gym failed to qualify as being used for charitable purposes because the fees being charged to its members were set at a level which excluded those of modest means from enjoying its facilities. Accordingly the public benefit requirement, which is an invariable condition of charitable status, was not satisfied. 
+</a></li>
+<p> </p>  
+
+<li value="4"><a name="para4"> Nuffield Health challenged that view and succeeded, both at first instance and in the Court of Appeal. The judge (Stuart Isaacs KC) decided first that section 43(6) did not require the question whether the premises were used for charitable purposes to be decided by reference to the activities carried on there alone. Rather, the question was whether Nuffield Health was using the Merton Abbey gym for the pursuit of its charitable purposes, viewed in the context of its charitable activities as a whole. Applying that test Nuffield Health succeeded, even if persons of modest means were excluded from using the facilities at the Merton Abbey gym by reason of the fees charged there. But secondly he decided that, even viewed separately from the rest of Nuffield Health’s activities, and looking only at the activities carried on at the Merton Abbey gym on its own, it satisfied the public benefit requirement because its fees did not in fact exclude persons of modest means. 
+</a></li>
+<p> </p>  
+
+<li value="5"><a name="para5"> The Court of Appeal (David Richards, Peter Jackson and Nugee LJJ) decided by a majority that the judge was right about the first point but unanimously reversed him on the second. The result was that Merton’s appeal was dismissed. In this court Merton has renewed its challenge to the construction of section 43(6), while Nuffield Health maintains that the Court of Appeal ought not to have reversed the judge on the second point. This court has decided that Merton’s appeal on the first point should be dismissed. The second point does not therefore arise and we say nothing more about it. 
+</a></li>
+<p> </p>  
+
+<li value="6"><a name="para6"> The construction of section 43(6) is of course a pure question of law, the outcome of which is not fact-sensitive. Nonetheless we summarise the relevant facts, most of which are either common ground or based on unchallenged evidence, so as to provide some real-life context against which the task of construction can be carried out. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">The Facts</span></p>  
+
+<li value="7"><a name="para7"> Nuffield Health is a company limited by guarantee without share capital. Its purposes are “to advance, promote and maintain health and healthcare of all descriptions and to prevent, relieve and cure sickness and ill health of any kind, all for the public benefit.” Its focus is on the prevention of illness and the maintenance of health, principally through the provision of gym facilities. It also operates private hospitals and clinics, which charge fees. Its approach is to link the promotion of fitness, emotional wellbeing and health education as a means of maintaining good health with the identification, assessment and containment of health risks and the treatment of diagnosed health problems, including rehabilitation following treatment. 
+</a></li>
+<p> </p>  
+
+<li value="8"><a name="para8"> It is common ground that, as the judge found, the purposes of Nuffield Health are, taken together, for the public benefit, as is necessary for it to have charitable status. Also, Merton accepts that the trustees responsible for conducting Nuffield Health’s affairs are acting in accordance with their fiduciary obligations and not in breach of trust. 
+</a></li>
+<p> </p>  
+
+<li value="9"><a name="para9"> Nuffield Health has claimed the mandatory 80% relief under section 43(6) from non-domestic rates in the period from 1 August 2016 onwards, on which date it acquired the Merton Abbey gym from a commercial gym operator, Virgin Active. 
+</a></li>
+<p> </p>  
+
+<li value="10"><a name="para10"> The facilities at the Merton Abbey gym are provided primarily to those with Nuffield Health gym membership. They include a swimming pool, spa pool and sauna; a gym with ancillary rooms for exercise classes and consultations; a crèche available to members’ children only; and car parking for members. As at April 2019, when Nuffield Health issued these proceedings against Merton, the standard fee for membership was £80 per month, or £71 per month if one committed to a longer period of membership.
+</a></li>
+<p> </p>  
+
+<li value="11"><a name="para11"> Certain limited free services are on offer at or through the Merton Abbey gym to non-members, comprising “Health MOTs” (basic health checks) at periodic intervals and for certain groups, “Meet our Experts” events offered about four times a year to provide health advice (together with a one-day gym pass) and a free 15 minute initial consultation with a physiotherapist and free one-month gym membership for those starting treatment. In addition, non-members can pay a fee for physiotherapy services at the gym. Two local schools use the swimming pool weekly during term time for a modest fee.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">The History of the Applicable Law</span></p>  
+
+<li value="12"><a name="para12"> The question of construction raised by this appeal lies on the intersection between two venerable bodies of English law, namely charities and rating. They originated by coincidence in the same session of Parliament at the end of the reign of Queen Elizabeth I in the form of the Charitable Uses Act 1601 (for charities) and the Poor Relief Act 1601 (for rating). It is worth outlining the history of the development of both those streams of law, because it sheds some useful light on the question of construction of the legislation in its present-day form, in the LGFA 1988 and the Charities Act 2011 (“the 2011 Act”).
+</a></li>
+<p> </p>  
+
+<li value="13"><a name="para13"> The law on charities developed from consideration of, in particular, the preamble to the Charitable Uses Act 1601 which set out a long list of purposes which were taken to be charitable. These included the “releife of aged impotent and poore people”, the “maintenance of sicke and maymed Souldiers and Marriners” and to provide “schooles of learninge”. Public benefit, namely benefit to the community or a relevant section of the community, was regarded as inherent in the concept of charity. Over time, this came to be regarded as a separately identified requirement which had to be satisfied before a purpose could qualify as charitable in the eyes of the law. What was meant by public benefit for these purposes was explored and articulated in case-law. The history is traced in detail in the judgment of the Upper Tribunal (Warren J and Judges Alison McKenna and Elizabeth Ovey) in <i>R (Independent Schools Council) v Charity Commission for England and Wales </i></a><a title="Link to BAILII version" href="/uk/cases/UKUT/TCC/2011/421.html">[2011] UKUT 421 (TCC)</a>, <a title="Link to BAILII version" href="/uk/cases/UKUT/TCC/2011/421.html">[2012] Ch 214</a> (“<i>ISC</i>”), paras 42-53, and does not need to be rehearsed here.
+</li>
+<p> </p>  
+
+<li value="14"><a name="para14"> As has been noted in several cases, charity is a legal term of art the definition of which, including the public benefit requirement, does not always accord with the general public understanding of what is and what is not charitable: see, eg, <i>Inland Revenue Comrs v McMullen </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1980/TC_54_413.html">[1981] AC 1</a>, 15 per Lord Hailsham of St Marylebone LC.
+</li>
+<p> </p>  
+
+<li value="15"><a name="para15"> There have been a number of Acts of Parliament dealing with charities. The law relating to charities was comprehensively revised and restated in the Charities Act 2006, which was the legislation under review in the <i>ISC </i>case. That has now been replaced by the 2011 Act, which was and is the legislation in force at all material times in this case. 
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> Lord Sumption explained the background of the rating legislation in <i>Woolway (Valuation Officer) v Mazars LLP </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/53.html">[2015] UKSC 53</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/53.html">[2015] AC 1862</a>, para 1, as follows:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“Local authority rates are the oldest tax in continuous existence in England, having originally been introduced in the reign of Queen Elizabeth I by the Poor Relief Act 1601 (43 Eliz 1, c 2). Historically, they were payable in respect of the rateable occupation of hereditaments, and that continues to shape the law in this area even though non-domestic rates are today imposed on unoccupied hereditaments also. The core concepts underlying the assessment of rates are that they are a tax on property and not on persons or businesses, and that the ‘hereditament’ is the unit of assessment. Each hereditament is separately identified in the rating list and separately assessed, notwithstanding that the same occupier may have more than one. …”</p>  
+
+<p class="ParaNoNumber">Lord Briggs and Lord Leggatt also examined the historical background in their judgment in <i>Rossendale Borough Council v Hurstwood properties (A) Ltd </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2021/16.html">[2021] UKSC 16</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2021/16.html">[2022] AC 690</a> (“<i>Rossendale</i>”), paras 20-24. The LGFA 1988, as amended, sets out the current law in relation to rates. Under the Act rates are charged on non-domestic hereditaments, subject to the detailed regime set out in it. </p>  
+
+<li value="17"><a name="para17"> The formulation of the mandatory relief for charities in section 43(6) can be traced back to section 11 of the Rating and Valuation Act 1961 (“the 1961 Act”). There was no statutory basis for relief for charities from rates prior to 1955, but in practice rating authorities reduced the rates levied upon them as a matter of grace. The background is set out in the report of a committee set up under the chairmanship of Sir Fred Pritchard (“the Pritchard Report”, Cmnd 831, 1959), at paras 7-46. 
+</a></li>
+<p> </p>  
+
+<li value="18"><a name="para18"> The Pritchard committee was set up to make recommendations in respect of the rating of property owned by charities and similar bodies after the Local Government Act 1948 transferred responsibility for valuation for rating purposes to officers of the Board of the Inland Revenue with effect from 1 February 1950. The 1956 rating valuation list required hereditaments to be valued in accordance with uniform standards. As a holding measure to protect charities from the potential financial implications of this change while a policy review took place, section 8 of the Rating and Valuation (Miscellaneous Provisions) Act 1955 introduced an interim system of relief. It did not affect the assessment of the rateable value of property but limited the amount chargeable for rates and conferred discretionary powers to give further relief.
+</a></li>
+<p> </p>  
+
+<li value="19"><a name="para19"> After a careful review, the Pritchard Report stated that it was impracticable to eliminate all elements of arbitrariness in formulating the grant of reliefs to charities and similar bodies, but emphasised that its object was “to find a reasonable balance of conflicting arguments and interests, consistent with simplicity, certainty and economy in administration”: para 65. It recommended that relief should be made uniform and mandatory for charities: paras 88 and 91-95. The availability of the relief should depend upon the application of the general law in relation to the definition of a charity, as the committee could “see no justification in principle for redefining the term ‘charity’ for rating purposes only”: para 92, also para 153(15). The report recommended that “relief should be given only in respect of those hereditaments which are occupied for the purposes of the charity and not, for example, in respect of hereditaments held as an investment”: para 95, also para 153(16). It recommended that charities should have 50% mandatory relief from rates: para 125. 
+</a></li>
+<p> </p>  
+
+<li value="20"><a name="para20"> The Pritchard Report recommendations in relation to charities were given effect by section 11 of the 1961 Act which conferred relief on “any hereditament occupied by, or by trustees for, a charity and wholly or mainly used for charitable purposes (whether of that charity or of that and other charities)” at a rate of 50%. Section 11 of the 1961 Act became section 40 of the General Rate Act 1967, which was a consolidation statute. 
+</a></li>
+<p> </p>  
+
+<li value="21"><a name="para21"> Local taxation was the subject of general reform in the LGFA 1988. However, the terms of eligibility for mandatory relief for charities in respect of rates were not changed, although the rate of relief was increased to 80%: see section 43(6).
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Principles Relevant to the Construction of Section 43(6)</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">A: Charity</span></p>  
+
+<li value="22"><a name="para22"> To qualify as a charity a body must have purposes all of which are charitable. This is because it must be established for charitable purposes <u>only</u>: see section 1(1)(a) of the 2011 Act. This reflects what the law has always been. Thus a trust for “charitable or benevolent purposes” has, where the descriptive words are used disjunctively, been held to fail because some benevolent purposes may not be charitable. This means that if we correctly describe a body as a charity, or are required to assume that it is a charity, then it must have been established for exclusively charitable purposes. If a body is registered as a charity then, for as long as it remains so registered, it is conclusively presumed to have been established, and still to be established, for charitable purposes only: see section 37(1) of the 2011 Act. That is what being a charity means. The definition provision in the LGFA 1988 confirms at section 67(10) that it is in this sense that the term charity is used in that Act: “A charity is an institution or other organisation established for charitable purposes only or any persons administering a trust established for charitable purposes only”. This involves reference back to the general law on charities, as the Pritchard Report had recommended.
+</a></li>
+<p> </p>  
+
+<li value="23"><a name="para23"> To be established for charitable purposes under the 2011 Act, each of those purposes (viewed separately if more than one) must satisfy two main conditions:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It must fall within section 3(1): see section 2(1)(a),</p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It must be for the public benefit as defined in section 4: see section 2(1)(b).</p>  
+
+<li value="24"><a name="para24"> The identification of the purposes for which a body is established is mainly to be ascertained by reference to its written constitution: see </a><a name="_Hlk131512128"><i>ISC</i></a>, paras 187-188. In the present case Nuffield Health plainly satisfies the section 2(1)(a) test. It is established for the advancement of health within section 3(1)(d). That much is not in dispute.
+</li>
+<p> </p>  
+
+<li value="25"><a name="para25"> The public benefit requirement is set out in section 4. By section 4(3) any reference in the relevant chapter of the 2011 Act to the public benefit is a reference to the public benefit as that term is understood for the purposes of English charity law. As explained by Nugee LJ in the Court of Appeal in the present case at para 141, the public benefit requirement in English charity law has two aspects to it (see also <i>ISC</i>, para 44). The first is the nature of the purpose. Again, it is common ground that the purpose for which Nuffield Health is established, namely (in short) the advancement of health, satisfies the first aspect of the public benefit requirement. The second is a matter of scope. It requires that the specified benefit is available to a sufficient section of the public, so that the provision of that benefit is for a public rather than private purpose. That section of the public may be defined by a variety of contours, such as residents of a particular locality, or even by age. Thus the inhabitants of a small village or large town will be a sufficient section of the public, but the entirety of the current and former employees of a large corporation will not, however numerous: see <i>Oppenheim v Tobacco Securities Trust Co Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1950/2.html">[1951] AC 297</a>, 305-307. The old and the young may each be a sufficient section of the public: see <i>Joseph Rowntree Memorial Trust Housing Association Ltd v Attorney General </i>[1983] Ch 159 for the old and <i>In re Sahal’s Will Trusts </i>[1958] 1 WLR 1243 for the young. But however broadly defined, the purpose will not be for the benefit of a sufficient section of the public if it excludes the poor (meaning, in modern parlance, not the destitute but those of modest means): see <i>In re Resch’s Will Trusts </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1967/1967_1.html">[1969] 1 AC 514</a>, 543-544 (“<i>Re Resch</i>”), and<i> ISC</i>, paras 178-179.
+</li>
+<p> </p>  
+
+<li value="26"><a name="para26"> &nbsp;It by no means follows that a purpose (other than of course the relief of poverty) which serves both the rich and the poor only satisfies the public benefit requirement so as to be charitable in the benefit which it provides to the poor members of its beneficial class. On the contrary, the “scope” element of the public benefit requirement is satisfied by reference to the whole of the section of the public thereby benefitted, rich and poor alike. Even if this may perhaps not accord with the perception of every modern-thinking person untrained in charity law, this is true both as a matter of logic and authority. Logically if a body, established for the purpose of promoting the health of all comers paying a membership fee which did not exclude the poor or the rich, was only charitable in the service which it provided to the poor, then having a (non-charitable) purpose also to serve the rich would mean that it was not established for charitable purposes only. Such a body would not be a charity. If this were so it is hard to imagine how any fee-paying independent school could be charitable; but, as reviewed in <i>ISC</i>, many fee-paying schools are charitable.
+</a></li>
+<p> </p>  
+
+<li value="27"><a name="para27"> The <i>ISC </i>case was about the public benefit requirement in relation to independent fee-paying schools. The point is firmly and correctly stated by the Upper Tribunal at paras 195, 214 and 229. This extract from para 195 encapsulates the principle:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“In the case of a school which is a charity and is operating in accordance with the public interest, the provision of education to all of its students, including those who pay full fees, is carried out as part of this public benefit requirement.”</p>  
+
+<p class="ParaNoNumber">Although the <i>ISC</i> case has not been without its academic critics: see <i>Tudor on Charities,</i> 11<sup>th</sup> ed (2023), para 1-182, this aspect of the Upper Tribunal’s reasoning is, as the editors of <i>Tudor</i> note, well supported by earlier authority. In <i>Jones v Williams</i> (1767) 2 Amb 651 the gift was for supplying the inhabitants of Chepstow (not just the poor inhabitants) with water. Holding that purpose to be charitable, Lord Hardwicke LC said (at p 652):</p>  
+
+<p class="MsoQuote">“definition of charity; a gift to a general public use, which extends to the poor as well as to the rich.”</p>  
+
+<p class="ParaNoNumber">In the celebrated case of <i>Income Tax Special Purposes Comrs v Pemsel </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1891/32.html">[1891] AC 531</a>, 583, Lord Macnaghten said that trusts for the advancement of education or religion and other trusts beneficial to the community:</p>  
+
+<p class="MsoQuote">“are not the less charitable in the eye of the law, because incidentally they benefit the rich as well as the poor, as indeed, every charity that deserves the name must do either directly or indirectly.”</p>  
+
+<p class="ParaNoNumber">In <i>In re Macduff</i> <a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1896/99.html">[1896] 2 Ch 451</a>, 464 Lindley LJ said:</p>  
+
+<p class="MsoQuote">“I am quite aware that a trust may be charitable though not confined to the poor; but I doubt very much whether a trust would be declared to be charitable which excluded the poor.” </p>  
+
+<p class="ParaNoNumber">Both <i>Jones v Williams</i> and <i>In re Macduff </i>were approved by the Judicial Committee of the Privy Council in the opinion delivered by Lord Wilberforce in <i>Re Resch </i>(at pp 543-544).</p>  
+
+<li value="28"><a name="para28"> Mr James Goudie KC for Merton was initially disposed to challenge this as a settled principle of charity law. He submitted in opening that, where a charity served both rich and poor, the service to the rich was merely incidental or ancillary to the fulfilment of its charitable purpose, which was to satisfy the essential public benefit requirement by serving the poor. If we understood his reply submissions correctly he may have retreated from that position but, in any event, we consider it to be plainly wrong. Two simple examples will suffice. Church congregations typically contain a cross section of rich and poor. Yet it has never (as far as we are aware) been suggested that the advancement of the faith of only the poor members is charitable, while the advancement of the faith of the rest is purely incidental to the charitable purpose of the church. Secondly an independent fee-paying school may satisfy the public benefit requirement mainly by offering bursaries to pupils whose parents, being of modest means, cannot afford the full fees. But it cannot sensibly be said that the education being provided to a class of 20 pupils, five of whom have bursaries, is charitable only in the education which it provides to the five, and that the education of the other 15 is merely ancillary to the charitable purpose of the school. The fact that the fees paid by the rich parents cross-subsidise the education of those pupils with bursaries does not mean that the provision of education to the full fee-paying pupils is not itself charitable. 
+</a></li>
+<p> </p>  
+
+<li value="29"><a name="para29"> It may be said that care needs to be taken when applying a principle settled in relation to one type of charitable trust to another. But we consider that this principle, that the provision of benefits to the rich members of a section of the public may be as charitable as the provision of those benefits to the poor, is of general application, save of course to purposes which are specifically for the relief of the poor. That was certainly how it was viewed in <i>Pemsel’s </i>case in the passage cited, and the advancement or protection of health was by then well established as one of those purposes falling within the category of “other trusts beneficial to the community”.
+</a></li>
+<p> </p>  
+
+<li value="30"><a name="para30"> The next point, which may be as much a matter of practicality as of principle, is that when the question whether a body is or is not a charity cannot be resolved purely from inspection of its constitution, and turns on whether its purpose or purposes satisfy the public benefit requirement, then regard must be had to the manner in which the body fulfils the relevant purpose or purposes overall, rather than whether it does so in any particular place where its activities are carried on. Thus for example, where a body operates from a large number of sites, the question whether provision for the poor is only token or de minimis cannot be answered by looking only at the site or sites where provision is made for the poor, or only at the site or sites where no such provision is made. That is why it was perfectly consistent with charity law for the Court of Appeal to conclude that only token provision was made for the poor at the Merton Abbey gym, without in any way invading the irrebuttable presumption arising from the registration of Nuffield Health as a charity that its health-related purposes, viewed overall, satisfied the public benefit requirement.
+</a></li>
+<p> </p>  
+
+<li value="31"><a name="para31"> Authority for the need to consider the activities of the charity overall to see whether (in the absence of a decisive constitution) its purposes are exclusively charitable, and (as part of that enquiry) whether the public benefit requirement is satisfied, may be found again in para 195 of the Upper Tribunal’s judgment in the<i> ISC </i>case, and seen in action in the analysis of the facts relevant to the public benefit requirement by the Court of Appeal in <i>Inland Revenue Comrs v Educational Grants Association Ltd </i>[1967] Ch 993.
+</a></li>
+<p> </p>  
+
+<li value="32"><a name="para32"> Finally, it is important to keep in mind the distinction between the fulfilment of the purposes of a charity and its lawful activities. The former is only a subset of the latter. A charity fulfils its purposes by doing what it was established to do, ie doing what it is there for. Those purposes must be exclusively charitable. In the present case that means, in a nutshell, promoting health. But most charities will also undertake incidental activities not directly concerned with the fulfilment of their purposes, but rather securing their continued existence, or their ability to survive and thrive in fulfilling their purposes. These activities may include head-office management, residential accommodation for staff, fund raising and the maintenance of an investment portfolio, any of which may include the occupation and use of real property: see <i>Tudor on Charities</i>, 11<sup>th</sup> ed, para 1-032. This distinction between purposes and authorised incidental activities lies at the heart of the two House of Lords cases about the predecessor to section 43(6) and its Scottish equivalent, discussed below. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">B: Rating</span></p>  
+
+<li value="33"><a name="para33"> &nbsp;As explained above, section 43(6) in substance re-enacts section 11 of the 1961 Act, which was introduced in response to the recommendations of the Pritchard Report. The Pritchard Report recommended that the mandatory relief should be confined to charities, as defined in the general law. Section 11 of the 1961 Act employed the terms “charity” and “charitable purposes”, without further elaboration or qualification. This involved reference to the general law of charities, as had been recommended in the report. Section 43(6) used the same language as section 11, and section 67(10) of the LGFA 1988 makes it clear that a body only qualifies as a charity if the general law requirement that it be established for charitable purposes only is satisfied. 
+</a></li>
+<p> </p>  
+
+<li value="34"><a name="para34"> Merton submitted that statutory provisions relating to rates in respect of unoccupied hereditaments provide guidance for the construction of section 43(6). However, as Mr Daniel Kolinsky KC for Nuffield Health pointed out, those provisions date back to 1966 at the earliest (after the enactment of section 11 of the 1961 Act) and section 45A of the LGFA 1988 on which Mr Goudie placed reliance was only added by the Rating (Empty Properties) Act 2007. The chronology is set out in <i>Rossendale</i>, paras 22 and 25. We agree with Mr Kolinsky’s submission that these provisions have no bearing on the proper interpretation of section 43(6), both because they post-date the enactment of its predecessor in the form of section 11 of the 1961 Act and do not support any inference that the meaning of the statutory language had changed and because the policy context in relation to rates on unoccupied properties, as analysed in <i>Rossendale</i>, is entirely different. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">C: Statutory Construction</span></p>  
+
+<li value="35"><a name="para35"> Section 43(6) re-enacts section 11 of the 1961 Act using the same language. The inference is that Parliament intended section 43(6) to have the same meaning as section 11. There is no indication that it wished to introduce any change. It is therefore appropriate to examine the meaning of section 11 of the 1961 Act, focusing on the words used in that provision in the context in which they were enacted, and taking account of the purpose for which they were introduced: see <i>R (Project for the Registration of Children as British Citizens) v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2022/3.html">[2022] UKSC 3</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2022/3.html">[2023] AC 255</a>, paras 29-31 and <i>Rossendale</i>, para 10. In this case, the language used in section 11 of the 1961 Act and in section 43(6) (as also that in section 67(10) of the LGFA 1988) indicates clearly that the provision depends upon the operation of the general law of charities. The purpose underlying the enactment of section 11 and its re-enactment as section 43(6), as indicated by the Pritchard Report, confirms this.
+</li>
+<p> </p>  
+
+<li value="36"><a name="para36"> Mr Goudie sought to rely on a principle in the interpretation of EU legislation, according to which exceptions to a general rule laid down in the legislation are to be strictly construed: see <i>Expert Witness Institute v Customs and Excise Comrs </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2001/1882.html">[2001] EWCA Civ 1882</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/1882.html">[2002] 1 WLR 1674</a>, paras 16-17. He submitted that section 43(6) was an exception to the general rule that occupied non-residential hereditaments are subject to rates and should therefore be given a strict construction to limit the extent of that exception. 
+</li>
+<p> </p>  
+
+<li value="37"><a name="para37"> We do not accept this, for two reasons. First, there is no directly equivalent principle of interpretation of domestic legislation. The ordinary rules of statutory interpretation apply. Sometimes the main policy of a statute might be so clearly stated that it may be relevant to interpret any departure from it in a strict way, but much will depend on the particular features of the specific legislation in issue and there is no automatic or rigid rule to that effect. 
+</a></li>
+<p> </p>  
+
+<li value="38"><a name="para38"> Secondly, in this case it is not possible to say that the principle of the taxation of occupied non-residential hereditaments is governing or dominant in this sense so as to justify such an approach. In fact, there is no exception to the principle of taxation of occupied non-residential hereditaments, but a carefully calibrated relief provision first in section 11 of the 1961 Act and now in section 43(6) (the extent of the relief having been adjusted over time) to fulfil a distinct policy objective as identified in the Pritchard Report. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">D: Authorities on Section 43(6), its Predecessors and Equivalents</span></p>  
+
+<li value="39"><a name="para39"> &nbsp;The House of Lords addressed the effect of the formula used in section 43(6), as it appeared in section 4(2) of the Local Government (Financial Provisions, etc) (Scotland) Act 1962, in <i>Glasgow Corpn v Johnstone </i>[1965] AC 609. The congregational board of a church, a charity, claimed that a distinct property comprising a house occupied rent-free by a church officer in connection with his employment by the church should attract relief from rates on the basis that it was “wholly or mainly used for charitable purposes” by the charity, since it was used to facilitate the carrying out of the charitable purposes. The claim was upheld, by a majority (Lord Guest dissenting). The house was occupied by the charity, through its officer. The house was used simply as a residence for the officer, but Lord Reid said (p 622) that “it is much too narrow a view simply to see whether any charitable activity is carried on in the house”, and drew an analogy with housing provided for nurses working at a hospital run as a charity, which would be “wholly ancillary” to the charitable purpose of the hospital and would be eligible for the relief. Lord Reid observed, “If the use which the charity makes of the premises is directly to facilitate the carrying out of its main charitable purposes, that is … sufficient to satisfy the requirement that the premises are used for charitable purposes.” Lord Evershed and Lord Wilberforce agreed with Lord Reid. Lord Hodson said (p 628) that the use of the house by the officer as a residence, looked at from the point of view of the church as the occupier, was “incidental to their primary purpose in having a church officer on the premises for the proper and more efficient prosecution of the charitable purposes”. 
+</a></li>
+<p> </p>  
+
+<li value="40"><a name="para40"> <i>Oxfam v Birmingham City District Council </i>[1976] AC 126 concerned the effect of the predecessor of section 43(6) in the form of section 40(1)(a) of the General Rate Act 1967 in relation to shops run by the charity Oxfam with a view to raising funds for its activities. The House of Lords applied the approach in the <i>Glasgow Corpn </i>case and held that the shops were not eligible for relief. The phrase “used for charitable purposes” meant user for purposes directly related to the achievement of the objects of the charity as opposed to user for the purpose of getting in, raising or earning money for the charity. 
+</a></li>
+<p> </p>  
+
+<li value="41"><a name="para41"> Lord Cross of Chelsea, in giving the leading speech, explained (pp 138-139) that the wording of the provision shows that the mere fact that the hereditament is occupied by a charity is not sufficient to qualify for the relief; it has to be used for “charitable purposes” of the charity (see also pp 147-148 per Lord Morris of Borth-y-Gest). Those purposes, as distinct from its other purposes, are “those purposes or objects the pursuit of which make it a charity”, in that case the relief of poverty, suffering and distress. This did not mean that the premises had to be used “for the actual giving of relief to those in need”, as the <i>Glasgow Corpn </i>case made clear. The test, as posited by Lord Reid, was whether the use of the premises was “wholly ancillary to” or “directly facilitates” the carrying out of its charitable object. That test might be satisfied, for example, in the case of the head office of a charity (p 139). In the particular circumstances of the shops in the case of Oxfam, however, the test was not satisfied. Lord Cross referred (pp 139-140) to <i>Polish Historical Institution Ltd v Hove Corpn </i>(1963) 10 RRC 73, (1963) 61 LGR 438, in which a house owned by the charity was used as an investment to raise money for the charity by renting rooms to lodgers, as another case on the wrong side of the line created by the statutory formula. As he said, “The institution was, of course, fully entitled to use the house for the purpose of earning money to promote its objects; but the question </a><a name="_Hlk132982628">was whether the activities carried on on the premises were activities for the carrying on of which the organisation existed - </a>and that they were clearly not” (see also p 148 per Lord Morris). Consistently with this approach, Lord Cross noted with approval (pp 140-141) the concession, made with reference to the views of the majority in <i>Belfast Association for Employment of Industrious Blind v Comr of Valuation for Northern Ireland</i> [1968] NI 21, that if Oxfam’s shops were mainly used for the sale of articles produced by those to whom it was seeking to provide relief under its “Helping by Selling” programme it would have been entitled to relief, but this was not the case on the facts.
+</li>
+<p> </p>  
+
+<li value="42"><a name="para42"> Lord Morris said (p 149) that “user ‘for charitable purposes’ denotes user in the actual carrying out of the charitable purposes: that may include doing something which is a necessary or essential or incidental part of, or which directly facilitates, or which is ancillary to, what is being done in the actual carrying out of the charitable purpose.” In his view, in line with that of Lord Cross, the use of the hereditaments as shops could not “be regarded as use which directly relates to the carrying out of [Oxfam’s] charitable purposes”. In due course Parliament changed the law in relation to relief for charity shops, but that does not affect the question of interpretation of the statutory formula as authoritatively considered by the House of Lords.
+</a></li>
+<p> </p>  
+
+<li value="43"><a name="para43"> These authorities indicate that in order to qualify for relief under the statutory formula, the hereditament must be wholly or mainly used directly for activities which constitute the carrying out of the charitable purposes of the charity or, by a modest extension, for activities which directly facilitate or are wholly ancillary to the carrying out of those purposes. 
+</a></li>
+<p> </p>  
+
+<li value="44"><a name="para44"> As explained below, in our judgment the activities carried on by Nuffield Health at Merton Abbey gym were directly for the fulfilment of its charitable purpose of promoting health through exercise, within the core sense of the term, without needing to rely on the extended sense laid down in the <i>Glasgow Corpn </i>and <i>Oxfam </i>cases. Adopting Lord Cross’s statement of the question in the <i>Polish Historical Institution </i>case, activities carried out on the premises were activities for the carrying out of which the organisation (Nuffield Health) existed. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Construing Section 43(6)</span></p>  
+
+<li value="45"><a name="para45"> &nbsp;The rival contentions about the meaning of section 43(6) between which we are required to choose have been variously described in the judgments below and in the parties’ cases. We would summarise them as follows. Merton (supported by David Richards LJ in the Court of Appeal) submits that the requirement that the hereditament be “used for charitable purposes” means that the use of the hereditament in question, considered as a separate use from the use of any other hereditament by the charity, must qualify on its own as a use for charitable purposes. Therefore that use, viewed on its own, must satisfy all the statutory conditions for qualification as charitable, including the public benefit requirement.
+</a></li>
+<p> </p>  
+
+<li value="46"><a name="para46"> By contrast Nuffield Health (supported by the trial judge and the majority in the Court of Appeal) submits that the requirement that the hereditament be “used for charitable purposes” means that it must be a place (and, in the case of a multi-site charity, therefore, one of the places) where the charitable purpose or purposes of that charity are fulfilled or (though not relevant to this case) where the activity of the charity there is sufficiently closely connected with the fulfilment of those charitable purposes that it qualifies under the test established in the <i>Glasgow Corpn </i>and <i>Oxfam </i>cases.
+</a></li>
+<p> </p>  
+
+<li value="47"><a name="para47"> Mr Goudie submitted that there was nothing alien to charity law in concluding that section 43(6) required a site-by-site analysis of the question whether the activity at each site was charitable. In his reply submissions he pointed to <i>Re Resch</i> as a case where that was exactly what the Judicial Committee of the Privy Council had done, there being no relevant distinction between the law of New South Wales and the law of England and Wales for this purpose. The Sisters of Charity ran two neighbouring hospitals, one public and the other private, but the gift in issue was for the purposes only of the private hospital. Therefore the Privy Council had to decide whether the purposes for which the private hospital was carried on were charitable. Those purposes, viewed separately from the purposes of the nearby public hospital, had to satisfy the public benefit requirement. In the event they did, but not because the public benefit requirement was satisfied by what the Sisters were doing at the public hospital.
+</a></li>
+<p> </p>  
+
+<li value="48"><a name="para48"> &nbsp;That comparison is certainly thought-provoking, but we think that it is misconceived. The Sisters of Charity was, despite its name, not itself a charity. It was an unincorporated association which was free if it chose to seek to fulfil purposes some of which were charitable, and some not: see [1960] AC 515, 541. Therefore, in order to decide whether the testamentary gift was itself charitable it was necessary to consider whether the purposes for which the Sisters carried on the private hospital were charitable, since those were precisely the purposes identified in the gift. If they were not, the gift would have failed, for there could not be a non-charitable purpose trust.
+</a></li>
+<p> </p>  
+
+<li value="49"><a name="para49"> &nbsp;Section 43(6) works in a different way. It imposes two conditions for entitlement to relief, to be tested by a two-stage enquiry. The first stage of the enquiry is whether the ratepayer is or is not a charity. If the ratepayer is (like Nuffield Health) a registered charity that is the end of the first stage enquiry. If not registered, then the question whether it is a charity will have to be determined by a reference to its constitution and/or (if there is no constitution or the constitution is inconclusive) by a review of its activities and the purposes they serve, looked at overall, including an assessment whether the public benefit requirement is satisfied. 
+</a></li>
+<p> </p>  
+
+<li value="50"><a name="para50"> The additional requirement that the hereditament be used wholly or mainly for charitable purposes only arises for decision if the ratepayer is a charity, or trustees for a charity. That is the second stage in the two-stage enquiry which section 43(6) requires to be carried out. At this second stage of the enquiry the charitable purposes for which the hereditament must be used are not charitable purposes generally, but the charitable purposes of that charity or of that charity and other particular charities. The explanatory words in parentheses “(whether of that charity or of that and other charities)” make that clear beyond question. Thus the second stage enquiry about the purposes for which the hereditament is used is not whether the purposes of the ratepayer are charitable. If the ratepayer is a charity then the purposes which it can lawfully pursue must all be charitable. If the ratepayer is a registered charity its purposes are irrebuttably presumed to be charitable, because a body is only a charity if it is established for charitable purposes only.
+</a></li>
+<p> </p>  
+
+<li value="51"><a name="para51"> Rather, the enquiry at this second stage is whether the hereditament is in fact being used for the (necessarily charitable) purposes of the charity, or used for other activities lawfully carried on by the charity which do not directly serve those purposes, in which case the close connection test applied in the <i>Glasgow Corpn</i> and <i>Oxfam</i> cases may then need to be applied. If, on the other hand, the activities being carried on at the hereditament are not wholly or mainly in pursuit of the charity’s purposes (within the core or extended meaning explained in the <i>Glasgow Corporation </i>and <i>Oxfam </i>cases), for instance because the activity is to use the property for investment or fund raising, or because it allows some other person to make use of its property or because the activities being carried on there are in fact conducted in breach of the fiduciary obligations of its trustees and not in pursuit of its charitable purposes, then the test in section 43(6) would not be satisfied. But that is not the case here. 
+</a></li>
+<p> </p>  
+
+<li value="52"><a name="para52"> &nbsp;The first stage of the enquiry, namely ascertaining whether the ratepayer is a charity, can only be undertaken by reference to charity law, including the assistance which charity law now provides by way of registration and the presumption which flows from it under section 37(1) of the 2011 Act. Where a body claiming to be a charity is not registered it is by application of general charity law that it is to be determined whether it is a charity. By contrast the second stage does not really engage charity law at all. The question is a much simpler factual one, namely whether the actual use of the hereditament is wholly or mainly for the fulfilment of the charity’s (necessarily charitable) purposes or, where it is not directly in fulfilment of those purposes, whether the close connection test is satisfied.
+</a></li>
+<p> </p>  
+
+<li value="53"><a name="para53"> In our view this interpretation of section 43(6) flows simply and directly from the words used, once it is understood that a charity cannot have non-charitable purposes, but can carry on other intra vires<i> </i>incidental activities, such as fund raising, head office management, investment and the provision of staff accommodation, as described above. It is also fully in conformity with both the <i>Glasgow Corpn </i>and <i>Oxfam </i>cases, in both of which the ratepayer was a charity. The charitable purpose of the church in the <i>Glasgow Corpn</i> case was the advancement of religion. The question was whether the use by the ratepayer of the house adjoining the church for the convenient accommodation of a member of its staff was in fulfilment of that charitable purpose. Plainly the use of a house to provide accommodation did not directly advance the religion of anyone, even the staff member concerned. Viewed on its own, use for staff accommodation would not be a charitable purpose. The answer to the second stage of the enquiry did not involve the court asking whether the use of the house viewed on its own was a charitable use, but whether that use was sufficiently closely connected with the plainly (and necessarily) charitable use of the church building next door in the advancement of religion to qualify under the Scottish equivalent of section 43(6). Whether it did so or not was a factual question which turned on the need to have a caretaker living near the church building. It was not itself a question of charity law.
+</a></li>
+<p> </p>  
+
+<li value="54"><a name="para54"> Oxfam used its gift shops for fund raising. Again this did not directly fulfil the (necessarily charitable) purposes of Oxfam, which were for the relief of poverty, distress and suffering. Running gift shops was not what Oxfam was there for. Nor was fund raising, pure and simple, sufficiently closely connected with those purposes, even though the funds raised were no doubt deployed towards the fulfilment of its charitable purposes. That was a fact-sensitive question because, if the gift shops had been used to sell the produce of the labour and skill of poor, distressed or suffering people, then it would have qualified: see pp 140-141 per Lord Cross.
+</a></li>
+<p> </p>  
+
+<li value="55"><a name="para55"> The same interpretation also tends to serve the statutory objective of providing a generally simple, predictable and consistent answer to the question whether a charity ratepayer should have relief from business rates, depending upon its sole or main use (or prospective use) of the hereditament, as recommended in the Pritchard Report. At least it does so better than Merton’s interpretation, when there is no issue as to whether the ratepayer is a charity. All that the rating authority has to do is to ascertain what is or are the (necessarily charitable) purposes of the charity, and then decide whether in fact the sole or main use of the hereditament is in furtherance of those purposes, or sufficiently closely connected with their fulfilment. The purpose or purposes of the charity will usually be apparent from its constitution, or (if registered) by a simple online inspection of the register maintained by the Charity Commission. The question whether that purpose or those purposes are fulfilled by the sole or main use of the hereditament is a factual matter, and will not require the rating authority to don the cloak of the Charity Commission or the robe of the Chancery judge to decide whether those purposes are charitable.
+</a></li>
+<p> </p>  
+
+<li value="56"><a name="para56"> The position is not so simple where the ratepayer claims to be a charity but is not registered as such. Non-registration does not necessarily mean that the ratepayer is not a charity and in such a case the rating authority would have to conduct a conventional charity law analysis of that question, having regard to the terms of the ratepayer’s written constitution or, if there is no written constitution or the written constitution is not decisive, to the actual facts about the whole of the ratepayer’s activities. That enquiry would of course reveal the ratepayer’s purposes, and they would all have to be charitable if the ratepayer was to be regarded as a charity. On Nuffield Health’s interpretation, a conclusion that the ratepayer was a charity would leave the rating authority with the same factual enquiry about its use of the particular hereditament at stage two as if the ratepayer had been a registered charity. But on Merton’s case the rating authority would then have to conduct a second (sort of) charity law analysis, not on the actual facts, but on the counter-factual and usually unreal assumption that the hereditament was the only site upon which the charity was seeking to fulfil its purposes. And that might lead to the conclusion that, on that counter-factual, the ratepayer was not a charity at all.
+</a></li>
+<p> </p>  
+
+<li value="57"><a name="para57"> Parliament occasionally imposes a condition which it requires to be addressed upon a counter-factual basis. But there is no indication in section 43(6) or in its statutory context that this is a requirement of the analysis whether charitable rating relief is available. As this court held in<i> Rossendale</i>, para 14, borrowing dicta of Lord Nicholls in <i>MacNiven v Westmoreland Investments Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2001/6.html">[2003] 1 AC 311</a>, 320<i>:</i>
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“The paramount question always is one of interpretation of the particular statutory provision and its application to the facts of the case.”</p>  
+
+<p class="ParaNoNumber">Save where Parliament has otherwise clearly provided, the facts of the case are the actual facts, not some different counter-factual construct.</p>  
+
+<li value="58"><a name="para58"> In the context of section 43(6) (and its predecessor, section 11 of the 1961 Act), it is clear that Parliament did not intend that a counter-factual analysis should be adopted. On the contrary, it intended that the relevant analysis should proceed by reference to the general law of charity. That law assesses whether a body’s purposes are charitable by looking at its purposes and activities overall, not on a site-by-site basis. To try to apply section 43(6) by employing a site-by-site analysis as Merton contends would involve a departure from, not the application of, the approach applied under the general law of charity.
+</a></li>
+<p> </p>  
+
+<li value="59"><a name="para59"> A central theme of Mr Goudie’s submissions was that rates are a tax on property not people and that exemptions and reliefs generally depended on matters to do with the use and occupation of the hereditament, rather than aspects of the personality or behaviour of the ratepayer. Therefore, he submitted, section 43(6) should be interpreted as simply calling for an analysis of the nature of the use of the relevant hereditament, viewed on its own, and whether that use is charitable. Up to a point Mr Goudie is correct. Section 43(6) does, at the second stage, require a careful examination of the actual use of the hereditament by the ratepayer. But the personality or rather charitable status and purposes of the ratepayer lie at the centre of both stages of the enquiry. It is the only matter to be examined at the first stage. At the second stage, as already explained, the enquiry is not whether the use of the hereditament is charitable in a general sense, but whether it is in fulfilment of the charitable purposes of this particular charitable ratepayer. That is not an enquiry which is in any way out of step with the statutory regime for exemptions and reliefs from business rates. But even if it were, that is what the words of section 43(6) clearly require.
+</a></li>
+<p> </p>  
+
+<li value="60"><a name="para60"> It was submitted for Merton that Nuffield Health’s interpretation of section 43(6) placed undue emphasis upon the first stage (determining whether the ratepayer is a charity) and gave insufficient weight to the second stage, in particular the use of the phrase “charitable purposes” in the statement of the second condition for relief. If the purposes of a ratepayer charity must by definition all be charitable, why does section 43(6) use the phrase “charitable purposes” rather than just “purposes” before the explanatory passage in parentheses “whether of that charity or of that and other charities”?
+</a></li>
+<p> </p>  
+
+<li value="61"><a name="para61"> We do not consider that the interpretation which we prefer fails to give weight to the second condition about use. On the contrary the <i>Glasgow Corpn</i> and <i>Oxfam </i>cases demonstrate that charities do use hereditaments otherwise than for the direct fulfilment of their charitable purposes, namely for incidental purposes which may or may not have the requisite close connection with the fulfilment of the charitable purposes. 
+</a></li>
+<p> </p>  
+
+<li value="62"><a name="para62"> There is however some force in the point that, on Nuffield Health’s interpretation, the word “charitable” in the description of the second condition about the use of the hereditament may not add much, once it is borne in mind that all a charity’s purposes must be charitable; although it does serve clearly to rule out the possibility of relief in certain other cases, such as those mentioned in para 51 above. It may be that the word was included in order to emphasise the importance of focusing upon the charity’s essential purposes (ie what it is there for; the purposes advanced by carrying out its core activities) rather than what we have called its incidental activities. Indeed none other than Lord Cross tended to use the word “purpose” as descriptive of both essential purpose and incidental activity in the <i>Oxfam</i> case, although Lord Morris did not. In any case the drafter was perfectly accurate in calling the relevant purposes charitable, even if the adjective did not add much to the understanding of a charity lawyer. Taking this point at its highest it comes nowhere near outweighing all the other considerations which in our view clearly favour Nuffield Health’s interpretation.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Application of Section 43(6) to the Facts </span></p>  
+
+<li value="63"><a name="para63"> Nuffield Health is a registered charity. Its essential purposes (ie what it is there for) include the advancement, promotion and maintenance of health. It fulfils those purposes in numerous hospitals, fitness and health centres and gyms. Those purposes are irrebuttably presumed all to be charitable, in all the places where they are carried on and, viewed overall, to satisfy the public benefit requirement.
+</a></li>
+<p> </p>  
+
+<li value="64"><a name="para64"> Nuffield Health plainly uses the Merton Abbey gym for the direct fulfilment of those charitable purposes. This is not a case of incidental activities like those discussed in the <i>Glasgow Corpn </i>or<i> Oxfam </i>cases. On the findings of the Court of Appeal, it does so at Merton Abbey only for those who are not of limited means, in short, and putting it broadly, for the rich but not the poor. But the rich are as much a part of the section of the public benefited by Nuffield Health’s charitable activities as are the poor, and it must be assumed from its registration as a charity and from the fact that it is common ground that the trustees are not in breach of their fiduciary obligations that the poor are not excluded from benefit, on a view of Nuffield Health’s activities in the round, even if they are at the Merton Abbey gym. 
+</a></li>
+<p> </p>  
+
+<li value="65"><a name="para65"> It follows that Nuffield Health does use the Merton Abbey gym (the relevant hereditament) wholly or mainly for its charitable purposes. Therefore Nuffield Health is entitled to mandatory relief from business rates under section 43(6).
+</a></li>
+<p> </p>  
+
+<li value="66"><a name="para66"> For those reasons we would dismiss this appeal.
+</a></li>
+<p> </p>  
+
+<p class="JudgmentReferences">&nbsp;</p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/18.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

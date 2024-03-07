@@ -1,0 +1,1325 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Lee-Hirons v Secretary of State for Justice [2016] UKSC 46 (27 July 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Lee-Hirons v Secretary of State for Justice [2016] UKSC 46 (27 July 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/46.html</i>
+<br>Cite as: 
+(2016) 19 CCL Rep 383,
+
+[2016] UKSC 46,
+
+[2017] AC 52,
+
+[2016] Med LR 551,
+
+[2016] 3 WLR 590,
+
+(2016) 151 BMLR 1,
+
+[2016] WLR(D) 424
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/46.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+AC+52">[2017] AC 52</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+424">[2016] WLR(D) 424</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+3+WLR+590">[2016] 3 WLR 590</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/46(image1).pdf">Summary</a></span></p><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 46</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/553.html">[2014] EWCA Civ 553</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Lee-Hirons (Appellant) <i>v </i>Secretary of State for
+Justice (Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">27 July 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 26 April 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jenni Richards QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">John McKendrick QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Stephens Scown LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Martin Chamberlain
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Oliver Jones</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD WILSON: (<span style="text-transform:none">with whom Lady
+Hale, Lord Kerr, Lord Reed and Lord Toulson agree</span>)</p>
+
+<p class="ParaHeading"><span style="font-style:normal">A: INTRODUCTION</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A man is convicted of an offence. Satisfied that he is suffering from
+mental disorder, the court makes an order for his detention in hospital.
+Satisfied that it is necessary for the protection of the public, the court also
+makes a restriction order, which removes from the hospital the power to
+discharge him. In due course a tribunal directs his discharge from hospital on
+conditions. Afterwards, however, the Secretary of State for Justice (“the
+Minister”) exercises his power to recall the man to hospital, where he is
+subject to renewed detention. This appeal is about the explanation for the
+recall which the law requires the Minister to provide to the man both at the
+time of his recall and soon afterwards.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this case the explanation provided on behalf of the Minister, the
+respondent, to Mr Lee-Hirons, the appellant, at the time of his recall was
+simply that his mental health had deteriorated. This generates three questions:</a></p><a name="para2">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Was such an explanation legally sufficient?</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If not, did it make the appellant’s renewed detention unlawful?</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If his detention was unlawful, should the court formally so declare and,
+in particular, should it award him damages for it and, if so, how much?</p>
+
+<p class="ParaNoNumber">Fifteen days after the appellant’s recall, a fuller oral
+explanation for it was provided to him. The Minister concedes that each of two
+separate legal principles required it to have been provided to him within three
+days of the recall and indeed in writing. These conceded breaches of the
+appellant’s rights generate three further questions:</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Did the breaches make the appellant’s detention between the third and
+the fifteenth days following his recall unlawful?</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If so, should the court formally so declare and, in particular, should
+it award him damages and, if so, how much?</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(6)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Even if they did not make his detention unlawful, should the court make
+the breaches the subject of a formal declaration and, in particular, should it
+award him damages for them and, if so, how much?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant appeals against the order of the Court of Appeal dated 1
+May 2014, whereby it dismissed his appeal against the dismissal of his
+application for judicial review of the Minister’s explanations to him: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/553.html">[2014] EWCA Civ 553</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2014/553.html">[2015] QB 385</a>. The leading judgment was given by Sir Stanley
+Burnton; and Jackson LJ (who added some observations of his own) and Patten LJ
+both agreed with it. In effect the answers to the questions given by the Court
+of Appeal were:</p>
+
+<p class="ParaLevel2">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Yes.</p>
+
+<p class="ParaLevel2">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Not applicable.</p>
+
+<p class="ParaLevel2">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Not applicable.</p>
+
+<p class="ParaLevel2">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>No.</p>
+
+<p class="ParaLevel2">(5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Not applicable.</p>
+
+<p class="ParaLevel2">(6)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Not addressed but the court’s order means no.</p>
+
+<p class="ParaHeading"><span style="font-style:normal">B: BACKGROUND</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant is aged 49. He has the misfortune to have suffered
+protracted mental disorder, namely a personality disorder and a chronic
+paranoid delusional disorder. The question whether he has also suffered mental
+illness, in particular paranoid schizophrenia, has for long been the subject of
+clinical disagreement. He has a long history of admission to psychiatric
+hospitals.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant has 61 convictions for a variety of offences. In 2006 he
+was convicted of offences of arson and burglary. In the light of the nature or
+degree of his mental disorder and of all the other circumstances, the court
+then made a “hospital order” pursuant to section 37 of the Mental Health Act
+1983 (“the Act”), by which it authorised his admission to and detention in a
+secure hospital. But, in the light of the perceived need to protect the public
+from serious harm, the court then also made a “restriction order” pursuant to
+section 41 of the Act, by which the power to discharge the appellant was
+removed from the hospital and vested in the Minister or the First-tier Tribunal
+(Health, Education and Social Care Chamber). By section 79(1) of the Act, the
+appellant thereby became a “restricted patient” for the purposes of Part V of
+it.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant’s detention took place in medium-secure hospitals first in
+Dawlish and, from 2009, in Doncaster. On 27 April 2012, under section 73(2) of
+the Act, the First-tier Tribunal made a direction, which on 24 August 2011 it
+had in principle resolved to make but had deferred, that he should be conditionally
+discharged from the hospital in Doncaster. In so directing, the tribunal
+overruled the concerns of the appellant’s responsible clinician that the risks
+of his discharge, even on a conditional basis, were too great. Having received
+evidence from Mr Hart, the appellant’s proposed social supervisor at a
+registered care home for ex-offenders in Lancaster, the tribunal approved a
+plan that the appellant should move there on 11 June 2012. There were eight
+conditions, including that he should reside only at places approved by Mr Hart,
+that he should accept treatment directed by whoever was to become his
+responsible clinician, that he should not drink alcohol, that he should not
+approach members of the public in order to promote his (very intense) religious
+beliefs and that he should not contact an identified woman.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>From 11 June 2012 to 19 July 2012 the appellant resided at the care home
+in Lancaster.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 19 July 2012 both Mr Hart, who had indeed become the appellant’s
+social supervisor at the home, Ms Weldon, who was a psychologist attached to
+the home, and Dr Omar, who had become his responsible clinician in Lancaster,
+resolved to invite the Minister to consider whether to exercise his power under
+sections 42(3) and 73(4)(a) of the Act to recall the appellant to a secure
+hospital. That afternoon Mr Hart telephoned Mr Elliott, who was a senior
+case-worker at the National Offender Management Service within the Ministry of
+Justice (“the Ministry”). Mr Elliott was responsible for acting on behalf of
+the Minister in deciding whether to recall conditionally discharged patients to
+hospital. Immediately after their conversation, Mr Hart sent to Mr Elliott, by
+email, a statement in which he outlined the concerns of himself and of Ms
+Weldon, who had together seen the appellant that morning, and of Dr Omar. In
+the statement Mr Hart suggested that in the appellant there was a greater
+component of mental illness (as opposed to other types of mental disorder) than
+had at first been observed; that his mental health had deteriorated; that he
+had become fixated upon securing change of the conditions of his discharge;
+that he had been craving alcohol; that his presentation had become more
+unpredictable; that he had threatened to assault somebody; that he had been
+ranting and swearing in the office; that, against Dr Omar’s advice, he had
+refused to take all medication; that he was likely to abscond and thereupon to
+abuse alcohol and to seek to contact the woman identified in one of the
+conditions; that the only option was to recall him; and that a bed was
+available for him in a medium-secure hospital in Manchester.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Elliott immediately resolved that the appellant should be recalled to
+the hospital in Manchester. One hour after receiving Mr Hart’s email, he sent
+to Mr Hart by email a warrant for the appellant’s recall. It recited no reason
+for the recall. When, however, Mr Hart thereupon informed the appellant that he
+had been recalled to a hospital in Manchester, he added that the reason for his
+recall was that his mental health had deteriorated. No fuller explanation was
+provided to the appellant that day; and, as I have indicated, the warrant with
+which he was then served would not have enlightened him. That evening police
+officers took him from Lancaster to the hospital in Manchester. He was unhappy
+but cooperative. Mr Hart at once confirmed to Mr Elliott by email that the
+warrant had been executed.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nothing in the evidence casts doubt on the appellant’s assertions that,
+when he arrived there, the hospital in Manchester knew nothing about him; that,
+during that evening, Dr Kasmi, a consultant forensic psychiatrist who was to
+become his responsible clinician there, asked him why he had been recalled; and
+that even two days later the nursing staff remained unable to explain to him
+the reasons for his recall.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Within a month of recalling a restricted patient to hospital, the
+Minister is obliged by section 75(1)(a) of the Act to refer his case to the
+First-tier Tribunal. In the appellant’s case the Minister did so at once,
+namely on 20 July 2012.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 24 July 2012 an officer in the Ministry, not Mr Elliott, sent a
+profoundly unsatisfactory letter to the hospital in Manchester. It was no doubt
+intended to be addressed to the appellant’s responsible clinician there, namely
+Dr Kasmi. But it was addressed to Dr Omar even though the writer should have
+been well aware that he had been the appellant’s responsible clinician in
+Lancaster. It enclosed a copy of the warrant which, for some reason, the writer
+understood not yet to have been executed. The writer was equally unaware of the
+fact that the Minister had already referred the appellant’s case to the
+tribunal. In the letter the writer stated that the appellant should be informed
+of the reasons for his recall within 72 hours of admission; but 72 hours had
+passed by the date of the letter. Nor did the letter in any way identify the
+reasons for the recall; it did not even attach the statement which Mr Hart had
+emailed to Mr Elliott on 19 July. One surely needs to hope that the letter
+represents an isolated example of incompetence and that it does not betoken
+within the Ministry a cavalier attitude towards recall wholly inappropriate to
+the discharge of its grave responsibilities.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 3 August 2012, namely 15 days following his recall, the appellant was
+apprised of the reasons for it. Dr Kasmi, who had somehow secured a copy of Mr
+Hart’s statement, then read it out to the appellant and discussed it with him.
+But he did not give the appellant a copy of it nor provide him with any other
+written explanation of the reasons for his recall.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As quickly as 13 August 2012 the appellant’s long-standing and energetic
+solicitors in Cornwall wrote a pre-action letter to the Ministry, by which he
+challenged the lawfulness of the decision to recall him to hospital. On 19 October
+2012 his application for judicial review was issued. It is clear from the
+judgment by which Dingemans J dismissed the application (reported together with
+the judgments in the Court of Appeal at </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2014/553.html">[2015] QB 385</a>) that at that stage the
+appellant’s primary case was that there were insufficient grounds for the
+Minister’s decision to recall him. But it was only his secondary case that he
+took to the Court of Appeal, namely that there was an unlawful failure to
+explain the reasons for the recall to him; that the failure infected the
+legality of his detention; but that, even if it did not do so, it nevertheless
+generated a right to a declaration and damages.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court is not concerned with the outcome of the proceedings before
+the First-tier Tribunal but understands that the appellant remains presently
+detained in hospital, albeit no longer the one in Manchester.</a></p><a name="para15">
+
+<p class="ParaHeading"><span style="font-style:normal">C: THE CONCEDED BREACHES</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In April 1993 the Department of Health issued a circular to local
+authorities, LAC (93)9, and guidelines to health authorities, HSG (93)20, both
+of which were entitled “Recall of mentally disordered patients subject to Home
+Office restrictions on discharge”. The two documents are in much the same terms
+and remain substantially operative today. In annexes they state the government’s
+policy towards the provision to recalled patients of an explanation for their
+recall. The annexes introduce the subject by pointing out that a patient
+recalled to hospital may be in an excitable and nervous state and that it is
+difficult to expect whoever is escorting him to hospital to provide a full
+explanation of the decision to recall him. Accordingly, so they continue, a
+three-stage procedure should be applied:</a></p><a name="para16">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>at the time of the patient’s return to hospital, the person returning
+him should inform him in simple terms that he is being recalled by the Minister
+and that, to the extent possible, a further explanation will be given later;</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>as soon as possible after re-admission to hospital and in any event
+within 72 hours of it the patient’s responsible clinician or another specified
+person at the hospital should explain to him the reasons for his recall and
+ensure so far as possible that he understands them; and</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>within 72 hours of his re-admission the patient should be provided with
+a written explanation of the reasons for his recall.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Where a public authority issues a statement of policy in relation to the
+exercise of one of its functions, a member of the public to whom it ostensibly
+applies, such as this appellant, has a right at common law to require the authority
+to apply the policy, so long as it is lawful, to himself unless there are good
+reasons for the authority not to do so: <i>Mandalia v Secretary of State for
+the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/59.html">[2015] UKSC 59</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/59.html">[2015] 1 WLR 4546</a>, paras 29-31.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the appellant also had rights under article 5 of the European
+Convention on Human Rights (“the Convention”):</a></p><a name="para18">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Para 1(e) provides that the lawful detention of persons of unsound mind
+is a case in which deprivation of liberty is permissible so long as it is in
+accordance with a procedure prescribed by law.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Para 2 provides:</p>
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:36.0pt;margin-bottom:18.0pt;
+margin-left:72.0pt">“Everyone who is arrested shall be informed promptly, in a
+language which he understands, of the reasons for his arrest and of any charge
+against him.”</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Para 4 provides that everyone deprived of his liberty should be entitled
+to take proceedings by which a court will speedily decide the lawfulness of his
+detention.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Para 5 provides that every victim of detention in contravention of any
+of the earlier paragraphs should have an enforceable right to compensation.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>No issue arises in respect of para 4 of article 5 of the Convention. The
+Minister’s obligation under section 75(1)(a) is to refer the case of a recalled
+patient to the tribunal within a month. But we can leave open whether, were he
+to delay the reference for that full month, he would nevertheless be in breach
+of para 4; for his practice is to make the reference much more quickly, as
+exemplified by his immediate reference of the appellant’s case. The result was
+that, within a day of his recall, the tribunal was seised of a jurisdiction to
+direct his further discharge. Equally, within 25 days of his recall, the
+appellant’s solicitors had, by their pre-action letter, set in train the
+present proceedings, the focus of which has been the lawfulness of the
+Minister’s decision to recall him. So there was no violation of para 4.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to para 2 of article 5 of the Convention the Minister
+submits that, in the case of the recall of a restricted patient, implementation
+of the three-stage procedure set out in the issued policy would satisfy the
+patient’s Convention rights thereunder. He accepts that, although it is
+convenient for him to delegate to those on the ground the task of explaining to
+the patient the reasons for the decision to recall, the obligation to do so
+remains on him as the maker of that decision. He contends that the first stage
+of the procedure, applicable to the time of the recall to hospital, was duly
+implemented and indeed that, when Mr Hart then explained to the appellant that
+the reason for his recall was a deterioration in his mental health, the
+explanation went slightly further than was required at the first stage.
+Inevitably, however, the Minister concedes that the second and third stages of
+the procedure were not implemented: for an adequate explanation was provided to
+the appellant not within three days but only within 15 days of the recall and,
+which seems to be agreed to have been less significant, an explanation in
+writing was provided to him not within three days but only months later in
+response to the present proceedings.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Minister therefore concedes that:</a></p><a name="para21">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>he breached the appellant’s right at common law to receive within three
+days an adequate explanation for the recall in accordance with published
+policy; and</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>he also breached the appellant’s analogous right under article 5(2) of
+the Convention to be informed promptly of the reasons for his recall.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Minister makes no further concessions. So it is almost time to
+consider the questions identified in para 2 above. But first they must be
+placed in context.</a></p><a name="para22">
+
+<p class="ParaHeading"><span style="font-style:normal">D: CONTEXT</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The context is that, for seven reasons, the way in which the Minister
+both reaches and implements a decision to recall a restricted patient to
+hospital is a function of great importance which he must approach with
+scrupulous care:</a></p><a name="para23">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He is depriving a person of liberty. We can be proud of the fact that,
+even in the dark ages, our law recognised the need for strict control of a
+deprivation of liberty: “no free man”, so King John was obliged to concede in
+clause 39 of Magna Carta (9 Hen 3), “is to be arrested, or imprisoned … nor
+will we go against him or send any against him, except by the lawful judgment
+of his peers or by the law of the land”.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Only exceptionally will the law countenance a deprivation of liberty at
+the direction of the executive, rather than of the judiciary before whom
+protections are built into the system.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In particular the procedure entitles the Minister to effect a person’s
+recall without having received any representations by him or on his behalf.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Often, as in the present case, the Minister is depriving a person of
+liberty shortly after a judicial body concluded that, albeit subject to
+conditions, he was, on the contrary, entitled to liberty.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The person whom the Minister is depriving of liberty is, as a restricted
+patient, a member of “a particularly vulnerable group and therefore any
+interference with their rights must be subject to strict scrutiny” (<i>Zagidulina
+v Russia</i>, European Court of Human Rights (“ECtHR”), 2 May 2013, Application
+No 11737/06, para 52). The patient may well be unable to respond to his recall
+in a manner which, objectively, would best serve his interests.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(6)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The recall deprives the person of liberty for an indefinite length of
+time subject only to the possibility of further discharge at some stage.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(7)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The recall exposes the person to the possible administration to him of
+medical treatment without his consent pursuant to section 58(3)(b) of the Act.</p>
+
+<p class="ParaLevel1">E: QUESTIONS (1), (2) AND (3)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant cannot contend that the explanation provided to him by Mr
+Hart at the time of his recall failed to comply with the Minister’s published
+policy referable to the provision of an explanation at that first stage. In
+this regard the appellant invokes a different strand of the common law; and the
+cornerstone of his submission is the decision of the House of Lords in <i>Christie
+v Leachinsky</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1947/2.html">[1947] AC 573</a>. There police officers arrested the respondent
+without a warrant. They told him that they were arresting him for an offence
+categorised as a misdemeanour, for which there was no power to arrest without a
+warrant. In fact they had reasonable grounds for suspecting that he had
+committed a felony, namely larceny of a bale of cloth, which, but for the deficit
+identified by the House of Lords, would have entitled them to arrest him
+without a warrant. The deficit was that they did not tell him that they were
+arresting him on suspicion of larceny of the cloth. Viscount Simon said at p
+586:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… in normal circumstances an
+arrest without warrant either by a policeman or by a private person can be
+justified only if it is an arrest on a charge made known to the person
+arrested.”</p>
+
+<p class="ParaNoNumber">Lord Simonds said at p 592:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Arrested with or without a
+warrant the subject is entitled to know why he is deprived of his freedom, if
+only in order that he may, without a moment’s delay, take such steps as will
+enable him to regain it.”</p>
+
+<p class="ParaNoNumber">And at p 593 he referred to “the principle, which lies at
+the heart of the matter, that the arrested man is entitled to be told what is the
+act for which he is arrested”.</p>
+
+<p class="ParaLevel1">Lord du Parcq expressed it starkly at p 598:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… a man is entitled to his
+liberty, and may, if necessary, defend his own freedom by force. If another
+person has a lawful reason for seeking to deprive him of that liberty, that
+person must as a general rule tell him what the reason is, for, unless he is
+told, he cannot be expected to submit to arrest, or blamed for resistance.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>When Mr Hart told the appellant that the ground for his recall was a deterioration
+in his mental health, the Minister’s duty about what to explain to him at that
+first stage was in my view satisfied. It was an accurate summary of the ground.
+Deterioration in health is not the only permissible ground for recall. For
+example the commission of a crime or the breach of a condition would, if of
+“sufficient significance” (<i>R (MM) v Secretary of State for the Home
+Department </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2007/687.html">[2007] EWCA Civ 687</a>, para 50, Toulson LJ), justify a recall.
+Just as in the <i>Christie</i> case the officers had to tell the respondent
+only that the ground of his arrest was the suspected larceny of the cloth,
+without any need to refer to the grounds for their suspicion, so there was no
+need at that stage for Mr Hart or anyone else to communicate to the appellant
+the grounds for considering that his mental health had deteriorated. In any
+event, had he wanted to understand those grounds, the appellant had only to
+recall his discussion with Mr Hart and Ms Weldon that morning when, as Mr
+Hart’s written note makes clear, they had ventilated their concerns with him.
+It was reasonable for the Department of Health, when introducing its
+guidelines, to have suggested both that, at the time of his recall, a
+restricted patient is likely to be under stress and probably not able to digest
+a detailed presentation of the reasons for it and that those, for example the
+police, deputed to effect the recall, often in an emergency, might well know
+little or nothing about the background to it. Equally the effect of the
+Minister’s immediate reference of the appellant’s case to the First-tier
+Tribunal was that the failure to have provided him with detailed reasons for
+the recall at that stage did not delay his recourse to that facility for
+seeking renewed discharge.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If, as I conclude, there was at the time of his recall no breach of the
+appellant’s right at common law, was there nevertheless a violation at that
+time of his right under article 5(2) of the Convention?</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Inevitably I reach for the decision of the European Commission of Human
+Rights, and thereafter of the ECtHR, on facts closest to those of this appeal: <i>X
+v United Kingdom </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1981/6.html">(1982) 4 EHRR 188</a>. The applicant, a restricted patient,
+challenged the Home Secretary’s recall of him in 1974 to a secure hospital
+following his conditional discharge, pursuant to the Mental Health Act 1959.
+Reporting in July 1980 to the ECtHR, the Commission concluded that his recall
+did not violate article 5(1) of the Convention. In relation to article 5(2),
+however, the Commission accepted at para 107 that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“it may not be the role of police
+officers, who are charged with the sometimes delicate task of arresting a
+patient, to inform him of the detailed reasons of arrest or recall, as they are
+not qualified to assess the patient’s condition and his ability to understand
+the position. However, the responsibility of informing the patient or his
+representatives will, in such circumstances, fall on the medical officers
+concerned.”</p>
+
+<p class="ParaLevel1">Then in its report the Commission added - and this is the
+high point of the appellant’s submissions in this connection:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Nevertheless this obligation has
+to be discharged promptly, ie at the latest on arrival at the hospital.”</p>
+
+<p class="ParaLevel1">In the event, in the light of an unresolved dispute between
+the applicant and the hospital as to what he had been told on arrival, the
+Commission concluded that a violation of article 5(2) had at any rate occurred
+seven weeks later when his solicitors’ request for reasons for the recall had
+been inadequately addressed on behalf of the Home Secretary.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Two points are worthy of note:</a></p><a name="para28">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under section 66 of the Mental Health Act 1959, the power to discharge a
+restricted patient was vested solely in the Home Secretary and the role of a
+tribunal, namely the Mental Health Review Tribunal, was only advisory.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By way of swift response to the Commission’s report (and as the ECtHR
+was informed when in 1981 it came to consider the Commission’s reference - see
+para 16 of its judgment), the Home Secretary issued advisory circulars about
+the stages at which recalled patients should be informed of the reasons for
+their recall, which closely parallel the circulars still operative today.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Upon reference to it of the <i>X </i>case, the ECtHR agreed with the
+Commission that the relief available in the <i>habeas corpus </i>proceedings
+which the applicant had swiftly taken was inadequate to satisfy his right under
+para 4 of article 5 of the Convention and, in that there was at that time no
+other avenue by which to challenge his continued detention, his right under
+that paragraph had been violated. When it turned to para 2, the court stressed
+the link between it and para 4:</a></p><a name="para29">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“66.&nbsp;&nbsp;&nbsp;&nbsp; … anyone entitled … to
+take proceedings to have the lawfulness of his detention speedily decided
+cannot make effective use of that right unless he is promptly and adequately
+informed of the facts and legal authority relied on to deprive him of his
+liberty.”</p>
+
+<p class="ParaLevel1">Its conclusion was that, in that the complaint under para 2
+was no more than an aspect of the complaint under para 4, there was no need to
+rule separately upon it.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Fox, Campbell and Hartley v United Kingdom </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1990/18.html">(1991) 13 EHRR 157</a>
+the ECtHR held that, in arresting the applicants in Northern Ireland on no more
+than a suspicion that they were terrorists, the UK authorities had deprived
+them of their liberty in violation of para 1 of article 5. But the court
+rejected their complaint under para 2. It explained the paragraph as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“40.&nbsp;&nbsp;&nbsp;&nbsp; … This provision is an
+integral part of the scheme of protection afforded by article 5: by virtue of
+paragraph (2) any person arrested must be told, in simple, non-technical
+language that he can understand, the essential legal and factual grounds for
+his arrest, so as to be able, if he sees fit, to apply to a court to challenge
+its lawfulness in accordance with paragraph (4). Whilst this information must
+be conveyed ‘promptly’ (in French: <i>‘dans le plus court délai’</i>), it need
+not be related in its entirety by the arresting officer at the very moment of
+the arrest. Whether the content and promptness of the information conveyed were
+sufficient is to be assessed in each case according to its special features.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Commission’s throw-away remark in the<i> X </i>case that article
+5(2) requires detailed reasons for a recall to be provided to a restricted patient
+“at the latest on arrival at the hospital” is far too slender a thread on which
+to hang a conclusion that the appellant’s right under para 2 was breached on
+the day of his recall. The remark shows no understanding of the “special
+features” of a recall which, often effected in an emergency, may, as in the
+case of the appellant, render the hospital unacquainted with those reasons
+until later. The flexibility, albeit limited, of the court’s analysis in the <i>Fox
+</i>case is much to be preferred.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the explanation required to be provided to the appellant
+at the time of his recall, I conclude that the demands of article 5(2) did not
+extend beyond the demands of the common law. Their demands were met. In answer
+to the first question, the Court of Appeal was right to conclude that Mr Hart’s
+explanation to him at that time was legally sufficient; and it followed that
+the second and third questions were indeed not applicable.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court is told that, since 2012, it has become the Minister’s
+practice to include within the warrant to be served upon the restricted patient
+at the time of recall a brief reason for it. Indeed, in the “Mental Health Act
+1983: Code of Practice” published in 2015, the Department of Health goes
+further than the guidance given in 1993 in relation to stage one when it states
+at para 4.19:</a></p><a name="para33">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Where a conditionally discharged
+patient is to be recalled to hospital, a brief verbal explanation of the
+Secretary of State’s reasons for recall must be provided to the patient at the
+time of recall unless there are exceptional reasons why this is not possible,
+eg the patient is violent or too distressed.”</p>
+
+<p class="ParaNoNumber">Were this guidance to be followed and were the warrant
+served upon the patient also to include a brief reason for the recall, the
+Minister’s obligations to provide an explanation for it at the time of his
+recall would be likely to be discharged.</p>
+
+<p class="ParaHeading"><span style="font-style:normal">F: QUESTIONS (4) and (5)</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The starting point for consideration of the fourth question, namely the
+effect of the conceded breaches on the lawfulness of the appellant’s actual
+detention, is the decision of this court in <i>R (Lumba) v Secretary of State
+for the Home Department</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/12.html">[2011] UKSC 12</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/12.html">[2012] 1 AC 245</a>. The Home Secretary
+had, so the majority held, infringed the rights of two men in reaching a
+decision to detain them pending deportation by reference to unpublished
+criteria inconsistent with her published criteria. Also by a majority, the
+court decided that the infringement had rendered their actual detention
+unlawful. It was obvious that the criteria by reference to which the Home
+Secretary decided whether initially to detain the men, and thereafter whether
+to continue to detain them, bore in principle, ie at least theoretically, on
+the decision to detain them even though, as the court also proceeded to find,
+they would nevertheless have fallen to be detained by reference to the
+published criteria. Lord Dyson said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“68.&nbsp;&nbsp;&nbsp;&nbsp; … It is not every breach
+of public law that is sufficient to give rise to a cause of action in false
+imprisonment. In the present context, the breach of public law must bear on and
+be relevant to the decision to detain.”</p>
+
+<p class="ParaNoNumber">Lady Hale said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“207.&nbsp; … the breach of public law
+duty must be material to the decision to detain and not to some other aspect of
+the detention and it must be capable of affecting the result - which is not the
+same as saying that the result would have been different had there been no
+breach.”</p>
+
+<p class="ParaNoNumber">Lord Kerr added at para 248 that the breach had to have a
+“direct” bearing on the decision to detain.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Kerr’s adjective took centre-stage in this court’s decision in <i>R
+(Kambadzi) v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/23.html">[2011] UKSC 23</a>,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/23.html">[2011] 1 WLR 1299</a>, which swiftly followed the <i>Lumba</i> case. In breach of a
+rule and indeed by way of departure from her own policy the Home Secretary had
+failed on about 12 occasions in the course of less than two years to conduct a
+monthly review of whether the appellant should continue to be detained. By a
+majority the court held that her failures had rendered his detention unlawful.
+Lady Hale said at para 77 that the departure from policy was “so obvious and so
+persistent and so directly related to the decision to continue to detain that
+it was clearly ‘material’ in the <i>Lumba </i>sense”. Lord Kerr stressed at
+paras 83 and 88 that the public law error touched “directly” on the decision to
+detain.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first of three decisions on the other side of the line is that of
+the House of Lords in <i>R (Saadi) v Secretary of State for the Home Department</i>
+</a><a title="Link to BAILII version" href="/uk/cases/UKHL/2002/41.html">[2002] UKHL 41</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/41.html">[2002] 1 WLR 3131</a>, and, following the appellant’s application
+to it, also of the ECtHR in <i>Saadi v United Kingdom </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2008/80.html">(2008) 47 EHRR 17</a>.
+The reason why the appellant had been detained was to enable the determination
+of his claim for asylum to be subject to a fast-track procedure but for three
+days a different explanation for his detention was provided to him. The House
+of Lords held that the error did not affect the legality of his detention. The
+ECtHR held that, in informing him only after three days of the true reason for
+his detention, the Secretary of State had failed to inform him of it “promptly”
+and so had breached his right under article 5(2) of the Convention; but there
+was no suggestion that the breach had affected the validity of his detention.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second of the decisions is that of the House of Lords in <i>Cullen v
+Chief Constable of the Royal Ulster Constabulary </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2003/39.html">[2003] UKHL 39</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2003/39.html">[2003] 1 WLR 1763</a>. Police officers were statutorily entitled in limited circumstances to
+defer compliance with an arrested person’s request to see a solicitor but they
+were required as soon as practicable to tell him their reason for deferring it.
+It was held that their breach of the latter requirement did not make the
+appellant’s detention unlawful. Lord Millett at para 61 described his claim to
+that effect as “hopeless”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third of the decisions is that of this court in <i>R (Kaiyam) v
+Secretary of State for Justice</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2014/66.html">[2014] UKSC 66</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/66.html">[2015] AC 1344</a>. The court
+held that the Secretary of State had breached the rights of prisoners, implied
+by article 5 of the Convention, to be given access to programmes which might
+enable them to demonstrate to the Parole Board that they no longer represented
+an unacceptable danger to the public. Lord Mance and Lord Hughes considered
+that the implied rights were analogous to rights under article 5(4). They
+stated - unequivocally - at para 37 that a breach of article 5(4) did “not
+directly impact on the lawfulness of detention”; and they held at para 38 that,
+likewise, breach of the implied rights did not affect the lawfulness of the
+prisoners’ detention.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my opinion there is no link, let alone a direct link, between, on the
+one hand, the Minister’s wrongful failure for 12 days to provide to the
+appellant an adequate explanation for his recall and, on the other, the
+lawfulness of his detention. The failure did not delay reference of his case to
+the First-tier Tribunal. Nor has the appellant suggested that it delayed
+institution of the present proceedings. Even if it had created delay, the
+unequivocal statement of Lord Mance and Lord Hughes in the <i>Kaiyam </i>case
+about the limited effects of a violation of article 5(4) would appear to
+exclude the relevance of the delay to the validity of the detention itself. The
+case closest to the present is the <i>Saadi </i>case where the difference was
+one only of degree (namely a delay of three days rather than of 12) and not of
+kind.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The wise judge will also address the consequences of the argument
+presented to him. In the present case there was a clear departure from the
+72-hour policy, in relation to which the Minister can claim no extenuating
+circumstances. But it is easy to imagine lively arguments in other cases about
+either the adequacy of the reasons provided to the patient for the recall or the
+practicability of having provided them to him within that time-frame. I would
+be very concerned if the right of a restricted patient to walk out of hospital
+- or to seek to do so - should depend upon where the stronger of such an
+argument lies.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I therefore consider that the Court of Appeal was right to conclude, in
+answer to the fourth question, that the conceded breaches did not make the
+appellant’s detention for those 12 days unlawful; and to conclude that the
+fifth question was therefore inapplicable.</a></p><a name="para41">
+
+<p class="ParaHeading"><span style="font-style:normal">G: QUESTION (6)</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As a result of the conceded breaches, the appellant suffered no
+pecuniary loss. But in his evidence, unchallenged by the Minister, he says that
+in the months following his recall to hospital he suffered great distress.
+Nevertheless, as one would expect, he attributes his distress to the recall
+itself. He does not identify the failure for 12 days to have provided him with
+the reasons for it as an additional cause of it and, although one may infer
+that to some extent it increased his level of frustration and anxiety, the
+time-span of only 12 days precludes any inference that it caused significant
+non-pecuniary injury.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant is not entitled to damages for the breach of his right at
+common law to receive an adequate explanation for his recall within the time
+identified by published policy. The breach does not amount to a tort and there
+is nothing to suggest that damages would have been available to the appellant
+in any ordinary action which he might have brought against the Minister in that
+respect; see section 31(4)(b) of the Senior Courts Act 1981.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the Minister’s concession is also of a breach of the appellant’s
+right under article 5(2) of the Convention. Thus the claim for damages must be
+appraised also through the prism of section 8 of the Human Rights Act 1998
+which in particular requires the court, by subsection (3), to make an award of
+damages for the breach only if it “is necessary to afford just satisfaction” to
+the appellant and, by subsection (4), to take into account the principles
+applied by the ECtHR in relation to the award of compensation under article 41
+of the Convention. In <i>R (Greenfield) v Secretary of State for the Home
+Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2005/14.html">[2005] UKHL 14</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2005/14.html">[2005] 1 WLR 673</a>, Lord Bingham of Cornhill
+stressed at paras 4 and 9 that the focus of the Convention was upon securing
+the observance of minimum standards in the protection of human rights and that
+compensation to the victim of a breach was of secondary, if any, importance to
+it. Before the House, however, was a violation of article 6; and, having
+referred to the specific provision under article 5(5) for compensation for violation
+of any of the earlier paragraphs of that article, Lord Bingham stressed in para
+7 the risk of error if the decisions of the ECtHR in relation to one article
+were read across so as to apply to another.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>R (Faulkner) v Secretary of State for Justice </i>and <i>R
+(Sturnham) v Parole Board </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/23.html">[2013] UKSC 23</a> and 47, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/47.html">[2013] 2 AC 254</a>, the
+rights of two prisoners under article 5(4) to a speedy review of their
+continued detention by the Parole Board had been breached. In the first case
+the wrongful delay was about ten months and in the second it was about six
+months. In the first case this court reduced the award of damages to £6,500 and
+in the second it restored an award of £300. In explaining the court’s decisions
+Lord Reed conducted a masterly exposition of the approach of the ECtHR to
+damages for violations of article 5(4). Having observed at para 53 that the
+ECtHR was prepared, without direct proof, to presume harm in the form of
+feelings of frustration and anxiety and in answer to his question “is there a <i>de
+minimis</i> principle?”, he concluded that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“66.&nbsp;&nbsp;&nbsp;&nbsp; … a delay [in the conduct
+of the requisite review] of three months or more is likely to merit an award,
+whereas the stress and anxiety which can be inferred from a delay of shorter
+duration are unlikely to be of sufficient severity.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Damages and Human Rights</i>, 2016, Hart Publishing, Dr Varuhas
+argues in chapter 5(1) that in the <i>Faulkner </i>and <i>Sturnham</i> cases
+this court has sought too rigidly to apply the principles of the ECtHR, such as
+they are, to awards of compensation for Convention violations. Be that as it
+may, it is clear to me that damages should not be payable to the appellant for
+the breach of his right under article 5(2) of the Convention any more than that
+they should be payable for the breach of his right at common law. He has failed
+to establish that their effects on him were sufficiently grave. Nor would a
+formal declaration in this court’s order add anything to my recording in this
+judgment of the Minister’s concessions. No doubt under pressure, the Court of
+Appeal failed in its judgments to address the sixth question, squarely raised
+though it had been. But that court’s wholesale dismissal of the appeal
+incorporates the correct, negative, answer.</a></p><a name="para46">
+
+<p class="ParaHeading"><span style="font-style:normal">H: DISPOSAL</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I therefore propose that the appeal should be dismissed.</a></p><a name="para47">
+
+<p class="ParaNoNumber"><b>LORD REED:</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I respectfully agree with the judgment of Lord Wilson, and wish only to
+add some brief observations in relation to the legal consequences, under the
+common law, of the Secretary of State’s failure to comply with the
+administrative policy under which the appellant should have been provided,
+after being recalled to hospital, with a full explanation of the reasons for
+the decision to recall him.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was decided on 19 July 2012 that the appellant should be recalled to
+hospital, and the decision was implemented that day. There was, under the
+common law, a duty to give the appellant reasons for that decision. That duty
+followed from the fact that the effect of the decision was to deprive him of
+his liberty. For the reasons explained by Lord Wilson at para 25, the Secretary
+of State complied with that duty. The case illustrates the extent to which the
+common law duty to give reasons for a decision is context-specific, in the
+sense that what is required in order to comply with the duty depends on the
+context in which it arises.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Quite separately, the Secretary of State had adopted an administrative
+policy that a full explanation of the decision to recall should be provided to
+patients within 72 hours of their re-admission to hospital. That policy was
+adopted in the context of a statutory scheme governing the discharge of
+restricted patients, under the Mental Health Act 1983 as amended, which imposes
+on the Secretary of State a duty to refer the patient’s case to the First-tier
+Tribunal within a month of his recall to hospital, as Lord Wilson explains at
+para 11. On such a reference, the tribunal has the power to order the patient’s
+discharge. It is conceded that the adoption of the policy created a public law
+duty to comply with it, absent good reason for non-compliance. That duty arose
+under the common law in accordance with principles of good administration. It
+is conceded that there was a failure to comply with that duty in the
+appellant’s case.</a></p><a name="para50">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the hearing of the appeal, the discussion of the effect of that
+failure focused primarily upon the appellant’s Convention rights. So far as the
+legal consequences under the common law are concerned, the failure to comply
+with the policy did not in my view render the decision to recall invalid,
+either ab initio or with effect from the expiry of the 72-hour period.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That is so for three reasons. First, the duty is to provide reasons ex
+post facto. It remains capable of meaningful performance even after the 72-hour
+period has expired. Such performance can if necessary be enforced. Delayed
+performance does not, in this situation, call into question the validity of the
+antecedent decision. Secondly, the duty to refer the case to the tribunal
+within a month provides a statutory mechanism for ensuring that an adequate
+justification is provided for the patient’s detention in hospital, failing
+which he will be discharged. It would be inconsistent with the statutory
+framework governing discharge if an entitlement to release arose under the
+common law as soon as there had been a failure to comply with the
+administrative policy. Thirdly, it would be perverse if the legal consequence
+of the breach of a duty imposed for the sake of good administration was one
+which itself created administrative chaos, such as would occur if patients
+whose condition might require detention in hospital were entitled to walk out
+of the hospital as soon as the 72 hours had expired.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, in addition to those given by Lord Wilson, I agree
+that the failure to comply with the policy did not affect the validity of the
+decision to recall the appellant, or therefore the lawfulness of his consequent
+detention.</a></p><a name="para53">
+
+</a></div><a name="para53">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/46.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

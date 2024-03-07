@@ -1,0 +1,2779 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>The Christian Institute &amp; Ors v The Lord Advocate (Scotland) [2016] UKSC 51 (28 July 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:HiddenHorzOCR;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@HiddenHorzOCR";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Header Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Footer Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{mso-style-link:"Body Text Indent Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-36.0pt;
+	line-height:200%;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Univers (W1)",sans-serif;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;
+	font-family:"Univers (W1)",sans-serif;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+span.BodyTextIndentChar
+	{mso-style-name:"Body Text Indent Char";
+	mso-style-link:"Body Text Indent";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      The Christian Institute &amp; Ors v The Lord Advocate (Scotland) [2016] UKSC 51 (28 July 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/51.html</i>
+<br>Cite as: 
+[2016] ELR 474,
+
+[2016] UKSC 51,
+
+[2016] HRLR 19,
+
+2017 SC (UKSC) 29,
+
+(2016) 19 CCL Rep 422,
+
+2016 GWD 22-401,
+
+2016 SLT 805,
+
+2016 SCLR 448
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/51.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/51(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 51</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2015/2015CSIH64.html">[2015] CSIH 64</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">The Christian Institute and others (Appellants) <i>v</i>
+The Lord Advocate (Respondent) (Scotland)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">28 July 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 8 and 9 March
+2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="567" style="width:425.2pt;border-collapse:collapse">
+ <tbody><tr style="height:71.25pt">
+  <td width="227" valign="top" style="width:6.0cm;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Aidan O’Neill QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Laura-Anne van der
+  Westhuizen</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Balfour &amp; Manson)</p>
+  </td>
+  <td width="151" valign="top" style="width:4.0cm;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">W James Wolffe QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Christine O’Neill</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Solicitor to the Scottish Ministers)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="227" valign="top" style="width:6.0cm;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="151" valign="top" style="width:4.0cm;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:71.25pt">
+  <td width="227" valign="top" style="width:6.0cm;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="151" valign="top" style="width:4.0cm;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener
+  (Community Law Advice Network)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Ailsa Carmichael QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Community Law Advice Network)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LADY HALE, LORD REED AND LORD HODGE: (<span style="text-transform:none">with whom Lord Wilson and Lord Hughes agree)</span></p>
+
+<p class="ParaHeading">The background to Part 4 of the 2014 Act</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the question whether the provisions of Part 4 of
+the Children and Young People (Scotland) Act 2014 lie within the legislative
+competence of the Scottish Parliament. Before considering the issues that arise
+(summarised in para 26 below), it is helpful to begin with an account of the
+background to the legislation. A suitable starting point is the consultation
+paper, “A Scotland for Children”,<i> </i>published by the Scottish Government
+in July 2012. In general terms, two ideas underlay many of the proposals. The
+first was a shift away from intervention by public authorities after a risk to
+children’s and young people’s welfare had been identified, to an emphasis on
+early intervention to promote their wellbeing, understood as including all the
+factors that could affect their development. The second was a shift away from a
+legal structure under which the duties of statutory bodies to cooperate with
+one another (under, for example, section 13 of the National Health Service
+(Scotland) Act 1978 and section 21 of the Children (Scotland) Act 1995) were
+linked to the performance of their individual functions, to ensuring that they
+work collaboratively and share relevant information so that “all relevant
+public services can support the whole wellbeing of children and young people”
+(para 73). In that regard, the consultation paper stated that it was “essential
+that information is shared not only in response to a crisis or serious
+occurrence but, in many cases, information should be shared about relevant
+changes in a child's and young person’s life”. There was, however, “no commonly
+agreed process for routine information sharing about concerns about wellbeing”
+(para 110). The establishment of a new professional role, that of named person,
+was proposed in order to address those concerns (para 111).</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On its introduction in April 2013, the Children and Young People
+(Scotland) Bill was accompanied by a Policy Memorandum which was similar in
+content to the consultation paper. It stated, in relation to named persons:</a></p><a name="para2">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“They can monitor what children
+and young people need, within the context of their professional
+responsibilities, link with the relevant services that can help them, and be a
+single point of contact for services that children and families can use, if
+they wish. The named person is in a position to intervene early to prevent
+difficulties escalating. The role offers a way for children and young people to
+make sense of a complicated service environment as well as a way to prevent any
+problems or challenges they are facing in their lives remaining unaddressed due
+to professional service boundaries.” (para 68)</p>
+
+<p class="ParaLevel1">The Bill aimed to ensure that every child in Scotland had a
+named person (para 70). It provided for a wide-ranging duty on all relevant
+public authorities to cooperate with the named person in the conduct of their
+duties. This would be of particular importance in the area of information
+sharing, since the “role of the named person will depend on the successful
+sharing of information between relevant public authorities” (para 73).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The memorandum explained that concern had been expressed about the
+existing legal framework for information sharing. This was felt to be confusing
+and potentially insufficient to enable the role of the named person to operate
+as well as anticipated. In particular, there were concerns regarding sharing information
+about children where consent was not given (para 75). The memorandum continued:</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Currently, information about a
+child may be shared where the child is at a significant risk of harm. However,
+the role of the named person is based on the idea that information on less critical
+concerns about a child’s wellbeing must be shared if a full picture of their
+wellbeing is to be put together and if action is to be taken to prevent these
+concerns developing into more serious issues. Without the necessary power to
+share that kind of information, the named person will not be able to act as
+effectively as is intended … Specific provisions in the Bill, therefore, set
+out arrangements on information sharing, to give professionals and named
+persons the power to share information about those concerns.” (paras 76-77)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It appears, therefore, that one of the principal purposes of Part 4, as
+envisaged at that stage, was to alter the existing law in relation to the
+sharing of information about children and young people, so as to enable
+information about concerns about their wellbeing, held by individual bodies, to
+be pooled in the hands of named persons and shared with other bodies, with the
+ultimate aim of promoting their wellbeing.</a></p><a name="para4">
+
+<p class="ParaHeading">The provisions of Part 4</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Part 4 of the Act begins with section 19, which defines a “named person
+service” as the service of making available, in relation to a child or young
+person, an identified individual who is to exercise the functions listed in
+subsection (5):</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; … doing such of the following
+where the named person considers it to be appropriate in order to promote,
+support or safeguard the wellbeing of the child or young person -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; advising, informing or
+supporting the child or young person, or a parent of the child or young person,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; helping the child or
+young person, or a parent of the child or young person, to access a service or
+support, or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp; discussing, or raising,
+a matter about the child or young person with a service provider or relevant
+authority, and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; such other functions as
+are specified by this Act or any other enactment as being functions of a named
+person in relation to a child or young person.”</p>
+
+<p class="ParaNoNumber">In relation to section 19(5)(a)(iii), <span style="font-size:11.5pt">the expression</span> “service provider” is defined by
+section 32 as meaning, in a context of this kind, each health board, local
+authority, directing authority, and the Scottish Ministers. The expression
+“directing authority” is defined by section 32 as meaning the managers of each
+grant-aided school, the proprietor of each independent school, and the local
+authority or other person who manages each residential establishment which
+comprises secure accommodation. The expression “relevant authorities” is
+defined by section 31 and Schedule 2 as including a wide variety of public
+bodies, including NHS 24, NHS National Services Scotland, the Scottish
+Ambulance Service Board, the Scottish Sports Council, the Scottish Police
+Authority, and the Scottish Fire and Rescue Service.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under sections 20 and 21, responsibility for the provision of a named
+person service lies with health boards in relation to all pre-school children
+residing within their area, and generally with local authorities in relation to
+all other children residing within their area. There are exceptions in relation
+to pupils at independent and grant-aided schools, where responsibility lies
+with the directing authority; children kept in secure accommodation, where
+responsibility lies with the directing authority; children kept in custody,
+where responsibility lies with the Ministers; and children (as defined) who are
+members of the armed forces. Under section 22, named person services must also
+be provided in relation to all young people over 18 who remain at school.
+Responsibility for making provision for them in that situation lies with the
+local authority, except in relation to young people at independent or
+grant-aided schools, where responsibility lies with the directing authority.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 23 deals with the communication of information following a
+change in the identity of the service provider in relation to a child or young
+person (defined by section 32, in this context, as meaning the person whose function
+it is to make arrangements for the provision of a named person service in
+relation to the child or young person). That will occur, for example, when a
+child first goes to school, and the service provider ceases to be the health
+board and becomes the local authority or directing authority, or when a child
+goes from a local authority school to an independent or grant-aided school, and
+the service provider ceases to be the local authority and becomes the directing
+authority of the school. In terms of section 23(2)(b), the outgoing service
+provider must provide the incoming service provider with:</a></p><a name="para7">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the name and address of
+the child or young person and each parent of the child or young person (so far
+as the outgoing service provider has that information), and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all information which
+the outgoing service provider holds which falls within subsection (3).”</p>
+
+<p class="ParaNoNumber">Information falls within section 23(3) if the outgoing
+service provider considers that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; it is likely to be
+relevant to -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the exercise by the
+incoming service provider of any functions of a service provider under this
+Part, or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the future exercise of
+the named person functions in relation to the child or young person,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it ought to be provided
+for that purpose, and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; its provision would not
+prejudice the conduct of a criminal investigation or the prosecution of any
+offence.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In considering for the purpose of section 23(3)(b) whether information
+ought to be provided, the outgoing service provider is, so far as reasonably
+practicable, to ascertain and have regard to the views of the child or young
+person, taking account of the child’s age and maturity: section 23(4) and (5).
+In terms of section 23(6), the outgoing service provider may decide for the
+purpose of section 23(3)(b) that information ought to be provided only if the
+likely benefit to the wellbeing of the child or young person outweighs any
+likely adverse effect on that wellbeing. Section 23(7) provides:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Other than in relation to a duty
+of confidentiality, this section does not permit or require the provision of
+information in breach of a prohibition or restriction on the disclosure of information
+arising by virtue of an enactment or rule of law.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 24 imposes on service providers a duty to publish information
+about the operation of the named person service, and to provide children and
+young people and their parents with information about the arrangements for
+contacting named persons. Section 25 imposes on service providers and relevant
+authorities a duty to help in the exercise of named person functions.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 26 is concerned with the sharing of information, and is
+expressed in similar language to section 23. It imposes two duties to disclose
+information, and also confers a power. First, under section 26(1), a service provider
+or relevant authority (or any person exercising a function on their behalf,
+such as an independent contractor: section 26(10)) must provide to the service
+provider in relation to a child or young person any information which falls
+within subsection (2). Information falls within section 26(2) if the
+information holder considers that:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; it is likely to be
+relevant to the exercise of the named person functions in relation to the child
+or young person,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it ought to be provided
+for that purpose, and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; its provision to the
+service provider in relation to the child or young person would not prejudice
+the conduct of any criminal investigation or the prosecution of any offence.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, under section 26(3) the service provider in relation to a
+child or young person must provide to a service provider or relevant authority
+(or any person exercising a function on their behalf) any information which
+falls within subsection (4). Information falls within section 26(4) if the
+information holder considers that:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; it is likely to be
+relevant to the exercise of any function of the service provider or relevant
+authority which affects or may affect the wellbeing of the child or young person,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it ought to be provided
+for that purpose, and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; its provision to the
+service provider or relevant authority would not prejudice the conduct of any
+criminal investigation or the prosecution of any offence.”</p>
+
+<p class="ParaNoNumber">In considering for the purpose of section 26(2)(b) and
+the corresponding provision in section 26(4)(b) whether information ought to be
+provided, the information holder is, so far as reasonably practicable, to
+ascertain and have regard to the views of the child or young person, taking
+account of the child’s age and maturity: section 26(5) and (6). In terms of
+section 26(7), the information holder may decide for the purpose of section 26(2)(b)
+and (4)(b) that information ought to be provided only if the likely benefit to
+the wellbeing of the child or young person outweighs any likely adverse effect on
+that wellbeing.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, section 26(8) confers an additional power: the service provider
+in relation to a child or young person may provide to a service provider or
+relevant authority any information which falls within subsection (9).
+Information falls within section 26(9) if the information holder considers that
+its provision to the service provider or relevant authority is necessary or
+expedient for the purpose of the exercise of any of the named person functions.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, in relation to section 26, subsection (11) provides:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Other than in relation to a duty
+of confidentiality, this section does not permit or require the provision of
+information in breach of a prohibition or restriction on the disclosure of information
+arising by virtue of an enactment or rule of law.”</p>
+
+<p class="ParaLevel1">Section 27 makes further provision in relation to the
+disclosure of information in breach of a duty of confidentiality: where a
+person by virtue of Part 4 provides information in breach of such a duty and
+informs the recipient of that breach, the recipient may not provide the
+information to another person unless its provision is permitted or required by
+virtue of any enactment or rule of law.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 28 imposes a duty on local authorities, health boards, directing
+authorities and relevant authorities to have regard to guidance issued by the
+Ministers about the exercise of functions conferred by Part 4. Section 29
+imposes a duty on the same bodies to comply with any direction issued by the
+Ministers. Section 30 confers on the Ministers a power to make provision about
+complaints concerning the exercise of functions conferred by or under Part 4.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These provisions confirm that one of the central purposes of Part 4 is
+to establish new legal powers and duties, and new administrative arrangements,
+in relation to the sharing of information about children and young people, so
+as to create a focal point, in the form of named persons, for the pooling and
+sharing of such information, and the initiation of action to promote their
+wellbeing.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The terms in which sections 23 and 26 define the information which is
+subject to those powers and duties indicate an intention that the range of
+information to be shared will depend on the exercise of judgement by the
+information holder, and is potentially very wide. That is consistent with the
+emphasis in the consultation paper on collaborative working and routine
+information-sharing. Thus, under sections 23(3) and 26(2), the duty to share
+information does not depend on whether it is objectively relevant or necessary
+that it should be shared, but on whether the information holder considers that
+the information is likely to be relevant to the exercise of the named person
+functions (or, as the case may be, the functions of a service provider under
+Part 4): functions which are defined by section 19(5) by reference to what the
+named person considers to be appropriate in order to promote, support or
+safeguard wellbeing. Section 26(4)(a) is equally wide: the duty again applies
+to information which the information holder considers is likely to be relevant
+to the exercise of a function, and in addition the function need not be one
+which actually affects the wellbeing of a child or young person, but merely one
+which the information holder considers may affect their wellbeing. Section
+26(9) is wider still: the power of disclosure conferred by section 26(8) can be
+exercised in relation to information whose disclosure the information holder
+considers to be necessary or expedient for the purpose of the exercise of any
+of the named person functions. “Wellbeing” is not defined. The only guidance as
+to its meaning is provided by section 96(2), which lists eight factors to which
+regard is to be had when assessing wellbeing. The factors, which are known
+under the acronym SHANARRI, are that the child or young person is or would be:
+“safe, healthy, achieving, nurtured, active, respected, responsible, and included”.
+These factors are not themselves defined, and in some cases are notably vague:
+for example, that the child or young person is “achieving” and “included”.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The identification of a wellbeing need does not of itself give rise to
+compulsory measures. Part 5 of the Act introduces the “child’s plan” and
+“targeted interventions”. Section 33(2) defines “wellbeing need” broadly: a
+child has a wellbeing need “if the child’s wellbeing is being, or is at risk of
+being, adversely affected by any matter”. Where the responsible authority
+considers that a child has a wellbeing need and that that need cannot be met,
+or met fully, without a targeted intervention which is capable of meeting the
+need to some extent, it is to prepare a child’s plan for a targeted
+intervention or interventions. A targeted intervention is the provision of
+services for the child to meet needs which are not capable of being fully met
+by the general services to children which the relevant authority provides
+(section 33(4)). The child’s plan identifies the relevant authority which is to
+provide the service, the manner in which it is to be provided and the outcome
+which the targeted intervention is intended to achieve (section 34(1)). This does
+not involve any compulsion. Further, in deciding whether a child requires a
+child’s plan the responsible authority is required to consult the named person
+and, so far as reasonably practicable, to ascertain and have regard to the
+views of the child and the child’s parents, among others (section 33(6)).</a></p><a name="para17">
+
+<p class="ParaHeading">The Scottish Government’s revised draft statutory guidance</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 28(1) of the Act provides that a local authority, a health
+board, a directing authority and a relevant authority must have regard to
+guidance issued by the Scottish Ministers about the exercise of functions under
+Part 4. The Scottish Government in performance of its duty under section 96(3)
+published revised draft statutory guidance (“RDSG”) in December 2015. The RDSG
+is aimed at the strategic leaders and operational managers of health boards,
+local authorities, directing authorities and relevant authorities, which are
+responsible for operating Parts 4, 5 and 18 of the Act. It provides that the
+organisations must have regard to the guidance in carrying out those functions
+(para 1.2.2). It states (para 1.2.5) that separate practice materials will be
+made available for practitioners. It records the success of the pathfinder
+project set up in the Highland council area in 2006, which achieved the better
+coordination of assessment and planning in support of children’s needs by
+establishing common procedures and processes for sharing concerns about a child
+(para 1.3.3). It states:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The pathfinder brought significant
+improvements to children and young people and their families, reducing the need
+for statutory intervention in children’s and families’ lives by resolving
+potential problems at an earlier stage.”</p>
+
+<p class="ParaNoNumber">The improvements included greater clarity about whom
+families should go to when they needed help, falls in the number of referrals
+to the Children’s Reporter, a reduced number of children placed on the Child
+Protection Register, and the focussing of resources on the children who needed
+most support (para 1.3.3). It records that the approach had been adopted to
+varying degrees across Scotland (para 1.3.4).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The RDSG provides a useful insight into the context in which the named person
+is expected to operate. It explains that “wellbeing is multidimensional” (para
+2.3.4) and that wellbeing is “a broader, more holistic concept” than welfare
+(para 2.3.5). It advises on the relationship between child protection and
+wellbeing in these terms at para 2.3.6:</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“child protection is not something
+which sits separately from wellbeing. Indeed a series of low level indicators
+of wellbeing need (whether obviously related or not) taken together can amount
+to a child protection issue. Child protection requires taking prompt action to
+safeguard a child where an assessment indicates that the child may be at risk
+of significant harm. The child’s wider wellbeing should also be assessed to
+ensure their current and future holistic needs are considered.”</p>
+
+<p class="ParaNoNumber">In para 2.4.2, it gives guidance on the interpretation of
+the eight wellbeing indicators in section 96(2) as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Safe - protected from abuse,
+neglect or harm at home, at school and in the community.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Healthy - having the highest
+attainable standards of physical and mental health, access to suitable
+healthcare, and support in learning to make healthy, safe choices.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Achieving - being supported and
+guided in learning and in the development of skills, confidence and
+self-esteem, at home, in school and in the community.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Nurtured - having a nurturing
+place to live in a family setting, with additional help if needed, or, where
+this is not possible, in a suitable care setting.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Active - having opportunities to
+take part in activities such as play, recreation and sport, which contribute to
+healthy growth and development, at home, in school and in the community.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Respected - having the
+opportunity, along with carers, to be heard and involved in decisions that
+affect them.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Responsible - having opportunities
+and encouragement to play active and responsible roles at home, in school and
+in the community, and where necessary, having appropriate guidance and
+supervision, and being involved in decisions that affect them.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Included - having help to overcome
+social, educational, physical and economic inequalities, and being accepted as
+part of the community in which they live and learn.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The RDSG observes (at para 2.5.4) that the views of the child, young
+person or parents may differ from the practitioner’s view of wellbeing needs
+and states that “a holistic assessment should take account of all views”. It
+recognises that children can thrive in different environments and counsels
+respect for their and their parents’ culture and beliefs (para 2.5.5). It
+advises that a referral to the Children’s Reporter should be made where the
+wellbeing assessment reveals that a child needs protection, guidance, treatment
+or control and that a compulsory supervision order might be needed (para
+2.5.6). It continues (at para 2.5.7):</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Early intervention and a
+compulsory supervision order are not mutually exclusive in promoting,
+supporting and safeguarding the wellbeing of a child or young person. The use
+of compulsion at an early stage may help to ensure compliance with
+interventions, and prevent wellbeing needs escalating. Parental capacity and
+willingness to change should be considered in order to assess whether the
+child’s wellbeing needs are likely to be met by voluntary support or whether a
+compulsory supervision order might be necessary.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A named person, on becoming aware of a wellbeing need, should use
+professional judgement in deciding how to respond. “Seeking and considering the
+views of the child and parent should be a key part of the process unless doing
+this is likely to be detrimental to the child’s wellbeing” (para 4.1.28).</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The RDSG also gives guidance on the information-sharing duties contained
+in sections 23, 26 and 27 of the Act. It records (para 10.1.2) that Part 4 of
+the Act does not change the type of information being shared and received by
+service providers and relevant authorities but expresses the view that the Act
+will increase consistency in practice which in turn is likely to mean that more
+information will be shared. It advises that the Information Commissioner’s
+Office (ICO) Guide to Data Protection and its Data Sharing Code of Practice
+should be used to support the governance of data sharing (para 10.1.4). On
+article 8 of the European Convention on Human Rights (“ECHR”) it states (para
+10.3.1):</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The right to privacy in article 8
+is a qualified rather than an absolute right. Public authorities can share
+information if it is lawful and proportionate to do so, but each case must be
+considered carefully to assess what is lawful and proportionate in the
+particular circumstances.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The RDSG refers to the three tests for the sharing of information in
+section 26(2) and (4), namely (i) that the information is likely to be relevant
+to the exercise of the functions in question, (ii) that it ought to be provided
+for that purpose, and (iii) that the sharing of the information would not
+prejudice the conduct of a criminal investigation or the prosecution of any
+offence. In its discussion of the second test (para 10.7.4) it states:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is routine good practice to seek
+parents’ views about information shared, unless it would be against the child’s
+wishes, where they are considered capable of making that decision, or where
+seeking the views of the parent may be detrimental to the child’s wellbeing.”</p>
+
+<p class="ParaNoNumber">It states that “in all but exceptional situations, the
+child or young person, and, <u>as appropriate</u>, their parents” will be
+involved in the decision to share information (para 10.10.3) (emphasis added). It
+does not make the involvement of the parents a requirement in all but
+exceptional circumstances. It says, without elaborating, that there must be no
+other legal restrictions (paras 10.7.1 and 10.8.1). It explains the
+discretionary power of a named person service provider to share information
+under section 26(8) and (9) in para 10.11:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“where the named person service
+has identified a wellbeing need or has been made aware of a likely wellbeing
+need they have the opportunity to share information in order to explore options
+for support or to make enquiries on behalf of the child, young person or
+parents.”</p>
+
+<p class="ParaNoNumber">It states in relation to this discretionary sharing of
+information (para 10.11.2): “Any information shared must be legal and
+considered in terms of the principles and boundaries of data protection, human
+rights and children’s rights”, again without elaboration.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It explains section 26(11) in these terms (paras 10.13.2 - 10.13.4):</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“This sub-section of the Act
+permits health professionals and others governed by a professional or common
+law duty of confidentiality to legally disclose relevant information without
+the information provider’s consent where disclosure of that information has
+been considered and meets the tests set out in the relevant sub-sections of
+section 26.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Section 26(11) does not permit or
+require the sharing of information in breach of any other legal restriction
+such as the [Data Protection Act 1998 (‘DPA’)], the Human Rights Act 1998, an
+order of the court or a decision by a Children’s Hearing specifying non-disclosure
+of specific information.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">In all but exceptional situations,
+the child or young person, and - <u>as appropriate</u> - their parents, will be
+involved in the decision to share information and will be told what information
+has been shared in breach of a duty of confidentiality.” (emphasis added)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, the RDSG’s guidance on section 27 (disclosure of information
+provided in breach of confidentiality) is as follows (para 10.14.2):</a></p><a name="para25">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If the person receiving the
+information believes it is necessary to share all or part of it in order to
+promote, support or safeguard the child’s wellbeing, then the considerations in
+section 26 must be applied. This would <u>include taking into account the
+child’s views</u> and understanding the likely effect of sharing on the child’s
+wellbeing. Other legal requirements must also be considered, including the DPA
+and the child’s right to private and family life under article 8 of the ECHR. Decisions
+to share information in these situations will need to be evidenced, and the
+rationale recorded.” (emphasis added)</p>
+
+<p class="ParaHeading">The challenges to legislative competence</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 29(1) of the Scotland Act 1998 provides that an Act of the
+Scottish Parliament is not law so far as any provision of the Act is outside
+its legislative competence. In terms of section 29(2), a provision is outside
+its competence so far as any of the following paragraphs apply. Paragraph (b)
+applies where the provision “relates to reserved matters”. We address that
+challenge in section I (paras 27 to 66 below). Paragraph (d) applies where the
+provision “is incompatible with any of the Convention rights or with EU law.” We
+address the Convention rights challenge and comment briefly on the EU law
+challenge in sections II and III (paras 67 to 105 below).</a></p><a name="para26">
+
+<p class="ParaHeading">I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reserved matters challenge</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants are four registered charities with an interest in family
+matters and three individual parents. They challenge the lawfulness of the data
+sharing and retention provisions in the Act on the ground that they relate to
+reserved matters, with the consequence that section 29(2)(b) of the Scotland
+Act applies. They have focused on sections 26 and 27 of the 2014 Act, but their
+arguments apply also in relation to section 23(2). In terms of section 29(3) of
+the Scotland Act, the question whether a provision relates to a reserved matter
+is to be determined (subject to subsection (4), which has no bearing on the
+present case) “by reference to the purpose of the provision, having regard
+(among other things) to its effect in all the circumstances”.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 30 of the Scotland Act gives effect to Schedule 5, in which
+reserved matters are defined. In particular, paragraph 1 of Part II of Schedule
+5 provides that the matters to which the Sections in that Part apply are
+reserved matters. As was pointed out by Lord Hope in <i>Imperial Tobacco Ltd v
+Lord Advocate </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2012/61.html">[2012] UKSC 61</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2012/61.html">2013 SC (UKSC) 153</a>, in a judgment with which
+the other members of the court agreed, the matters listed have a common theme:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is that matters in which the
+United Kingdom as a whole has an interest should continue to be the
+responsibility of the UK Parliament at Westminster. They include matters which
+are affected by its treaty obligations and matters that are designed to ensure
+that there is a single market within the United Kingdom for the free movement
+of goods and services.” (para 29)</p>
+
+<p class="ParaNoNumber">Amongst the matters listed in Schedule 5 is Section B2:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“B2.&nbsp;&nbsp;&nbsp; Data protection</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">The subject-matter of -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Data Protection Act
+1998, and</p>
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:25.45pt;margin-bottom:
+26.0pt;margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Council Directive 95/46/EC (protection of
+individuals with regard to the processing of personal data and on the free
+movement of such data).”</p>
+
+<p class="ParaNoNumber">Paragraph 5 of Part III of Schedule 5 provides that
+references in the schedule to the subject-matter of any enactment are to be
+read as references to the subject-matter of that enactment as it had effect on
+the principal appointed day, which was 1 July 1999. It is therefore the version
+of the Data Protection Act (“DPA”) which was in force on that date which is
+relevant.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court has had to apply section 29(2)(b) and (3) on a number of
+occasions, and the approach to be adopted is now well established. In <i>Martin
+v Most</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2010/10.html">[2010] UKSC 10</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/10.html">2010 SC (UKSC) 40</a>, para 49, Lord Walker said that
+the expression “relates to” was</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“familiar in this sort of context,
+indicating more than a loose or consequential connection, and the language of
+section 29(3), referring to a provision’s purpose and effect, reinforces that.”</p>
+
+<p class="ParaNoNumber">That approach was endorsed by Lord Hope in <i>Imperial
+Tobacco</i> (para 16).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Whether a provision “relates to” a reserved matter, in the sense
+explained by Lord Walker, is determined by reference to the purpose of the
+provision in question. That purpose is to be ascertained having regard to the
+effect of the provision, amongst other relevant matters. As was said in
+relation to the similar provisions in the Government of Wales Act 2006 in <i>In
+re Agricultural Sector (Wales) Bill</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2014/43.html">[2014] UKSC 43</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/43.html">[2014] 1 WLR 2622</a>, para
+50:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“As the section requires the
+purpose of the provision to be examined it is necessary to look not merely at
+what can be discerned from an objective consideration of the effect of its
+terms.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Determining the purpose of a provision may not be an easy matter. For
+example, must a single predominant purpose be identified, or will the provision
+relate to a reserved matter provided one purpose which can properly be
+attributed to it justifies that conclusion? That question was considered,
+obiter, by Lord Hope in <i>Imperial Tobacco. </i>The legislation in issue
+imposed restrictions upon the advertising and sale of tobacco products, and was
+challenged as relating to reserved matters, namely consumer protection and
+product safety. Lord Hope stated:</a></p><a name="para31">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I do not see this as a case which
+gives rise to the problem which may need to be dealt with if the provision in
+question has two or more purposes, one of which relates to a reserved matter.
+In such a situation the fact that one of its purposes relates to a reserved
+matter will mean that the provision is outside competence, unless the purpose
+can be regarded as consequential and thus of no real significance when regard
+is had to what the provision overall seeks to achieve.” (para 43)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This approach should not be confused with the “pith and substance” test
+developed to resolve problems in a number of federal systems, to which the
+Court of Session referred in the present case. Although in <i>Martin v Most</i>
+Lord Hope mentioned cases applying that test<i> </i>as forming part of the
+background to the scheme applied in the Scotland Act, he went on to point out
+that the phrase did not appear in the Act, and that the rules which had to be
+applied were those laid down in the Act (para 15). In <i>Imperial Tobacco, </i>Lord
+Hope emphasised the latter point:</a></p><a name="para32">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[T]he intention was that it was
+to the 1998 Act itself, not to decisions as to how the problem was handled in
+other jurisdictions, that one should look for guidance. So it is to the rules
+that the 1998 Act lays down that the court must address its attention.” (para
+13)</p>
+
+<p class="ParaNoNumber">So, in the present case, the Second Division’s finding
+that the pith and substance of the 2014 Act are child protection does not
+answer the question whether any of its provisions relate to the subject-matter
+of the DPA and Directive 95/46/EC (“the Directive”).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is necessary only to add that the question whether a provision of an
+Act of the Scottish Parliament relates to a reserved matter is different from
+the question whether such a provision modifies the law on reserved matters. The
+latter question is addressed by section 29(2)(c) of the Scotland Act and
+Schedule 4, paragraph 2.</a></p><a name="para33">
+
+<p class="ParaHeading">The subject-matter of the Directive</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Directive was made under article 100a of the EC Treaty, which
+authorises measures for the harmonisation of national laws with the aim of
+achieving the internal market. The subject-matter of the Directive is described
+in general terms in its title: it is a directive “on the protection of
+individuals with regard to the processing of personal data, and the free
+movement of such data”. The link between these two subjects is explained in the
+recitals. In particular, recital 7 states that “the difference in levels of
+protection of the rights and freedoms of individuals, notably the right to privacy,
+with regard to the processing of personal data afforded in the member states
+may ... constitute an obstacle to the pursuit of a number of economic
+activities at Community level, distort competition and impede authorities in
+the discharge of their responsibilities under Community law.” The recital
+continues by noting that “this difference in levels of protection is due to the
+existence of a wide variety of national laws, regulations and administrative
+provisions”. Accordingly, recital 8 states that “in order to remove the
+obstacles to flows of personal data, the level of protection of the rights and
+freedoms of individuals with regard to the processing of such data must be
+equivalent in all member states”. The intended result, as recital 9 states, is
+that “given the equivalent protection resulting from the approximation of
+national laws, the member states will no longer be able to inhibit the free
+movement between them of personal data on grounds relating to protection of the
+rights and freedoms of individuals, and in particular the right to privacy”.
+The scope of application of the Directive is not, however, restricted to
+situations involving free movement: <i>Bodil Lindquist </i>(Case C-101/01)<i> </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2003/C10101.html">[2003] ECR I-12971</a>, paras 40-44.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning to the substantive articles of the Directive, Chapter I sets out
+general provisions. In particular, article 1 defines the twofold object of the
+Directive:</a></p><a name="para35">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In accordance with this
+Directive, member states shall protect the fundamental rights and freedoms of natural
+persons, and in particular their right to privacy with respect to the
+processing of personal data.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Member states shall
+neither restrict nor prohibit the free flow of personal data between member states
+for reasons connected with the protection afforded under paragraph 1.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 2 defines certain terms, and article 3 describes the scope of
+the Directive. In terms of article 3(1), it applies to “the processing of personal
+data wholly or partly by automatic means, and to the processing otherwise than
+by automatic means of personal data which form part of a filing system or are intended
+to form part of a filing system.” “Personal data” is defined by article 2(a) as
+meaning “any information relating to an identified or identifiable natural
+person (‘data subject’)”. “Processing of personal data” is defined by article
+2(b) as meaning “any operation or set of operations which is performed upon
+personal data, whether or not by automatic means, such as collection,
+recording, organization, storage, adaptation or alteration, retrieval, consultation,
+use, disclosure by transmission, dissemination or otherwise making available, alignment
+or combination, blocking, erasure or destruction”. Article 3(2) lists certain
+circumstances in which the Directive is not to apply. It has not been argued
+that any of those circumstances applies in the present case.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Chapter II sets out general rules on the lawfulness of the processing of
+personal data. Article 5 requires member states, within the limits of the
+provisions of that Chapter, to determine more precisely the conditions under
+which the processing of personal data is lawful. Article 6 sets out five
+general principles, somewhat misleadingly described as “principles relating to
+data quality”, to which member states must give effect. For example, the second
+principle is that personal data must be “collected for specified, explicit and
+legitimate purposes and not further processed in a way incompatible with those
+purposes”. Article 7 sets out six general conditions, described as “criteria for
+making data processing legitimate”, which member states must apply to the
+processing of personal data, so that at least one of the conditions is
+satisfied. Article 8 sets out particular rules in relation to the processing of
+what are described as special categories of data, including data revealing
+racial or ethnic origins, and data concerning health or sex life. Article 8(1)
+requires member states to prohibit the processing of such data. The remaining
+paragraphs of article 8 then disapply article 8(1) in a number of specified
+circumstances, to which it will be necessary to return.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Articles 10 and 11 require member states to provide that the data
+controller must provide the data subject with information about the processing
+of his personal data. Article 12 requires member states to guarantee certain
+rights of data subjects in relation to data controllers. Article 13 permits
+member states to adopt legislation restricting the scope of certain of these
+rights and obligations where specified conditions are met. Article 14 requires
+member states to grant the data subject the right to object to the processing
+of his personal data in certain circumstances. Most of the remaining provisions
+of Chapter II are concerned with the regulation of data controllers. Chapter III
+is concerned with judicial remedies, liability, and sanctions. Chapter IV is
+concerned with the transfer of personal data to third countries. Chapter V is
+concerned with codes of conduct, and Chapter VI with the establishment of
+national supervisory authorities and of an EU working party. Finally, Chapter
+VII is concerned with Community implementing measures.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Put shortly, therefore, the Directive was designed to harmonise the laws
+of the member states relating to the protection of individuals’ interests in
+relation to the use of their personal data. Its provisions specify the
+standards of protection which the laws of the member states must afford, and
+the methods by which those standards are to be secured and enforced.</a></p><a name="para39">
+
+<p class="ParaHeading">The subject-matter of the DPA</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The DPA is the measure implementing the Directive in the UK. One would
+therefore expect its subject-matter to be the same as that of the Directive,
+and so it proves. The subject-matter of the DPA is described in general terms
+in its short title: “the regulation of the processing of information relating
+to individuals, including the obtaining, holding, use or disclosure of such
+information”.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Part I of the DPA defines some of the critical terms, broadly following
+the definitions in the Directive. Part I also contains some other fundamental
+provisions of the DPA. Section 4 imposes on a data controller an obligation to
+comply with the data protection principles set out in Part I of Schedule 1, to
+which it will be necessary to return. Section 6 establishes the office of
+Information Commissioner, known in 1999 (cf para 28 above) as the Data
+Protection Commissioner. Part II of the DPA confers various rights on
+individuals relating to information concerning themselves, including rights to
+access personal data (section 7), to prevent processing which is likely to
+cause damage or distress (section 10), and to apply for the rectification or
+destruction of inaccurate data (section 14). Part III contains provisions
+relating to the regulation of data controllers by the Commissioner. Part IV
+makes provision for exemptions from the data protection principles, and from
+Parts II and III. Part V concerns enforcement by the Commissioner, and Part VI
+contains miscellaneous and general provisions.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is apparent that the DPA is intended to secure equivalent standards
+of protection of the rights of individuals in relation to the processing of
+personal data throughout the UK, and equivalent methods of securing and
+enforcing those standards. That is as one would expect, given the aims of the
+Directive. Accordingly, the DPA applies to data controllers throughout the UK:
+section 5. It establishes a single regulatory authority for the whole of the
+UK: section 6. (Somewhat confusingly, a separate Scottish Information
+Commissioner exercises functions under the Freedom of Information (Scotland)
+Act 2002, but has no regulatory role in relation to data protection). The
+Commissioner is the designated authority in the UK for the purposes of the 1981
+Council of Europe Convention for the Protection of Individuals with regard to
+Automatic Processing of Personal Data, and is also the supervisory authority in
+the UK for the purposes of the Directive: section 54(1). He is accountable to
+the UK Parliament, and must lay before it reports and codes of practice: section
+52. His accounts are examined by the Comptroller and Auditor General: Schedule
+5, Part I, paragraph 10. His power to issue codes of practice is exercisable as
+directed by the Secretary of State: section 51(3). The powers to make orders,
+regulations and rules under the DPA are exercisable only by the Secretary of
+State, and only by means of a statutory instrument approved by the UK
+Parliament: see, for example, sections 30, 38, 54, 64 and 67. The power to
+designate codes of practice, for the purpose of exemptions relating to
+journalism, literature and art, is similarly conferred on the Secretary of
+State: section 32(3). Appeals under the DPA lie to the First-tier and Upper
+Tribunals (in 1999, to the Data Protection Tribunal) throughout the UK: section
+70(1).</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The DPA allows scope for derogation from certain of its requirements by
+enactments either of the UK Parliament or of the Scottish Parliament. An
+example relevant to the present case, to which it will be necessary to return,
+is section 35(1), under which personal data are exempt from certain provisions
+relating to the disclosure of information where the disclosure is required by
+or under any “enactment”, an expression which is defined by section 70(1) as
+including any enactment comprised in, or in any instrument made under, an Act
+of the Scottish Parliament.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Put shortly, therefore, the DPA was designed to implement the Directive
+by establishing standards of protection of individuals’ interests in relation
+to the use of their personal data, and methods by which those standards are to
+be secured and enforced, which are equivalent in effect throughout the UK. In
+particular, it imposes obligations on data controllers in relation to the
+processing of data, and creates rights on the part of data subjects. It also
+creates a system for the regulation of data controllers by the Commissioner. It
+allows scope, however, for derogation from certain of its requirements by
+legislation which need not be UK-wide in application.</a></p><a name="para44">
+
+<p class="ParaHeading">The effect of Part 4 of the 2014 Act in relation to the
+DPA</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The bodies described in Part 4 of the 2014 Act as service providers,
+relevant authorities and directing authorities are currently subject, prior to
+the entry into force of that Act, to a variety of legal duties in relation to
+the disclosure of information, including duties imposed by the DPA. In
+particular, as mentioned earlier, section 4 of that Act imposes on a data
+controller an obligation to comply with the data protection principles set out
+in Part I of Schedule 1. Those principles include the following:</a></p><a name="para45">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal data shall be
+processed fairly and lawfully and, in particular, shall not be processed unless
+-</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at least one of the
+conditions in Schedule 2 is met, and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the case of
+sensitive personal data, at least one of the conditions in Schedule 3 is also met.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal data shall be
+obtained only for one or more specified and lawful purposes, and shall not be
+further processed in any manner incompatible with that purpose or those
+purposes.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal data shall be adequate,
+relevant and not excessive in relation to the purpose or purposes for which
+they are processed.”</p>
+
+<p class="ParaNoNumber">Section 2 of the DPA defines “sensitive personal data” as
+including (amongst other matters) information as to a person’s racial or ethnic
+origins, his physical or mental health or condition, his sexual life, or the
+commission or alleged commission by him of any offence.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Those principles are supplemented by the provisions of Part II of
+Schedule 1 to the DPA, which indicate how they are to be interpreted. For
+example, Part II contains provisions specifying circumstances in which a data
+subject is to be provided with information, and the nature of that information,
+in order for the data to be regarded as having been processed fairly for the purposes
+of the first principle.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the conditions referred to in the first principle,
+Schedule 2 sets out the following conditions, so far as material to the present
+case:</a></p><a name="para47">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The data subject has
+given his consent to the processing.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The processing is
+necessary for compliance with any legal obligation to which the data controller
+is subject, other than an obligation imposed by contract.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The processing is
+necessary in order to protect the vital interests of the data subject.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The processing is necessary
+-</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for the exercise of any
+functions conferred on any person by or under any enactment ...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) The processing is
+necessary for the purposes of legitimate interests pursued by the data
+controller or by the third party or parties to whom the data are disclosed,
+except where the processing is unwarranted in any particular case by reason of
+prejudice to the rights and freedoms or legitimate interests of the data
+subject.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows from those conditions that, prior to the entry into force of
+the 2014 Act, a data controller in Scotland can disclose information about a
+child or young person without her consent (assuming, in the case of a statutory
+body, that the disclosure is otherwise within its powers), if the disclosure is
+necessary to protect her vital interests (condition 4), a test which requires
+more than that it is likely to benefit her wellbeing; or if the disclosure is
+necessary for the exercise of a statutory function (condition 5(b)), but not
+merely because it considers that the information is likely to be relevant to
+the exercise of that function. The data controller is also, of course, obliged
+to comply with the other data protection principles so far as relevant, and
+with any requirements arising from Part II of Schedule 1. In particular, it is
+required to comply with the third data protection principle, in terms of which
+personal data must be relevant (and not merely considered by the data
+controller to be likely to be relevant) in relation to the purpose or purposes for
+which they are processed.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to sensitive data, Schedule 3 sets out the following
+additional conditions, so far as material:</a></p><a name="para49">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The data subject has
+given his explicit consent to the processing of the personal data.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The processing is
+necessary -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in order to protect the
+vital interests of the data subject or another person, in a case where -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; consent cannot be
+given by or on behalf of the data subject, or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the data controller
+cannot reasonably be expected to obtain the consent of the data subject, or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in order to protect the
+vital interests of another person, in a case where consent by or on behalf of
+the data subject has been unreasonably withheld.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) The processing is
+necessary -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for the exercise of any
+functions conferred on any person by or under an enactment ...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The processing is
+necessary for medical purposes and is undertaken by -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a health professional,
+or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a person who in the
+circumstances owes a duty of confidentiality which is equivalent to that which
+would arise if that person were a health professional.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows from those conditions that, prior to the entry into force of
+the 2014 Act, a data controller in Scotland of sensitive data can disclose
+information about the health or sexual life of a child or young person, without
+his or her explicit consent (assuming, in the case of a statutory body, that
+the disclosure is otherwise within its powers), if the disclosure is necessary
+in order to protect his or her vital interests (and not merely because it is likely
+to benefit her wellbeing) and, in addition, it is either impossible for him or
+her to give consent or the data controller cannot reasonably be expected to
+obtain it (condition 3). The information can also be disclosed if its
+disclosure is necessary for the exercise of a statutory function (condition
+7(1)(b)), but not merely because the data controller considers that the
+information is likely be relevant to the exercise of that function. It can also
+be disclosed for medical purposes, but only where a duty of confidentiality is
+owed (condition 8): a requirement which gives rise to a difficulty (not
+discussed in this appeal) where disclosure is liable to be made under Part 4 of
+the 2014 Act, since sections 23(7) and 26(11) of the 2014 Act override duties of
+confidentiality. It is in addition necessary to comply with the other data
+protection principles, and with any requirements arising from Part II of
+Schedule 1.</a></p><a name="para50">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The effect of Part 4 of the 2014 Act on the requirements of the DPA is
+extremely complex. Numerous difficult questions are liable to arise, which were
+not discussed in detail, if at all, in the present appeal. A sufficient idea of
+the effect of Part 4 can, however, be obtained to enable the issue arising in
+relation to reserved matters to be determined.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It may be helpful to explain at the outset that much of the difficulty
+arises from sections 23(7) and 26(11) of the 2014 Act, in terms of which
+sections 23 and 26 do not permit or authorise the provision of information in
+breach of a prohibition or restriction on its disclosure arising by virtue of
+an enactment or rule of law (other than in relation to a duty of
+confidentiality). This means that the powers and duties of disclosure set out
+in sections 23 and 26 cannot be taken at face value. To the extent that their
+terms may be inconsistent with the requirements of the DPA, they have no
+effect. The DPA itself, however, contains provisions which confer exemptions
+from some of its requirements where they are inconsistent with another
+enactment, or which treat some of its requirements as satisfied where
+disclosure is necessary for compliance with a statutory obligation. In these
+circumstances, it is necessary for anyone wanting to understand the effect of
+sections 23 and 26 on the disclosure of information to have the 2014 Act in one
+hand and the DPA in the other, to determine the priority which their provisions
+have vis-à-vis one another notwithstanding the logical puzzle created by
+sections 23(7) and 26(11) of the 2014 Act when read with the DPA, and to try,
+by cross-reference, to work out their cumulative effect.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>One potentially significant effect follows from section 35(1) of the DPA,
+in terms of which personal data are exempt from the non-disclosure provisions
+where the disclosure is “required” by or under any enactment. A provision of an
+Act of the Scottish Parliament is an enactment for this purpose: section 70(1).
+The non-disclosure provisions are defined by section 27(3) of the DPA as
+meaning the provisions specified in section 27(4) of that Act, to the extent to
+which they are inconsistent with the disclosure in question. Those provisions
+are the first data protection principle, except to the extent to which it
+requires compliance with the conditions in Schedules 2 and 3, the second,
+third, fourth and fifth data protection principles, section 10 (the right to
+prevent processing likely to cause damage or distress) and section 14(1) to (3)
+(the rectification, blocking, erasure and destruction of data). Sections 23(2),
+26(1) and 26(3) of the 2014 Act require the disclosure of personal data,
+subject to sections 23(7) and 26(11). Accordingly, if those provisions are
+within devolved competence, and if the logical puzzle as to whether section
+35(1) of the DPA prevails over sections 23(7) and 26(11) of the 2014 Act is
+resolved in favour of section 35(1) (a point which was not the subject of
+argument in this appeal, but was the implicit basis on which the arguments
+proceeded), then it follows that disclosure as required by sections 23 and 26
+is exempt from the non-disclosure provisions, as defined, to the extent that
+the non-disclosure provisions are inconsistent with the disclosure.</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For example, the third data protection principle is inconsistent with
+the disclosure required by sections 23(2), 26(1) and 26(3) of the 2014 Act,
+since those provisions require disclosure of information which is considered by
+the data processor to be “likely to be relevant”, whereas the third principle
+requires any personal data disclosed to be “relevant”, as well as adequate and
+not excessive in relation to the purpose or purposes for which they are
+processed. On the other hand, the fifth principle (that data processed for any
+purpose or purposes shall not be kept for longer than is necessary for that
+purpose or those purposes) is not inconsistent with sections 23 and 26 of the
+2014 Act, and therefore continues to apply. The duties of disclosure imposed by
+sections 23 and 26 remain subject to numerous other provisions of the DPA,
+including the first data protection principle, to the extent to which it
+requires compliance with the conditions in Schedules 2 and 3. The power
+conferred by section 26(8) of the 2014 Act, on the other hand, does not
+“require” disclosure, and therefore cannot benefit from the exemption conferred
+by section 35(1) of the DPA.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The discussion in this appeal focused on only one aspect of the complex
+inter-relationship between Part 4 of the 2014 Act and the DPA, namely the
+question whether disclosure in accordance with the duties imposed by Part 4 of
+the 2014 Act would comply with the conditions imposed by Schedules 2 and 3 to
+the DPA. It was argued on behalf of the Ministers that conditions 3 and 5(b) in
+Schedule 2, and condition 7(1)(b) in Schedule 3, would be met. Condition 3 is
+satisfied where the processing “is necessary for compliance with any legal
+obligation to which the data controller is subject, other than an obligation
+imposed by contract”. Condition 5(b) in Schedule 2, and condition 7(1)(b) in
+Schedule 3, are satisfied where the processing “is necessary ... for the
+exercise of any functions conferred on any person by or under any [or an]
+enactment”.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The imposition of a statutory duty of disclosure by sections 23(2),
+26(1) and 26(3) of the 2014 Act has the consequence that condition 3 in
+Schedule 2 to the DPA is satisfied. The terms in which that duty is imposed do
+not, on the other hand, meet the requirements of condition 5(b) in Schedule 2
+and condition 7(1)(b) in Schedule 3. In each case, the data controller is
+required by the 2014 Act to disclose personal data to a third party if he
+“considers” that the data are “likely to be relevant” to the exercise of
+certain statutory functions by the third party and “ought to be provided for
+that purpose”. The test imposed by condition 5(b) in Schedule 2 and condition
+7(1)(b) in Schedule 3 to the DPA requires that disclosure must be “necessary”
+for the exercise of statutory functions (which must again refer to the
+functions of the person to whom the disclosure is made, given that section
+35(1), read with section 27, requires that a data processor who is under a
+statutory duty to make the disclosure must comply with Schedules 2 and 3: a
+requirement which would be pointless if it were met ex hypothesi). The meaning
+of “necessary” was considered by this court in <i>South Lanarkshire Council v
+Scottish Information Comr </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/55.html">[2013] UKSC 55</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/55.html">2014 SC (UKSC) 1</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/55.html">[2013] 1 WLR 2421</a>. As was explained there at paras 25-27, it is an expression whose meaning
+depends on the context in which it falls to be applied. Where the disclosure of
+information constitutes an interference with rights protected by article 8 of
+the ECHR, as in the present context (as explained at paras 75-77 below), the
+requirement that disclosure is “necessary” forms part of a proportionality
+test: the disclosure must involve the least interference with the right to
+respect for private and family life which is required for the achievement of
+the legitimate aim pursued. Disclosure where the data processor considers that
+the information is likely to be relevant cannot be regarded as necessary if the
+legitimate aim could be achieved by something less. It cannot be “necessary”,
+in that sense, to disclose information merely on the ground that it is
+objectively relevant, let alone on the ground that a particular body considers
+that it is likely to be relevant. Relevance is a relatively low threshold:
+information may be relevant but of little significance. A test of potential
+relevance fails to recognise the need to weigh the importance of the disclosure
+in achieving a legitimate aim against the importance of the interference with
+the individual’s right to respect for her private and family life. That
+deficiency is not made good by the requirement that the data controller
+considers that the information ought to be provided. It will be necessary to
+return to the question of proportionality when we consider the challenge to the
+legislation under article 8.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57">57.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So far as the power conferred by section 26(8) is concerned, a data
+controller “may” disclose information to a third party if he “considers” that
+to do so is “necessary or expedient” for the purpose of the exercise of any of
+the named person functions. Those conditions are less demanding than any of the
+conditions in Schedules 2 and 3 to the DPA that are relied on by the Ministers.
+Condition 3 in Schedule 2 is not satisfied, since the disclosure does not have
+to be necessary for compliance with any legal obligation imposed on the data
+controller. Condition 5(b) in Schedule 2, and condition 7(1)(b) in Schedule 3,
+are not satisfied, since the processing does not have to be necessary for the
+exercise of any of the named person functions. Nor is the third data protection
+principle met, since there is no requirement that the information should be
+relevant.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first data protection principle is therefore complied with, in so
+far as the duties of disclosure imposed by Part 4 of the 2014 Act apply to
+non-sensitive data, but not in so far as they apply to sensitive data or in so
+far as Part 4 confers a power to disclose information rather than imposing a
+duty. Sections 23(7) and 26(11) therefore apply, with the consequence that the
+duties imposed by sections 23(2), 26(1) and 26(3) in respect of sensitive data,
+and the power conferred by section 26(8) in respect of data of all kinds,
+cannot be taken at face value. Instead, the duties imposed by sections 23(2),
+26(1) and 26(3) in respect of sensitive data must be understood as being
+conditional upon compliance with at least one of the conditions in Schedule 3
+to the DPA, and therefore as being subject to more stringent criteria than
+those which appear on the face of the 2014 Act. The power conferred by section
+26(8) must likewise be understood as being conditional upon compliance with at
+least one of the conditions in Schedule 2 to the DPA, and also, if the
+information in question is sensitive data, upon compliance with at least one of
+the conditions in Schedule 3. In addition, it is subject to compliance with the
+requirements arising in relation to the first data protection principle under
+Part II of Schedule 1 to the DPA, and also to compliance with the other data
+protection principles and the other duties imposed by the DPA.</a></p><a name="para58">
+
+<p class="ParaHeading">The effect of Part 4 of the 2014 Act in relation to the
+Directive</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As explained earlier, the Directive requires member states to establish
+a number of principles relating to the processing of data, which find their
+counterpart in the data protection principles laid down in the DPA. The
+principles set out in the Directive are complex and raise numerous issues of
+interpretation, like their UK counterparts. For present purposes, it is
+sufficient to focus on the provisions corresponding to Schedules 2 and 3 to the
+DPA.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As explained earlier, article 7 sets out six general criteria which
+member states must apply to the processing of personal data, so that at least
+one of the criteria is satisfied. The criteria which the Ministers maintain are
+satisfied by the terms of Part 4 of the 2014 Act are the following:</a></p><a name="para60">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(c)&nbsp;&nbsp;&nbsp;&nbsp; processing is necessary
+for compliance with a legal obligation to which the controller is subject; or</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; processing is necessary
+for the performance of a task carried out in the public interest or in the
+exercise of official authority vested in the controller or in a third party to
+whom the data are disclosed.”</p>
+
+<p class="ParaNoNumber">These criteria are almost identical to those set out in
+conditions 3 and 5(b) in Schedule 2 to the DPA. For the reasons explained
+earlier, sections 23(2), 26(1) and 26(3) meet the requirements of criterion
+(c), but section 26(8) does not meet the requirements of any of the criteria.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As explained earlier, article 8(2) permits specified exemptions from the
+general prohibition imposed by article 8(1) on the processing of personal data
+revealing racial or ethnic origin, political opinions, religious or
+philosophical beliefs, trade-union membership, and the processing of data
+concerning health or sex life. The exemptions, so far as potentially relevant,
+are as follows:</a></p><a name="para61">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; the data subject has
+given his explicit consent to the processing of those data, except where the
+laws of the member state provide that the prohibition referred to in paragraph
+1 may not be lifted by the data subject’s giving his consent; or</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; processing is necessary
+to protect the vital interests of the data subject or of another person where
+the data subject is physically or legally incapable of giving his consent.”</p>
+
+<p class="ParaNoNumber">Article 8(3) disapplies the prohibition in article 8(1)
+where</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“processing of the data is
+required for the purposes of preventive medicine, medical diagnosis, the
+provision of care or treatment or the management of health-care services, and
+where those data are processed by a health professional subject ... to the
+obligation of professional secrecy or by another person also subject to an
+equivalent obligation of secrecy.”</p>
+
+<p class="ParaNoNumber">Article 8(4) of the Directive permits member states to
+lay down additional exemptions for reasons of substantial public interest,
+subject to the provision of suitable safeguards. Any such additional exemptions
+must be notified to the Commission.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sections 23(2) and 26(1), (3) and (8) of the 2014 Act do not meet the
+requirements of the exemptions in article 8(2). The provisions of Part 4 of the
+2014 Act have not been notified to the Commission, and it is not suggested that
+there has been any other relevant notification. Nor has it been argued that the
+provisions of Part 4 would meet the other requirements of article 8(4). It
+follows for this reason also that, applying sections 23(7) and 26(11), sections
+23 and 26 cannot be taken at face value. The performance of the powers and
+duties created by those provisions, in respect of data falling within the scope
+of article 8, must be understood as being permissible only where either one of
+the exemptions listed in article 8(2) applies, or the processing falls within
+the scope of article 8(3).</a></p><a name="para62">
+
+<p class="ParaHeading">Discussion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Does it follow, for the purposes of Section B2 of Schedule 5 to the
+Scotland Act, that any of the provisions of Part 4 of the 2014 Act relate to
+the subject-matter of the DPA and the Directive? The fact that a provision of
+an Act of the Scottish Parliament requires or authorises the disclosure of
+personal data does not in itself mean that the provision is outside legislative
+competence: as explained earlier, the DPA envisages in section 35(1), read with
+section 70(1), that the disclosure of personal data may be required by an
+enactment comprised in an Act of the Scottish Parliament. In view of that
+provision, the Scotland Act cannot sensibly be interpreted as meaning that an
+enactment “relates to” the subject-matter of the DPA, and is therefore outside
+the powers of the Scottish Parliament, merely because it requires or authorises
+the disclosure of personal data. On the other hand, an enactment does not have
+to modify the DPA in order to relate to the subject-matter of that Act. That follows
+from the distinction between section 29(2)(b) and (c) of the Scotland Act. The
+question whether an enactment relates to the subject-matter of the DPA and the
+Directive has to be decided by following the approach described in paras 29 to
+31 above.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following that approach, it was argued on behalf of the Ministers that
+the purpose of Part 4 is to promote the wellbeing of children and young people,
+and that the provisions concerning the processing of personal data are merely
+consequential upon, or incidental to, that purpose. It is true that the
+ultimate aim of Part 4 is to promote the wellbeing of children and young
+people. Its more specific objective is to alter the institutional arrangements,
+and the legal structure of powers and duties, governing cooperation between the
+different agencies which deal with children and young people, so that they work
+collaboratively, with the named person playing a coordinating role. That
+objective reflects the concern, noted in the background material to the 2014
+Act, that a weakness in the existing arrangements was that information was not
+shared until the stage had been reached where a child or young person was at
+risk of harm. Part 4 is designed to address that concern by ensuring that
+information is shared between the relevant agencies, and acted on where
+appropriate, before that stage is reached. Accordingly, although Part 4
+contains provisions whose objective is to ensure that information relating to
+children and young people is shared, that objective is not truly distinct from
+the overall purpose of promoting their wellbeing, but can be regarded as
+consequential upon it.</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is also important to bear in mind the central aim of the provisions
+in the Scotland Act concerning reserved matters, explained at para 28 above: that
+matters in which the UK as a whole has an interest should continue to be the
+responsibility of the UK Parliament. As explained at para 44 above, the DPA
+deals with matters in which the UK as a whole has an interest, because it
+implements the Directive, in accordance with the UK’s treaty obligations, by
+establishing standards of protection of individuals’ interests in relation to
+the use of their personal data, and methods by which those standards are to be
+secured and enforced, which are equivalent in effect throughout the UK. But it
+also, in section 35 and elsewhere, leaves scope for derogation from certain of
+its requirements by the UK Parliament and by the Scottish Parliament. To the
+extent that Part 4 of the 2014 Act affects the way in which the data protection
+regime under the DPA applies to matters falling within its scope, that
+possibility is contemplated by the DPA itself, in section 35. Part 4 does not
+detract from the regime established by the DPA and the Directive, even if that
+is only by reason of the fail-safe provisions of sections 23(7) and 26(11).</a></p><a name="para65">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, we are not persuaded that the provisions of Part 4
+relate to the subject-matter of the DPA and the Directive.</a></p><a name="para66">
+
+<p class="ParaHeading">II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The human rights challenge</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants challenge the compulsory appointment of a named person as
+a breach of the rights of the parents of children under article 8 of the ECHR. Article
+8 provides:</a></p><a name="para67">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Everyone has the right
+to respect for his private and family life, his home and his correspondence.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There shall be no
+interference by a public authority with the exercise of this right except such
+as is in accordance with the law and is necessary in a democratic society in
+the interests of national security, public safety or the economic wellbeing of
+the country, for the prevention of disorder or crime, for the protection of
+health or morals, or for the protection of the rights and freedoms of others.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para67"></a><a name="para68">68.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants’ challenge proceeds on both a broad basis and a narrower
+basis. The broad challenge is that the compulsory appointment of a named person
+to a child involves a breach of the parents’ article 8 rights unless the
+parents have consented to the appointment or the appointment is necessary to
+protect the child from significant harm. The narrower challenge focusses on the
+provisions in sections 26 and 27 for the sharing of information about a child. Before
+the Inner House, the appellants’ narrower challenge, as recorded by the Lord
+Justice Clerk, raised article 8 of the ECHR but concentrated on EU law. That
+was also the appellants’ focus in this court.</a></p><a name="para68">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para68"></a><a name="para69">69.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The intervener, Community Law Advice Network, challenges only the
+information sharing provisions, arguing that they impose too low a threshold
+for the disclosure of confidential information and amount to an infringement of
+the article 8 rights of children and young people. As a result there was more
+focus on article 8 of the ECHR in the narrower challenge than there had been in
+the debates both in the Inner House and before the Lord Ordinary.</a></p><a name="para69">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para69"></a><a name="para70">70.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In our view these challenges raise the following four questions: (i)
+what are the interests which article 8 of ECHR protects in this context, (ii)
+whether and in what respects the operation of the Act interferes with the
+article 8 rights of parents or of children and young people, (iii) whether that
+interference is in accordance with the law, and (iv) whether that interference
+is proportionate, having regard to the legitimate aim pursued.</a></p><a name="para70">
+
+<p class="ParaHeading">(i) The interests protected by article 8</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para70"></a><a name="para71">71.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the context of this legislation, the interests protected by article 8
+include both family life and privacy. The relationship between parent and child
+is an integral part of family life. As the European Court of Human Rights
+(“ECtHR”) stated in, among others, <i>Olsson v Sweden (No 1)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1988/2.html">(1989) 11 EHRR 259</a>, “[t]he mutual enjoyment by parent and child of each other’s company
+constitutes a fundamental element of family life” (para 59). Family life also
+encompasses a broad range of parental rights and responsibilities with regard
+to the care and upbringing of minor children, enabling parents to take
+important decisions on their behalf, and article 8 protects the rights of
+parents to exercise such parental authority: <i>Nielsen v Denmark</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1988/23.html">(1988) 11 EHRR 175</a>, para 61.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para72">72.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As is well known, it is proper to look to international instruments,
+such as the UN Convention on the Rights of the Child 1989 (“UNCRC”), as aids to
+the interpretation of the ECHR. The Preamble to the UNCRC states:</a></p><a name="para72">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“the family, as the fundamental
+group of society and the natural environment for the growth and wellbeing of
+all its members and particularly children, should be afforded the necessary
+protection and assistance so that it can fully assume its responsibilities within
+the community.”</p>
+
+<p class="ParaNoNumber">Many articles in the UNCRC acknowledge that it is the
+right and responsibility of parents to bring up their children. Thus article
+3(2) requires States Parties, in their actions to protect a child’s wellbeing,
+to take into account the rights and duties of his or her parents or other
+individuals legally responsible for him or her; article 5 requires States
+Parties to respect the responsibilities, rights and duties of parents or, where
+applicable, other family or community members or others legally responsible for
+the child to provide appropriate direction and guidance to the child in the
+exercise of his or her rights under the Convention; article 14(2) makes similar
+provision in relation to the child’s right to freedom of thought, conscience
+and religion; article 27(2) emphasises that the parents have the primary
+responsibility to secure, within their abilities and financial capabilities,
+the conditions of living necessary for the child’s development; article 18(1)
+provides that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“States Parties shall use their
+best efforts to ensure recognition of the principle that both parents have
+common responsibilities for the upbringing and development of the child.
+Parents or, as the case may be, legal guardians, have the primary
+responsibility for the upbringing and development of the child. The best
+interests of the child will be <i>their</i> basic concern.” (Emphasis supplied)</p>
+
+<p class="ParaNoNumber">Articles 27(3) and 18(2) make it clear that the state’s
+role is to assist the parents in carrying out their responsibilities, although
+article 19(1) requires the state also to take appropriate measures to protect
+the child from all forms of abuse or neglect.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para72"></a><a name="para73">73.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This represents the detailed working out, for children, of the principle
+established in article 16(3) of the Universal Declaration of Human Rights and
+article 23(1) of the International Covenant on Civil and Political Rights that
+“the family is the natural and fundamental group unit of society and is
+entitled to protection by society and the state”. There is an inextricable link
+between the protection of the family and the protection of fundamental freedoms
+in liberal democracies. The noble concept in article 1 of the Universal
+Declaration, that “all human beings are born free and equal in dignity and
+rights” is premised on difference. If we were all the same, we would not need
+to guarantee that individual differences should be respected. Justice Barak of
+the Supreme Court of Israel has put it like this (in <i>El-Al Israeli Airlines
+Ltd v Danielowitz</i> </a><a href="http://versa.cardozo.yu.edu/sites/default/files/upload/opinions/El-Al%20Israel%20Airlines%20v.%20Danielowitz.pdf">[1992-4] IsrLR 478</a>, para 14):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The factual premise is that
+people are different from one another, ‘no person is completely identical to
+another’ … Every person is a world in himself. Society is based on people who
+are different from one another. Only the worst dictatorships try to eradicate
+these differences.”</p>
+
+<p class="ParaNoNumber">Individual differences are the product of the interplay
+between the individual person and his upbringing and environment. Different
+upbringings produce different people. The first thing that a totalitarian
+regime tries to do is to get at the children, to distance them from the
+subversive, varied influences of their families, and indoctrinate them in their
+rulers’ view of the world. Within limits, families must be left to bring up
+their children in their own way. As Justice McReynolds, delivering the Opinion
+of the Supreme Court of the United States famously put it in <i>Pierce v
+Society of Sisters</i> 268 US 510 (1925), 534-535:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The fundamental theory of liberty
+upon which all governments in this Union repose excludes any general power of
+the state to standardize its children by forcing them to accept instruction
+from public teachers only. The child is not the mere creature of the state;
+those who nurture him and direct his destiny have the right, coupled with the
+high duty, to recognize and prepare him for additional obligations.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74">74.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus it is not surprising that the ECtHR, in <i>Neulinger and Shuruk v
+Switzerland </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2010/1053.html">(2012) 54 EHRR 31</a>, interpreted article 8 in the context, among
+other instruments, of the UNCRC and explained the concept of the child’s best
+interests in this way:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The child’s interest comprises
+two limbs. On the one hand, it dictates that the child’s ties with its family
+must be maintained, except in cases where the family has proved particularly
+unfit. It follows that family ties may only be severed in very exceptional
+circumstances and that everything must be done to preserve personal relations
+and, if and when appropriate, to ‘rebuild’ the family (see <i>Gnahoré</i>, cited
+above, para 59). On the other hand, it is clearly also in the child’s interest
+to ensure its development in a sound environment, and a parent cannot be entitled
+under article 8 to have such measures taken as would harm the child’s health
+and development (see, among many other authorities, <i>Elsholz v Germany </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2000/371.html">(2002) 34 EHRR 58</a> at [50], and <i>Maršálek v the Czech Republic</i>, no 8153/04, <a title="Link to BAILII version" href="/eu/cases/ECHR/2006/321.html">[2006] ECHR 321</a>, at [71],
+4 April 2006).” (para 136)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para75">75.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The privacy of a child or young person is also an important interest.
+Article 16 of the UNCRC provides:</a></p><a name="para75">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No child shall be
+subjected to arbitrary or unlawful interference with his or her privacy,
+family, home or correspondence, nor to unlawful attacks on his or her honour
+and reputation.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The child has the right
+to the protection of the law against such interference or attacks.”</p>
+
+</a><p class="ParaNoNumber"><a name="para75">The concept of “private life” in article 8 covers the
+disclosure of personal data, such as information about a person’s health,
+criminal offending, sexual activities or other personal matters. The notion of
+personal autonomy is an important principle underlying the guarantees of the
+ECHR. See, for example, <i>Gillan v United Kingdom</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2010/28.html">(2010) 50 EHRR 45</a>,
+para 61.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para76">76.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 8 protects confidential information as an aspect of human
+autonomy and dignity: <i>Campbell v MGN Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2004/22.html">[2004] 2 AC 457</a>, Lord Hoffmann
+paras 50-51, Lady Hale para 134. Thus in <i>Z v Finland </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1997/10.html">(1998) 25 EHRR 371</a>,
+para 95, a case concerning the disclosure by a court of a person’s identity and
+medical data, the ECtHR stated:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the protection of personal
+data, not least medical data, is of fundamental importance to a person’s
+enjoyment of his or her right to respect for private and family life as
+guaranteed by article 8 of the Convention. Respecting the confidentiality of
+health data is a vital principle in the legal systems of all the Contracting
+Parties to the Convention. It is crucial not only to respect the sense of
+privacy of a patient but also to preserve his or her confidence in the medical
+profession and in the health services in general.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Without such protection, those in
+need of medical assistance may be deterred from revealing such information of a
+personal and intimate nature as may be necessary in order to receive
+appropriate treatment and, even, from seeking such assistance, thereby
+endangering their own health and, in the case of transmissible diseases, that
+of the community.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The domestic law must therefore
+afford appropriate safeguards to prevent any such communication or disclosure
+of personal health data as may be inconsistent with the guarantees in article 8
+of the Convention.” (para 95)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para77">77.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>More recently, in a case concerning a complaint that a hospital had
+failed to guarantee the security of a person’s data against unauthorised
+access, the ECtHR repeated that statement and again confirmed that the
+processing of information relating to an individual’s private life comes within
+the scope of article 8 and that personal information relating to a patient
+“undoubtedly belongs to his or her private life”: <i>I v Finland</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2008/623.html">(2009) 48 EHRR 31</a>, paras 35-38. Similarly, the Court of Justice of the European Union in
+<i>X v Commission </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1994/C40492.html">[1994] ECR I-4737</a> has opined (para 17) that the right to
+respect for private life, embodied in article 8, “includes in particular a
+person’s right to keep his state of health secret”.</p>
+
+<p class="ParaHeading">(ii) Whether Part 4 of the 2014 Act interferes with
+article 8 rights</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78">78.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The provisions of Part 4 of the 2014 Act by which the state may
+intervene in family life and private life engage article 8. But, while article
+8 is engaged, not all that may be done under Part 4 would involve an
+interference with a person’s article 8 rights. There are elements of the role
+of the named person which are unlikely, by themselves, to involve any
+interference with the right of a parent, child or young person to respect for
+his or her private and family life.&nbsp; Thus, by themselves, the functions in
+section 19(5)(a)(i) and (ii) of providing advice, information and support and
+helping the parent, child or young person to access a service or support would
+not normally constitute an interference with the article 8 rights of either the
+child or his or her parents. But it is clear from the consultation paper, “A
+Scotland for Children” and the Policy Memorandum, which we discussed in paras 1
+to 3 above, that the sharing of personal data between relevant public
+authorities is central to the role of the named person. As we have explained,
+this may well constitute an interference with the article 8 rights of those to
+whom the information relates. We are therefore satisfied that the operation of
+the information-sharing provisions of Part 4 (in particular, sections 23, 26
+and 27) will result in interferences with rights protected by article 8 of the
+ECHR. The question therefore arises whether such interferences can be justified
+under article 8(2).</a></p><a name="para78">
+
+<p class="ParaHeading">(iii) In accordance with the law</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78"></a><a name="para79">79.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In order to be “in accordance with the law” under article 8(2), the
+measure must not only have some basis in domestic law - which it has in the
+provisions of the Act of the Scottish Parliament - but also be accessible to
+the person concerned and foreseeable as to its effects. These qualitative
+requirements of accessibility and foreseeability have two elements. First, a
+rule must be formulated with sufficient precision to enable any individual - if
+need be with appropriate advice - to regulate his or her conduct: <i>Sunday
+Times v United Kingdom</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1979/1.html">(1979) 2 EHRR 245</a>, para 49; <i>Gillan v United
+Kingdom</i> (2010) 50 EHRR 1105, para 76. Secondly, it must be sufficiently
+precise to give legal protection against arbitrariness:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“it must afford a measure of legal
+protection against arbitrary interferences by public authorities with the
+rights safeguarded by the Convention. In matters affecting fundamental rights
+it would be contrary to the rule of law … for a legal discretion granted to the
+executive to be expressed in terms of an unfettered power. Consequently, the
+law must indicate with sufficient clarity the scope of any discretion conferred
+on the competent authorities and the manner of its exercise. The level of
+precision required of domestic legislation - which cannot in any case provide
+for every eventuality - depends to a considerable degree on the content of the
+instrument in question, the field it is designed to cover and the number and
+status of those to whom it is addressed.” <i>Gillan v United Kingdom</i>, para
+77; <i>Peruzzo v Germany </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2013/743.html">(2013) 57 EHRR SE17</a>, <a title="Link to BAILII version" href="/eu/cases/ECHR/2013/743.html">[2013] ECHR 743</a>, para 35.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para80">80.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Recently, in <i>R (T) v Chief Constable of Greater Manchester Police </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/35.html">[2015] AC 49</a> this court has explained that the obligation to give protection against
+arbitrary interference requires that there must be safeguards which have the
+effect of enabling the proportionality of the interference to be adequately
+examined. This is an issue of the rule of law and is not a matter on which
+national authorities are given a margin of appreciation.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para81">81.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In deciding whether there is sufficient foreseeability to allow a person
+to regulate his or her conduct and sufficient safeguards against arbitrary
+interference with fundamental rights, the court can look not only at formal
+legislation but also at published official guidance and codes of conduct: <i>Silver
+v United Kingdom</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1983/5.html">(1983) 5 EHRR 347</a> (paras 88-90); <i>Gillan v United
+Kingdom </i>(paras 35, 36 and 78) and <i>MM v United Kingdom</i> (Application
+no 24029/07, <a title="Link to BAILII version" href="/eu/cases/ECHR/2012/1906.html">[2012] ECHR 1906</a>). In <i>R (Roberts) v Comr of Police of the Metropolis</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2015/79.html">[2015] UKSC 79</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/79.html">[2016] 1 WLR 210</a> this court took into account as constraints on the
+power of the police to stop and search not only the limits on that power in
+section 60 of the Criminal Justice and Public Order Act 1994 and the legal
+protection provided by both section 6 of the Human Rights Act 1998 and the
+Equality Act 2010, but also the requirements of the Metropolitan Police’s
+Standard Operating Procedures. That statutory document, which was published on
+the Metropolitan Police’s website, regulated the authorisation of stop and
+search, the operation and also the individual encounter between a police
+officer and a member of the public on the street. In relation to the exercise
+on the street of the stop and search power it not only gave officers detailed
+instructions, which were designed to ensure their proportionate use of such
+power, but also required them to explain to the individual who was to be
+searched the reason for the search, to record that reason in writing and make
+available to the affected individual a copy of that written record. These
+provided adequate safeguards to enable the courts to examine the
+proportionality of any interference with fundamental rights: see the judgment
+of Lady Hale and Lord Reed at paras 43-48.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para82">82.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus in assessing whether Part 4 of the 2014 Act is “in accordance with
+the law” this court has been invited to take into account not only the terms of
+the Act but also, proleptically, the RDSG, which we have discussed in paras 18
+to 25 above. As we have stated (in para 18 above), the RDSG is directed to
+specified public authorities, which under section 28(1) of the Act are required
+to “have regard to” it. In contrast with, for example, the Metropolitan
+Police’s Standard Operating Procedures which we have mentioned, there is no
+compulsion to follow the guidance. The RDSG gives very little guidance as to
+the requirements of the DPA or article 8 of the ECHR but envisages that
+separate practice materials will be made available to practitioners.</a></p><a name="para82">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para82"></a><a name="para83">83.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As we explained in paras 52 to 62 above when we discussed the effect of
+the Act in relation to the DPA and the Directive, the powers and duties of
+disclosure set out in sections 23 and 26 cannot be taken at face value. In
+several crucial respects, the scope of the duties and powers to disclose or
+share information set out on the face of the Act are, in reality, significantly
+curtailed by the requirements of the DPA and the Directive. To recap:</a></p><a name="para83">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although section 23(2)(b) purports to impose on the outgoing service
+provider a duty to provide the incoming service provider with all information
+which it holds which falls within subsection (3), in reality no such duty
+exists in relation to sensitive data as defined in the DPA, unless at least one
+of the conditions set out in Schedule 3 to the DPA is satisfied (the conditions
+set out in section 23(3)-(6) of the 2014 Act not in themselves ensuring their
+satisfaction).</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although section 26(1) purports to impose on a service provider or
+relevant authority (or any person exercising a function on their behalf) a duty
+to provide to the service provider in relation to a child or young person any
+information which the person holds which falls within subsection (2), in
+reality no such duty exists in relation to sensitive data as defined in the
+DPA, unless at least one of the conditions set out in Schedule 3 to the DPA is
+satisfied (the conditions set out in section 26(2) and (5)-(7) of the 2014 Act
+not in themselves ensuring their satisfaction).</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although section 26(3) purports to impose on the service provider in
+relation to a child or young person a duty to provide to a service provider or
+relevant authority (or any person exercising a function on their behalf) any
+information which the person holds which falls within subsection (4), in
+reality no such duty exists in relation to sensitive data as defined in the
+DPA, unless at least one of the conditions set out in Schedule 3 to the DPA is
+satisfied (the conditions set out in section 26(4) and (5)-(7)&nbsp; of the 2014 Act
+not in themselves ensuring their satisfaction).</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although section 26(8) purports to confer on the service provider in
+relation to a child or young person the power to provide to a service provider
+or relevant authority (or any person exercising a function on their behalf) any
+information which the person holds which falls within subsection (9), in
+reality no such power can lawfully be exercised unless the requirements of the
+DPA are satisfied (the condition set out in section 26(9) of the 2014 Act not
+in itself ensuring their satisfaction). Those requirements include, but are not
+limited to, compliance with at least one of the conditions in Schedule 2 to the
+DPA, and also, if the information in question is sensitive data, compliance
+with at least one of the conditions in Schedule 3. They also include compliance
+with the requirements arising in relation to the first data principle under
+Part II of Schedule 1 to the DPA, and also the other data protection principles
+and the other duties imposed by the DPA.</p>
+
+<p class="ParaNoNumber">That is not a comprehensive account of the requirements
+imposed by the DPA: as explained above, those requirements were not fully
+discussed at the hearing of the appeal. The relationship between the Act and
+the DPA is rendered particularly obscure by what we have described as the
+logical puzzle arising from sections 23(7) and 26(11) when read with section
+35(1) of the DPA. It is also necessary to ensure that the requirements of
+articles 7 and 8 of the Directive are met, so far as information falls within
+its scope. There are thus very serious difficulties in accessing the relevant
+legal rules when one has to read together and cross refer between Part 4 of the
+Act and the DPA and work out the relative priority of their provisions.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para83"></a><a name="para84">84.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Of even greater concern is the lack of safeguards which would enable the
+proportionality of an interference with article 8 rights to be adequately
+examined. Section 26(5) requires an information holder, when considering
+whether information ought to be provided in the exercise of the duties in
+section 26(1) or (3), “so far as reasonably practicable to ascertain and have
+regard to the views of the child or young person”. But there is no such
+requirement in relation to a service provider’s discretionary power to share information
+under section 26(8). There the test is merely that the provision of the
+information is necessary or expedient for the purposes of the exercise of any of
+the named person functions. Moreover, there is no statutory requirement,
+qualified or otherwise, to inform the parents of a child about the sharing of
+information. The RDSG is only guidance, speaks of “routine good practice”, and
+leaves it to the discretion of the information holder whether to involve the
+parent or parents. It is thus perfectly possible that information, including
+confidential information concerning a child or young person’s state of health (for
+example, as to contraception, pregnancy or sexually transmitted disease), could
+be disclosed under section 26 to a wide range of public authorities without
+either the child or young person or her parents being aware of the interference
+with their article 8 rights, and in circumstances in which there was no
+objectively compelling reason for the failure to ascertain and have regard to
+their views. While para 10.14.2 of the RDSG advises that a record should be
+kept of the rationale behind a decision to share information, such a record
+will not assist a child, young person or parent who is not informed that the
+information is to be or has been shared.</a></p><a name="para84">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para84"></a><a name="para85">85.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We conclude therefore that the information-sharing provisions of Part 4
+of the Act and the RDSG as currently drafted do not meet the article 8
+criterion of being “in accordance with the law”.</a></p><a name="para85">
+
+<p class="ParaHeading">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether the interference is proportionate</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para85"></a><a name="para86">86.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fourth question is whether Part 4 of the Act, when considered along
+with section 6 of the Human Rights Act 1998, the DPA and the RDSG, will give
+rise to interferences with the article 8 rights of children, young persons or
+parents which are proportionate, having regard to the legitimate aim pursued.</a></p><a name="para86">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para86"></a><a name="para87">87.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In assessing proportionality it is necessary to distinguish between the
+Act itself and its operation in individual cases. The Act gives the named
+person three principal functions in section 19(5). As we have said (para 78
+above), the first two would not normally constitute an interference with the
+right to respect for private or family life. The third, which itself involves
+the sharing of information, may more readily do so. The information-sharing
+provisions in sections 23, 26 and 27 are, as we have said, limited by the DPA,
+particularly in relation to the disclosure of sensitive personal data. Separately,
+the operation of the Act in individual cases will involve the exercise of
+powers in many different circumstances which may entail more or less serious
+interferences with private and family life and which may provide stronger or
+weaker justification for such interference.</a></p><a name="para87">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para87"></a><a name="para88">88.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court has explained that an ab ante challenge to the validity of
+legislation on the basis of a lack of proportionality faces a high hurdle: if a
+legislative provision is capable of being operated in a manner which is
+compatible with Convention rights in that it will not give rise to an
+unjustified interference with article 8 rights in all or almost all cases, the
+legislation itself will not be incompatible with Convention rights: <i>R (Bibi)
+v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/68.html">[2015] UKSC 68</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/68.html">[2015] 1 WLR 5055</a>, paras 2 and 60 per Lady Hale, para 69 per Lord Hodge. The proportionality
+challenge in this case does not surmount that hurdle. Nonetheless, it can
+readily be foreseen that in practice the sharing and exchange of information
+between public authorities are likely to give rise to disproportionate
+interferences with article 8 rights, unless the information holder carries out
+a scrupulous and informed assessment of proportionality.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para89">89.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In their submissions, the Ministers treated the promotion of children’s
+wellbeing as being in itself a legitimate aim under article 8. They relied on
+international instruments in which the term “wellbeing” is used, although
+possibly not in quite as wide a sense as in the 2014 Act. For example, article
+3(2) of the UNCRC provides:</a></p><a name="para89">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“States Parties undertake to
+ensure the child such protection and care as is necessary for his or her wellbeing,
+taking into account the rights and duties of his or her parents, legal
+guardians, or other individuals legally responsible for him or her, and, to
+this end, shall take all appropriate legislative and administrative measures.”</p>
+
+<p class="ParaNoNumber">Similarly, article 24(1) of the EU Charter of Fundamental
+Rights (“CFR”) provides:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Children shall have the right to
+such protection and care as is necessary for their wellbeing …”</p>
+
+<p class="ParaNoNumber">The promotion of the wellbeing of children and young
+people is not, however, one of the aims listed in article 8(2) of the ECHR. At
+the most general level, it can be said to be linked to the economic wellbeing
+of the country, as the Ministers’ submissions emphasised. The extent to which
+an individual intervention is likely to promote the achievement of such a
+general aim is however very limited. Individual interventions may make a
+greater contribution towards achieving other legitimate aims, such as the
+prevention of disorder or crime, or the protection of health or morals, depending
+on the circumstances. However, the more tenuous the link between the objective
+pursued by the intervention (eg that a child or young person should be
+“achieving, nurtured, active, respected, responsible and included”) and the
+achievement of one of the legitimate aims listed in article 8(2), the more
+difficult it will be to justify a significant interference with the
+individual’s private and family life. For example, if (contrary to our view)
+the 2014 Act as currently enacted had enabled the disclosure of sensitive
+personal data without the consent of the affected party, the disclosure by
+health professionals of information that a young person was being prescribed
+contraceptives or had contracted a sexually transmitted disease would be a
+major interference with private life which could only be justified on very
+compelling grounds.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para89"></a><a name="para90">90.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is now the standard approach of this court to address the following
+four questions when it considers the question of proportionality:</a></p><a name="para90">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>whether the objective is sufficiently important to justify the
+limitation of a protected right,</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>whether the measure is rationally connected to the objective,</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>whether a less intrusive measure could have been used without
+unacceptably compromising the achievement of the objective, and</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>whether, balancing the severity of the measure’s effects on the rights
+of the persons to whom it applies against the importance of the objective, to
+the extent that the measure will contribute to its achievement, the former
+outweighs the latter (ie whether the impact of the rights infringement is
+disproportionate to the likely benefit of the impugned measure).</p>
+
+</a><p class="ParaNoNumber"><a name="para90">See <i>Huang v Secretary of State for the Home Department
+</i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2007/11.html">[2007] UKHL 11</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/11.html">[2007] 2 AC 167</a>, para 19 per Lord Bingham of Cornhill; <i>R
+(Aguilar Quila) v Secretary of State for the Home Department </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/45.html">[2011] UKSC 45</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/45.html">[2012] 1 AC 621</a>, para 45 per Lord Wilson; <i>Bank Mellat v HM Treasury (No
+2) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/39.html">[2013] UKSC 39</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/39.html">[2014] AC 700</a>, para 74 per Lord Reed; and <i>R (Bibi) v Secretary
+of State for the Home Department </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/68.html">[2015] UKSC 68</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/68.html">[2015] 1 WLR 5055</a>, para 29
+per Lady Hale.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para91">91.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the first of those questions, it can be accepted, focusing on the
+legislation itself rather than on individual cases dealt with under the
+legislation, that Part 4 of the 2014 Act pursues legitimate aims. The public
+interest in the flourishing of children is obvious. The aim of the Act, which
+is unquestionably legitimate and benign, is the promotion and safeguarding of
+the wellbeing of children and young persons. As the Dean of Faculty submitted,
+the policy of promoting better outcomes for individual children and families is
+not inconsistent with the primary responsibility of parents to promote the
+wellbeing of their children. Improving access to, and the coordination of,
+public services which can assist the promotion of a child’s wellbeing are
+legitimate objectives which are sufficiently important to justify some
+limitation on the right to respect for private and family life.</a></p><a name="para91">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para91"></a><a name="para92">92.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, Part 4 of the Act is rationally connected to the legitimate
+aims pursued. As the Scottish Government’s consultation paper, “A Scotland for
+Children” showed, the aims of the legislation are to move public bodies with
+responsibility for children towards early intervention to promote children’s
+wellbeing rather than only responding to a serious occurrence and to ensure
+that those public bodies collaborated and shared relevant information
+concerning the wellbeing of individual children. As the Second Division stated
+(para 63), the named person is at the heart of the Scottish Government’s proposals.
+That person is tasked with advising on the wellbeing of a child, helping a
+child or parent to access a service or support, and being the single point of
+contact for public services in relation to the child in order to promote,
+support or safeguard the child’s wellbeing.</a></p><a name="para92">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para92"></a><a name="para93">93.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third question (whether a less intrusive measure could have been
+used) does not involve a court in identifying the alternative legislative measure
+which was least intrusive. The court allows the legislature a margin of
+discretion and asks whether the limitation on the fundamental right is one
+which it was reasonable for the legislature to impose: <i>Bank Mellat v HM
+Treasury (No 2),</i> para 75. If, as the appellants submitted in their broader
+challenge, a named person should be appointed in relation to a child only if
+the parents consented or, absent such consent, if the appointment was necessary
+to protect the welfare of a child who was at risk of harm, the scope for early
+intervention to resolve problems and for the coordination of public services in
+support of a child’s wellbeing would be diminished. Separate questions will
+arise as to whether, in an individual case, early intervention and coordination
+of services could be achieved by less intrusive means. That issue can be
+considered under the final question of fair balance.</a></p><a name="para93">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para93"></a><a name="para94">94.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fourth question is whether the impact of the rights infringement may
+be disproportionate to the likely benefit of the impugned measure. This
+requires consideration of the operation of Part 4 of the Act in particular
+cases, since it cannot be said that its operation will necessarily give rise to
+disproportionate interferences in all cases. In that regard, the named person’s
+functions to give advice, information and support (section 19(5)(a)(i)) and to
+help the child, young person or parent to access a service or support (section
+19(5)(a)(ii)) are, as we have said, less likely to give rise to any question of
+disproportion in a particular case. The provision of access to services could
+involve the creation of a child’s plan under Part 5 of the Act, but that
+involves no compulsion. The Act does not alter the statutory criteria of any
+compulsory measures in relation to children and young people. Thus the criteria
+for making a child assessment order in section 36(2) or a child protection
+order in sections 38 and 39 of the Children’s Hearings (Scotland) Act 2011
+require (put shortly) reasonable grounds to suspect that the child is likely to
+suffer significant harm. The long list of grounds upon which a child may come
+before a children’s hearing with a view to making a compulsory supervision
+order (which can include taking the child away from home) in section 67 of that
+Act remain focused upon the risk of harm to the child or the child’s own
+misconduct.</a></p><a name="para94">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para94"></a><a name="para95">95.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nevertheless, there must be a risk that, in an individual case, parents
+will be given the impression that they must accept the advice or services which
+they are offered, especially in pursuance of a child’s plan for targeted
+intervention under Part 5; and further, that their failure to co-operate with
+such a plan will be taken to be evidence of a risk of harm. An assertion of
+such compulsion, whether express or implied, and an assessment of
+non-cooperation as evidence of such a risk could well amount to an interference
+with the right to respect for family life which would require justification
+under article 8(2). Given the very wide scope of the concept of “wellbeing” and
+the SHANARRI factors, this might be difficult. Care should therefore be taken
+to emphasise the voluntary nature of the advice, information, support and help
+which are offered under section 19(5)(a)(i) and (ii) and the Guidance should
+make this clear.</a></p><a name="para95">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para95"></a><a name="para96">96.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The function, in section 19(5)(a)(iii), of discussing or raising a matter
+about a child or young person with a service provider or relevant authority,
+involves the disclosure of information. It and the information-sharing
+provisions in sections 23, 26 and 27 raise difficult questions of
+proportionality in particular cases, where the information holder, when
+considering whether the information ought to be provided (section 26(2)(b) and
+(4)(b)) or whether to provide information under section 26(8), will have to
+consider carefully whether the particular circumstances justify the disclosure of
+the particular information. In our view, given this role of the information
+holder, it cannot be said that the operation of the information-sharing duties
+and powers in relation to any of the named person’s functions will necessarily
+amount to a disproportionate interference with article 8 rights. But for the
+problem in relation to the requirement that the Act be “in accordance with the
+law” (paras 79-85 above), we consider that the Act would be capable of being
+operated in a manner which is compatible with the Convention rights.</a></p><a name="para96">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para96"></a><a name="para97">97.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the task facing the information holder is a daunting one because the
+Act does not address the factors to be considered in an assessment of
+proportionality and the RDSG gives exiguous guidance on that issue. The
+provisions of the Act appear to point toward a more relaxed approach to disclosure
+than is compatible with article 8. Section 26(1) and (3) oblige the information
+holder to provide information which meets the criteria set out in subsections
+(2) and (4). Those criteria include an assessment of whether the information is
+likely to be relevant to the exercise of functions which may affect the
+wellbeing of the child or young person. In turn, the assessment of that
+wellbeing under section 96, as explained by the RDSG, involves the use of very
+broad criteria which could trigger the sharing of information by a wide range
+of public bodies (as to which see para 5 above) and also the initiation of
+intrusive inquiries into a child’s wellbeing. In our view, the criteria in
+sections 23(3), 26(2) and 26(4) by themselves create too low a threshold for disclosure
+(as explained at para 56 above), and for the overriding of duties of
+confidentiality in relation to sensitive personal information.</a></p><a name="para97">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para97"></a><a name="para98">98.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under sections 23(4) and 26(5) the information holder, when deciding
+whether information ought to be provided under sections 23(2) and 26(1) or (3),
+is obliged so far as is reasonably practicable to ascertain and have regard to
+the views of the child or young person. But those provisions do not require
+that person’s consent, or require that there be any good reason for dispensing
+with her consent, before what may be highly personal information, imparted in
+confidence, is shared. Further, the information holder is under no obligation
+to ascertain the views of the child or young person, or her parents, when
+exercising a discretion under section 26(8), in which the test is whether the
+provision of the information is considered to be “necessary or expedient” for
+the purposes of the exercise of any of the named person functions. Thus the
+exercise of the section 26(8) power could involve the overriding of duties of
+confidentiality without any obligation even to consult the child, young person
+or parent. The RDSG (at paras 4.1.28 and 10.7.4) presents such consultation as
+good practice but it is not obligatory, even on a qualified basis. Further,
+there is no provision imposing even a qualified requirement that the child or
+young person or her parents be warned that confidential information may be disclosed,
+or informed after the event that it has been shared.</a></p><a name="para98">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para98"></a><a name="para99">99.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In many circumstances the Act’s intended overriding of the duty of confidentiality
+may not be achieved. In our discussion of reserved matters (paras 27 to 66
+above) we showed that, because of the terms of sections 23(7) and 26(11), the
+DPA and the Directive impose significant restrictions on the ability of public
+authorities in the performance of their duties under sections 23(2), 26(1) and
+(3) to share information which is “sensitive personal data”, such as
+information about a person’s health or sexual life, without the explicit
+consent of the data subject. We showed that, for the same reasons, the power under
+section 26(8) to share information remains subject to all of the restrictions
+of the DPA against disclosure, thus normally requiring consent of the data
+subject, in relation also to non-sensitive personal data. Thus some of the
+concerns of the appellants and the interveners in relation to the criteria for
+the sharing of information are, on a proper interpretation of the legislation,
+addressed by the continued operation of the DPA and the Directive, which in many
+cases will require the consent of the data subject to the sharing of the
+information.</a></p><a name="para99">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para99"></a><a name="para100">100.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nonetheless, there may be information which is not “sensitive personal
+data” which is nonetheless confidential. Even with the restrictions of the DPA,
+the Act does not point towards a fair balance in relation to the disclosure of
+such confidential information in the performance of duties under sections
+23(2), 26(1) and 26(3). The central problems are the lack of any requirement to
+obtain the consent of the child, young person, or his or her parents to the
+disclosure, the lack of any requirement to inform them about the possibility of
+such disclosure at the time when the information is obtained from them, and the
+lack of any requirement to inform them about such disclosure after it has taken
+place. Such requirements cannot, of course, be absolute: reasonable exceptions
+can be made where, for example, the child is unable to give consent, or the
+circumstances are such that it would be inappropriate for the parents’ consent
+to be sought, or the child’s best interests might be harmed. But, without such
+safeguards, the overriding of confidentiality is likely often to be
+disproportionate.</a></p><a name="para100">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para100"></a><a name="para101">101.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In order to reduce the risk of disproportionate interferences, there is
+a need for guidance to the information holder on the assessment of
+proportionality when considering whether information should be provided. In
+particular, there is a need for guidance on (a) the circumstances in which
+consent should be obtained, (b) those in which such consent can be dispensed
+with and (c) whether, if consent is not to be obtained, the affected parties
+should be informed of the disclosure either before or after it has occurred. Also
+relevant is whether the recipient of the information is subject to sufficient
+safeguards to prevent abuse: <i>MS v Sweden </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1997/50.html">(1999) 28 EHRR 313</a>. Further, if
+the guidance is to operate as “law” for the purposes of article 8, the
+information holder should be required to do more than merely have regard to it.</p>
+
+<p class="ParaHeading">III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The EU Law challenge</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para102">102.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants also challenge the information-sharing provisions of
+sections 26 and 27 of the Act on the ground that they are incompatible with EU
+law. Counsel referred to the following articles of the CFR: article 7 (respect
+for private and family life), article 8 (protection of personal data), article
+14 (right to education) - particularly 14(3): respect for the right of parents
+to ensure that the education of their children conforms with their convictions
+- and article 33(1) (family and professional life). In short, they submitted
+that the sharing of personal data without consent and absent strict necessity
+infringed one or more of those articles of the CFR.</a></p><a name="para102">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para102"></a><a name="para103">103.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is not suggested that the DPA fails to transpose the Directive or is
+contrary to the CFR. In so far as the appellants’ complaint relates to the sharing
+of what the DPA describes as “sensitive personal data”, we have, in large
+measure in agreement with the Inner House and the Lord Ordinary, interpreted
+the relevant provisions of the DPA and the 2014 Act as preserving the stringent
+restrictions in Schedule 3 to the DPA and having the effect that condition
+7(1)(b) of Schedule 3 is not met (paras 49 to 58 above). In so far as the DPA
+allows the 2014 Act to authorise the disclosure of (non-sensitive) personal
+data which are not subject to any duty of confidentiality, we do not see a
+separate issue arising under EU law.</a></p><a name="para103">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para103"></a><a name="para104">104.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In so far as the challenge relates to the over-riding of confidentiality
+of personal data (whether or not sensitive), we have addressed this in our
+discussion of article 8 of the ECHR. In <i>Volker und Marcus Schecke GbR and
+Hartmut Eifert v Land Hessen</i> (Cases C-92/09 and C-93/09) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C9209.html">[2010] ECR I-11063</a>, the Court of Justice of the European Union (Grand Chamber) held (para
+52) that the limitations which may lawfully be placed on the right to the protection
+of personal data correspond to those tolerated in relation to article 8 of the
+ECHR. We are therefore satisfied that there is no additional incompatibility
+with EU law beyond that which we have found in relation to article 8 of the
+ECHR.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para105">105.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants also submit that the Act contravenes EU law because there
+is no provision enabling a parent or child to seek the removal of information
+concerning a child from a named person’s database once the data are no longer
+needed for the purposes for which they were collected or processed. Reference
+was made to <i>Google Spain SL v Agencia Española de Protección de Datos </i>(Case
+C-131/12) [2014]<i> </i>QB 1022, paras 93-97. We do not accept this submission.
+In our view the data retained by public authorities in the exercise of powers
+under the Act are subject to the fifth data protection principle in Part I of
+Schedule 1 to the DPA, namely that “personal data processed for any purpose or
+purposes shall not be kept for longer than is necessary for that purpose or those
+purposes”. This is because this provision is not inconsistent with the
+disclosure which sections 23(2), 26(1) and 26(3) of the 2014 Act allows: DPA
+section 27(3) &amp; (4) (paras 53 and 54 above). Part V of the DPA empowers the
+Information Commissioner, whether at the request of a data subject or
+otherwise, to enquire into a data controller’s compliance with the data
+protection principles. Under section 40 of the DPA, the Information
+Commissioner is empowered to serve an enforcement notice on a data controller
+to require such compliance. The DPA thus has protections for a data subject,
+who can also, if necessary, seek judicial review of a decision of the
+Information Commissioner. In our view, the data subject is thereby given a
+legal remedy and judicial protection as required by <i>Schrems v Data
+Protection Comr </i>(Case C-362/14) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2015/C36214.html">[2016] QB 527</a>, para 95.</p>
+
+<p class="ParaHeading">IV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Remedy</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para106">106.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In summary, we conclude that the information-sharing provisions of Part
+4 of the Act (a) do not relate to reserved matters, namely the subject matter of
+the DPA and the Directive, (b) are incompatible with the rights of children,
+young persons and parents under article 8 of the ECHR because they are not “in
+accordance with the law” as that article requires, (c) may in practice result
+in a disproportionate interference with the article 8 rights of many children,
+young persons and their parents, through the sharing of private information,
+and (d) are not incompatible with EU law in any way which goes beyond their
+incompatibility with article 8 of the ECHR. We are satisfied that it is not
+possible to remedy this defect by reading down the provisions under section 101
+of the Scotland Act 1998. Conclusion (b) therefore means that the
+information-sharing provisions of Part 4 of the Act are not within the legislative
+competence of the Scottish Parliament.</a></p><a name="para106">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para106"></a><a name="para107">107.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It would not be appropriate for this court to propose particular
+legislative solutions. But we can properly say the following. We do not think
+that amendment of the RDSG will get round the problem in conclusion (b) or be
+sufficient in itself to prevent many instances of disproportionate interference
+to which we refer in conclusion (c). Section 28 requires the specified public
+authorities merely to have regard to the guidance. In relation to conclusion
+(b), it is necessary to address the lack of clarity as to the relationship
+between the Act and the DPA, arising from the conflict between the provisions
+of sections 23, 26 and 27 of the Act and the non-disclosure provisions of the
+DPA, and, in particular, the confusion caused by sections 23(7) and 26(11) when
+read together with provisions of the DPA such as section 35(1). Further, in
+relation to conclusion (c), the Act, subordinate legislation, or binding “guidance”,
+should address the circumstances in which (i) the child, young person or parent
+should be informed of the sharing of information or (ii) consent should be
+obtained for the sharing of information, including confidential information. If
+the resolution of the problem in conclusion (b) leads to the authorisation of
+the disclosure of sensitive personal data, the problem identified in conclusion
+(c) will become even more acute as the sharing of such data will require a
+compelling justification. In short, changes are needed both to improve the
+accessibility of the legal rules and to provide safeguards so that the
+proportionality of an interference can be challenged and assessed. The
+reconsideration of the terms of the Act and the RDSG also provides an
+opportunity to minimise the risk of disproportionate interferences with the
+article 8 rights of children, young persons and parents. Consideration of these
+matters will involve policy questions which are the responsibility of the
+Scottish Ministers and the democratic legislature.</a></p><a name="para107">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para107"></a><a name="para108">108.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 102 of the Scotland Act 1998 provides:</a></p><a name="para108">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; This section applies
+where any court or tribunal decides that -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an Act of the Scottish
+Parliament or any provision of such an Act is not within the legislative
+competence of the Parliament …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The court or tribunal
+may make an order -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; suspending the effect
+of the decision for any period and on any conditions to allow the defect to be
+corrected.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para108"></a><a name="para109">109.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We are of the view that this court should consider making an order under
+section 102(2)(b) of the Scotland Act 1998 to allow the Scottish Parliament and
+the Scottish Ministers an opportunity, if so advised, to correct the defects
+which we have identified. We do not think that it is appropriate to set out the
+possible terms of such an order until we have received written submissions from
+the parties on the terms of the order, including both the period of suspension
+and any conditions which should be attached to the order. As was said in <i>Salvesen
+v Riddell </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/22.html">2013 SC (UKSC) 236</a>, <a title="Link to BAILII version" href="/uk/cases/UKSC/2013/22.html">[2013] UKSC 22</a> (Lord Hope at para 57), if such an order is
+made, it may be appropriate to give permission to the Lord Advocate to return
+to the court for any further orders under section 102(2)(b) as may be required.
+The court which is best placed to make such further orders may be the Court of
+Session. In the meantime, since the defective provisions are not within the
+legislative competence of the Parliament, they cannot be brought into force.</p>
+
+<p class="ParaHeading">Conclusion</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para110">110.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We would allow the appeal and invite the parties to produce written
+submissions on the terms of a section 102 order within 42 days of the date of
+this judgment.</a></p><a name="para110">
+
+</a></div><a name="para110">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/51.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

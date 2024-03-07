@@ -1,0 +1,626 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Trustees of the Barry Congregation of Jehovah's Witnesses v BXB [2023] UKSC 15  (26 April 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Gisha;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.CourtOrder, li.CourtOrder, div.CourtOrder  {mso-style-name:"Court Order";  margin:0cm;  line-height:107%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  color:#C00000;  font-weight:bold;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Trustees of the Barry Congregation of Jehovah's Witnesses v BXB [2023] UKSC 15  (26 April 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/15.html</i>
+<br>Cite as: 
+[2023] IRLR 579,
+
+[2023] PIQR P15,
+
+[2023] ICR 888,
+
+[2023] 3 All ER 1,
+
+[2023] UKSC 15,
+
+(2023) 193 BMLR 23,
+
+[2023] 2 WLR 953
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/15.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2020001541/casereport_380fbb18-1f4a-4509-8b59-f7cc09054942/html">[2023] 2 WLR 953</a>]
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2020001541/casereport_2ae0e1b0-0f2b-4a0c-88a6-ca6c2706ecbb/html">[2023] ICR 888</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/15.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/15.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+
+<p class="CourtOrder" style="text-align:justify">THE COURT ORDERED that no one shall publish or reveal the name or address of the Respondent or publish or reveal any information which would be likely to lead to the identification of the Respondent or of any member of her family in connection with these proceedings.</p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>Easter Term</b></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>[2023] UKSC 15</b></p>  
+
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/356.html">[2021] EWCA Civ 356</a></i></p>  
+
+<p class="JudgmentTitle">JUDGMENT</p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">Trustees of the Barry Congregation of Jehovah's Witnesses (Appellant)</span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">&nbsp;<i>v</i> </span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">BXB (Respondent)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Reed, President</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hodge, Deputy President</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Briggs</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Burrows</p>  
+
+<p class="JudgmentJudges">Lord Stephens</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">26 April 2023</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges">Heard on 13 and 14 February 2023</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Appellant</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Lord Faulks KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Catherine Foster</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Shane Brady</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Watch Tower Legal Department)</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">James Counsell KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Benjamin Bradley</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Bolt Burdon Kemp LLP)</p>  
+
+<p class="JudgmentAppRespInt"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech">(LORD BURROWS (<span style="text-transform:none">with whom Lord Reed, Lord Hodge, Lord Briggs and Lord Stephens agree</span>): </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">1. Introduction</span></p> <ol> 
+
+<li value="1"><a name="para1"> Vicarious liability in tort is an unusual form of liability. This is because the vicariously liable defendant is held liable (and treated as a joint tortfeasor) not because it has itself committed a tort against the claimant but because a third party has committed a tort against the claimant. Vicarious liability has often been treated as imposing strict liability because it is not dependent on proving the fault of the defendant. But it differs from strict liability torts. They impose personal liability on a defendant irrespective of fault whereas vicarious liability is precisely not a personal liability. Vicarious liability therefore does not rest on the defendant having owed a duty, whether strict or of reasonable care, to the claimant. It was the third party (who I shall refer to as the tortfeasor) who owed that duty to the claimant. 
+</a></li>
+<p> </p>  
+
+<li value="2"><a name="para2"> Given the unusual nature of vicarious liability, it is perhaps not surprising that its precise rationale has proved contentious. However, until relatively recently, the parameters of the English law on vicarious liability were fairly well-settled. In general terms (and leaving aside special pockets of vicarious liability, such as that dealing with the driving of a car with the consent of, and for the purposes of, the owner, as in <i>Ormrod v Crosville Motor Services Ltd </i>[1953] 1 WLR 1120), an employer was vicariously liable for the torts of its employee, but not of an independent contractor, committed in the course of his or her employment. Being within the course of employment was often explained (using the test formulated by Sir John Salmond, <i>The Law of Torts </i>1<sup>st</sup> ed (1907) p 83) as covering not only a wrongful act authorised by the employer but also a wrongful and unauthorised mode of doing some act authorised by the employer. 
+</a></li>
+<p> </p>  
+
+<li value="3"><a name="para3"> As with other jurisdictions in the common law world, that relatively clear and well-settled picture of vicarious liability in English law has been redrawn and expanded - in this jurisdiction since 2001 - primarily to deal appropriately with the many claims for sexual abuse of children. There has also been pressure to reflect changes in the patterns of work relationships. These claims and changes have posed two types of problem for the established doctrine of vicarious liability. The first is that the type of relationship in question between the defendant and the tortfeasor may fall outside that of employer and employee. The second is that the torts in question in the sexual abuse cases are intentional torts that cannot easily be fitted within the idea that the tortfeasor’s act is merely an unauthorised mode of doing some act authorised by the employer. 
+</a></li>
+<p> </p>  
+
+<li value="4"><a name="para4"> In English law, at the level of the highest court, the expansive redrawing of the boundaries first started in <i>Lister</i> <i>v Hesley Hall Ltd (“Lister”) </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2001/22.html">[2001] UKHL 22</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2001/22.html">[2002] 1 AC 215</a> and was continued or confirmed in cases, not all involving sexual abuse, such as <i>Various Claimants v Catholic Child Welfare Society (“Christian Brothers”) </i><a name="_Hlk128318164"></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2012/56.html">[2012] UKSC 56</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2012/56.html">[2013] 2 AC 1</a>; <i>Cox v Ministry of Justice (“Cox”) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/10.html">[2016] UKSC 10</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/10.html">[2016] AC 660</a>; <i>Mohamud v Wm Morrison Supermarkets plc (“Mohamud”) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/11.html">[2016] UKSC 11</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/11.html">[2016] AC 677</a>; and <i>Armes v Nottinghamshire County Council (“Armes”) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2017/60.html">[2017] UKSC 60</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/60.html">[2018] AC 355</a>. Alongside the redrawing of the boundaries, there has also been a clearer recognition that there are two stages of the inquiry into vicarious liability: stage 1 looks at the relationship between the defendant and the tortfeasor; and stage 2 looks at the connection between that relationship and the commission of the tort by the tortfeasor. 
+</li>
+<p> </p>  
+
+<li value="5"><a name="para5"> During the period 2001 to 2017, as Lord Phillips said in starting his analysis of the law in <i>Christian Brothers, </i>the law of vicarious liability was “on the move”: </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2012/56.html">[2012] UKSC 56</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2012/56.html">[2013] 2 AC 1</a>, para 19. Two decisions of this court, handed down on the same day in 2020, <i>Various Claimants v Wm Morrison Supermarkets plc (“Morrison”) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2020/12.html">[2020] UKSC 12</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2020/12.html">[2020] AC 989</a> and <i>Various Claimants v Barclays Bank plc (“Barclays Bank”) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2020/13.html">[2020] UKSC 13</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2020/13.html">[2020] AC 973</a> sought to clarify the boundaries of the newly expanded law of vicarious liability. 
+</li>
+<p> </p>  
+
+<li value="6"><a name="para6"> This court is now faced with examining the modern law on vicarious liability, as clarified in <i>Barclays Bank </i>and <i>Morrison</i>,<i> </i>in a case which involves the rape of a 29 year old married woman by an elder of the Jehovah’s Witnesses. 
+</a></li>
+<p> </p>  
+
+<li value="7"><a name="para7"> In formulating this judgment, I have found great assistance from a number of academic writings. We were referred by counsel to, for example, an article and a blog by Paula Giliker: “Can the Supreme Court halt the ongoing expansion of vicarious liability? <i>Barclays</i> and <i>Morrison</i> in the UK Supreme Court” (2021) 37 Professional Negligence 55-72; and “‘Tailoring’ the Close Connection Test for Sexual Abuse Victims: Vicarious Liability in the Court of Appeal,” University of Bristol Law School Blog (26 April 2021). I have found very helpful on the conceptual basis of vicarious liability, Rachel Lowe, <i>Corporate Attribution in Private Law </i>(2022) chapter 4. I have also derived great help from Donal Nolan, “Reining in Vicarious Liability” (2020) 49 ILJ 609; and from <i>Vicarious Liability in the Common Law World </i>(2022, ed Paula Giliker) which is a collection of essays viewing vicarious liability from a comparative common law perspective. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">2. Facts</span></p>  
+
+<li value="8"><a name="para8"> At the relevant time, the Barry Congregation of Jehovah’s Witnesses (“the Barry Congregation”) held three weekly religious services. Two of the services were held at the “Kingdom Hall” (which is the name given to their place of worship by Jehovah’s Witnesses), each lasting approximately 1 hour 45 minutes, with the third service typically being held as a small family group in private homes. Those services were comprised of reading and discussing the Bible and Bible-based religious literature. Jehovah’s Witnesses do not have a clergy-laity division. Two groups of men have congregational responsibilities: ministerial servants and, above them, elders (or overseers). Ordinary members of a congregation (ie who are neither ministerial servants nor elders) are known as “publishers”. 
+</a></li>
+<p> </p>  
+
+<li value="9"><a name="para9"> Mr and Mrs BXB (who I shall refer to as “Mr and Mrs B”) began attending the religious services of the Barry Congregation in 1984. They made lots of friends in the congregation among whom were Mark Sewell, his wife Mary Sewell, and their children. The families initially developed a connection through the secular work Mr B shared with Mark Sewell. Mark Sewell was self-employed and ran his own cleaning business throughout the relevant period. Mrs B’s evidence at trial was that the families became close because of Mark Sewell’s position as a ministerial servant of the Barry Congregation and then an elder (he became an elder at an undisclosed date in 1989). She said that Jehovah’s Witnesses were encouraged to associate only with each other, particularly those who were “good associations” because of their standing in the Barry Congregation. By about 1988 or 1989, Mr and Mrs B and the Sewells had become very close friends. The Sewell children were the same age as theirs, and the children would go round to each other’s houses about once a week. The two families had lots in common. They went on a holiday together, they visited each other’s houses for tea, they went on days out together, and they went to concerts. 
+</a></li>
+<p> </p>  
+
+<li value="10"><a name="para10"> Mrs B developed a special friendship with Mark Sewell. They were the same age and Mrs B considered that Mark Sewell became her best friend.
+</a></li>
+<p> </p>  
+
+<li value="11"><a name="para11"> Towards the end of 1989, Mr and Mrs B noticed a change in Mark Sewell’s behaviour. He began to abuse alcohol and appeared depressed. Mark and Mary Sewell frequently argued. Mr and Mrs B provided Mark and Mary Sewell and their children with extra support at this time, including baby-sitting the children and hosting Mary Sewell at their home when she and Mark Sewell had argued.
+</a></li>
+<p> </p>  
+
+<li value="12"><a name="para12"> Around the same time, Mrs B stated that Mark Sewell began flirting with her, including hugging her, holding hands and kissing her. He was also confiding in her.
+</a></li>
+<p> </p>  
+
+<li value="13"><a name="para13"> At trial, Chamberlain J accepted Mrs B’s evidence that, in around late 1989 or early 1990, Mrs B was so concerned about Mark’s behaviour that she suggested to Mary that the two of them speak to Mark’s father, Tony Sewell, who was also an elder. Without Mark’s knowledge, Mrs B and Mary arranged to meet Tony at his home. Tony explained that Mark was suffering from depression and that he needed love and support. Tony requested that Mr and Mrs B provide Mark with extra support. Mrs B felt Tony Sewell was asking her and her husband to continue to allow Mark to confide in her, to be friends to Mark and Mary, and to help with Mark’s depression. But Mrs B accepted that Tony Sewell did not ask her specifically to be alone with Mark. 
+</a></li>
+<p> </p>  
+
+<li value="14"><a name="para14"> Chamberlain J accepted Mrs B’s evidence that, had it not been for the fact that Mark Sewell was an elder and she had received an instruction from another elder, Tony Sewell, their friendship with Mark and Mary would have come to an end well before the rape occurred. 
+</a></li>
+<p> </p>  
+
+<li value="15"><a name="para15"> Over the following weeks, Mr and Mrs B continued to provide Mark Sewell and Mary Sewell with emotional support. At one point, Mark Sewell came to Mrs B’s home and asked if she would run away with him. Mrs B refused, stating that they both had children and their own responsibilities. 
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> On the morning of 30 April 1990, Mr and Mrs B and Mark and Mary Sewell were taking part in religious activity known as “auxiliary pioneering” (door-to-door evangelising) in Cowbridge, South Wales. Afterwards, they all went to a local pub for lunch. Mark drank beer and wine. He argued with Mary and she threw a glass of whisky over him. Mark stormed off. Mr B went to look for him and found him outside with a card from a local solicitor’s office, saying that he wanted to divorce Mary. Mr B told him that that would not be possible as divorce is only permitted within the community of Jehovah’s Witnesses on the grounds of adultery. Mark said that he would convince Mary that that ground was made out.
+</a></li>
+<p> </p>  
+
+<li value="17"><a name="para17"> Later that afternoon, Mr and Mrs B and Mark and Mary Sewell picked up their children and returned to Mark and Mary’s house. The children were upstairs playing. Mark went into a back room. At some point, Mrs B enquired about Mark’s whereabouts. Mary said that he was in the back room and asked Mrs B to see if she could talk some sense into him. Mrs B decided that she should go to speak to Mark to try to convince him that he should go to the elders about his depression. A conversation ensued during which Mark Sewell pushed Mrs B to the floor, held her down, and raped her. 
+</a></li>
+<p> </p>  
+
+<li value="18"><a name="para18"> A few weeks later, in May 1990, Mr and Mrs B and the Sewells went on a pre-planned family vacation to Portugal. Later that same year, Mr and Mrs B booked a holiday to Greece. Mark Sewell found out about it and he and Mary Sewell ended up going along on the holiday.
+</a></li>
+<p> </p>  
+
+<li value="19"><a name="para19"> In 1993, Mrs B reported the rape to the elders in the Barry Congregation after she had learned of an allegation made against Mark Sewell by CXC, a minor. Mark Sewell was removed as an elder. Mrs B decided not to report the matter to the police at that time. Sometime later, an ecclesiastical judicial committee (comprised of elders outside the Barry Congregation) was formed but found the allegations against Mark Sewell unproven (because a rule requiring corroboration was not met). He remained a member of the Barry Congregation but later, in August 1994, he was “disfellowshipped” (ie expelled) as a Jehovah’s Witness for unrelated conduct. Sometime thereafter, Mrs B ceased her association with Jehovah’s Witnesses. 
+</a></li>
+<p> </p>  
+
+<li value="20"><a name="para20"> On 20 March 2013, after learning of an additional allegation made against Mark Sewell, Mrs B decided to report the rape to the police. A criminal trial took place at which Mrs B gave evidence. On 2 July 2014, Mark Sewell was convicted of raping Mrs B and of 7 counts of indecently assaulting CXC and another individual. He was sentenced to 14 years’ imprisonment.
+</a></li>
+<p> </p>  
+
+<li value="21"><a name="para21"> Following the rape, Mrs B suffered episodes of depression and post-traumatic stress disorder. On 8 June 2017, she commenced an action for damages for personal injury, including psychiatric harm, against the Watch Tower and Bible Tract Society of Pennsylvania (which is a charitable corporation that supports the worldwide religious activities of the Jehovah’s Witnesses) and the Trustees of the Barry Congregation. She alleged that the defendants were vicariously liable for the rape (ie the tort of trespass to the person) committed by Mark Sewell. She also alleged that there was liability in the tort of negligence comprising a failure of the elders of the Barry Congregation adequately to investigate and conduct a proper inquiry into Mrs B’s allegation of rape and to take appropriate steps having done so. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">3. The decision of Chamberlain J </span></p>  
+
+<li value="22"><a name="para22"> At first instance, </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2020/156.html">[2020] EWHC 156 (QB)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2020/156.html">[2020] 4 WLR 42</a>, Chamberlain J made clear at the outset that he did not think it necessary to consider the precise relationship between the first and second defendants because the first defendant, the Watch Tower and Bible Tract Society of Pennsylvania, had agreed that it would satisfy any judgment against the second defendants, the Trustees of the Barry Congregation. He therefore referred throughout to “the defendants” without differentiating between them.
+</li>
+<p> </p>  
+
+<li value="23"><a name="para23"> He first held that, in respect of both the rape and negligence claims, there was no limitation bar because, although the primary limitation period had expired, it was equitable to allow the action to proceed under section 33 of the Limitation Act 1980. He then decided on the main issue that the defendants were vicariously liable for the rape. In the light of his decision on vicarious liability, Chamberlain J considered it unnecessary to decide whether the defendants were liable for the tort of negligence, and he preferred not to do so, although he did devote several paragraphs of his judgment to setting out his observations on that issue. He awarded Mrs B general damages of £62,000 in respect of the rape. 
+</a></li>
+<p> </p>  
+
+<li value="24"><a name="para24"> His reasoning on vicarious liability for the rape was as follows:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The relevant law on vicarious liability was to be gleaned from several recent decisions including those of the Supreme Court in <i>Christian Brothers</i>, <i>Cox </i>and <i>Mohamud. </i>It is to be noted that Chamberlain J was examining the law prior to the two latest relevant Supreme Court decisions in <i>Barclays Bank</i> and <i>Morrison</i>. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The first stage of the vicarious liability inquiry (which Chamberlain J saw as focussing on “whether the relationship between the defendants and Mark Sewell, one of their elders, was capable of giving rise to vicarious liability” (para 157)) was satisfied. This was because, first, Mark Sewell carried on activities as an integral part of the “business” activities carried on by the defendants and for their benefit and, secondly, the commission of the rape was a risk created by the defendants by assigning those activities to Mark Sewell. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The second stage of the vicarious liability inquiry was also satisfied. “The rape was … sufficiently closely connected to Mark Sewell’s … [position as elder] to make it just and reasonable that the defendants be held vicariously liable for it” (para 174). The judge’s more precise reasoning (see para 173) included that: (a) Mark Sewell’s position as a ministerial servant was an important part of the reason why Mr and Mrs B started to associate with Mark and Mary Sewell; (b) “but for” Mark Sewell’s (and Tony Sewell’s) position as elder, Mr and Mrs B would probably not have remained friends with Mark Sewell by the time of the rape; (c) the defendants significantly increased the risk that Mark Sewell would sexually abuse Mrs B by creating the conditions (including by Tony Sewell’s implied instruction that she continue to act as Mark’s confidante) in which the two might be alone together; (d) the rape took place in circumstances closely connected to the carrying out by Mark Sewell and Mrs B of religious duties; and (e) one of the reasons for the rape was Mark Sewell’s belief that an act of adultery was necessary to provide scriptural grounds for him to divorce Mary. </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">4. The decision of the Court of Appeal</span></p>  
+
+<li value="25"><a name="para25"> The second defendants, the Trustees of the Barry Congregation, appealed to the Court of Appeal against Chamberlain J’s decision on vicarious liability. The Court of Appeal (Bean, Nicola Davies and Males LJJ) unanimously dismissed the appeal: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/356.html">[2021] EWCA Civ 356</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2021/356.html">[2021] 4 WLR 42</a>. In agreement with Chamberlain J, it was held that both stages of the vicarious liability inquiry were satisfied. Nicola Davies LJ gave the leading judgment. Males LJ, in his concurring judgment, agreed with Nicola Davies LJ’s reasoning on the first stage but, at the second stage, found the issue “more nuanced” (para 91) and therefore set out his own reasoning at some length. Bean LJ, in a short concurring judgment, agreed with Chamberlain J and with the reasoning of both Nicola Davies LJ and Males LJ. 
+</li>
+<p> </p>  
+
+<li value="26"><a name="para26"> Nicola Davies LJ’s essential reasoning was as follows:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The relevant law on vicarious liability was to be derived from the cases referred to by Chamberlain J but she went on to refer also to the most recent Supreme Court decisions in <i>Barclays Bank </i>and <i>Morrison</i>. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the first stage of the vicarious liability inquiry the question was whether the relationship between elders and the defendants was one that was capable of giving rise to vicarious liability. In <i>Christian Brothers</i>, the test applied was whether the relationship was sufficiently akin to that of employer and employee to satisfy stage 1. Nicola Davies LJ referred to Lord Phillips’ identification of five policy reasons for imposing vicarious liability but she went on, at para 72:</p>  
+
+<p class="MsoQuote">“critically at para 56, he identified specific elements of the relationship between the teaching brothers and the Institute which reflected the relationship between an employer and employee. It is of note that they included the hierarchical structure of the Institute, the fact that the teaching activity was in furtherance of the mission of the Institute and that the manner in which the brothers were obliged to conduct themselves as teachers was dictated by the Institute’s rules.” </p>  
+
+<p class="ParaNoNumber" style="text-indent:36.0pt">Nicola Davies LJ continued at para 73:</p>  
+
+<p class="MsoQuote">“It is clear from the evidence … that the Jehovah’s Witness organisation is central to the lives of its publishers, ministerial servants and elders. Its structure could fairly be described as hierarchical. It exercises control over its members, which goes beyond activities directly related to the dissemination of the Kingdom message.”</p>  
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">She considered that Chamberlain J had carried out a “searching inquiry” (para 75) as to the role of elders within the Jehovah’s Witness organisation and his findings were clear and cogent and reflected the evidence. The judge had been entitled to make the findings which led him to the view that the commission of the rape was a risk created by the defendants in assigning the activities of an elder to Mark Sewell (paras 78-79). The relationship in this case was analogous to the relationship in <i>Christian Brothers</i>. At para 81, she concluded as follows on stage 1:</p>  
+
+<p class="MsoQuote">“In performing their activities as elders in leading the congregation, the elders were the chief conduit of the guidance and teachings of Jehovah’s Witnesses, they were not carrying on business on their own account. Elders were integral to the organisation, the nature of their role was directly controlled by it and by its structure. The judge was entitled to conclude that the relationship between elders and the Jehovah’s Witnesses was one that could be capable of giving rise to vicarious liability.”</p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the second stage of the vicarious liability inquiry, Nicola Davies LJ thought that on the facts “what is relevant for the purpose of the close connection test is the conferral of authority by the Jehovah’s Witness organisation upon its elders, coupled with the opportunity for physical proximity as between an elder and publishers in the congregation.” (para 84) She accepted as the basis for satisfying the test of close connection, the three conclusions of the judge set out at para 24(iii)(a) (b) and (c) above.</p>  
+
+<li value="27"><a name="para27"> Males LJ agreed with Nicola Davies LJ’s reasoning on stage 1. His reasoning on stage 2 was slightly different. He recognised that the correct close connection test was the test confirmed by the Supreme Court in <i>Morrison</i> albeit that it needed some modification because sexual abuse cannot be regarded as something done in the ordinary course of employment (para 92). The two essential issues in applying that test were whether Mark Sewell’s status as an elder placed him in a position of power or authority over Mrs B and whether the rape was an abuse of that position as distinct from being unconnected with his status as an elder (para 97). There were then four key factors in addressing those issues. The first was that ordinary members of the congregation (such as Mrs B) were required to be obedient and submissive to the elders. Secondly, it was apparent that the elders knew of and permitted sexually inappropriate behaviour (kissing female members on the lips) on the part of Mark Sewell when acting as an elder in welcoming members of the congregation. Thirdly, there was the raising of the concerns about Mark Sewell with Tony Sewell, also an elder, and his response to that. Fourthly, had it not been for Mark Sewell’s status as an elder and Tony Sewell’s instruction, Mr and Mrs B would have cut off contact with Mark. When the circumstances of the rape were seen in the context of those four factors:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“it is apparent in my judgment that the rape occurred because of Mark Sewell’s status as an elder, without which the two couples would have ceased to associate and without which Mrs B would never have approached him in the back room where the rape occurred. She did so because, and only because, despite the sexually inappropriate behaviour which he had demonstrated, of which the other elders including in particular Tony Sewell were aware, she had been taught that an elder has a special status in the community of Jehovah’s Witnesses and had been instructed that it was her religious duty towards Mark as an elder to act as a friend and confidante to him in his depression.” (para 105)</p>  
+
+<li value="28"><a name="para28"> Modifying the test in <i>Morrison</i>,<i> </i>Males LJ concluded as follows at para 106:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“The rape was sufficiently closely connected with Mark Sewell’s status as an elder that it may fairly and properly be regarded as an abuse of the authority over Mrs B conferred on him by that status, such that the defendants who had conferred that authority on him should be vicariously liable.”</p>  
+
+<li value="29"><a name="para29"> It is important to add that Males LJ had earlier made clear at para 103 that there were significant factors pointing against vicarious liability: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“As the judge acknowledged, Mrs B was an adult married woman who was 29 years old and it was her decision to continue to associate with Mark Sewell despite his unacceptable behaviour. In fact she did have a choice whether to continue to associate with him, although it is fair to say that ending the friendship might have made it difficult for her and her husband to remain as members of the Barry Congregation and would therefore have carried a considerable spiritual cost. Moreover, the rape did not occur while Mark Sewell was performing any religious duty. It is true that, earlier in the day, the two couples had been “pioneering” (evangelising door-to-door), but since then much had happened … It can therefore be said that the rape occurred when the two couples were choosing to be together on an essentially social occasion, albeit one which must have been awkward in view of what had occurred. There is, therefore, at least an argument that by the time of the rape Mark Sewell’s status as an elder had somewhat faded into the background. Further, the rape itself did not involve, as the child grooming cases have, any kind of acquiescence by Mrs B because Mark Sewell was an elder. On the contrary, he forced himself on her violently.”</p>  
+
+<p class="ParaNoNumber">He also clarified that, unlike the judge, he was not relying on the factors set out at para 24(iii)(a) and (d) above. </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">5. The modern law on vicarious liability</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(1) The cases as from 2001 in the House of Lords and Supreme Court prior to </span>Barclays Bank <span style="font-style:normal">and </span>Morrison</p>  
+
+<li value="30"><a name="para30"> The modern expansion of vicarious liability started in <i>Lister</i>. The warden of a school boarding house had systematically sexually abused the claimants. The claimants were boys, at the time aged 12 -15, who were residents in the boarding house and were in the warden’s care. The employers of the warden were held vicariously liable for the torts committed against the claimants by the warden. The important development of the law by the House of Lords was to recognise (at stage 2 of the vicarious liability inquiry) the “close connection” test. Although it might be difficult to describe the warden’s torts as falling within the classic test formulated by Salmond, <i>Law of Torts, </i>1<sup>st</sup> ed (1907) p 83, of the tort being an unauthorised mode of carrying out an authorised act, it was sufficient for vicarious liability if the warden’s torts were closely connected with his employment. This “close connection” test drew on additional words of Salmond and on the Canadian Supreme Court case of <i>Bazley v Curry </i></a><a title="Link to BAILII version" href="https://canlii.ca/t/1fqlw">[1999] 2 SCR 534</a>. Lord Steyn (with whom Lord Hutton agreed) said, at para 28: 
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“The question is whether the warden’s torts were so closely connected with his employment that it would be fair and just to hold the employers vicariously liable. On the facts of the case the answer is yes. After all, the sexual abuse was inextricably interwoven with the carrying out by the warden of his duties in [the boarding house].”</p>  
+
+<li value="31"><a name="para31"> In Lord Millett’s words, at para 70, “What is critical is that attention should be directed to the closeness of the connection between the employee’s duties and his wrongdoing…” He then explained that, here, the duties of the warden were precisely to take care of the boys. At para 82, his Lordship went on: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“He did not merely take advantage of the opportunity which employment at a residential school gave him. He abused the special position in which the school had placed him to enable it to discharge its own responsibilities, with the result that the assaults were committed by the very employee to whom the school had entrusted the care of the boys.”</p>  
+
+<li value="32"><a name="para32"> Lord Hobhouse in his speech warned against confusing the policy reasons underlying vicarious liability and the rules defining the criteria for the application of the doctrine. He said at para 60: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“an exposition of the policy reasons for a rule … is not the same as defining the criteria for its application. Legal rules have to have a greater degree of clarity and definition than is provided by simply explaining the reasons for the existence of the rule and the social need for it, instructive though that may be.” </p>  
+
+<li value="33"><a name="para33"> The next important case in the House of Lords could not have been further removed from the facts of <i>Lister</i>. It was a commercial case involving a partnership. In <i>Dubai Aluminium Co Ltd v Salaam (“Dubai Aluminium”) </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2002/48.html">[2002] UKHL 48</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/48.html">[2003] 2 AC 366</a> it was held that a partnership was vicariously liable, under section 10 of the Partnership Act 1890, for the equitable wrong of dishonest assistance in a breach of fiduciary duty committed by one of the partners. Although focusing on the words in section 10, “acting in the ordinary course of business of the firm”, Lord Nicholls, giving the leading speech, looked at vicarious liability generally and said the following (in relation to stage 2 of the vicarious liability inquiry) at para 23: 
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“the wrongful conduct must be so closely connected with acts the partner or employee was authorised to do that, for the purpose of the liability of the firm or the employer to third parties, the wrongful conduct <i>may fairly and properly be regarded </i>as done by the partner while acting in the ordinary course of the firm’s business or the employee’s employment.” </p>  
+
+<p class="ParaNoNumber">He recognised that this “close connection” test was imprecise but that this was inevitable given the infinite range of circumstances where the issue arises. He went on to say at para 26: </p>  
+
+<p class="MsoQuote">“Essentially the court makes an evaluative judgment in each case, having regard to all the circumstances and, importantly, having regard also to the assistance provided by previous court decisions. In this field the latter form of assistance is particularly valuable.” </p>  
+
+<li value="34"><a name="para34"> Although primarily deciding that vicarious liability can extend to a claim for damages for breach of statutory duty under the Protection from Harassment Act 1997, Lord Nicholls, giving the leading judgment in <i>Majrowski v Guy’s and St Thomas’s NHS Trust </i>(<i>“Majrowski”</i>) </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2006/34.html">[2006] UKHL 34</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2006/34.html">[2007] 1 AC 224</a>, para 10, confirmed the close connection test set out in <i>Lister </i>and <i>Dubai Aluminium</i>.
+</li>
+<p> </p>  
+
+<li value="35"><a name="para35"> In <i>Christian Brothers</i>, we return to the sexual abuse of children. The claimants had been boys at a Roman Catholic residential school who had been sexually abused by members of the Christian Brothers who lived and taught at the school. The Christian Brothers were lay members of a Roman Catholic Institute, the Institute of the Brothers of the Christian Schools (De La Salle) which one can refer to as the Christian Brothers Institute. That was an unincorporated association concerned with teaching children. The Christian Brothers were unpaid as such but their material needs were met by the Christian Brothers Institute and they were provided with accommodation and food at the residential schools at which they taught. By the time the case reached the Supreme Court it was no longer in dispute that the diocesan bodies (eg the Catholic Child Welfare Society), who were responsible under statute for the management of the school and had contracts of employment with the Christian Brothers in question, were vicariously liable for the abuse by the Christian Brothers. The principal question for the Supreme Court was whether the Christian Brothers Institute was also vicariously liable for that abuse. Both stages of vicarious liability were under scrutiny. It was held that the Institute was vicariously liable. 
+</a></li>
+<p> </p>  
+
+<li value="36"><a name="para36"> At stage 1, the Supreme Court laid down (with the single judgment being given by Lord Phillips, with whom Lady Hale, Lord Kerr, Lord Wilson and Lord Carnwath agreed) that the correct question was whether the relationship between the defendant and the tortfeasor was one that was “akin to employment” (using the terminology adopted by Ward LJ in the Court of Appeal in <i>E v English Province of Our Lady of Charity </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/938.html">[2012] EWCA Civ 938</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2012/938.html">[2013] QB 722</a>). In applying that test, it was held (especially at paras 56-57) that the relationship between a Christian Brother and the Christian Brothers Institute was akin to employment because it had all the essential elements of an employment relationship. That is, there was a hierarchical structure, the Brothers were directed to undertake the teaching activity, they were doing so in furtherance of the objectives of the Institute, and they were required to conduct themselves as teachers within the rules of the Institute. It did not matter that the Brothers were not paid as such and that they were bound to the Institute by vows rather than by contract. 
+</li>
+<p> </p>  
+
+<li value="37"><a name="para37"> At stage 2, it was held that the close connection test was also satisfied. Lord Phillips, at para 76, referred to the words of Lord Nicholls at para 23 in the <i>Dubai Aluminium </i>case (set out in para 33 above) and made clear that the courts were “tailoring” (para 83) this area of the law to emphasise the importance of criteria that were particularly relevant to sexual abuse. He recognised that the precise criteria required, in the context of sexual abuse, were “still in the course of refinement by judicial decision” (at para 85). He said that what weighed with the courts was that “the relationship has facilitated the commission of the abuse by placing the abusers in a position where they enjoyed both physical proximity to their victims and the influence of authority over them both as teachers and as men of God” (at para 84). 
+</a></li>
+<p> </p>  
+
+<li value="38"><a name="para38"> Throughout his analysis, Lord Phillips referred both to the criteria for satisfying vicarious liability and the policy reasons for the doctrine, and he expressed the view, at para 34, that it was important to consider both. At para 35, he identified five policy reasons (or “incidents” as he referred to them at para 47) explaining the vicarious liability of employers: the deep pockets of the employer, that the activity is being undertaken on behalf of the employer, that the activity is part of the business of the employer, that the employer has created the risk of the tort, and the control of the employer over the employee. In his words at para 35:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“The relationship that gives rise to vicarious liability is in the vast majority of cases that of employer and employee under a contract of employment. The employer will be vicariously liable when the employee commits a tort in the course of his employment. There is no difficulty in identifying a number of policy reasons that usually make it fair, just and reasonable to impose vicarious liability on the employer …: (i) the employer is more likely to have the means to compensate the victim than the employee and can be expected to have insured against that liability; (ii) the tort will have been committed as a result of activity being taken by the employee on behalf of the employer; (iii) the employee's activity is likely to be part of the business activity of the employer; (iv) the employer, by employing the employee to carry on the activity will have created the risk of the tort committed by the employee; (v) the employee will, to a greater or lesser degree, have been under the control of the employer.”</p>  
+
+<li value="39"><a name="para39"> Earlier at para 21, Lord Phillips also referred to there being a “synthesis” of the two stages in the sense that stage 2 linked to stage 1. This was because, at stage 1, one was identifying the relationship between the tortfeasor and the defendant and then, at stage 2, one was asking whether there was a close connection between that relationship (identified at stage 1) and the commission of the tort. 
+</a></li>
+<p> </p>  
+
+<li value="40"><a name="para40"> There then followed two cases, handed down on the same day, neither dealing with sexual abuse, in which the Supreme Court sought to clarify where the law on vicarious liability had reached as regards, respectively, stage 1 and stage 2. In both cases vicarious liability was held to be established. 
+</a></li>
+<p> </p>  
+
+<li value="41"><a name="para41"> In the first case, <i>Cox v Ministry of Justice </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/10.html">[2016] UKSC 10</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/10.html">[2016] AC 660</a>, the stage 1 test was held to be satisfied so that the Ministry of Justice, or more specifically the prison service, was held vicariously liable for the tort of negligence committed by a prisoner carrying out work in a prison kitchen. The tort was committed when, after being instructed to stop work while a spillage of rice was cleared away, the prisoner carried on work and, in attempting to go past the spillage, negligently dropped a heavy bag of rice on the claimant’s back injuring her. 
+</li>
+<p> </p>  
+
+<li value="42"><a name="para42"> Lord Reed (with whom Lord Neuberger, Lady Hale, Lord Dyson and Lord Toulson agreed) took his lead from the judgment of Lord Phillips in <i>Christian Brothers</i>. Primarily concentrating on the five policy reasons underpinning vicarious liability, articulated by Lord Phillips at para 35 of his judgment (see para 38 above), Lord Reed made clear that the first and fifth of those policy factors (deep pockets and control) were of limited importance and it was rather the other three policy factors that were helpful in understanding the modern rationale for the doctrine. They were that the tort had been committed while acting on behalf of the employer and as part of the employer’s business and that the employer had thereby created the risk of the tort. Lord Reed pointed out that those three policy factors are inter-related and together give an underlying rationale for vicarious liability which, going beyond a relationship of employment, he expressed in the following way, at para 24: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“a relationship other than one of employment is in principle capable of giving rise to vicarious liability where harm is wrongfully done by an individual who carries on activities as an integral part of the business activities carried on by a defendant and for its benefit (rather than his activities being entirely attributable to the conduct of a recognisably independent business of his own or of a third party), and where the commission of the wrongful act is a risk created by the defendant by assigning those activities to the individual in question.”</p>  
+
+<li value="43"><a name="para43"> In terms of the criteria to be applied in determining whether the relevant relationship (between a prisoner, when assigned work, and the prison service) was akin to employment, the most important passage is at para 34 where Lord Reed said the following:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“when prisoners work in the prison kitchen, or in other workplaces such as the gardens or the laundry, they are integrated into the operation of the prison. The activities assigned to them … form part of the operation of the prison, and are of direct and immediate benefit to the prison service itself.” </p>  
+
+<li value="44"><a name="para44"> Lord Reed also indicated that the sexual abuse of children is not a special category of case and that the general approach to vicarious liability applies to such cases (para 29). He also indicated that, where the criteria for the imposition of vicarious liability are satisfied, it would not routinely be necessary to go on to consider whether the result was fair, just and reasonable (para 41). But, having said that, he added at para 42:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Where a case concerns circumstances which have not previously been the subject of an authoritative judicial decision, it may be valuable to stand back and consider whether the imposition of vicarious liability would be fair, just and reasonable.”</p>  
+
+<li value="45"><a name="para45"> The other case, decided at the same time by the same panel of the Supreme Court, but with the leading judgment being given by Lord Toulson, was <i>Mohamud</i>. The claimant, having stopped at the petrol station at one of the defendant's supermarkets, went into the sales kiosk and asked the defendant's employee if it was possible to print off some documents which the claimant had stored on a USB stick. The employee refused the request in an offensive manner and, in the exchange of words which followed, he used racist, abusive and violent language towards the claimant and ordered him to leave. He then followed the claimant as he walked back to his car and, having told him never to return, subjected him to a serious physical attack.&nbsp;It was held that the stage 2 test was satisfied so that the defendants were vicariously liable for the tortious assault committed by their employee. The Supreme Court confirmed that the close connection test (whether the employee’s tort was so closely connected with his employment that it would be just to hold the employer liable) that had been laid down in <i>Lister </i>and confirmed in, eg, <i>Dubai Aluminium </i>was the correct test at stage 2. Lord Toulson pointed out, at para 42, that that test had also been approved in <i>Majrowski </i>and <i>Christian Brothers </i>as well as by the Privy Council in cases such as <i>Brown v Robinson </i></a><a title="Link to BAILII version" href="/uk/cases/UKPC/2004/56.html">[2004] UKPC 56</a>, <a title="Link to BAILII version" href="/uk/cases/UKPC/2004/56.html">(2004) 65 WIR 258</a> and <i>Bernard v Attorney General of Jamaica </i><a title="Link to BAILII version" href="/uk/cases/UKPC/2004/47.html">[2004] UKPC 47</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/2004/47.html">[2005] IRLR 398</a> (and, although not mentioned by Lord Toulson, there was also the Privy Council decision to the same effect in <i>Attorney General of the British Virgin Islands v Hartwell </i><a title="Link to BAILII version" href="/uk/cases/UKPC/2004/12.html">[2004] UKPC 12</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/2004/12.html">[2004] 1 WLR 1273</a>, para 16). It is also noteworthy that, at para 44, Lord Toulson thought it helpful, in applying that test, to focus on “what functions or ‘field of activities’ have been entrusted by the employer to the employee, or, in everyday language, what was the nature of his job.” 
+</li>
+<p> </p>  
+
+<li value="46"><a name="para46"> Finally, in <i>Armes</i>, it was held that a local authority was vicariously liable (but not liable for breach of a non-delegable duty of care) for torts comprising sexual abuse committed by foster parents against a child in their care. The leading judgment was given by Lord Reed (with whom Lady Hale, Lord Kerr and Lord Clarke agreed, Lord Hughes dissenting). The sole issue for vicarious liability was at stage 1 because it was conceded by the local authority that, if stage 1 were satisfied, stage 2 would also be satisfied. In deciding that the test at stage 1 was satisfied, the most important passage is at para 60 where Lord Reed said the following:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Although the picture presented is not without complexity, nevertheless when considered as a whole it points towards the conclusion that the foster parents provided care to the child as an integral part of the&nbsp;local authority's organisation of its child care services. If one stands back from the minutiae of daily life and considers the local authority's statutory responsibilities and the manner in which they were discharged, it is impossible to draw a sharp line between the activity of the local authority, who were responsible for the care of the child and the promotion of her welfare, and that of the foster parents, whom they recruited and trained, and with whom they placed the child, in order for her to receive care in the setting which they considered would best promote her welfare. In these circumstances, it can properly be said that the torts committed against the claimant were committed by the foster parents in the course of an activity carried on for the benefit of the local authority.”</p>  
+
+<li value="47"><a name="para47"> In looking at the justification for vicarious liability, Lord Reed noted that “deterrence” has not been advanced in the English case law as part of the policy behind vicarious liability. Instead, he referred to what has been termed in the academic literature as “enterprise risk” or “enterprise liability” (see, eg, Anthony Gray, <i>Vicarious Liability: Critique and Reform</i>, 1998, chapters 5-6) in the following passage at para 67:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“The most influential idea in modern times has been that it is just that an enterprise which takes the benefit of activities carried on by a person integrated into its organisation should also bear the cost of harm wrongfully caused by that person in the course of those activities.”</p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(2) </span>Barclays Bank<span style="font-style:normal"> and</span> Morrison<span style="font-style: normal"> </span></p>  
+
+<li value="48"><a name="para48"> I now turn to the most recent Supreme Court cases which, as several years earlier with <i>Cox</i> and <i>Mohamud</i>,<i> </i>were heard by the same panels and were handed down on the same day. <i>Barclays Bank </i>was concerned with stage 1, while <i>Morrison</i> was concerned with stage 2. One may detect behind them an anxiety that the scope of vicarious liability was being widened too far and, in both cases, the Supreme Court reversed the Court of Appeal and held that there was no vicarious liability. 
+</a></li>
+<p> </p>  
+
+<li value="49"><a name="para49"> In <i>Barclays Bank</i> the defendant bank arranged for a doctor to carry out pre-employment medical examinations on the claimant job applicants, many of whom were teenagers applying for their first job on leaving school. The bank arranged the appointments, told the claimants when and where to go and provided the doctor with a pro forma report to fill in. The doctor was not paid a retainer by the bank, but was paid a fee for each report, and the work he did for the bank was a comparatively minor part of his portfolio practice. The examinations took place in a consulting room in the doctor's house. The claimants alleged that they were sexually assaulted in the course of those examinations. They sought damages for personal injury from the bank on the basis that it was vicariously liable for the assaults. 
+</a></li>
+<p> </p>  
+
+<li value="50"><a name="para50"> Lady Hale gave the leading judgment (with which Lord Reed, Lord Kerr, Lord Hodge and Lord Lloyd-Jones agreed). She made clear that the expansion of vicarious liability to include, at the first stage, whether the relationship was “akin to employment” did not extend to rendering an employer vicariously liable for the torts of “true independent contractors” (Lady Hale at para 29). The long-standing distinction drawn in the law of vicarious liability between employees and independent contractors remained of crucial importance. In this case when carrying out the medical examinations the doctor was acting as an independent contractor and was not an employee of the bank. She said at para 24: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“There is nothing, therefore, in the trilogy of Supreme Court cases discussed above [<i>Christian Brothers, Cox </i>and <i>Armes</i>] to suggest that the classic distinction between employment and relationships akin or analogous to employment, on the one hand, and the relationship with an independent contractor, on the other hand, has been eroded.” </p>  
+
+<li value="51"><a name="para51"> She also indicated at para 16, relying on what Lord Hobhouse had said in <i>Lister</i> (see para 32 above), that, although there had been a judicial tendency to do so, one should seek to avoid eliding the criteria or principles in applying the stage 1 test with the policy reasons underpinning vicarious liability as explored by Lord Phillips in <i>Christian Brothers</i>. She pointed out at para 18 that one can differentiate the two in Lord Phillips’ judgment and that in paras 56-57 (see para 36 above) Lord Phillips focused on the detailed features of the relationship, and its closeness to employment, and not on the five underlying policies to which he had earlier referred. 
+</a></li>
+<p> </p>  
+
+<li value="52"><a name="para52"> At para 27, she concluded:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“The question therefore is … whether the tortfeasor is carrying on business on his own account or whether he is in a relationship akin to employment with the defendant. In doubtful cases, the five ‘incidents’ identified by Lord Phillips may be helpful in identifying a relationship which is sufficiently analogous to employment to make it fair, just and reasonable to impose vicarious liability. Although they were enunciated in the context of non-commercial enterprises, they may be relevant in deciding whether workers who may be technically self-employed or agency workers are effectively part and parcel of the employer's business. But the key, as it was in <i>Christian Brothers <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2012/56.html">[2013] 2 AC 1</a></i>, <i>Cox <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/10.html">[2016] AC 660</a> </i>and <i>Armes <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/60.html">[2018] AC 355</a></i>, will usually lie in understanding the details of the relationship. Where it is clear that the tortfeasor is carrying on his own independent business it is not necessary to consider the five incidents.”</p>  
+
+<li value="53"><a name="para53"> In <i>Morrison</i>, the defendant company was requested by its external auditors to provide them with a copy of its payroll data. Accordingly, a copy of the data was transmitted to one of the defendant's employees, Mr Skelton, an internal auditor, for the sole purpose of passing it on to the external auditors. The internal auditor carried out that task but also unlawfully copied the data and uploaded it onto a publicly accessible website, in pursuance of a vendetta against the defendant and intending thereby to cause harm to the defendant. On the day when the defendant's financial results were due to be announced, the internal auditor also sent the data to a number of national newspapers. The claimants, employees of the defendant whose personal data had been disclosed, brought claims against the defendant for damages for breach of confidence and misuse of private information on the basis that the defendant was vicariously liable for the internal auditor's wrongdoing. It was held at stage 2 that the employee’s wrongful conduct was not so closely connected with acts that the employee was authorised to do as to render the defendant vicariously liable. 
+</a></li>
+<p> </p>  
+
+<li value="54"><a name="para54"> Lord Reed gave the leading judgment (with which Lord Kerr, Lord Hodge, Lord Lloyd-Jones and Lady Hale agreed). He clarified that, at stage 2, where one was dealing with an employee, and in line with what was articulated in <i>Lister</i>, the appropriate test was that set out by Lord Nicholls in <i>Dubai Aluminium</i>: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“the wrongful conduct must be so closely connected with acts the employee was authorised to do that … it may fairly and properly be regarded as done by the employee while acting in the ordinary course of his employment” (paras 23, 25, 31 and 47). </p>  
+
+<li value="55"><a name="para55"> At para 24, Lord Reed added the following:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“The general principle set out by Lord Nicholls in <i>Dubai Aluminium</i>, like many other principles of the law of tort, has to be applied with regard to the circumstances of the case before the court and the assistance provided by previous court decisions. The words ‘fairly and properly’ are not, therefore, intended as an invitation to judges to decide cases according to their personal sense of justice, but require them to consider how the guidance derived from decided cases furnishes a solution to the case before the court. Judges should therefore identify from the decided cases the factors or principles which point towards or away from vicarious liability in the case before the court, and which explain why it should or should not be imposed. Following that approach, cases can be decided on a basis which is principled and consistent.”</p>  
+
+<li value="56"><a name="para56"> He went on to explain that Lord Toulson’s judgment in <i>Mohamud </i>was consistent with this. For example, Lord Toulson was not suggesting “that all that was involved in determining whether an employer was vicariously liable was for the court to consider whether there was a temporal or causal connection between the employment and the wrongdoing” (para 26). Moreover, Lord Toulson should not be interpreted as having indicated that the tortfeasor’s motives are always irrelevant. On the facts of this case, the motive of the employee - he was pursuing a vendetta against his employer - was highly material. 
+</a></li>
+<p> </p>  
+
+<li value="57"><a name="para57"> Applying the stage 2 close connection test to the facts, Morrison was not vicariously liable. In Lord Reed’s words at para 47:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“In the present case, it is abundantly clear that Skelton was not engaged in furthering his employer's business when he committed the wrongdoing in question. On the contrary, he was pursuing a personal vendetta, seeking vengeance for the disciplinary proceedings some months earlier. In those circumstances, applying the test laid down by Lord Nicholls in <i>Dubai Aluminium </i>in the light of the circumstances of the case and the relevant precedents, Skelton's wrongful conduct was not so closely connected with acts which he was authorised to do that, for the purposes of Morrisons’ liability to third parties, it can fairly and properly be regarded as done by him while acting in the ordinary course of his employment.”</p>  
+
+<p class="ParaHeading1">6<span style="text-transform:none">. Summary of the modern law on vicarious liability</span></p>  
+
+<li value="58"><a name="para58"> Having examined the main 21<sup>st</sup> century decisions on vicarious liability of the highest court, it is now possible to pull together the legal principles applicable to vicarious liability in tort that can be derived from those authorities particularly the most recent cases of <i>Barclays Bank </i>and <i>Morrison</i>. 
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>There are two stages to consider in determining vicarious liability. Stage 1 is concerned with the relationship between the defendant and the tortfeasor. Stage 2 is concerned with the link between the commission of the tort and that relationship. Both stages must be addressed and satisfied if vicarious liability is to be established. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The test at stage 1 is whether the relationship between the defendant and the tortfeasor was one of employment or akin to employment. In most cases, there will be no difficulty in applying this test because one is dealing with an employer-employee relationship. But in applying the “akin to employment” aspect of this test, a court needs to consider carefully features of the relationship that are similar to, or different from, a contract of employment. Depending on the facts, relevant features to consider may include: whether the work is being paid for in money or in kind, how integral to the organisation is the work carried out by the tortfeasor, the extent of the defendant’s control over the tortfeasor in carrying out the work, whether the work is being carried out for the defendant’s benefit or in furtherance of the aims of the organisation, what the situation is with regard to appointment and termination, and whether there is a hierarchy of seniority into which the relevant role fits. It is important to recognise, as made clear in <i>Barclays Bank</i>, that the “akin to employment” expansion does not undermine the traditional position that there is no vicarious liability where the tortfeasor is a true independent contractor in relation to the defendant. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The test at stage 2 (the “close connection” test) is whether the wrongful conduct was so closely connected with acts that the tortfeasor was authorised to do that it can fairly and properly be regarded as done by the tortfeasor while acting in the course of the tortfeasor’s employment or quasi-employment. This is the test, subject to two minor adjustments, set out by Lord Nicholls in <i>Dubai Aluminium</i>, drawing on <i>Lister</i>, and firmly approved in <i>Morrison</i>. The first adjustment is that, to be comprehensive, it is necessary to expand the test to include “quasi-employment” as one may be dealing with a situation where the relationship at stage 1 is “akin to employment” rather than employment. The second adjustment is that it is preferable to delete the word “ordinary” before “course of employment” which is superfluous and potentially misleading (eg none of the sexual abuse cases can easily be said to fall within the “ordinary” course of employment) and was presumably included by Lord Nicholls because “in the ordinary course of business” were the words in section 10 of the Partnership Act 1890. The application of this “close connection” test requires a court to consider carefully on the facts the link between the wrongful conduct and the tortfeasor’s authorised activities. That there is a causal connection (ie that the “but for” causation test is satisfied) is not sufficient in itself to satisfy the test. Cases such as <i>Lister </i>and <i>Christian Brothers </i>show that sexual abuse of a child by someone who is employed or authorised to look after the child will, at least generally, satisfy the test. But, as established by <i>Morrison</i>, the carrying out of the wrongful act in pursuance of a personal vendetta against the employer, designed to harm the employer, will mean that this test is not satisfied. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As made particularly clear by Lady Hale in <i>Barclays Bank, </i>drawing on what Lord Hobhouse had said in <i>Lister</i>, the tests invoke legal principles that in the vast majority of cases can be applied without considering the underlying policy justification for vicarious liability. The tests are a product of the policy behind vicarious liability and in applying the tests there is no need to turn back continually to examine the underlying policy. This is not to deny that in difficult cases, and in line with what Lord Reed said in <i>Cox, </i>having applied the tests to reach a provisional outcome on vicarious liability, it can be a useful final check on the justice of the outcome to stand back and consider whether that outcome is consistent with the underlying policy. What precisely the underlying policy is has been hotly debated over many years by academics and judges alike. See, for example, PS Atiyah, <i>Vicarious Liability in the Law of Torts </i>(1967) chapter 2; Jason Neyers, “A Theory of Vicarious Liability” (2005) 43 Alberta Law Review 287; Anthony Gray, <i>Vicarious Liability: Critique and Reform </i>(2018); <i>Vicarious Liability in the Common Law World </i>(ed Paula Giliker, 2022). As we have seen at para 38 above, Lord Phillips referred to five policies in <i>Christian Brothers</i> but, as Lord Reed recognised in <i>Cox</i>, a couple of those have little, if any, force. At root the core idea (as reflected in the judgments of Lord Reed in <i>Cox </i>and <i>Armes</i>: see paras 42 and 47 above) appears to be that the employer or quasi-employer, who is taking the benefit of the activities carried on by a person integrated into its organisation, should bear the cost (or, one might say, should bear the risk) of the wrong committed by that person in the course of those activities. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(v)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The same two stages, and the same two tests, apply to cases of sexual abuse as they do to other cases on vicarious liability. Although one can reasonably interpret some judicial comments as supporting special rules for sexual abuse, this was rejected by Lord Reed in <i>Cox</i>. The idea that the law still needs tailoring to deal with sexual abuse cases is misleading. The necessary tailoring is already reflected in, and embraced by, the modern tests. </p>  
+
+<p class="ParaHeading1">7<span style="text-transform:none">. The application of the modern law to the facts of this case</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(1) An initial question: who is the relevant defendant?</span></p>  
+
+<li value="59"><a name="para59"> The appeal to the Court of Appeal and to this court was made by the second defendants, the Trustees of the Barry Congregation. But as Chamberlain J made clear at the outset of his judgment, the first defendant, the Watch Tower and Bible Tract Society of Pennsylvania, agreed that it would satisfy any judgment against the second defendants. And that agreement was embodied in an undertaking in the order made by Chamberlain J (dated 30 January 2020) and by the Court of Appeal (dated 25 March 2021). It was presumably for this reason that the lower courts did not think it necessary to investigate the precise relationship between the first and second defendants or the legal status of the second defendants or the structure of the Jehovah’s Witness organisation.
+</a></li>
+<p> </p>  
+
+<li value="60"><a name="para60"> The first stage of the vicarious liability inquiry requires the court to consider whether Mark Sewell in his role as an elder was akin to being an employee. At the hearing, the court expressed its concern that it had not been provided with any details as to who precisely was the alleged “quasi-employer”. For example, the court had no clear information as to which body appointed Mark Sewell as an elder. It was also unclear who the Trustees of the Barry Congregation are, what their duties are, and in what capacity they were being sued. 
+</a></li>
+<p> </p>  
+
+<li value="61"><a name="para61"> Some attempt was made during the hearing to assist the court and further written information was supplied shortly after the hearing by counsel for the defendants. The picture that emerges is complex and in some respects remains unclear. But it is sufficient for the purposes of this appeal to make the following points:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span lang="EN-US">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>The <span lang="EN-US">Watch Tower Bible and Tract Society of Pennsylvania is a charitable corporation, formed in 1884, and supports the worldwide religious activities of the Jehovah’s Witnesses. </span></p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span lang="EN-US">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN-US">At the relevant time (and until 1999), the Watch Tower Bible and Tract Society of Pennsylvania had a Branch Office in Britain established under the Companies Act 1948. In 1965, that branch was registered as a charity with the Charity Commission of England and Wales. It was that ecclesiastical Britain Branch Office of Jehovah’s Witnesses (more particularly its service department), supervised by the ecclesiastical Britain Branch Committee, that appointed and removed elders in Britain. The service department would communicate the appointment (or removal) of an elder to the relevant congregation using the letterhead of the Watch Tower Bible and Tract Society of Pennsylvania. More specifically, at the relevant time, the power to appoint and remove elders within Britain was given by the Watch Tower Bible and Tract Society of Pennsylvania, through a power of attorney, to Mr Wilfred Gooch who was a member of the ecclesiastical Britain Branch Committee. </span></p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang="EN-US">In August 1999, </span>the <span lang="EN-US">Watch Tower Bible and Tract Society of Pennsylvania</span> deregistered its Britain Branch. Since then a different structure has been in place. </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Barry Congregation was, at all relevant times, an unincorporated association. Counsel for the parties suggested in oral submissions that the Trustees of the Barry Congregation were being sued as representatives of all the members. It appears that the Trustees are elders of the Congregation. The Trustees have not been named and nor have the members of the Barry Congregation. </p>  
+
+<li value="62"><a name="para62"> The conclusion to be reached from this is that in considering “quasi-employment” in this case, the body that one should most obviously be considering as the “quasi-employer” is the ecclesiastical Britain Branch Office of Jehovah’s Witnesses. But as at the relevant time that body was a branch of, and therefore acting on behalf of, the <span lang="EN-US">Watch Tower Bible and Tract Society of Pennsylvania, the latter was a correct defendant for the purposes of vicarious liability. It is not obvious that the Trustees of the Barry Congregation have been correct defendants. Although it may be said that some of the powers of the </span>ecclesiastical Britain Branch Office of Jehovah’s Witnesses<span lang="EN-US"> in relation to the day to day operation of the Jehovah’s Witnesses in Barry have been delegated to those Trustees it is hard to see how that, without the Trustees having any power to appoint or remove elders, could put them in the position of being a “quasi-employer” for the purposes of vicarious liability. It is conceivable that it was envisaged that there could be dual vicarious liability, as in <i>Christian Brothers</i> where the diocesan bodies (eg the Catholic Welfare Society) and the Christian Brothers Institute had dual vicarious liability (see para 35 above).<i> </i>But there is no indication of dual vicarious liability in the reasoning of the courts below in this case or in any of the submissions made to this court. Another possibility is that the original decision to sue the Trustees of the Barry Congregation was because of the claim in the tort of negligence (see para 21 above).</span>
+</a></li>
+<p> </p>  
+
+<li value="63"><a name="para63"> <span lang="EN-US">In any event, the first defendant at first instance (the Watch Tower Bible and Tract Society of Pennsylvania) was a correct defendant for the purposes of vicarious liability and it is that defendant that has undertaken to satisfy any judgment against the Trustees of the Barry Congregation. Moreover, it was clear at the hearing that neither counsel was taking any point about the possibility, on the one hand, of incorrect defendants having been sued or, on the other hand, of the appeal having been brought by the wrong defendants. </span>
+</a></li>
+<p> </p>  
+
+<li value="64"><a name="para64"> <span lang="EN-US">I can therefore proceed on the basis that the Watch Tower Bible and Tract Society of Pennsylvania, acting at the relevant time through its Britain Branch Office, is a correct defendant for the purposes of vicarious liability. It is also convenient shorthand to refer to that body, as James Counsell KC, counsel for the claimant, sometimes did, as the Jehovah’s Witness “organisation”. </span>
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(2) Stage 1 of vicarious liability</span></p>  
+
+<li value="65"><a name="para65"> At the first stage of the vicarious liability analysis, the test to be applied is whether the relationship between the Jehovah’s Witness organisation and Mark Sewell, in his role as an elder, was akin to employment. In my view, the relationship was indeed akin to employment and the decisions of the lower courts were therefore correct at stage 1.
+</a></li>
+<p> </p>  
+
+<li value="66"><a name="para66"> Although in his submissions Lord Faulks KC, counsel for the defendants, stressed that the work of an elder was unpaid, whether in money or benefits in kind (such as food and accommodation) - and that an elder was not even entitled to any expenses in carrying out his role - he stopped short of submitting that economic dependence was a necessary feature of a relationship being akin to employment. He was correct to do so. No doubt the fact that there is no payment for the work is an indicator that the relationship is not one akin to employment but it is far from being decisive. The important features here rendering the relationship akin to employment were as follows: that as an elder Mark Sewell was carrying out work on behalf of, and assigned to him by, the Jehovah’s Witness organisation; that he was performing duties which were in furtherance of, and integral to, the aims and objectives of the Jehovah’s Witness organisation; that there was an appointments process to be made an elder and a process by which a person could be removed as an elder; and that there was a hierarchical structure into which the role of an elder fitted. 
+</a></li>
+<p> </p>  
+
+<li value="67"><a name="para67"> If one examines the features referred to by Lord Phillips in paras 56-57 of <i>Christian Brothers </i>(see para 36 above) one can see the similarity between the position of the Christian Brothers to the Institute in that case and the relationship between an elder and the Jehovah’s Witness organisation in this case. In both cases, there was a hierarchical structure, the tortfeasor was directed to undertake various activities, he was doing so in furtherance of the objectives of the organisation, and he was required to conduct himself within the rules of the organisation. 
+</a></li>
+<p> </p>  
+
+<li value="68"><a name="para68"> That there was here a relationship akin to employment is also strongly supported by the decision in <i>A v Trustees of the Watchtower Bible and Tract Society and Others </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2015/1722.html">[2015] EWHC 1722 (QB)</a>. In that case, Globe J upheld a claim by a woman, A, against the Watch Tower Bible and Tract Society of Pennsylvania and against two congregations of which she had been a member. A had been sexually assaulted when a child between the ages of 4 and 9 by an individual who had at the time been a ministerial servant in her congregation. She claimed, first, that the defendants were vicariously liable for the assaults and, second, that they were vicariously liable for the acts of the elders who had failed to take steps to protect her once they knew that the ministerial servant had sexually assaulted another child in the congregation. Both claims succeeded (although, as at first instance in this case, there was no investigation by Globe J as to whether the congregations were correct defendants). Stage 1 was satisfied because, inter alia, “a ministerial servant is part and parcel of the organisation and integral to it” (para 69). Globe J also asked himself whether a ministerial servant could be considered more like an independent contractor than an employee and answered that in the negative. This was because:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“He is a fundamental part of the whole enterprise dedicating himself to the good of Jehovah’s Witnesses. His duties are solely to serve the interests of the organisation. He is constantly working for the good of the organisation of Jehovah’s Witnesses and not for himself.” (para 70)</p>  
+
+<li value="69"><a name="para69"> I therefore conclude that, as regards the first stage of vicarious liability, the decision and most of the reasoning of Chamberlain J and Nicola Davies LJ (with whom, on stage 1, Males and Bean LJJ agreed) was correct. For that reasoning, see paras 24(ii) and 26(ii) above. They were, expressly or impliedly, asking whether the relationship was akin to employment (although Chamberlain J did not expressly use those words) and they correctly answered that in the affirmative. However, with respect, it was a mistake for them to drift into talking about creating the risk of rape by the elder being assigned the activities he was given. In relying for this on Lord Reed’s judgment in <i>Cox </i>at para 30, they were incorrectly confusing the criteria for satisfying the first stage test with the underlying policy justification for vicarious liability. The creation of the risk of rape should not have been included within the criteria for deciding whether the relationship was akin to employment. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(3) Stage 2 of vicarious liability</span></p>  
+
+<li value="70"><a name="para70"> At the second stage of the inquiry, with respect, a number of errors were made by Chamberlain J some of which were repeated by Nicola Davies LJ and Males LJ. Neither Chamberlain J nor Nicola Davies LJ set out that the correct “close connection” test was that laid down in <i>Dubai Aluminium</i> drawing on <i>Lister</i>, as strongly confirmed, subsequent to Chamberlain J’s judgment, by Lord Reed in <i>Morrison</i>. Moreover, factors (a) to (e) set out in para 24(iii) above should not have been regarded as important by Chamberlain J; and Nicola Davies LJ was wrong to rely on factors (a)(b) and (c) and Males LJ was wrong to rely on factors (b) (c) and (e). These were errors because, for example, the early flowering of the friendship should have had no relevance to vicarious liability except as background; “but for” causation should not have been given the prominence it was given; the role of Tony Sewell was essentially irrelevant except as part of the background because he was not the person who committed the tort; the fact that, before lunch on the day of the rape, Mrs B and Mark Sewell had been on pioneering activities was again essentially irrelevant except as background; and Mark Sewell’s distorted view, equating rape and adultery, should have had no significance. 
+</a></li>
+<p> </p>  
+
+<li value="71"><a name="para71"> Males LJ’s judgment correctly recognised (see para 29 above) that there were important factors that pointed against vicarious liability. But he was persuaded to find vicarious liability by some factors that, as I have just explained, were either irrelevant or should not have been given the significance he gave them. Moreover, the test he ultimately applied was not the correct test as confirmed in <i>Morrison</i>. While as I have indicated (see para 58(iii) above) some minor adjustment is needed to that test, Males LJ in effect replaced it by a different test when he said, at para 106, “The rape was sufficiently closely connected with Mark Sewell’s status as an elder that it may fairly and properly be regarded as an abuse of the authority over Mrs B conferred on him by that status, such that the defendants who had conferred that authority on him should be vicariously liable.” The correct test that should have been applied (see para 58(iii) above) was whether the wrongful conduct, the rape, was so closely connected with acts that the tortfeasor, Mark Sewell, was authorised to do, that the rape can fairly and properly be regarded as committed by him while acting in the course of his quasi-employment as an elder.
+</a></li>
+<p> </p>  
+
+<li value="72"><a name="para72"> Given these errors, which were errors of law or, at least, errors in relation to which this court is entitled to reverse the lower courts, I turn to consider afresh the application of the law in respect of stage 2.
+</a></li>
+<p> </p>  
+
+<li value="73"><a name="para73"> In my view, applying the correct close connection test as set out in para 71 above, the claimant fails to satisfy that test. This is for the following reasons.
+</a></li>
+<p> </p>  
+
+<li value="74"><a name="para74"> First, the rape was not committed while Mark Sewell was carrying out any activities as an elder on behalf of the Jehovah’s Witnesses. He was at his own home and was not at the time engaged in performing any work connected with his role as an elder. So, eg, he was not conducting a bible class, he was not evangelising or giving pastoral care, he was not on premises of the Jehovah’s Witnesses and the incident had nothing to do with any service or worship of the Jehovah Witnesses. The lack of direct connection to the role assigned to him as an elder makes these facts significantly different from the institutional sex abuse cases where, eg, as part of their jobs the warden was on the institutional premises looking after the children in <i>Lister </i>or the Brothers were living in the same institution as their victims in <i>Christian Brothers</i>. It is also significantly different from the facts of <i>A v Trustees of the Watchtower Bible and Tract Society </i>where the sexual abuse of the child by the ministerial servant took place, after a grooming period, during or after book study, on field service, at Kingdom Hall or at a Convention of Jehovah’s Witnesses and all when he was “ostensibly performing his duties as a Jehovah’s Witness ministerial servant” (para 90).
+</a></li>
+<p> </p>  
+
+<li value="75"><a name="para75"> Secondly, in contrast to the child sexual abuse cases, at the time of the rape, Mark Sewell was not exercising control over Mrs B because of his position as an elder. It was because of her close friendship with Mark Sewell and because she was seeking to provide emotional support to him, and not because Mark Sewell had control over her as an elder, that Mrs B went to the back room. The driving force behind their being together in the room at the time of the rape was their close personal friendship not Mark Sewell’s role as an elder. Put another way, the primary reason that the rape took place was not because Mark Sewell was abusing his position as an elder but because he was abusing his position as a close friend of Mrs B when she was trying to help him. 
+</a></li>
+<p> </p>  
+
+<li value="76"><a name="para76"> Thirdly, James Counsell KC submitted that Mark Sewell never took off his “metaphorical uniform” as an elder. It was put to him by the court that that would mean that there would be vicarious liability even if he committed the tort of negligence, injuring a customer, while carrying on his cleaning business. He accepted that that would not be so and qualified his submission by saying that the metaphorical uniform was never taken off in his dealings with members of Barry Congregation such as Mrs B. But that is also an unrealistic submission. It cannot seriously be suggested that there would be vicarious liability if, for example, Mark Sewell was driving Mr and Mrs B and their children in his own car to the airport for their holidays and Mrs B was injured in an accident caused by his negligent driving. In my view, Mark Sewell was not wearing his metaphorical uniform as an elder at the time the tort was committed. 
+</a></li>
+<p> </p>  
+
+<li value="77"><a name="para77"> Fourthly, I accept that Mark Sewell’s role as an elder was a “but for” cause of Mrs B’s continued friendship with Mark Sewell and hence of her being with him in the back room where the rape occurred. However, as we have seen, “but for” causation is insufficient to satisfy the close connection test.
+</a></li>
+<p> </p>  
+
+<li value="78"><a name="para78"> Fifthly, I do not accept that what happened in this case was equivalent to the gradual grooming of a child for sexual gratification by a person in authority over that child. James Counsell KC submitted that there was an analogous progression from Mark Sewell’s flirty behaviour with Mrs B, including hugs, holding hands and kisses and his confiding in her, through to his suggestion that they should run away together, and leading finally to the rape. In my view, the violent and appalling rape was not an objectively obvious progression from what had gone before but was rather a shocking one-off attack. In any event, the prior events owed more to their close friendship than to his role as an elder. 
+</a></li>
+<p> </p>  
+
+<li value="79"><a name="para79"> Sixthly, as I have indicated, there is no relevance, except as background, in, for example, the role played by Tony Sewell or the fact that inappropriate kissing on the lips with female members of the congregation when welcoming them was not condemned. One is not talking about vicarious liability for any tort of Tony Sewell and, as regards the latter, one is not talking about liability in the tort of negligence. 
+</a></li>
+<p> </p>  
+
+<li value="80"><a name="para80"> It will be apparent that I agree with what Males LJ said at para 103 of his judgment (see para 29 above) when he was articulating reasons why it might be thought that stage 2 was not satisfied (before he went on to the factors that convinced him the other way). 
+</a></li>
+<p> </p>  
+
+<li value="81"><a name="para81"> In my view, therefore, the close connection test is not satisfied. The rape was not so closely connected with acts that Mark Sewell was authorised to do that it can fairly and properly be regarded as committed by him while acting in the course of his quasi-employment as an elder. 
+</a></li>
+<p> </p>  
+
+<li value="82"><a name="para82"> As a final check, if I stand back and consider the policy of enterprise liability or risk that may be said to underpin vicarious liability (see paras 42, 47 and 58(iv) above), that consideration of policy confirms that there is no convincing justification for the Jehovah’s Witness organisation to bear the cost or risk of the rape committed by Mark Sewell. Clearly the Jehovah’s Witness organisation has deeper pockets than Mark Sewell. But that is not a justification for extending vicarious liability beyond its principled boundaries. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">8<span style="text-transform:none">. Conclusion</span> </p>  
+
+<li value="83"><a name="para83"> For all the above reasons, I would allow the appeal.
+</a></li>
+<p> </p>  </ol> 
+
+<p class="MsoNormal">&nbsp;</p>  </div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/15.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

@@ -1,0 +1,1575 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>McCann v The State Hospitals Board for Scotland  (Scotland) [2017] UKSC 31 (11 April 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      McCann v The State Hospitals Board for Scotland  (Scotland) [2017] UKSC 31 (11 April 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/31.html</i>
+<br>Cite as: 
+[2017] WLR(D) 268,
+
+[2017] 1 WLR 1455,
+
+[2017] WLR 4575,
+
+2017 SC (UKSC) 121,
+
+:[2017] 4 All ER 449,
+
+2017 GWD 12-169,
+
+2017 SLT 451,
+
+(2017) 156 BMLR 35,
+
+[2017] MHLR 306,
+
+[2017] UKSC 31
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/31.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+268">[2017] WLR(D) 268</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+1+WLR+1455">[2017] 1 WLR 1455</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/31(image1).pdf">Summary</a></span></p><br>
+
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 31</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2014/2014CSIH7.html">[2014] CSIH 71</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">McCann (Appellant) <i>v</i> The State Hospitals Board
+for Scotland (Respondent) (Scotland)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">11 April 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 11 October 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:80.7pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jonathan Mitchell
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">David Leighton</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Rachel Barrett</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  McKennas)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Kenneth Campbell QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Julius Komorowski</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Central Legal Office)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD HODGE: (<span style="text-transform:none">with whom Lady
+Hale, Lord Mance, Lord Wilson and Lord Reed agree</span>)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is a challenge by application for judicial review to the legality
+of the comprehensive ban on smoking at the State Hospital at Carstairs which
+the State Hospitals Board for Scotland (“the Board”) adopted by a decision
+taken at a meeting on 25 August 2011 and implemented on 5 December 2011. The
+appellant, Mr McCann, does not challenge the ban on smoking indoors. His
+challenge relates only to the ban on smoking in the grounds of the State
+Hospital and on home visits, which, by creating a comprehensive ban, prevents
+detained patients from smoking anywhere.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr McCann suffers from a mental disorder. After committing a number of
+offences which were prosecuted on summary complaint, he was detained without
+limit of time in the State Hospital under orders made originally under the
+Criminal Procedure (Scotland) Act 1975 (and more recently under the Criminal
+Procedure (Scotland) Act 1995 (“the 1995 Act”)) in December 1995. He remained
+in detention in the State Hospital until March 2014. He was then transferred to
+a medium secure unit in Glasgow, called the Rowanbank Clinic, where he remains
+in the care of NHS Greater Glasgow (“NHSGG”). NHSGG has decided to introduce a
+comprehensive smoking ban at the Rowanbank Clinic. Mr McCann has challenged
+that decision in separate proceedings for judicial review but his application
+remains sisted (stayed), pending the outcome of this appeal.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr McCann raises three principal issues in his challenge. First, he
+argues that the impugned decision is invalid at common law on the ground of
+ultra vires because, when so deciding, it did not adhere to the principles laid
+down in section 1 of the Mental Health (Care and Treatment) (Scotland) Act 2003
+(“the 2003 Act”) (which I set out in para 22 below) or comply with the
+requirements of subordinate legislation made under the 2003 Act. Secondly, he
+submits that the impugned decision was unlawful because it unjustifiably interfered
+with his private life and thereby infringed his right to respect for his
+private life under article 8 of the European Convention on Human Rights and
+Fundamental Freedoms (“ECHR”). Thirdly, founding on article 14 of ECHR in
+combination with article 8, he argues that the Board, by implementing the
+comprehensive smoking ban, has treated him in a discriminatory manner which
+cannot be objectively justified when compared with (i) people detained in
+prison, (ii) patients in other hospitals (whether detained or not) or (iii)
+members of the public who remain at liberty.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>After setting out the factual background and the relevant legislation
+and summarising the proceedings in the courts below, I will address each
+challenge in turn.</a></p><a name="para4">
+
+<p class="ParaHeading">The factual background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For many years public authorities in Scotland and elsewhere in the
+United Kingdom have sought to discourage smoking because of concerns about its
+effects on the health of the smokers and of those exposed to second-hand smoke,
+by so-called “passive smoking”. Section 4 of the Smoking, Health and Social
+Care (Scotland) Act 2005 empowered the Scottish Ministers to make regulations
+prescribing classes of premises in which smoking would be prohibited and also
+the premises to be excluded from that ban. Among the premises which the
+Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006 (SSI
+2006/90) prescribed as no smoking premises were hospitals, hospices,
+psychiatric hospitals, psychiatric units and healthcare premises. Open areas,
+such as hospital grounds, were not so specified. Among the premises exempted
+from the smoking ban were designated rooms in psychiatric hospitals and
+psychiatric units.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Over time, public authorities have sought to extend the smoking ban.
+Between 2007 and 2011 the buildings at the State Hospital were redeveloped and
+modernised. The business case for the redevelopment, which the Scottish
+Government approved, proposed that the State Hospital would be a smoke-free
+environment and that there would be no provision for smoking either indoors or
+in the gardens and grounds. In accordance with that policy, the new buildings
+contain no indoor smoking rooms or facilities which would allow patients to
+take advantage of the exemption in the Regulations. The Board then had to
+consider whether, and if so for how long, it would continue to allow smoking in
+the grounds of the State Hospital.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The process by which the Board came to take the impugned decision is set
+out in a document published by NHS Scotland in February 2012 called “<i>Working
+towards a smoke-free environment: an account of the journey undertaken at the
+State Hospital</i>”. Mr McCann founded on this document in his written
+pleadings (statement 5) as the factual background to the impugned decision. In
+summary, on 28 October 2010 the Board considered a report by its medical
+director and resolved to work towards a comprehensive smoking ban with effect
+from May 2011. After the judgment of the Court of Session in <i>L v Board of
+State Hospital </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotCS/2011/2011CSOH21.html">2011 SLT 233</a>, in which Lady Dorrian held that the Board had
+failed to consult with patients (as it had conceded it was required to do by
+section 1 of the 2003 Act) on its decision to ban visitors from bringing food
+parcels into the State Hospital and to ban patients from ordering in food, the
+Board reconsidered its policy concerning smoking at a meeting on 17 February
+2011. It agreed to allow smoking to continue in the existing smoking rooms and
+to conduct a consultation on the options of a partial or comprehensive smoking
+ban.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Board conducted the consultation between 1 March and 31 May 2011. It
+presented two options: a partial ban which permitted smoking only in designated
+open air areas within the grounds or a complete ban both internally and within
+the grounds. 86% of the patients who responded favoured the partial ban. The
+Board met again on 23 June to consider a report on the consultation which
+recommended that smoking be permitted in designated external areas in the
+grounds. The Board accepted that proposal subject to further consideration of
+how the partial ban would work in practice. The Board also confirmed its
+commitment to working towards a smoke-free hospital. At a further meeting on 5
+July 2011 the Board confirmed that position. Because the patients were soon to
+move to the new building, the Board decided to close the smoking rooms in the
+existing buildings and to prohibit smoking in the ward gardens as from 1 August
+2011, leaving only the designated external areas for smoking. The Board agreed
+to review its decision in November 2011.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Board conducted a further consultation in mid-August 2011 in which
+it asked for responses to the same options of a partial ban or a comprehensive
+ban. 64% of patients favoured a partial ban and 36% a comprehensive ban. The
+Board’s chief executive prepared a report on the operation of the partial ban
+which the Board considered at a meeting on 25 August 2011. At that meeting the
+Board made the impugned decision to implement a comprehensive smoking ban in
+December 2011.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The patients moved into the new buildings on 21 September 2011. On 5
+December 2011 the comprehensive smoking ban came into force.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his petition for judicial review Mr McCann initially called for the
+Board to produce the minute of the meeting of 25 August 2011 in order to
+disclose the reasons for the impugned decision. After the minute was produced,
+he founded on it to challenge the impugned decision for its failure to apply
+the principles set out in section 1 of the 2003 Act.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The minute of the meeting of the Board on 25 August 2011 recorded the
+reasons for the decision in these terms:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[The Board’s Chief Executive]
+outlined the activity following the Board’s decision and the considerable
+problems experienced in operationalising the process, eg increasing numbers of
+higher risk patients had been referred for consideration of grounds access. The
+Senior Team had discussed a draft operational policy at their meeting on 27
+July 2011 and agreed that from a practical point of view, patients would be
+permitted to smoke in existing ward gardens at eight set points during each
+day. The clinical team would agree the set points during each day.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Members were asked to consider:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The feedback received
+over the first month of the restrictions on the appendix received</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To allow smoking to
+continue in the grounds, with further limitations, until 30 November 2011</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp; A full non-smoking
+environment as of 1 December 2011</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Members noted that the decision
+taken in June 2011 was to be reviewed in November 2011. The documented feedback
+which had been received over the course of August 2011 from staff, as well as
+smoking and non smoking patients was reviewed. The discussion that followed
+centred around the difficulties encountered with the partial cessation of
+smoking at the Hospital in relation to issues of safety and security,
+operational and clinical disruption, time demands on staff, fairness of the
+partial restrictions, and the inconsistencies around the set points in the day
+when smoking was permitted. …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">In light of the difficulties
+discussed and the importance of the operational management’s view, Members
+agreed that the partial cessation of smoking at the Hospital had proved to be
+unworkable despite the best efforts of staff involved. It was agreed that the
+State Hospital would be a full non-smoking environment as of 1 December 2011.
+Support to patients in their smoking cessation attempts would continue and be
+accelerated.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The document, “Working towards a smoke-free environment …”, to which I
+referred in para 7 above contains more details of the problems that became apparent
+in August and September 2011. Patients tended to “power smoke” in the few
+opportunities they had to smoke and some “reverted back to previous
+institutionalised behaviour such as clock watching”. Staff who attended them
+complained about daily exposure to passive smoking. The document also spoke of
+significant operational and security risks. After the move to the new
+buildings, concerns were expressed about patients congregating outside in
+breach of grounds access rules.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The impugned decision had several elements. It prohibited a detained
+patient from smoking or possessing tobacco products in the State Hospital,
+including in its grounds, and from smoking on home visits. It also prohibited
+visitors from bringing tobacco products and tobacco-related products (such as
+electronic cigarettes or lighters) into the hospital. Search and screening
+procedures were established to search both patients and visitors for such
+products. Tobacco products which the patients possessed on 1 December 2011 had
+to be posted to an external address.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The impugned decision was taken against the backdrop of a developing
+policy of the Scottish Government to control the use of tobacco and to prevent
+smoking at NHS facilities. The Scottish Ministers have continued to pursue that
+policy. In March 2013 they published a document entitled “<i>Creating a
+Tobacco-free Generation: A Tobacco Control Strategy for Scotland</i>”. In that
+publication Ministers proposed (pp 26-27) (a) that mental health services
+should make sure that indoor facilities were smoke-free by 2015 and (b) that
+all NHS Boards would implement and enforce smoke-free hospital grounds by March
+2015, by removing any designated smoking areas in NHS buildings or grounds.
+Ministers excluded mental health facilities from the latter policy. But since
+then some health boards have extended the comprehensive ban to such facilities.</a></p><a name="para15">
+
+<p class="ParaHeading">The relevant legislation</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Health
+Service (Scotland) Act 1978</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under section 102(1) of the National Health Service (Scotland) Act 1978,
+the Scottish Ministers are charged with the duty of providing “such hospitals
+as appear to [them] to be necessary for persons subject to detention” under the
+1995 Act or the 2003 Act, which hospitals are described in subsection (2) as
+“state hospitals”. Under subsection (4) the Scottish Ministers are empowered to
+provide for the management of a state hospital to be undertaken on their behalf
+by among others a special health board. Under that provision the Board acts as
+the delegate of the Scottish Ministers in managing the State Hospital. The
+Board contends that, in deciding upon and implementing the comprehensive
+smoking ban and measures to enforce that ban, it has acted solely under its
+power of management in this section.</a></p><a name="para16">
+
+<p class="ParaHeading" style="margin-left:36.0pt">(ii) Mental Health (Care and
+Treatment) (Scotland) Act 2003</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Until the enactment of the 2003 Act, the care and treatment of mental
+health patients were governed by the Mental Health (Scotland) Act 1984. Over
+time, concerns emerged that the legislation did not adequately protect the
+rights of patients who were subjected to compulsory detention. One of the
+factors which led to these concerns was the increased emphasis on personal
+autonomy which resulted from the influence of the ECHR and the incorporation of
+the ECHR in our domestic law, first by the Scotland Act 1998 and then by the
+Human Rights Act 1998. In 1999 the Scottish Ministers commissioned a review of
+mental health legislation by a committee under the chairmanship of the Rt Hon
+Bruce Millan, who had formerly been the Secretary of State for Scotland.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In January 2001 the Scottish Ministers laid the report, <i>New
+Directions: Report on the review of the Mental Health (Scotland) Act 1984</i>,
+before the Scottish Parliament. The report sought to promote greater awareness
+of the need to respect human rights and the adoption of the least restrictive
+alternative in the compulsion of mental health patients. It also sought to make
+sure that any compulsory intervention was tailored to the particular needs and
+circumstances of the individual (Introduction, paras 1 and 4). It recommended
+that a new Act should be based on principles which were stated on the face of
+the Act itself (Introduction, para 2; Chapter 3). This gave rise to section 1
+of the 2003 Act, which I set out in para 22 below.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In chapter 11 of the report the committee addressed, among other things,
+the searching of patients, an issue which lies at the heart of the first ground
+on this appeal. It observed that the 1984 Act contained no specific framework
+for searches. The report (para 44) referred to the judgment of Potts J in <i>R
+v Broadmoor Hospital Authority, Ex p S </i>The Times, 5 November 1997, in which
+he held that a general power to conduct random searches must necessarily be
+implied as part of the Broadmoor Hospital Authority’s duty to create and
+maintain a safe and therapeutic environment. The committee recommended that a
+Code of Practice should set out the parameters of search policies as it was
+important that the rights of patients were clear in relation to this (para 46).</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Scottish Executive did not accept all of the recommendations of the
+Millan Committee. In its White Paper, <i>Renewing Mental Health Law - Policy Statement</i>,
+the Executive accepted the committee’s recommendation as the framework for a
+future Bill while modifying some of its recommendations in relation to
+offenders with mental disorders. It accepted both the inclusion of a statement
+of principles (p 5) and a Code of Practice to give guidance on the operation of
+the new statutory powers, including the regulation of searches (p 69).</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 2003 Act includes in section 1 a statement of principles for the
+discharge of functions under the Act; and it also contains in section 286 a
+provision for the making of regulations for safety and security in hospitals,
+including the searching of detained patients and the placing of restrictions on
+what detained persons and visitors may have with them. The Policy Memorandum to
+the Bill in discussing the relevant clause which became section 286 stated:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:32.55pt;margin-bottom:
+26.0pt;margin-left:72.0pt">“255.&nbsp; The Bill makes provision to regulate any
+interference by hospitals of certain civil rights of detained patients,
+including withholding correspondence, monitoring or restricting other forms of
+communication, searching patients or their belongings, and restricting access
+to visitors.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">259.&nbsp;&nbsp;&nbsp; The Bill also sets up a
+framework for regulations authorising measures in connection with the use of
+telephones, searches, surveillance and restrictions on patients or visitors.
+The intention is that hospitals be required to develop policies setting out how
+any such security measures will be applied, recorded and monitored, and that the
+Executive and the Mental Welfare Commission will monitor the terms of these
+policies and their operation.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 1 of the 2003 Act, which is headed “Principles for discharging
+certain functions”, provides, so far as relevant:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Subsections (2) to (4)
+below apply whenever a person … is discharging a function by virtue of this Act
+in relation to a patient who has attained the age of 18 years.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In discharging the
+function the person shall, subject to subsection (9) below, have regard to the
+matters mentioned in subsection (3) below in so far as they are relevant to the
+function being discharged.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The matters referred to
+in subsection (2) above are-</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the present and past
+wishes and feelings of the patient which are relevant to the discharge of the
+function;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the views of -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the patient’s named
+person;</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any carer of the
+patient;</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp; any guardian of the
+patient; and</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any welfare attorney of
+the patient,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">which are relevant to the
+discharge of the function;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the importance of the
+patient participating as fully as possible in the discharge of the function;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the importance of
+providing such information and support to the patient as is necessary to enable
+the patient to participate in accordance with paragraph (c) above;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the range of options
+available in the patient’s case;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the importance of
+providing the maximum benefit to the patient;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the need to ensure
+that, unless it can be shown that it is justified in the circumstances, the
+patient is not treated in a way that is less favourable than the way in which a
+person who is not a patient might be treated in a comparable situation;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the patient’s
+abilities, background and characteristics, including, without prejudice to that
+generality, the patient’s age, sex, sexual orientation, religious persuasion,
+racial origin, cultural and linguistic background and membership of any ethnic
+group.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After having regard to -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the matters mentioned
+in subsection (3) above; … and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; such other matters as
+are relevant in the circumstances,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">the person shall discharge the
+function in the manner that appears to the person to be the manner that
+involves the minimum restriction on the freedom of the patient that is
+necessary in the circumstances.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The person need not have
+regard to the views of a person mentioned in subsection (3)(b) above in so far
+as it is unreasonable or impracticable to do so.”</p>
+
+<p class="ParaLevel1">Unsurprisingly, the 2003 Act does not define the functions
+which a person discharges by virtue of the Act. But I would interpret
+subsection (1) as meaning that a person discharges such a function when he or
+she exercises a power conferred by the 2003 Act or by subordinate legislation
+made under the Act.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 286 of the 2003 Act, which is headed “Safety and security in
+hospitals”, provides, so far as relevant:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Regulations may authorise
+-</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the search of such
+persons detained in hospital by virtue of this Act or the 1995 Act as may be
+specified in the regulations and of anything they have with them in the
+hospital in which they are detained;</p>
+
+<p class="ParaNoNumber" style="margin-left:108.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the placing of
+restrictions on the kinds of things which those persons may have with them in
+the hospitals in which they are detained and the removal from them of articles
+kept in breach of such restrictions;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the placing of
+prohibitions and restrictions on the entry into and the conduct while in those hospitals
+of persons (‘visitors’) visiting those persons or otherwise entering or seeking
+to enter those hospitals and on the kinds of things which visitors may bring
+with them into those hospitals;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the search of visitors
+and of anything they bring with them into those hospitals, </p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">and make that which is authorised
+subject to conditions specified in the regulations.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Scottish Ministers prepared regulations to give effect to section
+286, which the Scottish Parliament approved by affirmative resolution: the
+Mental Health (Safety and Security) (Scotland) Regulations 2005 (SSI 2005/464)
+(“the 2005 Regulations”). In their consultation on the draft regulations in
+2004 the Scottish Ministers explained (paras 54-55) that hospitals had policies
+prohibiting certain articles and substances being brought into or retained in
+hospital and on searching patients and visitors. The Ministers stated (para
+56): “[t]he aim of these regulations is to put these policies on a firm
+legislative footing, to ensure that there is proper recording and monitoring of
+decisions to use powers to search patients or visitors and to prevent certain
+substances and articles being brought into hospitals”.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 2005 Regulations (regulation 4) authorise measures such as the
+placing of restrictions on the kind of things that specified persons may have
+with them in hospitals and the removal from them of articles kept in breach of
+those restrictions. Regulation 4 authorises similar restrictions on visitors,
+and the search of both specified persons and visitors. Regulation 2 provides
+that a person detained in, among others, the State Hospital and the Rowanbank
+Clinic is a specified person if the hospital managers have (a) informed the
+patient and his or her named person and the Mental Welfare Commission for
+Scotland that he or she is a specified person and (b) informed the patient and
+his or her named person that he or she is subject to the regulation 4 measures
+and also that the specified person has a right of re-assessment under
+regulation 5(b). Consistently with the philosophy of the least restrictive
+alternative, regulation 5 sets out general conditions for the measures.
+Condition (a) is that measures may only be applied to a specified person if the
+person’s responsible medical officer (“RMO”) is of the opinion that “not to
+apply them would pose a significant risk to the health, safety or welfare of
+any person in the hospital or the security or good order of the hospital”.
+Condition (b) requires the RMO to re-assess the risk mentioned in condition (a)
+at the specified person’s request and empowers the RMO to reverse the decision
+to apply the measure. Condition (c) requires that the reasons for and outcome
+of applying a measure shall be recorded in the specified person’s medical
+records and that the hospital managers make a separate record; and condition
+(d) requires, as a general rule, that the named person shall be given notice of
+the entry in the medical records. Regulations 6 and 10 set out specific
+conditions for the searching of specified persons and visitors. Regulation 8,
+which again is consistent with the philosophy of the least restrictive
+alternative, imposes a condition that restrictions shall be placed on having
+any article “so as to minimise the impact on the freedom of the specified
+person compatible with the general condition in regulation 5(a)” (ie condition
+(a) above).</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 274 of the 2003 Act requires the Scottish Ministers to publish a
+code of practice giving guidance to any person discharging functions by virtue
+of the Act. Subsection (4) requires any person discharging functions by virtue
+of the 2003 Act to “have regard (so far as they are applicable to the discharge
+of those functions by that person) to the provisions of any code of practice
+published under subsection (1) above for the time being in force”.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Chapter 12 of the Code of Practice, which the Scottish Ministers
+published under section 274 of the 2003 Act, gave guidance on procedures for
+restrictions on patients’ correspondence and use of telephones and also for
+measures to ensure the safety and security of hospitals, staff, patients and
+visitors. It advised that the restrictions and measures must be applied in a
+way which respects patients’ rights and dignity and is commensurate with any
+perceived risk to the health, safety or welfare of the patient or any other
+person. Para 50 of that chapter repeated the requirement of regulation 8 of the
+2005 Regulations (above) to minimise the impact of the restriction on the
+patient.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As I discuss below, in relation to the application of the 2003 Act,
+central questions in this part of the appeal include (a) whether the Board, in
+imposing the comprehensive smoking ban, was exercising a function under the
+2003 Act so as to bring into play the section 1 principles and (b) whether the
+prohibition of possession of tobacco products and the power of search and
+confiscation, which were components of the impugned decision, fall within the
+2005 Regulations or are excluded on the basis that they do not relate to safety
+and security.</a></p><a name="para28">
+
+<p class="ParaHeading">The legal proceedings</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr McCann raised judicial review proceedings in which he sought the
+reduction (annulment) of the decision, a declarator of the breach of his
+Convention rights and also damages as just satisfaction. As I have stated in
+para 7 above, he founded on the document, “<i>Working towards a smoke-free
+environment</i>” in pleading the factual background to the impugned decision.
+He initially complained about the Board’s failure to disclose the minute which
+recorded the decision, but, having received the minute in the course of the
+proceedings, founded on it to amend his written pleadings in order to plead a
+case (statement 15 of his petition) that the Board had failed to take account
+of relevant factors, and in particular to apply the principles set out in
+section 1 of the 2003 Act (“the 2003 Act principles”). At the First Hearing the
+Lord Ordinary, Lord Stewart, heard oral submissions on both the facts and the
+law.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Counsel presented their cases by referring to the documents for the
+factual background. No affidavits were produced, no oral evidence was led and
+accordingly no challenge was made to the contents of the documents in
+cross-examination. As Mr McCann based his challenge on those documents, the
+absence of other evidence is not surprising. The parties should have complied
+with good practice by entering into a joint minute agreeing the documents and
+dispensing with probation; but that was implicitly what they did. The Lord
+Ordinary in his opinion narrated the events which the documents disclosed and
+which gave rise to the impugned decision. In his interlocutor dated 27 August
+2013 the Lord Ordinary declared that the impugned decision was unlawful so far
+as it affected Mr McCann both because it was not taken in accordance with the
+2003 Act principles and also because it breached his Convention rights under
+articles 8 and 14 of the ECHR. The Lord Ordinary did not award damages but
+ruled that the finding of the breach of those articles was “just satisfaction”
+in terms of article 41 of the ECHR.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Board appealed that decision by a reclaiming motion which was heard
+by the Second Division of the Inner House (the Lord Justice Clerk (Lord
+Carloway), Lady Paton and Lord Brodie). The Board submitted that the 2003 Act
+principles did not apply to the impugned decision, that Mr McCann’s article 8
+right to respect for his private life was not engaged, or, if it was, the
+impugned decision was a proportionate one which did not infringe his article 8
+right. The Lord Justice Clerk gave the leading opinion, with which Lord Brodie
+agreed, in which he allowed the appeal and refused the prayer of the petition.
+He held that the Board was exercising its powers of management under the 1978
+Act when it made the impugned decision. The 2003 Act was concerned with the
+care and treatment of the individual patient and the impugned decision did not
+involve the discharge of a function under that Act. Accordingly, the 2003 Act
+principles had no application to the decision.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the article 8 challenge, the Lord Justice Clerk referred
+to the decision of the Strasbourg court (“the ECtHR”) in <i>Munjaz v United
+Kingdom </i></a><a title="Link to BAILII version" href="/eu/cases/ECHR/2012/1704.html">[2012] MHLR 351</a>; <a title="Link to BAILII version" href="/eu/cases/ECHR/2012/1704.html">[2012] ECHR 1704</a>, which (a) emphasised the
+principle of personal autonomy in article 8, (b) ruled that detained persons
+were presumed to enjoy all the fundamental rights and freedoms guaranteed by
+the ECHR, except the right to liberty, where the detention was lawfully imposed
+in accordance with article 5 of the ECHR and (c) required any restriction of
+those rights to be justified in each individual case. He sought to apply those
+principles in this case. In agreement with the Divisional Court and the
+majority of the Court of Appeal of England and Wales in the case concerning the
+statutory ban on smoking at Rampton Hospital, <i>R (N) v Secretary of State for
+Health </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2008/1096.html">[2008] HRLR 42</a> and <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2009/795.html">[2009] HRLR 31</a> (also reported as <i>R (G) v Nottingham
+Healthcare NHS Trust</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2008/1096.html">[2009] PTSR 218</a> and <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2009/795.html">[2010] PTSR 674</a>) (“the Rampton
+Hospital case”), he held that a comprehensive smoking ban on persons detained
+in an institution did not have a sufficiently adverse effect on a detainee’s
+integrity and autonomy as to merit protection under article 8. He ruled (para
+93) that the comprehensive smoking ban did not engage article 8. If article 8
+were engaged, he held that the impugned decision was justified under article
+8(2) as the comprehensive ban was proportionate to the legitimate aim of
+promoting the health of both the detained patients and staff. On the same hypothesis,
+he rejected the article 14 challenge (a) as prisons could not be compared with
+the therapeutic environment of the State Hospital and (b) as the Scottish
+Government was proposing to introduce a comprehensive prohibition against
+smoking in all hospitals in the relatively short term.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lady Paton agreed with the opinion of the Lord Justice Clerk except in
+one respect. She opined that article 8 was engaged. She drew support from Keene
+LJ’s dissenting judgment in the Rampton Hospital case and expressed the view
+that smoking was an addictive activity which was very much part of an
+individual’s personal autonomy. But she agreed that the impugned decision was
+justified under article 8(2) and that there had been no discrimination under
+article 14.</a></p><a name="para33">
+
+<p class="ParaHeading">Discussion of the challenges</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the 2003 Act</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The impugned decision involves not only a comprehensive ban on smoking,
+which extends to smoking in the grounds of the State Hospital and on visits to
+a detained person’s home, but also a policy of searching both detained patients
+and visitors for and confiscating tobacco. While the power to search for and
+confiscate tobacco is a necessary component of the decision as it is the means
+by which the comprehensive ban can be enforced, I am not persuaded that the
+comprehensive ban itself falls within the scope of the 2003 Act. In my view the
+Board is correct in its submission that the comprehensive ban, viewed on its
+own, involves the exercise of a power of management under the 1978 Act. But,
+for the reasons which I set out below, I have come to the view that the
+supporting prohibition on possession of tobacco products and the power to
+search for and confiscate such products fall within the scope of the 2003 Act
+and the 2005 Regulations.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, I do not accept the submission that the 2003 Act is concerned
+only with the treatment of individual patients and that it does not impinge on
+more general management policies. That Act, which replaced the 1984 Act,
+provides, among other things, for the detention of and the giving of care and treatment
+to mental health patients. Many sections of the 2003 Act relate to the making
+of such provision to the individual patient. But the discharge of functions
+under the 2003 Act is not confined to individual care and treatment. In Part 18
+of the Act (which is headed “Miscellaneous”) there are a series of sections
+(sections 281-286) which provide either directly or through regulations for the
+withholding of correspondence and the regulation of the use of telephones, as
+well as for the functions with which this appeal is concerned, namely the
+placing of restrictions on the kinds of things which specified persons may have
+in a hospital, searches and confiscation. The regulations made in support of
+those provisions, namely the 2005 Regulations to which I have referred in paras
+24 and 25 above and also the Mental Health (Definition of Specified Person:
+Correspondence) (Scotland) Regulations 2005 (SSI 2005/466) and the Mental
+Health (Use of Telephones) (Scotland) Regulations 2005 (SSI 2005/468), are
+subject to conditions (a) as a general rule that the detained patient, his or
+her named person and the Mental Welfare Commission for Scotland are informed
+that he or she is a specified person and (b) that the detained person is
+informed of the restriction. Thus interested parties must be informed of
+measures which affect individual patients, whether as a result of general
+management policies or of individual targeting of patients. The relevant
+regulations also require records to be kept of any decisions to search a specified
+person and to prohibit or restrict the use of telephones by such a person.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>While the further requirement in the 2005 Regulations (regulation 5(c))
+to record a measure in an individual patient’s medical records may seem
+unnecessary where a measure is of general application, that is not, in my view,
+a sufficient indication of an intention to confine section 286 and the 2005
+Regulations to individually targeted measures. The requirements in each of the sets
+of regulations mentioned in para 35 above are consistent with the policy underlying
+section 286 of the 2003 Act that the Scottish Government and the Mental Welfare
+Commission should monitor the terms of policies for such measures and their
+operation: para 21 above. I can see no rationale for excluding measures of
+general application from this supervision, nor did counsel suggest any. I
+recognise that some of the matters mentioned in section 1(3) of the 2003 Act
+are not relevant to the discharge of these functions, especially when the
+measures are not targeted at individual detained patients; but section 1(2) and
+(9) provide for that.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, the 2005 Regulations do not set limits on the things, the
+possession of which may be prohibited or restricted, and for which specified
+persons or visitors may be searched. Both the heading of section 286 of the
+2003 Act and the title of the 2005 Regulations refer to safety and security,
+but there is no provision in either the section or the 2005 Regulations which
+confines the things to items such as weapons which might threaten the safety of
+others. Section 286 also provides for the taking of samples from persons,
+including swabs and blood (subsection (1)(b)) and the surveillance of specified
+persons or visitors (subsection (1)(e)).</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, the focus of the section and the regulations made under it is
+on the regulation of activities which impinge on the autonomy of individuals.
+That focus on the detained patient’s autonomy is consistent with the Millan
+report’s emphasis on the need to respect human rights. It manifests itself in
+greater transparency by legislative provision for such policies, and through
+the informing of interested parties of the regulated measures, the maintenance
+of records of such measures, and the supervision by the Scottish government and
+the Mental Welfare Commission.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The devising of policies and the carrying out of such measures have thus
+become functions under the 2003 Act. The principles in section 1 of that Act
+apply to such measures in so far as they are relevant. One principle which is clearly
+relevant is the obligation in section 1(4) to discharge the function in the
+manner that involves the minimum restriction on the freedom of the patient that
+is necessary in the circumstances - an obligation to which the Code of Practice
+draws attention.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Board did not purport to act under the 2003 Act in instituting the
+policy of prohibiting the possession of tobacco products, searching for such
+products and confiscating them. It may be the case that the consultation
+exercises which the Board carried out during 2011 were sufficient to comply
+with the obligations in section 1(2) and (3) of the 2003 Act. But there appears
+to have been no consideration of the obligation under section 1(4) nor
+compliance with the obligations to inform and record in the 2005 Regulations.
+This is not surprising as the Board considered that it was acting under the
+1978 Act.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As a result, the prohibition on having tobacco products and the related
+powers to search and confiscate are in my view illegal and fall to be annulled.
+Although Mr McCann’s counsel argued that the component parts of the impugned
+decision were not severable and counsel for the Board made no submissions to
+the contrary, I would prefer to invite submissions on the form of order which
+this court should make before making such an order.</a></p><a name="para41">
+
+<p class="ParaHeading" style="margin-left:36.0pt">ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Article 8 of the
+ECHR</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As is well known, article 8 of the ECHR protects the right to respect
+for private and family life and provides:</a></p><a name="para42">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Everyone has the right
+to respect for his private and family life, his home and his correspondence.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There shall be no
+interference by a public authority with the exercise of this right except such
+as is in accordance with the law and is necessary in a democratic society in
+the interests of national security, public safety or the economic well-being of
+the country, for the prevention of disorder or crime, for the protection of
+health or morals, or for the protection of the rights and freedoms of others.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my view, the prohibition against having tobacco products, and the
+power to search patients in and visitors to the State Hospital for such
+products and confiscate them, infringe Mr McCann’s right under article 8 of the
+ECHR because I consider (a) for the reasons discussed below, that they
+interfere with his article 8 right, and (b) for the reasons discussed above,
+that they do not comply with the 2003 Act and thus cannot meet the requirement
+of article 8(2) that they are “in accordance with the law”.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As it is likely that the problem of compliance with the 2003 Act is
+remediable, I set out why, contrary to the view of the majority of the Second
+Division, I have concluded that the comprehensive ban itself amounts to such
+interference, which has therefore to be justified. I also set out my view as to
+why, but for the problem of the domestic legal basis of part of the decision
+(which I have discussed above), I consider that the impugned decision
+(comprising both the comprehensive ban on smoking and the supportive measures
+of the prohibition of possession and powers of search and confiscation) would
+have been a proportionate response to the legitimate aim of the protection of
+health, which is recognised in article 8(2), through its promotion and
+safeguarding of the health of both patients and staff at the State Hospital.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>The scope of article 8</i>: I adopt as a general statement Lord
+Bingham’s description of the purpose of article 8: “It is to protect the
+individual against intrusion by agents of the state, unless for good reason,
+into the private sphere within which individuals expect to be left alone to
+conduct their personal affairs and live their personal lives as they choose”: <i>R
+(Countryside Alliance) v Attorney General</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/52.html">[2008] AC 719</a>, para 10 (“<i>Countryside
+Alliance</i>”). But it is notoriously difficult and may be impossible to
+determine the boundaries of the personal sphere and thus of the article 8 right
+to respect for private life. The ECtHR has identified values which the article
+protects but has rejected the possibility or necessity of attempting an
+exhaustive definition of the notion of private life: <i>Niemietz v Germany</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1992/80.html">(1992) 16 EHRR 97</a>, para 29. Judicial formulations of the values are inevitably
+influenced by the facts of the particular case and, in particular, by the
+nature of the state’s intervention - or failure to intervene - in the life of
+the claimant. The House of Lords, when examining the boundaries of such values
+in <i>Countryside Alliance</i> in the context of the hunting ban, expressed
+differing and inconsistent views.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The concept encompasses securing a sphere within which an individual can
+freely pursue the development and fulfilment of his personality and “to a
+certain degree” the right to establish and develop relationships with other
+people: <i>Brüggemann and Scheuten v Federal Republic of Germany </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1977/1.html">(1977) 3 EHRR 244</a> (the Human Rights Commission) paras 55-57. More recently, emphasis has
+been placed on personal autonomy. Thus in <i>Pretty v United Kingdom </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2002/427.html">(2002) 35 EHRR 1</a>, which concerned the statutory ban on assisted suicide, the ECtHR
+summarised its jurisprudence (para 61):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[T]he concept of ‘private life’
+is a broad term not susceptible to exhaustive definition. It covers the
+physical and psychological integrity of a person. It can sometimes embrace
+aspects of an individual’s physical and social identity. Elements such as, for
+example, gender identification, name and sexual orientation and sexual life
+fall within the personal sphere protected by article 8. Article 8 also protects
+a right to personal development, and the right to establish and develop
+relationships with other human beings and the outside world. Though no previous
+case has established as such any right to self-determination as being contained
+in article 8 of the Convention, the Court considers that the notion of personal
+autonomy is an important principle underlying the interpretation of its
+guarantees.”</p>
+
+<p class="ParaNoNumber">The ECtHR recognised that a person’s autonomy could
+extend to the pursuit of activities which caused him or her harm. In para 62 it
+stated:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The court would observe that the
+ability to conduct one’s life in a manner of one’s own choosing may also
+include the opportunity to pursue activities perceived to be of a physically or
+morally harmful or dangerous nature for the individual concerned.”</p>
+
+<p class="ParaNoNumber">The idea of personal autonomy can also be seen in <i>von
+Hannover v Germany</i> (2004) 40 EHRR 1, para 50 (in the context of press
+intrusion into private life) and <i>Munjaz v United Kingdom </i>(above), para
+78 (in the context of solitary confinement).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Also relevant to this appeal is the protection which article 8 gives to
+the home as Mr McCann submits that as a result of his long term detention the
+State Hospital had become his home. In article 8 “home” is an autonomous
+concept. In <i>Giacomelli v Italy </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2006/916.html">(2007) 45 EHRR 38</a> (a case concerning
+environmental pollution) the ECtHR stated that a home “will usually be the
+place, the physically defined area, where private and family life develops”. It
+continued: “The individual has a right to respect for his home, meaning not
+just the right to the actual physical area, but also to the quiet enjoyment of
+that area” (para 76). Similarly, in <i>Harrow London Borough Council v Qazi </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2003/43.html">[2004] 1 AC 983</a> Lord Hope cited the opinion of Sir Gerald Fitzmaurice on the scope of
+article 8 in <i>Marckx v Belgium </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1979/2.html">(1979) 2 EHRR 330</a> and stated (para 50):
+“The emphasis is on the person’s home as a place where he is entitled to be
+free from arbitrary interference by the public authorities”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court is not bound by the judgments of the ECtHR; section 2 of the
+Human Rights Act 1998 requires us to do no more than to take account of such
+decisions. But in <i>Countryside Alliance </i>(above) the majority of the
+speeches in the House of Lords appear to have accepted the relevance of the
+concept of personal autonomy at least in certain contexts: Lord Bingham (para
+10), Lord Hope (para 54), and Lord Brown (paras 138-139). The concept is also
+consistent with Lady Hale’s identification of one of the values reflected in
+article 8, being the inviolability of “the personal and psychological space
+within which each individual develops his or her own sense of self and
+relationships with other people” (para 116). She continued in the same paragraph
+by stating that article 8 protected that private space but opined that “that
+falls some way short of protecting everything they might want to do even in
+that private space”. Lord Brown (para 139) expressed the wish that
+jurisprudence would extend to encompass a broad philosophy of live and let
+live, allowing people to engage in whatever pursuits they wish that were
+central to their well-being unless there was a good and sufficient reason to
+forbid them. But he also recognised that article 8 had not been interpreted as
+going that far.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So how should one apply article 8 to a detained patient in the State
+Hospital? Does a detained patient such as Mr McCann have a private space, in
+which his wish to smoke is protected? The majority of the Second Division held
+he did not and reasoned as follows (paras 89-93). First, they said that a
+detainee’s right to respect for private life extended only to protection
+against interference beyond the concomitants of lawful detention. They then
+considered that institutions such as the State Hospital would be unmanageable
+without some restriction of the scope of the right to respect for private life
+of detained persons “to that beyond the ordinary restrictions pursuant to
+lawful detention”. Thirdly, they agreed with the majority of the Court of
+Appeal in the Rampton Hospital case (para 32 above) that a comprehensive
+smoking ban in such an institution did not have a sufficiently adverse effect
+on a person’s physical or psychological integrity or his right to personal
+development as to merit protection.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I respectfully disagree with the third stage of that analysis. Lawful
+deprivation of liberty involving long term detention in an institution inevitably
+curtails a detainee’s private sphere and constraints which are a necessary part
+of the detention would not fall within the ambit of article 8. But it seems to
+me that the degree of constraint which lawful detention imposes on the detained
+patient’s private sphere works in the opposite direction from the third stage
+of that analysis because it requires the court assiduously to uphold the right
+to respect for what little remains of that sphere.</a></p><a name="para50">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>My starting point is the recognition in our domestic law that a person
+who is compulsorily detained by the state enjoys all the civil rights which are
+not taken away expressly or by implication as a result of that detention. The
+House of Lords so held in the English case of <i>Raymond v Honey</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1981/8.html">[1983] 1 AC 1</a>, 10 per Lord Wilberforce, and both Lord Glennie and the First Division of
+the Inner House have affirmed the same principle in Scots law: <i>Potter v
+Scottish Prison Service</i> 2007 SLT 1019, para 25. The Grand Chamber of the
+ECtHR has taken a similar approach in relation to fundamental rights in <i>Hirst
+v United Kingdom (No 2) </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2005/681.html">(2006) 42 EHRR 41</a>, in which it stated (para 69):
+“prisoners in general continue to enjoy all the fundamental rights and freedoms
+guaranteed under the Convention save for the right to liberty, where lawfully
+imposed detention expressly falls within the scope of article 5 of the
+Convention.” See also <i>Munjaz v United Kingdom</i> (above) para 79, in which
+the Fourth Section repeated this analysis and added: “Any restriction on those
+rights must be justified in each individual case”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The detained patient’s ability to conduct his or her life as he or she
+chooses is inevitably severely curtailed by compulsory detention in the State
+Hospital. For sound therapeutic reasons, many things which are available to a person
+at liberty in his or her private home cannot be made available to a detained
+patient. The circumstances of therapeutic detention may require the control of
+things which the detained patient may possess, including things that might be
+used as weapons against others or to self-harm; the possession and consumption
+of alcohol may be prohibited; and many social activities, such as eating meals
+in the company of other patients, may have to be conducted only under close
+supervision. Routine and random searches may be an incident of therapeutic
+detention and treatment: the Court of Appeal treated them as such in <i>R v
+Broadmoor Hospital Authority, Ex p S </i>[1998] COD<i> </i>199. In these ways
+and others, the loss of liberty entailed in therapeutic detention restricts the
+scope of the private sphere and therefore the protections available under
+article 8, as the Second Division held.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Further, I agree with Lady Hale (in <i>Countryside Alliance </i>para
+116) that article 8 does not protect everything that people may want to do in their
+private space. But where therapeutic detention has severely curtailed a
+detained patient’s private space in the institution in which he or she must
+reside, the limited areas in which a patient has freedom of choice become all
+the more precious to him or her and more readily form “a core part” of his or
+her life, as Lord Rodger used the phrase in <i>Countryside Alliance</i> (paras
+95-106).</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>L v Board of State Hospital </i>(above) Lady Dorrian stated (para
+26) that for people detained in the State Hospital “the freedom to receive food
+parcels from visitors and to make purchases from an external source are some of
+the few areas in which they may exercise some sort of personal autonomy or
+choice”. She concluded that article 8 was engaged by an interference with that
+choice and that such interference had to be justified. Because restrictions on
+food parcels and external purchases of food are not inherent in the loss of
+liberty occasioned by therapeutic detention, I agree; and I see an analogy in
+the comprehensive smoking ban.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is not necessary to decide whether a comprehensive ban on smoking by
+people at liberty, or at least a ban outside their homes, would so interfere
+with their private lives as to require justification under article 8. Such
+people can exercise personal autonomy in many other ways. But there is a need
+to protect the residual autonomy of a person who has been subjected to long
+term therapeutic detention by requiring this further intrusion into his private
+life to be justified. In this regard I agree with Keene LJ in his dissenting
+judgment in the Rampton Hospital case (para 101) and Lady Paton in this case
+(para 106). I do not consider the addictive nature of smoking, which Lady Paton
+emphasises, is a decisive factor, not least because it militates against the
+person’s autonomy. But it may be said to reinforce the role that smoking can
+play in some people’s lives.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I also do not find it necessary to decide whether the State Hospital
+falls to be treated as Mr McCann’s home for the purposes of article 8. If it
+were, my analysis would essentially be the same as the one which I have adopted
+based on the concept of personal autonomy.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I therefore conclude that a comprehensive ban on smoking is within the
+ambit of article 8 of the ECHR, that it interferes with Mr McCann’s right to
+respect for his private life and therefore that the Board must justify it.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Justification:</i> As is well known, justification under article 8(2)
+requires that the measure which interferes with the right (i) is in accordance
+with the law, (ii) pursues a legitimate objective, (iii) is rationally
+connected to the legitimate objective and (iv) is proportionate. I have already
+discussed the requirement that the interference be “in accordance with the law”
+and have concluded that the part of the impugned decision relating to the
+prohibition of possession, searches for and confiscation of tobacco products,
+did not meet that requirement because of the failure of the Board to address
+the requirements of section 1(4), and the regulations made under section 286,
+of the 2003 Act. But because the Board may seek to introduce such measures in
+accordance with the 2003 Act, I address the other tests.</a></p><a name="para58">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I address first the tests of legitimate objective and rational
+connection. In the Rampton Hospital case both the Divisional Court and the
+Court of Appeal cited public documents which recorded (a) that in 1998 it was
+estimated that smoking in the United Kingdom caused each year 46,500 deaths
+from cancer and 40,300 deaths from circulatory diseases, (b) that those who
+smoke regularly and then die of smoking-related disease lose on average 16
+years from their life expectancy when compared with non-smokers and (c) that in
+2005 second-hand smoking caused at least 12,000 deaths a year in the United
+Kingdom. Having regard to the adverse effects that smoking can have on the
+health of smokers and others exposed to tobacco smoke, I have no difficulty in
+agreeing with the Second Division that the comprehensive smoking ban pursued
+the legitimate aim of the protection of health which is recognised in article
+8(2). The aim is to protect the detained patient from the health risks of his
+smoking and other people from the health risks of second-hand smoke. The
+comprehensive smoking ban clearly has a rational connection with the pursuit of
+that desirable goal.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, in order to be “necessary in a democratic society” in the
+interests of public health the interference must be proportionate. Again, as is
+well known, the tests for proportionality (in addition to the tests of the
+importance of the legitimate objective and the rational connection of the
+measure to that objective) are (i) whether a less intrusive measure could have
+been used without unacceptably compromising the achievement of the objective
+and (ii) whether a fair balance has been struck between the rights of the
+individual and the interests of the community having regard to (a) the severity
+of the impact of the measure on the individual’s rights and (b) the
+contribution of the measure to the achievement of the objective: <i>Bank Mellat
+v HM Treasury (No 2) </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/39.html">[2014] AC 700</a>, para 20 per Lord Sumption, para 74 per
+Lord Reed. No challenge is made to the ban on smoking indoors, where the danger
+of exposing other patients and supervising staff in designated smoking areas is
+obvious. The minute (para 12 above) and the document discussed in para 7 above
+both record that the impugned decision which led to the comprehensive ban
+resulted from the operational difficulties which the Board faced in operating
+the partial ban which allowed supervised smoking within the hospital grounds.
+Those problems threatened to compromise the health of the supervising staff,
+the welfare of the patients and the security of both. Mr McCann did not
+challenge the account of events in those documents, which, in my view, this
+court must treat as the accepted factual background to the impugned decision.
+Faced with such difficulties, I am satisfied that the Board did not act
+disproportionately in imposing the comprehensive smoking ban when it did.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61">61.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If there is to be a comprehensive smoking ban, it is likely that the
+managers of the Board will need to prohibit the possession of tobacco products
+and also have powers to search for and confiscate such products. As counsel for
+Mr McCann does not dispute that the introduction of such measures in accordance
+with the 2003 Act, the Code of Practice, and the 2005 Regulations would comply
+with the ECHR, it is not necessary further to consider the justification of
+those measures if they are introduced in that way.</a></p><a name="para61">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Accordingly, but for the illegality under our domestic law of the
+prohibition of possession of tobacco products, the searches and the
+confiscation of tobacco products which are part of the impugned decision, I
+would have held that the decision was not contrary to Mr McCann’s article 8
+right to respect for his private life.</a></p><a name="para62">
+
+<p class="ParaHeading">Article 14 of the ECHR</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Because the impugned decision fell within the ambit of article 8, it is
+necessary to address briefly the challenge under article 14 of the ECHR that
+the Board has treated Mr McCann in a discriminatory manner which cannot be
+justified.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am satisfied that this challenge fails for three principal reasons.
+First, the Scottish Government is committed to extending the ban on smoking to
+all NHS facilities over time and also to extending the ban to prisons. As a
+result, secondly, the differences in treatment between detained patients in the
+State Hospital on the one hand and patients in other NHS facilities or
+prisoners detained in prison are a matter of timing rather than policy. The
+circumstances of individual public institutions will vary and each enjoys an
+area of discretion on how and at what speed it implements its anti-smoking
+policy. Thirdly, the explanation for the timing of the impugned decision is the
+documented difficulties of the partial smoking ban in the State Hospital which
+justified the introduction of the comprehensive smoking ban when it occurred. It
+is therefore unnecessary to consider the differences between the circumstances
+of Mr McCann on the one hand and the circumstances of these groups of people on
+the other.</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Further, I am not persuaded that there is any unjustified discrimination
+when detained patients are compared with the general public at liberty. The
+circumstances of such members of the public are radically different as (i) they
+have opportunities to smoke in places which do not expose others to second-hand
+smoke, and (ii) the public authorities do not have any legal duty of care to
+create a safe therapeutic environment for them or to protect their own staff
+from injury to health when they are in the public sphere and not acting in the
+course of their employment. The documents to which I referred in paras 7 and 12
+above reveal the problems of allowing smoking out of doors in a secure
+hospital. Such problems do not occur among the general public. The differences
+between the anti-smoking policies applied to them and the comprehensive ban in
+the State Hospital can readily be justified.</a></p><a name="para65">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It may be that the effects of smoking on patients with certain mental
+illnesses provide a further ground of distinction between mental health
+patients and those with whom Mr McCann wishes to be compared. The Board
+referred in its written case to the strong association between poor mental
+health and smoking (which was also discussed in the evidential findings in the
+Rampton Hospital case) and there was a suggestion in the documents which
+suggested that smoking reduced the efficacy of clozapine, a drug for treating
+schizophrenia. This was not explored in any detail in this appeal but I do not
+need to rely on it in reaching my view.</a></p><a name="para66">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The article 14 challenge therefore fails.</a></p><a name="para67">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para67"></a><a name="para68">68.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would allow the appeal but only to the extent that the prohibition on
+having tobacco products and the search and confiscation regime in the impugned
+decision are unlawful under our domestic law because they do not comply with
+the 2003 Act and the 2005 Regulations (paras 40 and 41 above). In consequence,
+the impugned decision infringes Mr McCann’s article 8 rights but only because
+the decision is not in accordance with our domestic law (para 62 above). Otherwise
+I would dismiss the appeal.</a></p><a name="para68">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para68"></a><a name="para69">69.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would invite parties to provide written submissions on the appropriate
+form of order within 21 days of the handing down of this judgment.</a></p><a name="para69">
+
+</a></center></div><a name="para69">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/31.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

@@ -1,0 +1,1133 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>D (A Child), Re [2016] UKSC 34 (22 June 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      D (A Child), Re [2016] UKSC 34 (22 June 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/34.html</i>
+<br>Cite as: 
+[2016] Fam Law 967,
+
+[2016] 3 WLR 145,
+
+[2016] 2 FLR 379,
+
+[2016] 3 FCR 1,
+
+[2016] UKSC 34,
+
+[2016] 4 All ER 95,
+
+[2016] AC 1117,
+
+[2016] WLR(D) 340
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/34.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+3+WLR+145">[2016] 3 WLR 145</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+AC+1117">[2016] AC 1117</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+340">[2016] WLR(D) 340</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+ 
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/34(image1).pdf">Summary</a></span></p><br>
+
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 34</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/12.html">[2016] EWCA Civ 12</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">In the matter of D (A Child)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">22 June 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 23 May 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:96.6pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><i>(Father)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Richard Harrison QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Stephen Jarmain</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Samantha Ridley</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Wedlake Bell Solicitors LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>1<sup>st</sup> Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><i>(AA Mother)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">James Turner QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Edward Devereux</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Osbornes Solicitors LLP)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:82.8pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>2<sup>nd</sup> Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><i>(DD Child)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Nicholas Anderson</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Katy Chokowry</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  CAFCASS Legal Services)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:110.4pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:110.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>1<sup>st</sup>
+  Intervener( Written submissions only)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><i>(Reunite
+  International Child Abduction Centre)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Henry Setright QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Gration</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Dawson Cornwell)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:110.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:110.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>2<sup>nd</sup>
+  Intervener</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><i>(Ministry of
+  Justice)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Hugh Mercer QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Alistair Mackenzie</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">LADY HALE: (<span style="text-transform:none">with whom Lord
+Neuberger, Lord Clarke, Lord Wilson and Lord Hughes agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 21 March 2016, this court gave a father permission to appeal against
+the decision of the Court of Appeal that a custody order which he had obtained
+in Romania should not be enforced in this country under the Brussels II
+(Revised) Regulation (“BIIR”), because it had been given “without the child
+having been given an opportunity to be heard, in violation of fundamental
+principles of procedure” in this country. In the view of the panel giving
+permission to appeal, the judgment of the Court of Appeal raised an arguable
+point of law of general public importance, as to the precise extent to which it
+is a fundamental principle of the procedure relating to all cases about
+children in the courts of England and Wales that the child should be given an opportunity
+to be heard. This is a question of importance in all children’s cases, not just
+those where the court here is asked to enforce a judgment given in another
+member state of the European Union.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, it has now become clear that under BIIR this court has no
+jurisdiction to entertain such an appeal. This point was not raised by the
+respondent mother in her notice of objection to the application for permission
+to appeal. No doubt, had she done so, the court would have listed it for oral
+argument before deciding whether or not to give permission. In the event, once
+it was raised, we were able to arrange a hearing at short notice, in advance of
+the date set for the substantive appeal. As a point of jurisdiction, it could
+not be ignored, however inconveniently late in the day it was raised. We are
+grateful to the parties for the speed with which they have prepared their
+written and oral arguments and, in particular, to the Ministry of Justice, whom
+we asked to intervene in order to give us an account of the relevant history.</a></p><a name="para2">
+
+<p class="ParaHeading">The history of the case</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The circumstances in which this question arises are deeply unfortunate,
+not least because of the delays there have been, not only in Romania but also
+in this country, but they are largely irrelevant to the question of law which
+we have to decide. The child in question, DD, was born in Romania on 8 November
+2006 and so is now aged nine and a half. His parents are both Romanian but met
+while working in this country. They returned briefly to Romania, where they got
+married and the child was born, but by January 2007 both parents had returned
+to live in this country with the child. They separated in November 2007. DD has
+continued to live here with his mother, his main carer, ever since. The father
+returned to live in Romania in 2009, but has kept a second home here and for
+most of the intervening years (with a long gap from November 2012 until March
+2014) has shared the care of DD with the mother. He has a significant
+relationship with his son.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although DD is undoubtedly habitually resident in this country, the
+parties chose to litigate about his future in Romania. The father issued
+divorce and custody proceedings there in November 2007. The couple were
+divorced in April 2008. The father was awarded custody of DD, but the mother
+successfully appealed. At the retrial, the father was again awarded custody,
+but first the mother and then the father successfully appealed. At a further
+retrial in a different court, in December 2011, the court awarded joint
+parental authority to both parents, while finding that DD’s domicile and
+residence were at the mother’s address in England. Both parties appealed, but
+their appeals were dismissed in March 2013, on the basis that joint custody is
+the norm and sole custody the exception. Nevertheless, the child should remain
+living with his mother in England, as it was not in his best interests to
+change his living arrangements. The father launched a further appeal, to the
+Bucharest Court of Appeal. Its final decision, in November 2013, was that the
+child should live with the father, on the basis that he could provide “the best
+moral and material conditions”.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In February 2014, the father applied for the recognition and enforcement
+of this order by the English court. The result was the re-establishment of
+contact between father and son and a High Court-ordered arrangement that the
+parents share his care in this country while the father’s application
+proceeded. On 1 May 2014, Peter Jackson J ordered that DD be made a party to
+the enforcement proceedings: see the summary of the history in <i>In re D
+(Recognition and Enforcement of Romanian Order) </i></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Fam/2014/2756.html">[2014] EWHC 2756 (Fam)</a>,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Fam/2014/2756.html">[2015] 1 FLR 1272</a>. He quotes, in para 33, the reasons given in his earlier
+judgment. This was not so as to make inquiries as to his welfare, which would
+be inappropriate in enforcement proceedings, but because “D’s rights as an
+individual child are engaged in his father’s application and … whatever has
+happened in this case he bears no responsibility for it” (para 15). His
+interest was not being represented (para 16) and the facts were “egregious”
+(para 10) - neither the judge, nor counsel, nor the Children’s Guardian had
+experienced a “case in which enforcement is being sought with regard to a child
+who has attained the age of seven and has never lived in the country from which
+the relevant order emanates” (para 11).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The registration of an order under BIIR is “essentially administrative,
+although it requires a judicial act”: see <i>In re S (Foreign Contact Order) </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2009/993.html">[2009] EWCA Civ 993</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2009/993.html">[2010] 1 FLR 982</a>, para 12. Judicial consideration of any dispute
+occurs at the first “appeal” stage. This came before Peter Jackson J who
+determined it in July 2014 (reference above). Article 23 lays down seven
+grounds for non-recognition. The judge rejected the mother’s case on article
+23(a), that recognition was “manifestly contrary to the public policy of the
+member state in which recognition is sought taking into account the best
+interests of the child”. This ground is to be narrowly construed and the Bucharest
+decision was “not so extreme as to require recognition to be withheld on this
+ground” (para 74).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, he did refuse recognition under article 23(b), which provides
+that a judgment shall not be recognised “if it was given, except in case of
+urgency, without the child having been given an opportunity to be heard, in
+violation of fundamental principles of procedure of the member state in which
+recognition is sought”. The Bucharest Court of Appeal’s conclusion about DD’s
+wishes and feelings, namely that “he constantly craves for [the father’s]
+permanent presence”, had not arisen from any direct or indirect enquiry
+involving the child himself (para 83). It had a report from a Cafcass officer
+in earlier enforcement proceedings when DD was two years old. It had a report
+from a social worker when he was five and a half, in response to the father’s
+concerns about the mother’s care. At the first-tier appeal in February 2013,
+the father had asked the court to hear the child, but the mother had opposed
+this (interestingly, given her current stance), and the court had deemed it
+“not useful given the age of the minor”. Peter Jackson J disagreed:</a></p><a name="para7">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The child’s entitlement to a
+voice is a fundamental procedural principle in our system. If he is old enough,
+it will be his voice and his words. An adult voice will convey the younger
+child’s point of view. Younger children are less able to articulate their
+wishes, but their feelings may be more vivid than those of older children and
+of adults, whose views we canvass without a second thought.” (para 96)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A report from a court social worker, containing the child’s perspective,
+would be fundamental to the decision of any English court, “faced with a
+striking application of this kind (peremptory change of lifelong carer, country
+and language)” (para 103). He therefore allowed the mother’s appeal on this
+ground. He also allowed her appeal on the grounds contained in article 23(c)
+(lack of service) and (d) (not giving the mother an opportunity of being
+heard).</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal dismissed the mother’s cross-appeal on article
+23(a), allowed the father’s appeal on article 23(c) and (d), but dismissed the
+father’s appeal on article 23(b): </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/12.html">[2016] EWCA Civ 12</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/12.html">[2016] 1 WLR 2469</a>. The
+question of whether and how the child’s voice was to be heard in the
+proceedings was a separate question from the weight to be given to his wishes
+and feelings:</p>
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:18.4pt;margin-bottom:26.0pt;
+margin-left:72.0pt">“… the rule of law in England and Wales includes the right
+of the child to participate in the process that is about him or her. That is
+the fundamental principle that is reflected in our legislation, our rules and
+practice directions and jurisprudence. At its most basic level it involves
+asking at an early stage in family proceedings whether and how that child is
+going to be given the opportunity to be heard. The qualification in section
+1(3)(a) [of the Children Act 1989] like that in article 12(1) [of the United
+Nations Convention on the Rights of the Child 1989] relates to the weight to be
+put upon a child’s wishes and feelings, not their participation.” (para 44)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court is not concerned with whether the decisions reached by the
+trial judge and Court of Appeal in this particular case were right or wrong.
+They may very well have been right. Nor is it concerned with the extent to which
+the child’s right to be heard is a fundamental principle of the procedure in
+the courts of England and Wales in cases relating to the future of children.
+That is a very large question and views may differ as to precisely what the
+effect is of the Court of Appeal’s judgment. This court is solely concerned
+with whether we have any jurisdiction to entertain an appeal against the
+decision of the Court of Appeal that the Romanian order should not be
+registered and enforced in this country.</a></p><a name="para10">
+
+<p class="ParaHeading">The jurisdiction question</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The jurisdiction of the Supreme Court of the United Kingdom is governed
+by section 40 of the Constitutional Reform Act 2005. So far as material, this
+provides:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(2)&nbsp;&nbsp;&nbsp;&nbsp; An appeal lies to the
+Court from any order or judgment of the Court of Appeal in England and Wales in
+civil proceedings. …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An appeal under
+subsection (2) lies only with the permission of the Court of Appeal or the
+Supreme Court; but this is subject to provision under any other enactment
+restricting such an appeal.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question, therefore, is whether the provisions of BIIR constitute an
+“enactment restricting such an appeal” from the Court of Appeal or otherwise
+override the provisions of the 2005 Act. This encompasses two questions: first,
+what is the meaning and effect of the provisions of BIIR in European Union law;
+and second, what is their effect upon the provisions of an Act of the United
+Kingdom Parliament?</a></p><a name="para12">
+
+<p class="ParaHeading">The Brussels II Revised Regulation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By article 28 of BIIR, a judgment on parental responsibility which is
+enforceable in the member state where it was given shall be enforced in another
+member state when it has been declared enforceable there. (In the United
+Kingdom, this means the part of the United Kingdom where it has been
+registered.) By article 29, the application for such a declaration shall be
+submitted to the court appearing in the list notified by each member state to
+the Commission pursuant to article 68. The High Court of Justice - Principal
+Registry of the Family Division has been notified for this purpose. Rule 31.4 of
+the Family Procedure Rules 2010 provides that applications should be made to a
+district judge (as had previously been indicated should be the case by Thorpe
+LJ in <i>In re S</i>, above, at para 16). By article 31, the court applied to
+must give its decision without delay and neither the person against whom
+enforcement is sought nor the child is entitled to make any submissions about
+it. Although the application may be refused for one of the reasons set out in
+articles 22, 23 and 24, “under no circumstances may a judgment be reviewed as
+to its substance” (article 31.3). In essence, therefore, this is intended to be
+a speedy ex parte (and essentially administrative) process.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first opportunity for inter partes debate comes with the first
+“appeal” under article 33. Under article 33.1, either party may appeal the
+decision on the application for a declaration. Once again it is to be lodged
+with the court notified under article 68 (article 33.2). The High Court of
+Justice - Principal Registry of the Family Division has again been notified for
+this purpose, but rule 31.15(1) of the Family Procedure Rules provides that the
+appeal must be made to a judge of the High Court (again as advised by Thorpe LJ
+in <i>In re S</i>). The appeal must be lodged within one month of service of
+the declaration, or two months if the person against whom enforcement is sought
+is habitually resident in a member state other than that where the declaration
+was given (article 33.5). Once again, the need for speed is emphasised.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Then comes article 34, the provision which is crucial to this case:</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The judgment given on appeal may
+be contested only by the proceedings referred to in the list notified by each
+member state to the Commission pursuant to article 68.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 68 provides that member states shall notify to the Commission
+the lists of courts and redress procedures referred to (relevantly) in articles
+29, 33 and 34 and any amendments thereto. The Commission is to keep the
+information up to date and to make it publicly available. The reference to the
+United Kingdom in its consolidated list of notifications reads as follows:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The appeals provided for in article
+34 may be brought only: …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">- in United Kingdom, by a single
+further appeal on a point of law:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in England and Wales,
+to the Court of Appeal.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the face of it, therefore, the position under BIIR is quite clear.
+There is to be a largely formal first stage when (no doubt usually) the
+judgment is declared enforceable; there is to be a first “appeal” when the
+enforceability decision can be contested; and the decision on that appeal can <i>only</i>
+be contested by the notified proceedings. It follows that if there were no
+notification under articles 34 and 68, as is the case with Cyprus and Malta,
+there would be no appeal possible under article 34. The UK’s notification
+expressly limits the “proceedings” to “a single further appeal on a point of
+law” which must be made, in England and Wales, to the Court of Appeal. No
+mention is made of a further appeal to the Supreme Court of the United Kingdom.
+This too accords with the understanding of Thorpe LJ in <i>In re S</i>.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The United Kingdom notification may be contrasted with the notification
+given by Ireland under articles 33 and 71 of Council Regulation (EC) No 4/2009
+on jurisdiction, applicable law, recognition and enforcement of decisions and
+cooperation in matters relating to maintenance obligations (“the Maintenance
+Regulation”). Article 33 provides that the decision given on appeal “may be
+contested only by the procedure notified by the member state concerned to the
+Commission in accordance with article 71”. Article 71 requires member states to
+communicate to the Commission “the redress procedures referred to in article
+33”. Ireland’s notification says this:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“An appeal on a point of law to
+the Court of Appeal (it should be noted, however, that in accordance with the
+provisions of the Irish Constitution, the Supreme Court shall have appellate
+jurisdiction from a decision of the High Court if it is satisfied that there
+are exceptional circumstances warranting a direct appeal to it. The Supreme
+Court shall also have appellate jurisdiction from a decision of the Court of
+Appeal if it is satisfied that certain conditions laid down in the Constitution
+are satisfied.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It would appear, therefore, that at least one member state considers it
+possible to provide for two tiers of appeal from the first “appeal”. It is not
+for this court to say whether that is consistent with either article 34 of BIIR
+or article 33 of the Maintenance Regulation. Whether or not the United Kingdom could
+have provided for a further appeal to the Supreme Court, which some might think
+necessary if only to resolve inconsistent decisions in different parts of the
+United Kingdom concerning a Regulation which applies throughout, the fact remains
+that it did not do so.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Furthermore, the approach adopted by the United Kingdom in all previous
+European instruments concerned with the free movement of judgments and judicial
+cooperation within the European Union has been to provide for only one tier of
+further appeal. The first of these was the Brussels Convention on Jurisdiction
+and the Enforcement of Judgments in Civil and Commercial Matters (“the 1968
+Convention”), concluded by the original six member states of the European
+Economic Community in 1968, later amended to include the United Kingdom. The
+courts and methods of appeal are specified in article 37 of the Convention
+itself, in England and Wales the first appeal going to the High Court (or in
+the case of a maintenance judgment, to the magistrates’ court), and that decision
+being “contested only … by a single further appeal on a point of law”. As the
+official Explanatory Report comments, the object of the Convention was to
+ensure that “the judgment given on the appeal may be contested only by an
+appeal in cassation and not by any other form of appeal or review” (OJ 1979 C
+59, pp 1, 51-52). This was because “An excessive number of avenues of appeal
+might be used by the losing party purely as delaying tactics, and this would
+constitute an obstacle to the free movement of judgments which is the object of
+the Convention”. Of course, this rationale only really applies to attempts by
+the person against whom enforcement is sought, such as the mother in this case,
+to resist enforcement, but what is sauce for the goose must also be sauce for
+the gander.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 1968 Convention (along with its 1971 Protocol and the 1978
+Convention on the accession of Denmark, Ireland and the United Kingdom to them
+both) was given effect in United Kingdom law by the Civil Jurisdiction and
+Judgments Act 1982. Interestingly, section 6(1) specifies that the single
+further appeal on a point of law lies in England and Wales either to the Court
+of Appeal or to the Supreme Court (formerly to the House of Lords) under the
+“leap-frog” procedure provided for in the Administration of Justice Act 1969.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Council Regulation (EC) 44/2001 on jurisdiction and the recognition and
+enforcement of judgments in civil and commercial matters (“the Brussels I
+Regulation”) was designed to replace the 1968 Convention with directly
+applicable Community legislation. The approach to avenues of challenge was the
+same, save that instead of containing each country’s permitted avenues in the
+text of the relevant articles, these referred to lists contained in Annexes to
+the Regulation. Thus article 43.2 provided that the first appeal should be
+lodged with the court indicated in Annex III, which for England and Wales was
+the High Court of Justice (except for maintenance judgments); and article 44
+provided that the judgment given on appeal might be contested only by the
+appeal referred to in Annex IV, which was once again “a single further appeal
+on a point of law”. The Civil Jurisdiction and Judgments Order 2001 (SI
+2001/3929) specified, once again, that in England and Wales this would lie
+either to the Court of Appeal or on a “leap-frog” appeal to the House of Lords
+(article 4).</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 1998, the Council approved a Convention extending the scope of the
+Brussels regime to matrimonial matters. This took the same approach to the
+methods of challenging enforcement applications as had the 1968 Convention. The
+1998 Convention never became applicable but was the source of the 2000 Council
+Regulation (EC) 1347/2000 on jurisdiction and the recognition and enforcement
+of judgments in matrimonial matters and in matters of parental responsibility
+for children of both spouses (“the Brussels II Regulation”), which was the
+immediate predecessor to the BIIR Regulation. This adopted the same method as
+the Brussels I Regulation was to adopt some seven months later. Article 26.2
+provided that the first appeal should be lodged with the court listed in Annex
+II, which for England and Wales was the High Court of Justice. Article 27
+provided that the judgment given on appeal might be contested only by “the
+proceedings” listed in Annex III, which for the UK was “by a single further
+appeal on a point of law”. However, the European Communities (Matrimonial
+Jurisdiction and Judgments) Regulations 2001 (SI 2001/310), unlike the 2001
+Order relating to the Brussels I Regulation, did not specify what was meant by
+a “single further appeal on a point of law”, nor did the new Chapter 5 of the
+Family Proceedings Rules 1991, introduced by article 29 of the Family
+Proceedings (Amendment) Rules 2001 (SI 2001/821) to cater for the Brussels II
+Regulation.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, BIIR, which replaced the Brussels II Regulation, adopts a
+slightly different technique. Instead of describing the appeal processes in the
+text, or in Annexes, it provides for each member state to communicate the
+avenues of first appeal and further contestation to the Commission thus
+enabling member states to change the processes without the need to revise the
+Regulation. Unlike both the Brussels II and the Brussels I Regulations, BIIR
+does not contain either in its main text or in Annexes a reference to a “single
+further appeal on a point of law”. There is no express limit in article 34 to
+the number of “proceedings” whereby the judgment on the first appeal may be
+contested (although article 35 refers to “the appeal” under article 34 rather
+than “an appeal”). This more flexible approach is also taken in the 2009
+“Maintenance Regulation” (which removed maintenance obligations from the scope
+of the Brussels I Regulation). While article 33 provides that the decision
+given on first appeal may be contested only by “the procedure” notified in
+accordance with article 71, article 71 requires member states to communicate
+“the redress procedures referred to in article 33”.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For what it is worth, the recast version of the Brussels I Regulation, Regulation
+(EU) 1215/2012 of the European Parliament and of the Council, on jurisdiction
+and the recognition and enforcement of judgments in civil and commercial
+matters, also adopts this more flexible technique. Article 50 provides that the
+judgment given on the first appeal can “only” be contested by an appeal where
+the courts with which any further appeal is to be lodged have been communicated
+to the Commission under article 75(c), which also refers to “courts”. The
+United Kingdom has retained the previous reference (for England and Wales) to
+an appeal either to the Court of Appeal or under the “leap-frog” procedure to
+the Supreme Court.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The purpose of all these instruments is that, save in very narrowly
+defined circumstances, member states should recognise and enforce one another’s
+judgments. The recitals to BIIR are typical: “The European Community has set
+the objective of creating an area of freedom, security and justice, in which
+the free movement of persons is ensured” (Recital 1). “The recognition and
+enforcement of judgments given in a member state should be based on the
+principle of mutual trust and the grounds for non-recognition should be kept to
+the minimum required” (Recital 21). From the very outset, in 1968, member states
+were anxious that there should not be too many avenues and methods of
+challenging enforcement decisions, hence the restriction to “cassation” type
+further appeals. It may well be, as Mr Richard Harrison QC has argued very ably
+on behalf of the father, that the strict approach taken in the earlier
+instruments has had to give way to the more flexible approach taken more
+recently. It may well be that it would be open to the United Kingdom to do as
+Ireland has done and notify the possibility, not only of “leap-frog” appeals
+from the High Court to the Supreme Court, but also of appeals from the Courts
+of Appeal in each part of the United Kingdom to the Supreme Court. The fact remains
+that it has not done so.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is also true to say that the policy of the United Kingdom has not
+been entirely consistent. In relation to civil and commercial judgments, the
+1968 Convention, the Brussels I Regulation and the recast Brussels I Regulation
+provide for the possibility of either an appeal to the Court of Appeal or a “leap-frog”
+appeal to the House of Lords or Supreme Court (thus, it would appear, giving
+the Supreme Court jurisdiction where the Court of Appeal has gone wrong in law
+in an earlier case, but not if it does so in the current case). It has not been
+possible to discover why a different approach, excluding the House of Lords or
+Supreme Court altogether, was taken in relation to family matters in the
+Brussels II Regulation and BIIR. It is known that the President of the Family
+Division, the Solicitors Family Law Association, The Law Society, the Family
+Law Bar Association, Reunite, Pact, and the Child Abduction Unit in the Office
+of the Official Solicitor were consulted on the Commission’s revised draft text
+of BIIR and that the Lord Chancellor’s Department continued to consult the
+President of the Family Division, Thorpe LJ (Chairman of the President’s
+International Committee), senior practitioners and Reunite during the
+negotiations. But it is not known precisely how and why the decision was taken
+to adopt the new approach in article 34 or how and why the United Kingdom
+government chose to make the notification which it did. The Minutes of the
+International Family Law Committee of the Family Justice Council held on 8
+November 2004, at which the proposed BIIR was discussed, do not record any
+discussion of these matters. But it is not surprising that the notification was
+to the same effect as Annex III to the Brussels II Regulation, nor is it
+unlikely that limiting the scope for multiple appeals was seen as an important
+consideration.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fact remains that the United Kingdom did make the notification in
+question. The question, therefore, is whether BIIR, combined with that
+notification, is effective to restrict what would otherwise be the jurisdiction
+of the Supreme Court under section 40 of the 2005 Act.</a></p><a name="para28">
+
+<p class="ParaHeading">The effect of BIIR in United Kingdom law</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Harrison faces the serious difficulty that article 34 clearly states
+that the decision on appeal may “only” be contested by the notified
+proceedings. On the face of it, therefore, as Mr Hugh Mercer QC submits on
+behalf of the Ministry of Justice, if there were no relevant notification,
+there would be no possibility of further challenge (as is apparently the case
+with Cyprus and Malta). Mr Harrison seeks to avoid this problem in two ways.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, he argues that the notification, being an act of the executive
+without any Parliamentary scrutiny or approval, cannot be an “enactment” for
+the purpose of section 40(6). He is of course quite correct that the executive
+has no power to amend or qualify primary or delegated legislation unless
+Parliament has given it the power to do so. An example is the power given by
+the United Nations Act 1946 to make Orders in Council without Parliamentary
+scrutiny where necessary to comply with the United Kingdom’s obligations under
+the United Nations Charter. Express language would be required for such a power
+to permit the executive to abrogate fundamental rights such as the right of
+access to a court: see <i>A v HM Treasury (JUSTICE intervening)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2010/2.html">[2010] UKSC 2</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/5.html">[2010] 2 AC 534</a>. In fact, such delegated legislative powers are far more
+frequently exercised by statutory instrument which has to be laid before, and
+in some cases positively approved by, Parliament. It is also correct that the
+power to amend primary legislation and otherwise to legislate for the purpose
+of complying with the United Kingdom’s obligations in European Union law,
+conferred by section 2(2) of the European Communities Act 1972, has to be
+exercised by Order in Council or by orders, rules, regulations or schemes. The
+notification was none of these things. By itself, therefore, it could not be
+effective to amend or qualify section 40(2) of the Constitutional Reform Act
+2005.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, we are concerned, not with the notification alone, but with the
+combined effect of article 34 of BIIR and the notification. It is trite law
+that European Regulations are directly applicable in all member states without
+the need for further legislative implementation there: Treaty on the
+Functioning of the European Union, article 288. It was, of course, necessary
+for the United Kingdom to legislate to make this treaty provision the law in
+the United Kingdom. This it did by section 2(1) of the European Communities Act
+1972:</a></p><a name="para31">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; All such rights, powers,
+liabilities, obligations and restrictions from time to time created or arising
+by or under the Treaties, and all such remedies and procedures from time to
+time provided for by or under the Treaties, as in accordance with the Treaties
+are without further enactment to be given legal effect or used in the United
+Kingdom shall be recognised and available in law, and be enforced, allowed and
+followed accordingly; …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Furthermore, by section 2(4):</a></p><a name="para32">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(4)&nbsp;&nbsp;&nbsp;&nbsp; … any enactment passed or
+to be passed … shall be construed and have effect subject to the foregoing
+provisions of this section …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus, Parliament has decreed that its own legislation is to have effect
+subject to the requirements of directly applicable European Union law. This
+includes section 40(2) of the 2005 Act.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Harrison is therefore driven to argue that articles 34 and 68 of BIIR
+are not, in fact, directly applicable. This is because they require “measures
+of application” to be adopted by member states in order to be implemented. He
+relies, in particular, on the cases of <i>Azienda Agricola Monte Arcosu Srl v
+Regione Autonoma Della Sardegna and Others </i>(Case C-403/98) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2001/C40398.html">[2001] ECR I-103</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2001/C40398.html">[2002] 2 CMLR 14</a> and <i>OBB-Personenverkehr AG v Schienen-Control
+Kommission </i>(Case C-509/11) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2013/C50911.html">[2014] 1 CMLR 51</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>His best example is the <i>OBB </i>case, which concerned a Regulation
+(1371/2007) providing for rail passengers to be compensated for delay. Under
+article 30, each member state was to designate a body responsible for enforcing
+the Regulation. But the Regulation did not define the specific measures which
+that body had to be able to adopt to secure compliance. The relevant body in
+Austria, the Kommission, required the railway company, OBB, to alter the terms
+and conditions of its tickets so as to comply with the compensation
+requirements of article 17 of the Regulation. But under Austrian law the
+Kommission did not have the power to do so. The Court held that article 30 by
+itself did not give it the power to impose terms on the railway company. (I
+note that it would be a completely separate question whether the passenger
+could rely on the direct effect of the Regulation in order to claim the
+compensation which it prescribed.)</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Azienda </i>case concerned Regulation No 797/85, which provided
+for certain payments to farmers “practising farming as [their] main
+occupation”. Member states were required to define what that meant, both for
+natural and non-natural persons. The relevant Italian law defined it for
+individuals and certain other entities, such as farming co-operatives, but did
+not provide for limited companies at all. The Court held that, as the
+Regulation required a definition before it could be operated, a limited company
+conducting farming operations could not make claims under the Regulation. The
+principle was stated thus:</a></p><a name="para36">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“26.&nbsp;&nbsp;&nbsp;&nbsp; In this respect, although,
+by virtue of the very nature of regulations and of their function in the system
+of sources of Community law, the provisions of those regulations generally have
+immediate effect in the national legal systems without its being necessary for
+the national authorities to adopt measures of application, some of their
+provisions may nonetheless necessitate, for their implementation, the adoption
+of measures of application by the member states.”</p>
+
+<p class="ParaLevel1">Thus, says Mr Harrison, as articles 34 and 68 of BIIR required
+further measures of implementation in the form of notifications by the member states,
+they cannot be directly applicable.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The simple answer to this argument is that articles 34 and 68 are not
+comparable with the articles under consideration in these two cases. Article 34
+does not depend for its implementation upon the member state’s choice of avenue
+of appeal. If the member state fails to notify any such avenue of appeal, then
+none will exist. But in any event, the member state in question did make a
+relevant notification. There is nothing in these cases to suggest that, if the
+required measures of implementation are adopted in a member state, the
+Regulation is not directly applicable there (and indeed effective to create
+individual rights). The farmers who were covered by the Italian definition
+would no doubt have been able to claim their rights under the Regulation.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Harrison’s final argument is that the notification cannot be
+effective if it does not give an accurate picture of the appellate rights under
+United Kingdom law. Article 68 requires member states to supply information as
+to the position in their country; it does not permit them to change the
+position as it would otherwise be. However, so to interpret article 68 would
+run counter to the purpose of the provisions relating to routes of challenge
+which date back to the 1968 Convention and continue through all the European
+instruments discussed earlier. This is to limit the avenues and methods of
+appeal so as to avoid delays and manoeuvrings which will defeat the object of
+effective enforcement of one another’s orders. This object may have become
+slightly diluted in the more recent instruments, but the Regulation clearly
+contemplates the possibility that Member States will make notifications which cut
+down the routes of appeal which would otherwise be available.</a></p><a name="para38">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am therefore satisfied that the Supreme Court of the United Kingdom
+has no jurisdiction to entertain an appeal in this case. The appeal which has
+been lodged should therefore be struck out.</a></p><a name="para39">
+
+</a></div><a name="para39">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/34.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

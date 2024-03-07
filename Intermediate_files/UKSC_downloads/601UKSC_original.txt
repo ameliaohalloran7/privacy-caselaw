@@ -1,0 +1,915 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>JP Whitter (Water Well Engineers) Ltd v Revenue and Customs [2018] UKSC 31 (13 June 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.Title10, li.Title10, div.Title10
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      JP Whitter (Water Well Engineers) Ltd v Revenue and Customs [2018] UKSC 31 (13 June 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/31.html</i>
+<br>Cite as: 
+[2018] WLR(D) 348,
+
+[2018] STI 1110,
+
+[2018] UKSC 31,
+
+[2018] 4 All ER 95,
+
+[2018] STC 1394,
+
+[2018] BTC 24,
+
+[2018] WLR 3117,
+
+[2018] 1 WLR 3117
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/31.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016008096/casereport_f512dac4-fc28-48ce-9024-b1c4d4795b43/html">[2018] WLR(D) 348</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016008096/casereport_2c876817-c40b-40bc-b451-32c1999bdb83/html">[2018] 1 WLR 3117</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<center><a href="/uk/cases/UKSC/2018/31.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 31</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/1160.html">[2016] EWCA Civ 1160</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title10" style="margin-left:4.0pt"><span style="font-size:20.0pt">JP
+  Whitter (Water Well Engineers) Limited (Appellant) <i>v</i> Commissioners for
+  Her Majesty’s Revenue and Customs (Respondent)</span></p>
+  <p class="Title10" style="margin-left:4.0pt"><span style="font-size:16.0pt;
+  font-weight:normal">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">13 June 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 10 May 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Thomas Chacko</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">James Eadie QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jessica Boyd</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">James Rivett</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Ian
+  Whalley Solicitors)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Solicitor’s
+  Office HM Revenue and Customs)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="NewSpeech">Lord Carnwath: (<span style="text-transform:none">with whom
+Lord Mance, Lord Sumption, Lord Lloyd-Jones and Lord Briggs agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal raises a short question on the operation by the respondent
+Commissioners (“HMRC”) of the Construction Industry Scheme under the Finance
+Act 2004 (“the Act”). The appellant company (“the company”) was registered for
+gross payment under the scheme. As is now accepted, it failed to comply with
+the requirements of the scheme without reasonable excuse. In consequence, on 30
+May 2011, HMRC exercised their power under the Act to revoke its registration.
+In doing so, they took no account of the likely effect of their action on the
+company’s business. The company contends that this represented a failure to
+take account of a material consideration, in breach of both domestic public
+law, and of the European Convention on Human Rights (“the Convention”).</a></p><a name="para1">
+
+<p class="ParaHeading">Factual background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The facts are set out in detail in the judgment of Henderson LJ in the
+Court of Appeal: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/1160.html">[2016] EWCA Civ 1160</a>. A summary is sufficient for present
+purposes. The company is a family-run business of water well engineers, started
+in 1972. In 2011 it had about 25 employees, and an annual turnover of about
+£4.4m, much of it derived from contracts with a small number of major
+customers.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was first registered for gross payment in about 1984, and its
+registration was regularly reviewed thereafter. It first failed a review in
+July 2009, when its registration was cancelled, and the same occurred in June
+the following year; but on both occasions the registration was reinstated by
+HMRC following an appeal. Between August 2010 and March 2011 the company was
+late in making PAYE payments on seven occasions, the delays being generally of
+a few days, but on one occasion of at least 118 days. This led to a further
+review and to the cancellation which is the subject of the present proceedings.
+The company’s appeal succeeded before the First-tier Tribunal (“FTT”) ( </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2012/TC02316.html">[2012] UKFTT 639 (TC)</a> ), but that decision was not upheld by the Upper Tribunal ( <a title="Link to BAILII version" href="/uk/cases/UKUT/TCC/2015/392.html">[2015] UKUT 392 (TCC)</a> ) or the Court of Appeal ( <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/1160.html">[2016] EWCA Civ 1160</a> ). It now appeals
+to this court with permission given by the court itself. By section 67(5) of
+the Act, the cancellation does not take effect until the final determination of
+the appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The FTT accepted the company’s evidence that major customers would be
+likely to withdraw work if it lost its gross payment status. It found that at
+the time of HMRC’s decision cancellation would have been likely to lead to the
+loss of around 60% of the company’s turnover, and the dismissal of about 80% of
+its employees, and that recovery would be expected to take about ten years. The
+FTT also recorded that in July 2011 significant changes were made to the
+company’s PAYE systems, with the result that payments thereafter were always
+made on time. We have no information as to what has happened to the business in
+the period since 2011, nor as to the likely effect of the loss of its status if
+this appeal fails, and the cancellation now takes effect. In that event, the
+company would not be able to re-apply for one year after the cancellation takes
+effect: section 66(8).</a></p><a name="para4">
+
+<p class="ParaHeading">The legislation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As Henderson LJ noted, the overall structure and purpose of the
+legislation has remained broadly the same since the inception of the statutory
+scheme some 45 years ago. He cited Ferris J’s description of the background in <i>Shaw
+v Vicky Construction Ltd</i> </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2002/2659.html">[2002] EWHC 2659 (Ch)</a>; [2002] STC 1544:</p>
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:29.3pt;margin-bottom:26.0pt;
+margin-left:72.0pt">“3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the absence of the statutory provision with
+which this appeal is concerned Vicky would be entitled, like any other
+sub-contractor, to be paid the contract price in accordance with its contract
+with the contractor without any deduction in respect of its own tax liability.
+However it became notorious that many sub-contractors engaged in the
+construction industry ‘disappeared’ without settling their tax liabilities,
+with a consequential loss of revenue to the exchequer.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In order to remedy this
+abuse Parliament has enacted legislation, which goes back to the early 1970s,
+under which a contractor is obliged, except in the case of a sub-contractor who
+holds a relevant certificate, to deduct and pay over to the Revenue a
+proportion of all payments made to the sub-contractor in respect of the labour
+content of any sub-contract. The amount so deducted and paid over is, in due
+course, allowed as a credit against the sub-contractor's liability to the
+Revenue …”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The relevant provisions in the present case are contained in the Finance
+Act 2004, Part 3 Chapter 3 “Construction Industry Scheme”. The main operative
+provisions are section 61, which provides for deductions on account of tax from
+“contract payments” as defined; and section 60 which excludes from the
+definition payments made to a person registered for gross payment when the
+payment is made. Registration of sub-contractors is governed by sections 63 and
+64. Section 63 provides that if HMRC are satisfied that the relevant
+requirements of sections 63 and 64 are satisfied in respect of a company, it <i>must</i>
+be registered for gross payment; but, if not, it <i>must</i> be registered for
+payment under deduction. Henderson LJ rightly observed (para 23) that the
+registration provisions are “highly prescriptive”, HMRC having no discretion at
+this stage; and that payment under deduction is the “default position”.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The detailed requirements for registration of a company are set out in
+Part 3 of Schedule 11. Again these requirements were rightly described by
+Henderson LJ as “highly prescriptive” (paras 27-28). Relevant in the present
+case is para 12 which sets out “The compliance test”. This generally requires
+the company to have complied, in the “qualifying period” of 12 months preceding
+the application, with all obligations imposed on it under the Tax Acts or the
+Taxes Management Act 1970. This is subject to certain exceptions prescribed by
+regulations for failures to be “treated as satisfying” the relevant condition
+(“prescribed ‘minor failures’”, as Henderson LJ described them) (para 12(2)).
+Also a company that has failed to comply is treated as satisfying the condition
+if HMRC are “of the opinion that … the company had a reasonable excuse for the
+failure to comply” and that it “complied … without unreasonable delay after the
+excuse had ceased” (para 12(3)). The company must also have paid required
+social security contributions during the qualifying period (para 12(4)); and
+have complied with specified obligations under the Companies Act 1985 (para
+12(5)). Paragraph 13 enables the Treasury by order, subject to approval in
+draft by the House of Commons, to vary the conditions for registration for
+gross payment.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 66 provides for cancellation of registration for gross payment:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The Board of Inland
+Revenue may at any time make a determination cancelling a person’s registration
+for gross payment if it appears to them that -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if an application to
+register the person for gross payment were to be made at that time, the Board would
+refuse so to register him,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he has made an
+incorrect return or provided incorrect information (whether as a contractor or
+as a sub-contractor) under any provision of this Chapter or of regulations made
+under it, or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he has failed to comply
+(whether as a contractor or as a sub-contractor) with any such provision …”</p>
+
+<p class="ParaNoNumber">As is common ground, the use of the word “may” in section
+66(1) imports an element of discretion, by contrast with the mandatory words of
+section 63. The dispute is as to its scope.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Where registration for gross payment is cancelled under section 66(1),
+the person must be registered for payment under deduction (section 66(6)). As
+already noted, he may not reapply for registration for gross payment for one
+year after the cancellation takes effect (section 66(8)), but the effect of the
+cancellation is suspended pending determination of an appeal (section 67(5)).</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By section 67 a person aggrieved by cancellation of registration may
+appeal by notice given to HMRC within 30 days. Provision for HMRC review or
+determination by the tribunal are set out in sections 49Aff of the Taxes
+Management Act 1970. A favourable conclusion on HMRC review is treated as if it
+were an agreement for settlement under section 54, and so equivalent to a
+determination of the appeal (section 49F(2)). As already seen, the first two
+cancellations were disposed of in this way. However, on the third occasion,
+HMRC maintained its position and the appeal accordingly was referred to the
+tribunal.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 102 of the 1970 Act gives HMRC a general power “in their
+discretion [to] mitigate any penalty”. It is not however suggested that
+cancellation of registration can be treated as a “penalty” within this
+provision.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the alternative, the company relies on its right to protection of
+property under Article 1 of the First Protocol to the Convention (“A1P1”):</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Every natural or legal person is
+entitled to the peaceful enjoyment of his possessions. No one shall be deprived
+of his possessions except in the public interest and subject to the conditions
+provided for by law and by the general principles of international law.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The preceding provisions shall
+not, however, in any way impair the right of a state to enforce such laws as it
+deems necessary to control the use of property in accordance with the general
+interest or to secure the payment of taxes or other contributions or
+penalties.”</p>
+
+<p class="ParaHeading">The decisions below</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As already noted, the FTT allowed the appeal, holding that HMRC had been
+wrong not to take account of the likely impact on the company’s business. The
+tribunal described section 66 as giving a “general unfettered discretion” to
+take account of the impact on a business of cancellation. It thought that HMRC
+must have itself have taken some account of such factors in its decisions on
+the two reviews, even though no specific reasons were given. It saw good
+reasons for the distinction between registration and cancellation, because of
+the serious implications of cancellation for an existing business (paras
+60-62).</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As already noted, the Upper Tribunal and the Court of Appeal took a
+different view. It is unnecessary to repeat their detailed reasoning. Henderson
+LJ approach is encapsulated in the following passage:</a></p><a name="para14">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para14">“60.&nbsp;&nbsp;&nbsp;&nbsp; As a matter of first
+impression, I cannot find any indication in this tightly constructed statutory
+scheme </a><a name="_Hlk514335388">that Parliament intended HMRC to have the power,
+and still less a duty, to take into account matters extraneous to the CIS
+regime, when deciding whether or not to exercise the power of cancellation in
+section 66(1). By ‘matters extraneous to the CIS regime’ I mean in particular,
+in the present context, matters which do not relate, directly or indirectly, to
+the requirements for registration for gross payment, and to the objective of
+securing compliance with those requirements.</a> My preliminary view,
+therefore, is that consideration of the financial impact on the taxpayer of
+cancellation would fall well outside the intended scope of the power.”</p>
+
+<p class="ParaNoNumber">He found nothing in the submissions to displace that
+first impression. In particular, he saw no difficulty in explaining the
+discretion given by section 66, as compared with the registration provisions,
+given the highly prescriptive nature of the regime:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… It seems to me entirely
+appropriate, and a substantial protection for the registered person, that HMRC
+should then be given a discretion whether or not to exercise the power of
+cancellation, even in cases where the condition in section 66(1)(a) is
+satisfied. The Upper Tribunal gave two examples, in para 64 of the UT Decision,
+quoted above, of cases where HMRC might properly exercise such discretion in
+the taxpayer’s favour, without travelling outside what I would regard as the
+proper scope of the power. It needs to be remembered, in this connection, that
+the ‘reasonable excuse’ exception does not apply to all the requirements of the
+compliance test, and in the absence of any discretion even a single minor
+failure to pay national insurance contributions on the due date, or a minor
+failure to comply with one of the Companies Act requirements, would be fatal,
+even if there were a reasonable excuse for the non-compliance. Similarly, the
+rigid structure of Regulation 32 itself leaves no scope for the exercise of any
+discretion, even if the relevant test was failed by a narrow margin, the amount
+involved was relatively small, and although (when viewed in isolation) there
+was no reasonable excuse for the non-compliance, there was nevertheless good
+reason to suppose that it would not be repeated. I therefore remain unpersuaded
+that there is any need to broaden the scope of the discretion conferred by
+section 66(1) in order to provide it with any worthwhile content.” (para 63)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In respect of the alternative argument under the Convention, Henderson
+LJ noted (para 37) that it was common ground before the Court of Appeal that
+both registration for gross payment, and the contractual right to payment of
+the contract price, constituted “possessions” for the purposes of A1/P1.
+However, he did not accept that any interference with those possessions was
+disproportionate:</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… Given the practical and
+cash-flow advantages of registration for gross payment, it is always probable
+that cancellation of the registration will seriously affect the taxpayer's
+business. Far from being exceptional, such consequences are likely to be the
+norm, and taxpayers must be taken to be well aware of the risks to their
+business which cancellation will bring. In individual cases, of which this may
+perhaps be one, the result may seem harsh; but a degree of harshness in a
+regime which is designed to counter tax evasion, and where continued compliance
+is within the power of the sub-contractor, cannot in my view be characterised
+as disproportionate. Both deterrence, and ease of compliance, are important
+factors which help to make the CIS scheme as a whole clearly compliant with
+A1P1 …” (para 80)</p>
+
+<p class="ParaHeading">The submissions in this court</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The company (by Mr Chacko and Miss Boyd of Counsel) argue that the
+discretion given by section 66 should be taken at face value. It is in terms
+unfettered, and there is nothing to indicate an intention to exclude
+consideration of the practical effect of cancellation. Absent a contrary
+indication, they submit, the consequences of the exercise of a power must be
+assumed to be a relevant consideration. They contrast, for example, Schedule 56,
+para 9 to the Finance Act 2009, which provides for mitigation of certain
+penalties in “special circumstances”, but specifically excludes consideration
+of the taxpayer’s ability to pay. If Parliament had wished to limit the scope
+of the discretion under section 66 it would have used express words. There was
+no logical dividing line between the scope of the discretion accepted as
+permissible by the Court of Appeal, and that argued for by the company. Nor was
+a broader discretion inconsistent with the proper exercise of HMRC’s statutory
+functions, as illustrated for example by the wide discretion accepted as
+appropriate in the context of customs penalties: see <i>Denley v Revenue and
+Customs Comrs</i> </a><a title="Link to BAILII version" href="/uk/cases/UKUT/TCC/2017/340.html">[2017] UKUT 340 (TCC)</a>, paras 13-14.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Such a discretion also reflects the well-established proposition that
+removal of an advantageous trading status has a more serious impact on a
+business than refusal to grant the status in the first place. They cite the
+common law principle of proportionality as applied in the well-known case of <i>R
+v Barnsley Metropolitan Borough Council, Ex p Hook</i> [1976] 1 WLR 1052, 1057,
+where Lord Denning MR said:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[T]here are old cases which show
+that the court can interfere by certiorari if a punishment is altogether
+excessive and out of proportion to the occasion … It is quite wrong that the
+Barnsley Corporation should inflict upon [Mr Hook] the grave penalty of
+depriving him of his livelihood. That is a far more serious penalty than
+anything the magistrates could inflict. He is a man of good character, and ought
+not to be penalised thus …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the alternative, as in the courts below, they rely on A1/P1. As was
+accepted before the Court of Appeal, they submit that cancellation clearly
+involves an interference with the possessions represented by (at least) the
+sub-contractor’s entitlement to the full contract price or the bundle of rights
+inherent in registration. Although the article preserves the right of the state
+to enforce such laws as it deems necessary to secure the payment of tax, that
+is still subject to the requirement of proportionality. They rely on the words
+of Lord Phillips MR in <i>Lindsay v Customs and Excise Comrs</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2002/267.html">[2002] EWCA Civ 267</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2002/267.html">[2002] 1 WLR 1766</a>, para 52:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“…Under Article 1 of the First
+Protocol to the Convention such deprivation will only be justified if it is in
+the public interest. More specifically, the deprivation can be justified if it
+is ‘to secure the payment of taxes or other contributions or penalties’. The
+action taken must, however, strike a fair balance between the rights of the
+individual and the public interest. There must be a reasonable relationship of
+proportionality between the means employed and the aim pursued … I would accept
+[counsel’s] submission that one must consider the individual case to ensure that
+the penalty imposed is fair. However strong the public interest, it cannot
+justify subjecting an individual to an interference with his fundamental rights
+that is unconscionable.”</p>
+
+<p class="ParaNoNumber">They rely to the same effect on the necessary balance as
+described by Lord Reed in <i>Bank Mellat v Her Majesty’s Treasury (No 2)</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/39.html">[2014] AC 700</a>, para 74:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… whether, balancing the severity
+of the measure’s effects on the rights of the persons to whom it applies
+against the importance of the objective, to the extent that the measure will
+contribute to its achievement, the former outweighs the latter.”</p>
+
+<p class="ParaNoNumber">This it is submitted can only be done by assessing the
+severity of the consequences for the particular individual in question, even if
+the legislative scheme taken as a whole is proportionate.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For HMRC Mr Eadie QC generally supports the reasoning of the Court of
+Appeal. In respect of the Convention, he does not accept that cancellation
+involves an interference with a possession for the purposes of A1P1. The
+subcontractor’s right to payment of the contract price is in law subject to the
+limits imposed by the statutory scheme. Similarly, any benefits from
+registration flow from the statutory scheme and are subject to its conditions,
+including the risk of cancellation. He relies on the distinction drawn by the
+Strasbourg court in <i>JA Pye (Oxford) Ltd v United Kingdom</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2005/921.html">(2006) 43 EHRR 3</a> (the same point did not arise in the Grand Chamber: <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2007/5559.html">(2008) 46 EHRR 45</a>). At
+para 51 the court considered the circumstances in which a legislative provision
+is to be regarded as “an incident of, or limitation on, the applicants’
+property right at the time of its acquisition”. It explained:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… Article 1 does not cease to be
+engaged merely because a person acquires property subject to the provisions of
+the general law, the effect of which is in certain specified events to bring
+the property right to an end, and because those events have in fact occurred.
+Whether it does so will depend on whether the law in question is properly to be
+seen <i>as qualifying or limiting the property right at the moment of
+acquisition</i> or, whether it is rather to be seen as depriving the owner of
+an existing right at the point when the events occur and the law takes effect.
+It is only in the former case that article 1 may be held to have no application.”
+(Emphasis added)</p>
+
+<p class="ParaNoNumber">The present case, Mr Eadie submits, comes clearly into
+the former category. The power of cancellation for non-compliance is an
+intrinsic part of the “possession” from the moment of acquisition; its exercise
+cannot engage the article.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In any event, he submits, it is clearly within the wide margin allowed
+by the Convention in fiscal matters: see <i>Gasus Dosier-und Fördentechnik GmbH
+v Netherlands</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1995/7.html">(1995) 20 EHRR 403</a>, para 59. <i>National &amp; Provincial Building
+Society v United Kingdom</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1997/87.html">(1998) 25 EHRR 127</a>, para 80. The Strasbourg court
+has also made clear that the margin may extend to the adoption by the state of
+“general measures which apply to pre-defined situations regardless of the
+individual facts of each case even if this might result in individual hard
+cases”: <i>Animal Defenders International v United Kingdom</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2013/362.html">(2013) 57 EHRR 21</a>, para 106.</p>
+
+<p class="ParaHeading">Discussion</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Attractively though the appeal has been argued, I have no doubt that the
+Court of Appeal reached the right conclusion, substantially for the reasons
+they gave. Apart from the Convention, the company’s submission comes down to a
+short point: that is, given the existence of a discretion in section 66, it
+must in the absence of any specific restriction be treated as an unfettered
+discretion. That to my mind overlooks the basic principle that any statutory
+discretion must be exercised consistently with the objects and scope of the
+statutory scheme.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Like Henderson LJ, I cannot read the power as extending to matters
+“which do not relate, directly or indirectly, to the requirements for
+registration for gross payment, and to the objective of securing compliance
+with those requirements” (para 60). He rightly emphasised the highly
+prescriptive nature of the scheme. This starts with the narrowly defined
+conditions for registration in the first place, among which the record of
+compliance with the tax and other statutory requirements is a mandatory
+element, allowing no element of discretion. The same conditions are brought
+into the cancellation procedure by section 66. The mere fact that the
+cancellation power is not itself mandatory is unsurprising. Some element of
+flexibility may be desirable in any enforcement regime to allow for cases where
+the failure is limited and temporary (even if not within the prescribed
+classes) and poses no practical threat to the objectives of the scheme. It is
+wholly inconsistent with that tightly drawn scheme for there to be implied a
+general dispensing power such as implied by the company’s submissions.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning to A1/P1 I see force in Mr Eadie’s submission that, even
+accepting that rights conferred by registration amount to “possessions”, they
+cannot extend beyond the limits set by the legislation by which they are
+created. However, I find it unnecessary to rest my decision on that point,
+since I have no doubt that the Court of Appeal were right to hold that any
+interference was proportionate. Once it is accepted that the statute does not
+in itself require the consideration of the impact on the individual taxpayer,
+there is nothing in A1/P1 which would justify the court in reading in such a
+requirement. Registration is a privilege conferred by the legislation, which
+has significant economic advantages, but it is subject to stringent conditions
+and the risk of cancellation. The impact on the company is no different in kind
+from that which is inherent in the legislation. I agree entirely with Henderson
+LJ that the exercise of the power within the scope of the statutory framework
+comes well within the wide margin of appreciation allowed to the state for the
+enforcement of tax.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, I would dismiss the appeal.</a></p><a name="para24">
+
+</a></div><a name="para24">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/31.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

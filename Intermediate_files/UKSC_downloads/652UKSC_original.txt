@@ -1,0 +1,1548 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Revenue and Customs v Joint Administrators of Lehman Brothers International (Europe)  [2019] UKSC 12 (13 March 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Revenue and Customs v Joint Administrators of Lehman Brothers International (Europe)  [2019] UKSC 12 (13 March 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/12.html</i>
+<br>Cite as: 
+[2019] BTC 9,
+
+[2019] STI 705,
+
+[2019] Bus LR 927,
+
+[2019] WLR 2173,
+
+[2019] 1 WLR 2173,
+
+[2019] UKSC 12,
+
+[2019] BCC 720,
+
+[2019] 1 BCLC 609,
+
+[2019] STC 661,
+
+[2019] 2 All ER 559
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016007234/casereport_9de4850a-61ac-4afd-b8ef-2f9880f2aa83/html">[2019] Bus LR 927</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016007234/casereport_9f9142b3-4287-4582-9c31-4271204dedd6/html">[2019] 1 WLR 2173</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/12.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 12</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/2124.html">[2017] EWCA Civ 2124</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Commissioners
+  for Her Majesty’s Revenue and Customs (Respondent) <i>v</i> Joint
+  Administrators of Lehman Brothers International (Europe) (In Administration)
+  (Appellants)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">13 March 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 12 February 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="197" valign="top" style="width:147.95pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">David Goldberg QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="197" valign="top" style="width:147.95pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Malcolm Gammie CBE
+  QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Daniel Bayfield QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="197" valign="top" style="width:147.95pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Catherine Addy QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Linklaters
+  LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="197" valign="top" style="width:147.95pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by HMRC
+  Solicitor’s Office and Legal Services)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD BRIGGS: (<span style="text-transform:none">with whom
+Lord Reed, Lord Carnwath, Lord Hodge and Lady Black agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the relationship between two statutory provisions,
+one very old and the other very young. The old provision, which dates back to
+the inception of Income Tax during the Napoleonic Wars, but is now to be found
+in section 874 of the Income Tax Act 2007, requires a debtor in specific
+circumstances to deduct income tax from payments of “yearly interest” arising
+in the United Kingdom. The young provision, first made the subject of
+legislation in 1986 (and replacing previous judge-made rules) but now to be
+found in rule 14.23(7) of the Insolvency Rules 2016, requires a surplus
+remaining after payment of debts proved in a distributing administration first
+to be applied in paying interest on those debts in respect of the periods during
+which they had been outstanding since the commencement of the administration.
+The short question, which has generated different answers in the courts below,
+is whether interest payable under rule 14.23(7) is “yearly interest” within the
+meaning of section 874, so that the administrators must first deduct income tax
+before paying interest to proving creditors.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question arises in connection with the administration of Lehman
+Brothers International (Europe) (“LBIE”) which, although it commenced at a time
+when LBIE was commercially insolvent due to the worldwide crash of the
+international group of companies of which it formed an important part, has
+nonetheless generated an unprecedented surplus after payment of all provable
+debts, in the region of £7 billion, of which some £5 billion is estimated to be
+payable by way of statutory interest (before any deduction of income tax). LBIE
+went into administration on 15 September 2008. It became a distributing
+administration in December 2009. A final dividend was paid to unsecured proving
+creditors (bringing the total dividends to 100p in the pound) on 30 April 2014.
+After the coming into effect of a scheme of arrangement, interest slightly in
+excess of £4 billion was paid to creditors, after deduction of a sufficient
+amount on account of tax to abide the outcome of these proceedings, on 25 July
+2018. Thus the time which elapsed between the commencement of the
+administration and the payment of interest to creditors was slightly under ten
+years. The periods in respect of which interest was payable under rule 14.23(7)
+(and its predecessor) ranged from a little over four years (which expired when
+the first interim distribution to proving creditors was made in November 2012)
+and little over five and a half years, when the final dividend to creditors was
+made, as described above.</a></p><a name="para2">
+
+<p class="ParaHeading">Statutory Interest in Administration</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Rule 14.23(7) of the Insolvency Rules 2016, which replaced substantially
+identical provisions in rule 2.88(7) of the Insolvency Rules 1986, provides as
+follows:</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(7)&nbsp;&nbsp;&nbsp;&nbsp; In an administration -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any surplus remaining
+after payment of the debts proved must, before being applied for any other
+purpose, be applied in paying interest on those debts in respect of the periods
+during which they have been outstanding since the relevant date;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all interest payable
+under sub-paragraph (a) ranks equally whether or not the debts on which it is
+payable rank equally; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the rate of interest
+payable under sub-paragraph (a) is whichever is the greater of the rates
+specified under paragraph (6) and the rate applicable to the debt apart from
+the administration.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Rule 14.23(6) provides that the relevant rate of interest is that
+specified in section 17 of the Judgments Act 1838 (1 &amp; 2 Vict c 110), which
+was, at the material time, 8% per annum. The “relevant date” referred to in
+rule 14.23(7)(a) is the date upon which the company entered administration; see
+rule 14.1(3).</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>In re Lehman Brothers International (Europe) (in administration)
+(No 6)</i> [2015] EWHC Civ 2269 (Ch); </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2015/2269.html">[2016] Bus LR 17</a>, para 149, David
+Richards J said this about statutory interest payable under the predecessor of
+rule 14.23(7):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The right to interest out of a
+surplus under rule 2.88 is not a right to the payment of interest accruing due
+from time to time during the period between the commencement of the
+administration and the payment of the dividend or dividends on the proved
+debts. The dividends cannot be appropriated between the proved debts and
+interest accruing due under rule 2.88, because at the date of the dividends no
+interest was payable at that time pursuant to rule 2.88. The entitlement under
+rule 2.88 to interest is a purely statutory entitlement, arising once there is
+a surplus and payable only out of that surplus. The entitlement under rule 2.88
+does not involve any remission to contractual or other rights existing apart
+from the administration. It is a fundamental feature of rule 2.88, and a
+primary recommendation of the Cork Committee that all creditors should be
+entitled to receive interest out of surplus in respect of the periods before
+payment of dividends on their proved debts, irrespective of whether, apart from
+the insolvency process, those debts would carry interest.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, in the Court of Appeal </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/2124.html">[2018] Bus LR 730</a>, after
+citing that passage in full, Patten LJ continued, at para 16:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“There is no doubt at all that
+statutory interest, as David Richards J explained, is not a continuing
+liability which accrues from day to day on a prospective basis over the period
+to which it relates. It is paid, as I have said, as statutory compensation for
+the loss which the creditors have suffered by being kept out of their money for
+the period of the administration.”</p>
+
+<p class="ParaLevel1">I agree.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>In re Lehman Brothers International (Europe) (in administration)
+(Nos 6 and 7)</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/1462.html">[2017] EWCA Civ 1462</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/1462.html">[2018] Bus LR 508</a>, para 26, giving the
+judgment of the Court of Appeal, Gloster LJ said of the simple words of rule
+2.88(7), when aggregated with the following two paragraphs (all in
+substantially the same terms as are now to be found in rule 14.23, as set out
+above):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… this simple formula
+constitutes, in our view, a complete and clear code for the award of statutory
+interest on provable debts. As [<i>counsel</i>] put it, it contains all you
+need to know.”</p>
+
+<p class="ParaLevel1">In the present case, at first instance, Hildyard J said at
+para 16:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In my judgment, the statutory
+right to interest is <i>sui generis</i> and is not to be equated with a right
+to interest which accrues over time.”</p>
+
+<p class="ParaLevel1">Again, I agree with both those dicta (and was a party to
+the first of them).</p>
+
+<p class="ParaHeading">Yearly Interest under the Income Tax Legislation</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 874 of the Income Tax Act 2007 provides (so far as is relevant)
+as follows:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; This section applies if a
+payment of yearly interest arising in the United Kingdom is made -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by a company,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by a local authority,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by or on behalf of a
+partnership of which a company is a member, or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by any person to
+another person whose usual place of abode is outside the United Kingdom.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The person by or through
+whom the payment is made must, on making the payment, deduct from it a sum
+representing income tax on it at the basic rate in force for the tax year in
+which it is made.”</p>
+
+<p class="ParaLevel1">There is no definition of the phrase “yearly interest”
+anywhere in the 2007 Act. Nonetheless there is this deeming provision in
+section 874, added by Schedule 11 to the Finance Act 2013:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(5A)&nbsp; For the purposes of
+subsection (1) a payment of interest which is payable to an individual in
+respect of compensation is to be treated as a payment of yearly interest
+(irrespective of the period in respect of which the interest is paid).”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is unfortunately another case in which the full meaning of an
+apparently innocent-looking simple statutory phrase can only be addressed by
+reference to the historical deployment of that phrase, or equivalent phrases
+seeking to express the same concept, in early legislation.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Hildyard J set out in an Appendix to his judgment an admirable brief
+summary of the history of the statutory provisions about deduction of yearly
+interest, beginning with the introduction of income tax by Pitt’s Income Tax
+Act 1799 (39 Geo 3 c 13). In the present case, the main reason for needing an
+understanding of the statutory history is so that important decisions about the
+underlying concepts behind yearly interest can be reliably interpreted, by
+reference to the particular context of the use of the phrase in the statute
+then in force. As would appear, the earliest of those authorities was decided
+in 1854, and the latest in 1981.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The concept of “yearly interest” first appeared within the income tax
+legislation in section 208 of Addington’s Income Tax Act 1803 (43 Geo 3 c 122).
+It appeared as part of the phrase:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Annuities, yearly Interest of
+Money, or other annual Payments … whether the same shall be received and
+payable half-yearly, or at any shorter or more distant Periods.”</p>
+
+<p class="ParaLevel1">Section 208 both charged yearly interest to tax and
+authorised the payer to deduct an amount equal to the tax chargeable on the
+interest.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>When income tax was reintroduced by Sir Robert Peel in the Income Tax Act
+1842 (5 &amp; 6 Vict c 35), section 102 charged to tax:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Annuities, yearly Interest of
+Money, or other annual Payments.”</p>
+
+<p class="ParaLevel1">And, as in 1803, provided for deduction at source by the
+payer, where paid out of taxed profits or gains.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Deduction of yearly interest at source was continued in Gladstone’s
+Income Tax Act 1853 (16 &amp; 17 Vict c 34), by section 40, while Schedule D
+brought into charge:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“All Interest of Money, Annuities,
+and other annual Profits and Gains.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>From 1888 until 1965, a succession of provisions to substantially the
+same effect made it compulsory to deduct tax at source and to account for it to
+the Revenue where interest of any kind was not wholly paid out of taxed income,
+but permitted the deduction of tax at source and its retention in respect of yearly
+interest which was wholly paid out of taxed income. In relation to yearly
+interest, this enabled the interest payer to be compensated for the fact that
+yearly interest paid out was not deductible in computing his own taxable
+profits or gains. This dichotomy was, between 1918 and 1952, achieved by rules
+21 and 19 respectively of the General Rules Applicable to all Schedules of the
+Income Tax Act 1918 (“the 1918 Rules”). In short, rule 21 was about all types
+of interest, whereas rule 19 was concerned only with yearly interest. From 1952
+until 1965 this dichotomy was preserved by sections 169 (concerning yearly
+interest) and 170 (concerning interest of any kind) of the Income Tax Act 1952.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This dichotomy between the treatment of interest of any kind which is
+not paid out of profits or gains and yearly interest which is so made was
+progressively unwound, first for corporate taxpayers by the Finance Act 1965
+and then generally by the Finance Act 1969. The regime for deduction of tax on
+interest at source which has continued, without substantial change, from 1969
+is that set out in section 54 of the Income and Corporation Taxes Act 1970,
+then section 349(2) and (3) Income and Corporation Taxes Act 1988 and,
+latterly, section 874 of the Income Tax Act 2007. In summary, it provides only
+for the mandatory deduction at source of tax on yearly interest paid by
+companies as well as certain other categories of payers, or paid by any person
+to someone whose usual place of abode is outside the UK.</a></p><a name="para15">
+
+<p class="ParaHeading">The issues</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In order to make sense of what follows, it is convenient at this stage
+to provide a bare outline of what is and is not in issue, under the general
+question whether or not statutory interest payable by administrators out of a
+surplus is yearly interest. It has been common ground throughout this
+litigation that the payments are properly to be regarded as interest, not
+merely because they are so described in rule 14.23(7), but also within the
+meaning of the word as used in section 874(1). As will appear (and as the Court
+of Appeal concluded) that apparent concession by the administrators serves more
+to mask than to define the real issues.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The main thrust of the administrators’ submissions (by Mr David Goldberg
+QC and Mr Daniel Bayfield QC in this court although Mr Goldberg did not appear
+below) has been to contrast the characteristics which the authorities show are
+required for the classification of interest as yearly interest with those of
+interest payable from a surplus in administration. The required characteristics
+are that the interest should derive from a source with the requisite degree of
+permanence and durability over time, and that the interest should accrue due
+over a period intended, or at least likely to last for a year or more. By
+contrast, it is submitted, statutory interest payable from a surplus in
+administration has, as its source, first the emergence of a surplus and second
+the decision of the administrators that it is time to pay it. It does not
+accrue due over any significant or likely period of time. Rather it is simply
+payable out of that surplus once it has been ascertained and turned into money,
+usually (and as here) by a single payment of a lump sum to each qualifying
+creditor.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For HMRC it is submitted (by Mr Malcolm Gammie QC and Ms Catherine Addy
+QC) first, that it is unnecessary to identify a source for a statutory interest
+payment to qualify for deduction under section 874(1) and secondly, that it is
+not a requirement of yearly interest that it should accrue due over a period of
+time. Rather, the characteristic which satisfies the requirement that the
+interest should be yearly is that, once a surplus has been identified, the
+statutory interest is payable in respect of the period, commencing with the
+beginning of the administration, and ending with payment of the proving
+creditors’ debts in full, during which the creditors have been kept out of
+their money. If that period is, on the facts about a particular administration,
+in excess of a year, then the requirement for duration over time encapsulated in
+the word “yearly” is satisfied. Further, to the extent that the authorities
+made it a requirement that the source of the interest should be something in
+the nature of an investment, this was satisfied in relation to all LBIE’s
+creditors, and regardless of the basis of their claims admitted to proof,
+because they were involuntary long-term investors in LBIE by reason of the
+moratorium placed upon their claims by its administration.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At first instance, Hildyard J was persuaded that the absence of any
+accrual over time (prior to the identification of a surplus and its
+quantification after payment of all proved debts in full) was fatal to the
+categorisation of statutory interest as yearly interest. By contrast, the Court
+of Appeal could discern no requirement from the authorities that yearly
+interest should accrue due over time. Since it was compensation for the proving
+creditors being kept out of their money for a substantial time, the interest
+had the requisite long-term quality sufficient for it to be categorised as
+yearly.</a></p><a name="para19">
+
+<p class="ParaHeading">The Authorities</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The relevant authorities may broadly be divided into two groups. First,
+there are those which address the question whether interest which does accrue
+due over time is properly to be categorised as yearly interest or, in bankers’
+jargon, “short interest”. Secondly, there are those authorities which address
+the question whether an entitlement to money described as interest, but which
+does not accrue due over time, can properly be regarded as yearly interest, or
+indeed interest at all, within the meaning of the income tax legislation. This
+second group is mainly concerned with interest payable as a result of a
+judicial decision, either when granting an equitable remedy or when exercising
+a discretion to award interest under statute. As will appear, it is this second
+group of authorities which, in my view, provides the answer to the questions
+raised by this appeal, albeit only by analogy because, as the judge himself
+observed, statutory interest payable from a surplus realised in a distributing
+administration is <i>sui generis.</i> Nevertheless it is convenient to take the
+first (generally earlier) group of authorities first.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The earliest is <i>Bebb v Bunny</i> (1854) 1 K &amp; J 216. The question
+was whether interest contractually payable upon the late completion of a
+contract for the purchase of land was yearly interest of money within the
+meaning of section 40 of the Income Tax Act 1853, so that it was payable
+subject to deduction of tax, either by the purchaser or by the court, even if
+paid into court gross as the condition for a decree of specific performance
+against the vendor. In deciding that it was yearly interest, Sir William Page
+Wood V-C said, at pp 219-220:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The whole difficulty is in the
+expression ‘yearly’ interest of money; but I think it susceptible of this view,
+that it is interest reserved, at a given rate per cent per annum; or, at least,
+in the construction of this Act, I must hold that any interest which may be or
+become payable <i>de anno in annum</i>, though accruing <i>de die in diem</i>,
+is within the 40th section. I cannot make any solid distinction between
+interest on mortgage money and interest on purchase-money. … I consider the Act
+very singularly worded, yearly interest being used apparently in the same sense
+as annual payments; but I am clearly of opinion that it means at least all
+interest at a yearly rate, and which may have to be paid<i> de anno in annum</i>;
+such as interest on purchase-money, as well as mortgage interest; and that,
+therefore, the purchaser is entitled to deduct the tax in this case.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The reference to mortgage money, by way of analogy, becomes intelligible
+when it is understood that the drafting practice of the time was typically to
+make mortgage loans repayable, with interest, on a fixed date, usually less
+than a year after the making of the advance, even if the parties’ expectation
+was that the mortgage would endure for much longer, before redemption, with
+interest being payable periodically in the meantime. As the Vice Chancellor put
+it, at p 218:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Most mortgage deeds contain only
+a covenant to pay the principal, with interest at a certain rate per annum, on
+a day certain. After that it accrues <i>de die in diem</i>, and the interest,
+without any particular reservation, ordinarily is received half-yearly, from
+year to year. It is difficult to see the distinction between interest so
+reserved and paid, and that which by special agreement accrues on
+purchase-money, which also goes on from day to day, and may run on for a year
+or stop at any time on payment of the purchase money, and which, in some shape
+or other, forms a lien on the property.”</p>
+
+<p class="ParaLevel1">Thus it was the propensity, rather than the intention or
+inevitability, for interest payable during a period of delayed completion to
+run on for more than a year which made it yearly interest, even though in many
+cases the delay in the completion of the purchase might well be much shorter.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The potentially very wide interpretation of yearly interest in <i>Bebb v
+Bunny</i> was, in a series of later cases, significantly curtailed, albeit that
+in none of them was the decision held to have been wrong. On the contrary, it
+has remained the leading case. <i>Goslings &amp; Sharpe v Blake </i>(1889) 23 QBD
+324 was about a three months’ bankers loan, repayable with interest on a fixed
+date, interest being calculated by reference to a<b><i> </i></b>rate per annum,
+an example of what Lindley LJ called, at p 330: “short loans by bankers”. It
+establishes two principles relevant to the question whether interest is yearly
+interest (then within the meaning of section 40 of the Income Tax Act 1853).
+The first is that interest is not yearly interest merely because it is
+calculated by reference to a rate per annum: see per Lord Esher MR, at p 328.
+Secondly it establishes that the question whether the interest is “yearly” or
+“short” depends upon a business-like rather than dry legal assessment of its
+likely duration. At p 330, speaking of the mortgage example used in <i>Bebb v
+Bunny</i>, Lindley LJ said:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The difficulty is not lessened by
+the circumstance that most mortgages are loans for six months. The ordinary
+form of mortgage contains a covenant to repay the loan in six months, and if
+not then paid a covenant to pay interest until the loan is repaid. Those are
+short loans; but in fact, as men of business, we know perfectly well that,
+except in exceptional cases, money lent on mortgages is very seldom repaid at
+the end of six months, the mortgagee usually being content with his security
+and receiving his interest half-yearly. … In point of business, therefore, a
+mortgage is not a short loan; but a banker’s loan at three months is a totally
+different thing. That is a short loan, it is intended and understood to be a
+short loan, and the difference in practice between the two is perfectly well
+known to every business man.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first relevant case about whether statutory (rather than
+contractual) interest can be yearly interest is <i>In re Cooper</i> </a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpKQB/1911/118.html">[1911] 2 KB 550</a>, in which objection was taken to the supposed failure of a judgment creditor
+to deduct tax from statutory interest due on the judgment relied on in a
+bankruptcy notice served on the judgment debtor. That depended upon whether the
+interest was yearly interest. In deciding that interest payable on a judgment
+debt under the Judgment Act was not yearly interest Cozens-Hardy MR said this,
+at p 553:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The words ‘yearly interest’ are
+satisfied although the interest be not payable yearly but be payable quarterly
+or half-yearly, and further, as in the case of a mortgage, although the money
+is covenanted to be paid six months after date in the ordinary course of a
+mortgage, the court treats that as being a transaction to the knowledge and the
+reasonable intendment of all parties, upon which yearly interest was payable in
+the understanding and contemplation of all parties, <i>it being really in the
+nature of an investment</i>.”(my emphasis)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He continued:</a></p><a name="para25">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Now in the present case I ask
+myself is it possible to suppose that this was a transaction in which anybody
+contemplated or intended anything permanent? It is quite impossible so to
+regard it.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At first blush, this decision of the Court of Appeal might appear to
+suggest that statutory interest could never be yearly interest because it arose
+otherwise than pursuant to any agreement, transaction or common intention of
+the parties. Subsequent cases have shown that this is not so but the concept of
+addressing the yearly interest question by reference to a perception whether
+the source of the interest can properly be regarded as a form of investment has
+survived. A negative answer to that question in relation to statutory interest
+from a surplus in administration formed a major plank in the administrators’
+submissions.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A question deliberately left open in the <i>Goslings </i>case was
+whether interest on a short loan could nonetheless become yearly interest if
+the loan was left outstanding for more than a year. In <i>Gateshead Corpn v
+Lumsden</i> </a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpKQB/1914/72.html">[1914] 2 KB 883</a> the plaintiff local authority had become entitled
+against the owners (including the defendant) of premises fronting a street
+which it had paved and made up, to a proportion of its costs, plus interest at
+5% per annum. Although the Corporation had no settled practice of allowing
+these statutory debts to remain outstanding for periods of more than a year, it
+did so in relation to the defendant, who made payments on account of interest
+and capital from time to time. The Court of Appeal rejected a submission that
+the Corporation’s forbearance converted interest into yearly interest within
+the meaning of section 40 of the 1853 Act. Applying the principle which he
+extracted from <i>In re Cooper</i>, Lord Sumner said, at pp 889-890:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… applying the principle
+underlying that decision, I am unable to see how the words ‘yearly interest’
+can apply to this transaction. There is no agreement for a short loan or a long
+loan. The debt is due and repayment is not enforced; only in that sense is
+there a loan. Truly speaking there is simply a forbearance to put in suit the
+remedy for a debt. The repayment might have been enforced at any moment. The
+debt might have been paid by the debtor at any moment.”</p>
+
+<p class="ParaLevel1">Lord Sumner was careful to put on one side any case in
+which it might be established that the local authority had a settled practice
+of leaving statutory debts for street improvements outstanding for substantial
+periods of time. But the decision is good authority for the proposition that
+mere forbearance by a creditor who is entitled to statutory interest on a debt
+which is immediately due and payable does not bring that statutory interest
+within the confines of yearly interest. It serves as a caution against treating
+the words of Sir William Page Wood V-C in <i>Bebb v Bunny</i> (quoted above) as
+meaning that the mere possibility that a stream of interest may endure for more
+than a year is sufficient in all cases to make it yearly interest.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The investment test first enunciated in <i>In re Cooper</i> gains force
+from the analysis of Rowlatt J in <i>Garston Overseers v Carlisle</i> [1915] 3
+KB 381. Persons claiming to be charitable trustees enjoyed a long-standing
+arrangement with their bankers whereby credits on current accounts generated
+interest. The question was whether that was yearly interest within section 105
+of the Income Tax Act 1842, qualifying for deduction at source. By concession,
+that phrase in section 105 was treated as having the same meaning as in section
+40 of the Income Tax Act 1853. Referring to the case law on section 40, Rowlatt
+J said this, at p 386:</a></p><a name="para28">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The broad result of the decisions
+in those cases is, I think, that yearly interest means, substantially, interest
+irrespective of the precise time in which it is collected, interest on sums
+which are outstanding by way of investment as opposed to short loans or as
+opposed to moneys presently payable and held over or anything of that kind.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He continued, at p 387:</a></p><a name="para29">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“They (<i>the overseers</i>) are
+to levy rates as far as they can for their current expenditure. However, they
+must necessarily keep a small balance in hand, and they get interest upon it
+under the arrangements which the bank were willing to make. It is no doubt
+contemplated that the balance will continue for a long time; but what is the
+daily balance? It is not even a short loan; it is merely money at call, money
+payable on demand.”</p>
+
+<p class="ParaLevel1">Since those temporary balances could not be described as
+investments, the interest payable was not yearly interest.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>An attempt to reduce this jurisprudence to a concrete set of useful
+propositions was made by Lord Anderson, sitting in the Inner House (Second
+Division) of the Court of Session in <i>Inland Revenue Comrs v Hay</i> (1924)
+VIII TC 636 at 646. The case was about yearly interest within the meaning of
+section 27(1)(b) of the Income Tax Act 1918, but it was, again, common ground
+that the phrase had the same meaning as was under consideration in all the
+earlier cases, beginning with <i>Bebb v Bunny</i>. Lord Anderson said this:</a></p><a name="para30">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Now the authorities referred to
+by Crown Counsel seem to me to establish these propositions, five in number: -
+(First), that interest payable in respect of a short loan is not yearly
+interest (<i>Goslings </i>…). … (Second) that in order that interest payable
+may be held to be yearly interest in the sense of the Income Tax Acts, the loan
+in respect of which interest is paid must have a measure of permanence.
+(Third), that the loan must be of the nature - and this is pretty well
+expressing the second proposition in another form - that the loan must be of
+the nature of an investment (<i>Garston Overseers)</i>. (Fourth), That the loan
+must not be one repayable on demand (<i>Gateshead Corpn </i>…). And (fifth)
+that the loan must have a ‘tract of future time’ (per Lord Johnston in <i>Scottish
+North American Trust Ltd</i>, 1910 Session Cases 966, 973)<i>. </i>These propositions
+are perhaps one proposition expressed in different forms, but they are the
+result of the authorities.”</p>
+
+<p class="ParaLevel1">I will refer these tests as “the <i>Hay</i> tests”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Some further support for the pre-eminence of the investment test is to
+be found in the judgment of Lord Denning MR in <i>Corinthian Securities Ltd v Cato</i>
+[1970] 1 QB 377, at 382-383. After referring to <i>Inland Revenue Comrs v Hay</i>,
+he continued:</a></p><a name="para31">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The words ‘short loan’ are not
+used in the statute: it is a mistake to place too much emphasis on them. The
+real question is whether the interest payable is ‘yearly interest of money’.
+Interest is ‘yearly interest of money’ whenever it is paid on a loan which is
+in the nature of an investment no matter whether it is repayable on demand or
+not.”</p>
+
+<p class="ParaLevel1">After reviewing the <i>Goslings</i> case he continued:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Looking at the agreement in this
+case, it is plain to me that this loan was made as an investment. Although
+payable on demand, it was unlikely that any demand would be made so long as the
+interest payments were kept up. It was a loan on the security of property,
+indistinguishable in principle from an ordinary loan or mortgage. The interest
+was ‘yearly interest of money’.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Some cold water was cast upon the investment test by Sir John Donaldson
+MR in <i>Cairns v MacDiarmid</i> [1983] STC 178, at 181, as follows:</a></p><a name="para32">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is well settled that the
+difference between what is annual and what is short interest depends on the
+intention of the parties. Thus interest payable on a mortgage providing for
+repayment of the money after six months, or indeed a shorter period, will still
+be annual interest if calculated at a yearly rate and if the intention of the parties
+is that it may have to be paid from year to year <i>(Bebb v Bunny … Corinthian
+Securities Ltd v Cato …)</i>. I would personally wish to avoid the use of the
+term ‘investment’ as providing any sort of test in the context of whether
+interest is annual interest, notwithstanding its use in the latter case,
+because it is possible to have a short term and indeed a very short term
+investment, eg overnight deposits, and such an investment does not involve any
+annual interest, regardless of whether the interest is calculated at an annual
+rate.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That was a case in which it had been found that the loan was never
+intended to last for more than a few days, although there was an entitlement to
+postpone repayment for two years. It had, as intended, been discharged within a
+week, by novation. In my view the difference in approach to the use of
+investment as a test between that case and those which preceded it has more to
+do with changes in what the financial world regards as an investment than with
+any change in the underlying tax law. I consider that the <i>Hay</i> tests
+remain the best convenient summary of the jurisprudence about the meaning of
+yearly interest, in the context of interest which accrues due over time,
+whether purely contractual or statutory in origin.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I turn now to the second group of cases, all of which were concerned
+with interest payable after the event (and usually in one lump sum) as
+compensation for the payee being kept out of money or property during some
+earlier period. The common characteristic of these cases, shared with this
+case, is that the interest does not accrue due during the period in question.
+Rather, it is awarded after the period has ended, as compensation relating to
+that earlier period. Taking them chronologically, the first is <i>Barlow v
+Inland Revenue Comrs</i> (1937) 21 TC 354. In 1923 the appellant, who was a
+trustee of settlements in favour of his children, realised the trust
+investments and reinvested the proceeds in his own name in unauthorised
+securities which subsequently fell in value. Recognising that he acted in
+breach of trust, by a deed made in March 1930 he covenanted to pay his fellow
+trustees an amount equivalent to the proceeds of the realisation in 1923,
+together with compound interest at 5% per annum from the date of realisation
+until 1 January 1930. Finlay J, on appeal from the Special Commissioners, held
+that the interest element in the lump sum agreed to be paid by the deed was
+yearly interest. Following <i>Vyse v Foster</i> (1872) LR 8 Ch App 309 and <i>Inland
+Revenue Comrs v Barnato</i> [1936] 2 All ER 1176, he held that where a trustee
+agrees to pay principal and interest in respect of his breach of trust in
+relation to a period in the past, the interest element is properly to be
+regarded as interest (rather than damages) because the beneficiary has a right to
+elect between interest and an account of profits in respect of the period
+during which the trust property was mis-applied. He held that it was yearly
+interest on the basis that it fell clearly within the definition as explained
+in <i>Bebb v Bunny</i>. Although he did not say so in terms, this must have
+been because of the lengthy period of over six years prior to the March 1930
+deed in respect of which the trustee had been accountable.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the famous litigation known as <i>Regal Hastings v Gulliver</i> the
+House of Lords had, in an order made in February 1942 </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1942/1.html">[1967] 2 AC 134</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1942/1.html">[1942] 1 All ER 378</a>, found that the defendant directors were liable to account to their
+company for a profit made by them in 1935 from the use of information which
+they held as fiduciaries. Interest at 4% per annum was ordered to be paid from
+the dates in October and December 1935 when the defendants had made the
+relevant profits. In March 1942 the defendants paid what they regarded as owing
+to the company including interest, but they deducted income tax on the interest
+element. Cassels J held (1944) 24 ATC 297, that this was yearly interest,
+deductible either under rule 19 or under rule 21 of the 1918 Rules. Although
+rule 21 related to interest of all kinds, rule 19 related only to yearly
+interest. The outcome was therefore much the same as it had been in the <i>Barlow</i>
+case save that, whereas the trustee in that case had volunteered an account
+including interest to the beneficiary, the liability of the defendant trustees
+in <i>Regal Hastings v Gulliver</i> had only been ascertained, after lengthy
+litigation, in the House of Lords. It was sufficient for Cassels J’s decision
+that the interest was yearly interest that it had been paid in respect of a
+period of accountability of some six and a half years, so that cases such as
+the<i> Gosling</i> case were plainly distinguishable.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The next, and most important case, is <i>Riches v Westminster Bank Ltd</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1947/TC_28_159.html">[1947] AC 390</a>. Section 3(1) of the Law Reform (Miscellaneous Provisions) Act
+1934 provides that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In any proceedings tried in any
+court of record for the recovery of any debt or damages, the court may, if it
+thinks fit, order that there shall be included in the sum for which judgment is
+given interest at such rate as it thinks fit on the whole or any part of the
+debt or damages for the whole or any part of the period between the date when
+the cause of action arose and the date of the judgment.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This discretion applies, as Viscount Simon said at p 397, regardless
+whether there is or is not a contractual right to interest which underlies the
+cause of action. He said that:</a></p><a name="para37">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The added amount may be regarded
+as given to meet the injury suffered through not getting payment of the lump
+sum promptly, but that does not alter the fact that what is added is interest.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At p 398 he addressed a submission to the effect that an order for
+interest under section 3 could not be interest within the meaning of the Income
+Tax Acts because the added sum only came into existence when the judgment was
+given and from that moment had no accretions under the order awarding it.
+Viscount Simon said:</a></p><a name="para38">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“But I see no reason why, when the
+judge orders payment of interest from a past date on the amount of the main sum
+awarded (or on a part of it) this supplemental payment, the size of which grows
+from day to day by taking a fraction of so much per cent per annum of the
+amount on which interest is ordered, and by the payment of which further growth
+is stopped, should not be treated as interest attracting income tax. It is not
+capital. It is rather the accumulated fruit of a tree which the tree produces
+regularly until payment.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Addressing the submission that the payment under section 3 was, however
+described, in truth damages, Lord Wright said, at pp 399-400:</a></p><a name="para39">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The appellant’s contention is in
+any case artificial and is in my opinion erroneous because the essence of
+interest is that it is a payment which becomes due because the creditor has not
+had his money at the due date. It may be regarded either as representing the
+profit he might have made if he had had the use of the money, or conversely the
+loss he suffered because he had not that use. The general idea is that he is
+entitled to compensation for the deprivation.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Later, at p 403, he said:</a></p><a name="para40">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It was said that the sum in
+question could not be interest at all because interest implies a recurrence of
+periodical accretions, whereas this sum came to existence <i>uno flatu </i>by
+the judgment of the court and was fixed once for all. But in truth it
+represented the total of the periodical accretions of interest during the whole
+time in which payment of the debt was withheld. The sum awarded was the
+summation of the total of all the recurring interest items.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Simonds addressed the same submission at p 410 as follows:</a></p><a name="para41">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It was further urged on behalf of
+the appellant that the interest ordered to be paid to him was not ‘interest of
+money’ for the purpose of tax because it had no existence until it was awarded
+and did not have the quality of being recurrent or being capable of recurrence.
+This argument was founded on certain observations of Lord Maugham in <i>Moss
+Empires Ltd </i><i>v Inland Revenue Comrs </i>[1937] AC 785, 795, in regard to
+the meaning of the word ‘annual’. It would be sufficient to say that we are
+here dealing with words in the Income Tax Act which do not include either ‘annual’
+or ‘yearly’, but in any case I do not understand why a sum which is calculated
+upon the footing that it accrues de die in diem has not the essential quality
+of recurrence in sufficient measure to bring it within the scope of income tax.
+It is surely irrelevant that the calculation begins on one day and ends on
+another. It is more important to bear in mind that it is income.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 1947 the income tax treatment of interest was still subject to the
+dichotomy described in paras 14-15 above. Tax on interest of any kind had to be
+deducted at source if not wholly paid out of taxed income, pursuant to rule 21
+of the 1918 Rules. By contrast, rule 19 permitted the deduction (and retention)
+of tax at source where yearly interest was paid wholly out of taxed income. The
+<i>Riches</i> case was about rule 21 rather than rule 19 but the interest
+awarded under section 3 of the 1934 Act represented interest from June 1936
+until May 1943, being the period since the arising of the cause of action
+during which the plaintiff had been kept out of his money. As Patten LJ
+observed in the present case (at para 54, referring back to para 25), the
+passage in Lord Simonds’ speech quoted above suggests that he would have
+regarded the statutory interest awarded in that case as both interest and
+yearly interest for the purposes of the Income Tax Acts. This is because he
+regarded the payment of a single lump sum by way of interest after the event,
+referable to an earlier period for which the claimant needed compensation for
+being kept out of his money, as having the requisite quality of recurrence.
+Recurrence over seven years is plainly sufficient for that purpose.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Jefford v Gee</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1970/8.html">[1970] 2 QB 130</a> was another case about an award of
+interest under section 3 of the 1934 Act. The award was made in June 1969 by way
+of addition to damages for personal injuries incurred by the plaintiff in a
+motor accident in November 1966. It therefore compensated the claimant for
+having been kept out of his money for some two and a half years. At p 146,
+addressing the principles applicable to an award of interest in personal injury
+cases under section 3 of the 1934 Act, Lord Denning MR said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Interest should not be awarded as
+compensation for the damage done. It should only be awarded to a plaintiff <i>for
+being kept out of money</i> which ought to have been paid to him.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Later, under the heading <i>Tax</i>, at p 149, he continued:</a></p><a name="para44">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para44">“When the court awards interest on
+debt or damages for two, three or four years, the interest is subject to tax
+because it is ‘yearly interest of money’: see <i>Riches v Westminster Bank</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1947/TC_28_159.html">[1947] AC 390</a>.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It has been suggested (for example by Hildyard J at para 71(2) of his
+judgment) that Lord Denning MR may have failed to appreciate that the <i>Riches</i>
+case was about “interest” rather than “yearly interest”. In my view this
+ignores Lord Denning MR’s reference to the period of “two, three or four years”
+in respect of which interest is awarded. He was entitled to conclude that, even
+if the <i>Riches </i>case only established that the relevant payments were
+interest for tax purposes, they were nonetheless yearly interest because of the
+historical period of several years in respect of which the lump sum award of
+interest was made.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Chevron Petroleum (UK) Ltd v BP Petroleum Development Ltd </i>[1981]
+STC 689 is about the interest element in rolled-up payments by way of
+contribution to expenses in a joint venture agreement for the exploitation of
+the Ninian oilfield in the North Sea. The participants made payments against the
+expenditure in accordance with their expected share of the production.
+Provision was made for each participating group’s share to be adjusted in the
+light of later experience of actual production. After an accounting which added
+interest to the amounts expended, the participants were credited or debited
+with the differences between their contributions on account and their adjusted
+contribution liability. Thus the liability to make payments against debits was
+contingent upon share adjustments pending final calculations, and the interest
+element in them related to periods of time which had passed before any payment
+liability fell due. Nonetheless Sir Robert Megarry V-C held that the interest
+element was yearly interest, and therefore subject to deduction at source. He
+said, at p 696:</a></p><a name="para46">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I cannot see why the contingency
+should deprive the so-called ‘interest’ of the quality of being true interest.
+If X lends £100<i> </i>to Y, the loan to carry interest at 10% per annum, why
+should a provision for repayment and interest to be waived in certain events,
+or for repayment with interest to be made only in certain events, prevent the
+interest from being true interest if in the event it becomes payable?”</p>
+
+<p class="ParaNoNumber">Later, at pp 696-697, commenting upon the <i>Riches</i>
+case and interest awarded under section 3 of the 1934 Act, he continued:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Although the obligation to pay
+interest was created by the judgment, the award was made on the basis that the
+defendant ought to have paid the money sued for at an earlier date and had not
+done so. The interest awarded was interest in respect of the plaintiff having
+been wrongfully kept out of the money: ... That was not so in the present case,
+where the operating parties had duly paid all that was due from them under the
+contract at the time when it was due.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">I do not think that this point,
+or, indeed, any other point, suffices to distinguish the <i>Riches </i>case. If
+a contract (eg with a builder) provides for specified payments to be made on
+account of the final liability, and for interest at a specified rate to be paid
+on any balance when the final accounts have been agreed, the fact that all the
+specified payments on account were punctually made does not, it seems to me,
+prevent the interest payable on the balance from being truly ‘interest’.”</p>
+
+<p class="ParaHeading">Analysis</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The statutory interest in the present case shares many of the relevant
+features with the contractual provision for interest in the <i>Chevron </i>case.
+In both cases it cannot be known during the period in respect of which interest
+is calculated whether it will in fact be payable at all. In the <i>Chevron </i>case
+liability depended upon an adjustment of participants’ shares made in the light
+of actual production, after the relevant expenditure was incurred, which
+increased rather than reduced the relevant participant’s share of the liability
+to fund expenses. In this case it depends upon the realisation of a surplus
+after payment of proving creditors’ claims in full, necessarily after the
+commencement of the administration and indeed after the end of the period in
+respect of which interest is calculated, which ends upon payment of the
+creditors’ debts. In both cases there is no liability to pay interest during
+the period in respect of which it is calculated. In both cases the interest is
+not itself payable over a period of time. It is rolled up and payable in a
+single lump sum. In short the interest is not an income stream, payable over a
+period of a year or more, but it is nonetheless income rather than capital, as
+the Vice Chancellor was at pains to emphasise, at p 696.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>More generally the relevant features of the interest in this case have
+much more in common with the second group of cases about statutory interest
+under section 3 of the 1934 Act, and about interest ordered or agreed to be paid
+by a trustee or fiduciary in respect of a past loss or misapplication of trust
+property than they have with the first group of cases about interest accruing
+due and payable immediately, or over time, beginning with <i>Bebb v Bunny.</i>
+This is not because the interest is statutory rather than contractual. There
+are examples of each in both groups. It is first because in none of the second
+group is the interest actually due and payable during the period by reference
+to which it is calculated, nor can it be said with certainty during that period
+that it ever will become due. But the interest is nonetheless payable, after
+the event, as a form of compensation for the recipients being in some way out
+of their money during the period in respect of which it is calculated. In the
+cases about interest under the 1934 Act the recipients are (usually)
+compensated for that loss during the period when they have a cause of action
+for debt or damages, until a judgment gives them an enforceable right to
+payment. In the trust cases the beneficiary is compensated by payment of
+interest for the loss (if any) represented or caused by the trust fund being
+out of the monetary value of the trust property lost or misappropriated by the
+trustee, until the trustee accounts and pays that sum back into the trust fund.
+In the <i>Chevron </i>case the payment of interest by the participants who
+later incurred an increased contribution share compensated those participants
+who, in the light of production experience, turned out to have paid more than
+their fair share of the cost of generating it.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, as Mr Goldberg was at pains to emphasise, it cannot
+generally be said from the commencement of an administration whether there will
+ever be generated a surplus out of which statutory interest will become
+payable. Such surpluses are in fact very rare indeed. It may be that, during
+that period, the process of asset recovery by the administrators will make a
+surplus more likely, but even then its amount and the timing of any interest
+payment will all depend upon countless contingencies, including (in this case)
+long drawn out litigation about the amount of creditors’ claims. Statutory
+interest is never due until after all proving creditors have been paid in full.
+There is always a risk that an administration will be followed by a winding up,
+with unfortunate (and probably unforeseen) consequences upon the availability
+of interest under rule 14.23, even if there is a surplus: see <i>In re Lehman
+Brothers International (Europe) (in administration) (No 4)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/38.html">[2018] AC 465</a>
+per Lord Neuberger of Abbotsbury, at paras 117 to 121. Nonetheless, as rule
+14.23 makes clear in the plainest terms, the interest once paid compensates
+proving creditors for being kept out of their proved debts from the
+commencement of the administration (which prevents them seeking any other form
+of recovery), until they are actually paid.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50">50.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Goldberg sought to distinguish the trust cases on the basis that,
+pursuant to <i>Vyse v Foster</i>, a beneficiary had an enforceable right to
+interest from the moment when the trust property was lost or misapplied. For
+the reasons given by Patten LJ in the Court of Appeal, at paras 45 to 50, based
+upon <i>Target Holdings Ltd v Redferns </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1995/10.html">[1996] AC 421</a><i>, </i>this is not
+the correct analysis of the basis upon which the court awards interest in
+equity. It is discretionary, like interest under the 1934 Act, even though the
+discretion may be exercisable in accordance with well-settled principles.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51">51.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is true, as the administrators submitted, that some of the second
+group of cases were primarily concerned with the question whether payments
+described as interest were truly interest at all for income tax purposes,
+rather than whether they were yearly interest. In the <i>Riches </i>case this
+was because the question arose under a provision in the 1918 Rules relating to
+all types of interest. In <i>Jefford v Gee</i> it may be that Lord Denning MR
+was not overly concerned with whether the interest was yearly or not, although
+he certainly took notice of the fact that the plaintiff had been out of his
+money for several years. In the <i>Chevron</i> case the contrary argument was
+that the element in the rolled-up payment described as interest was not
+interest at all. There may have been no dispute that, if it was, it was yearly
+interest. By contrast in the present case it has been common ground throughout
+that statutory interest under rule 14.23 is interest for the purposes of income
+tax.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But those cases nonetheless provide the answer to the conundrum: what
+period of durability is to be identified for interest payable in a single lump
+sum as compensation for the payee being out of the money in the past, for the
+purpose of deciding whether it is to be treated as yearly interest, under the <i>Hay
+</i>principles? The simple answer, supplied by all the second group of cases,
+is that it is the period in respect of which the interest is calculated,
+because that is the period during which the loss of the use of money or
+property has been incurred, for which the interest is to be compensation.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appears also to have been the assumption made by the drafter of
+what is now section 874(5A), quoted above. It deems payment of interest to an
+individual in respect of compensation to be yearly interest “irrespective of
+the period in respect of which the interest is paid”. This suggests that, but for
+the deeming provision (introduced, so the court was told, to deal with
+compensation for mis-selling of Payment Protection Insurance), the question
+whether the interest would or would not have been yearly interest would have
+depended upon the duration of the period in respect of which the compensatory
+interest was calculated.</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It may of course be said that this approach has nothing to do with the
+intentions of the payer and the payee, and that, for most of the relevant
+period it will not be known when it will end, or whether interest as
+compensation for that loss will ever be paid. This is true of all the second
+group of cases, just as in the present case. But this gives rise to no relevant
+uncertainty. The payer will always know what that period is by the time that
+the interest becomes due and will be able to deduct tax or pay gross
+accordingly. In the case of interest under the 1934 Act the judge is required
+to identify the period. In the trust cases the order for payment of interest
+will also be by reference to a defined period. In the present case the period
+is fixed by the date of commencement of the administration and the date (or
+dates) upon which the proving creditors are paid their debts.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I must finally address the group of submissions deployed by the
+administrators under the heading “source”. These were not deployed with any
+prominence in, or at least addressed by, the Court of Appeal, but they were
+advanced at the forefront of Mr Goldberg’s submissions in this court. The
+argument goes like this. Income Tax is, and always has been, levied by
+reference to the source of the relevant income. The only source from which
+interest under rule 14.23 can be said to derive, apart from the statutory
+provision itself, is the combination of a realised surplus and a decision by
+the administrators that it is time to pay it. Those elements cannot, either
+singly or together, be said to have the quality of durability over time
+sufficient to make the interest yearly interest for income tax purposes,
+applying the <i>Hay </i>tests. They are unpredictable, liable to evaporate in
+the event of a winding up, will generally not have existed for a year before
+payment, and cannot be regarded as being in the nature of an investment. The
+period of time in respect of which the statutory interest is calculated cannot
+itself be regarded as a source of the interest. If there has to be a search for
+any source of the statutory interest other than the surplus and the decision to
+pay, it can only be the contractual debts owed by LBIE to its creditors at the
+moment when it went into administration, but those debts were mainly short term
+in nature, lacking the requisite capacity to generate yearly interest.
+Furthermore for income to be taxable at all the source has to be in existence
+at the time when the income becomes due and payable. Neither those contractual
+debts, nor the provable debts which replaced them from the commencement of the
+administration, remained in existence when the statutory interest became
+payable. They had all by then been discharged by payment in full.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The short answer to this submission is that, if it were correct, all the
+second group of cases would have been wrongly decided. In none of them did the
+interest under review have a source in the sense of some kind of durable
+investment. In the equity cases the beneficiaries received interest by way of
+compensation for part of their trust fund being lost or misappropriated. In the
+cases under the 1934 Act the plaintiffs were being compensated for the delayed
+payment of damages, in one case for the pain and suffering occasioned by a
+broken leg which had no doubt healed long before the interest became due. In
+the <i>Chevron</i> case one group of joint venturers were in substance being
+compensated, long after the event, for having contributed more than their fair
+share of the expenses.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the flaws in the submission are more fundamental than that. First,
+the obligation to deduct tax from interest under section 874 does not depend at
+all upon the question whether the interest is taxable in the hands of the
+recipient. If the payment is yearly interest, and the payers (or the
+circumstances) qualify, for example because the payer is a company, or the
+usual place of abode of the recipient is offshore, then tax must be deducted.
+There is no requirement to identify a source at all, in the case of statutory
+or other UK interest. At the most it may be said that the first group of cases
+can loosely be characterised as involving an examination of the source of the
+interest as part of the inquiry about whether the income in question was
+“yearly interest of money”.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, it is artificial to regard the source of statutory interest as
+having anything to do with the realisation of the surplus, still less the
+decision of the administrators to pay it, even though the combination of those
+two factors may be said to have been the immediate cause of the interest
+becoming payable. Of course the interest may be said to derive from the
+surplus, in the sense of constituting the fund from which it came, but the
+concept of source in that literal sense had nothing whatever to do with the
+characterisation of the payments as yearly interest in any of the second group
+of cases or, for that matter, even in the first group. As for the decision of
+the administrators to pay, this broadly equates with the exercise of a judicial
+discretion, both in the equity cases and those under the 1934 Act. To the
+limited extent that it may be said to render the right to payment contingent,
+it is a much less formidable contingency than the exercise of judicial
+discretion. In truth the administrators have no real discretion at all.</a></p><a name="para58">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, to the extent that it is instructive to look for a source of
+the statutory interest under rule 14.23, the obvious candidate is the status of
+the recipient as a proving creditor during the period between the commencement
+of the administration until payment of the principal amount by dividend. That
+is a statutory status created by the insolvency code laid down by the
+Insolvency Act and Rules, which (as we now know) replaces the creditor’s former
+contractual rights at the commencement of the administration. It precisely
+coincides with the period in respect of which the statutory interest is
+calculated and, for the reasons given above, amply fulfils the necessary quality
+of durability over time.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, if it were necessary to do so, I would regard the status of a
+proving creditor in a distributing administration as having the requisite
+character of being an investor, albeit an unwilling and involuntary one. It is
+no mere irony that LBIE’s unsecured debt has, during that last ten years,
+turned out to be a very satisfactory long-term investment, generating interest,
+payable in full, at a handsome 8%.</a></p><a name="para60">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For all those reasons, which do not differ in their essentials from those
+given by Patten LJ in the Court of Appeal, I would dismiss this appeal.</a></p><a name="para61">
+
+</a></div><a name="para61">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/12.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

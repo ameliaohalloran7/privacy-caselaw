@@ -1,0 +1,1435 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Hutchings, Re Application for Judicial Review [2019] UKSC 26 (6 June 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Hutchings, Re Application for Judicial Review [2019] UKSC 26 (6 June 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/26.html</i>
+<br>Cite as: 
+[2019] UKSC 26,
+
+[2020] NI 801
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/26.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+ <br><center><a href="/uk/cases/UKSC/2019/26.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 26</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2017/121.html">[2017] NIQB 121</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">In
+  the matter of an application by Dennis Hutchings for Judicial Review
+  (Northern Ireland)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sales</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">6 June 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 14 March 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">James Lewis QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Gerald Simpson QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Ian Turkington</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Richard Shields</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by McCartan
+  Turkington Breen)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Public
+  Prosecution Service)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LORD KERR: (<span style="text-transform:none">with whom Lord
+Reed, Lady Black, Lord Lloyd-Jones and Lord Sales agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On Saturday 15 June 1974, in the late morning, an army patrol consisting
+of two military vehicles was travelling towards Benburb, County Tyrone. The
+vehicles contained members of the Life Guards regiment. The lead vehicle had
+six men on board. The commander of the patrol, who was travelling in that
+vehicle, was Dennis Hutchings, the appellant in this case.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the patrol rounded a left-hand bend near a village called Eglish on
+what was a winding road, a young man came into view, standing on the left-hand
+side of the road. He appeared to be looking into the hedge at the side of the
+road. His name was John Paul Cunningham. Mr Cunningham appeared startled and
+confused. He ran across the road in front of the lead vehicle and climbed a
+gate into a neighbouring field. He then ran towards a metal fence which
+bordered the field.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The patrol came to a halt on the appellant’s command. Most of the
+soldiers dismounted from the vehicles and took up defensive positions. Three
+members of the patrol, the appellant and two others, who have been referred to
+as B and E, pursued Mr Cunningham. Mr Hutchings and soldier E went towards the
+same gate that Mr Cunningham had climbed over. Soldier B went to a gateway
+further down the road. A number of shouted commands to Mr Cunningham to stop
+went unheeded. It later transpired that he had limited intellectual capacity.
+His mental age was judged to be between six and ten years. In a report by the
+Historical Enquiries Team (HET) (of which more below at para 9) it was said
+that he “was easily confused and may have had an inherent fear of men in
+uniform and armoured vehicles”.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The case made by the prosecution is that when Mr Cunningham failed to
+stop, shots were discharged by the appellant and the soldier referred to as B.
+Mr Cunningham was hit and died at the scene. At the time that he fell, he was
+close to the metal fence. It has been established that he was running towards
+his home. HET concluded, after investigation, that he was unarmed; that he was
+shot while running away from the soldiers; and that there was no evidence that
+he presented a threat to them or to anyone else.</a></p><a name="para4">
+
+<p class="ParaHeading">Background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 1974 there was much terrorist activity in Northern Ireland. A large
+part of that activity was generated by the Provisional Irish Republican Army
+(PIRA). There were regular attacks on the security forces, including the
+British Army. The attacks frequently involved the use of firearms and
+explosives.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Life Guards regiment was responsible in 1974 for security force
+operations in Cookstown, Dungannon and Armagh and surrounding districts.
+Cookstown and Dungannon are in County Tyrone, as are Benburb and Eglish.
+Benburb is some 18 miles from Cookstown and about eight miles from Dungannon. Eglish
+is a small village that lies between Dungannon and Benburb. It is about five
+miles from Dungannon to Eglish and approximately the same distance from Eglish
+to Benburb. An army report about the time that Mr Cunningham was killed stated
+that the threat level in these areas was particularly high. There were frequent
+army patrols of the roads between these various locations. Indeed, in the first
+two weeks of June 1974 some 38% of shooting incidents in the Life Guards’
+operational zone occurred in the area of Eglish. One of those attacks resulted
+in the death of a soldier in the Life Guards regiment.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Two days before Mr Cunningham was killed, members of the Life Guards,
+under the command of Mr Hutchings, came upon a group of men loading material
+into a vehicle. A “firefight”, as it was described in the reports of the
+incident, ensued. Arms and explosives were discovered in the vehicle. This had
+occurred about three and a half miles from where Mr Cunningham was killed.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following the killing of Mr Cunningham, a joint inquiry by the Royal
+Ulster Constabulary (RUC) and the Royal Military Police took place. The then
+Director of Public Prosecutions reviewed the statements that this inquiry
+generated and decided that there should be no prosecution of any of the
+military personnel involved.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>HET was a body created in 2005 to examine historical offences that were
+committed during the period of terrorist violence in Northern Ireland and the
+state’s reaction to it. It conducted an inquiry into Mr Cunningham’s death. It
+concluded that this was “an absolute tragedy that should not have happened”. It
+recommended, however, that no further action be taken in relation to the
+incident.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2015 a new body, the Legacy Investigation Branch, conducted a new
+investigation into Mr Cunningham’s death. As a result of this, the appellant
+was arrested and taken to a police station in Northern Ireland where he was
+interviewed. He answered “no comment” to all questions put to him. He was
+subsequently charged with two offences: the attempted murder of Mr Cunningham
+and attempting to cause him grievous bodily harm.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 20 April 2016, the Director of Public Prosecutions issued a
+certificate pursuant to section 1 of the Justice and Security (Northern
+Ireland) Act 2007 directing that the appellant stand trial on these charges by
+a judge sitting without a jury. It is accepted that the certificate was issued
+without prior notice to the appellant. He was not given an opportunity to make
+representations as to whether it should be issued. The material and information
+which led to the issue of the certificate have not been disclosed to him. He
+was not informed of its having been issued until 5 May 2017.</a></p><a name="para11">
+
+<p class="ParaHeading">The statutory provisions relating to the issue of
+certificates and challenges to their issue</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The relevant parts of section 1 of the 2007 Act are these:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Issue<b> </b><span style="font-size:12.5pt">of </span>certificate</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)<span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span>This<span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> </span>section applies in relation to
+a person charged with one or more indictable offences (‘the defendant’).</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Director of Public
+Prosecutions for Northern Ireland may issue a certificate that any trial on
+indictment of the defendant (and of any person committed for trial with the
+defendant) is to be conducted without a jury if -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he suspects that any of
+the following conditions is met, and</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he is satisfied that in
+view of this there is a risk that the administration of justice might be
+impaired if<i> </i>the trial were to be conducted with a jury.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Condition 4 is that the
+offence or any of the offences was committed to any extent (whether directly or
+indirectly) as a result of, in connection with or in response to religious or
+political hostility of one person or group of persons towards another person or
+group of persons.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In subsection (6) ‘religious
+or political hostility’ means hostility based to any extent on -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; religious belief or
+political opinion,</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; supposed religious
+belief or political opinion, or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the absence or supposed
+absence of any, or any particular, religious belief or political opinion.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In subsection (6) the
+references to persons and groups of persons need not include a reference to the
+defendant or to any victim of the offence or offences.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The breadth of the power to direct that a trial be before a judge
+without a jury is immediately apparent from these provisions. The Director need
+only <i>suspect</i> that one of the stipulated conditions (in this case
+condition 4) is met and that there is a <i>risk </i>that the administration of
+justice might be impaired if there was a jury trial. The circumstances in which
+such a risk might materialise and the specific nature of the risk or the
+impairment to the administration of justice which might be occasioned are not
+specified. It can only be supposed that these matters were deliberately left
+open-ended. The type of decision which the Director must take can be of the
+instinctual, impressionistic kind. Whilst the Director must of course be able
+to point to reasons for his decision, one can readily envisage that it may
+frequently not be based on hard evidence<i> </i>but on unverified intelligence
+or suspicions, or on general experience. It may partake of supposition and
+prediction of a possible outcome, rather than a firm conclusion drawn from
+established facts.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The need, on occasions, for the Director’s decision to depend on
+intuitive belief rather than studied analysis of evidence is also reflected in
+the fact that the circumstances covered by condition 4 are extremely wide. Offences
+committed <i>to any extent</i> (even if indirectly) in connection with or in
+response to religious or political hostility of one person or group of persons
+are covered. The PIRA campaign in Northern Ireland in the 1970s was based on
+that organisation’s political hostility to continuing British rule in that
+country. The incident that occurred a few days before Mr Cunningham was killed
+bore all the hallmarks of a PIRA operation. When this is considered with the
+incidence of terrorist activity in the area at the time, it is entirely
+unsurprising that the Director should have concluded that the offences with
+which the appellant is charged were connected (directly or indirectly) with or
+in response to the political hostility of members of PIRA against, as the Director
+put it in an affidavit, “those who believed that Northern Ireland should remain
+a part of the United Kingdom”. That the soldiers who fired on Mr Cunningham
+suspected that he was a member of PIRA seems inescapable. (I shall have more to
+say presently about the Director’s reasons for issuing the certificate.)</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 7 of the Act provides:</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Limitation on challenge of issue
+of certificate</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No court may entertain
+proceedings for questioning (whether by way of judicial review or otherwise)
+any decision or purported decision of the Director of Public Prosecutions for
+Northern Ireland in relation to the issue of a certificate under section 1,
+except on the grounds of -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dishonesty,</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bad faith, or</p>
+
+</a><p class="MsoQuote" style="margin-left:144.0pt"><a name="para15">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; other exceptional
+circumstances (including in particular exceptional circumstances relating to </a><a name="_Hlk6908701">lack of jurisdiction or error of law</a>).</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subsection (1) is
+subject to section 7(1) of the Human Rights Act 1998 (claim that a public
+authority has infringed [a] Convention right).”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The “other exceptional circumstances” referred to in sub-paragraph (c)
+of subsection (1) are not specified but they must take their flavour from the
+preceding provisions to the effect that challenges will be entertained on the
+grounds of bad faith and dishonesty and from the succeeding words of the
+sub-paragraph, which particularise “lack of jurisdiction or error of law”.
+These are clear indications that, what has been described as the “full panoply
+of judicial review superintendence” (see <i>In re Shuker’s and others’
+applications for judicial review </i></a><a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2004/20.html">[2004] NIQB 20</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/nie/cases/NIHC/QB/2004/20.html">[2004] NI 367</a> at para 25), is generally
+not available to challenge decisions by the Attorney General or the Director of
+Public Prosecutions as to the mode of trial for particular cases.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By virtue of section 8(3) of the Act the provisions in sections 1-7 are
+applied to offences committed before the Act came into force. The offences with
+which the appellant has been charged are therefore covered by those provisions.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Counsel for the appellant, Mr Lewis QC, drew our attention to the Explanatory
+Notes which accompany the 2007 Act. He pointed out that paragraph 7 of the
+Notes made it clear that it was anticipated that non-jury trial would be
+ordered in “a small number of exceptional cases” and claimed that paragraphs 22
+and 23, which dealt with condition 4 in section 1(6), indicated that that
+provision should be construed narrowly. These paragraphs read:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“22.&nbsp;&nbsp;&nbsp;&nbsp; Condition 4 is set out in
+<i>subsection (6)</i>. This covers circumstances where the offence occurred as
+a result of, or in connection with, sectarianism (ie in connection with
+religious belief or political opinion). <i>Subsection (7) </i>clarifies that
+‘religious belief and political opinion’ includes their absence and any
+assumptions made about religious beliefs or political opinions. <i>Subsection
+(8) </i>provides that the persons and groups of persons referred to in
+subsection (6) need not include the defendant or victim.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A case that falls within
+one of the conditions will not automatically be tried without a jury - non-jury
+trial will only happen if the DPP(NI) issues a certificate because he is
+satisfied that there is a risk that the administration of justice might be
+impaired.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judgment of the Divisional Court in the present case (Stephens LJ
+and Sir John Gillen </a><a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2017/121.html">[2017] NIQB 121</a>) quoted from the Explanatory Notes - see
+para 14. But at para 34 the court observed that reliance on the Notes had to be
+approached with some caution, quoting Lord Steyn in <i>R (Westminster City
+Council) v National Asylum Support Service </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/38.html">[2002] 1 WLR 2956</a> at para 6
+where he said that it was “impermissible … to treat the wishes and desires of
+the government about the scope of the statutory language as reflecting the will
+of Parliament.” Mr Lewis criticised this passage of the Divisional Court’s
+judgment, suggesting that it unwarrantably abbreviated the relevant reasoning
+to be found in the speech of Lord Steyn. In particular, he focused on
+statements in para 5 of the speech where Lord Steyn said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In so far as the Explanatory
+Notes cast light on the objective setting or contextual scene of the statute,
+and the mischief at which it is aimed, such materials are therefore always
+admissible aids to construction. They may be admitted for what logical value
+they have. Used for this purpose Explanatory Notes will sometimes be more
+informative and valuable than reports of the Law Commission or advisory
+committees, Government green or white papers, and the like. After all, the
+connection of Explanatory Notes with the shape of the proposed legislation is
+closer than pre-parliamentary aids which in principle are already treated as
+admissible: see <i>Cross</i>, <i>Statutory Interpretation</i>, 3rd ed (1995),
+pp 160-161.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I find it unnecessary to embark on a discussion about the use to which
+the Explanatory Notes might be put in this instance because I consider that the
+language of the relevant statutory provisions is perfectly clear. Those
+provisions invest the Director of Public Prosecutions with wide powers for the
+reasons earlier discussed. If anything, the actual provisions are more precise
+in their formulation than the Explanatory Notes. Recourse to the latter is
+unnecessary for the proper interpretation and application of the pertinent
+parts of the statute.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As it happens, of course, nothing in the Explanatory Notes detracts from
+the interpretation to be placed on the statutory provisions, if they are
+analysed on a purely textual basis. Mr Lewis suggested that the reference to
+sectarianism in paragraph 22 of the Notes indicated that condition 4 was
+designed to cover situations of strife between the different communities in
+Northern Ireland. I do not accept that argument. Sectarianism can, of course,
+have the connotation of bigoted adherence to a particular sect but that is by
+no means its only possible meaning. The qualifying words in paragraph 22 of the
+Notes, “ie in connection with religious belief or political opinion”, make it
+clear that “sectarianism”, as it is used in the Notes, is sufficiently wide to
+embrace the circumstances in which Mr Cunningham was killed.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If Mr Hutchings and soldier B fired on Mr Cunningham, believing him to
+be a member of PIRA, that would be sufficient to satisfy the requirement that
+the offences which are alleged to be constituted by that shooting were “in
+connection with or in response to … political hostility of one person … towards
+another … group of persons”, namely the British Army. And if the Director
+suspected that this was so (as, realistically, he was bound to, and indeed
+avers that he did), then the first requirement of section 1(2), in so far as it
+related to condition 4, was met. Furthermore, if the Director was satisfied
+that, by reason of this circumstance, there was a risk that the administration
+of justice might be impaired if the trial were to be conducted with a jury, the
+second requirement of the subsection would likewise be fulfilled.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Lewis invited this court to consider the legislative history of the
+2007 Act, although he accepted that the conditions necessary for admission of
+ministerial statements, prescribed by the House of Lords in <i>Pepper v Hart</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1992/3.html">[1993] AC 593</a> were not fulfilled. It was permissible, indeed necessary, Mr
+Lewis argued, to look at ministerial statements in order to ascertain “the
+legislative intent” of the 2007 Act. He then took us to a number of statements
+made by the Parliamentary Under-Secretary of State for Northern Ireland, Paul
+Goggins MP, during the passage through the House of Commons of the Bill that
+ultimately became the 2007 Act. The purpose of this exercise was to promote the
+theory that the powers of the Director of Public Prosecutions under section 1
+were confined to cases involving sectarianism in the connotation which Mr Lewis
+sought to place on it.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I find it unnecessary to set out the passages from Mr Goggins’
+statements to which Mr Lewis referred us. It is quite clear that the minister
+was responding to particular issues on which other members of the House had
+expressed concern. He did not attempt to outline a comprehensive charter of all
+the circumstances in which the Director’s powers might be invoked. True it may
+be that the examples cited by Mr Goggins were of situations that might be
+described as sectarian in the connotation which Mr Lewis suggested was the
+correct one, but the minister did not at any point suggest that they were exhaustive
+of the circumstances in which the Director might exercise his powers under
+section 1. In any event, for the reasons given earlier, the legislative intent
+of the provisions of that section is abundantly clear from its terms. It is not
+open to the appellant to put a gloss on that intent by reference to
+Parliamentary statements which might appear to be at odds with that clear
+intent.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the second requirement of section 1, the Director of Public
+Prosecutions, Barra McGrory QC, deposed in his first affidavit that, in
+reaching his decision on that issue, he had taken into account judicial
+observations in <i>In re Jordan’s Application </i>and in <i>In re McParland’s
+Application</i>. On the basis of his consideration of those cases, he
+pronounced himself satisfied that there was a risk such as is provided for in
+section 1(2)(b).</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The decision in the Court of Appeal in the <i>Jordan </i>case referred
+to by Mr McGrory is reported at </a><a title="Link to BAILII version" href="/nie/cases/NICA/2014/76.html">[2014] NICA 76</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/nie/cases/NICA/2014/76.html">[2016] NI 116</a> as<i> In re
+Jordan’s Applications for Judicial Review</i>. Mr McGrory also mentioned the
+decision of the High Court in that case but it is sufficient, I believe, for
+present purposes to focus on the judgment of the Court of Appeal delivered by
+Sir Declan Morgan LCJ. The case concerned (among other things) the risk of jury
+bias in an inquest into the shooting of Pearse Jordan by a member of the RUC in
+1992. At para 90 of the judgment the following passage appears:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… There are formidable
+difficulties in being satisfied that the insidious nature of bias has been
+removed in security and terrorist type cases.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">It is necessary to confront
+directly the need to ensure that jury verdicts emerge unconstrained by tribal
+loyalties. A coroner must be satisfied that there will be a sensitively
+constructed distance between prejudice and justice.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The existence of a real risk of a
+biased juror or jury will outweigh any other factor.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Mere reduction of the risk is
+insufficient. The coroner must be satisfied that the steps taken have reduced
+that risk to a remote or fanciful possibility. …”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Other factors which, the court considered, should be taken into account
+by a coroner in seeking to eliminate the risk of bias on the part of the
+inquest jury were mentioned in the Court of Appeal judgment but they are not
+directly relevant to the present case. The important point to be drawn from
+that decision, in relation to the present case, is that three Court of Appeal
+judges, all highly experienced in the administration of justice in Northern
+Ireland, stated unequivocally and unanimously that formidable difficulties
+attended the need to be satisfied that the risk of bias has been removed in
+security and terrorist type cases; that the reality that tribal loyalties could
+imperil the chances of a proper verdict had to be confronted; that the risk of
+a biased juror was the most important factor to be considered by the coroner;
+and that the real (as opposed to the remote or fanciful) possibility of jury
+bias should govern the coroner’s decision on the question.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Lewis suggested that an inquest and a criminal trial were not
+analogous in relation to the need to avoid jury bias. In the former, he
+suggested, a unanimous verdict was required, whereas a majority verdict could
+be returned in a criminal trial. Moreover, the system of empanelling juries
+introduced by the 2007 Act which abolished the right to peremptory challenge to
+possible jurors and disclosure of their names and addresses reduced the risk of
+jury tampering and partisanship.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I do not accept these arguments. The fact that a majority verdict can be
+delivered in a criminal trial might reduce the risk of partisan verdicts; there
+is no reason to suppose that it will eliminate it. Likewise, the abolition of
+peremptory challenges and disclosure of jury panel members’ names and
+addresses. On the question of jury tampering (to which, more obviously, these
+measures were primarily directed) it is right to record that Mr Gerald Simpson
+QC, who appeared for the Director, confirmed that the possibility of jury
+tampering was not a concern in this case. It was the prospect of a partisan
+outcome to the case which underlay the Director’s decision.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>McParland </i>case to which the Director referred is <i>In re an
+application by Patrick McParland and John McParland for Judicial Review </i></a><a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2008/1.html">[2008] NIQB 1</a>. It concerned a challenge to section 10 of the 2007 Act which had
+inserted a new provision (article 26A) into the Juries (Northern Ireland) Order
+1996 (SI 1996/1141) restricting the disclosure of information about jurors. It
+was argued that the new arrangements in effect brought about trial of defendants
+by a secret tribunal and that this constituted a breach of article 6 of the
+European Convention on Human Rights and Fundamental Freedoms (ECHR) since it
+infringed the guarantees of a public hearing and of trial within a system
+containing sufficient guarantees of impartiality.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Divisional Court rejected that argument. At para 37, it observed,
+“[t]he existence of the risks identified by the juries’ sub-group of juror
+intimidation, of partisan juries and of perverse jury verdicts has not been
+seriously disputed by most commentators …”.</a></p><a name="para31">
+
+<p class="ParaHeading">Discussion of the statutory provisions relating to the
+issue of certificates</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The powers available to the Director of Public Prosecutions are
+unquestionably far-reaching. It is unsurprising that this should be so. When
+one has regard to the difficulties described by the Court of Appeal in <i>Jordan</i>
+in eliminating the risk of bias <i>and </i>of being confident of having done
+so, the need for wide-ranging powers is obvious. What were described by that
+court as “tribal loyalties” present a particular problem. These are often
+difficult to detect and may routinely be disavowed by most of the population.
+But experience has shown that they can operate to bring about unexpected,
+partisan outcomes. The dangers that they present to the achievement of a
+scrupulously fair trial are undeniable.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Taking effective precautions against jury bias presents, as the Court of
+Appeal in <i>Jordan </i>said, formidable difficulties. These difficulties are
+particularly acute in cases which involve attacks on the security forces or
+where members of the security forces have fired on individuals. Such cases are
+almost invariably highly charged, and they give rise to strong feelings in both
+sides of the community. Apprehension that jury trial in such cases might put
+the goal of a fair trial in peril is unavoidable.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is important to focus on the need for a fair trial. Trial by jury is,
+of course, the traditional mode of trial for serious criminal offences in the
+United Kingdom. It should not be assumed, however, that this is the unique
+means of achieving fairness in the criminal process. Indeed, as the Court of
+Appeal’s statements in <i>Jordan </i>show, trial by jury can in certain
+circumstances be antithetical to a fair trial and the only assured means where
+those circumstances obtain of ensuring that the trial is fair is that it be
+conducted by a judge sitting without a jury.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So-called “Diplock trials” took place in Northern Ireland between 1973
+and 2007. No one suggests that this mode of trial failed to deliver fairness of
+process, by reason of the fact that the trial took place before a judge sitting
+without a jury. Although article 6 of ECHR (which guarantees a right to a fair
+trial) is not prayed in aid by the appellant in this case, it is interesting to
+reflect that it has been held that this article does not require trial by jury.
+As the European Commission of Human Rights observed in <i>X and Y v Ireland</i>
+(Application No 8299/78) (1980) 22 DR 51, para 19, “… article 6 does not
+specify trial by jury as one of the elements of a fair hearing in the
+determination of a criminal charge”.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is, of course, to be remembered that the system of trial introduced
+as a result of Lord Diplock’s report (<i>Report of the Commission to consider
+legal procedures to deal with terrorist activities in Northern Ireland</i>
+(1972) (Cmnd 5185)), required the trial judge to give a reasoned judgment if
+the defendant was convicted. And that a defendant, upon conviction, was
+entitled to an automatic right of appeal, not only on points of law but on the
+factual conclusions reached and inferences drawn by the trial judge. These
+remain features of trials without a jury since the 2007 Act - section 5(6) and
+(7).</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The statement made by Lord Judge CJ in <i>R v Twomey</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Crim/2009/1035.html">[2010] 1 WLR 630</a> at para 10 (relied on by the appellant) that, “[i]n this country trial by
+jury is a hallowed principle of the administration of criminal justice ...
+properly identified as a <i>right</i>, available to be exercised by a defendant
+unless and until the right is amended or circumscribed by express legislation”
+must be viewed against this background. In the first place, although the Lord
+Chief Justice described entitlement to trial by jury as a right, he did not
+suggest that this was an absolute right; indeed, he accepted that it could be
+constrained in certain circumstances. Secondly, and self-evidently, the right
+has in fact been restricted by the express provisions of the 2007 Act. Finally,
+where trial by jury would place the fairness of the criminal justice process at
+risk, the right must yield to the imperative of ensuring that the trial is
+fair.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this context, the triangulation of interests identified by Lord Steyn
+in <i>Attorney General’s Reference (No 3 of 1999)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2000/71.html">[2001] 2 AC 91</a>, at p 118
+is pertinent. He said this about the various interests which are served by a
+criminal trial:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The purpose of the criminal law
+is to permit everyone to go about their daily lives without fear of harm to
+person or property. And it is in the interests of everyone that serious crime
+should be effectively investigated and prosecuted. There must be fairness to
+all sides. In a criminal case this requires the court to consider a
+triangulation of interests. It involves taking into account the position of the
+accused, the victim and his or her family, and the public.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The requirements of a fair trial are not determined by having regard to
+a defendant’s interests exclusively. As Lord Steyn said, it is in the interests
+of everyone that serious crime be properly investigated and effectively
+prosecuted. Notably, of course, the appellant has not claimed that his trial
+for the offences with which he is charged will not be fair, if conducted by a
+judge sitting without a jury. Such a claim could not be sustained in light of
+the experience of trials before “Diplock courts” and of the safeguards which are
+in place by reason of section 5(6) and (7) of the 2007 Act.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Consideration of the appellant’s claim that he should not be denied the
+right to a jury trial must therefore proceed on the basis that he will receive
+a fair trial or, at least, that if he does not, he will have an automatic right
+of appeal to the Court of Appeal where any suggestion that there has been
+unfairness can be fully ventilated and examined. This incontestable reality
+influences the approach to be taken, not only to the proper interpretation of
+section 1 of the 2007 Act, but also to the appellant’s argument that he was
+entitled to be given reasons for the issue of the certificate and to be
+consulted about the Director’s proposed course of action before it was decided
+to issue the certificate. That is an argument to which I shall turn in paras 53
+and following.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant argued that the Director of Public Prosecutions had been
+wrong in the claim that he made in his first affidavit, that it was the
+intention of Parliament that section 1(6) of the 2007 Act should be interpreted
+broadly. Mr Lewis pointed out that this was at odds with the judgment of the
+Divisional Court in an earlier Northern Ireland case, <i>Arthurs’ (Brian and
+Paula) Application</i> </a><a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2010/75.html">[2010] NIQB 75</a> where at para 31, Girvan LJ had said,
+“[t]he strong presumption that a right to jury trial is not intended to be
+taken away will … lead to a strict construction of any statutory restriction or
+limitation on the right to a jury trial.” That statement appears to have been
+based on an argument addressed to the court by Raza Husain QC, appearing for
+applicants who challenged the issue by the Director of Public Prosecutions of a
+certificate that their trial on a series of fraud charges be conducted by a
+judge without a jury. Mr Husain had relied on the statement by Lord Judge CJ in
+a passage in the case of <i>Twomey </i>which appeared later in his judgment
+from that quoted at para 37 above. At para 16 of <i>Twomey</i>, Lord Judge CJ had
+said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The right to trial by jury is so
+deeply entrenched in our constitution that, unless express statutory language
+indicates otherwise, the highest possible forensic standard of proof is
+required to be established before the right is removed. That is the criminal
+standard.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Of course, in <i>Twomey</i> the court was dealing with a case where the
+prosecution was seeking trial without a jury where it was claimed that there
+was a real danger of jury tampering and that is not the position here. But, if
+one proceeds on the premise that section 1(1) of the 2007 Act requires to be
+strictly or narrowly construed, this does not affect the interpretation which I
+consider the provision must be given.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Divisional Court in the present case dealt with this issue at para
+41 of its judgment:</a></p><a name="para43">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In our view the assertion of the
+Director that it was the intention of Parliament to provide that ‘the
+subsection should be broadly interpreted’, whilst it could have been more
+felicitously worded, does not necessarily contradict the proposition put
+forward in <i>Arthurs’</i> case that it is necessary to construe section 1
+narrowly and strictly. The wording of condition 4 is such that Parliament
+clearly intended to include a broad reach of circumstances whilst at the same
+time recognising that any legislation removing jury trial needs to be tightly
+construed.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is certainly an argument that, contrary to the Divisional Court’s
+view, the Director’s assertion was at odds with what Girvan LJ said in <i>Arthurs</i>.
+But whether the Director erred is neither here nor there, provided he acted
+within the powers actually available to him and provided that, if he did indeed
+misapprehend the proper approach to the interpretation of section 1, that
+misapprehension was, in the event, immaterial to the decision that he took. On
+the true ambit of the Director’s powers, what matters is the interpretation
+placed on the section by the courts. And the Divisional Court is unquestionably
+right that the wording of condition 4 invests the Director with a wide range of
+powers. Whether the section requires to be construed narrowly or broadly, the
+intrinsic breadth of the powers remains intact. Even if, therefore, the
+Director was wrong in his assertion that Parliament intended that the section
+should be interpreted broadly, there is no reason automatically to assume that
+this led to him exercising his powers in a manner that was not available to him
+on a proper construction of the provision. On the facts of this case, it is
+clear from the reasons that the Director has given for issuing the certificate
+that he was bound to have made the same decision if he had considered that
+section 1 required to be construed narrowly. If, indeed, it was an error on the
+part of the Director to consider that section 1 should be given a broad
+interpretation (on which I do not feel it necessary to express an opinion) it
+cannot be said that such an error would vitiate his decision for the reason
+that he was certain to reach the same decision, whatever view he took of the
+appropriate mode of interpretation of section 1.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the reasons that he decided to issue the certificate, these were
+first conveyed to the appellant’s solicitors in a letter dated 10 May 2017 from
+the Director’s office. It contained the following passages:</a></p><a name="para45">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I can advise you that the
+Director suspected that condition 4 in section 1 of the 2007 Act was satisfied
+on the basis of information provided by the police coupled with a commentary
+and assessment of that information, an analysis of the facts and circumstances
+of this case and the advice of senior counsel. In this way the Director formed
+the requisite suspicion.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">In view of the suspicion which he
+formed in relation to condition 4, the Director was satisfied that there was a
+risk that the administration of justice might be impaired if the trial were to
+be conducted with a jury. This risk arises from the possibility of a biased
+juror or jury, having regard to the particular circumstances of this case.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The Director further considered
+whether the risk to the administration of justice could be mitigated by
+application to the court to screen the jury, sequester the jury or transfer the
+trial to a different venue. The Director was satisfied that there remained a
+risk that the administration of justice might be impaired on the basis that,
+even if granted, these measures might not be sufficiently effective in
+preventing or significantly reducing the potential risk posed to the
+administration of justice in this case.”</p>
+
+<p class="ParaLevel1">One may observe that it is extremely unfortunate that more
+than a year was allowed to pass before the issue of the certificate was brought
+to the attention of the appellant and his advisers. Quite apart from the
+obvious desirability of informing any defendant promptly of such a significant
+decision as to the mode of his trial, the challenge to his decision would,
+presumably, have materialised much sooner and the delay in the trial would have
+been greatly reduced.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Lewis suggested that the reference in the final paragraph of this
+letter to sequestration of the jury suggested that the possibility of jury
+tampering was present to the Director’s mind but was not fully articulated. He
+argued that this, among other reasons, illustrated the inadequacy of the
+explanation given as to the basis on which the decision to issue the
+certificate was taken. This argument is more germane to the claim that the
+appellant should have been provided with reasons and been consulted before the
+decision was made to issue the certificate, an argument which I shall consider
+in the next section of the judgment. I should say, however, that I do not accept
+the argument. The nature of the risk is plainly stated in the second paragraph
+quoted above. It is that the possibility of a biased juror or jury existed. It
+might seem unusual to consider the question whether such a risk could be
+mitigated by sequestering the jury, but it is to be expected that the Director
+felt it prudent to examine every possibility before deciding to issue the
+certificate. It is certainly not untoward that he should advert to this before
+deciding that the only way in which to avert the risk that the administration
+of justice would be impaired was by issuing the certificate.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the question whether the Director acted within his powers, the letter
+sets out a clear basis on which to conclude that he did. He formed the
+necessary suspicion on the basis of information received from the police and
+commentary on that information. He also took the advice of senior counsel.
+These are all entirely conventional steps to allow him to consider the question
+whether he suspected that condition 4 was met.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Likewise, the risk that the administration of justice would be impaired
+was directly addressed by the Director and a clear conclusion was arrived at.
+For the reasons given earlier, that conclusion was entirely unsurprising, in
+light of the circumstances described in the <i>Jordan </i>and <i>McParland </i>cases.
+Indeed, it is difficult to envisage how any other view could have been formed.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The reasons for reaching his decision were again set out in two
+affidavits filed by the Director in the proceedings. In the first of these, he
+said that, in arriving at his conclusion, he recognised that there could be no
+suggestion that a soldier was any part of the “sectarian divide” in Northern
+Ireland, nor that he was involved in any proscribed organisation. He pointed
+out that the legislative framework makes it clear that references to persons
+and groups of persons need not include the defendant.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He stated that he suspected that the offence was committed as a result
+of or in connection with or in response to the political hostility of one
+person or group of persons towards another person or group of persons; namely
+in connection with or in response to the political hostility of members (or
+suspected members) of PIRA towards those who believed that Northern Ireland
+should remain a part of the United Kingdom. In other words, the Director
+followed faithfully the wording and essence of the legislative provisions. This
+is completely in keeping with the terms of section 1 of the Act.</a></p><a name="para50">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the second limb of section 1(2), the Director deposed that he had
+taken into account what had been said in the cases of <i>Jordan </i>and <i>McParland
+</i>and, having considered all the material with which he had been provided and
+having carefully analysed the facts, and having obtained senior counsel’s
+opinion, he was satisfied that there was a risk that the administration of
+justice might be impaired if the trial were to be conducted with a jury.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>All of this is unexceptionable and in compliance with the legislation.
+There is no reason to suppose that the Director’s approach to the question
+whether the certificate should be issued was other than as prescribed by the
+statute. (The second affidavit filed by the Director relates to evidence which,
+he understood, was to be adduced by the prosecution on the trial of the appellant.
+It is not germane to the issues which arise on the appeal.) I have concluded,
+therefore that the Director acted within the powers conferred on him by the
+2007 Act and that the appellant’s contention to the contrary must fail.</a></p><a name="para52">
+
+<p class="ParaHeading">The procedural argument</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principal argument made on behalf of the appellant was that he ought
+to have been provided with the reasons that the Director of Public Prosecutions
+was minded to issue a certificate and with the material on which his
+consideration of that question was based. Further, it was claimed that the
+appellant should have been given the opportunity to make representations on
+whether a certificate should be issued, in advance of any decision on the
+matter.</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 7 of the 2007 Act sets the scene for any discussion of this
+argument. The exceptionality of a permissible challenge to the decision of the
+Director is prominent in the terms of the section. A curtailment of the full
+spectrum of judicial review challenge was obviously intended. It was expressly
+provided that a challenge was only admissible on grounds of bad faith,
+dishonesty or other exceptional circumstances. Bad faith and dishonesty clearly
+do not arise here. Where, then, does the appellant’s challenge find its place
+in the “exceptional circumstances” category?</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Lewis seeks to place it there by reference to what he claims is the
+fundamental right to a jury trial. But, for the reasons earlier discussed, this
+will not do. The fundamental right is to a fair trial. There is a right to
+trial by jury, as Lord Judge CJ said in <i>Twomey</i>, but that alone is not
+enough to shift the appellant’s case into a condition of exceptionality -
+particularly in the context of a statute whose very purpose is to prescribe the
+circumstances in which someone can be denied the right to a jury trial.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is pre-eminently a situation where something is required beyond a
+claim that there is a right to a jury trial, if the circumstances of the
+individual case are to be regarded as exceptional. This point is reinforced by
+the examples of exceptional circumstances given in section 7(1)(c) of “lack of
+jurisdiction or error of law”. There is no question of lack of jurisdiction
+here, much less an error of law by the Director in having recourse to the
+powers that were available to him under section 1. To come within the rubric
+“exceptional circumstances”, it behoves the appellant to be able to point to
+something which truly distinguishes his case from the general. I consider that
+he has failed to do that.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Quite apart from the statutory imperative requiring that there be
+exceptional circumstances in the absence of bad faith or dishonesty, the
+decision whether to issue a certificate is obviously one which should not be
+subject to the full spectrum of conventional judicial review challenge. Unlike
+most decisions taken in the public law arena, it is not founded exclusively on
+the evaluation and weighing of hard evidence. It will usually be motivated by
+sensitive information which cannot be disclosed. It is a decision which the
+Director of Public Prosecutions must take according to his personal reaction to
+the material with which he has been presented and his own estimation of the
+matters at stake. In sum, a decision to issue a certificate does not readily
+admit of scrutiny of the reasoning underlying it because it will usually be of
+the impressionistic and instinctual variety, for the reasons earlier explained.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Many of these factors were in play in the <i>Arthurs </i>and <i>Shuker </i>cases.
+<i>Arthurs </i>was a case in which a challenge similar to that involved in the
+present appeal had been made. Girvan LJ, delivering the judgment of the
+Divisional Court, drew an analogy between this species of decisions and
+decisions whether to prosecute. At para 25 he brought together various
+authorities touching on this subject:</a></p><a name="para58">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para58">“In its reasoning [in <i>Shuker</i>]
+the court was heavily influenced by well established limitations on the review
+of the prosecutorial decisions by the DPP emerging from the authorities such as
+<i>In re Adams</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/nie/cases/NICA/2001/2.html">[2001] NI 1</a>, <i>R v Director of Public Prosecutions,</i> <i>Ex
+p Treadaway</i> The Times 31 October 1997 and <i>R v</i> <i>Director of Public Prosecutions,
+Ex p Manning</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2000/342.html">[2001] QB 330</a>. The approach to the judicial review of
+prosecutorial decisions was subsequently succinctly stated by Lord Bingham and
+Lord Walker in <i>Sharma v Brown-Antoine</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/2006/57.html">[2007] 1 WLR 780</a>, 788:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">‘It is ... well established that
+judicial review of a prosecutorial decision, although available in principle,
+is a highly exceptional remedy. The language of the cases shows a uniform
+approach: ‘rare in the extreme’ (<i>R v Inland Revenue Comrs, Ex p Mead</i>
+[1993] 1 All ER 772, 782); ‘sparingly exercised’ (<i>R v Director of Public
+Prosecutions, Ex p C</i> [1995] 1 Cr App R 136, 140); ‘very hesitant’ (<i>Kostuch
+v Attorney General of Alberta</i> <a href="http://canlii.ca/t/1p6l7">(1995) 128 DLR (4<sup>th</sup>) 440</a>, 449);
+‘very rare indeed’ (<i>R (Pepushi) v Crown Prosecution Service </i><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2004/798.html">[2004] Imm App R 549</a>, para 49); ‘very rarely’: <a name="_Hlk8809308"><i>R (Bermingham v
+Director of the Serious Fraud Office </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2006/200.html">[2007] 2 WLR 635</a>, para 63.) In <i>R v
+Director of Public Prosecutions, Ex p Kebilene</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1999/43.html">[2000] 2 AC 326</a>, 371 Lord
+Steyn said:</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">‘My Lords, I would rule that
+absent dishonesty or mala fides or exceptional circumstances, the decision of
+the Director to consent to the prosecution of the applicants is not amenable to
+judicial review.’</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">It is apparent that the statutory
+language in section 7 is inspired by the principle of exceptionality applicable
+in the context of prosecutorial decisions. Section 7 gives statutory
+recognition to the common law reticence in the scrutiny of decisions made in
+the field of prosecutorial decision-making. The wording lends support to the
+contention put forward by Mr Maguire and Mr Perry [counsel for the Director of
+Public Prosecutions] that a decision made by the Director under section 1 of
+the 2007 Act is intended to fall within the band of prosecutorial
+decision-making.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59">59.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant contends that there is a fundamental difference between a
+decision whether to prosecute and a decision whether to issue a certificate
+under section 1 of the 2007 Act. It is submitted that “there is no right not to
+be prosecuted unlike the right to be tried by a jury”; that a person facing a
+decision as to whether he will be charged has not “had legal machinery or
+process instigated against him” whereas the decision to remove the right to
+trial by jury occurs when a person has already been charged and is under the
+jurisdiction of the court; that an individual under charge has a fundamental
+right to trial by jury, which the opposing party, the Director of Public
+Prosecutions, unilaterally changes without recourse to the court; that before a
+decision to prosecute is made the prosecutor will have given the putative
+defendant the opportunity on arrest (by way of caution), or at interview (by
+way of caution and questioning), of making representations as to why he should
+not be charged; that the decision whether to issue a certificate is statutory
+whereas a decision to prosecute is non-statutory; that the difficult area of
+public interest is evaluated by the prosecutor when deciding to charge but
+there is no public interest component to the issue of a certificate under the
+2007 Act; and that a decision to prosecute is a procedural step which is not
+adjudicatory of rights, while the decision to remove the right to a jury trial
+is adjudicatory.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>While some, at least, of these matters point up the differences between
+the mechanics of a decision whether to prosecute and a determination that the
+trial should take place before a judge sitting without a jury, they do not
+signify when one concentrates on the nature of the decision-making process. A
+prosecutor faced with the task of deciding whether to initiate a prosecution
+must evaluate material not disclosable to the person who might be charged;
+similarly, the Director, in deciding whether to issue a certificate, will have
+recourse to materials which are not revealed to the person who will be affected
+by it. A decision whether to prosecute is dependent on an individual’s reaction
+to and judgment on the material available as to the possible outcome of
+proceeding; likewise, the Director’s decision on the possible consequences of
+proceeding with a trial with a jury. Both decisions may involve consideration
+of material which is not only non-disclosable but which may be of a highly
+sensitive nature. As Girvan LJ said in para 24 of <i>Arthurs</i>, the parallels
+between the two species of decision are obvious. Moreover, it can be no
+coincidence that the 2007 Act, in imposing restrictions on the availability of
+judicial review adopted the language of Lord Steyn in <i>R v Director of Public
+Prosecutions, Ex p</i> <i>Kebilene</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1999/43.html">[2000] 2 AC 326</a>, a decision relating to
+the permissibility of challenge to a decision to prosecute.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61">61.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In any event, I should say that at least three of the appellant’s
+vaunted points of distinction are not, in my view, valid. First, the question
+of whether the decision is made on foot of a statutory provision or on a
+non-statutory basis is irrelevant. Secondly, it is plainly wrong to suggest
+that there is no public interest in the determination of whether the trial
+should proceed before a judge without a jury. To the contrary, it is a critical
+part of the decision about the issue of a certificate that the Director
+consider whether the administration of justice would be impaired. This may have
+a different focus from the public interest at stake in deciding whether to
+prosecute but both decisions plainly call on the prosecutor’s judgment as to
+where the public interest lies. Finally, the decision whether to issue a
+certificate is no more adjudicatory in nature than is the decision to
+prosecute. Neither involves a weighing of competing interests in the sense that
+an individual’s wish not to be prosecuted or his wish to be tried by a judge
+and jury are pitted against the public interest in ensuring that the
+administration of justice is maintained.</a></p><a name="para61">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this case, I can conceive of no circumstances which could be said to
+be exceptional coming within the use of that term in section 7(1)(c) of the
+2007 Act. This is especially so since it is open to the appellant even now to
+make representations to the Director of Public Prosecutions. Mr Simpson, on
+behalf of the Director, confirmed to this court that if representations were
+received, these would be considered.</a></p><a name="para62">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Of course, the appellant complains that effective representations cannot
+be made in the absence of information about the material on which the Director
+made his decision and the reasons that he decided as he did. Quite apart from
+the statutory prohibition on a challenge to the failure to disclose
+explanations other than on the limited grounds contained in section 7(1)(c),
+there are two sound reasons that the appellant should not succeed in this
+argument. First, in many cases involving the issue of a certificate, information
+will have been received by the Director from the police or other members of the
+security services which must, for obvious reasons, remain confidential.
+Secondly, the nature of the decision that the Director takes, as I have already
+explained, will usually be of an instinctual or impressionistic character, not
+susceptible of ready articulation.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the truly important point to make here is that section 1 qualifies,
+if not indeed removes, the right to trial by a jury. Hence, the issue of a
+certificate does not itself remove the right (it is the statute which has done
+that). In reality the issue of a certificate under section 1 partakes of a case
+management decision aimed at ensuring the relevant end result of a fair trial.
+Viewed from this perspective, it is of obvious importance that elaborate,
+protracted challenges to the issue of a certificate under section 1 are wholly
+to be avoided, where possible. It is, no doubt, with this consideration in mind
+that section 7 circumscribed the opportunity for judicial review challenge.
+Such challenges have the potential to undermine the objective of the
+legislation to ensure that trials take place in accordance with the
+requirements of article 6 of ECHR (both as to fairness and to promptness).</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That is not to say that there will never be occasion where some
+information can be provided which would assist in the making of representations
+by a person affected by the issue of a certificate. I refrain from speculation
+as to how or when such an occasion might arise. I am entirely satisfied,
+however, that it does not arise in the present case.</a></p><a name="para65">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Divisional Court certified the following question for the opinion of
+this court:</a></p><a name="para66">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Does a true construction of
+section 4 of the 2007 Act [this should be condition 4 in section 1(1) of the
+Act], namely an offence or offences committed to any extent (whether directly
+or indirectly) as a result of, in connection with or in response to religious
+or political hostility of one person or group of persons towards another person
+or group of persons, include a member of the armed forces shooting a person he
+suspected of being a member of the IRA?”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The arguments on the appeal before this court have ranged well beyond
+the single issue raised in the certified question and, perhaps inevitably, this
+judgment has also dealt with matters outside its scope. But, for the reasons
+that I have given, I would answer the certified question, “yes” and dismiss the
+appeal.</a></p><a name="para67">
+
+</a></div><a name="para67">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/26.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

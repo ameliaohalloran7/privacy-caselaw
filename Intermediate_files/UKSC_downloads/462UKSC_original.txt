@@ -1,0 +1,501 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Amoena (UK) Ltd v Revenue and Customs [2016] UKSC 41 (13 July 2016)</title> 
+<style> <!-- /* Font Definitions */ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:"Segoe UI"; panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face {font-family:"Univers \(W1\)"; panose-1:0 0 0 0 0 0 0 0 0 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Times New Roman",serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} a:link, span.MsoHyperlink {color:blue; text-decoration:underline;} a:visited, span.MsoHyperlinkFollowed {color:#954F72; text-decoration:underline;} p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {mso-style-link:"Balloon Text Char"; margin:0cm; margin-bottom:.0001pt; font-size:9.0pt; font-family:"Segoe UI",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote {margin-top:0cm; margin-right:36.0pt; margin-bottom:26.0pt; margin-left:36.0pt; text-align:justify; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaHeading, li.ParaHeading, div.ParaHeading {mso-style-name:ParaHeading; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman",serif; font-style:italic;} p.Title1, li.Title1, div.Title1 {mso-style-name:Title1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:72.0pt; text-align:center; font-size:13.0pt; font-family:"Times New Roman",serif; font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber {mso-style-name:ParaNoNumber; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1 {mso-style-name:ParaLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2 {mso-style-name:ParaLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:35.45pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3 {mso-style-name:ParaLevel3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:70.9pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel4, li.ParaLevel4, div.ParaLevel4 {mso-style-name:ParaLevel4; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:106.35pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel5, li.ParaLevel5, div.ParaLevel5 {mso-style-name:ParaLevel5; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:141.8pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel6, li.ParaLevel6, div.ParaLevel6 {mso-style-name:ParaLevel6; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:177.25pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel7, li.ParaLevel7, div.ParaLevel7 {mso-style-name:ParaLevel7; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:212.7pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel8, li.ParaLevel8, div.ParaLevel8 {mso-style-name:ParaLevel8; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:248.15pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel9, li.ParaLevel9, div.ParaLevel9 {mso-style-name:ParaLevel9; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:283.6pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.Caveat, li.Caveat, div.Caveat {mso-style-name:Caveat; margin:0cm; margin-bottom:.0001pt; text-align:justify; border:none; padding:0cm; font-size:10.0pt; font-family:"Times New Roman",serif; font-weight:bold;} p.NewSpeech, li.NewSpeech, div.NewSpeech {mso-style-name:NewSpeech; margin-top:39.0pt; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman",serif; text-transform:uppercase; font-weight:bold;} p.WorkingDate, li.WorkingDate, div.WorkingDate {mso-style-name:WorkingDate; margin:0cm; margin-bottom:.0001pt; text-align:right; font-size:18.0pt; font-family:"Times New Roman",serif; font-weight:bold;} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Segoe UI",sans-serif;} .MsoChpDefault {font-size:10.0pt;} /* Page Definitions */ @page WordSection1 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 90.0pt;} div.WordSection1 {page:WordSection1;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> </style> <style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head> 
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Amoena (UK) Ltd v Revenue and Customs [2016] UKSC 41 (13 July 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/41.html</i>
+<br>Cite as: 
+[2016] STC 1884,
+
+[2016] WLR 2904,
+
+[2016] WLR(D) 386,
+
+[2016] UKSC 41,
+
+[2016] 1 WLR 2904,
+
+[2016] 4 All ER 705
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/41.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+1+WLR+2904">[2016] 1 WLR 2904</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+386">[2016] WLR(D) 386</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+ 
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/41(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1"> 
+<p class="MsoNormal" align="right" style="text-align:right">
+
+<a name="Text12">
+<b>Trinity Term</b></a></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<b>[2016] UKSC 41</b></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/25.html">[2015] EWCA Civ 25</a></i></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal"></p><center>
+<b>
+<span style="font-size:20.0pt">JUDGMENT</span></b><p></p> 
+<p class="MsoNormal">
+<b>&nbsp;</b></p> 
+<p class="MsoNormal">
+<b>&nbsp;</b></p> 
+<p class="Title1" align="left" style="margin-left:0cm">
+<span style="font-size:20.0pt">Amoena (UK) Limited (Appellant) 
+<i>v</i> Commissioners for Her Majesty's Revenue and Customs (Respondent)</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:14.0pt">before</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lady Hale, Deputy President</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Sumption</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Reed</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Carnwath</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Hodge</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:18.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:18.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:18.0pt">13 July 2016</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:15.0pt">Heard on 7 June 2016</span></b></p> 
+<p class="MsoNormal">&nbsp;</p> 
+<p class="MsoNormal">&nbsp;</p> 
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> 
+<tbody><tr style="height:71.25pt"> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt; height:71.25pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Appellant</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">Tim Eicke QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Edward Brown</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Clarkson Wright and Jakes LLP)</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt; height:71.25pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt; height:71.25pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Respondent</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">Sarabjit Singh</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by HMRC Solicitor's Office)</p> </td> </tr> </tbody></table> </center>
+<p class="MsoNormal">&nbsp;</p> 
+<p class="MsoNormal">&nbsp;</p> 
+<p class="NewSpeech">LORD CARNWATH: (
+<span style="text-transform:none">with whom Lady Hale, Lord Sumption, Lord Reed and Lord Hodge agree)</span></p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This appeal concerns the appropriate customs classification of a Carmen "mastectomy bra". It is designed to be worn with an artificial breast form, by women who have undergone surgical removal of one or both breasts. Classification is governed by the system known as the "Combined nomenclature of the European Union" ("CN"). The issue is whether the bra should be classified under chapter 90, as an "orthopaedic appliance", "artificial part of the body", or "other appliance ... worn ... to compensate for a defect or disability" (heading 9021) taken with note 2(b) ("parts and accessories"). If not, there is no dispute that it should be classified under chapter 62 subheading 6212 (brassières). In the latter case it would attract duty at 6.5%; in the former none. The Court of Appeal, upholding the decision of the First-tier Tribunal (FTT), but reversing the decision of the Upper Tribunal (UT), held that it should be classified under chapter 62.</a></p><a name="para1"> 
+<p class="ParaHeading">
+<b>The main features of the Carmen bra</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The commendably careful and detailed findings of the FTT are not in dispute.</a></p><a name="para2"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The bra was described in the original application in terms which were accepted by the FTT (para 21):</a></p><a name="para3"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"A mastectomy bra which is worn by post-operated women, following amputation of a breast or breasts. The bra is especially designed to hold silicone breast forms and has left and right pockets to hold the breast forms firmly in place. The other design features which differentiate the mastectomy bra from an ordinary bra are the wide padded straps which help support the weight of the breast form and help to avoid undue stress associated with neck/shoulder problems for the post operated women. The bra is also designed to ensure the breast form itself does not show and therefore has a specific cut and shape dissimilar to a conventional bra."</p> 
+<p class="ParaLevel1">As the FTT found, it was designed not solely for post-mastectomy use, but also for patients who had had a lumpectomy (removal of a tumour), or following breast reconstruction.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The FTT examined the Carmen bra together with a normal bra, and also saw it modelled by a woman who had had a mastectomy. They commented:</a></p><a name="para4"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"The most noticeable differences between the two garments (were) that the mastectomy bra had two side supports on the outside of each breast, which were absent in the normal brassière which we saw, and the straps in the mastectomy bra were positioned centrally over the breasts whereas in the normal bra the straps were marginally over to the sides. It was Mrs Seehaus's evidence that the area under the bust was not elasticated, however, we do not accept this evidence, it appearing to us that there was some give in that area. She also referred to the fact that there was more fabric used to cover what might be called the cleavage, ie the middle part of the bra, than would be found in a normal brassière." (para 17)</p> 
+<p class="ParaLevel1">(Mrs Seehaus was product manager for the German parent company of the appellant.)</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>They referred also to Mrs Seehaus' evidence describing 13 features of the Carmen bra, but said:</a></p><a name="para5"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"We find that there is not one of the above features which may not be found in an ordinary brassière, although the positioning of the pockets to hold the breast form in conjunction with the higher cup to cover it is not such as would usually be found in an ordinary brassière where the opening is more normally used in conjunction with a low cut bra, and where it is found, it is in order to insert padding to create an appearance of a larger bust; the central positioning of the straps is a feature which we accept it would be unusual to find in a normal brassiere." (para 19)</p> 
+<p class="ParaLevel1">They referred to evidence that, as an alternative to a mastectomy bra, the same (or in some respects a better) result might be achieved by "a new system in which breast forms are attached by adhesive strips to the thorax wall" (para 24). They accepted also that one purpose of the breast form and the bra taken together was "the lessening of the psychological impact of having had the mastectomy" (para 25). Later in their judgment, they rejected arguments that it had some other medical purpose than containment of the breast form:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"On examination of the mastectomy bra we could find no evidence that its function was not just the containment of the breast form, but was also the prevention of shoulder pain and problems arising from the absence of lymph nodes." (para 33)</p> 
+<p class="ParaHeading">
+<b>The CN system</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is unnecessary to repeat the detailed exposition of the relevant provisions, helpfully set out by Arden LJ in the Court of Appeal (paras 7-22). As she explained (para 7):</a></p><a name="para6"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"[The CN] is based on the customs classification scheme agreed and used internationally by a large number of countries, called the Convention on the Harmonised Commodity Description and Coding System ('HS'). The EU is a party to this Convention. The HS consists of some 5,000 groups of goods with 6-digit codes. The CN integrates the HS but in addition contains further subdivisions with 8-digit codes, specifically adapted for the EU. Both the HS and the CN have explanatory notes ('HSEN' and 'CNEN' respectively), which are prepared by experts. Courts generally give weight to these notes even though they are not legally binding."</p> 
+<p class="ParaLevel1">The current version of the CN takes effect under EEC Regulation 2658/87, as updated by EU Regulation 927/2012.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The relevant chapters are 62 ("articles of apparel and clothing accessories"), and 90, which covers a disparate range of items including for present purposes "... medical or surgical instruments and apparatus; parts and accessories thereof". Heading 9021 embraces -</a></p><a name="para7"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The notes to chapter 90 deal respectively with "parts and accessories" (note 2) and "orthopaedic appliances" (note 6):</a></p><a name="para8"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"2. ...</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) Other parts and accessories, if suitable for use solely or principally with a particular kind of machine, instrument or apparatus, or with a number of machines, instruments or apparatus of the same heading ... are to be classified with the machines, instruments or apparatus of that kind.</p> 
+<p class="MsoQuote" style="margin-left:108.0pt;text-indent:-36.0pt">6. For the purposes of heading 9021, the expression 'orthopaedic appliances' means appliances for:</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">- preventing or correcting bodily deformities; or</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">- supporting or holding parts of the body following an illness, operation or injury ..."</p> 
+<p class="ParaHeading">
+<b>The European cases</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We have been referred to a number of CJEU decisions under the classification system, in particular:</a></p><a name="para9"> 
+</a><p class="ParaLevel2" style="text-indent:0cm"><a name="para9">i)
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<i>Lohmann GmbH &amp; Co KG and Others v Oberfinanzdirektion Koblenz</i> (Joined Cases C-260/00 to C-263/00) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2002/C26000.html">[2002] ECR I-10045</a> (
+<i>Lohmann</i>)</p> 
+<p class="ParaLevel2" style="text-indent:0cm">ii)
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<i>Turbon International GMBH v Oberfinanzdirektion Koblenz</i> (Case C-276/00) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2002/C27600.html">[2002] ECR I-1389</a> (
+<i>Turbon 1</i>)</p> 
+<p class="ParaLevel2" style="text-indent:0cm">iii)
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<i>Turbon International GMBH v Oberfinanzdirektion Koblenz</i> (Case C-250/05) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2006/C25005.html">[2006] ECR I-10531</a> (
+<i>Turbon 2</i>)</p> 
+<p class="ParaLevel2" style="text-indent:0cm">iv)
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<i>Uroplasty BV v Inspecteur van de Belastingdienst - Douanedistrict Rotterdam</i> (Case C-514/04) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2006/C51404.html">[2006] ECR I-6721</a> (
+<i>Uroplasty</i>)</p> 
+<p class="ParaLevel2" style="text-indent:0cm">v)
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<i>Unomedical A/S v Skatteministeriet</i> (Case C-152/10) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C15210.html">[2011] ECR I-5433</a> (
+<i>Unomedical</i>)</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The general approach to the classification of products was explained by the court in 
+<i>Uroplasty </i>paras 40-42. The decisive criterion is in general to be found "in their objective characteristics and properties as defined in the wording of the relevant heading of the CN and of the notes to the sections or chapters". The Explanatory Notes are an important aid to interpretation but do not have legally binding force. Finally:</a></p><a name="para10"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"[T]he intended use of a product may constitute an objective criterion in relation to tariff classification if it is inherent in the product, and such inherent character must be capable of being assessed on the basis of the product's objective characteristics and properties."</p> 
+<p class="ParaLevel1">As noted by Arden LJ in the Court of Appeal (para 54), Advocate General Kokott in her opinion in 
+<i>Uroplasty</i> gave more detailed guidance as to the structured or "hierarchical" approach which may be required by the various headings and subheadings of the CN. However, the area of dispute in this appeal is narrowly defined by reference to the scope of a single subheading (9021), so that issues of hierarchy do not appear to arise.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is also important to bear in mind the general comment made in 
+<i>Lohmann</i>:</a></p><a name="para11"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"It must be made clear at the outset that, when the court is requested to give a preliminary ruling on a matter of tariff classification, its task is to provide the national court with guidance on the criteria which will enable the latter to classify the products at issue correctly in the CN, rather than to effect that classification itself, a fortiori since the court does not necessarily have available to it all the information which is essential in that regard. In any event the national court is in a better position to do so." (para 26)</p> 
+</a><p class="ParaLevel1"><a name="para11">In 
+<i>Revenue and Customs Comrs v</i> 
+<i>Aimia Coalition Loyalty UK Ltd </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/15.html">[2013] UKSC 15</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/15.html">[2013] 2 All ER 719</a>, Lord Reed made a similar observation in respect of the VAT directives, by reference to earlier European authorities:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"54. Article 267 TFEU confers on the Court of Justice jurisdiction to give preliminary rulings concerning (a) the interpretation of the Treaties and (b) the validity and interpretation of acts of the institutions, bodies, offices or agencies of the Union. In the present case, it is the court's jurisdiction to rule on the interpretation of the VAT directives which is relevant. On the other hand, putting the matter very broadly, the evaluation of the facts of the case, and the application of EU law to those facts, are in general functions of the national courts."</p> 
+<p class="ParaLevel1">In other words the task of the CJEU is to explain the criteria; their application to the facts of particular cases is for the national courts.</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Of the individual cases it is only necessary to refer in any detail to the two 
+<i>Turbon </i>cases and 
+<i>Unomedical</i>. As will be seen, it was by reference to the reasoning of these decisions on the interpretation of article 2(b) ("parts and accessories"), that the Court of Appeal reversed the decision of the Upper Tribunal (which had reversed the decision of the First-tier Tribunal).</a></p><a name="para12"> 
+<p class="ParaHeading">Turbon 1 and 2</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The two 
+<i>Turbon </i>cases concerned the correct classification of an ink cartridge specifically designed for use in a particular type of printer. Three potential headings or sub-headings were in play: 3215 90 80 (printing ink - other), 8471 60 40 (printers), and 8473 30 90 (under "parts and accessories ... suitable for use solely or principally with (printers)"). In 
+<i>Turbon 1 </i>the court held that the cartridge could not be classified as a "part or accessory" of the printer, and accordingly should be classified under 3215 90 80.</a></p><a name="para13"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The court noted that under previous case law the word "part" in heading 8473 implied "a 'whole' for the operation of which the part is essential" (para 30). That could not be said of the cartridge, which (on the evidence then available) "plays no particular role in the actual mechanical functioning of the printer" (para 31). As to "accessory" the court noted:</a></p><a name="para14"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"... according to the HS explanatory note relating to heading 8473, '[t]he accessories covered by this heading are interchangeable parts or devices designed to adapt a machine for a particular operation, or to perform a particular service relative to the main function of the machine, or to increase its range of operations'." (para 12)</p> 
+<p class="ParaLevel1">In the court's view this test was not satisfied:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"While the cartridges are interchangeable, they are not designed to adapt the printers for a particular operation, or to perform a particular service relative to their main function, or to increase their range of operations, within the meaning of the HS explanatory note relating to heading 8473. Such cartridges merely enable ESC printers to fulfil their usual function, namely, the transcription on to paper of work produced with the aid of a computer." (para 32)</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In 
+<i>Turbon 2</i> the court referred to further evidence in the national court which had shown that the cartridge itself played an essential role in the printer's mechanism. The court reached the same result, but by a different route. The court now accepted that the cartridge itself was a part of the printer, but the ink was not. In consequence that the cartridge was to be treated as -</a></p><a name="para15"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"made up of two elements which, when considered separately, may each be classified under one heading, namely subheadings 3215 90 80 or 8473 30 90 of the CN, but neither of those headings covers the goods as a whole." (para 19)</p> 
+<p class="ParaLevel1">It was therefore necessary, under the general rules, to determine which element provided the "essential character". On this point the court held that the ink was determinant, with the result that the correct classification was 3215 90 80:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"Even if an ink cartridge ... is constructed in such a way that the Printer does not function in the absence of that cartridge, the fact remains that the ink contained in the Cartridge is the most important factor for the purpose of using the goods at issue. In fact, the ink cartridge is not inserted in the printer in order to make the printer itself function but specifically to supply it with ink. Therefore, the ink must be regarded as determining the essential character of an ink cartridge, such as that at issue in the main proceedings." (para 23)</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The court did not find it necessary to revisit its finding as to the meaning of "accessory" in its first judgment. However, in her opinion Advocate General Kokott had observed:</a></p><a name="para16"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"... as the court correctly held in its first judgment (para 32) it is not possible to classify the ink-cartridges under CN heading 8473 as an 'accessory'. As the explanatory note to HS heading 8473 makes clear, only something which enables the principal item to perform a function over and above its standard functions counts as an accessory. This is not the case with the ink-cartridges, which, though necessary to enable the printer's standard functions, do not enable anything beyond that." (para 56)</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the light of the new evidence, however, she held that the cartridge could be treated as a "part" of the printer because it had been shown to be essential to its mechanical operation. She compared it to the paper-tray, by which paper was delivered to the printer and which "no-one would doubt" was part of the printer (para 69). By contrast "the ink in the cartridges", though "suitable solely for use" with this type of printer, was not essential for its "mechanical and electronic functioning", and was not therefore "part of" the printer (para 72). She would have held (unlike the court) that neither element could be regarded as giving the cartridge its essential character (para 99), so that under the general rules the relevant classification would be the last in numerical order (that is 8473 30 90).</a></p><a name="para17"> 
+<p class="MsoQuote" style="margin-left:0cm">
+<i>Unomedical</i></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In this case, the dispute related to the classification of plastic drainage bags for catheters and dialysers. The relevant headings were 3926 "other articles of plastic" and 9018 (medical appliances including "catheters" and "dialysers"), taken with chapter 90 note 2(b) ("parts and accessories"). The court described the function of the catheter bags:</a></p><a name="para18"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"The bags are manufactured from PVC foil and injection-moulded plastic components. The bags are designed to function together with a standard balloon catheter, but are imported and sold without the catheter. The function of the bags is to collect urine, at the same time ensuring a sterile environment around the catheter and facilitating observation, measurement and sampling of the drained urine." (para 15)</p> 
+<p class="ParaLevel1">The dialyser bags performed a similar function (para 17). The court observed that catheters and dialysers were provided for by specific subheadings under 9018, and that the drainage bags could only be included in that classification on the basis that they were parts or accessories under note 2(b) (para 27).</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It referred to the guidance in 
+<i>Turbon 1</i>:</a></p><a name="para19"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"... the court, ruling on the scope of those concepts in connection with heading 8473 of the CN for the purpose of classifying ink cartridges for printers, stated that the notion of 'parts' implies a whole for the operation of which the part is essential and that the notion of 'accessories' implies an interchangeable part designed to adapt a machine for a particular operation, or to increase its range of operations, or to perform a particular service relative to the main function of the machine." (para 29)</p> 
+<p class="ParaLevel1">Applying the same approach to chapter 90 note 2(b), it held that neither test was satisfied:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"36. Neither the urine drainage bag for catheters nor the drainage bag for dialysers is indispensable for the functioning of those instruments or apparatus. It is apparent that catheters do not depend on the presence of a urine drainage bag in order to function and, similarly, that dialysers do not depend on the presence of a drainage bag in order to carry out dialysis, since the process of cleansing blood is complete at the time when the bag is used, that bag serving only to collect the liquid drained ...</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">37. The latter finding cannot be called into question by the fact that dialysers work only when a bag is attached. In that regard, suffice it to state, as the European Commission points out, that, were it not for the security mechanism with which that apparatus is fitted, the dialysis process could be carried out without a bag, that security mechanism being the sole link between the apparatus and the bag ...</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">38. Likewise, those bags do not enable the instruments and apparatus to be adapted for a particular operation, nor do they increase their range of operations, or enable them to perform a particular service connected with their main function. A drainage bag attached to a catheter has the sole purpose of collecting liquid drained after the catheter itself has fulfilled its own function, which is to drain the urine present in the bladder. For its part, a drainage bag for a dialyser does not enable that apparatus to perform operations other than that for which it is designed, namely that of cleansing blood."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It will be convenient to leave further discussion of these two cases until I come to the consideration of note 2(b) in this appeal.</a></p><a name="para20"> 
+<p class="ParaHeading">
+<b>The issues in the appeal</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the Court of Appeal Arden LJ identified two issues (para 2): (1) Is the bra (or "MB" in her abbreviation) a part of or accessory to a breast form? (2) Is it an orthopaedic appliance? The same division was adopted in the statement of agreed statement of issues for this court. During the hearing it became apparent that this formulation did not accurately reflect the provisions, since it treated the different parts of heading 9021, as in effect within the definition of "orthopaedic appliances", rather than as separate sub-headings. The term "orthopaedic appliances" is limited to the scope of the definition in note 6, with the specific examples given in the first subheading (crutches etc). As is clear from the semicolons dividing the different parts of 9021, the other items relied on in argument - "artificial parts of the body" and "appliances ... worn ... to compensate for a defect or disability" - are separate. Accordingly, in the following discussion I will deal with them as three separate sub-headings. It will be convenient to reverse the order of the last two, leaving till last the issue on which with respect I differ from the Court of Appeal and would allow the appeal.</a></p><a name="para21"> 
+<p class="ParaHeading">
+<b>Orthopaedic appliances</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Before the FTT the appellant's argument appears to have been based only on the first indent of the definition in note 6, which was in effect elided with the last subheading of 9021. I will come to that below. The UT agreed in rejecting the argument under the first indent, but thought that a different result should be reached under the second indent, on the basis that the reference to support for "parts of the body" extends to support of an artificial part, such as the breast form:</a></p><a name="para22"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"We agree that the Carmen mastectomy bra does not, in isolation, correct the deformity caused by the absence of a natural breast but, as the FTT made clear, it does support the breast form which is an artificial part of the body. We reject Mr Singh's submissions that note 6 does not apply to artificial body parts. It seems to us that the fact that CN heading 9021 includes artificial parts of the body such as artificial joints and eyes and that note 6 to chapter 90 specifically refers to heading 9021 suggests that 'parts of the body' in note 6 refers to artificial parts of the body as well as natural ones. We consider that, whether applying the Advocate General's analysis in paras 66 - 69 of her opinion in 
+<i>Uroplasty</i> or note 6 to chapter 90 of the CN, the Carmen mastectomy bra is an orthopaedic appliance because it performs the function of the missing muscles and tissue in supporting or holding the breast form or forms ..." (para 69)</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Court of Appeal noted that the first indent was no longer relied on, but disagreed with the UT's conclusion on the second indent, for the reasons given by Arden LJ (paras 68-72). In short "part of the body" in its ordinary meaning referred to a natural body part. There was nothing in the definition or the context to suggest otherwise. In Arden LJ's words (para 71): "Where the drafters of the CN wish to refer to artificial body parts, they say so".</a></p><a name="para23"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is unnecessary for this court to rule on this issue which may have implications beyond this case. However, I observe that the Court of Appeal's conclusion is consistent also with the ordinary understanding of orthopaedics, as concerned with the treatment of the muscular-skeletal system, or, in the words of Advocate General Kokott in her opinion in 
+<i>Uroplasty </i>para 69, "defects in body parts which support movement, such as bones, joints, muscles and tendons". It would not be a natural description of a breast form, still less of a mastectomy bra. Nor can I find anything in the passage from that opinion cited by the UT to suggest the second indent of note 6 extends to support of an artificial body part of this kind.</a></p><a name="para24"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<i>Uroplasty</i> itself was concerned the classification of silicone elastomer flakes to be injected into the body to treat problems of incontinence. They were classified as within heading 9021, not (unsurprisingly) as "orthopaedic appliances", but as appliances implanted in the body to compensate for defective muscle (under subheading 9021 90 90) (see Advocate General para 68, court para 57). By contrast in 
+<i>Lohmann </i>the products in issue (described as "wrist orthoses, lumbar support belts, elbow supports and knee supports") were at least arguably concerned with orthopaedics. The main issue (which was for the national court) was whether -</a></p><a name="para25"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"they display characteristics which distinguish them, in particular by the materials of which they are made, their method of operation or their adjustability to the patient's specific handicaps, from ordinary belts and supports for general use." (court para 45)</p> 
+<p class="ParaLevel1">Neither of these cases provide any direct assistance on the issue before us.</p> 
+<p class="ParaHeading">
+<b>Appliance to compensate for a defect or disability</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The First-tier Tribunal rejected the appellant's claim under this head, which (as already noted) it took with the first indent of note 6 ("appliances for ... preventing or correcting bodily deformities"):</a></p><a name="para26"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"CN 9021 (set out above) refers where relevant to 'appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability'... Note 6 (see above) relates specifically to heading 9021. The Appellant relies on this note for its submission that the mastectomy bra is used to prevent or correct bodily deformities. The breast form could not compensate for the deformity without a mastectomy bra because there is no way that it could achieve its desired compensatory effect on its own, there being nothing to hold it in place. The mastectomy bra itself corrects the deformity caused by the absence of relevant muscle structure that previously held in place a natural breast. It is only through the combination of breast form and mastectomy bra that the existing bodily deformities can be corrected, further bodily deformities prevented and the relevant part of a woman's body (whether artificial or otherwise) be supported or held. The mastectomy bra cannot perform any corrective functions on its own without being used in conjunction with the breast form and therefore it cannot come within 9021." (para 32)</p> 
+<p class="ParaLevel1">As I understand it, the UT did not disagree on the FTT's application of this part of 9021 itself, but thought that a different result should be reached under the second indent to note 6.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Court of Appeal reached the same conclusion as the FTT. Like them they treated this sub-heading as raising the same question as the first indent of note 6. Arden LJ said:</a></p><a name="para27"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"The MB in fact falls outside note 6 on the findings of the FTT because it supports the breast form and it is the breast form which corrects the deformity. There is no difference for this purpose between a disability and a deformity." (para 72)</p> 
+<p class="ParaLevel1">She found support by the HS Explanatory Notes:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"As Mr Singh submits, the HSENs make it clear that the heading 9021 does not apply to products which merely alleviate a condition. They must compensate for a defect or disability even though this is not expressly stated in the heading to be a required characteristic of each of the items mentioned in the heading. It would follow that an article within the particular category on which Amoena relies - 9021 90 90 - would also have to compensate for a defect or disability in the sense given in the HSENs." (para 65)</p> 
+<p class="ParaLevel1">On the findings of the FTT, it was the breast form which compensated for the defect or disability; the bra was worn solely to keep it in place (para 67).</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I agree with the Court of Appeal's conclusion on this point. The FTT was entitled to find on the evidence that it was the breast form, not the bra, which compensated for the defect or disability. That view disclosed no error of law.</a></p><a name="para28"> 
+<p class="ParaHeading">
+<b>Artificial parts of the body</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is clear that the breast form is an "artificial part of the body", but the bra itself is not. The issue therefore is whether (under note 2(b)) it is a "part" or "accessory", and "suitable for use solely or principally with" the breast form, and so to be "classified with" it.</a></p><a name="para29"> 
+<p class="ParaHeading">The Upper Tribunal</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Although this point had been raised in argument before the FTT, there is no reference to it in their conclusions. I infer (although this is not stated) that the UT regarded that omission as an error of law, entitling them to reconsider the issue on both fact and law. Having done so, they answered the point in favour of the appellant (paras 56-61).</a></p><a name="para30"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the view of the UT, the words "parts and accessories" were to be given their ordinary meaning in context. They had not been referred to the guidance given in 
+<i>Turbon 1 </i>or 
+<i>Unomedical. </i>They rejected the argument for HMRC that an "accessory" is necessarily subordinate, or that it must relate to a specific design. As they said "a bicycle bell may be fitted to a variety of bicycles and still be regarded as an accessory" (para 57). They continued:</a></p><a name="para31"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"57. ... In our view, an accessory is not merely something which is used in conjunction with an item: an accessory must also contribute something to the item. We consider that an accessory must provide some additional functionality or enhance the performance of the item. An accessory is an optional improvement to the product whereas a part is something that is essential or integral to the functioning of the item.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">...</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">61. In our view, the Carmen mastectomy bra is a part of or accessory to the breast form in that the bra is used in conjunction with the breast form to enable both to function as a prosthesis for the natural breast that has been wholly or partly removed or reconstructed. As the FTT held ... the mastectomy bra cannot perform any corrective functions on its own without being used in conjunction with the breast form. We consider that finding to indicate that the bra is a part or accessory. We do not regard the fact that neither the bra nor the breast form would be a satisfactory prosthesis for the natural breast on their own as meaning that the bra cannot be a part or accessory for use with the breast form ..."</p> 
+<p class="ParaLevel1" style="margin-top:12.0pt">(I note that they also found some support for their approach in a short reference to note 2(b) in the opinion of the Advocate General in 
+<i>Uroplasty. </i>However, given the very different facts, and since this reference related to an alternative ground not adopted by the court itself, I doubt whether any real assistance can be gained from that passage.)</p> 
+<p class="ParaHeading">The Court of Appeal</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Court of Appeal held that the UT had erred in law (with some reluctance, in the case of McCombe and King LJJ). They thought the UT's interpretation of note 2(b) was inconsistent with reasoning of the CJEU in 
+<i>Turbon 1 </i>and 
+<i>Unomedical</i>.</a></p><a name="para32"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Arden LJ dealt with the issue shortly. She relied in particular on 
+<i>Unomedical </i>in which the court had held that plastic urine drainage bags, designed to be used in connection with dialysers and catheters, were not "parts or accessories" under note 2(b). By reference to that decision, she commented:</a></p><a name="para33"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"36. The CJEU applied 
+<i>Turbon</i>, noting that in that case the CJEU had held that:</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">'the notion of parts implies a whole for the operation of which the part is essential and that the notion of 'accessories' implies an interchangeable part designed to adapt a machine for a particular operation or to increase its range of operations.' (para 29).</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">37. The CJEU further held that this was the meaning of parts or accessories in chapters 84 and 85, and that the same meaning applied in note 2(b) to chapter 90 (para 34).</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">38. The bags could not be a part of the dialyser or catheter since they were not essential to the functioning of either instrument. Those appliances could function without a bag.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">39. The bags were also not 'accessories' since they did not improve the performance or functionality of the dialyser or catheter.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">40. As to this case, the MB is not a part of the breast form in the sense given in 
+<i>Unomedical</i> since it is not essential to the operation of the breast form. (The breast form may be, and in some instances is, simply strapped to the body.) The function of the breast form is to simulate the appearance of the natural body. It is not a question of whether the wearer perceives the breast form to be, or have become, a part of her body as the question of classification must always be determined by reference to the objective characteristics of the article in question.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">41. In my judgment, contrary to the submission of Mr Eicke, the MB is also not an accessory of the breast form for the purposes of chapter 90. It does not improve the performance of the breast form or give it any additional functionality which it is not capable of having without the MB."</p> 
+<p class="ParaLevel1">I note that Arden LJ's quotation from the guidance relating to HS8473 omitted (without explanation) the second part of the test "or to perform a particular service relative to the main function of the machine": see para 14 above.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>McCombe LJ (with whom King LJ in substance agreed) saw more force in the contention that the bra was an "accessory" to the breast form. He said:</a></p><a name="para34"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"In any normal parlance the MB would surely be an accessory to the breast form. It holds it up. Certainly, there was evidence that there were other means, apart from MBs, for securing breast forms, but in one way or another something has to be done to prevent the form simply sliding down the body and out of place. The MB is, therefore, in my view, as a matter of simple common sense, an accessory designed to perform that imperative function in relation to the breast form." (para 86)</p> 
+<p class="ParaLevel1">That view also accorded with the dictionary definitions of accessory as "contributing as an adjunct" or "auxiliary" (para 90).</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>However, he felt that this approach was inconsistent with that adopted by the CJEU in both 
+<i>Turbon 1 </i>and 
+<i>Unomedical. </i>In the former, the issue had been whether an ink cartridge, designed for use with and only with a particular type of printer was "part" or "accessory" of the printer. The court had held not. McCombe LJ found this hard to reconcile with the guidance, which he quoted in full, noting in particular the second phrase:</a></p><a name="para35"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"97. For my part, I would have thought that a printer cartridge was classically something which 'performs a particular service relative to the main function of' the printer, namely to enable it to print, but apparently not."</p> 
+<p class="ParaLevel1">However, he accepted that this decision could not be distinguished on the basis that it was directed to a different part of the CN, given that the same approach had been applied to heading 9021 in 
+<i>Unomedical.</i></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>He concluded:</a></p><a name="para36"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"100. So, is the MB an accessory to the breast form in the sense that it 'perform[s] a particular service relative to the main function' of the breast form. As might be understood from the above, I think that, on any natural meaning of these words, it does precisely that; it holds it in place and prevents it sliding off the body, even if there may be other devices that are capable of achieving that result.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">101. Is that enough for us to hold that the MB is an 'accessory' to the breast form, if the law that we have to apply is that an ink cartridge for a printer does not perform such a service for the printer? Regrettably, I feel constrained to hold that the answer is 'No'."</p> 
+<p class="ParaHeading">Discussion</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The UT were entitled to treat themselves as the judges of fact and law on this issue, the FTT having failed to address it. The issue for the Court of Appeal and for this court is whether the UT erred in law.</a></p><a name="para37"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Of the CJEU cases relied on by the Court of Appeal, the two 
+<i>Turbon </i>cases are of little direct help because the facts were so different. Even in an area as technical as this, eyebrows might fairly be raised if the classification of a mastectomy bra had to depend on a decision about ink-cartridges. As Arden LJ recognised, the main significance of the 
+<i>Turbon </i>cases was in its use of guidance on the meaning of "parts and accessories", as then applied to heading 90 note 2(b) in 
+<i>Unomedical. </i>In my view that aspect of the court's reasoning, relating to the interpretation of the CN, must be treated as authoritative, regardless of its application to the particular facts.</a></p><a name="para38"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>However, like McCombe LJ I have difficulty with some of the reasoning in 
+<i>Turbon 1. </i>If, as the court said, one test under the relevant explanatory note was whether the cartridge performed "a particular service relative to (the) main function", the natural answer would be yes. The only reason given by the court for reaching the opposite view was that the service merely supports the printer's "usual function" of transcribing work onto paper. That seems to make little sense. The "usual" function of a printer is also its "main" function, and the ink cartridge performs the "particular service" of providing ink for that function.</a></p><a name="para39"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In 
+<i>Turbon 2 </i>Advocate General Kokott tried to get round the problem in a different way. She interpreted 
+<i>Turbon 1 </i>as holding that what was required was something enabling the principal item to perform a function "over and above its standard functions", which the ink-cartridges did not do. (Arden LJ in effect interpreted it in the same way: para 33 above). However, that is not what the guidance says, nor what the court itself said in 
+<i>Turbon 1. </i>Nor is it a natural meaning of the word "accessory". To take the UT's example, a bicycle bell can fairly be described as an "accessory" to the bicycle, even if does not add to its range of functions.</a></p><a name="para40"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A better answer is one which distinguishes more clearly between the printer itself, and the materials used by it. Ink and paper are both necessary for the printer to do its work. But one would not naturally describe either as a "part or accessory" of the printer, any more than petrol would be regarded as a "part or accessory" of a car. The words "particular service relative to" its function need to be more narrowly construed as referring to services directly connected with the mechanisms or processes by which it performs that function. As Advocate-General Kokott said in 
+<i>Turbon 2 </i>(para 72), the ink though "suitable solely for use" with this type of printer, was not essential for its "mechanical and electronic functioning". This approach is also consistent with the ultimate conclusion of the court in 
+<i>Turbon 2</i>. Although the cartridge (unlike the ink) played a part in the mechanical functioning of the printer, its dominant or "essential" function was to supply it with ink. This is not a distinction which arises in the present appeal.</a></p><a name="para41"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<i>Unomedical </i>is of more direct relevance as to the interpretation of heading 9021 which is in issue in this case. On one view, it was a surprisingly narrow application of the guidance. The bags were designed specifically for use with the catheters or dialysers, and might be said to perform a particular service relative to them. In ordinary language, there would be nothing unnatural in describing them as "accessories". However, what seems to have mattered to the court was that the bags played no direct part in the actual processes of either appliance. As they said of the dialyser bag, "the process of cleansing blood is complete at the time when the bag is used, that bag serving only to collect the liquid drained ..." (para 36). Similarly, the catheter bag had the sole purpose of collecting liquid drained "after the catheter itself has fulfilled its own function, which is to drain the urine present in the bladder" (para 38).</a></p><a name="para42"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is difficult to translate the reasoning of the 
+<i>Turbon </i>cases or 
+<i>Unomedical </i>to an artificial breast form, whose function does not depend on any mechanical or other active process. In any event, I do not see them as showing any error in the approach of the UT, at least so far as relates to their conclusion that the bra is an "accessory". Arden LJ held that the bra was not a "part", applying the statement in 
+<i>Turbon 1</i> that the notion of parts implies "a whole for the operation of which the part is essential". She thought it was not "essential", since as she said the breast form "may be, and in some instances is, simply strapped to the body". I have noted the evidence that a new system of adhesive strips (not, I think, "simple straps") might perform the same task (para 5 above). However, the issue under note 2(b) is whether the particular appliance is "suitable solely or principally" for the relevant service, not how it compares to some other appliance serving the same task. On the other hand, since the bra is as I understand it marketed as an entirely separate product, it is difficult to see it as "part" either of the breast form on its own, or of a "whole" consisting of the breast form and bra together.</a></p><a name="para43"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Arden LJ also held that it was not an "accessory" because it did not "improve the performance of the breast form" or give it "any additional functionality". If it were necessary to identify some "additional functionality" in that sense, the requirement would in my view at least arguably be met by the contribution of the bra to (as the FTT found) lessening the psychological impact of having had the mastectomy. However, for the reasons I have given I do not see that as an essential requirement under the second part of the relevant test. I agree with McCombe LJ that on a natural reading the bra is an "accessory". By holding the breast form in place, the bra enables it to perform its function. The bra thus "performs a particular service relative to the main function" of the breast form. Contrary to his view I do not find that conclusion inconsistent with the principles established by the CJEU in the cases cited.</a></p><a name="para44"> 
+<p class="ParaHeading">
+<b>Conclusion</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For these reasons I would allow the appeal.</a></p><a name="para45"> </a></div><a name="para45"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/41.html</i>
+</small>
+<p></p>
+
+  
+
+
+</body></html>

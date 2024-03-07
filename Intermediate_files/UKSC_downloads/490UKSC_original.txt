@@ -1,0 +1,473 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 14 (filtered)"> 
+<title>Mirza &amp; Ors, R (on the applications of) v Secretary of State for the Home Department [2016] UKSC 63 (14 December 2016)</title> 
+<style> <!-- /* Font Definitions */ @font-face {font-family:"Univers \(W1\)"; panose-1:0 0 0 0 0 0 0 0 0 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Times New Roman","serif";} p.MsoHeader, li.MsoHeader, div.MsoHeader {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)","sans-serif";} p.MsoFooter, li.MsoFooter, div.MsoFooter {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)","sans-serif";} a:link, span.MsoHyperlink {color:blue; text-decoration:underline;} a:visited, span.MsoHyperlinkFollowed {color:#954F72; text-decoration:underline;} p.MsoQuote, li.MsoQuote, div.MsoQuote {mso-style-link:"Quote Char"; margin-top:0cm; margin-right:36.0pt; margin-bottom:26.0pt; margin-left:36.0pt; text-align:justify; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaHeading, li.ParaHeading, div.ParaHeading {mso-style-name:ParaHeading; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman","serif"; font-style:italic;} p.Title1, li.Title1, div.Title1 {mso-style-name:Title1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:72.0pt; text-align:center; font-size:13.0pt; font-family:"Times New Roman","serif"; font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber {mso-style-name:ParaNoNumber; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1 {mso-style-name:ParaLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2 {mso-style-name:ParaLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:35.45pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3 {mso-style-name:ParaLevel3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:70.9pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel4, li.ParaLevel4, div.ParaLevel4 {mso-style-name:ParaLevel4; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:106.35pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel5, li.ParaLevel5, div.ParaLevel5 {mso-style-name:ParaLevel5; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:141.8pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel6, li.ParaLevel6, div.ParaLevel6 {mso-style-name:ParaLevel6; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:177.25pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel7, li.ParaLevel7, div.ParaLevel7 {mso-style-name:ParaLevel7; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:212.7pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel8, li.ParaLevel8, div.ParaLevel8 {mso-style-name:ParaLevel8; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:248.15pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.ParaLevel9, li.ParaLevel9, div.ParaLevel9 {mso-style-name:ParaLevel9; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:283.6pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman","serif";} p.Caveat, li.Caveat, div.Caveat {mso-style-name:Caveat; margin:0cm; margin-bottom:.0001pt; text-align:justify; border:none; padding:0cm; font-size:10.0pt; font-family:"Times New Roman","serif"; font-weight:bold;} p.NewSpeech, li.NewSpeech, div.NewSpeech {mso-style-name:NewSpeech; margin-top:39.0pt; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman","serif"; text-transform:uppercase; font-weight:bold;} p.WorkingDate, li.WorkingDate, div.WorkingDate {mso-style-name:WorkingDate; margin:0cm; margin-bottom:.0001pt; text-align:right; font-size:18.0pt; font-family:"Times New Roman","serif"; font-weight:bold;} span.QuoteChar {mso-style-name:"Quote Char"; mso-style-link:Quote;} .MsoChpDefault {font-size:10.0pt;} /* Page Definitions */ @page WordSection1 {size:595.45pt 841.7pt; margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1 {page:WordSection1;} @page WordSection2 {size:595.45pt 841.7pt; margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection2 {page:WordSection2;} @page WordSection3 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 90.0pt;} div.WordSection3 {page:WordSection3;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> </style> <style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head> 
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Mirza &amp; Ors, R (on the applications of) v Secretary of State for the Home Department [2016] UKSC 63 (14 December 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/63.html</i>
+<br>Cite as: 
+[2017] 1 WLR 85,
+
+[2017] 3 All ER 824,
+
+[2017] INLR 325,
+
+[2017] WLR 85,
+
+[2016] UKSC 63,
+
+[2017] Imm AR 716,
+
+[2016] WLR(D) 664
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/63.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+664">[2016] WLR(D) 664</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+1+WLR+85">[2017] 1 WLR 85</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/63(image1).pdf">Summary</a></span></p><br> 
+<div class="WordSection1"> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<span style="position: relative;z-index:251657726">
+<span style="left:0px;position:absolute;left:-24px; top:-35px;width:132px;height:132px"></span></span>
+
+<a name="Text12">
+<b>Michaelmas Term</b></a></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<b>[2016] UKSC 63</b></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/838.html">[2015] EWCA Civ 838</a></i></p> 
+<p class="MsoNormal">
+<b>
+<span style="letter-spacing:-.15pt"> </span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:20.0pt">JUDGMENT</span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>&nbsp;</b></p> <center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="width:448.6pt;margin-left:5.0pt;border-collapse:collapse"> 
+<tbody><tr> 
+<td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm"> 
+<p class="Title1" style="margin-left:4.0pt">
+<span style="font-size:20.0pt">R (on the application of Mirza) (Appellant) 
+<i>v</i> Secretary of State for the Home Department (Respondent)
+<br clear="all"> </span></p> 
+<p class="Title1" style="margin-left:4.0pt">
+<span style="font-size:20.0pt">R (on the application of Iqbal) (Appellant) 
+<i>v</i> Secretary of State for the Home Department (Respondent)
+<br clear="all"> </span></p> 
+<p class="Title1" style="margin-left:4.0pt">
+<span style="font-size:20.0pt">R (on the application of Ehsan) (Appellant) 
+<i>v</i> Secretary of State for the Home Department (Respondent)</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> </td> </tr> 
+<tr> 
+<td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:14.0pt">before </span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:17.0pt">Lady Hale, Deputy President</span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:17.0pt">Lord Wilson</span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:17.0pt">Lord Carnwath</span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:17.0pt">Lord Hughes</span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:17.0pt">Lord Hodge</span></b></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> </td> </tr> 
+<tr style="height:20.55pt"> 
+<td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p> </td> </tr> 
+<tr style="height:20.55pt"> 
+<td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<span style="font-size:18.0pt">&nbsp;</span></p> </td> </tr> 
+<tr style="height:20.55pt"> 
+<td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:18.0pt">14 December 2016</span></b></p> </td> </tr> 
+<tr style="height:20.6pt"> 
+<td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> </td> </tr> 
+<tr style="height:20.6pt"> 
+<td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<b>
+<span style="font-size:15.0pt">Heard on 19 October 2016</span></b></p> </td> </tr> </tbody></table></center> </div> 
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">
+<br clear="all" style="page-break-before:always"> </span> 
+<div class="WordSection2"> 
+<p class="MsoNormal">&nbsp;</p> <center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> 
+<tbody><tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Appellant (Mirza)</i></p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Respondent</i></p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">Zane Malik</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">Robin Tam QC</p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">Atif Watto</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">Samantha Broadfoot</p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by AWS Solicitors)</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by The Government Legal Department)</p> </td> </tr> </tbody></table> </center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> <center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> 
+<tbody><tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Appellants (Iqbal and Ehsan)</i></p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>&nbsp;</i></p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">Zane Malik</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">Dr Niaz Shah</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Mayfair Solicitors)</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> </tr> </tbody></table> </center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> 
+<p class="MsoNormal">&nbsp;</p> </div> 
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">
+<br clear="all" style="page-break-before:always"> </span> 
+<div class="WordSection3"> 
+<p class="NewSpeech">LORD CARNWATH: (
+<span style="text-transform:none">with whom Lady Hale, Lord Wilson, Lord Hughes and Lord Hodge agree</span>)</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 3C of the Immigration Act 1971 extends a person's leave to remain pending determination of an application to vary the period of leave, provided that the application is made before the expiry of the original leave. The principal issue raised by these three appeals is how section 3C applies where an application is made in time, but is procedurally defective for some reason. In two cases (Mr Iqbal and Mr Mirza) the defect related to non-payment of fees; in the third case (Ms Ehsan), failure to provide biometric information.</a></p><a name="para1"> 
+<p class="ParaHeading">
+<b>Statutory provisions</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 3C at the material time, as substituted by section 118 of the Nationality, Immigration and Asylum Act 2002 ("the 2002 Act") (and amended by section 11 of the Immigration, Asylum and Nationality Act 2006), read as follows:</a></p><a name="para2"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"3C 
+<b>Continuation of leave pending variation decision</b></p> 
+<p class="MsoQuote" style="margin-left:126.75pt;text-indent:-18.75pt">(1)
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>This section applies if -</p> 
+<p class="MsoQuote" style="margin-left:144.0pt">(a) a person who has limited leave to enter or remain in the United Kingdom applies to the Secretary of State for variation of the leave,</p> 
+<p class="MsoQuote" style="margin-left:144.0pt">(b) the application for variation is made before the leave expires, and</p> 
+<p class="MsoQuote" style="margin-left:144.0pt">(c) the leave expires without the application for variation having been decided.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(2) The leave is extended by virtue of this section during any period when -</p> 
+<p class="MsoQuote" style="margin-left:144.0pt">(a) the application for variation is neither decided nor withdrawn, ...</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(3) Leave extended by virtue of this section shall lapse if the applicant leaves the United Kingdom.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(4) A person may not make an application for variation of his leave to enter or remain in the United Kingdom while that leave is extended by virtue of this section.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(5) But subsection (4) does not prevent the variation of the application mentioned in subsection (1)(a).</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(6) The Secretary of State may make regulations determining when an application is decided for the purposes of this section; ..."</p> 
+<p class="ParaHeading">Procedure and fees</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 50 of the Immigration, Nationality and Asylum Act 2006 ("the 2006 Act") enabled the Secretary of State to lay down in immigration rules requirements for the procedure for applications, including the use of specified forms, and provision "about the manner in which a fee is to be paid"; and to make provision "for the consequences of" failure to comply. Section 51 enabled her by order to require an application to be accompanied by a specified fee, and to make regulations specifying the amount of the fee, and making "provision about the consequences of failure to pay a fee" (section 51(3)(d)).</a></p><a name="para3"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The relevant rules (which to this extent were in the same form at the time of the three applications) required an application to be on a specified form, and to comply with certain requirements including:</a></p><a name="para4"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"... any specified fee in connection with the application or claim must be paid in accordance with the method specified in the application form, separate payment form and/or related guidance notes, as applicable," (rule 34A(ii)).</p> 
+<p class="ParaLevel1">Rule 34C provided:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"Where an application or claim in connection with immigration for which an application form is specified does not comply with the requirements in paragraph 34A, such application or claim will be invalid and will not be considered."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The relevant statutory instruments in respect of fees (in Mr Iqbal's case) were the Immigration and Nationality (Fees) Order 2011 and the Immigration and Nationality (Fees) Regulations 2011 ("the 2011 Order" and "the 2011 Regulations"). Regulation 37 of the 2011 Regulations provided:</a></p><a name="para5"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"
+<b>Consequences of failing to pay the specified fee</b></p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"37. Where an application to which these Regulations refer is to be accompanied by a specified fee, the application is not validly made unless it has been accompanied by that fee."</p> 
+<p class="ParaLevel1">Earlier but equivalent provisions applied at the time of Mr Mirza's application.</p> 
+<p class="ParaHeading">Biometric information</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The power to require biometric information was derived from regulations made under section 5 of the UK Borders Act 2007 ("the 2007 Act"). Section 7 ("Effect of non-compliance") provided that regulations under section 5 "must include" provision about the effect of failure to comply with a requirement of the regulations (section 7(1)), and:</a></p><a name="para6"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"(2) In particular, the regulations may -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) require or permit an application for a biometric immigration document to be refused; </p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) require or permit an application or claim in connection with immigration to be disregarded or refused;</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(c) require or permit the cancellation or variation of leave to enter or remain in the United Kingdom;</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(d) require the Secretary of State to consider giving a notice under section 9; [penalty notice]</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(e) provide for the consequence of a failure to be at the discretion of the Secretary of State."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the time of Ms Ehsan's application, the Immigration (Biometric Registration) Regulations 2008 (regulation 3) provided that a person subject to immigration control "must apply for the issue of a biometric immigration document" where certain conditions were satisfied, as they were in her case. Regulation 23 provided that on failure to comply the Secretary of State "may" take any of the actions specified in paragraph (2):</a></p><a name="para7"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"(2) The actions specified are to -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) refuse an application for a biometric immigration document;</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) disregard the person's application for leave to remain;</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(c) refuse the person's application for leave to remain; and</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(d) cancel or vary leave to enter or remain."</p> 
+<p class="ParaLevel1">Regulation 23 was amended from 29 February 2012, (inter alia) to substitute for sub-paragraph (2)(b) the following:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"(b) treat the person's application for leave to remain as invalid ..."</p> 
+<p class="ParaHeading">
+<b>The facts</b></p> 
+<p class="ParaHeading" style="margin-left:36.0pt">Javed Iqbal</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Iqbal was granted entry clearance in January 2007 to come to the UK as a student, extended thereafter to 30 April 2011. In October 2010 his wife was allowed entry as a dependant until the same date. On 19 April 2011 he applied for further leave to remain as a student at William Shakespeare College. Unaware that the fee had been recently increased, he paid the old fee (£29 short). By letter dated 26 April, received by him on 2 May 2011, his application was rejected by the Secretary of State as invalid for that reason. On 6 May 2011 he resubmitted his application for leave to remain as a student at the same college. In October 2011, before the application had been determined, he sought and received confirmation from the Secretary of State that he was free to alter the named educational institution. On 2 May 2012 he varied his application to name the Equinox College, having obtained a Confirmation of Acceptance for Studies ("CAS") from that college. However, the college's sponsor licence was revoked on 16 May 2012, with the result that his CAS became invalid. If he had been entitled to extension of leave under section 3C, he would have been given 60 days in which to identify another approved institution. This concession was not available because the new application had been made after his leave had expired. On 18 March 2013 his application was refused because he had failed to identify an approved college.</a></p><a name="para8"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>His notice of appeal to the First-tier Tribunal was rejected because, not having leave to remain at the time of the relevant application, he had no right of appeal. He then commenced the present judicial review proceedings, for which following refusal by the Upper Tribunal, permission was granted by the Court of Appeal.</a></p><a name="para9"> 
+<p class="ParaHeading">Muhammad Mirza</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Mirza entered the country on 27 July 2002 under a student visa which was in due course extended until 31 March 2009. He made an application to extend leave on 27 March 2009, which was rejected in error but resubmitted on 4 April 2009. On 24 April 2009 the Secretary of State attempted unsuccessfully to take the £295 application fee from the bank details provided by Mr Mirza. His application was rejected for non-payment of the fee. On 1 April 2012, following completion of his studies, he submitted a further application to remain as a Tier 1 (Post-Study Work) Migrant. On 10 December 2012 his application was refused because he did not meet the relevant requirements of the rules, primarily that: (1) he did not have leave to remain as a student or a Tier 4 Migrant between 1 September 2010 and 17 March 2012; and (2) his application for further leave to remain as a Tier 1 (Post-Study Work) Migrant was made more than 12 months after obtaining the relevant qualification, awarded on 17 March 2011.</a></p><a name="para10"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>He applied for judicial review of the Secretary of State's decision. Following refusal of permission in the High Court permission was granted by the Court of Appeal.</a></p><a name="para11"> 
+<p class="ParaHeading">Humaira Ehsan</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms Ehsan arrived on 8 March 2011 with entry clearance as a Tier 4 (General) student valid until 28 December 2011. On 23 December 2011 she made an application for further leave as a Tier 4 (General) student. The Secretary of State thereafter wrote requesting her to make an appointment to provide certain biometric information. By letter dated 24 February 2012 she was told that, unless she booked and attended an appointment within 17 days, or provided a reasonable explanation for failure to do so, her application would be rejected as "invalid". In a letter dated 26 March 2012 she was told that her application was being returned as invalid because of her failure to make and attend an appointment for providing biometric information.</a></p><a name="para12"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On 3 April 2012 she submitted a new application for leave to remain as a Tier 4 (General) student. On 21 April 2012 the Secretary of State wrote asking her to make an appointment to provide biometric information within 15 days, which she did. In September 2012 the college which had sponsored her had its licence revoked. On 9 January 2013 her application for further leave was rejected on the grounds that she had not obtained the necessary number of points, no points being attributable to the now invalid CAS. Had her leave been extended under section 3C, she would have been able to take advantage of the 60-day concession to find a replacement institution. She sought judicial review, which following refusal of permission by the High Court, was allowed by the Court of Appeal.</a></p><a name="para13"> 
+<p class="ParaHeading">
+<b>The issues in the Court of Appeal</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The nature of the issues, and the positions of the parties, have shifted markedly during the progress of these cases through the courts. In the Court of Appeal, departing from the position taken before the Upper Tribunal, the appellants (through Mr Malik of counsel) contended that an application which was "invalid" under the regulations was still effective to engage the automatic extension provisions. The Secretary of State did not contend otherwise, even though (as counsel accepted on her behalf) this represented a change from her position in previous cases. Instead as Elias LJ explained (para 22) she now relied on the next stage, that is the effect of the Secretary of State's notice rejecting such an application as invalid, which she submitted should be treated as a decision on the application, thereby bringing the leave to an end under section 3C(2)(a).</a></p><a name="para14"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Although the Secretary of State has now reverted to her previous position, it is right to refer to the policy reasons which led to the interpretation advanced by her in the Court of Appeal. The submissions on her behalf spoke of the "strong policy reasons" for the Secretary of State's "re-examination" of her previous approach, leading to her favoured interpretation as presented in that court:</a></p><a name="para15"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"First, at the point at which the application is made, neither the Secretary of State nor the applicant will know for sure whether or not their application is valid. Applications may be made in good faith and believed to be valid, yet be invalid. This may have significant adverse consequences for bona fide applicants: for example, he may have continued working whilst waiting for a response from the Home Office on the application (as section 3C leave continues the leave the person has, on the same terms) but unbeknownst to him and his employer, this constituted illegal working because in fact his application was invalid.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">Second, the previous view that section 3C leave was not triggered by an invalid application has become very complex and difficult to understand both for applicants and caseworkers, giving rise to uncertainty in an area where it is important to be able to readily work out whether a person has had their leave extended pursuant to section 3C or not.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">Third, the previous view that section 3C leave was not triggered by an invalid application has become increasingly difficult in practice where the requirements for validity can arise after the application is made: for example the need to enrol biometric information. This adds a further layer of complexity and uncertainty to that which should be readily ascertainable ..."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This approach led in turn to the need to find some means of bringing the extended leave to an end. Otherwise, as Elias LJ pointed out, it would be possible for someone with limited leave to submit a defective application, and thereby secure an extension of time, which would become in effect indefinite because no valid decision could be made bringing it to an end (para 24). It was for this reason that the Secretary of State was constrained to argue that the rejection of the application as invalid could itself be treated as a decision on the application for that purpose.</a></p><a name="para16"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Court of Appeal held, contrary to the primary submissions of both parties, that section 3C did not extend to an application which was not validly made in accordance with the rules (para 30). Elias LJ (with whom the other Lord Justices agreed) addressed his reasoning primarily to the case of Mr Iqbal, the other two being treated as covered by the same principles. He noted (para 14) that this had hitherto been assumed to be the effect of the rules, by all including the Court of Appeal (see 
+<i>JH (Zimbabwe) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2009/78.html">[2009] EWCA Civ 78</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2009/78.html">[2009] Imm AR 499</a>, para 35). He held that the powers in sections 50 and 51 of the 2006 Act to provide for the consequences of procedural failure gave sufficient Parliamentary endorsement for that position (para 30). He rejected as "wholly unsustainable" the Secretary of State's argument that notification of invalidity could constitute a relevant decision for the purposes of section 3C, since the context clearly required a determination of the application, not its rejection or a decision that there is no valid application (paras 31-32).</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>He also rejected a separate argument for Mr Iqbal that the procedure in his case was unfair, because of the failure to notify him of the defect in time for him to correct it before the expiration of leave. This submission relied on comments of the Upper Tribunal in 
+<i>Basnet v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKUT/IAC/2012/00113_ukut_iac_2012_kb_nepal.html">[2012] UKUT 113</a>; [2012] Imm AR 673, relating to an argument that in this respect personal applications were treated more favourably than applications by post. Elias LJ accepted that "in practical terms" a personal applicant had the advantage that a defect could be more quickly remedied, but short of unreasonable delay (which the Upper Tribunal had not found) there was no obligation on the Secretary of State to prioritise cases where lack of the appropriate fee might be fatal (para 39).</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In this court, Mr Malik renews the argument that the word "application" in section 3C is unqualified by reference to any procedural requirements in subsequent regulations, and should not be interpreted by reference to them. He points to the strong policy arguments for that interpretation, previously recognised by the Secretary of State, to which he adds the fact that overstaying is a criminal offence for the applicant, and may result in a penalty for his employer (1971 Act section 24; 2006 Act section 15). He does not shrink from the possible consequence that leave may be extended indefinitely, but submits that the answer is in the hands of the Secretary of State by appropriate amendments to the regulations or if necessary to section 3C itself. He also points out that the application will be treated as withdrawn if the applicant applies for return of his passport to travel outside the common travel area (rule 34J).</a></p><a name="para19"> 
+<p class="ParaHeading">
+<b>Legislative history</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Both parties have relied to some extent on the history of the legislative provisions in support of their respective cases. A brief account is therefore necessary.</a></p><a name="para20"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The need for a statutory mechanism to extend the right to remain pending a final decision on an application to vary was identified as a result of the decision of the House of Lords in
+<i> Suthendran v Immigration Appeal Tribunal </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1976/1976_SC_HL_30.html">[1977] AC 359</a>. The House held that the then right of appeal (under 1971 Act section 14) only arose if the applicant had leave at the date of both the application to vary and the notice of appeal. This problem was answered by the Immigration (Variation of Leave) Order 1976 ("the 1976 Order"), article 3 of which provided that where a person with limited leave to remain applies before the expiry of that period for variation, the duration of the leave would be extended for 28 days after the date of the decision or withdrawal of the application. Section 14(1) of the 1971 Act gave protection against removal while an appeal was pending. No formality was laid down for an application to vary. It was regarded as sufficient that there should be "a request in unambiguous terms for a variation of leave" (see Macdonald 
+<i>Immigration Law and Practice </i>4th ed (1995) p 83).</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In 1996 changes to the Immigration Rules introduced a requirement for applications for variation to be made on a prescribed form accompanied by specified documents and provided that "An application for such a variation made in any other way is not valid." (HC395 rule 32). Rule 32 was challenged in judicial review proceedings by the Immigration Law Practitioners Association ("ILPA"), on the grounds that immigration rules under section 3(2) of the 1971 Act could not be used to change the law made by the 1976 Order. The challenge failed, even though the court accepted that under the new rule someone who does not make an application in the prescribed form would find that -</a></p><a name="para22"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"... his application ... will not be valid so that he then becomes an overstayer and is thus subject to the criminal and other consequences that flow from that status." (
+<i>R v Secretary of State for the Home Department, Ex p Immigration Law Practitioners Association</i> [1997] Imm AR 189, 191 per Collins J)</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Both section 14 of the 1971 Act and the 1976 Order were replaced by provisions in the Immigration and Asylum Act 1999 with similar effect. They included the insertion into the 1971 Act of a new section 3C, providing for the extension of leave, but again depending on the making of "an application" before the expiry of leave. The 1999 Act also introduced for the first time power to make regulations for payment of fees, and provided for the consequences of failure to pay. Section 5(2) provided that where a fee was payable in connection with an application of a particular kind -</a></p><a name="para23"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"... no such application is to be entertained by the Secretary of State unless the fee has been paid in accordance with the regulations."</p> 
+<p class="ParaLevel1">This section was not brought into force until 1 April 2003, and regulations imposing the first fees came into effect on 1 August 2003.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 165 of the 1999 Act also inserted a new section 31A into the 1971 Act, giving power to prescribe by regulation the form of an application. Section 31A provided that where a form was prescribed the application "must be made" in that form, but it said nothing about the consequences of non-compliance. No regulations were made at that time.</a></p><a name="para24"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As from 1 April 2003, section 3C of the 1971 Act was replaced (by 2002 Act section 118) by a new version taking the form set out earlier in this judgment (para 2). This version, subject to minor amendment by section 11 of the 2006 Act (not relevant to this appeal), was current at the time of the present applications. It differed from the previous version, in that the statutory extension of leave continued during the time when an appeal was pending, and came to an end upon the applicant leaving the country. The 2002 Act also introduced a new unified appeal structure with rights of appeal from "an immigration decision" as defined by section 82 of that Act (Part 5 of the 2002 Act). It appears to be common ground that there was no right of appeal against a decision on an application made after expiry of leave to remain.</a></p><a name="para25"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 31A of the 1971 Act was amended by the insertion of a new subsection (3A):</a></p><a name="para26"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"(3A) Regulations under this section may provide that a failure to comply with a specified requirement of the regulations -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) invalidates an application,</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) does not invalidate an application, or</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(c) invalidates an application in specified circumstances (which may be described wholly or partly by reference to action by the applicant, the Secretary of State, an immigration officer or another person)."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As from 1 August 2003 (the same date as the first fees regulations), the Immigration (Leave to Remain) (Prescribed Forms and Procedures) Regulations 2003 ("the 2003 Forms Regulations") set prescribed forms (regulations 3-9) and laid down prescribed procedures (regulation 11) for various types of application. Regulation 12 provided that failure to comply with certain procedural requirements would "only invalidate the application" if the applicant did not provide a satisfactory explanation and comply within 28 days of being notified of the failure. These regulations were amended or replaced on a number of occasions in similar form until 2007.</a></p><a name="para27"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 31A of the 1971 Act and section 5 of the 1999 Act were repealed by the 2006 Act. The relevant provisions of that Act, and of the subordinate legislation have already been set out (paras 3ff above). Finally, the UK Borders Act 2007 enabled the Secretary of State to make regulations requiring those subject to immigration control to apply for a document recording biometric information, and providing for its use in immigration procedures. Again the relevant provisions have been set out above (paras 6-7).</a></p><a name="para28"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Malik relies on the original interpretation of the term "application", as it appeared in the 1976 Order, as requiring no more than "a request in unambiguous terms". He submits that there is no reason to interpret the same word any differently in the equivalent provisions in later statutory enactments, including the 2002 Act. There is no indication that Parliament intended the meaning of that word to be restricted by reference to later provisions relating to fees or biometric information which were not in contemplation at the time. The Secretary of State in turn relies on the decision of Collins J in the 
+<i>ILPA </i>case as recognising the consequences of an "invalid" application, an analysis which should be taken as "entrenched" in subsequent legislation in similar form.</a></p><a name="para29"> 
+<p class="ParaHeading">
+<b>Discussion</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I have found this a troubling case. It is particularly disturbing that the Secretary of State herself has been unable to maintain a consistent view of the meaning of the relevant rules and regulations. The public, and particularly those directly affected by immigration control, are entitled to expect the legislative scheme to be underpinned by a coherent view of their meaning and the policy behind them. I agree with the concluding comments of Elias LJ (para 49) on this aspect, and the "overwhelming need" for rationalisation and simplification.</a></p><a name="para30"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The problem is only too vividly demonstrated by the course of the arguments in this case. The policy concerns which underlay the Secretary of State's position in the Court of Appeal were and remain very real. They should have been apparent to the Department at least since 1996, when judgment was given in the 
+<i>ILPA </i>case. Against that background, there was surely a need to introduce some measure of flexibility to ensure that bona fide applicants were not unduly penalised for simple mistakes which could be readily corrected. There have been some examples of flexibility. Thus the 2003 Forms Regulations provided that particular procedural requirements should not result in invalidity in the event of a satisfactory explanation and compliance within 28 days. We have been given no explanation for the more rigid approach adopted in respect of fees. Although Parliament did not place any restriction on the power of the Secretary of State to provide for the consequences of failure, that did not absolve her of responsibility for achieving a fair balance between the competing policy considerations.</a></p><a name="para31"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>There was some discussion in argument of the extent to which the Department's guidance to officers allowed for a degree of flexibility in the operation of the rules. After the hearing the Treasury Solicitor has helpfully submitted a note on relevant parts of the guidance on "Specified application forms and procedures". It seems that this has proved to be a more onerous task than anticipated because of the number of versions in force at various times. The guidance does recognise a measure of discretion to depart from requirements of the rules in particular cases. Thus in version 6.0 of the guidance valid from 9 May 2012 there is a section headed "Discretion" (p 46). This explains for example that, if an application received more than three months ago does not meet the specified form requirements, you "must use discretion and accept it as valid", since otherwise the applicant might be "unfairly disadvantaged" by rejection at that stage. On the other hand: "You must not use discretion and accept an application ... as valid if a specified fee has not been paid". This difference is explained as due to the fees requirement being in the regulations rather than the rules. Whatever the logic of that distinction, it is not suggested by either side that it throws any light on the issue before us.</a></p><a name="para32"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We must accordingly decide the present appeals within the legislation as it stands, there being no challenge to the legality or rationality of the relevant rules and regulations. The issues have to be approached by the application of the ordinary principles of statutory interpretation. They start from the natural meaning of the words in their context. On that basis I have no doubt that, at least in respect of Mr Iqbal and Mr Mirza, the Court of Appeal reached the correct conclusion. There is no ambiguity in the words of regulation 37 of the 2011 Regulations. It provides in terms that if an application is not accompanied by the specified fee the application "is not validly made". In ordinary language an application which is not validly made can have no substantive effect. There is nothing in the regulation to exclude section 3C from its scope.</a></p><a name="para33"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Nor is there anything in the history of the provisions to support a different approach. It is true that, at the time of the enactment of section 3C in its present form by the 2002 Act, Parliament could not have had in contemplation the relevant provisions of the 2006 Act or the regulations made under it. However, that is nothing in point. The powers given by Parliament in the later Act were made within the same legislative framework as the 2002 Act. In the absence of any limitation on the scope of the powers given to the Secretary of State to prescribe the consequences of procedural failure, there is no reason to exclude section 3C. That is not, as Mr Malik argues, to allow the executive to alter the interpretation of the primary legislation, but rather to determine the scope of the powers given to the executive by Parliament in the later statute. Conversely, the reasoning of Collins LJ in the 
+<i>ILPA </i>case shows a clear understanding of the practical implications of invalidity, which formed part of the background of the new legislation, and must be assumed to have been taken into account by the drafters of the legislation, both primary and secondary.</a></p><a name="para34"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I also agree with the Court of Appeal's rejection of Mr Iqbal's separate ground of appeal based on alleged unfairness. The comments of the Upper Tribunal in 
+<i>Basnet </i>while deserving respect cannot be treated as laying down a universal rule. It is unfortunate that he was caught out by a recent change in the level of fees. But it is not suggested that there was any failure by the Secretary of State to publicise the change. It was announced in Parliament on 28 February 2011. News items were published on the UK Border Agency website, and the new fees were set out in the relevant application form. There has been no challenge to the finding of the Upper Tribunal that the Secretary of State responded with reasonable promptness. The problem arose because the application had been made very close to the expiry of leave and left no time for correction. It follows that the appeals of Mr Iqbal and Mr Mirza must be dismissed.</a></p><a name="para35"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I find more difficulty with the case of Ms Ehsan. Mr Malik did not, as I understood him, rely on any material distinction between the applicable provisions in the three cases. However, there is a potentially important difference. The obligation to pay the fee arises at the time of the application. There is no conceptual difficulty in providing that an application unaccompanied by a fee is invalid from the outset. The requirement to apply for biometric information arises only at a later stage, on receipt of a notice from the Secretary of State. Thus in Ms Ehsan's case the application was made in December 2011, but it was not until the following February that she was required to make an appointment. Even then it was accepted that there might be a reasonable explanation justifying further delay.</a></p><a name="para36"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is difficult to see any reason why a failure at that stage should be treated as retrospectively invalidating the application from the outset, and so nullifying the previous extension under section 3C of her leave to remain. There appears to be nothing in section 7 of the 2007 Act to support such retrospective effect. The revised version of regulation 23(2)(b) (which was in force at the time of the March decision to reject her application as invalid) does no more than give the Secretary of State power to "treat" the application as invalid. There might be some question as to how that wording relates to the terms of section 7(2), but as I have said there was no challenge to its validity. In any event there is no reason to read it as having retrospective effect. The natural reading, which is consistent with the statutory purpose, is to give power to invalidate the application as from the time of the decision, but not before. However, this reading would not help Ms Ehsan herself. Even if her leave was treated as continuing until the date of the Secretary of State's decision on 26 March 2012, it would not assist her in respect of her new application made on 3 April 2012.</a></p><a name="para37"> 
+<p class="ParaHeading">
+<b>Conclusion</b></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For the reasons given above I would dismiss the three appeals and uphold the orders of the Court of Appeal.</a></p><a name="para38"> </a></div><a name="para38"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/63.html</i>
+</small>
+<p></p>
+
+  
+
+
+</body></html>

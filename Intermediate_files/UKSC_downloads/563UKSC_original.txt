@@ -1,0 +1,1457 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>HC, R (on the application of) v Secretary of State for Work and Pensions [2017] UKSC 73 (15 November 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      HC, R (on the application of) v Secretary of State for Work and Pensions [2017] UKSC 73 (15 November 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/73.html</i>
+<br>Cite as: 
+[2017] 3 WLR 1486,
+
+[2018] HLR 6,
+
+[2018] 2 All ER 1,
+
+[2019] AC 845,
+
+[2018] 2 CMLR 11,
+
+[2017] UKSC 73,
+
+[2017] WLR(D) 761,
+
+(2018) 21 CCL Rep 127
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/73.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011205927/casereport_be1ebae5-28c1-41ea-a36b-e4cc597d4db4/html">[2019] AC 845</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016030808/casereport_01d28bfc-f3e5-46e1-9c29-6e8f884f2bb0/html">[2017] WLR(D) 761</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/73.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" style="margin-left:72.0pt;text-align:justify"><b><i><span style="color:red">“THE COURT ORDERED that no one shall publish or reveal the
+names or addresses of the children of the Applicant who is the subject of these
+proceedings or publish or reveal any information which would be likely to lead
+to the identification of the Applicant, her children or any member of the
+Applicant’s family in connection with these proceedings.”</span></i></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 73</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/49.html">[2015] EWCA Civ 49</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">R (on the application of HC) (Appellant) <i>v</i> Secretary
+of State for Work and Pensions and others (Respondents)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">15 November 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 21 and 22 June
+2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Richard Drabble QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Ranjiv Khubber</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Platt Halpern Solicitors)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondents</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jason Coppel QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Amy Rogers</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:71.25pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener (The
+  AIRE Centre)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Charles Banner</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Herbert Smith Freehills LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD CARNWATH: (<span style="text-transform:none">with whom Lord
+Clarke, Lord Wilson and Lord Sumption agree)</span></p>
+
+<p class="ParaHeading"><b>Introduction</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the rights of so-called “<i>Zambrano </i>carers”
+and their children to financial support from the state. That expression is
+derived from the decision of the Court of Justice of the European Union dated 8
+March 2011, in <i>Ruiz</i> <i>Zambrano v Office national de l’emploi</i> (Case
+C-34/09) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C3409.html">[2012] QB 265</a>. The case concerned a Colombian who had been living in
+Belgium with his wife, and working (and paying social security contributions),
+but without a right to reside. Their three children, born between 2003 and
+2005, acquired Belgian nationality at birth, and with it European citizenship
+and the right of free movement, under article 20 of the Treaty on the
+Functioning of the European Union (“TFEU”). When in 2005 he lost his job, he
+was refused unemployment benefit, because under the relevant national law that
+depended on his having a right to reside. The European court held that the
+refusal of such a right was unlawful because it would result in the children
+being deprived of effective enjoyment of their rights as European citizens.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The present appeal arises from a challenge to the legality of amendment
+regulations introduced in this country in November 2012 in response to the <i>Zambrano
+</i>decision. They were designed to limit the rights of <i>Zambrano </i>carers
+to claim certain categories of non-contributory social security assistance to
+which those “habitually resident” would otherwise be entitled: more
+specifically, income-related benefits, child benefit and child tax credit, and
+housing and homelessness assistance. The amendment regulations in question are:</a></p><a name="para2">
+
+<p class="ParaLevel2" style="text-indent:0cm">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Social Security (Habitual Residence) (Amendment) Regulations 2012
+(SI 2012/2587), amending the Income Support (General) Regulations 1987 (SI
+1987/1967).</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Child Benefit and Child Tax Credit (Miscellaneous Amendments)
+Regulations 2012 (SI 2012/2612), amending the Child Benefit (General)
+Regulations 2006 (SI 2006/223).</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Allocation of Housing and Homelessness (Eligibility) (England)
+(Amendment) Regulations 2012 (SI 2012/2588), amending the Allocation of Housing
+and Homelessness (Eligibility) (England) Regulations 2006 (SI 2006/1294).</p>
+
+<p class="ParaLevel1">The effect of the amendment in each case is to add to the
+relevant list of exclusions from qualifying rights of residence, a right to
+reside existing by virtue of TFEU article 20, where that right “arises because
+a British citizen would otherwise be deprived of the genuine enjoyment of the
+substance of their rights as a European Union citizen”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Secretary of State’s evidence (in a statement by Gareth Cooper,
+Policy Adviser) refers to the Explanatory Memorandum to the amendment regulations.
+This explained the purpose as being to maintain the existing policy that
+non-European Economic Area (EEA) nationals are not entitled to claim
+income-related benefits, following the ruling in the <i>Zambrano</i> case. Mr
+Cooper (para 8) quotes it as follows:</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the Home Office are amending
+their regulations to provide a right to reside and a right to work to a non-EEA
+national who is a primary carer of a dependent British citizen only if the
+British citizen would otherwise be forced to leave the UK and be deprived of
+exercising their rights as an EU citizen. If the social security regulations
+are not amended such persons would become entitled to income related benefits.”</p>
+
+<p class="ParaLevel1">The amendments had been subject to consultation with local
+authority associations and the Social Security Advisory Committee, and had
+attracted no objection or substantive comment. According to Mr Cooper it had
+been estimated by the Home Office that there would initially be some 700 people
+a year qualifying for <i>Zambrano </i>rights, giving rise to a potential annual
+cost of between £3.8m and £9.4m in respect of income support, housing benefit
+and council tax benefit together. Mr Cooper does not indicate what
+consideration, if any, had been given to how children of workless <i>Zambrano </i>carers
+were to be supported, if not entitled to such assistance.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The facts relevant to the present appellant, Mrs HC, can be shortly
+stated. She is an Algerian national who has been living in this country since
+2008, having arrived with leave but over-stayed. In 2010 she married a British
+national on whom she was financially dependent. She has two children by him,
+born in August 2011 and March 2013. Her relationship with him ended after
+domestic violence in late 2012, when she sought help from the Oldham City
+Council, in whose area she was then living. After an initial refusal, the
+council agreed to provide temporary housing and financial support under section
+17 of the Children Act 1989. Separate judicial review proceedings against the
+council resulted in an interim order by His Honour Judge Pelling QC, under
+which she and her children were accommodated by the council in two bedroom
+accommodation and given £80.50 per week to cover subsistence and utility costs.
+Those proceedings were later stayed by consent on the council’s agreement to
+carry out a further assessment of their needs, and to continue the support in
+the meantime.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is now common ground (following a decision of the First-tier Tribunal
+in April 2014) that she is entitled to reside in the UK as a <i>Zambrano </i>carer.
+It is also not in dispute that that entitlement, taken with the financial
+support provided by the council, provides not only the legal right, but also
+the practical support, necessary to protect the children against being obliged
+to leave the territory of the European Union while under her care. Her case
+(para 36 of her second witness statement) is that this is not enough:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“As I cannot go back to Algeria
+and have no right to live in any other country my only option is to remain
+here, where at least I have the protection of a prohibited steps order and the
+British courts. … Also my children are British. This is their home country and
+the only place they know. They are entitled to grow up here and, I pray, to
+enjoy the same benefits and opportunities of growing up in Britain that other
+British children have. At present when I see how they must live compared to
+their British cousins and step-siblings I know that they do not in practice
+have the same rights. We are expected to make do with far less, the bare minimum,
+only enough to survive.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In legal terms, Mr Drabble QC on her behalf submits that it was not
+legally possible for the amendment regulations to deny a <i>Zambrano</i> carer
+and her child mainstream welfare and housing provision, without contravening
+what he calls “the fundamental principle of equal treatment that is part of EU
+law”, as embodied in article 21 of the EU Charter of Fundamental Rights (“the
+Charter”). As a fall-back position he relies also on article 14 of the European
+Convention on Human Rights (“the Convention”).</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Against this background, the following issues arise:</a></p><a name="para7">
+
+<p class="ParaLevel2" style="text-indent:0cm">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Zambrano </i>principle.</p>
+
+<p class="ParaLevel3">Does the principle require from the state more for the
+children and their <i>Zambrano </i>carer than bare protection (legal and
+practical) against being obliged in practice to leave the territory of the
+Union?</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Discrimination:</p>
+
+<p class="ParaLevel3" style="text-indent:0cm">a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In so far as the regulations placed limits on the benefits available to <i>Zambrano
+</i>carers was the UK “implementing Union law” (within the meaning of article
+51 of the EU Charter), so as to bring the Charter into play? If so, did those
+limits involve unjustified discrimination on grounds prohibited by article 21
+of the Charter?</p>
+
+<p class="ParaLevel3" style="text-indent:0cm">b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Alternatively, did those limits involve unjustified discrimination
+contrary to article 14 of the Convention, taken with article 8 (right to
+respect for private and family life) or article 1 of the First Protocol (right
+to property)?</p>
+
+<p class="ParaHeading"><b>The Zambrano principle</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I start from the formulation of the principle by the European court in <i>Zambrano
+</i>itself. Having described citizenship of the European Union as “the
+fundamental status of nationals of the member state”, the court said:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“42.&nbsp;&nbsp;&nbsp;&nbsp; In those circumstances, article
+20 TFEU … precludes national measures which have the effect of depriving
+citizens of the European Union of the genuine enjoyment of the substance of the
+rights conferred by virtue of their status as citizens of the European Union …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">43.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A refusal to grant a
+right of residence to a third country national with dependent minor children in
+the member state where those children are nationals and reside, and also a
+refusal to grant such a person a work permit, has such an effect.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">44.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must be assumed that
+such a refusal would lead to a situation where those children, citizens of the European
+Union, <i>would have to leave the territory of the European Union</i> in order
+to accompany their parents. Similarly, if a work permit were not granted to
+such a person, he would risk not having sufficient resources to provide for
+himself and his family, which would also result in the children, citizens of
+the Union, <i>having to leave the territory of the European Union</i>. In those
+circumstances, those citizens of the European Union would, as a result, be
+unable to exercise the substance of the rights conferred on them by virtue of
+their status as citizens of the Union.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">45.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accordingly, the answer
+to the questions referred is that article 20 TFEU … is to be interpreted as
+meaning that it precludes a member state from refusing a third country national
+on whom his minor children, who are European Union citizens, are dependent, a
+right of residence in the member state of residence and nationality of those
+children, and from refusing to grant a work permit to that third country
+national, in so far as such decisions deprive those children of the genuine
+enjoyment of the substance of the rights attaching to the status of European
+Union citizen.” (emphasis added)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear (particularly from the passages highlighted in para 44) that
+the reasoning of the court turned specifically and solely on the risk of being
+obliged to leave the territory of the Union. There was no issue as to the
+nature of financial support (if any) required, nor as to the extent of any
+right to benefits otherwise available to nationals. Once the right of
+residence, and with it the right to work, were established, the entitlement to
+and the amount of unemployment benefit followed as a matter of Belgian law.
+Indeed Advocate-General Sharpston had dismissed arguments that there might be
+an “unreasonable burden” on public finances, pointing out that Mr Zambrano had
+worked full-time for nearly five years, paid social security contributions, and
+thus “contributed steadily and regularly to the public finances of the host
+member state” (Opinion paras 118-120). Mr Drabble rightly does not suggest that
+in itself the judgment throws any light on the right to non-contributory
+benefits.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The same emphasis is found in the next significant case: <i>Dereci v
+Bundesministerium für Inneres</i> (Case C-256/11) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C25611.html">[2012] 1 CMLR 45</a>. Mr Dereci,
+a Turkish national, had entered Austria illegally. He had married an Austrian
+woman and had three children who were EU citizens. He applied for a residence
+permit, but this was refused by the national authorities because the EU
+citizens concerned had not exercised their right of freedom of movement. The
+European court accepted that, in the light of its decision in <i>Zambrano</i>,
+the situation of Union citizens who have not made use of their freedom of
+movement could not “for that reason alone, be assimilated to a purely internal
+situation” (para 61). Having summarised the decision in that case, the court
+said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“66.&nbsp;&nbsp;&nbsp;&nbsp; It follows that the
+criterion relating to the denial of the genuine enjoyment of the substance of
+the rights conferred by virtue of EU citizen status refers to situations in
+which the Union citizen has, in fact, to leave not only the territory of the
+member state of which he is a national but also the territory of the Union as a
+whole.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">67.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That criterion is
+specific in character inasmuch as it relates to situations in which, although
+subordinate legislation on the right of residence of third country nationals is
+not applicable, <i>a right of residence may not, exceptionally, be refused to a
+third country national,</i> who is a family member of a member state national,
+as the effectiveness of Union citizenship enjoyed by that national would
+otherwise be undermined.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">68.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequently, the mere
+fact that it might appear desirable to a national of a member state, for
+economic reasons or in order to keep his family together in the territory of
+the Union, for the members of his family who do not have the nationality of a
+member state to be able to reside with him in the territory of the Union, is
+not sufficient in itself to support the view <i>that the Union citizen will be
+forced to leave Union territory</i> if such a right is not granted.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">69.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That finding is,
+admittedly, without prejudice to the question whether, on the basis of other
+criteria, inter alia, by virtue of the right to the protection of family life,
+a right of residence cannot be refused. However, that question must be tackled
+in the framework of the provisions on the protection of fundamental rights
+which are applicable in each case.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That passage indicates both the “exceptional” nature of the <i>Zambrano </i>right
+(para 67); and that it is triggered not by the mere desirability of keeping the
+family together, on economic or other grounds, but solely by the threat of
+being “forced to leave Union territory” if the right were not granted (para
+68). Subsequent authorities are to the same effect. We have been referred to no
+European court authority which extends <i>Zambrano </i>rights to include
+non-contributory benefits of the kind in issue in the present appeal.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A more recent example, on which Mr Drabble relies, is <i>Rendón Marin v
+Administración del Estado (Judgment: Citizenship of the Union)</i> </a><a title="Link to BAILII version" href="/eu/cases/EUECJ/2016/C16514.html">[2016] EUECJ C-165/14</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2016/C16514.html">[2017] QB 495</a>, where the court described this line of cases as having
+-</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the common feature that,
+although they are governed by legislation which falls, a priori, within the
+competence of the member states, namely legislation on the right of entry and
+residence of third-country nationals outside the scope of provisions of
+secondary legislation which provide for the grant of such a right under certain
+conditions, they nonetheless have an intrinsic connection with the freedom of
+movement and residence of a Union citizen, which prevents the right of entry
+and residence being refused to those nationals in the member state of residence
+of that citizen, in order not to interfere with that freedom.” (para 75)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Drabble asks us to note that the national (Spanish) court, in making
+the reference, had referred to its possible relevance to social benefits under
+domestic law (para 30). However, there is nothing in the European court’s
+treatment of the case itself to suggest that the “scope of EU law” for these
+purposes extended beyond protection against being obliged to leave. Thus it was
+left for the national court to determine whether the refusal to grant residence
+to the father would mean that he had to “leave the territory of the European
+Union” with the result that “the children could be compelled to go with him,
+and therefore to leave the territory of the European Union as a whole” (para
+78).</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>R (Agyarko) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2017/11.html">[2017] UKSC 11</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/11.html">[2017] 1 WLR 823</a>, paras 62-63, in a judgment agreed by the other
+members of the Supreme Court, Lord Reed referred to this line of cases and
+emphasised the specific and derivative nature of the rights so conferred. He
+cited a passage from the judgment of the European court in <i>S v</i> <i>Secretary
+of State for the Home Department </i>(Case C-304/14) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2016/C30414.html">[2017] QB 558</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2016/C30414.html">[2017] 2 WLR 180</a>, para 29, holding -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“that there are very specific
+situations in which, despite the fact that the secondary law on the right of
+residence of third-country nationals does not apply and the Union citizen
+concerned has not made use of his freedom of movement, a right of residence
+must nevertheless be granted to a third-country national who is a family member
+of his since the effectiveness of citizenship of the Union would otherwise be
+undermined, if, as a consequence of refusal of such a right, that citizen <i>would
+be obliged in practice to leave the territory</i> of the European Union as a
+whole, thus denying him the genuine enjoyment of the substance of the rights
+conferred by virtue of his status.” (emphasis added)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The emphasised words in that citation are critical in defining the limited
+scope of the right. On this issue I agree entirely with the analysis of Elias
+LJ (<i>Harrison (Jamaica) v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/1736.html">[2012] EWCA Civ 1736</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2012/1736.html">[2013] 2 CMLR 23</a>, paras 63-70). As he said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The right of residence is a right
+to reside in the territory of the EU. It is not a right to any particular
+quality of life or to any particular standard of living. Accordingly, there is
+no impediment to exercising the right to reside if residence remains possible
+as a matter of substance, albeit that the quality of life is diminished …”
+(para 67)</p>
+
+<p class="ParaHeading"><b>Baumbast and related cases</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is convenient at this point to address Mr Drabble’s argument based on
+a line of cases beginning with <i>Baumbast v Secretary of State for the Home
+Department</i> (Case C-413/99) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2002/C41399.html">[2002] ECR I-7091</a>, followed in <i>Ibrahim v
+Harrow London Borough Council</i> and <i>Teixeira v Lambeth Borough Council</i>
+(Joined Cases C-310/08 and C-480/08) (both reported at <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C48008.html">[2010] ICR 1118</a>). These
+were concerned directly with a quite different issue: the interpretation of EU
+Regulation 1612/68, on freedom of movement for workers. Article 12 provided
+that children of a national of a member state employed in the territory of
+another member state should be admitted to that state’s general educational
+courses “under the same conditions as the nationals of that state, if such
+children are residing in its territory”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Bambaust </i>itself there was an issue whether the children’s
+rights of residence under the article continued after a change in the position
+of the parents in the state concerned. It was held that the children retained
+their right under article 12 to reside for the purpose of attending educational
+courses, notwithstanding the facts that the parents had divorced, that the only
+Union citizen parent had ceased to be a migrant worker in the state concerned,
+and that the children were not themselves citizens of the Union (para 63). It
+was held further that the parent who was the primary carer, irrespective of
+nationality, must be permitted to reside with them in order to facilitate the
+exercise of their right.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Drabble relies in particular on the application of that principle in
+the second case, <i>Ibrahim</i>. That concerned a Somali national who entered
+with leave to join her Danish husband, who was at the time working here; their
+children began to attend school shortly after her arrival. They later
+separated, and the husband had ceased working here, and she was wholly
+dependent on social assistance. The question arose whether she had a right of
+residence derived from her children’s rights under article 12, or whether that
+was subject to the conditions laid down in the Citizenship Directive (2004/38),
+including that of “sufficient resources”. On a reference from the Court of
+Appeal, the CJEU held that the rights of both children and their primary carers
+were derived from article 12, and were not as such subject to any such
+conditions (under the Citizenship Directive or otherwise) (paras 50-59).</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Drabble relies on this as showing that once the right of residence is
+established it was not necessary to show a positive right to claim social
+assistance. In the words of his case (para 4.34):</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The whole approach proceeds on
+the basis that if there is a right of residence which arises even if the
+individuals concerned are not self-sufficient, the individuals who are
+exercising the rights derived from EU law will be able to claim the same
+benefits as nationals of the host state.”</p>
+
+<p class="ParaLevel1">By the same token, he submits, in the absence of any
+self-sufficiency condition or other limitation, the residence rights of <i>Zambrano
+</i>carers should be treated as giving rise to the same benefits as those of
+other categories of resident.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He adopts a passage from an article by Dr Charlotte O’Brien “‘Hand-to-mouth’
+citizenship: decision time for the UK Supreme Court on the substance of
+Zambrano rights, EU citizenship and equal treatment”: [2016] 38(2) JSWFL 228 at
+p 234:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The CJEU [in <i>Zambrano</i>] created
+an EU citizenship-based right to reside, which necessarily triggers a right to
+equal treatment under EU law. Nowhere did the CJEU suggest that those exercising
+that right were not intended to really have that kind of right. Given that the <i>Zambrano</i>
+case was a benefits case, it seems only fair to suppose that had the CJEU
+wished to invent a new equal-treatment free right to reside, that is something
+they might have mentioned.</p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para20">We have been here before, and
+should have learnt from past experience. Following <i>Baumbast </i>UK
+authorities were adamant that <i>Baumbast </i>only applied to the
+self-sufficient (ie the well-off), even though the CJEU had not said so, and in
+spite of the incongruity with the case law. According to the UK the right to
+reside did not entail equal treatment. The Court of Appeal, while making the
+reference in <i>Ibrahim </i>… </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2008/386.html">[2008] EWCA Civ 386</a> was inclined to agree,
+expressing scepticism about the idea that they shouldn’t read a
+self-sufficiency condition into <i>Baumbast</i> (55). However, the CJEU in <i>Ibrahim
+..</i>. made clear that there was no basis for a condition of self-sufficiency
+in the legislation in question (52), or in the case law (53) and specifically
+pointed out that the ruling in <i>Baumbast</i> had not been based on a finding
+of self-sufficiency …”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I have two difficulties with the comparison so made with this line of
+cases. In the first place, the domestic law context was quite different. As the
+court noted in <i>Ibrahim </i>(para 14), entitlement under the national
+legislation turned on whether she had a right of residence conferred by EU law,
+but was otherwise unlimited. The issue was whether it was implicitly subject to
+a self-sufficiency condition derived from EU law. No such issue arises here.
+The limitations are derived from the domestic legislation, and the only issue
+is their compatibility with EU law. Secondly, the proposition that the right of
+residence created in <i>Zambrano </i>“necessarily triggers” a right to equal
+treatment under EU law begs one of the principal issues raised by the present
+appeal - a question to which I now turn.</a></p><a name="para21">
+
+<p class="ParaHeading"><b>Discrimination under the Charter</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although Mr Drabble has referred to what he calls the “fundamental
+principle of equal treatment that is part of EU law”, his submissions (rightly
+in my view) are not based on any such general principle. They are directed
+specifically to article 21 of the Charter, as applied by article 51, rather
+than any more general principle. At an earlier oral permission hearing of this case
+permission was refused for a separate ground of appeal based on article 18 of
+the Treaty, which prohibits discrimination on the grounds of nationality. That
+can have no application to a third country national, such as Mrs HC. As Lady
+Hale has said (<i>Patmalniece v Secretary of State for Work and Pensions</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/11.html">[2011] 1 WLR 783</a>, para 83):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“This [article 18] is not a
+general prohibition of discrimination on grounds of nationality. Only the nationals
+of member states are protected. Discrimination against third country nationals
+is not prohibited. Indeed it is positively expected. The underlying purpose is
+to promote the objects of the Union and in particular the free movement of
+workers between the member states and the free establishment of businesses
+within them.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under the Charter, the starting point is article 51, by which the
+principles of the Charter apply to member states “only when they are
+implementing Union Law”. Mr Drabble submits that for this purpose it is
+sufficient that the <i>Zambrano </i>principle brings the carer and child
+“within the scope” of the EU treaties “<i>ratione personae” </i>(adopting the
+language of the CJEU in <i>Martínez Sala v Freistaat Bayern</i> (Case C-85/96),
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1998/C8596.html">[1998] ECR I-2691</a>). Alternatively, in setting the support to be provided to <i>Zambrano
+</i>carers, and in choosing between section 17 support and mainstream welfare
+benefits, the Secretary of State was choosing between different modes of
+implementing EU law, or (as Mr Banner puts it, for the AIRE Centre, as
+intervener) regulating the entitlement to financial assistance under EU law.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Coppel, for the Secretary of State, rejects that approach. It is not
+enough to say that Mrs HC is personally (“<i>ratione personae</i>”) within the
+scope of the Treaty by virtue of her derivative right of residence. <i>Sala </i>was
+directed specifically to the rights of EU citizens (see judgment paras 62-63),
+and was not in any event concerned with the application of the Charter. Nor is
+it enough that the national law is related in some way to EU law. There must be
+a direct link between the act in question and the implementation of that law.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is illustrated by reference to <i>Ymeraga v Ministre du Travail, de
+l’Emploi et de l’Immigration</i> (Case C-87/12) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2013/C8712.html">[2013] 3 CMLR 33</a>. That
+concerned the refusal by the Luxembourg government, under a national law on
+freedom of movement, to grant a right of residence to family members of the
+first applicant (Mr Y). One issue concerned the application of the Charter to
+the law in question. The court considered whether the refusal was “a situation
+involving the implementation of European Union law” within the meaning of
+article 51. For that purpose -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… it must be ascertained among
+other things whether the national legislation at issue is intended to implement
+a provision of EU law, what the character of that legislation is, and whether
+it pursues objectives other than those covered by EU law, even if it is capable
+of indirectly affecting that law, and also whether there are specific rules of EU
+law on the matter or capable of affecting it …” (para 41)</p>
+
+<p class="ParaLevel1">The court accepted that the national law on freedom of
+movement was “indeed intended to implement EU law”, but that was not enough.
+The situation of the applicants was not governed by either of the EU directives
+relied on, nor did the refusal of a right of residence to Mr Y’s family members
+“have the effect of denying him the genuine enjoyment of the substance of the
+rights conferred by virtue of his status as citizen of the Union”. Accordingly
+the refusal did not involve the implementation of European Union law, and
+accordingly the Charter had no application (paras 41-43).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Coppel relies particularly on <i>Dano v Jobcenter Leipzig </i>(Case
+C-333/13)<i> </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2014/C33313.html">[2015] 1 WLR 2519</a> (“<i>Dano</i>”), as showing that decisions
+about the level of non-contributory benefits, absent any specific requirement
+or condition of EU law, are not within the scope of the Charter. In that case<i>
+</i>a Romanian mother had been living in Germany with her son, where she was
+looking for work. Her application for benefits as a job-seeker was refused
+because national law excluded such benefits for foreign nationals whose right
+of residence arose solely out of the search for employment. This was challenged
+as breaching their right to equal treatment under Parliament and Council
+Regulation No 883/2004 (which categorised such benefits as “special
+non-contributory cash benefits”), article 4 of which provided that Union
+citizens residing in another member state should enjoy the same benefits as
+nationals of the host member state. It was held by the CJEU (in summary) that,
+although the benefits in question fell within the scope of article 4, they were
+linked to the right of residence under the Citizenship Directive and could be
+limited by reference to its conditions.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A fourth question related to the application of certain provisions of
+the Charter. The court referred to article 51, and to article 6(1) of the EU
+Treaty, by which the provisions of the Charter are not to extend the
+competences of the EU as defined in the Treaties (paras 87-88). It noted that
+the relevant regulation did not lay down conditions for the rights in question;
+it was therefore for the legislature of each state to lay down those conditions
+(para 89). It concluded:</a></p><a name="para27">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“91.&nbsp;&nbsp;&nbsp;&nbsp; Consequently, when the
+member states lay down the conditions for the grant of special non-contributory
+cash benefits and the extent of such benefits, they are not implementing EU
+law.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my view Mr Coppel’s approach is correct. The test is not whether Mrs
+HC is personally within the scope of EU law in some way.<i> </i>The issue must
+be judged by reference to the test set by article 51, which is directed to
+“implementation” of EU law. Once it is determined that EU law does not require
+more for the children of a <i>Zambrano </i>carer than practical support
+sufficient to avoid their being obliged to leave the Union, that also sets the
+limits of what is involved in its implementation. Although it is open to the
+state to provide more generous support (“gold-plating”, as it is sometimes
+called), that is the exercise of a choice under national law, not EU law. To
+describe this as “regulating” the financial assistance given to the EU carer
+does not alter that fact. Just as Mr Ymeraga could not rely on the Charter to
+extend the derivative rights otherwise available to his family members, so Mrs
+HC cannot rely on it to give her any entitlement to financial assistance beyond
+the limited support required by the <i>Zambrano </i>principle itself.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The point does not bear of much elaboration, but the conclusion is
+sufficient to dispose of this issue in favour of the Secretary of State. It is
+unnecessary therefore to consider the interesting questions which would have
+arisen under article 21, had the Charter been held to apply.</a></p><a name="para29">
+
+<p class="ParaHeading"><b>Discrimination under the Convention</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I can deal relatively briefly with this issue, which was not developed
+in any great detail by Mr Drabble, other than by repetition of the arguments
+advanced in respect of article 21 of the Charter. In short, he submits that the
+amendment regulations have an impact within the ambit of article 8, or article
+1 of the First Protocol, and that accordingly there is right under article 14
+not to be discriminated against without reasonable justification.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is unnecessary for present purposes to enter into the continuing
+debate about the application to benefits of this kind of article 8, as opposed
+to article 1 of the First Protocol) (see per Collins J <i>R (DA) v Secretary of
+State for Work and Pensions </i></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2017/1446.html">[2017] EWHC 1446 (Admin)</a>, paras 39-40). I am
+prepared to proceed on the basis that the case falls within the ambit of
+convention rights so as potentially to engage article 14. That article
+provides:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The enjoyment of the rights and
+freedoms set forth in this Convention shall be secured without discrimination
+on any ground such as sex, race, colour, language, religion, political or other
+opinion, national or social origin, association with a national minority,
+property, birth or other status.”</p>
+
+<p class="ParaLevel1">The “status” on which Mr Drabble relies, as I understand
+his submission, is either immigration status, or, more narrowly, the status of <i>Zambrano
+</i>carer and child. I do not think that either can assist him under article
+14. Discrimination on the basis of immigration status is of course a
+fundamental and accepted part of both EU and national law, but cannot in itself
+give rise to an issue under article 14. In so far as Mrs HC’s differential
+treatment arises from her status as a third country national, she can have no
+complaint. So far as concerns her <i>Zambrano </i>status, that is a creation of
+European law, and such differences of treatment as there are, as compared to
+other categories of resident, do no more than reflect the law by which the
+status is created.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In any event, the Strasbourg court has long accepted that the allocation
+of limited public funds in the social security and welfare context is
+pre-eminently a matter for national authorities, subject only to the
+requirement that their decisions should not be “manifestly without reasonable
+foundation” (see <i>R (MA) v Secretary of State for Work and Pensions (Equality
+and Human Rights Commission intervening) </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/58.html">[2016] 1 WLR 4550</a>, para 32 per
+Lord Toulson). The government’s reasons for not providing support to <i>Zambrano
+</i>carers, as explained in the evidence of Mr Gareth Cooper, included the
+objectives of reducing costs by allocating benefits to those with the greatest
+connection with this country, of encouraging immigrants here unlawfully to
+regularise their stay, of encouraging TCNs wishing to have children here to
+ensure that they had sufficient resources to support themselves and their children,
+and of reducing “benefits tourism”. Like Arden LJ in the Court of Appeal (para
+96) in spite of criticisms made by Mr Drabble, I find it impossible to say that
+these objectives fall outside the wide margin of discretion allowed to national
+governments in this field.</p>
+
+<p class="ParaHeading"><b>Section 17</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As I have said, no issue arises in this appeal as to the scope of the
+local authority’s duties under section 17 of the Children Act 1989, and we have
+heard no argument upon them. However, it has emerged as an important aspect of
+the government’s response to <i>Zambrano </i>principle, which may not have been
+anticipated at the time that the amending regulations were being prepared.
+There is no indication that it was the subject of discussion between central
+and local government at that time. Mr Cooper does no more than refer to the
+actions taken by the Oldham Borough Council, as the responsible local authority
+under that Act. He does not suggest that section 17 formed any part of the
+government’s thinking when preparing the regulations, or of any impact
+assessment then carried out. Nor have we heard any submissions from the Oldham
+Borough Council itself. However some brief comment may be appropriate.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 17(1) imposes a “general duty” on local authorities:</a></p><a name="para34">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; to safeguard and promote
+the welfare of children within their area who are in need; and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; so far as is consistent
+with that duty, to promote the upbringing of such children by their families,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">by providing a range and level of
+services appropriate to those children’s needs.”</p>
+
+<p class="ParaLevel1">The services so provided may include providing
+accommodation and giving assistance in kind or in cash (section 17(6)). A child
+is taken to be in need for this purpose if (inter alia) -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… he is unlikely to achieve or
+maintain, or to have the opportunity of achieving or maintaining, a reasonable
+standard of health or development without the provision for him of services by
+a local authority under this Part.” (section 17(10))</p>
+
+<p class="ParaLevel1">More detailed provision as to how that duty is to be
+carried out is contained in Schedule 2 to the Act. Also relevant is section 11
+of the Children Act 2004, which requires local authorities to make arrangements
+to ensure that “their functions are discharged having regard to the need to
+safeguard and promote the welfare of children” (section 11(2)(a)); and in so
+doing to have regard to any guidance given to them for the purpose by the
+Secretary of State (section 11(4)).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The scope of the section 17 duty was considered by the Court of Appeal
+in <i>R (C) v London Borough of Southwark</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/707.html">[2016] EWCA Civ 707</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/707.html">[2016] HLR 36</a>. That case concerned assistance provided to children of a Nigerian mother
+following the refusal of leave to remain, and pending their return to Nigeria.
+The court rejected, on the evidence, a claim that the authority had applied an
+unlawful policy of setting financial support by reference to levels of child
+benefit, or to amounts paid by the Secretary of State to asylum-seekers, rather
+than by way of assessing their actual needs. In the leading judgment Ryder LJ
+described the duty in these terms:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“12.&nbsp;&nbsp;&nbsp;&nbsp; It is settled law that
+the section 17 scheme does not create a specific or mandatory duty owed to an
+individual child. It is a target duty which creates a discretion in a local
+authority to make a decision to meet an individual child's assessed need. The decision
+may be influenced by factors other than the individual child’s welfare and may
+include the resources of the local authority, other provision that has been
+made for the child and the needs of other children … Accordingly, although the
+adequacy of an assessment or the lawfulness of a decision may be the subject of
+a challenge to the exercise of a local authority’s functions under section 17,
+it is not for the court to substitute its judgment for that of the local
+authority on the questions whether a child is in need and, if so, what that
+child's needs are, nor can the court dictate how the assessment is to be
+undertaken …</p>
+
+<p class="MsoQuote" style="text-indent:36.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A local authority that
+provides support for children in need under the 1989 Act is acting under its
+powers as a children’s services authority (a local social services authority
+with responsibility for children) not as a local social services authority
+performing functions relating to homelessness and its prevention, and not as a
+local housing authority. The limited nature of the local authority's power is
+important. The local authority appropriately remind this court of the statement
+of principle in this regard which is to be found in <i>R (Blackburn Smith) v
+London Borough of Lambeth</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2007/767.html">[2007] EWHC 767 (Admin)</a> at para 36 per Dobbs J:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">‘… the defendant’s powers [under
+section 17] were never intended to enable it to act as an alternative welfare
+agency in circumstances where Parliament had determined that the claimant
+should be excluded from mainstream benefits.’”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As that judgment makes clear, section 17 is designed to cover a wide
+range of circumstances in which a local authority may need to take action to
+protect the interests of children in their area, temporary (as in that case) or
+more long-lasting. The duty arising in the present context is perhaps unusual
+in that arises from a responsibility imposed by EU law on member states. It is
+also likely to continue so long as no other sources of support are available to
+the child. On the view I have taken the allocation of responsibility for that
+support, as between central and local government, is an issue of national
+rather than EU law. However, that does nothing to diminish the importance of
+the duty.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It must always be remembered that the primary objective is to promote
+the welfare of the children concerned, including the upbringing of such
+children by their families. The assessment of need must remain the
+responsibility of the local authority (as Ryder LJ made clear), but, given that
+this is a national responsibility, it is clearly desirable that there should be
+a degree of consistency as between authorities. The legislation allows for the
+provision of national guidance. Judicial review is available as a backstop, but
+it is likely to be unsatisfactory for the levels of appropriate support to be
+left for determination by the individual authorities on a case-by-case basis,
+subject only to control by the courts by reference to conventional <i>Wednesbury
+</i>principles. On this aspect I agree also with the observations of Lady Hale
+at paras 43-46 of her judgment.</a></p><a name="para37">
+
+<p class="ParaLevel1"><b><i>Conclusion</i></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the reasons given above, which are substantially the same as those
+of the Court of Appeal, I would dismiss the appeal.</a></p><a name="para38">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LADY HALE:</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I have found this a very troubling case. It is not a case about adults’
+rights. It is a case about children’s rights - specifically the right of these
+two very young British children to remain living in their own country and to
+have the support which they need in order to enable them to do so.
+Self-evidently they need the support of their mother in the shape of the care
+which she is able to give them. But they also need support in the shape of a
+place to live and enough to live on.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Yet this is not the way in which the policy-makers who framed the
+various Regulations which are under attack in these proceedings saw the matter.
+They saw it solely in terms of the mother and other <i>Zambrano </i>carers like
+her, as third country nationals who should be put in the same position as any
+other third country national. Third country nationals are not, in general,
+entitled to income-related benefits; and so (as Mr Gareth Cooper explains) the
+Department for Work and Pensions extended this rule to <i>Zambrano </i>carers.
+Third country nationals are only entitled to be allocated social housing or
+given homelessness assistance if this accords with the Government’s immigration
+and asylum policy, broadly only if they have leave to enter or remain without a
+condition that they have no recourse to public funds; and so (as Ms Frances
+Walker explains) the Department for Communities and Local Government excluded <i>Zambrano
+</i>carers from eligibility. Third country nationals are only entitled to child
+benefit and child tax credits in broadly the same circumstances; and so (as Mr
+Phillip Dearne explains) Her Majesty’s Revenue and Customs excluded them from
+eligibility.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Yet <i>Zambrano </i>carers are not like any other third country
+nationals. They have British (or other EU citizen) children dependent upon
+them. That is why, because of the <i>Zambrano </i>decision, the Immigration
+(European Economic Area) Regulations 2006 (SI 2006/1003) had to be amended to
+give them the right to live and work here. There is not a hint in the evidence
+which we have seen that any consideration was given to how these children would
+be supported if the parent looking after them was unable to work, whether because
+of the demands of child care or for any other good reason. We are told that the
+Department of Work and Pensions consulted the local government associations
+about the exclusion from benefits and the associations made no objection. We do
+not know whether it had occurred either to central or to local government that
+(unless there was family or charitable support) the only way in which these
+children could escape destitution was through the powers of local children’s
+services authorities under section 17 of the Children Act 1989. If that had
+been made clear, one imagines that the local government associations might well
+have expressed some concern about the transfer of this responsibility to them
+without some corresponding transfer of the considerable sums entailed in
+discharging this responsibility properly.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 17 empowers and obliges local authorities to provide a range of
+services to safeguard and promote the welfare of “children in need” and, so far
+as is consistent with that duty, to promote their upbringing by their families.
+It is a development of a duty dating back to the Children and Young Persons Act
+1963 to provide families with help in order to avoid the need for children to
+be taken into care or looked after by the local authority. It was not intended
+to be a long-term substitute for social housing or means-tested benefits.
+Fortunately, however, section 17(6) provides that “The services provided by a
+local authority in the exercise of functions conferred on them by this section
+may include providing accommodation and giving assistance in kind or in cash”.
+As originally enacted, cash could only be provided “in exceptional
+circumstances”, but those words were repealed in 2011, under powers granted by
+the Children and Young Persons Act 2008.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 17 services have the great merit of flexibility. They can be
+adjusted to the needs of the particular child or family. They may well be in
+addition to the benefits and services to which the family are entitled under
+other legislation and thus may provide assistance at a higher level than that.
+But they have several disadvantages when compared with the benefits and
+services from which these children and their carers are excluded. First, they
+depend upon the local authority considering that the child is “in need” as
+defined in section 17(10) and (11) (see para 34). This is a judgment to be made
+by the local authority subject only to judicial review on the usual principles.
+Second, they are discretionary and not as of right to those who qualify.
+Indeed, it has been held that (unlike the duty to accommodate a child in
+section 20 of the 1989 Act) the section 17 duty is a “target duty” rather than
+a duty owed to any individual child. Third, there are no standard rates for
+assistance in cash, as there are with state benefits generally, with the
+consequent risk of inconsistency between authorities. Fourth, providing
+assistance in cash does not automatically bring with it entitlement to other
+assistance, such as free school meals, to which receipt of certain benefits is
+a passport. Fifth, the only way in which a family can seek to challenge the
+local authority’s decision is through judicial review, which is far more
+limited in scope and accessibility than an appeal to the social entitlement
+chamber of the First-tier Tribunal.</a></p><a name="para43">
+
+<p class="ParaLevel1" style="margin-top:0cm;margin-right:-2.9pt;margin-bottom:
+26.0pt;margin-left:0cm;text-indent:0cm">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus, according to the mother’s evidence, when she approached the local
+authority for the area where she was living with her husband, she was given her
+train fare to travel north to the area where her sister and family were living.
+This is a typical use of section 17 money. When she approached the local
+authority for that area, because her sister could not house and feed her and
+her child and her expected second child indefinitely, she was at first refused.
+But eventually she was offered one room in a local hotel and £45 per week in
+cash. That is how things stood when these proceedings were launched in July
+2013. The local authority then reassessed the children’s needs and (through
+their Head of Safeguarding, Mr Saul Ainsworth) offered them two-bedroomed
+accommodation of the sort which would be offered to a family who may be
+eligible for homeless accommodation and in effect to discharge her council tax
+liability; £55 a week for subsistence, based on the UK Border Agency’s figures
+for the amount needed to meet the needs of one adult and two children under
+three (as they then were); and £25.50 a week for gas, electricity and water,
+based on local inquiries. The annual cost of this package was estimated at
+£11,368.76, while the local authority’s annual budget for section 17 support
+was £12,000 (which is an indication that it is not expected to be used to
+provide long term income support).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was on that basis that, on 1 August 2013, the proceedings against the
+local authority were stayed while the proceedings against the Department of
+Work and Pensions, the Department for Communities and Local Government and Her
+Majesty’s Revenue and Customs, challenging the various regulations, continued.
+We are told that that is still the position today, although of course the local
+authority may carry out a further review of the children’s needs, especially as
+they are older now, and will no doubt have to do so if these proceedings are
+concluded in the Government’s favour.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In carrying out that review, the local authority will no doubt bear in
+mind, not only their duties under section 17, but also their duty under section
+11 of the Children Act 2004, to discharge all their functions having regard to
+the need to safeguard and promote the welfare of children, and their duty, under
+section 175 of the Education Act 2002, to exercise their education functions
+with a view to safeguarding and promoting the welfare of children. Safeguarding
+is not enough: their welfare has to be actively promoted. The authority will no
+doubt take into account that these are British children, born and brought up
+here, who have the right to remain here all their lives; they cannot therefore
+be compared with asylum-seeking children or the children of asylum-seeking
+parents, who may end up with no or only a limited right to remain. They will no
+doubt also wish to take into account the impact upon the proper development of
+these children of being denied a level of support equivalent to that of their
+peers, that is, the other British children around them whose families are
+dependent on income-related benefits. That level of support is not fixed at a
+level designed to lift children out of poverty, as officially defined, but at a
+level much closer to subsistence.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The above is, of course, premised on the dismissal of this appeal. <i>Zambrano
+</i>and the later cases say nothing about entitlement to benefits, but they do
+recognise that the children are dependent upon their parents, not just for
+care, but also for financial support, at least if it is derived from the parents’
+ability to work. The situation of <i>Zambrano </i>carers and their children
+does not fall within the European Union legislation on access to social
+security and other welfare benefits. All that <i>Zambrano </i>requires is that
+the children are not effectively deprived of their rights as European citizens
+by the situation in which they find themselves. Section 17 support, at least if
+it is determined giving due weight to the factors suggested above, should be
+sufficient to ensure that they are not effectively deprived of their rights as
+British and European citizens.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So the questions of EU law which arise are, first, does the Charter of
+Fundamental Rights apply, and second, what difference, if any, would it make if
+it did? By article 51 of the Charter, its provisions are addressed to the
+member states “only when they are implementing Union law”. The change to the
+2006 Immigration Regulations, allowing <i>Zambrano </i>carers to live and work
+here, was of course implementing Union law. But were the changes to the
+Regulations at issue here doing so? They were in consequence of a development
+in Union law, but they were not implementing it - in fact, quite the reverse.
+Supposing that there had been no fall-back in the shape of section 17, this
+could well have been a <i>failure</i> to implement Union law, leaving these
+children and their carers without support in this country and thus effectively
+obliging them to leave. But there is section 17, and in my view it is the
+administration of section 17 which could be said to be implementing Union law,
+by enabling these children to remain living in this country.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Assuming for the moment, without deciding, that the Charter can apply,
+not only to domestic legislation which implements Union law but also to
+domestic administration which does so, what difference would the Charter make
+in this context? Article 24(1) requires that “Children shall have the right to
+such protection and care as is necessary for their well-being”; section 17 of
+the 1989 Act is designed as a way of doing this. Article 24(2) requires that
+“In all actions relating to children, whether taken by public authorities or
+private institutions, the child’s best interests must be a primary
+consideration”. This obligation is obviously derived from article 3(1) of the
+United Nations Convention on the Rights of the Child, as was the obligation in
+section 11 of the 2004 Act. Properly understood, they should amount to the same
+thing.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By article 21(1) of the Charter, “Any discrimination based on any ground
+such as sex, race, colour, ethnic or social origin, genetic features, language,
+religion or belief, political or any other opinion, membership of a national
+minority, property, birth, disability, age or sexual orientation shall be
+prohibited”. The discrimination complained of here is between two types of
+British citizen child - the child who is being cared for by a third country
+national with only <i>Zambrano </i>carer’s rights to be here, and the child who
+is being cared for by a parent (or anyone else) who is entitled to claim income
+related benefits, child benefit and child tax credit, and to seek social
+housing and homelessness assistance. In general, of course, member states are
+entitled to draw distinctions between different categories of their own
+citizens, as long as these are not based on the listed personal
+characteristics. But, at a stretch, it might just be possible to regard this as
+a “ground such as” those listed.</a></p><a name="para50">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If that were so, I am not impressed by the justifications given by the
+respondents’ witnesses. These were justifications for exclusion from mainstream
+benefits. They were addressed to the parents, viewed as third country nationals
+rather than <i>Zambrano </i>carers, and not to the children. A child-focussed
+approach would have been quite different. Thus the first aim, allocating
+benefits to those with the greatest connection with this country, would
+obviously include allocating benefits to British children who were born here
+and have lived here all their lives. The second aim, of strengthening
+immigration control, is irrelevant to children who are not subject to it. Their
+<i>Zambrano </i>carers are only here to support them and for a long as they
+need that support. A third aim, of saving money, is less than compelling, given
+that what has in fact happened is a transfer of responsibility from one arm of
+government to another. As we have seen, the sums involved for a local authority
+such as this one are not negligible.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But if there is a need to avoid discrimination against the children of <i>Zambrano
+</i>carers, this merely reinforces my view of what local authorities should be
+taking into account when making their decisions about the level of support to
+be provided under section 17. Section 17 is one way of providing these children
+with what they need and deserve. That fact that there are other, and in some respects
+preferable, ways of doing so does not mean that the United Kingdom is in breach
+of its obligations under EU law. But no doubt local authorities would welcome
+some guidance on how they should meet their responsibilities to children with <i>Zambrano
+</i>carers (and even some help in doing so).</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, I agree that there is no question to be referred to
+the Court of Justice of the European Union and this appeal should be dismissed.</a></p><a name="para53">
+
+</a></div><a name="para53">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/73.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

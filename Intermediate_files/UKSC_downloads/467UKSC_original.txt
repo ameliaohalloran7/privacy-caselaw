@@ -1,0 +1,1153 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Hastings Borough Council v Manolete Partners Plc [2016] UKSC 50 (27 July 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Hastings Borough Council v Manolete Partners Plc [2016] UKSC 50 (27 July 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/50.html</i>
+<br>Cite as: 
+[2016] 1 WLR 3059,
+
+[2016] BLR 503,
+
+[2016] RVR 301,
+
+[2016] UKSC 50,
+
+[2016] WLR(D) 426,
+
+[2016] WLR 3059
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/50.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+426">[2016] WLR(D) 426</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+1+WLR+3059">[2016] 1 WLR 3059</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/50(image1).pdf">Summary</a></span></p><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 50</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/562.html">[2014] EWCA Civ 562</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Hastings Borough Council (Appellant) <i>v</i> Manolete
+Partners Plc (Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">27 July 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 23 June 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Steven Gasztowicz
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jack Parker</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Legal Services, Hastings Borough Council)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Martin Bowdery QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;(Instructed by
+  Gaby Hardwicke Solicitors)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD CARNWATH: (<span style="text-transform:none">with whom
+Lady Hale, Lord Kerr, Lord Toulson and Lord Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The council appeals against the decision that it is liable to pay
+compensation under section 106 of the Building Act 1984, for loss to a business
+on Hastings Pier arising from its closure during 2006 under the council’s
+emergency powers. The respondent (“Manolete”) pursued the claim as assignee of
+Stylus Sports Ltd (“Stylus”), which owned and operated the business at the
+relevant time, but went into liquidation in late 2011. The only issue in the
+appeal is whether Stylus was itself “in default” within the meaning of that
+section, so precluding it from making a claim.</a></p><a name="para1">
+
+<p class="ParaHeading"><b>The statutory provisions</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As explained more fully by Jackson LJ in the Court of Appeal ( </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2014/562.html">[2014] 1 WLR 4030</a>, <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/562.html">[2014] EWCA Civ 562</a>, 46 paras 46ff), the 1984 Act is one of a
+sequence of public health statutes, going back to the 19th century, which among
+other matters have dealt with the regulation of new buildings and the control
+of dangerous structures. The 1984 Act draws together a number of such
+provisions, including building regulations (Part I), supervision of
+construction work other than by local authorities (Part II), and “Other
+provisions about buildings” (Part III). Within Part III, and relevant to this
+case, are section 77 (“Dangerous building”) and 78 (“Dangerous building -
+emergency measures”).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 77 enables the council to apply to the magistrates’ court in
+relation to a building or structure which “is in such a condition, or is used
+to carry such loads, as to be dangerous”. Under subsection (1), the court may
+either (a) where danger arises from the condition of the building or structure,
+order the owner to execute work necessary to obviate the danger or to demolish
+it, or -</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(b) where danger arises from
+overloading of the building or structure, make an order restricting its use
+until a magistrates’ court, being satisfied that any necessary works have been
+executed, withdraws or modifies the restriction.”</p>
+
+<p class="ParaLevel1">By section 77(2)(b) if the person against whom an order is
+made under subsection (1)(a) above fails to comply with the order within the
+time specified, the local authority may execute the order and -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(b) recover the expenses
+reasonably incurred by them in doing so from the person in default.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under section 78 (directly relevant to this case), where it appears to
+the authority that a building or structure or part of it is in such a state, or
+is used to carry such loads, as to be dangerous, and that “immediate action
+should be taken to remove the danger”, they may take “such steps as may be
+necessary for that purpose”, having given notice if reasonably practicable to
+the owner and occupiers.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Compensation is governed by section 106 (in Part IV of the Act):</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1) A local authority shall make
+full compensation to a person who has sustained damage by reason of the
+exercise by the authority, <i>in relation to a matter as to which he has not
+himself been in default</i>, of any of their powers under this Act.” (emphasis
+added)</p>
+
+<p class="ParaLevel1">By section 106(2) any dispute arising “as to the fact of
+damage, or as to the amount of compensation” is to be determined by
+arbitration.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the context of a claim resulting from emergency action under section
+78, section 106 must be read with section 78(7):</a></p><a name="para6">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(7)&nbsp;&nbsp;&nbsp;&nbsp; Where in consequence of
+the exercise of the powers conferred by this section the owner or occupier of
+any premises sustains damage, but section 106(1) below does not apply because
+the owner or occupier has been in default -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the owner or occupier
+may apply to a magistrates’ court to determine whether the local authority were
+justified in exercising their powers under this section so as to occasion the
+damage sustained, and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if the court determines
+that the local authority were not so justified, the owner or occupier is
+entitled to compensation, and section 106(2) and (3) below applies in relation
+to any dispute as regards compensation arising under this subsection.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The “default” on which the council relies includes alleged breaches
+(actual or prospective) of the duties imposed by the Occupiers’ Liability Act
+1957 and the Health and Safety at Work etc Act 1974. In short the former (by
+section 2) imposes on occupiers of premises the “common duty of care”; that is
+-</a></p><a name="para7">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“a duty to take such care as in
+all the circumstances of the case is reasonable to see that the visitor will be
+reasonably safe in using the premises for the purposes for which he is invited
+or permitted by the occupier to be there.”</p>
+
+<p class="ParaLevel1">The latter, by section 2, imposes on an employer the duty
+to “ensure, so far as is reasonably practicable, the health, safety and welfare
+at work of all his employees”, and in particular to maintain any place of work
+(including means of access and egress) in a condition that is safe and without
+risks to their health.</p>
+
+<p class="ParaHeading"><b>The facts</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The history of the pier structure is described in the report by
+engineers for the council (“the Gifford report”) in June 2006, which led
+directly to their decision to close the pier:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The original Hastings Pier was
+opened in 1872. It was built to a length of 277m with its timber deck bearing
+on wrought iron lattice trusses, all supported on three rows of cast-iron screw
+piles via cast-iron columns; the columns were braced with wrought iron ties
+secured with cast-iron clamps. The width varied from 13.6m at the Central
+Section to 60m at Head and 39.6m at the landward end. Repairs utilising steel
+trusses and steel columns have been undertaken at various times since following
+a fire in 1917 to the Pier Head, partial demolition (sectioning) and actual
+bomb damage during the 1939-45 war, and widening to both sides of the Pier …”</p>
+
+<p class="ParaLevel1">They commented on the general state of the pier:</p>
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:22.2pt;margin-bottom:26.0pt;
+margin-left:72.0pt">“Experience has shown the typical life of Victorian piers
+to be approximately 100 years; during this time continual maintenance would
+have been required, including the replacement [of] some critical elements.
+After this time, major reconstruction works would be required if continued use
+of the pier were to be viable. The general condition of Hastings Pier fits this
+pattern.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In recent years the freehold of the pier was owned by Ravenclaw
+Investments Incorporated (“Ravenclaw”), a company registered in Panama, and
+managed on their behalf by Boss Management UK Ltd (“Boss”). Stylus occupied two
+units, C2 and C15, close to the entrance to the pier at the northern (town)
+end.&nbsp; They operated a bingo hall in unit C2 and an amusement arcade in unit
+C15. The units were held respectively under leases from Ravenclaw dated 14
+August 2001 and 10 October 2001. The “premises” as so leased were confined
+generally to the internal non-structural walls, and internal surfaces, and
+specifically excluded “any main structural parts of the premises or of the
+building …” (Schedule 1). Ravenclaw as landlord was responsible for repair and
+when necessary renewal of the structure including the support structure of the
+pier.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2004 Stylus became concerned about the structural integrity of the
+pier. They commissioned a full structural engineering survey of the pier by
+Hamill Davies Limited. The report (“the HDL report”), produced in September
+2004, was provided both to Ravenclaw and in January 2005 to the council. It
+advised that urgent work was required to repair piles at the far end of the
+pier (some distance beyond the Stylus units). This should be done “ideally”
+within the next two months “to avoid the worst of the winter weather”; and the
+deck area supported by these piles “should be closed to the public until this
+work is completed”. They also advised that future work should be carried out to
+the structure of the pier in the area of the Stylus units. Of this they said:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“With regard to the remaining work
+it is understood that this cannot be undertaken immediately. However this work
+should be completed within one year, with regular monitoring of the defective
+areas until this can be achieved. Unless this is carried out we judge there to
+be an unacceptable risk to the public.”</p>
+
+<p class="ParaLevel1">There is no evidence of action by Ravenclaw or the council
+to remedy the structural defects in response to this report, other than some
+limited work by Ravenclaw in the winter of 2005-2006. Meanwhile the public
+continued to use the pier, and the pier facilities (including the bingo hall
+and the amusement arcade) remained open for business.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In early April 2006 a council officer inspected the underside of the
+pier, when a section of tension cord fell from the pier. The council
+commissioned Gifford to report on the structural stability of the pier. Their
+brief included appraisal of its structural integrity and any potential risks to
+the public. The areas chosen were “those that would be subjected to the
+greatest crowd loading in the event of mass evacuation of the buildings, ie the
+designated escape routes” (report para 1.3). In May 2006 the council tried
+without success to compel Ravenclaw to commission a full structural assessment
+of the Pier. On 15 June 2006 they asked Boss, as agents for Ravenclaw, to close
+off the pier beyond the front facade, but that request was not complied with.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Gifford report, received by the council on 16 June 2006, identified
+serious structural defects, and recommended a full structural survey as a
+matter of urgency. It recommended by way of “immediate restrictions”</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access resulting in the
+potential for crowd loading on the Central Section and beyond should be
+prohibited until either, as a minimum, the presently identified defects in the
+area of the Central Section bounded by Columns 197-216-211-200 have been
+rectified or alternative safe access routes have been provided.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Access by shop tenants
+or others for the purpose of maintenance need not be restricted.” (para 6.1)</p>
+
+<p class="ParaLevel1">The columns there identified were beneath the Stylus
+premises.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 16 June the Council exercised its emergency powers under section 78
+of the 1984 Act to close the pier to the public from the front facade onwards.
+A barrier was erected across the frontage with a notice saying “danger keep
+out”. A letter was delivered on the same day to tenants of units on the pier
+stating that the pier was being closed from the main entrance building onwards,
+including the Bingo Hall and Amusement arcade. The letter indicated that the
+council had had concerns about the pier for some time and had served notice on
+the owners requiring them to carry out a survey of the structure. It continued:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:18.4pt;margin-bottom:26.0pt;
+margin-left:72.0pt">“In recent days the council has become aware that major
+events were still being booked for the Pier ballroom; two of these have been
+booked for July and one in August. As a result of its concerns over the Pier
+structure the Council commissioned consulting engineers Gifford of Southampton
+to look at a specific area of concern under the main covered walkway around the
+main facade entrance.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">This inspection was carried out
+yesterday. It has been established that at least five trusses have ‘failed’ in
+this area. Our consultant is of the opinion that it is unsafe to allow large
+numbers of people onto the Pier.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">This area provides the only method
+of access onto and off the Pier. Any emergency affecting the rest of Pier,
+including the ballroom, requiring evacuation would mean crowds of people
+walking over the area where we have been specifically advised that crowds are
+unsafe.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">As a result the council has had no
+option other than to use its emergency powers to close much of the Pier
+immediately.”</p>
+
+<p class="ParaLevel1">The letter noted that, despite previous attempts to resolve
+the situation, the “Pier management” were continuing to plan for large events.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the same day the council applied to Hastings Magistrates Court under
+section 77(1)(b) of the 1984 Act. The initial hearing at the Magistrates’ Court
+took place on 21 June 2006. A representative of Stylus attended and asked to be
+included in the proceedings. After adjournments, at the substantive hearing on
+12 September the court made an order under that section prohibiting public
+access to the pier until the necessary remedial works had been carried out.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Meanwhile, in July 2006 Stylus instructed HDL to undertake an inspection
+of the area beneath its units. It also instituted proceedings against Ravenclaw
+to require them to carry out the works of repair under the lease, and obtained
+summary judgment, but that was not complied with by Ravenclaw. In May 2007
+Stylus began itself to carry out the necessary remedial works under its own
+premises. Those having been completed, the magistrates’ court on 4 July 2007
+varied its order so as to permit public access to its premises.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 8 November 2006 Stylus had notified the council of its intention to
+claim compensation under section 106(1) of the 1984 Act, for losses allegedly
+suffered as a result of the closure of the pier between 16 June and 12
+September 2006. In late 2011 Stylus went into liquidation, and in January 2012
+the liquidator of Stylus assigned Stylus’ claim against the Council to
+Manolete, the present respondents. The present proceedings in the Technology
+and Construction Court (begun under CPR Part 8, on the basis that there would
+be no substantial dispute of fact) sought a declaration that the council were
+liable to pay compensation: </a><a title="Link to BAILII version" href="/ew/cases/EWHC/TCC/2013/842.html">[2013] EWHC 842 (TCC)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/TCC/2013/842.html">[2013] 2 EGLR 17</a>.</p>
+
+<p class="ParaHeading"><b>The proceedings below</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before Ramsey J the council raised a number of defences including the
+one now in issue, which he summarised:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“That the Council is not liable
+under section 106 of the 1984 Act because the claimant was ‘in default’ for the
+purposes of that section because of the breach of section 2 of the Occupiers
+Liability Act 1957 and/or because it took a lease of the Pier past the end of
+its design life from a company registered outside the jurisdiction and was
+aware by the very latest in 2004 that there were serious problems with the
+structure of the Pier but took no adequate steps to ensure the Pier was
+repaired or the public excluded.” (para 14)</p>
+
+<p class="ParaLevel1">He noted that in submissions the council had relied also on
+the duties under the Health and Safety at Work etc Act 1974. He rejected the
+defence, holding that the reference to “default” should be read as default in
+respect of obligations imposed by the 1984 Act itself. In support he cited
+authorities under previous statutes using the same expression, in particular <i>Neath
+Rural District Council v Williams</i> [1951] 1 KB 115. He added:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If that is not so and if it were
+necessary to see whether a party was in breach of any provision of other
+statutes, as is submitted here, then the scope of enquiry would be large and
+would require investigation of further factual matters to determine whether
+there was a default in terms of those statutes.” (para 46)</p>
+
+<p class="ParaLevel1">He also rejected a separate defence that, absent section
+78, Stylus would have had no action in tort in any event. That is no longer in
+issue.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the Court of Appeal </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2014/562.html">[2014] 1 WLR 4030</a> Jackson LJ agreed that default
+was limited to default under the 1984 Act. He reviewed at length the
+legislative history, dating from the Metropolitan Buildings Act 1844. He noted
+that compensation provisions, substantially in the same form as section 106,
+had appeared in the Public Health Acts of 1875 and 1936. He referred to <i>Hobbs
+v Winchester Corpn </i><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpKQB/1910/108.html">[1910] 2 KB 471</a>, which he read as treating the words “in
+default” as directed to default under the Act of 1875. However, he accepted the
+submission of counsel for the authority that in both the 1875 and 1936 Act it
+should be read as extending also to “related” statutes:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“He points out that in many
+instances a building owner would be in breach of local Building Acts and
+Improvement Acts. If the local authority intervened in order to protect public
+safety, it would be absurd if the building owner could recover compensation
+under section 308. I accept that submission. In my view the default proviso in
+the 1875 Act was referring to a default under the 1875 Act <i>or related Acts</i>.”
+(para 52 emphasis added)</p>
+
+<p class="ParaLevel1">However, the same extension was not required under the 1984
+Act, because -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“There are no local byelaws or
+parallel statutes directed to the same subject matter as the 1984 Act. The 1984
+Act and the Regulations made under it are comprehensive.” (para 76)</p>
+
+<p class="ParaLevel1">A narrow construction was supported also by looking at the
+statute “as a whole”:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Where the same phrase occurs more
+than once it should generally be construed in the same way on each occasion …
+The phrase ‘in default’ occurs in three significant places in the 1984 Act,
+namely in section 77(2)(b), section 78(7) and section 106(1). In both sections
+77(2)(b) and sections 78(7) ‘default’ has a narrow meaning. It clearly refers
+to a failure to perform obligations under the 1984 Act. </p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">This circumstance is a pointer
+towards construing ‘default’ in section 106 narrowly, namely as meaning breach
+of an obligation under the 1984 Act.” (paras 74-75)</p>
+
+<p class="ParaLevel1">In agreement with the judge he concluded:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The phrase ‘in default’ in
+section 106 of the 1984 Act means in breach of an obligation arising under the
+1984 Act. The provision does not require the court or the arbitrator to conduct
+a wide-ranging review of other legislation and the common law in order to see
+whether the claimant is in breach of any duties arising outside the 1984 Act.”
+(para 79)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court had some sympathy for the argument that the council should not
+be obliged to compensate Stylus for being prevented from admitting the public
+to dangerous premises. But, given that the “true culprit” Ravenclaw was beyond
+the reach of enforcement procedures, the court was faced with the familiar
+problem of deciding which of the surviving parties should bear the loss, the
+answer to which depended on the statutory scheme. He added:</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[Stylus] has acted responsibly at
+all stages. It did its utmost to compel the landlord to carry out remedial
+works. Ultimately it stepped into the breach and did the works itself. If the local
+authority had wished to avoid liability to pay compensation under section 106,
+it could have brought proceedings under section 77 of the 1984 Act sooner and
+thereby avoided the need to take emergency action under section 78.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Finally, on this point, [the
+council’s] general arguments will still be available at the quantum hearing
+before the arbitrator. The local authority will be entitled to argue that even
+if it had not fenced off the pier, [Stylus] could have made little use of its
+two units.” (paras 81-82)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally he considered and rejected a separate argument on behalf of the
+council that the claim was precluded by the <i>ex turpi causa </i>principle, on
+the basis that to admit the public would have been contrary to its statutory
+responsibilities:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the motivation for the local
+authority’s closure of the pier to the public on 16 June 2006 was the
+likelihood of large crowds accessing the pier on and after 17 June for reasons
+unconnected with [Stylus’] business.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">As at 16 June 2006 [Stylus] had
+not incurred liability to any member of the public for breach of the Occupiers’
+Liability Act 1957. Nor can I see any basis for saying that [Stylus] had
+committed any breach of the statutory duties which it owed to its employees
+under the Health and Safety at Work etc Act 1974 ...” (paras 91-92)</p>
+
+<p class="ParaLevel1">In his view, the default proviso was the “control mechanism
+which eliminates claims that are unacceptable on grounds of public policy”. It
+left no room for the application of the <i>ex turpi causa </i>rule (para 94).
+He added:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“95.&nbsp;&nbsp;&nbsp;&nbsp; Having said that, I do
+accept that the structural condition of the pier will be relevant to the
+quantum of the claim. The local authority will be entitled to argue in the
+arbitration due to be held under section 106(2) that the loss of profit caused
+by the local authority’s conduct must be substantially reduced by reason of the
+structural condition of the pier. Indeed the local authority would be entitled
+to argue that the quantum is reduced to nil, although on the evidence which I
+have seen that outcome seems unlikely.”</p>
+
+<p class="ParaHeading"><b>The submissions in summary</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this court Mr Gasztowicz QC for the council submits that the courts
+were wrong to treat the word “default” as confined to default under the 1984
+Act. That is supported both by ordinary meaning of the word and by the
+legislative history. The authorities referred to by the judge and the Court of
+Appeal do not lead to a different conclusion. Stylus was in default in the
+relevant sense because it was in breach of its obligations under the 1957 Act
+and 1974 Acts -</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“in relation to the very matter in
+relation to which the statutory power was exercised, namely the admission of
+the public to premises which when they were admitted were dangerous (to them
+and employees)” (printed case p 30)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He relies in particular on Stylus’ own evidence which showed that:</a></p><a name="para22">
+
+<p class="ParaLevel2" style="text-indent:0cm">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It had received the September 2004 HDL report showing that urgent
+repairs were necessary “to protect the public”, including work in the Stylus
+area of the pier, which if not carried out within at most a year from September
+2004 would mean there would be “an unacceptable risk to the public”;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>No further report had been obtained giving a different assessment on the
+state of the Pier in this area two years on;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Notwithstanding the contents of the report the necessary work was not
+done prior to closure.</p>
+
+<p class="ParaLevel1">Although the primary responsibility for repair lay with the
+freeholders, Stylus had the ability to carry them out in default (<i>Granada
+Theatres Ltd v Freehold Investment (Leytonstone) Ltd</i> [1959] 1 Ch 592, 608),
+as indeed it did following the court order. By continuing to invite the public
+to its premises it was causing loading by the public resulting in them and its
+employees being made subject (in the words of the HDL report) to “unacceptable
+risk”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For Manolete, Mr Bowdery QC (who did not appear below) supports the view
+of the courts below on the interpretation of the word “default”, but submits
+also that the appeal fails on the facts. As the Court of Appeal held, the council
+was unable to show that Stylus was in default of any legal obligation under
+either of the statutes relied on or otherwise. Furthermore, there was nothing
+to show that the council had ever regarded Stylus’s use of its own premises as
+dangerous to the public or its employees, following its receipt of the HDL
+report in early 2005. As the correspondence showed, and the Court of Appeal
+found, the motivation for the use of emergency powers was the prospect of large
+crowds at events unconnected with the use of the Stylus premises.</a></p><a name="para23">
+
+<p class="ParaHeading"><b>Discussion</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>With respect to the courts below, while recognising the somewhat
+different emphasis of the arguments in this court, there is a danger of
+over-complication. If one takes the words of section 106(1) at face value, they
+do not appear to pose any great difficulty either of interpretation or of
+application to the facts of this case.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The section gives a right to compensation to a person who has sustained
+damage by reason of the exercise of any of the authority’s powers under the Act
+“in relation to a matter as to which he has not himself been in default”. This
+raises two questions:</a></p><a name="para25">
+
+<p class="ParaLevel2" style="text-indent:0cm">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>What was the “matter” in relation to which the authority has exercised
+its powers?</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Is that a matter “as to which” the claimant has been in default?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is important to keep in mind that the relevant power is the power to
+take emergency action under section 78. The claim is for loss resulting from
+that emergency action, not from the order of the magistrates’ court, which
+itself carries no right to compensation. That is why the claim is limited to
+the period from the date of closure until the order made on 12 September. This
+point gains emphasis from section 78(7). Even a claimant in “default” (in the
+relevant sense) is not precluded from seeking compensation, if the court
+determines that the authority were not justified in using their emergency power,
+rather than first seeking an order from the magistrates under section 77. The
+right to compensation provides an important check on the unbridled use of that
+emergency power under section 78, in respect of which (unlike section 77) there
+is no right of objection or recourse to the court.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The council’s decision to act under section 78 in this case is not
+itself in issue. But it is necessary to identify the matter which led it to
+take such emergency action, rather than applying first to the magistrates’ court.
+That is clearly identified by the evidence, in particular the letter sent to
+the tenants at the time. It was not the general state of the pier, nor even the
+specific repairs identified in the HDL report on which Mr Gasztowicz relies.
+The council had been aware of those matters at least since the receipt of that
+report in 2005, but had not thought it necessary to close the pier, nor to take
+any legal action against Stylus at that stage. If they had wished to do so,
+there appears no reason why they could not have applied to the court for the
+appropriate order, giving Stylus the opportunity to make representations. No
+issue of compensation would have then arisen.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As is clear from the council’s letter to tenants, the matter which
+triggered the action in June 2006 was the state of the pier combined with fear
+of possible collapse from crowd-loading during the events planned for that
+month, particularly the risk of overloading in an emergency evacuation. Stylus
+was not legally responsible for the state of the pier, nor was it responsible
+for the events which triggered the council’s action. Whatever may have been its
+position as respects its clients and employees, it was not “in default” as to
+the matter which led to the council’s use of section 78. On this simple basis,
+in my view, the company is entitled to succeed.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That conclusion makes it strictly unnecessary to address the view of the
+courts below that “default” in section 106 referred only to default under the
+1984 Act itself. However, the council, no doubt supported by others with like
+responsibilities, is understandably concerned as to the potential implications
+of this limitation for future cases. There seem to have been four main points
+leading to this conclusion: (i) the legislative history, (ii) other references
+to “default” in the 1984 Act, (iii) the wide scope of the factual inquiry
+implicit in the alternative approach, and (iv) various authorities under the
+predecessor statutes. None of these considerations in my view supports the
+conclusion.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first three points can be dealt with shortly. The legislative
+history tends if anything to support the opposite view. The use over more than
+100 years of the same formula in statutes which, though covering the same
+general subject-matter, included a varying range of powers, makes it unlikely
+that it was linked specifically to the particular provisions of each statute.
+Jackson LJ was forced to accept that the similar formula in the Public Health
+Acts 1875 (section 308) and 1936 (section 278) must be read as extending to
+default under “related Acts”, such as local Building Acts and Improvement Acts
+(paras 52, 55). I agree, but “related” is an imprecise term, not supported by
+anything in the wording of the section itself. Once that extension is accepted,
+it is difficult to understand why it should not extend to other forms of legal
+default. Secondly, the other references to “default” referred to by Jackson LJ
+do not assist. In section 77(2)(b), the default in question is specified by the
+section itself, that is failure to comply with the magistrate court’s order.
+That throws no light on its meaning where it is not so limited. Section 78(7)
+is related directly to section 106 and poses the same issue as is now before
+us. Thirdly, the court’s concern as to the wide-ranging nature of the factual
+inquiry implied by the authority’s suggested approach is understandable, but it
+does not arise if the inquiry is limited in the way I have suggested above.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the authorities, the only one referred to by the Court of Appeal was
+<i>Hobbs v Winchester Corpn </i></a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpKQB/1910/108.html">[1910] 2 KB 471</a>, which related to the
+equivalent compensation provision in the 1875 Act (section 308). Meat had been
+seized under section 116 of the 1875 Act as unfit for human consumption.
+Although the butcher was acquitted of any offence under section 117 of that
+Act, on the grounds that he was unaware that it was unfit for consumption, it
+was found that he was nonetheless “in default” for the purpose of section 308,
+so that his claim for compensation failed. Since the only default relied on by
+the authority was default under the 1875 Act, that case throws no light on the
+nature of the default which might be relevant in other cases.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Bowdery relies also on <i>Place v Rawtenstall Corpn </i>(1916) 86
+LJKB 90, under a provision in a local Act giving the authority a defence from
+civil liability for damage caused in exercise of their statutory powers “in <i>default</i>
+… of the owner … or other person required to do such work”, and in the absence
+of negligence: section 257 of the Rawtenstall Corporation Act 1907 (emphasis
+added). The authority had served notice under that Act requiring the claimant
+to convert a pail closet on his premises into a water closet and to connect it
+to a sewer. He failed to comply, and the authority carried out the work
+themselves, but did so by carrying out a larger project serving some other
+houses. In doing so, they used pipes larger than would have been needed by the
+claimant, thus causing subsidence to his property. It was held that the
+authority could not rely on his “default” to defeat his claim for damages. The
+judgment confirmed the “essential principle” that statutes interfering with
+common law rights should be strictly construed, and that it was for the
+authority to establish “that the work which they have done … is strictly work
+done ‘in default of … the owner’”. The problem for the authority was that the
+work was not limited to the work the owner would have done to carry out the
+work for his own house, but “comprised much more”. There was no finding that the
+damage was “only caused by the work which Mr Place was required to do” (pp 92-94
+per Scrutton J). That seems to me a decision turning on its own particular
+facts, which throws no light on the meaning of the word “default” in the
+present context.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I should also mention two authorities referred to in argument on the
+word “default” in the provisions relating to statutory nuisances under the 1875
+and 1936 Acts. <i>Clayton v Sale Urban District Council </i>[1926] 1 KB 415
+concerned action by the authority in respect of an alleged statutory nuisance
+caused by flooding. Under section 94 of the 1875 Act they could serve an
+abatement notice on the person by whose “act default or sufferance” the
+nuisance had arisen. The authority argued that the nuisance had arisen by the “default”
+of the owner, in failing to repair the bank. It was argued that there could not
+be “default” by the owner within the meaning of the section unless there had
+been a breach of “an obligation arising independently of the section from an
+agreement or otherwise”, and that he was not under any “agreement or covenant
+or otherwise to construct or to repair the flood bank” (pp 423-424). This
+argument was rejected. Lord Hewart CJ said:</a></p><a name="para33">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In my opinion the act, default,
+or sufferance referred to in section 94 of the Public Health Act 1875, is an
+act, default, or sufferance related to the nuisance which it is sought to
+abate, and default no less than sufferance within the meaning of that section
+can occur without the breach of an obligation arising from contractual
+agreement.” (p 425)</p>
+
+</a><p class="ParaLevel1"><a name="para33">He referred to the “common law duty of the owner of a
+vacant piece of land to prevent that land from being a public nuisance” (citing
+<i>Attorney General v Tod Heatley </i></a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1897/25.html">[1897] 1 Ch 560</a>, 566). Contrary to Mr
+Bowdery’s submissions, that is to my mind clear authority at that level that
+the word “default” in a comparable context was not confined to default under
+the statute itself.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Neath Rural District Council v Williams </i>[1951] 1 KB 115 concerned
+the equivalent provision of the 1936 Act (section 93). A watercourse on the
+defendant’s land had become silted by natural causes and caused flooding.
+Section 259(1)(b), under which a watercourse in such a condition was a
+“statutory nuisance”, was subject to a proviso that no liability was imposed on
+any person “other than the person by whose act or default the nuisance arises
+or continues”. It was held that, absent any relevant legal duty on him under
+statute or at common law to take positive action to remove the nuisance, the
+defendant was not in “default”. In the words of the headnote:</a></p><a name="para34">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… in the case of a natural stream
+a landowner had no duty at common law to keep the bed clear by removing
+obstructions which might arise from natural causes, and the proviso to (section
+259(1)) was designed to prevent any additional duty from being cast on the
+landowner …”</p>
+
+<p class="ParaLevel1">Lord Goddard CJ expressed some doubt about the actual
+decision in <i>Clayton </i>but felt able to distinguish it on the basis that it
+was concerned with the words “act, default or sufferance” whereas the proviso
+to section 259(1)(b) referred only to “act or default” (p 126). However, he did
+not doubt the proposition that default could arise from breach of a duty
+outside the Act itself.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ramsey J, at para 43, referred to a passage in the judgment of Lord
+Goddard CJ, who said:</a></p><a name="para35">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I do not think that in this case
+‘default’ could mean merely doing nothing, unless an obligation to do something
+<i>were imposed by the Act</i>. There was no act of the defendants which caused
+the obstruction either to arise or to continue … In the present case, on the
+facts found by the justices, there is nothing to show that the defendants did
+anything which caused this obstruction to arise or to continue; nor do I think
+that there is anything which can properly be called a default on their part …”
+(pp 126-127, emphasis added).</p>
+
+<p class="ParaLevel1">This passage cannot be taken as implying that only a duty
+under the 1936 Act itself was thought relevant. It must be read in the context
+of the judgment as a whole, in which the possibility of a common law duty had previously
+been discussed and dismissed (pp 120, 123).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I conclude that there is nothing in the factors relied on in the courts
+below which requires the words “in default” to be limited to default under the
+1984 Act. They were right in my view to hold that the authority had no defence
+in principle to the claim for compensation, not because (as they held) there
+was no default under the 1984 Act, but because it was not default by Stylus
+which led to the emergency action under section 78.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is important to emphasise that this conclusion does not limit in any
+way the issues which may be taken into account by the arbitrator in assessing
+compensation attributable to that action, including the statutory and common
+law responsibilities of Stylus to its clients and employees. As Jackson LJ
+indicated (para 95), it will be open to the authority to argue that the
+consequent loss of profit to the business must be substantially reduced due to
+the structural condition of the pier and the implications it would have had for
+the continuation of its business quite apart from the effects of the emergency
+notice. Mr Gasztowicz drew our attention to an earlier paragraph of Jackson LJ
+(para 79) which might suggest a more limited role for the arbitrator. Having
+agreed with the judge that the phrase “in default” means in breach of an
+obligation under the 1984 Act, he added:</a></p><a name="para37">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The provision does not require
+the court <i>or the arbitrator</i> to conduct a wide-ranging review of other
+legislation and the common law in order to see whether the claimant is in
+breach of any duties arising outside the 1984 Act.” (emphasis added)</p>
+
+<p class="ParaLevel1">I do not fully understand the inclusion in that passage of
+a reference to the arbitrator, as well as the court. In so far as it implies a
+limitation on the scope of the arbitrator’s function it is inconsistent with
+the later paragraph to which I have referred, and which in my view expresses
+the correct position.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, albeit differing in some respects from those of the
+courts below, I would dismiss the appeal.</a></p><a name="para38">
+
+</a></div><a name="para38">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/50.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

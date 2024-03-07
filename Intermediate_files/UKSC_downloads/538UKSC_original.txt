@@ -1,0 +1,745 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Hemming (t/a Simply Pleasure) &amp; Ors, R (on the application of) v Westminster City Council [2017] UKSC 50 (19 July 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Hemming (t/a Simply Pleasure) &amp; Ors, R (on the application of) v Westminster City Council [2017] UKSC 50 (19 July 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/50.html</i>
+<br>Cite as: 
+[2017] PTSR 1020,
+
+[2017] 3 WLR 342,
+
+[2017] UKSC 50,
+
+[2018] AC 676,
+
+[2017] WLR(D) 553
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/50.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+553">[2017] WLR(D) 553</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+PTSR+1020">[2017] PTSR 1020</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+3+WLR+342">[2017] 3 WLR 342</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016098920/casereport_7167a752-c48f-47c9-9a2c-689a65f242a7/html">[2018] AC 676</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/50.image1.pdf">Summary</a></span></p><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 50</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/uk/cases/UKSC/2015/25.html">[2015] UKSC 25</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">R (on the application of Hemming (t/a Simply Pleasure
+Ltd) and others) (Respondents) <i>v</i> Westminster City Council (Appellant)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">19 July 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 11 May 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">David Matthias QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Charles Streeten</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Westminster City Council Legal Services)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondents</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Philip Kolvin QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Victoria Wakefield</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Tim Johnston</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Gosschalks)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD MANCE: (<span style="text-transform:none">with whom
+Lord Neuberger, Lord Reed and Lord Hughes agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is a sequel to the Supreme Court’s previous judgment dated 29 April
+</a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/25.html">[2015] UKSC 25</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/25.html">[2015] AC 1600</a>. It is written with the benefit of the Court of
+Justice’s answer dated 16 November 2016 ((Case C-316/15) <a title="Link to BAILII version" href="/eu/cases/EUECJ/2016/C31615.html">[2017] PTSR 325</a>) to
+the question which that judgment referred to the Court of Justice. The appeal
+concerns fees which were charged to the respondents on applying to Westminster
+City Council for sex shop licences for the three years ended 31<sup> </sup>January
+2011, 2012 and 2013 and which included the council’s costs of enforcing the
+licensing scheme against unlicensed third parties running sex shops
+(“enforcement costs”). The respondents’ applications all in the event
+succeeded, and I can call them “the licence holders”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under domestic law the basis for charging such fees was and is found in
+paragraph 19 of Schedule 3 to the Local Government (Miscellaneous Provisions)
+Act 1982 as amended by the Policing and Crime Act 2009, section 27(7), reading:</a></p><a name="para2">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“An applicant for the grant,
+renewal, variation or transfer of a licence under this Schedule shall pay a
+reasonable fee determined by the appropriate authority.”</p>
+
+<p class="ParaNoNumber">In respect of all years ending on 31 January up to 2010,
+Westminster City Council was entitled to determine a reasonable fee which
+included enforcement costs, and to require this to be paid on application for a
+sex shop licence, subject to refunding of the part relating to enforcement
+costs, if the application was not granted: see paras 6-7 of our previous
+judgment.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The position however changed with the coming into force in the United
+Kingdom with effect from 28 December 2009 of the Provision of Services
+Regulations 2009 (SI 2009/2999), giving effect domestically to EU Directive
+2006/123/EC. The courts below held that, after this change, the only legitimate
+charges which Westminster City Council could levy related to the administrative
+costs of processing the relevant applications and monitoring compliance with
+the terms of the licence by licence holders (which I can call “processing
+costs”): see Court of Appeal judgment dated 24 May 2013 </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2013/591.html">[2013] EWCA Civ 591</a>;
+<a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2013/591.html">[2013] PTSR 1377</a>, para 130. The council was not entitled to levy the
+(considerably larger) parts of the actual charges which related to the costs of
+enforcing the scheme against non-licence holders.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On that basis, the Court of Appeal ordered Westminster City Council to
+determine a reasonable fee excluding enforcement costs for each of the years
+ended 31 January 2011 and 2012, and to “determine afresh” a reasonable fee
+excluding enforcement costs for the year ended 31 January 2013. The distinction
+between “determining”, in the first two years, and “determining afresh”, in the
+third year, arose because the issues before Keith J </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2012/1260.html">[2012] EWHC 1260 (Admin)</a>;
+<a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2012/1260.html">[2012] PTSR 1676</a> covered all years ending 31 January 2007 onwards, and he held
+by his judgment dated 16 May 2012 that the council’s Licensing Sub-Committee
+had failed to determine any yearly fee after 7 September 2004 (when it
+determined the fee for the year ended 31 January 2005 and no more) until 5
+January 2012 (when it determined the fee for the year ended 31 January 2013).
+All that had happened in the intervening years was that the council’s officers
+had simply assumed that the same fee as set on 7 September 2004 continued to
+apply and had charged licence applicants accordingly.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Pursuant to the Court of Appeal’s order, Westminster City Council made
+corresponding repayments totalling £1,189,466 to the licence holders on 28 June
+2013, together, it appears, with a further £227,779.15 paid by mistake (since
+it related to licence holders not party to the present proceedings).</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In our previous judgment, we took a different view from the courts below
+about the effect of the change worked by the 2009 Regulations giving effect to
+the EU Directive. We drew a distinction between two types of licensing scheme, at
+para 18 as follows:</a></p><a name="para6">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Type A: Applications for licences
+are made on terms that the applicant must pay:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; on making the
+application, the costs of the authorisation procedures and formalities, and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; on the application
+being successful, a further fee to cover the costs of the running and
+enforcement of the licensing scheme.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Type B: Applications for licences
+are made on terms that the applicant must pay:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; on making the
+application, the costs of the authorisation procedures and formalities,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at the same time, but
+on the basis that it is refundable if the application is unsuccessful, a
+further fee to cover the costs of the running and enforcement of the licensing
+scheme.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We held that, both under domestic law (paragraph 19 of Schedule 3 to the
+Local Government (Miscellaneous Provisions) Act 1982) and by reference to EU
+law (Directive 2006/123/EC, implemented domestically by the Provision of
+Services Regulations 2009), Westminster City Council was entitled to operate a
+scheme of type A in relation to the licensing of sex shops. We referred to the
+Court of Justice the question whether it was entitled to operate a scheme of
+type B. The Court of Justice has answered that question in the negative, on the
+basis that a requirement to pay a fee to cover the costs of running the
+licensing scheme and enforcing it against unlicensed operators, refundable if
+the application for a licence fails, constitutes an illegitimate charge in
+respect of the procedure for authorisation.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the above circumstances, and despite the Court of Justice’s answer in
+respect of type B, Westminster City Council submits that it is entitled to be
+paid or repaid the sums which it repaid to sex shop licence holders on 28 June
+2013, following the Court of Appeal’s order. The licence holders, on the other
+hand, submit that they are entitled to retain the repayment made to them in
+full, because it was charged in a way for which there was no warrant. The
+submissions on each side were complicated by reference to principles of unjust
+enrichment under both domestic and European law, in the latter case including
+the Court of Justice judgment in <i>Lady &amp; Kid A/S v Skatteministeriet </i>(Case
+C-398/09) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C39809_J.html">[2012] All ER (EC) 410</a>, <a title="Link to BAILII version" href="/eu/cases/EUECJ/2011/C39809_J.html">[2011] EUECJ C-398/09</a>, although I note in parenthesis that it may be
+significant that this related to tax, rather than a fee for a service.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my view, the correct analysis is simpler than some of the submissions
+made would suggest. The scheme which the council operated was only defective in
+so far as it required payment up front at the time of the application. Its
+invalidity was limited. Contrary to the respondents’ case, European law permits
+a fee to cover the costs of running and enforcing the licensing scheme becoming
+due upon the grant of a licence. There is no imperative under European law, as
+incorporated domestically by the 2009 Regulations, to treat the whole scheme as
+invalid, rather than to invalidate it to the extent of the inconsistency: see <i>Edward
+and Lane on</i> <i>European Union Law</i> (2013), para 6.16. Even under purely
+domestic law principles, a test of substantial severability is appropriate,
+rather than a rigid insistence on textual severability: see eg <i>Director of Public
+Prosecutions v Hutchinson</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1988/11.html">[1990] 2 AC 783</a>, 811D-G and 813E-G. Any remaining
+element of the scheme which can stand by itself is able to do so.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Here, the council was entitled to set and to require payment of a fee
+including enforcement costs as well as processing costs applicable to all those
+who, like the licence holders, actually received licences and benefitted by the
+council’s enforcement action. Although it was wrong to charge the element of
+this fee relating to enforcement costs conditionally at the time of any licence
+application, this element was under the scheme due unconditionally once a
+licence was granted. As we said in our previous judgment (para 23): “When the
+application succeeds, the payment made becomes due unconditionally”.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Even if this were not the right analysis, nothing in the course of
+events to date can have affected paragraph 19 of Schedule 3 to the 1982 Act, or
+the council’s right to determine a proper fee under it. Even if there might
+hypothetically be an exceptional case in which lapse of time and intervening
+circumstances might make it oppressive to set such a fee, there is no ground to
+put this case into that category.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows that, in so far as the council has determined a reasonable
+fee, including enforcement costs, there is no answer to the council’s claim to
+be paid or repaid it now. Before Keith J, it was the licence holders’ case
+that, if the court concluded that a fee determined by the council (whether or
+not it could legitimately include enforcement costs) was unreasonable, the fee
+would have to be remitted to the council for re-determination of a reasonable
+fee. Before the Supreme Court, however, the parties have agreed that any such
+re-determination should be undertaken by a judge of the Administrative Court.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The parties are however at odds as to whether there have been any
+relevant determinations in respect of the three years ending 31 January 2011,
+2012 and 2013, which are now before the Supreme Court. As to this, the position
+is clear in respect of the third year, ended 31 January 2013. The parties are
+bound by Keith J’s finding that the council did on 5 January 2012 determine
+fees of £19,973.00 for a new sex shop licence and of £18,737.00 for renewal of
+a sex shop licence for the year from 1 February 2012 to 31 January 2013. Both
+these sums covered enforcement costs. Hence, when the Court of Appeal came to
+make its order in the light of its conclusion that the council could not on any
+basis recover enforcement costs from licence holders, it ordered the council to
+“determine afresh” the appropriate fees for the year ended 31 January 2013.
+This the council did by eliminating and repaying the enforcement costs. The position
+is now reversed, and the council is entitled to recover these enforcement
+costs, subject to corresponding reduction if and to the extent that the
+Administrative Court determines the enforcement costs determined to have been
+unreasonable.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The position in respect of the two earlier years, ending 31 January 2011
+and 2012 is slightly more complex. The council failed from 5 September 2004
+until 5 January 2012 to determine annual fees for any of the years ended 31
+January 2006 to 31 January 2012; and, when it was ordered to do so by Keith J
+and the Court of Appeal retrospectively in relation to the two years ended 31
+January 2011 and 2012, it was ordered, and so did so, on the basis that
+enforcement costs should be excluded. In the light of the Supreme Court’s
+judgment, that order was incorrect, and the council could and should have been
+ordered to determine a fee in relation to those two years which included
+enforcement costs, just as it was in relation to the prior years before the EU
+law change on 28 December 2009.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The council in response would, I understand, say that it did in effect
+determine a fee including enforcement costs, when, pursuant to the Court of
+Appeal’s order, it analysed the amounts which it had in fact charged for the
+years ended 31 January 2011 and 2012, determined the amount referable to
+enforcement costs included therein and approved a fee excluding that amount. It
+may also be able to suggest that fees for these years have been determined at some
+other point or points in time. Any such submission can be left for the
+Administrative Court to consider if it has any significance. For my part, it is
+sufficient to say that, even if any such submission be rejected, the council
+must now clearly be put in the same position as it would have been, if the
+Court of Appeal had reached the same conclusion as the Supreme Court. In that
+event, the Court of Appeal would have ordered a determination of a fee for each
+year which included enforcement costs and it would not have ordered repayment
+of the element of enforcement costs as it did. As a matter of obvious justice,
+the Supreme Court must be able to restore the parties to the position they
+should have been in, by now ordering repayment by the licence holders of the
+enforcement costs, to the extent that they meet the criterion of
+reasonableness. The issue potentially remaining on this basis is the
+reasonableness of the sum identified as enforcement costs, and now to be repaid
+to the council. This issue should be remitted, as agreed, to the Administrative
+Court.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Kolvin QC for the licence holders submits that there are other
+matters which should also go back to the Administrative Court. The first two
+appear to go to the account prepared by the council in 2013 following the Court
+of Appeal’s judgment, which account was not the subject of any challenge before
+the Supreme Court, other than by reference to the issue indicated in para 8 of
+this judgment. Whether that account has been properly prepared in these two respects
+can nevertheless be appropriately remitted to the Administrative Court.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first matter relates to a surplus of £116,520 shown, according to
+figures said to have been produced to Keith J, as arising from a difference
+between the total income from licences and the total cost of the licensing
+regime in the year ended 31 January 2005. The licence holders submit that it
+was a breach of the Court of Appeal’s order not to bring any such surplus into
+account, since para 2 of that order refers to “the need to bring into account
+any previous surpluses or deficits” when determining a reasonable fee for the
+year ended 31 January 2011. It is not clear to me that this contemplates going
+back as far as a year ended 31 January 2005, since Keith J’s order dated 17 July
+2012 only refers to “the need to carry forward from year to year any previous
+surpluses or deficits from each of the said years” ending 31 January 2007
+onwards, those being the only years which it appears were in issue before him.
+Any issues about the licence holders’ right to raise this point as well as
+about its merits should be remitted to the Administrative Court.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A second matter raised is that the council failed fully to account for
+some £80,611 of income received when calculating fees, and so accounting for
+profits, in respect of the years ended 31 January 2010 and 2011. Again, the
+admissibility and merits of this issue should be remitted to the Administrative
+Court.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A third point was raised in oral submissions by Mr Kolvin. It related to
+interest which should, he submitted, be allowed on council surpluses in
+relation to sex shop licensing totalling £207,869 in respect of the years ended
+31 January 2006 to 31 January 2010. The order made by Keith J contained a
+specific paragraph, number (7), dealing with interest on any excess repayable
+in respect of the years ending 31 January 2007 to 31 January 2010. The
+Administrative Court can no doubt consider what interest is due under that
+paragraph and whether it has been paid or accounted for. I do not at present
+see any basis for any further claim for interest on any earlier year or years,
+and the appeal to this court certainly did not involve any such claim. But it
+will be open to the Administrative Court to consider whether any such further
+claim falls within the scope of any of the issues which are open or orders
+which have been made in the present proceedings.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, Mr Kolvin emphasised that some of the licence holders party to
+these proceedings are no longer in existence or in business, and that any payment
+or repayment which has to be made by licence holders under this judgment must
+be according to the pro rata sums actually received by each licence holder.
+That is, I understand, common ground.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Toulson, who sadly died before this judgment was handed down, had
+indicated agreement both with its essential reasoning and with the conclusions
+reached in it.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The parties should liaise with the Registrar with regard to an
+appropriate form of order to give effect to this and the court’s previous
+judgments, the detailed working out of which, together with the claim to
+recover the £227,779.15 allegedly paid by mistake as mentioned in para 5 above
+and the matters identified in paras 14 to 18 above, will be remitted to the
+Administrative Court. The parties will be at liberty to make submissions in
+writing on costs.</a></p><a name="para22">
+
+</a></div><a name="para22">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/50.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

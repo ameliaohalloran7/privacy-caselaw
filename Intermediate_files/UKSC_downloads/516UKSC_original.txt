@@ -1,0 +1,1253 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Essop &amp; Ors v Home Office (UK Border Agency)  [2017] UKSC 27 (5 April 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Essop &amp; Ors v Home Office (UK Border Agency)  [2017] UKSC 27 (5 April 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/27.html</i>
+<br>Cite as: 
+[2017] IRLR 558,
+
+[2017] WLR 1343,
+
+[2017] WLR(D) 244,
+
+[2017] ICR 640,
+
+[2017] 3 All ER 551,
+
+[2017] 1 WLR 1343,
+
+[2017] UKSC 27
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/27.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+ICR+640">[2017] ICR 640</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+244">[2017] WLR(D) 244</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+1+WLR+1343">[2017] 1 WLR 1343</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/27(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 27</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeals from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/609.html">[2015] EWCA Civ 609</a> and <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1264.html">[2015] EWCA Civ 1264</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Essop and others (Appellants) <i>v</i> Home Office (UK
+Border Agency) (Respondent)<br clear="all">
+Naeem (Appellant) <i>v</i> Secretary of State for Justice (Respondent)</span></p>
+
+<p class="Title1" align="left" style="margin-left:0cm;text-align:left"><span style="font-size:16.0pt;font-weight:normal">&nbsp;</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">5 April 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 14 and 15
+November 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:80.7pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant (Essop
+  and ors)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Karon Monaghan QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Nicola Braganza</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Thompsons Solicitors LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent (Home
+  Office)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Naomi Ellenbogen QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">John-Paul Waite</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:80.7pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant
+  (Naeem)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Sean Jones QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Amy Rogers</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Slater and Gordon (UK) LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:80.7pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent (SSJ)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Thomas Linden QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Mathew Purchase</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LADY HALE: (<span style="text-transform:none">with whom Lord
+Clarke, Lord Wilson, Lord Carnwath and Lord Hodge agree</span>)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ideally, discrimination ought to be an easy concept, although proving it
+may be harder. But we do not live in an ideal world and the concepts are not
+easy, as these two cases illustrate all too well. The law prohibits two main
+kinds of discrimination - direct and indirect. Direct discrimination is
+comparatively simple: it is treating one person less favourably than you would
+treat another person, because of a particular protected characteristic that the
+former has. Indirect discrimination, however, is not so simple. It is meant to
+avoid rules and practices which are not directed at or against people with a
+particular protected characteristic but have the effect of putting them at a
+disadvantage. It is one form of trying to “level the playing field”.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The two cases before us are about indirect discrimination on grounds of
+race and/or age and/or religion. Indirect discrimination is defined in section
+19 of the Equality Act 2010 in this way:</a></p><a name="para2">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; A person (A)
+discriminates against another (B) if A applies to B a provision, criterion or
+practice which is discriminatory in relation to a relevant protected
+characteristic of B’s.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of
+subsection (1), a provision, criterion or practice is discriminatory in
+relation to a relevant protected characteristic of B’s if -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A applies, or would
+apply, it to persons with whom B does not share the characteristic,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it puts, or would put,
+persons with whom B shares the characteristic at a particular disadvantage when
+compared with persons with whom B does not share it,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it puts, or would put,
+B at that disadvantage, and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A cannot show it to be
+a proportionate means of achieving a legitimate aim.”</p>
+
+<p class="ParaNoNumber">Subsection (3) lists the relevant protected
+characteristics, which include age, race and religion or belief.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Essop’s case relies upon both age and race; Mr Naeem’s case relies on
+both race and religion but primarily religion. Section 9 explains what is meant
+by race:</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Race includes - (a)
+colour; (b) nationality; (c) ethnic or national origins.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In relation to the protected
+characteristic of race -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a reference to a person
+who has a particular protected characteristic is a reference to a person of a
+particular racial group;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a reference to persons
+who share a protected characteristic is a reference to persons of the same
+racial group.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A racial group is a
+group of persons defined by reference to race; and a reference to a person’s
+racial group is a reference to a racial group into which the person falls.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fact that a racial
+group comprises two or more distinct racial groups does not prevent it from
+constituting a particular racial group.”</p>
+
+<p class="ParaNoNumber">Section 5(1) and (2) makes provision equivalent to
+section 9(2) for people who belong to or share a particular age group, which
+may be defined either by reference to a particular age or an age range. Section
+10(3) makes equivalent provision for people of, or who share, a particular
+religion or belief.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The concept of discrimination obviously involves comparisons between
+groups or individuals. Section 23(1) provides that:</a></p><a name="para4">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“On a comparison of cases for the
+purpose of section 13, 14 or 19 there must be no material difference between
+the circumstances relating to each case.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Having defined what is meant by discrimination, the Act goes on to
+define the circumstances in which it is unlawful. Relevant to these appeals is
+section 39(2):</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“An employer (A) must not
+discriminate against an employee of A’s (B) - (a) as to B’s terms of
+employment; (b) in the way A affords B access, or by not affording B access, to
+opportunities for promotion, transfer or training or for receiving any other
+benefit, facility or service.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, the Act deals with the burden of proof in civil proceedings
+before a court or a list of tribunals which includes an employment tribunal.
+Relevant to these appeals are section 136(2) and (3):</a></p><a name="para6">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(2)&nbsp;&nbsp;&nbsp;&nbsp; If there are facts from
+which the court could decide, in the absence of any other explanation, that a
+person (A) contravened the provisions concerned, the court must hold that the contravention
+occurred.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; But subsection (2) does
+not apply if A shows that A did not contravene the provision.”</p>
+
+<p class="ParaHeading">The Essop case</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Essop is the lead appellant in a group of 49 people, six of whom have
+been chosen as test cases. They are, or were, all employed by the Home Office.
+Mr Essop is an immigration officer who has been employed by the Home Office
+since 1995. It is common ground that the relevant “provision, criterion or
+practice” (PCP) in this case is the requirement to pass a Core Skills
+Assessment (CSA) as a pre-requisite to promotion to certain civil service
+grades.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the relevant times, the Home Office required all employees to take
+and pass a CSA in order to become eligible for promotion to the grades of
+Higher Executive Officer (HEO) original, HEO interim or Grade 7. The CSA was a
+generic test required for each of these grades, irrespective of the particular
+role. Its stated purpose was to test the core skills required to operate as a
+civil servant at those grades, rather than the knowledge and skills required
+for the particular post sought. Candidates who passed the CSA would then be
+required to sit and pass a Specific Skills Assessment relevant to the
+particular post. All the appellants have, at some time, failed the CSA and were
+thus not, at that time, eligible for promotion.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2010, a report commissioned by the Home Office from a firm of
+occupational psychologists, Pearn Kandola, revealed that Black and Minority
+Ethnic (BME) candidates and older candidates had lower pass rates than white
+and younger candidates. All non-white candidates were pooled into a single BME
+grouping, although a more detailed breakdown of ethnicity was available, in
+order to maximise the size of the group and thus the reliability of the
+analysis. (Whether this is an appropriate approach is not in issue before this
+Court but was left open by the Employment Tribunal.) The BME pass rate was
+40.3% of that of the white candidates. The pass rate of candidates aged 35 or
+older was 37.4% of that of those below that age. In each case, there was a 0.1%
+likelihood that this could happen by chance. Of course, they did not all fail.
+No-one knows why the proportion of BME or older candidates failing is
+significantly higher than the proportion of white or younger candidates
+failing.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Proceedings were launched in the London South Employment Tribunal. It
+was agreed between the parties that a pre-hearing review was required to
+determine whether the claimants were required for the purposes of section
+19(2)(b) and/or (c) to prove what the reason for the lower pass rate was. The
+Home Office argued that they did need to do so. The claimants argued that they
+did not. The Employment Judge held that they did have to prove the reason. The
+claimants appealed to the then President of the Employment Appeal Tribunal,
+Langstaff J, who sat alone on this occasion. He held that they did not have to
+prove the reason. It was enough to show that the group had suffered, or would
+suffer, the particular disadvantage of a greater risk of failure and that each
+individual had in fact suffered the disadvantage of failure: [2014]
+UKEAT/0480/13; </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/2014/0480_13_1605.html">[2014] ICR 871</a>. The Home Office appealed to the Court of Appeal,
+which held that the claimants had to show why the requirement to pass the CSA put
+the group at a disadvantage and that he or she had failed the test for that
+same reason and gave general guidance for the Employment Tribunal handling the
+claims: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/609.html">[2015] EWCA Civ 609</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/609.html">[2015] ICR 1063</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principal issue of law on appeal to this Court, therefore, is
+whether section 19(2)(b) and (c) of the 2010 Act requires that the reason for
+the disadvantage suffered by the group be established and that the reason why
+the individual has suffered from that disadvantage be the same. Also in issue
+are how the disadvantage is to be defined in this case and how and by whom the
+burden of proving the reason for it is to be discharged.</a></p><a name="para11">
+
+<p class="ParaHeading">The Naeem case</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Naeem is an imam who works as a chaplain in the Prison Service. Some
+prison chaplains are employed on a salaried basis under contracts of
+employment. Some are engaged on a sessional basis as and when required and paid
+at an hourly rate. Both groups are required to undergo training. Before 2002,
+Muslim chaplains were engaged on a sessional basis only, because the Prison
+Service believed that there were not enough Muslim prisoners to justify
+employing them on a salaried basis. Mr Naeem began working as a prison chaplain
+at HMP Bullingdon in June 2001, at first on a sessional basis, but in October
+2004 he became a salaried employee. It is common ground that the PCP in
+question is the Prison Service pay scheme for chaplains, which incorporates pay
+progression over time and thus pay is related to length of service.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Like many public sector employers, the Prison Service operates an
+incremental pay scale, with (usually) annual increments in pay in addition to
+any cost of living increases until the top of the scale is reached. When Mr
+Naeem became an employee it would take 17 years to progress from the bottom of
+the pay scale (where employees normally began) to the top. The Prison Service
+has since reduced the time taken to climb from the bottom to the top, with the
+eventual aim of reducing the ladder to six years. This was done gradually, so
+that a new joiner in 2009 would take only nine years to do so. Existing
+chaplains were granted accelerated progress up the scale so that they could
+keep pace. But the whole process was interrupted by government constraints and
+a pay freeze from 2010/11 onwards.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These proceedings were launched in April 2011. On 1 April 2011, the
+average basic pay for Muslim chaplains was £31,847, whereas the average basic
+pay for Christian chaplains was £33,811. This was because Muslims had only been
+employed on a salaried basis since 2002, whereas a substantial number of
+Christian chaplains had started their employment before that date. Hence their
+average length of service was longer and they had had more time to climb the
+ladder. Of course, a Christian chaplain who started in salaried employment on
+the same date as a Muslim chaplain, and who had the same appraisal record,
+would be paid the same.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Naeem brought proceedings in the Reading Employment Tribunal
+complaining that the incremental pay scheme was indirectly discriminatory
+against Muslim or Asian chaplains. It resulted in his being paid less than
+Christian chaplains in a post where length of service served no useful purpose
+as a reflection of ability or experience. The Tribunal held that the pay scheme
+was indirectly discriminatory in relation to both race and religion, but that
+it was objectively justified as a proportionate means of achieving a legitimate
+aim. Each side appealed to the Employment Appeal Tribunal, which held that the
+pay scheme was not indirectly discriminatory at all, because chaplains employed
+before 2002 should be excluded from the comparison between the two groups.
+However, if the EAT were wrong about that, the pay scheme had not been shown to
+be a proportionate means of achieving a legitimate aim. There were various
+possible ways of modifying the scheme so as to avoid the disadvantage suffered
+by people such as the claimant, which the tribunal ought to have considered:
+UKEAT/0215/13/RN; </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/2014/0215_13_1501.html">[2014] ICR 472</a>. Mr Naeem’s appeal to the Court of Appeal was
+dismissed. It was not enough to show that the length of service criterion had a
+disparate impact upon Muslim chaplains. It was also necessary to show that the
+reason for that disparate impact was something peculiar to the protected
+characteristic in question: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1264.html">[2015] EWCA Civ 1264</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1264.html">[2016] ICR 289</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus, although the reason for the differential impact of the length of
+service criterion is known, one issue in Mr Naeem’s case is whether the reason
+for the disadvantage which he suffers has also to be related to the protected
+characteristic of his religion or race. It is also in issue whether the pool
+for comparison should be all prison chaplains or only those employed since 2002
+and whether the EAT was entitled to interfere with the decision of the
+Employment Tribunal.</a></p><a name="para16">
+
+<p class="ParaHeading">Direct and indirect discrimination</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under the Sex Discrimination Act 1975 and the Race Relations Act 1976,
+direct discrimination was defined as treating a person less favourably than
+another “on the ground of her sex” or “on racial grounds”. Under section 13(1)
+of the Equality Act 2010, this has become treating someone less favourably
+“because of” a protected characteristic. The characteristic has to be the
+reason for the treatment. Sometimes this will be obvious, as when the
+characteristic is the criterion employed for the less favourable treatment: an
+example is <i>Preddy v Bull </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/73.html">[2013] UKSC 73</a>; [2013] I WLR 3741, where
+reserving double-bedded rooms to “hetero-sexual married couples only” was
+directly discriminatory on grounds of sexual orientation. At other times, it
+will not be obvious, and the reasons for the less favourable treatment will
+have to be explored: an example is <i>Nagarajan v London Regional Transport </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1999/36.html">[2000] 1 AC 501</a>, where the tribunal’s factual finding of conscious or subconscious
+bias was upheld in the House of Lords, confirming the principle, established in
+<i>R v Birmingham City Council, Ex p Equal Opportunities Commission </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1989/8.html">[1989] AC 1155</a> and <i>James v Eastleigh Borough Council </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1990/6.html">[1990] 2 AC 751</a>, that no
+hostile or malicious motive is required. <i>James v Eastleigh Borough Council </i>also
+shows that, even if the protected characteristic is not the overt criterion,
+there will still be direct discrimination if the criterion used (in that case
+retirement age) exactly corresponds with a protected characteristic (in that
+case sex) and is thus a proxy for it.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The concept of indirect discrimination has proved more difficult to
+define in statutory terms. The original version in section 1(1)(b) of the Sex
+Discrimination Act 1975 provided that a person discriminates against a woman if</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“he applies to her a requirement
+or condition which he applies or would apply equally to a man but - (i) which
+is such that the proportion of women who can comply with it is considerably
+smaller than the proportion of men who can comply with it, and (ii) which he
+cannot show to be justifiable irrespective of the sex of the person to whom it
+is applied, and (iii) which is to her detriment because she cannot comply with
+it.”</p>
+
+<p class="ParaNoNumber">Essentially the same definition was contained in section
+1(1)(b) of the Race Relations Act 1976, as originally enacted.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Much, but by no means all, of the Equality Act 2010 is derived from our
+obligations under European Union law. Those parts which are so derived must be
+interpreted consistently with EU law (as it is now called) and it is
+inconceivable that Parliament intended the same concepts to be interpreted
+differently in different contexts. Although EU law has always recognised both
+direct and indirect discrimination, the first legislative definition of
+indirect discrimination was contained in Council Directive 97/80/EC <i>on the
+burden of proof in cases of discrimination based on sex</i>, article 2(2) of
+which provided that, for the purposes of the principle of equal treatment,</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“indirect discrimination shall
+exist where an apparently neutral provision, criterion or practice
+disadvantages a substantially higher proportion of the members of one sex
+unless that provision, criterion or practice is appropriate and necessary and
+can be justified by objective factors unrelated to sex.”</p>
+
+<p class="ParaNoNumber">This introduced the term “an apparently neutral
+provision, criterion or practice” (or PCP as it is generally known) and the
+concept of disproportionate group disadvantage. There was no reference to
+individual disadvantage, but article 4 required that, where persons who
+considered themselves wronged by the non-application to them of the principle
+of equal treatment established facts from which it might be presumed that there
+had been direct or indirect discrimination, it was for the respondent to prove
+that there had been no breach of the principle of equal treatment.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2001, a new section 63A was added to the Sex Discrimination Act to
+cater for this in relation to particular fields of activity covered by European
+Union law. A new section 54A was added to make equivalent provision in the Race
+Relations Act, although not yet required by European law (although it soon
+would be, by article 8 of Council Directive 2000/43/EC, referred to below). Section
+136 of the Equality Act 2010 (above, para 6) has extended the shifting burden
+of proof to all activities covered by the Act (although not to criminal
+proceedings).</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The next European definition of indirect discrimination came in Council
+Directive 2000/43/EC <i>implementing the principle of equal treatment between
+persons irrespective of racial or ethnic origins</i> (“the Race Directive”).
+Article 2(2)(b) provided that:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“indirect discrimination shall be
+taken to occur where an apparently neutral provision, criterion or practice
+would put persons of a racial or ethnic origin at a particular disadvantage compared
+with other persons, unless that provision, criterion or practice is objectively
+justified by a legitimate aim and the means of achieving that aim are
+appropriate and necessary.”</p>
+
+<p class="ParaNoNumber">Thus it was sufficient that the PCP “would put” such
+persons at a particular disadvantage when compared to others. Article 8 made
+the same provision for shifting the burden of proof as had the earlier
+Directive in relation to sex. The same definition of indirect discrimination
+was adopted in article 2(2)(b) of Council Directive 2000/78/EC <i>establishing
+a general framework for equal treatment in employment and occupation </i>on
+grounds other than sex or race, in article 2(b) of Council Directive
+2004/113/EC <i>implementing the principle of equal treatment between men and
+women in the access to and supply of goods and services</i> and article 2(1)(b)
+of Council Directive 2006/54/EC <i>on the implementation of the principle of
+equal opportunities and equal treatment of men and women in matters of
+employment and occupation (recast)</i>.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2003, both the Sex Discrimination Act and the Race Relations Act were
+amended to apply this new concept of indirect discrimination to specified
+fields of activity covered by European Union law. Thus a new section 1(2)(b) in
+the 1975 Act provided that, for those purposes, a person discriminated against
+a woman if</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“he applies to her a provision,
+criterion or practice which he applies or would apply equally to a man, but (i)
+which puts or would put women at a particular disadvantage when compared with
+men, (ii) which puts her at that disadvantage, and (iii) which he cannot show
+to be a proportionate means of achieving a legitimate aim.”</p>
+
+<p class="ParaNoNumber">Equivalent provision was made in a new section 1(1A) of
+the 1976 Act. That is the same concept of indirect discrimination as has now
+been applied to all the areas of activity covered by the Equality Act 2010.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is instructive to go through the various iterations of the indirect
+discrimination concept because it is inconceivable that the later versions were
+seeking to cut it down or to restrict it in ways which the earlier ones did
+not. The whole trend of equality legislation since it began in the 1970s has
+been to reinforce the protection given to the principle of equal treatment. All
+the iterations share certain salient features relevant to the issues before us.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first salient feature is that, in none of the various definitions of
+indirect discrimination, is there any express requirement for an explanation of
+the reasons <i>why </i>a particular PCP puts one group at a disadvantage when
+compared with others. Thus there was no requirement in the 1975 Act that the
+claimant had to show why the proportion of women who could comply with the
+requirement was smaller than the proportion of men. It was enough that it was.
+There is no requirement in the Equality Act 2010 that the claimant show why the
+PCP puts one group sharing a particular protected characteristic at a
+particular disadvantage when compared with others. It is enough that it does.
+Sometimes, perhaps usually, the reason will be obvious: women are on average
+shorter than men, so a tall minimum height requirement will disadvantage women
+whereas a short maximum will disadvantage men. But sometimes it will not be
+obvious: there is no generally accepted explanation for why women have on
+average achieved lower grades as chess players than men, but a requirement to
+hold a high chess grade will put them at a disadvantage.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A second salient feature is the contrast between the definitions of
+direct and indirect discrimination. Direct discrimination expressly requires a
+causal link between the less favourable treatment and the protected
+characteristic. Indirect discrimination does not. Instead it requires a causal
+link between the PCP and the particular disadvantage suffered by the group and
+the individual. The reason for this is that the prohibition of direct
+discrimination aims to achieve equality of treatment. Indirect discrimination
+assumes equality of treatment - the PCP is applied indiscriminately to all -
+but aims to achieve a level playing field, where people sharing a particular
+protected characteristic are not subjected to requirements which many of them
+cannot meet but which cannot be shown to be justified. The prohibition of
+indirect discrimination thus aims to achieve equality of results in the absence
+of such justification. It is dealing with hidden barriers which are not easy to
+anticipate or to spot.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A third salient feature is that the reasons why one group may find it
+harder to comply with the PCP than others are many and various (Mr Sean Jones
+QC for Mr Naeem called them “context factors”). They could be genetic, such as
+strength or height. They could be social, such as the expectation that women
+will bear the greater responsibility for caring for the home and family than
+will men. They could be traditional employment practices, such as the division
+between “women’s jobs” and “men’s jobs” or the practice of starting at the
+bottom of an incremental pay scale. They could be another PCP, working in
+combination with the one at issue, as in <i>Homer v Chief Constable of West
+Yorkshire </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2012/15.html">[2012] UKSC 15</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2012/15.html">[2012] ICR 704</a>, where the requirement of a law
+degree operated in combination with normal retirement age to produce the
+disadvantage suffered by Mr Homer and others in his age group. These various examples
+show that the reason for the disadvantage need not be unlawful in itself or be
+under the control of the employer or provider (although sometimes it will be).
+They also show that both the PCP and the reason for the disadvantage are “but
+for” causes of the disadvantage: removing one or the other would solve the
+problem.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A fourth salient feature is that there is no requirement that the PCP in
+question put every member of the group sharing the particular protected
+characteristic at a disadvantage. The later definitions cannot have restricted
+the original definitions, which referred to the proportion who could, or could
+not, meet the requirement. Obviously, some women are taller or stronger than
+some men and can meet a height or strength requirement that many women could
+not. Some women can work full time without difficulty whereas others cannot.
+Yet these are paradigm examples of a PCP which may be indirectly
+discriminatory. The fact that some BME or older candidates could pass the test
+is neither here nor there. The group was at a disadvantage because the
+proportion of those who could pass it was smaller than the proportion of white
+or younger candidates. If they had all failed, it would be closer to a case of
+direct discrimination (because the test requirement would be a proxy for race
+or age).</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A fifth salient feature is that it is commonplace for the disparate
+impact, or particular disadvantage, to be established on the basis of
+statistical evidence. That was obvious from the way in which the concept was
+expressed in the 1975 and 1976 Acts: indeed it might be difficult to establish
+that the proportion of women who could comply with the requirement was smaller
+than the proportion of men unless there was statistical evidence to that
+effect. Recital (15) to the Race Directive recognised that indirect
+discrimination might be proved on the basis of statistical evidence, while at
+the same time introducing the new definition. It cannot have been contemplated
+that the “particular disadvantage” might not be capable of being proved by
+statistical evidence. Statistical evidence is designed to show correlations
+between particular variables and particular outcomes and to assess the
+significance of those correlations. But a correlation is not the same as a
+causal link.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A final salient feature is that it is always open to the respondent to show
+that his PCP is justified - in other words, that there is a good reason for the
+particular height requirement, or the particular chess grade, or the particular
+CSA test. Some reluctance to reach this point can be detected in the cases, yet
+there should not be. There is no finding of unlawful discrimination until all
+four elements of the definition are met. The requirement to justify a PCP
+should not be seen as placing an unreasonable burden upon respondents. Nor
+should it be seen as casting some sort of shadow or stigma upon them. There is
+no shame in it. There may well be very good reasons for the PCP in question -
+fitness levels in fire-fighters or policemen spring to mind. But, as Langstaff
+J pointed out in the EAT in <i>Essop</i>, a wise employer will monitor how his
+policies and practices impact upon various groups and, if he finds that they do
+have a disparate impact, will try and see what can be modified to remove that
+impact while achieving the desired result.</a></p><a name="para29">
+
+<p class="ParaHeading">The arguments in Essop</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>All the above salient features of the definition of indirect discrimination
+support the appellants’ case that there is no need to prove the reason why the
+PCP in question puts or would put the affected group at a particular
+disadvantage.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondent relies upon two main arguments to counter this. The first
+is that the individual claimant has to show that he has been put at “that
+disadvantage”, that is, the same disadvantage that the group to which he belongs
+is, or would be, put. How, it is said, can one know what that disadvantage is
+unless one knows the reason for it? But what is required by the language is
+correspondence between the disadvantage suffered by the group and the
+disadvantage suffered by the individual. This will largely depend upon how one
+defines the particular disadvantage in question. If the disadvantage is that
+more BME or older candidates fail the test than do white or younger candidates,
+then failure is the disadvantage and a claimant who fails has suffered that
+disadvantage. If the disadvantage is that BME and older candidates are more
+likely to fail than white or younger candidates, then the likelihood of failure
+is the disadvantage and any BME or older candidate suffers that disadvantage.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That leads to the second argument - that “undeserving” claimants, who
+have failed for reasons that have nothing to do with the disparate impact, may
+“coat tail” upon the claims of the deserving ones. This is easier to answer if
+the disadvantage is defined in terms of actual failure than if it is defined in
+terms of likelihood of failure (because only some suffer the first whereas all
+suffer the second). But in any event, it must be open to the respondent to show
+that the particular claimant was not put at a disadvantage by the requirement.
+There was no causal link between the PCP and the disadvantage suffered by the
+individual: he failed because he did not prepare, or did not show up at the
+right time or in the right place to take the test, or did not finish the task.
+A second answer is that a candidate who fails for reasons such as that is not
+in the same position as a candidate who diligently prepares for the test, turns
+up in the right place at the right time, and finishes the tasks he was set. In such
+a situation there would be a “material difference between the circumstances
+relating to each case”, contrary to section 23(1) (para 4 above). A third
+answer is that the test may in any event be justified despite its disparate
+impact. Although justification is aimed at the impact of the PCP on the group
+as a whole rather than at the impact upon the individual, as Langstaff J
+pointed out, the less the disadvantage suffered by the group as a whole, the
+easier it is likely to be to justify the PCP. If, however, the disadvantage is
+defined in terms of likelihood of rather than actual failure, then it could be
+said that all do suffer it, whether or not they fail and whatever the reason
+for their failure. But there still has to be a causal link between the PCP and the
+individual disadvantage and it is fanciful to suppose that people who do not
+fail or who fail because of their own conduct have suffered any harm as a
+result of the PCP. It must be permissible for an employer to show that an
+employee has not suffered harm as a result of the PCP in question.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appeal has come before us as a matter of principle. In principle,
+the arguments put forward by the respondent do not justify importing words into
+the statute (and the Directives which lay behind it) which are simply not there
+and which, as the Court of Appeal recognised, could lead to the continuation of
+unlawful discrimination, which would be contrary to the public interest (para
+34). In order to succeed in an indirect discrimination claim, it is not necessary
+to establish the reason for the particular disadvantage to which the group is
+put. The essential element is a causal connection between the PCP and the
+disadvantage suffered, not only by the group, but also by the individual. This
+may be easier to prove if the reason for the group disadvantage is known but
+that is a matter of fact, not law.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, the parties are not agreed on how the disadvantage should be
+defined. The case came before the Employment Tribunal on the basis that the
+disadvantage was the greater likelihood of failure. In the Employment Appeal
+Tribunal, Langstaff J treated the “mere fact of failure of the test” as the
+disadvantage (para 25). The Court of Appeal favoured the approach in the
+Employment Tribunal. Before this Court the appellants identify the disadvantage
+in essentially the same terms as did Langstaff J: the disadvantage was that
+members of the group failed the test disproportionately and the appellants
+suffered that same disadvantage.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my view, the appellants (and the EAT) are in principle correct. As
+already noted, it is a typical feature of indirect discrimination that some
+members of the disadvantaged group will not in fact suffer the disadvantage. At
+the level of the group the disadvantage may be no more than likely but that
+does not make it a different disadvantage from the actual disadvantage suffered
+by those who are affected. The difference is between potential and actual
+disadvantage but the disadvantage is the same. Thus, in the typical example of
+a height requirement, women are statistically more likely to fail to meet it,
+but only some will fail and others will pass. The disadvantage in each case is
+the same - the failure to meet the height requirement. Any other approach would
+deprive indirect discrimination of much of its content.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would therefore allow the appeal in the <i>Essop </i>case and remit
+the claims to be determined by the Employment Tribunal in accordance with this
+judgment.</a></p><a name="para36">
+
+<p class="ParaHeading">The arguments in Naeem</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">Disadvantage</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In Mr Naeem’s case, the reason why the pay scale puts Muslim chaplains
+at a disadvantage is known: essentially it depends upon length of service and
+they have, on average, shorter lengths of service than Christian chaplains. But
+the respondent raises two main arguments.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first argument is that the reason why the PCP puts the group at a
+disadvantage - the “context factor” - has itself to be related to the protected
+characteristic. This was the view taken by Underhill LJ in the Court of Appeal
+in this case (and in the EAT in the earlier case of <i>Haq v Audit Commission </i>[2011]
+UKEAT/0123/10/LA but not upheld by the Court of Appeal at </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/1621.html">[2012] EWCA Civ 1621</a>;
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2012/1621.html">[2013] Eq LR 130</a>). Thus, at para 22, he held that it cannot</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“properly be said that it is the
+use of the length of service criterion which puts Muslim chaplains at a
+disadvantage, within the meaning of section 19(2)(b). The concept of ‘putting’ persons
+at a disadvantage is causal, and, as in any legal analysis of causation, it is
+necessary to distinguish the legally relevant cause or causes from other
+factors in the situation. In my view the only material cause of the disparity
+in remuneration … is the (on average) more recent start-dates of the Muslim
+chaplains. But that does not reflect any characteristic peculiar to them as
+Muslims: rather, it reflects the fact that there was no need for their services
+(as employees) at any earlier date.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But this cannot be right. The same could be said of almost any reason
+why a PCP puts one group at a disadvantage. There is nothing peculiar to
+womanhood in taking the larger share of caring responsibilities in a family.
+Some do and some do not. But (in the context of equal pay) it has been
+acknowledged that a length of service criterion can have a disparate impact on
+women because they tend to have shorter service periods as a result of career
+breaks or later career starts flowing from their child care responsibilities:
+see <i>Wilson v Health and Safety Executive </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2009/1074.html">[2009] EWCA Civ 1074</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2009/1074.html">[2010] ICR 302</a>, following <i>Cadman v Health and Safety Executive </i>(Case C-17/05)
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2006/C1705.html">[2006] ICR 1623</a>. Indeed, it could be said that the lack of need for the Muslim
+chaplains is more “peculiar to them as Muslims” than are many of the reasons
+why women may suffer a particular disadvantage. All that this means is that the
+employer may have to justify the PCP. In principle, a length of service
+criterion may be justified as a reward for greater experience and skill, but
+this gets harder to do the longer the time taken to achieve parity with others.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second argument relates to the group or “pool” with which the
+comparison is made. Should it be all chaplains, as the Employment Tribunal
+held, or only those who were employed since 2002? In the equal pay case of <i>Grundy
+v British Airways plc </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2007/1020.html">[2007] EWCA Civ 1020</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2007/1020.html">[2008] IRLR 74</a>, at para 27,
+Sedley LJ said that the pool chosen should be that which suitably tests the
+particular discrimination complained of. In relation to the indirect
+discrimination claim in <i>Allonby v Accrington and Rossendale College </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2001/529.html">[2001] EWCA Civ 529</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/529.html">[2001] ICR 1189</a>, at para 18, he observed that identifying the
+pool was not a matter of discretion or of fact-finding but of logic. Giving
+permission to appeal to the Court of Appeal in this case, he observed that
+“There is no formula for identifying indirect discrimination pools, but there are
+some guiding principles. Amongst these is the principle that the pool should
+not be so drawn as to incorporate the disputed condition”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Consistently with these observations, the <i>Statutory</i> <i>Code of
+Practice </i>(2011), prepared by the Equality and Human Rights Commission under
+section 14 of the Equality Act 2006, at para 4.18, advises that:</a></p><a name="para41">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In general, the pool should
+consist of the group which the provision, criterion or practice affects (or
+would affect) either positively and negatively, while excluding workers who are
+not affected by it, either positively or negatively.”</p>
+
+<p class="ParaNoNumber">In other words, all the workers affected by the PCP in
+question should be considered. Then the comparison can be made between the
+impact of the PCP on the group with the relevant protected characteristic and
+its impact upon the group without it. This makes sense. It also matches the
+language of section 19(2)(b) which requires that “it” - ie the PCP in question
+- puts or would put persons with whom B shares the characteristic at a
+particular disadvantage compared with persons with whom B does not share it.
+There is no warrant for including only some of the persons affected by the PCP
+for comparison purposes. In general, therefore, identifying the PCP will also
+identify the pool for comparison.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this case, the PCP identified was the incremental pay structure which
+affected all the chaplains employed by the Prison Service. This did put the
+Muslim chaplains at a particular disadvantage compared with the Christians. The
+appellant suffered this disadvantage and so section 19(2)(b) and (c) were
+satisfied. The question, therefore, is whether the respondent can justify it as
+“a proportionate means of achieving a legitimate aim”.</a></p><a name="para42">
+
+<p class="ParaHeading">Justification</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Employment Tribunal held that it could. The original pay scale had
+been intended to reward loyalty and experience. The Prison Service had been
+trying to move away, as quickly as possible, from the long incremental pay
+scale to a much shorter one, where increments would depend to a limited extent
+on experience and a greater extent on assessed performance. The Employment
+Tribunal identified the objective as “the single one of rewarding length of
+service and increasing experience, while at the same time managing an orderly
+and structured transition, over a period of time, to the shorter, single pay
+scale … That is clearly a serious objective, which represents a real
+organisational need …” (para 27). The EAT agreed that the Employment Tribunal
+had properly identified a legitimate aim. Mr Naeem does not now challenge that
+conclusion.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The EAT however disagreed that the means adopted to meet that
+organisational need had been shown to be proportionate. The Employment Tribunal
+had found as a fact that six years’ service was the most required for newly
+appointed chaplains to have attained the professional standards which should
+entitle them to be rewarded at the top of the scale, as fully trained and
+experienced in their role (para 10.7). The Prison Service was trying to achieve
+that in an orderly manner, by agreement with the Trade Union, but the process
+had been halted by government pay restraint. The Tribunal simply concluded that
+“We accept that the need for orderly management of the process renders the
+element of particular disadvantage in this case necessary, but having regard to
+the totality of the circumstances, we find that such disadvantage to the claimant
+is no more than is necessary to achieve the objective” (para 27). They had not
+considered alternative ways in which the Prison Service could have eliminated
+the discrimination against Mr Naeem and the other Muslim chaplains affected
+within the constraints to which they were subject.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Not surprisingly, Mr Naeem agrees with the EAT and asks this Court,
+should we accept his arguments on the earlier issues, as I would do, to remit
+the claim to the Employment Tribunal for reconsideration of the justification
+issue.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The EAT records that the Employment Tribunal had been offered the
+example of a larger group of Prison Service employees, psychotherapists, for
+whom a suitable adjustment had been made to eliminate discriminatory treatment
+(para 41). The EAT did not place much, if any, weight on this, as it had been
+done in the context of an equal pay rather than a discrimination claim. But the
+EAT made other suggestions for alternative ways of continuing to apply the PCP
+in question without disadvantage to the claimant - backdating his length of
+service, adding an additional increment at the start of his service, or
+refusing further pay increases for those higher up the scale while improving
+the position of those lower down the scale. The Tribunal should have thought of
+these, especially as they had been given an example of a successful search for
+solutions.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Neither the EAT nor any higher court is entitled to disturb the factual
+findings of an Employment Tribunal. It must detect an error of law. The
+Tribunal had adopted the “no more than necessary” test of proportionality from
+the <i>Homer</i> case and can scarcely be criticised by this Court for doing
+so. But we are here concerned with a system which is in transition. The
+question was not whether the original pay scheme could be justified but whether
+the steps being taken to move towards the new system were proportionate. Where
+part of the aim is to move towards a system which will reduce or even eliminate
+the disadvantage suffered by a group sharing a protected characteristic, it is
+necessary to consider whether there were other ways of proceeding which would
+eliminate or reduce the disadvantage more quickly. Otherwise it cannot be said
+that the means used are “no more than necessary” to meet the employer’s need
+for an orderly transition. This is a particular and perhaps unusual category of
+case. The burden of proof is on the respondent, although it is clearly
+incumbent upon the claimant to challenge the assertion that there was nothing
+else the employer could do. Where alternative means are suggested or are
+obvious, it is incumbent upon the Tribunal to consider them. But this is a
+question of fact, not of law, and if it was not fully explored before the
+Employment Tribunal it is not for the EAT or this Court to do so.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would therefore dismiss the appeal in Mr Naeem’s case.</a></p><a name="para48">
+
+</a></div><a name="para48">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/27.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

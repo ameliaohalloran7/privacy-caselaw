@@ -1,0 +1,339 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>DCM (Optical Holdings) Ltd v Revenue and Customs (Scotland) [2022] UKSC 26 (12 October 2022)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Gisha;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:-18.0pt;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:99.25pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" link="#0563C1" vlink="#954F72" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      DCM (Optical Holdings) Ltd v Revenue and Customs (Scotland) [2022] UKSC 26 (12 October 2022)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/26.html</i>
+<br>Cite as: 
+[2022] BVC 11,
+
+2023 SCLR 56,
+
+[2023] 1 All ER 617,
+
+[2022] WLR 4815,
+
+[2022] STC 1900,
+
+[2022] 1 WLR 4815,
+
+2022 GWD 32-480,
+
+2022 SLT 1223,
+
+[2022] STC 19002023 SC (UKSC) 12022 SLT 1223,
+
+[2022] WLR(D) 398,
+
+[2022] UKSC 26,
+
+[2022] STI 13352022 GWD 32-480,
+
+[2022] STI 1335,
+
+2023 SC (UKSC) 1
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2022/26.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="https://www.iclr.co.uk/document/2019001357/casereport_08163993-c127-4215-bc4d-06cdf2b7e9ad/html">[2022] WLR(D) 398</a>]
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2019001357/casereport_874aeb1c-a519-41c1-892e-8a66c598ccdb/html">[2022] 1 WLR 4815</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2022/26.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2022/26.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+<p class="JudgmentReferences" style="margin:0cm"><b>Michaelmas Term</b></p>  
+<p class="JudgmentReferences" style="margin:0cm"><b>[2022] UKSC 26</b></p>  
+<p class="JudgmentReferences"><i>On appeal from: </i><a title="Link to BAILII version" href="/scot/cases/ScotCS/2020/2020_CSIH_60.html">[2020] CSIH 60</a></p>  
+<p class="JudgmentTitle">JUDGMENT</p>  
+<p class="JudgmentDetail1">DCM (Optical Holdings) Ltd (Appellant)</p>  
+<p class="JudgmentDetail1">&nbsp;<i>v</i> </p>  
+<p class="JudgmentDetail1">Commissioners for His Majesty’s Revenue and Customs (Respondent) (Scotland)</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Reed, President</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hodge, Deputy President</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Sales</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hamblen</p>  
+<p class="JudgmentJudges">Lord Stephens</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">12 October 2022</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+<p class="JudgmentJudges">Heard on 8 February 2022</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>Appellant</i></a></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Julian Ghosh KC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">David Welsh</p>  
+<p class="JudgmentAppRespInt">(Instructed by Harper Macleod LLP (Glasgow))</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent</i></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">David Thomson KC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Ross Anderson</p>  
+<p class="JudgmentAppRespInt">(Instructed by Office of the Advocate General for Scotland)</p>  
+<p class="JudgmentAppRespInt" align="left" style="text-align:left"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">LORD HODGE (</a><span style="text-transform:none">with whom Lord Reed, Lord Sales, Lord Hamblen and Lord Stephens agree</span>): </p> <ol> 
+<li value="1"><a name="para1"> This appeal raises two questions relating to the powers of HM Revenue and Customs Commissioners and formerly HM Customs and Excise Commissioners in relation to the administration of Value Added Tax. For simplicity I refer to both as “HMRC”. The first question is whether HMRC were, in the circumstances of this case, subject to a statutory time bar under section 73(6) of the Value Added Tax Act 1994 (“VATA”) which invalidated their assessment of the amount of output tax for which the taxable person was accountable. The second and more significant question is whether HMRC have power to refuse to accept a taxable person’s self-assessment claim for payment of a VAT credit while they verify the claim and to decide at a later date that they are only prepared to pay a lower amount than it claimed in the self-assessment. 
+</a></li>
+<p> </p>  
+<li value="2"><a name="para2"> The appeal proceeds on a point of law from the First-tier Tribunal. It comes to this court with the permission of the Inner House of the Court of Session in Scotland granted on 11 December 2020.
+</a></li>
+<p> </p>  
+<li value="3"><a name="para3"> As is well-known, VAT operates in large measure by self-assessment. The trader submits periodic self-assessment returns to HMRC, which usually involve prescribed accounting periods of one month or three months, stating in relation to the relevant period (a) its calculation of the output tax due on its taxable supplies and (if the taxable person is obtaining supplies into Northern Ireland) acquisitions from EU member states, (b) the tax reclaimed on purchases and other inputs for which it claims credit, and (c) its mathematical calculation of the difference between (a) and (b), giving rise to a net sum due to either HMRC or the trader. The form also discloses the tax-exclusive value of outputs and inputs and (if the taxable person is supplying from or acquiring goods and services into Northern Ireland) of supplies to and acquisitions of goods and related services from EU member states for the period. The two questions in this appeal are concerned with the administration by HMRC of VAT in the context of this system of self-assessment.
+</a></li>
+<p> </p>  
+<p class="ParaHeading1" style="margin-left:0cm;text-indent:0cm">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-transform:none">Factual background</span></p>  
+<li value="4"><a name="para4"> It is sufficient to set out briefly the factual background which I have drawn from the findings of fact by the First-tier Tribunal.
+</a></li>
+<p> </p>  
+<li value="5"><a name="para5"> The taxpayer is DCM (Optical Holdings) Ltd (“DCM”) which has carried on principally an optical business under the name of Optical Express, specialising in the sale of dispensed spectacles and the provision of refractive eye surgery. DCM is registered in a VAT group with ten corporate bodies. The group has accounted for VAT under a single registration number. DCM acts as the representative member of the VAT group. It is a partially exempt business for the purposes of VAT as it has both taxable supplies and exempt supplies. The taxable supplies in issue in the appeal related to the supply of frames, lenses, accessories, EC despatches of laser equipment, cosmetic dental kits and “Careplan”, which involved the provision of after-sale care of spectacles. The exempt supplies were of dispensing services, eye tests and laser surgery. Because DCM made both taxable and exempt supplies to its customers when dispensing and selling spectacles its VAT liability and its entitlement to recover input tax was calculated by reference to a partial exemption method authorised by section 19(4) of VATA which provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“Where a supply of any goods or services is not the only matter to which a consideration in money relates, the supply shall be deemed to be for such part of the consideration as is properly attributable to it…”</p>  
+<li value="6"><a name="para6"> HMRC provided guidance on the proper attribution or apportionment of the consideration paid by the customer for the two distinct supplies. This guidance was set out in HMRC’s VAT Information Sheet 08/99: “Opticians: Apportionment of charges for supplies of spectacles and dispensing”. The guidance was not legally binding, but counsel has accepted throughout the proceedings that it binds HMRC. It set out two methods of apportionment which opticians could adopt. The first was Full Cost Apportionment (“FCA”), which is described in Annex A of the Information Sheet; the other was Separately Disclosed Charges (“SDC”), which involved the optician making and disclosing to its patients at the time of supply the separate charges for the taxable and exempt supplies and thus the VAT charged on the taxable supplies. HMRC viewed SDC as involving a relaxation of the strict statutory position. If the requirements of SDC were not met, the optician had to use FCA.
+</a></li>
+<p> </p>  
+<li value="7"><a name="para7"> DCM and HMRC have been in dispute for several years since 1998 over questions of both output tax and input tax, but the six appeals which the First-tier Tribunal determined related to questions concerning the accounting for output tax. This appeal is accordingly concerned only with two questions relating to output tax. The appeals before the First-tier Tribunal were concerned with (a) a disputed assessment for under-declared output VAT which was issued to DCM on 20 October 2005 for the prescribed accounting periods starting with October 2002 and ending in April 2005, which gives rise to the time bar challenge, and (b) the disputed decisions between 2008 and 2013 by which HMRC reduced the VAT credits which DCM had claimed, giving rise to the vires challenge.
+</a></li>
+<p> </p>  
+<li value="8"><a name="para8"> Between 1998 and 2001 DCM and HMRC negotiated about agreeing a method of apportioning the consideration for dispensed spectacles in accordance with section 19(4) of VATA. After HMRC raised a “best judgment” assessment in April 2001, DCM appealed that assessment to the First-tier Tribunal. Shortly before the hearing of the appeal, HMRC and DCM reached a settlement set out in HMRC’s letter of 3 June 2003 in which it was agreed that (a) three notices of assessment covering the VAT periods April 1998 to January 2001 would be recalculated on the basis that 36% of the consideration received for the dispensed spectacles related to a taxable supply and 64% to an exempt supply, and (b) for the tax periods between April 2001 and April 2003 DCM would voluntarily disclose any output tax under-declared on the same basis. In their letter HMRC made it clear that the 64% figure related only to the periods from April 1998 to April 2003 and that for the future “a fairer and more reasonable method to calculate the dispensing costs for the optometrist” was expected. HMRC stated that if DCM intended to use the SDC method it should provide to them a copy of the receipts issued to its customers.
+</a></li>
+<p> </p>  
+<li value="9"><a name="para9"> DCM withdrew its appeal. Thereafter, contrary to the undertaking given in the 2003 settlement, no voluntary disclosures were ever made by or on behalf of DCM in relation to output tax. No explanation for that omission has ever been offered. HMRC visited DCM on 27 October 2003 and disagreed with DCM’s assertion that it was operating the SDC method because they had seen a receipt which did not identify which supplies were subject to VAT and which were exempt. On 25 November 2003, PwC wrote to HMRC to seek approval of DCM’s sales receipt and order confirmation, giving the impression that they were enclosing copies of actual historical receipts whereas it became clear in the course of evidence before the First-tier Tribunal that the submitted documents were merely proposed samples. Officers from HMRC met DCM on 29 January 2004 to discuss the use of the SDC method. The meeting ended in deadlock because HMRC said that DCM had to have FCA in place from 1 May 2003 until SDC could be agreed. DCM’s position was that it had a method of SDC in place and that HMRC were proposing only minor changes to it. In further correspondence PwC asserted that DCM had had SDC in place since May 2003, whereas evidence before the First-tier Tribunal revealed that DCM’s receipts did not disclose the dispensing charge until February 2004. No actual receipts were produced to HMRC until the appeal before the First-tier Tribunal.
+</a></li>
+<p> </p>  
+<li value="10"><a name="para10"> At a visit to DCM’s premises on 31 August and 1 September 2005 HMRC Officers Boyle and O’Pray met with DCM and for the first time obtained access to DCM’s VAT account. That account contained detailed calculations of input tax and output tax. It disclosed not only that DCM had not adopted the method which PwC had represented they had for the apportionment of residual input tax between taxable and exempt supplies (with which this appeal is not directly concerned) but also that DCM had not adopted an acceptable SDC methodology in relation to output tax. DCM had applied differing percentages in different quarters as representing the proportion of the sale of dispensed spectacles that was treated as taxable. The HMRC officers told DCM that as there had been no approval for its method of SDC, DCM would have to recalculate VAT for the periods July 2003 to January 2004. HMRC, observing that the 2003 settlement had not been honoured, decided on the following day to issue a best judgment assessment applying the 36:64 apportionment to the periods October 2002 to January 2004. They also recalculated the input tax. HMRC issued that assessment on 20 October 2005. DCM challenged the assessment. By letter dated 25 January 2006 HMRC informed DCM of their decision to maintain the disputed assessment for under-declared VAT. The output element of the assessment was the subject matter of appeal 1 before the First-tier Tribunal and is the subject matter of the time-bar appeal to this court.
+</a></li>
+<p> </p>  
+<li value="11"><a name="para11"> The First-tier Tribunal’s findings which are relevant to the time-bar challenge include the following. The tribunal held that even if HMRC had read DCM’s self-assessment returns in 2002 and 2003 those returns would not in isolation have given rise to the challenged assessment of 20 October 2005 (para 180). If HMRC had examined those returns they would almost certainly have triggered a VAT investigation. But that is a different matter.
+</a></li>
+<p> </p>  
+<li value="12"><a name="para12"> The First-tier Tribunal rejected the argument that the assessment was out of time as HMRC could have known from the returns that something was seriously awry. Although this appeal is concerned with output tax, HMRC were at the relevant time concerned with DCM’s VAT returns in relation to both output tax and input tax. The tribunal accepted Officer Boyle’s explanation that before the visit of 31 August and 1 September 2005 (“the 2005 visit”) it was impossible for HMRC to work out from the VAT returns that DCM were not using the standard method of calculating residual input VAT because of the variety of supplies that were being made, the possibility of other sources of income, and the possibility, which turned out to be the case in several returns, of inaccuracies in the returns (para 187). The tribunal also held that HMRC had repeatedly been misled by PwC which asserted that DCM had used the standard method (para 188). In relation to both output tax and input tax, the tribunal accepted Officer Boyle’s evidence that it was information uncovered at the 2005 visit which enabled and caused her to calculate the figures that underpinned the challenged assessment (para 191). The tribunal held that after the 2003 settlement HMRC were reasonable in their assumption that there was compliance with that settlement. HMRC repeatedly told DCM that, in the absence of an agreed SDC, it had to have FCA in place. The tribunal made this important finding (para 192): “It [ie FCA] was not [in place] and we do not accept that HMRC could have known what DCM were doing without seeing their records.” The tribunal also rejected the argument that the absence of voluntary disclosures by DCM concerning output tax after the 2003 settlement should have led HMRC to conclude that DCM had resiled from the settlement; the far more obvious conclusion was that there had been no under-declaration of output tax (para 193). The tribunal concluded (para 199): “We are wholly unable to see any material fact which was known to HMRC prior to 31 August 2005 which would have justified making the assessment earlier.” It is clear from this conclusion that the tribunal in making its findings of fact focused on the sufficiency of evidence available to HMRC to make the challenged assessment and not any other hypothetical assessment. As I explain below, the tribunal was correct in doing so.
+</a></li>
+<p> </p>  
+<li value="13"><a name="para13"> In relation to the challenge to the vires of the five decisions by HMRC to reduce the VAT credit due to DCM made between 2008 and 2013, the tribunal found that HMRC keep a central record for each trader registered for VAT in the VISION database into which all their systems feed. The material fed in is ultimately archived into a system called PRADA, which HMRC officials call “the ledger”. Where HMRC have cause for concern or are investigating the validity of a return, an official can place a repayment inhibit on the ledger which prevents any monetary credits being released to the trader. The inhibit also triggers subsequent pre-repayment credibility queries when a repayment return is received. Officer Boyle set an inhibit in the DCM ledger on 5 September 2005 because there was a pre-repayment credibility check for the July 2005 return. The value of the repayment sought was held on the ledger as “Not posted” which had the effect that the return remained unprocessed and no monies could be credited to DCM’s VAT account until the returns had been verified or formally amended. The effect of the inhibit was that all subsequent repayment returns were suspended. Once an inhibit is set, a report is run each month. The inhibit is sent to the relevant local officer for verification, which failing, it is sent to the senior officer who decides whether or not the inhibit should remain in place. Where HMRC are unable to resolve a dispute with a trader by discussion they will issue a best judgment assessment.
+</a></li>
+<p> </p>  
+<li value="14"><a name="para14"> DCM’s vires challenge is directed against HMRC’s refusal to pay the sums claimed in the relevant repayment returns and HMRC’s decisions between 2008 and 2013 to reduce the sums due to DCM from the sums that DCM had claimed in those returns.
+</a></li>
+<p> </p>  
+<p class="ParaHeading1" style="margin-left:0cm;text-indent:0cm">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-transform:none">The proceedings below</span></p>  
+<li value="15"><a name="para15"> The First-tier Tribunal (Judge Scott and Ms Sumpter) dismissed DCM’s appeals (</a><a title="Link to BAILII version" href="/uk/cases/UKFTT/TC/2017/TC06192.html">[2018] SFTD 333</a>). The Upper Tribunal (Tax and Chancery Chamber) (Lord Tyre and Judge Dean) allowed DCM’s appeal on time bar but dismissed its appeal on vires (<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2018/409.html">[2019] STC 147</a>). The Inner House of the Court of Session (The Lord President, Lord Malcolm and Lord Doherty) allowed HMRC’s appeal on time bar and dismissed DCM’s appeal on vires (<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotCS/2020/2020_CSIH_60.html">[2020] STC 2125</a>).
+</li>
+<p> </p>  
+<p class="ParaHeading1" style="margin-left:0cm;text-indent:0cm">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-transform:none">The time bar challenge</span></p>  
+<li value="16"><a name="para16"> Mr Julian Ghosh KC for DCM argues that the assessment of 20 October 2005 in so far as it related to under-declared output tax in the VAT returns was out of time and so was invalid in relation to the accounting periods from October 2002 until July 2003. He referred to the time limits imposed on HMRC for making assessments when faced with, among other things, incomplete or incorrect VAT returns. In such circumstances, section 73(1) of VATA empowers HMRC to make an assessment of the amount of VAT due from the trader to the best of their judgment. Section 73(6) sets out time limits for such assessments and provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“An assessment under subsection (1), (2) or (3) above of an amount of VAT due for any prescribed accounting period must be made within the time limits provided for in section 77 and shall not be made after the later of the following- </p>  
+<p class="MsoQuote">(a) 2 years after the end of the prescribed accounting period; or</p>  
+<p class="MsoQuote">(b) one year after evidence of facts<i>, sufficient in the opinion of the Commissioners to justify the making of the assessment</i>, comes to their knowledge, (emphasis added)</p>  
+<p class="MsoQuote">but (subject to that section) where further such evidence comes to the Commissioners’ knowledge after the making of an assessment under subsection (1), (2) or (3) above, another assessment may be made under that subsection, in addition to any earlier assessment.”</p>  
+<p class="ParaNoNumber">At the material time section 77 imposed a backstop time limit for the making of an assessment under, among others, section 73 of three years after the end of the prescribed accounting period. That backstop is now four years. The dispute in this appeal concerns the time limit in section 73(6)(b). </p>  
+<li value="17"><a name="para17"> Mr Ghosh argues that HMRC had agreed a 36:64 split between taxable and exempt supplies in the 2003 settlement which was confirmed in HMRC’s letter of 3 June 2003. He submits that by the time of the meeting between HMRC and DCM on 29 January 2004 HMRC were aware that DCM was not using FCA and that it was not using the 36:64 split in its self-assessment VAT returns. It followed, he argues, that HMRC were in a position from January 2004 to issue a best judgment assessment based on the agreed proportions in the 2003 settlement which could have been followed up by a supplementary assessment, using more precise figures after investigation. HMRC knew by January 2004 that “something was wrong” and had one year under section 73(6)(b) to make an assessment. Mr Ghosh argues that the information which HMRC obtained from the 2005 visit related to over-declarations of input tax and not to any under-declaration of output tax.
+</a></li>
+<p> </p>  
+<li value="18"><a name="para18"> This submission can be addressed briefly. DCM does not dispute that the correct interpretation of section 73(6)(b) has been stated by Dyson J in <i>Pegasus Birds Ltd v Customs &amp; Excise Commissioners </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/1998/1096.html">[1999] STC 95</a>, 101-102 in which he set out five principles which are relevant to this appeal:
+</li>
+<p> </p>  
+<p class="MsoQuote">“1. The Commissioners’ opinion referred to in section 73(6)(b) is an opinion as to whether they have evidence of facts sufficient to justify making the assessment. Evidence is the means by which the facts are proved.</p>  
+<p class="MsoQuote">2. The evidence in question must be sufficient to justify the making of <i>the assessment in question</i>: <i>C &amp; E Commissioners v Post Office</i> [1995] STC 749, 754G. (Emphasis added)</p>  
+<p class="MsoQuote">3. The knowledge referred to in section 73(6)(b) is actual, and not constructive knowledge: <i>C &amp; E Commissioners v Post Office</i> at p755D. In this context, I understand constructive knowledge to mean knowledge of evidence which the Commissioners do not in fact have, but which they could and would have if they had taken the necessary steps to acquire it.</p>  
+<p class="MsoQuote">4. The correct approach for a Tribunal to adopt is (i) to decide what were the facts which, in the opinion of the officer making the assessment on behalf of the Commissioners, justified the making of <i>the assessment</i>, and (ii) to determine when the last piece of evidence of these facts of sufficient weight to justify making the assessment was communicated to the Commissioners. The period of one year runs from the date in (ii): <i>Heyfordian Travel Ltd v C &amp; E Commissioners</i> [1979] VATTR 139, 151; and <i>Classicmoor Ltd v C &amp; E Commissioners</i> [1995] V &amp; DR 1, 10.1.27. (Emphasis added)</p>  
+<p class="MsoQuote">5. An officer’s decision that the evidence of which he has knowledge is insufficient to justify making an assessment, and accordingly, his failure to make an earlier assessment, can only be challenged on <i>Wednesbury </i>principles, or principles analogous to <i>Wednesbury</i> … (see <i>Classicmoor … at 10-11,</i>and more generally <i>John Dee Ltd v C &amp; E Commissioners</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1995/62.html">[1995] STC 941</a>, 952 per Neill LJ).” </p>  
+<li value="19"><a name="para19"> Similarly, it was common ground that section 73(6)(b) should be construed in accordance with the observations of Aldous LJ in the Court of Appeal in <i>Pegasus Birds Ltd v C &amp; E Commissioners </i>[2000] STC 91, who upheld Dyson J’s approach stating (para 11):
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“The relevant evidence of facts is <i>that which was considered, in the opinion of the Commissioners, to justify the making of the assessment</i>. The one-year time limit runs from the date when the facts constituting the evidence came to the knowledge of the Commissioners.” (Emphasis added)</p>  
+<p class="ParaNoNumber">He went on to state (para 15):</p>  
+<p class="MsoQuote">“An opinion as to what evidence justifies an assessment requires judgment and in that sense is subjective; but the existence of the opinion is a fact. From that it is possible to ascertain what was the evidence of facts which was thought to justify the making of the assessment. Once that evidence has been ascertained, then the date when the last piece of the puzzle fell into place can be ascertained.”</p>  
+<li value="20"><a name="para20"> &nbsp;It is clear from these dicta, which in my view are a correct statement of the law, that section 73(6)(b) addresses the assessment which HMRC has in fact made and not a hypothetical assessment which they might have made but did not. The words of the subsection are clear: “facts<i>, </i>sufficient in the opinion of the Commissioners to justify the making of <i>the</i> assessment.” (Emphasis added). The focus is also on the subjective opinion of the relevant HMRC official, which is a question of fact. Absent a perverse view, akin to <i>Wednesbury</i> unreasonableness, on the part of the official as to the adequacy of the evidence before him or her in relation to the assessment which is later made, it is HMRC’s knowledge of the evidence relevant to the particular assessment which starts the clock running under section 73(6)(b).
+</a></li>
+<p> </p>  
+<li value="21"><a name="para21"> These dicta blow a hole in DCM’s case below the water line. They also demonstrate that the Inner House was correct to overturn the determination of the Upper Tribunal on the question of time bar. The First-tier Tribunal’s findings of fact, which I have summarised in paras 10 to 12 above, contradict the submission that HMRC had the evidence of facts sufficient to justify the assessment dated 20 October 2005 before they obtained access to DCM’s VAT account at the 2005 visit. Further, HMRC in their written case point out that in the challenged 20 October 2005 assessment HMRC used figures for DCM’s mixed supplies for the accounting periods from October 2002 until January 2004 which were uncovered at the 2005 visit. Those figures differed from the figures for the group’s total outputs disclosed in DCM’s VAT returns for those periods by £11,378,146. 
+</a></li>
+<p> </p>  
+<li value="22"><a name="para22"> In these circumstances the court does not need to address HMRC’s submission that the self-assessments which DCM submitted were each to be treated as a unitary assessment, comprising both output tax and input tax and giving rise to a net figure, which (if positive) would be a unitary demand for tax. On the basis of HMRC’s possession of the evidence relating only to DCM’s mixed supplies and the calculation of output VAT on those supplies, the assessment of 20 October 2005 was not made out of time under section 73(6)(b) as HMRC obtained the last pieces of evidence relevant to that assessment at the 2005 visit. Therefore, in agreement with the judgment of the Inner House delivered by Lord Doherty, I would reject DCM’s appeal on time bar.
+</a></li>
+<p> </p>  
+<li value="23"><a name="para23"> This interpretation of section 73(6)(b) of VATA does not leave the trader unprotected against dilatory assessments by HMRC. While the time limit of two years after the end of the prescribed accounting period set down in section 73(6)(a) can be extended by the one-year time limit in section 73(6)(b) which is the provision at issue in this appeal, section 77 at the time of the relevant transactions prohibited the making of an assessment more than three years after the end of the prescribed accounting period (in the absence of tax evasion or fraud). Since 1 April 2009, the period under section 77 is four years: Finance Act 2008, section 118(2) and Schedule 39 para 34(2). 
+</a></li>
+<p> </p>  
+<p class="ParaHeading1" style="margin-left:0cm;text-indent:0cm">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-transform:none">The vires challenge</span></p>  
+<li value="24"><a name="para24"> &nbsp;The vires challenge, which covers the second to the sixth appeals before the First-tier Tribunal, relates to decisions taken by HMRC to reduce the VAT credit due to DCM below the figures which DCM had submitted in its periodic returns. The dispute as to whether those decisions should be treated as assessments, which engaged the First-tier Tribunal, is no longer an issue; they are to be treated as decisions by HMRC and not as assessments. The question is whether HMRC had the power to make those decisions. The challenge relates to the decisions on the VAT returns set out in the table below:
+</a></li>
+<p> </p>  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="margin-left:18.0pt;border-collapse:collapse;border:none">  <tbody><tr style="height:23.6pt">   <td width="307" valign="top" style="width:230.2pt;border:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt;height:23.6pt">   
+<p class="ParaNoNumber">The accounting period of the VAT return</p>   </td>   <td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;   border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:23.6pt">   
+<p class="ParaNoNumber">Date and effect of decision</p>   </td>  </tr>  <tr>   <td width="307" valign="top" style="width:230.2pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">July 2005</p>   </td>   <td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">30 July 2008, reducing the VAT credit.</p>   </td>  </tr>  <tr>   <td width="307" valign="top" style="width:230.2pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">January 2006</p>   </td>   <td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">16 January 2009, reducing the VAT credit.</p>   </td>  </tr>  <tr>   <td width="307" valign="top" style="width:230.2pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">April 2006</p>   </td>   <td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">15 January 2009, reducing the VAT credit.</p>   </td>  </tr>  <tr>   <td width="307" valign="top" style="width:230.2pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">July 2006</p>   </td>   <td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+<p class="ParaNoNumber">16 July 2009, reducing the VAT credit.</p>   </td>  </tr>  <tr style="height:3.5pt">   <td width="307" valign="top" style="width:230.2pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">   
+<p class="ParaNoNumber">July 2005, January, April, July and October 2006,   January, April, July, September and December 2007, March, June and December   2008</p>   </td>   <td width="307" valign="top" style="width:230.25pt;border-top:none;border-left:   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt">   
+<p class="ParaNoNumber">Review decision dated 3 June 2013, upholding earlier   decisions amending amounts in the VAT returns and reducing DCM’s VAT credits.</p>   </td>  </tr> </tbody></table>  
+<p class="ParaApprovedLevel1">&nbsp;</p>  
+<li value="25"><a name="para25"> DCM’s case is that HMRC are constrained by statute in their responses when faced with a claim by a trader in a VAT return for a VAT credit. Mr Ghosh submitted that section 25(3) of VATA mandates HMRC to pay the trader the VAT credit which the trader claims. Section 25(3) provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“If either no output tax is due at the end of the period, or the amount of the credit exceeds that of the output tax then … the amount of the credit or, as the case may be, the amount of the excess shall be paid to the taxable person by the Commissioners; and an amount which is due under this subsection is referred to in this Act as a ‘VAT credit’.”</p>  
+<li value="26"><a name="para26"> Mr Ghosh argues that HMRC must pay the claimed sum but have five options for the protection of the revenue. First, HMRC can pay to the trader the sum claimed by it but impose conditions requiring the trader to repay any money which HMRC after verification decide was not due: VATA section 25(6). Secondly, HMRC can pay and, if they later decide that they should not have paid, they can make an assessment under section 73(2) of VATA. Thirdly, HMRC can make the provision by the trader of specific evidence a condition of the payment: VATA Schedule 11, para 4(1). Fourthly, HMRC can make the provision by the trader of security a condition of the payment: VATA Schedule 11, para 4(1A). Fifthly, HMRC can ask the trader to amend its return under regulation 35 of the Value Added Tax Regulations 1995 (SI 1995/2518) (“the 1995 Regulations”). 
+</a></li>
+<p> </p>  
+<li value="27"><a name="para27"> DCM’s argument that HMRC had to pay the claimed tax credit did not find favour in the First-tier Tribunal, the Upper Tribunal or the Inner House of the Court of Session. The First-tier Tribunal held that (a) HMRC were under a duty, which was implicit in section 25 of VATA, to conduct a reasonable and proportionate investigation into the validity of a claim for repayment, (b) the taxable person had no right to a credit until the claim is verified and admitted, (c) HMRC were entitled to take a reasonable time to do so and what was reasonable depended upon the facts of the particular case, (d) HMRC’s officers had acted proportionately when faced with a lack of cooperation from DCM, (e) that lack of cooperation contributed in large measure to the long delays which occurred, (f) HMRC did not need to raise an assessment when no tax was due, and (g) DCM could appeal the decisions, once they were made, as they had done (paras 204-212). The Upper Tribunal upheld that reasoning and stated that HMRC had a power implicit in section 25(3) of VATA and in accordance with their care and management powers in para 1 of Schedule 11 to VATA to refuse to pay the claimed sum in full and to pay a lesser sum or no sum instead. That power must be exercised reasonably and proportionately and was subject to judicial control (paras 31-37).
+</a></li>
+<p> </p>  
+<li value="28"><a name="para28"> By the time the appeal came to the Inner House the focus of DCM’s submissions had shifted from an argument that HMRC had to make an assessment to supersede DCM’s claim to an argument that HMRC should have issued a regulation 35 direction requiring the taxable person to correct errors in its return. The Inner House rejected that argument. Lord Doherty set out the crux of the Inner House’s reasoning in para 43 of the opinion of the Court:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“While DCM stressed that the only power which HMRC could use to direct the formal amendment of returns was that contained in regulation 35, in our opinion formal amendment of the returns is not the critical issue. Rather, the crux is whether HMRC have the power to refuse to accept (in whole or in part) a sum claimed as input tax. We agree with the FTT and the UT that it is clear that HMRC do have that power. In our opinion, just as it is implicit in section 25(2) and (3) and Schedule 11, paras 1 and 4 that the allowance of an input tax claim is conditional upon the claim’s verification, it is also implicit in those provisions that HMRC may accept or reject the claim in whole or in part.” </p>  
+<li value="29"><a name="para29"> HMRC are a creature of statute and their powers are set out in statute either expressly or by implication. The power to verify a return is recognised in section 73(1) of VATA. There is no express power to refuse to meet a claim for payment by a repayment trader until the process of verification is completed or to amend a repayment return on completing the verification process. The power to do so, if it exists, must arise by implication. DCM argue that there is no such implication. I disagree. In my view the First-tier Tribunal, the Upper Tribunal and the Inner House were correct in rejecting DCM’s submissions on the vires question for the following six reasons.
+</a></li>
+<p> </p>  
+<li value="30"><a name="para30"> First, it is not disputed that HMRC have both a power and a duty to conduct a reasonable and proportionate investigation into the validity of claims for a refund and repayment and that HMRC are entitled to take a reasonable time to investigate claims before authorising repayment. This position of the parties is recorded in the opinion of the Inner House paras 34 and 41 and was not challenged on this appeal: Statement of Facts and Issues para 7.7. Lightman J so held in <i>R (UK Tradecorp Ltd) v Customs and Excise Commissioners </i></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2004/2515.html">[2004] EWHC 2515 (Admin)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2004/2515.html">[2005] STC 138</a> (“<i>Tradecorp</i>”), para 18. See also <i>R v Customs and Excise Commissioners, Ex p Strangewood Ltd </i>[1987] STC 502, 505 per Otton J. As Lightman J recorded at para 33, Neuberger J, addressing an application for interim payment of a disputed VAT credit, drew a clear distinction between an unadjudicated claim and an admitted or established claim: <i>Capital One Developments Ltd v Customs and Excise Commissioners </i><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2002/197.html">[2002] EWHC 197 (Ch)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2002/197.html">[2002] STC 479</a>. HMRC are under a duty to process the claim expeditiously, but non-cooperation by the taxable person may delay the conclusion of the investigation and may oblige HMRC to reject the claim: <i>Tradecorp</i>, para 24.
+</li>
+<p> </p>  
+<li value="31"><a name="para31"> Secondly, this power and duty not being in dispute, the issue is whether after carrying out the verification process HMRC have the power to give effect to its result by intimating their decision to the taxable person to refuse to pay the claim in full or in part or whether HMRC must take one of the steps which Mr Ghosh proposed in para 26 above.
+</a></li>
+<p> </p>  
+<li value="32"><a name="para32"> Thirdly, it is implicit in section 25(3) of VATA, which I have quoted in para 25 above, that the obligation on HMRC to pay a VAT credit arises only once it is established that the VAT credit is due. There must be a VAT credit due before HMRC are under the statutory obligation to pay. The obligation on HMRC to pay does not depend solely on the say-so of the trader. 
+</a></li>
+<p> </p>  
+<li value="33"><a name="para33"> Fourthly, the power and duty to verify claims for a VAT credit and to refuse to pay sums which are not due to the taxable person is implicit in the statutory statement of HMRC’s duty in para 1 of Schedule 11 to VATA which states: “[HMRC] shall be responsible for the collection and management of VAT”. The statutory powers which Mr Ghosh invokes and to which I refer in para 26 above, namely section 25(6) of and para 4(1) and (1A) of Schedule 11 to VATA and regulation 35 of the 1995 Regulations, do not exhaust HMRC’s powers. The implied power is consistent with the purpose of ensuring that the trader pays the right amount of VAT or receives the right amount of input tax that is due to it. As HMRC submit, the courts have recognised that powers are to be implied into the statutory VAT scheme to make it work. See, for example, <i>S J Grange Ltd v Customs and Excise Commissioners</i> [1979] 1 WLR 239; [1979] STC 183 CA (an assessment covering 21 months); <i>University Court of the University of Glasgow v Revenue and Customs Commissioners</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotCS/2003/38.html">[2003] STC 495</a> (CSIH) (alternative assessments); and <i>BUPA Purchasing Ltd v Customs and Excise Commissioners </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2007/542.html">[2007] EWCA Civ 542</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2007/542.html">[2008] STC 101</a> (amendment of basis of assessment).
+</li>
+<p> </p>  
+<li value="34"><a name="para34"> Fifthly, the principle of fiscal neutrality, which underpins EU law and domestic law jurisprudence in relation to VAT, gives HMRC the task of verifying a trader’s claims and of refusing to pay sums which are not due: <i>Tradecorp</i>, para 18. Otherwise, as HMRC submit, they would be providing an unwarranted cash flow advantage to a repayment trader which was not available to a trader which pays VAT (“a payment trader”) and which has deducted no more input tax in its VAT return than it is entitled to do. 
+</a></li>
+<p> </p>  
+<li value="35"><a name="para35"> It is true, as Mr Ghosh submits, that a payment trader which, in the opinion of HMRC, overstates its input tax or understates its output tax, thereby reducing the VAT which it has to pay, is nonetheless initially required to pay only the sum which it discloses in the VAT return and it is up to HMRC to issue a timely assessment to recover the VAT which the trader should have paid. A repayment trader by contrast may receive nothing until the expeditious verification process, which HMRC are required to conduct, is completed. There is a potential therefore for HMRC to run out of time to make an assessment of VAT due to them when verifying the claims of a payment trader because of the time limits in sections 73 and 77 of VATA while the time allowed for the expeditious verification of a repayment claim might, depending on the circumstances of the case, extend beyond those limits, not least where, as here, the trader has been uncooperative. 
+</a></li>
+<p> </p>  
+<li value="36"><a name="para36"> I am not, however, persuaded that the difference of treatment amounts to unjustified discrimination. 
+</a></li>
+<p> </p>  
+<li value="37"><a name="para37"> HMRC’s entitlement to carry out an expeditious and proportionate verification of a claimed VAT credit is consistent with EU law relating to VAT: see <i>Enel Maritsa Iztok 3 AD v Direktor ‘Obzhalvane I upravlenie na izpalnenieto’ NAP </i>(Case C-107/10) [2011] ECR 1-03876; </a><a title="Link to BAILII version" href="/eu/cases/EUECJ/2011/C10710.html">ECLI:EU:C:2011:298</a>, para 53.In that case, again in para 53, the Court of Justice of the European Union stated that the taxing authorities had the power to extend the statutory period in which refunding of excess VAT was to be made in order to carry out a tax investigation and that the authorities would comply with the principle of fiscal neutrality if they compensated the trader’s economic disadvantage through being temporarily kept out of its money by the payment of interest which was otherwise normally payable under the relevant legislation. 
+</li>
+<p> </p>  
+<li value="38"><a name="para38"> In most circumstances, provided a trader is cooperative, HMRC’s fulfilment of their obligation to carry out the verification in an expeditious and proportionate manner would cause them to conclude their verification promptly and certainly on a timescale well within the time limits of sections 73 and 77 which apply to assessments. 
+</a></li>
+<p> </p>  
+<li value="39"><a name="para39"> There are also important differences between payment traders and repayment traders which mean that they are not wholly comparable. When a payment trader makes a self-assessed VAT return to HMRC, that trader discloses in its return the sum which is prima facie due as tax to HMRC: <i>Chamberlin v Revenue and Customs Commissioners</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2011/271.html">[2011] EWCA Civ 271</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2011/271.html">[2011] STC 1237</a>, para 26 per Sir Andrew Morritt C. A repayment trader’s claim for a VAT credit in its VAT return by contrast involves no recognition of the validity of the claim by the entity which may be liable to pay the claimed sum or a lesser sum. In <i>Tradecorp</i> Lightman J (para 17) stated: “a claim which has been admitted or upheld (and only such a claim) gives rise to a right of deduction and, if the deduction exceeds the amount of tax due, a prima facie right to immediate payment.” 
+</li>
+<p> </p>  
+<li value="40"><a name="para40"> Therefore, so long as fiscal neutrality can be achieved where there has been an extended verification process by payments to the repayment trader, the differences in treatment of such traders and payment traders does not amount to unequal treatment. The parties have not addressed the Court on the question of interest or other remedies to achieve this end; but I observe that there are remedies under current legislation. First, HMRC are obliged to pay interest if, because of an error on their part, a trader has suffered delay in the repayment of an amount due in connection with VAT: VATA, section 78.Secondly, a trader may be entitled to a VAT repayment supplement after 30 days where the amount shown on its return as due by way of repayment does not exceed the payment which is found to be due by more than the greater of 5% or £250: VATA section 79. Proposals to reform the payment of interest by HMRC on payments in connection with VAT are expected to be implemented in 2023</a><a name="_Hlk115469980">: <i>De Voil Indirect Tax Service, </i>V 5.196A</a>.
+</li>
+<p> </p>  
+<li value="41"><a name="para41"> Sixthly, the existence of a power to verify and, when it is justified, to refuse to pay claimed VAT credit is not inconsistent with the statutory provisions of VATA. 
+</a></li>
+<p> </p>  
+<li value="42"><a name="para42"> Expanding on that point, the obligation to pay a VAT credit in section 25(3) of VATA, as I have said, is predicated on the fact that the sums in question are due. The power to make best judgment assessments in section 73 is exercisable only if the specified conditions are met: the trader must have failed to make a return or to keep documents or to afford HMRC the facility to verify such returns, or HMRC consider the returns to be incomplete or incorrect. The condition that it should appear to HMRC that the return is incomplete or incorrect and the requirement that the assessment is to the best of HMRC’s judgment call for an exercise (albeit incomplete) of verification by HMRC. Importantly, the power to assess the trader under section 73(1) is available only if there is VAT due from him: “they may assess the amount of VAT due from him”. The time limits in section 73(6) and section 77 are therefore irrelevant to the verification of a claim for a VAT credit.
+</a></li>
+<p> </p>  
+<li value="43"><a name="para43"> Regulation 35 of the 1995 Regulations obliges a trader to correct an error in accounting for VAT or in any VAT return if HMRC so require. Use of this provision ensures that the trader’s VAT account or its VAT return is accurate. But the correction ordered by HMRC is not subject to any statutory time limit and is not a precondition for HMRC’s refusal to pay an unjustified claim for a VAT credit, so as to exclude an implied power so to refuse. 
+</a></li>
+<p> </p>  
+<li value="44"><a name="para44"> Similarly, the other powers to which Mr Ghosh referred and which I have listed in para 26 above are not a comprehensive list of the powers of HMRC in the exercise of their powers of collection and management under section 58 of and para 1 of Schedule 11 to VATA.
+</a></li>
+<p> </p>  
+<li value="45"><a name="para45"> This does not mean that a taxable person is left without a remedy if HMRC’s verification is not expeditious or proportionate. It has long been established that HMRC are subject to the rules and principles of public law and they are amenable to judicial review: <i>R v Inland Revenue Commissioners, Ex p National Federation of Self-Employed and Small Businesses Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1981/TC_55_133.html">[1982] AC 617</a>; <i>R v Inland Revenue Commissioners, Ex p Preston</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1984/5.html">[1985] AC 835</a>, 862 per Lord Templeman. If HMRC were to act in a dilatory manner in carrying out their verification of a trader’s claim for a VAT credit or in a disproportionate manner, a taxable person could make an application for judicial review to achieve effective judicial control over the action or inaction of HMRC: <i>Tradecorp</i>, para 25. Further, the trader would have an appeal against an adverse decision by HMRC under section 83(1)(b) or (c) which provides that an appeal to the First-tier Tribunal lies in respect of “VAT chargeable on the supply of any goods or services” and “the amount of any input tax which may be credited to a person”. 
+</li>
+<p> </p>  
+<li value="46"><a name="para46"> For the reasons set out above, in agreement with the First-tier Tribunal, the Upper Tribunal and the Inner House, I would reject the vires challenge.
+</a></li>
+<p> </p>  
+<p class="ParaHeading1" style="margin-left:0cm;text-indent:0cm">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-transform:none">Conclusion</span></p>  
+<li value="47"><a name="para47"> I would dismiss the appeal.
+</a></li>
+<p> </p>   </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/26.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

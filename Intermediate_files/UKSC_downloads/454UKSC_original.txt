@@ -1,0 +1,659 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Brown &amp; Anor v Stonegale Ltd &amp; Anor [2016] UKSC 30 (22 June 2016))</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:TimesNewRoman;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Brown &amp; Anor v Stonegale Ltd &amp; Anor [2016] UKSC 30 (22 June 2016))
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/30.html</i>
+<br>Cite as: 
+[2016] UKSC 30,
+
+2016 GWD 20-359,
+
+2016 SC (UKSC) 91
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/30.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+ 
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/30(image1).pdf">Summary</a></span></p><br>
+
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 30</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: [2015]
+CSIH 12</i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Brown and another, the Joint Administrators of
+Loanwell Limited (Respondents) <i>v</i> Stonegale Limited (Appellant)
+(Scotland)<br clear="all">
+</span></p>
+
+<p class="Title1" align="left" style="margin-left:0cm;text-align:left"><span style="font-size:20.0pt">Brown and another, the Joint Administrators of
+Oceancrown Limited (Respondents) <i>v</i> Stonegale Limited (Appellant)
+(Scotland)<br clear="all">
+</span></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Brown and another, the Joint Administrators of
+Questway Limited (Respondents) <i>v</i> Pelosi (Appellant) (Scotland)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">22 June 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 15 February 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:69.0pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Alan Summers QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">David Massaro</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Halliday Campbell WS)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondents</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Kenneth McBrearty
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Susan Ower</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Pinsent Masons LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">LORD REED: <span style="text-transform:none">(with whom Lord
+Neuberger, Lord Sumption, Lord Carnwath and Lord Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These three conjoined appeals concern section 242 of the Insolvency Act
+1986, as amended. Where section 242(1) applies, and a company enters
+administration, an alienation by the company is challengeable by the
+administrator. In terms of section 242(2), section 242(1) applies where by the
+alienation, any part of the company’s property is transferred or any claim or
+right of the company is discharged or renounced, and the alienation takes place
+on a relevant day as defined by section 242(3) (that is to say, within a
+specified time before the date when the company enters into administration). In
+terms of section 242(4), on a challenge being brought under subsection (1), the
+court shall grant decree of reduction or for such restoration of property to
+the company’s assets or other redress as may be appropriate, but the court
+shall not grant such a decree if the person seeking to uphold the alienation
+establishes that it was made for adequate consideration.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These proceedings were brought under section 242(1) by the joint
+administrators of Oceancrown Ltd, Loanwell Ltd and Questway Ltd, in respect of
+alienations made by each of those companies of four properties in Glasgow
+during November 2010, nine months before the companies went into
+administration. The alienations took place on relevant days as defined. The
+administrators are the respondents to the present appeals.</a></p><a name="para2">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The facts, as found by the Lord Ordinary, are as follows. Oceancrown and
+the other companies in administration were part of a group of companies
+controlled by Ralph Norman Pelosi (“Mr Pelosi senior”). He was the beneficial
+owner of their shares, the sole director of Oceancrown and Loanwell, and a
+shadow director of Questway. He was also the 99% owner (subsequently 100%) of
+another company, Strathcroft Ltd. The nominal director of that company was John
+Anderson. Norman Ralph Pelosi (“Mr Pelosi junior”) was the sole shareholder and
+director of a further company, Stonegale Ltd. He is the appellant in one of the
+appeals, and Stonegale is the appellant in the others.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A secured facility in the region of £17.3m had been made available to
+Oceancrown by Anglo-Irish Bank. The other companies in the group had
+cross-guaranteed the debt. Oceancrown owned a commercial property at 278
+Glasgow Road, Rutherglen. It also owned properties at 110 and 260 Glasgow Road.
+Loanwell owned a property at 210 Glasgow Road. Questway owned a property at 64
+Roslea Drive, Glasgow. The bank held standard securities over each of these
+five properties.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Pelosi senior had concluded an agreement with Clyde Gateway
+Development Ltd for the sale of 278 Glasgow Road for £2,467,500 inclusive of
+VAT: a sum far in excess of an earlier valuation of the property at the sum of
+£762,000. Subsequent events were, in the Lord Ordinary’s words, “machinations
+designed to protect the ‘profit’ on the sale of number 278” (para 44), by
+keeping it out of the hands of the bank.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 19 August 2010 Robert Frame, a solicitor of Miller Becket and Jackson
+(“MBJ”), a Glasgow firm of solicitors, wrote to the bank’s solicitor, Mr
+Gillespie of McClure Naismith, in relation to the release of the properties
+from the bank’s securities, giving “details of the properties and the relevant
+sale price”. According to the details stated, the sale price of 278 Glasgow
+Road was £762,000; the sale price of 110 Glasgow Road was £200,000; the sale
+price of 210 Glasgow Road was £934,000; and the sale price of 260 Glasgow Road
+was £450,000. Mr Gillespie was subsequently informed that 64 Roslea Drive was
+also to be sold, at a price of £68,000. The total sale price of the five
+properties, as stated, was £2,414,000. Mr Gillespie passed this information on
+to the bank, and prepared discharges of the standard securities. These were
+duly executed by the bank, and Mr Gillespie was authorised to deliver them to
+MBJ in exchange for the free proceeds of sale. In reality, as explained
+earlier, the actual sale price of 278 Glasgow Road was £2,467,500, and no sales
+had been agreed in respect of the other properties.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 10 November 2010 Oceancrown disponed 278 Glasgow Road to Strathcroft.
+The consideration was recorded in the deed as being £762,000. On the same day,
+Strathcroft disponed the same property to Clyde Gateway for £2,467,500. Mr
+Frame witnessed the execution of both dispositions. The Lord Ordinary found
+that “Strathcroft was involved in the whole matter only in order to provide a
+short-lived intermediary between Oceancrown and Clyde Gateway. … It was a cog
+in Mr Pelosi’s machine” (para 47).</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 16 November 2010 Mr Frame received a letter signed by Mr Anderson on
+behalf of Strathcroft, authorising MBJ to send the bank the sum of £2,414,000
+“in respect of purchases of [the five properties]”. Mr Frame transmitted the
+money as instructed. Once the bank received the funds, the executed discharges
+were delivered. The Lord Ordinary found that “the money was paid to MBJ then to
+the bank on the instructions of Mr Pelosi senior. Strathcroft had no real
+involvement in that” (para 47). He also found that “the bank was misled in
+relation to the funds it received” (para 39). “The bank, acting on the
+information from MBJ, treated the funds as the sale price of all the subjects,
+but that was not an accurate understanding” (para 41). “Everyone, apart from
+the bank and the bank’s solicitor, knew that the funds were the sale price of
+only 278 Glasgow Road. ... Had the bank known the true facts, namely that 278
+was sold for almost £2.5m, the same overall reduction in bank indebtedness
+would have occurred, but only the standard security over 278 would have been
+discharged” (paras 39-40). “Everything depended upon the bank and the bank’s
+solicitor being unaware of the truth. No doubt they assumed that they could
+trust the information provided by MBJ” (para 42).</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As a consequence of the fact that “<span style="font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">the
+bank was misled into using part of the sale price of 278 Glasgow Road to
+discharge all the standard securities” (para 40)</span>, the four remaining
+properties, with an agreed value of £1.525m, were now free of the bank’s
+standard securities. It only remained to place them entirely beyond the bank’s
+reach.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 24 November 2010, 110, 210 and 260 Glasgow Road were disponed to
+Stonegale, and 64 Roslea Drive was disponed to Mr Pelosi junior. It is those
+dispositions which are challenged in the present proceedings. The dispositions,
+witnessed by Mr Frame, contained a date of entry of 16 November 2010, and
+recorded the consideration given as being in accordance with the figures given
+to Mr Gillespie. In reality, nothing was paid. The following year, Mr Pelosi
+junior disponed 64 Roslea Drive to a third party for £125,000.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the proceedings before the Lord Ordinary, a document was produced
+which purported to be a loan agreement in the sum of £1,584,000, signed by Mr
+Pelosi junior and dated 16 November 2010. It narrated that it had been entered
+into between Strathcroft and Stonegale to enable the latter to finance the
+purchase of the properties at 110, 210 and 260 Glasgow Road. In evidence, Mr
+Pelosi junior confirmed that he had signed the loan agreement on 16 November
+2010. The Lord Ordinary found that the document was a sham (para 44),
+“concocted purely for the purpose of the defence of these proceedings” (para
+46).</a></p><a name="para11">
+
+<p class="ParaHeading">The proceedings below</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"><span style="font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;"></span></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before the Lord Ordinary, it was argued that the four
+dispositions under challenge were made by the companies for adequate
+consideration, namely the reduction in their contingent liabilities (under
+their cross-guarantees of Oceancrown’s obligations) which resulted from the
+payment made by Strathcroft to the bank. That reduction in indebtedness, of <span style="font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">£2,414,000, was in excess of the
+open market values of all five properties, and therefore constituted adequate
+consideration. That argument assumes that the open market value of 278 Glasgow
+Road was the £762,000 at which it had been valued by a surveyor: an assumption
+which is contradicted by the fact that Clyde Gateway paid almost £2.5m for it
+in an arm’s length transaction whose bona fides is not disputed. More
+fundamentally, the argument disregards the fact that the four other properties
+were all disponed gratuitously in subsequent transactions.</span></a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In rejecting the argument, the Lord Ordinary focused on the latter
+point:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“No one paid anything for 110,
+210, 260 Glasgow Road and 64 Roslea Drive. The sellers, namely Oceancrown,
+Loanwell and Questway, did not receive anything in return for the dispositions
+under challenge. They gifted the properties to the dispones. ... That the bank
+was prepared to discharge the standard securities over all five properties in
+return for the monies forwarded to it does not create a consideration given in
+return for the subsequent dispositions to Stonegale. No party gave the sellers
+anything in return for the conveyances under challenge. Any value received was
+the value paid in respect of number 278. That is what was transferred to
+McClure Naismith. In my view nothing else alters that basic fact. All that
+happened was that Strathcroft, on the direction of Mr Pelosi senior, paid the
+bank monies which were designed to, and did persuade the bank to discharge the
+standard securities over the five properties, all in order to facilitate the
+subsequent gratuitous sales. Neither that payment, nor any consequential
+reduction in indebtedness, was in consideration for the subsequent
+transactions. It was a mechanism for allowing the inter-company transfers which
+it was hoped would achieve the retention of the ‘profit’ on 278 within the
+group (and regarding Roslea Drive, Mr Pelosi junior) - and free of the bank’s
+securities.” (paras 40 and 42)</p>
+
+<p class="ParaLevel1">The Lord Ordinary <span style="font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">added:</span></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The dispositions under challenge
+were gratuitous alienations. Were it otherwise the bank would have received in
+excess of £4m, and the overall indebtedness would have been reduced by that
+amount. The price obtained for 278 was used to allow the other Glasgow Road
+properties to be transferred without consideration to another company which,
+nominally at least, was owned and controlled by Mr Pelosi junior, and, in the
+case of 64 Roslea Drive, to him personally.” (para 43)</p>
+
+</a><p class="ParaLevel1"><a name="para13"></a><a name="para14">14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accordingly, the Lord Ordinary decided that he
+should reduce (ie set aside) the three dispositions to Stonegale, order the
+defenders to execute dispositions of those subjects to the administrators, and
+order Mr Pelosi junior to repay the £125,000 which he had received for the sale
+of the fourth property. Before granting decree, he decided to have the
+proceedings put out By Order for appropriate disposal.</a></p><a name="para14">
+
+</a><p class="ParaLevel1"><a name="para14"></a><a name="para15">15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That decision was upheld by an Extra Division of
+the Inner House (Lord Menzies, Lord Brodie and Lord McGhie). No issue was taken
+with the facts found by the Lord Ordinary. The same argument was repeated, and
+again rejected, for the same reasons.</a></p><a name="para15">
+
+<p class="ParaHeading">The present appeal</p>
+
+</a><p class="ParaLevel1"><a name="para15"></a><a name="para16">16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the absence, at the relevant time, of any
+requirement to obtain permission to appeal to this court, the appellants took
+the opportunity to challenge the approach adopted by the courts below. They
+submitted that the administrators could have pursued a number of alternative
+remedies. They could have challenged the alienation of 278 Glasgow Road by
+Oceancrown to Strathcroft. They could have proceeded against Mr Pelosi senior
+as director of Oceancrown for breach of his fiduciary duty, and recovered the
+proceeds of his breach from the ultimate beneficiaries. If the bank was the
+victim of a fraudulent misrepresentation, it could have recovered damages in
+respect of its loss. The wrong remedy, it was argued, had been selected. The
+failure to challenge the transfer by Oceancrown to Strathcroft meant that the
+transfer by Strathcroft to Clyde Gateway could not be impeached. In any event,
+the £762,000 paid by Strathcroft reflected a professional valuation of the
+property, and therefore constituted the property’s market value.</a></p><a name="para16">
+
+</a><p class="ParaLevel1"><a name="para16"></a><a name="para17">17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are no doubt a variety of remedies which
+the administrators might have pursued, but the issue for this court is whether
+they are entitled to the remedy which they have sought. That remedy does not
+involve a challenge to the disposal of 278 Glasgow Road (or depend on whether
+the disposal of that property by Oceancrown was at an undervalue, although it
+plainly was), but a challenge to the other four dispositions as gratuitous
+alienations. The gratuitous nature of the alienations was clearly explained by
+the Lord Ordinary in the passages cited at para 13 above. Before the various
+conveyances, the companies owned five properties. A bargain was in place for
+the sale of one of those properties, 278 Glasgow Road, for the sum of £2.4m.
+After the sale was completed, £2.4m was transferred to the bank in reduction of
+borrowings, and the companies retained the other four properties, valued at
+£1.525m. Those properties were then conveyed to the appellants. The companies
+received nothing whatsoever in return. There was no reciprocity between those
+disposals and the earlier payment made to the bank. The purpose and effect of
+those transactions was to divert assets away from the companies’ creditors:
+exactly what section 242 is intended to prevent. That they were gratuitous
+alienations is plain and obvious.</a></p><a name="para17">
+
+</a><p class="ParaLevel1"><a name="para17"></a><a name="para18">18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The appeal is therefore dismissed.</a></p><a name="para18">
+
+</a></div><a name="para18">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/30.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

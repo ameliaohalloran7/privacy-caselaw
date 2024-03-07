@@ -1,0 +1,925 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title> Sadovska &amp; Anor v Secretary of State for the Home Department (Scotland) (Rev 1) [2017] UKSC 54 (26 July 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";}
+@font-face
+	{font-family:HiddenHorzOCR;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@HiddenHorzOCR";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+       Sadovska &amp; Anor v Secretary of State for the Home Department (Scotland) (Rev 1) [2017] UKSC 54 (26 July 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/54.html</i>
+<br>Cite as: 
+[2017] Imm AR 1473,
+
+2018 SCLR 36,
+
+[2017] UKSC 54,
+
+[2018] 1 CMLR 37,
+
+2017 GWD 23-396,
+
+[2017] WLR 2926,
+
+2017 SLT 883,
+
+[2017] WLR(D) 556,
+
+2018 SC (UKSC) 38,
+
+[2017] INLR 944,
+
+[2018] 1 All ER 757,
+
+[2017] 1 WLR 2926
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/54.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+556">[2017] WLR(D) 556</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+1+WLR+2926">[2017] 1 WLR 2926</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/54.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 54</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2016/[2016]CSIH51.html">[2016] CSIH 51</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Sadovska and another (Appellants) <i>v</i> Secretary
+of State for the Home Department (Respondent) (Scotland)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">26 July 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 12 June 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:124.2pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:124.2pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Mungo Bovey QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Daniel Byrne</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Drummond
+  Miller LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:124.2pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:124.2pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="margin-left:-20.15pt;text-align:center">Lord
+  Keen of Elie QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Advocate General
+  for Scotland)</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew G Webster</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Office
+  of the Solicitor to the Advocate General for Scotland)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LADY HALE<span style="text-transform:none">: (with whom Lord
+Neuberger, Lord Kerr, Lord Clarke and Lord Reed agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue in this case is the proper approach of the immigration
+appellate authorities where the Secretary of State has decided that a national
+of the European Economic Area who is lawfully living in the United Kingdom
+should be removed on the ground of abuse of the right to reside here. The abuse
+in question happened to be an alleged attempt to enter into a “marriage of
+convenience” but the issue would arise in respect of any abuse which would
+justify removal under article 35 of Directive 2004/38/EC on the right of
+citizens of the Union and their family members to move and reside freely within
+the territory of the Member States (“the Directive”).</a></p><a name="para1">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Sadovska is a citizen of Lithuania. She came to this country lawfully
+in February 2007 and has since been living and working here lawfully,
+exercising her rights under the Directive. She lives in Edinburgh, where her
+sisters also live, and works as a cleaner. Mr Malik is a citizen of Pakistan
+who came to this country lawfully with a Tier 4 student visa in May 2011. His
+visa expired on 15 April 2013 and he has been here unlawfully ever since. He
+too lives and worked in Edinburgh until 17 April 2014.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>They say that they met at a disco, El Barrio in Edinburgh, in October
+2012. They spent that night together and saw one another from time to time
+afterwards, meeting members of one another’s families, but the relationship did
+not become a steady one until Valentine’s Day 2013. Thereafter, they say, they
+saw one another as boyfriend and girlfriend. It is common ground (and there is
+photographic evidence) that in December 2013, Mr Malik attended the wedding of
+Ms Sadovska’s sister and that they were on the streets of Edinburgh together
+during the celebrations at Hogmanay 2013. It is also common ground that Mr
+Malik booked a double room for two adults at a London hotel for four nights in
+January 2014 and that they were both in London at that time. They say that they
+were on holiday together and that was when they decided to get married.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 25 March 2014, they published notice of their intention to marry on
+17 April 2014 at Leith Registry Office. On 28 March 2014, they signed a one
+page statement about their relationship which included the following puzzling
+sentence:</a></p><a name="para4">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“We have discussed the idea of
+living together in depth and also have touched upon the subject of marriage,
+but as of yet, none of these discussions have manifested into action.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That statement was enclosed in a letter dated 11 April 2014, sent by
+solicitors acting for Mr Malik (and, it would appear, also for Ms Sadovska) to
+the Home Office in Glasgow. This explained that their client was an
+over-stayer, but that he intended to marry an EEA national on 17 April 2014 and
+would be applying for recognition that he was exercising Treaty rights as a
+family member of an EEA national, so it was hoped that no enforcement action
+would be taken against him. The letter recognised that officials might wish to
+interview their clients but hoped that this could be done before their wedding
+on 17 April. It also stated that:</a></p><a name="para5">
+
+<p class="ParaLevel1" style="margin-top:0cm;margin-right:36.85pt;margin-bottom:
+26.0pt;margin-left:72.0pt">“We would like you to take this letter as a human
+rights allegation that both the applicant and the EEA national have established
+a family life in the United Kingdom and any decision to attempt to remove the
+applicant from the United Kingdom would be challenged on article 8 grounds and
+also on the grounds that the applicant [sci: attempt?] breaches our client’s
+right to marry under article 12 of the ECHR.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Enclosed were copies of Mr Malik’s passport, of Ms Sadovska’s identity
+card, birth certificate and most recent payslip, a receipt from the Property
+Management Company in respect of a flat in Edinburgh for which they had signed
+a lease on 6 April 2014, three statements from two people who knew them, and
+their statement of 28 March.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Malik and Ms Sadovska had indeed signed a lease for a flat in
+Edinburgh on 6 April 2014 and each gave this as their home address when
+interviewed on 17 April. (We are told that they still live together but at a
+different address.) On 16 April 2016 they bought wedding rings.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The solicitor’s letter was faxed to the Home Office on Friday 11 April.
+The wedding was due to take place on the afternoon of the following Thursday.
+Before that could happen, however, immigration officers arrived at the
+Registrar’s Office and asked to interview them. They agreed. Each was cautioned
+and agreed to be interviewed in English. They were interviewed separately, Mr
+Malik from 14.55 to 16.20 and Ms Sadovska from 14.54 to 16.50, according to the
+immigration officers’ records. After the interviews they were detained and thus
+unable to marry. Ms Sadovska was released soon afterwards, but Mr Malik was
+detained until 11 June. On the same day as the interviews, each was issued with
+a two part decision notice.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Malik was issued with a notice that he was a person liable to removal
+as an over-stayer, who had not applied for further leave to remain after his
+visa had expired and was thus liable to be detained pending a decision whether
+or not to give directions for his removal from the United Kingdom. The notice
+explained that he had breached section 10(1)(a) of the Immigration and Asylum
+Act 1999, which provides that “a person who is not a British citizen may be
+removed from the United Kingdom, in accordance with directions given by an
+immigration officer, if … (a) having only a limited leave to enter or remain,
+he ... remains beyond the time limited by the leave”, and had therefore committed
+an offence under section 24(1)(b)(i) of the Immigration Act 1971.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Sadovska was issued with a notice that she was a person liable to
+removal because her removal was justified on grounds of abuse of rights,
+specifically that she had attempted to enter into a marriage of convenience
+with Mr Malik. The notice referred to regulation 19(3)(c), without explaining
+that this was contained in the Immigration (European Economic Area) Regulations
+2006. At the time, this provided that “… an EEA national who has entered the
+United Kingdom ... may be removed if … (c) the Secretary of State has decided
+that the person’s removal is justified on grounds of abuse of rights in
+accordance with regulation 21B(2)”. Regulation 21B(1) provided that “The abuse
+of a right to reside includes … (c) entering, attempting to enter or assisting
+another person to enter or attempt to enter, a marriage or civil partnership of
+convenience”. Regulation 21B(2) provided that “The Secretary of State may take
+an EEA decision on the grounds of abuse of rights where there are reasonable
+grounds to suspect the abuse of a right to reside and it is proportionate to do
+so”. Regulation 24(2) provided that where a decision to remove was taken under
+regulation 19(3)(c), the person was to be treated as someone to whom section
+10(1)(a) of the 1999 Act applied.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In each case, the notice was accompanied with notice of a decision to
+remove.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both appealed to the First-tier Tribunal which heard their appeals
+together on 4 August 2014 and promulgated a determination refusing them both on
+19 August 2014. Their appeals to the Upper Tribunal were heard on 5 February
+2015 and a determination refusing them was promulgated on 9 February 2015.
+Their appeals to the First Division of the Inner House of the Court of Session
+were refused on 17 June 2016: </a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2016/[2016]CSIH51.html">[2016] CSIH 51</a>. They now appeal to this court.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>They make two complaints about the decisions of the tribunals and court
+below. The first, and most important, relates to the burden of proof in a case
+such as this.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under the heading “Applicable law”, the First-tier Tribunal judge said
+this, at para 7:</a></p><a name="para14">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In immigration appeals, the
+burden of proof is on the appellant and the standard of proof required is a
+balance of probabilities. In human rights appeals, it is for the appellant to
+show that there has been an interference with his or her human rights. If that
+is established, and the relevant article permits, it is then for the respondent
+to establish that the interference was justified. The appropriate standard of
+proof is whether there are ‘substantial grounds for believing the evidence.’”</p>
+
+<p class="ParaLevel1">It is apparent from his determination that his whole
+approach was to require Ms Sadovska and Mr Malik to prove that their proposed
+marriage was not a marriage of convenience, rather than to require the Home
+Office to prove that it was.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before the Upper Tribunal the appellants’ complaint was that the
+First-tier Tribunal judge had taken the interviews as his starting point and
+given too much weight to the inconsistencies between them and had not
+considered them in the context of the totality of the evidence, as required by
+the decision of the Upper Tribunal in <i>Papajorgji v Entry Clearance Officer,
+Nicosia </i></a><a title="Link to BAILII version" href="/uk/cases/UKUT/IAC/2012/00038_ukut_iac_2012_lp_greece.html">[2012] UKUT 38</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/IAC/2012/00038_ukut_iac_2012_lp_greece.html">[2012] Imm AR 3</a> (at para 39).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Papajorgji </i>was an extraordinary case in which an Albanian woman
+who had been married to and living with a Greek man for 12 years and had two
+children with him was refused a visa to accompany him on a visit to this
+country on the ground that theirs was a marriage of convenience, a belief
+which, as the Upper Tribunal said, was on the information supplied with the
+application “simply ludicrous” (para 32). There was no burden on the claimant
+in an application for a family permit to establish that she was not party to a
+marriage of convenience unless the circumstances known to the decision-maker
+gave reasonable ground for suspecting that that was the case. Where there was
+such a suspicion the matter required further investigation and the claimant
+should be invited to respond to by producing evidential material to dispel it
+(para 27). But suspicion was not enough. The claimant was only disqualified if
+it was established that the marriage was one of convenience (para 37). The
+question for the judge was “in the light of the totality of the information
+before me, including the assessment of the claimant’s answers and any
+information provided, am I satisfied that it is more probable than not this is
+a marriage of convenience?” (para 39)</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before the First Division, the appellants did complain that the tribunal
+had adopted the wrong approach to the burden of proof and that the respondent
+had failed to prove to the requisite high degree that the appellants were
+guilty of fraud. The court dealt with the matter in this way, at para 20:</a></p><a name="para17">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para17">“However, as has often been said,
+once the evidence has been heard, questions of onus usually cease to be
+important <i>(Sanderson </i><i>v McManus </i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1997/1.html">1997 SC (HL) 55</a>, <a title="Link to BAILII version" href="/uk/cases/UKHL/1997/1.html">[1997] UKHL 1</a>, Lord Hope at 62).
+The view of the UT in <i>Papajorgji</i> (at para 39) that the question, in the
+Tribunal context, was whether it is more probable than not that the marriage is
+one of convenience ‘in [the] light of the totality of the information’, accords
+with that <i>dictum.</i>”</p>
+
+<p class="ParaNoNumber">The court went on to say that the First-tier Tribunal had
+considered all the information and reached a decision based upon it. That
+decision did not depend upon onus but upon weighing the various factors in the
+balance. In that context, there was only one standard of proof, that being the
+balance of probabilities <i>(Scottish Ministers </i><i>v</i> <i>Stirton </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotCS/2013/2013CSIH81.html">2014 SC 218</a>, the Lord Justice Clerk (Lord Carloway) at paras 117-119).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is perhaps worth noting that Lord Hope’s observation in <i>Sanderson
+v McManus</i>, that questions of onus usually cease to be important once the
+evidence is before the court was in the context of a dispute between unmarried
+parents about a father’s contact with his child, when, as Lord Hope observed
+“the matter then becomes one of overall impression, balancing one consideration
+against another and having regard always to the consideration which has been
+stated to be paramount” (that is, the welfare of the child). Even then, the
+court had to be able to come to the conclusion that making an order would be in
+the child’s best interests. This demonstrates that, when considering the burden
+of proof, it is necessary to understand what the issues are and what has to be
+established.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants also complain that their interviews were unfair,
+oppressive and repugnant to public law standards. The circumstances of being
+approached on their wedding day by uniformed immigration officers carrying
+batons and handcuffs meant that they were frightened. They agreed to be
+interviewed in English but neither is fluent in English. They had no time to
+contact their solicitor for advice, to obtain an interpreter, to produce
+evidence and contact witnesses. They complain that both the First-tier and the
+Upper Tribunal had thought the interviews were of central importance, yet they
+gave no weight to the circumstances in which they had taken place.</a></p><a name="para19">
+
+<p class="ParaHeading">The law</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is of central importance in this case to consider the substantive law
+governing the respondent’s decisions and what had therefore to be established
+in each case. It differs significantly as between the two appellants.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Sadovska is an EEA national. Her rights are therefore governed by the
+Directive, which the 2006 Regulations were designed to implement in UK law. To
+the extent, if any, that the 2006 Regulations do not accurately transpose the
+requirements of the Directive, we have to give effect to the Directive rather
+than the Regulations and so it is appropriate to focus on the provisions of the
+Directive.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>She has been living lawfully in the United Kingdom for a continuous
+period of more than five years. This means that, under article 16 of the
+Directive, she has the right of permanent residence here. None of the
+conditions attached to the right of residence of people who have been here for
+more than three months but less than five years, provided for in article 8 of
+the Directive, applies. Article 28.2 lays down the general rule that a host
+member state may not take an expulsion decision against a Union citizen who has
+the right of permanent residence “except on serious grounds of public policy or
+public security”. However, Recital 28 to the Directive states that:</a></p><a name="para22">
+
+<p class="ParaLevel1" style="margin-top:0cm;margin-right:34.0pt;margin-bottom:
+26.0pt;margin-left:72.0pt">“To guard against abuse of rights or fraud, notably
+marriages of convenience or any other form of relationships contracted for the
+sole purpose of enjoying the right of free movement and residence, member states
+should have the possibility to adopt the necessary measures.”</p>
+
+<p class="ParaNoNumber">This is therefore provided for in article 35, which is
+the crucial article in this case:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Member states may adopt the
+necessary measures to refuse, terminate or withdraw any right conferred by this
+Directive in the case of abuse of rights or fraud, such as marriages of
+convenience. Any such measure shall be proportionate and subject to the
+procedural safeguards provided for in articles 30 and 31.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 30 requires that the person concerned be notified in writing of
+the decision and informed precisely and in full of the reason for it and where
+and within what time that person may lodge an appeal. Article 31 requires that
+the person have access to judicial <i>and</i>, where appropriate,
+administrative redress procedures to appeal against or seek review of any
+decision taken against them. These “shall allow for an examination of the
+legality of the decision, as well as of the facts and circumstances on which
+[it] is based. They shall ensure that the decision is not disproportionate …”</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A Communication from the Commission to the European Parliament and the
+Council on guidance for the better transposition and application of Directive
+2004/38/EC, dated 2 July 2009, has this to say about marriages of convenience,
+at para 4.2:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Recital 28 defines <b>marriages
+of convenience </b>for the purposes of the Directive as marriages contracted
+for the <b>sole </b>purpose of enjoying the right of free movement and
+residence under the Directive that someone would not have otherwise. A marriage
+cannot be considered as a marriage of convenience simply because it brings an
+immigration advantage, or indeed any other advantage. The quality of the
+relationship is immaterial to the application of Article 35.”</p>
+
+<p class="ParaNoNumber">The definition in the first sentence is repeated in the
+Commission’s more recent Handbook on addressing the issues of alleged marriages
+of convenience between EU citizens and non-EU nationals in the context of EU
+law on free movement of EU citizens, dated 26 September 2014. However, this
+goes on to explain that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“the notion of <i>‘sole purpose’ </i>should
+not be interpreted literally <i>(as being the unique or exclusive purpose) </i>but
+rather as meaning that the objective to obtain the right of entry and residence
+must be the <b>predominant purpose </b>of the abusive conduct.”</p>
+
+<p class="ParaNoNumber">But it repeats that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“On the other hand, a <b>marriage
+cannot be considered as a marriage of convenience</b> <b>simply because it
+brings an immigration advantage</b>, or indeed any other advantage <i>(for
+example the right to a particular surname, location-related allowances, tax
+advantages or entitlement to social housing for married couples)</i>.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Malik is in a different position from Ms Sadovska. As an over-stayer
+he is, as noted above, liable to be removed under section 10(1)(a) of the 1999
+Act. However, had he succeeded in marrying Ms Sadovska, he would have become a
+“family member” within the meaning of article 2.2 of the Directive. Under
+article 7.2, this would bring with it the right of residence for more than
+three months, provided that Ms Sadovska satisfied one of the conditions in article
+7.1(a), (b) or (c). As a “worker” she would satisfy condition (a). Once he had
+been living here lawfully for five years, he too would acquire a right of
+permanent residence under article 16.2. As with Ms Sadovska, of course, he
+would be liable to removal under article 35 if their marriage was one of
+convenience.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As they have not succeeded in marrying, Mr Malik is not a “family
+member” of an EU citizen. However, article 3.2 requires Member States to
+“facilitate” the entry and residence of certain other persons, who include “(b)
+the partner with whom the Union citizen has a durable relationship, duly
+attested”. Article 3.2 also requires that “The host member state shall
+undertake an extensive examination of the personal circumstances and shall
+justify any denial of entry or residence to these people”.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, of course, both Ms Sadovska and Mr Malik have rights under the
+European Convention on Human Rights. Article 8.1 guarantees the right to
+respect for private and family life, although under article 8.2 interference is
+justified if it is in accordance with the law and “necessary in a democratic
+society” to achieve a legitimate aim. Article 12 guarantees the right of “men
+and women of marriageable age … to marry and to found a family, according to the
+national laws governing the exercise of [the] right”.</a></p><a name="para27">
+
+<p class="ParaHeading">Analysis</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear from the provisions of the Directive quoted above that Ms
+Sadovska has a right of permanent residence in the United Kingdom. As an EU
+citizen, under article 27.1, her freedom of movement can only be restricted on
+grounds of public policy, public security or public health. As a permanent
+resident, under article 28 she could only be removed if those grounds are
+serious. It is not suggested that she can be removed under article 28 on any of
+those grounds. She can therefore only be removed, under article 35, if it is
+established that she has entered, or attempted to enter, into a marriage of
+convenience. Furthermore, although the Regulations permit the respondent to
+take steps on the basis of reasonable grounds to suspect that that is the case,
+Ms Sadovska is entitled to an appeal where the facts and circumstances must be
+fully investigated. That must mean, as held in <i>Papajorgji</i>, that the
+tribunal has to form its own view of the facts from the evidence presented. The
+respondent is seeking to take away established rights. One of the most basic
+rules of litigation is that he who asserts must prove. It was not for Ms
+Sadovska to establish that the relationship was a genuine and lasting one. It
+was for the respondent to establish that it was indeed a marriage of
+convenience.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For this purpose, “marriage of convenience” is a term of art. Although
+it is defined in the Directive and the 2009 Communication as a marriage the <i>sole</i>
+purpose of which is to gain rights of entry to and residence in the European
+Union, the 2014 Handbook suggests a more flexible approach, in which this must
+be the <i>predominant</i> purpose. It is not enough that the marriage may bring
+incidental immigration and other benefits if this is not its predominant
+purpose. Furthermore, except in cases of deceit by the non-EU national, this
+must be the purpose of them <i>both</i>. Clearly, a non-EU national may be
+guilty of abuse when the EU national is not, because she believes that it is a
+genuine relationship.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the case of a person exercising EU law rights, the tribunal must also
+be satisfied that the removal would be a proportionate response to the abuse of
+rights established. So it would be one thing to find that the proposed marriage
+had been shown to be one of convenience, and therefore that it was right to
+prevent it, but quite another thing to find that expelling Ms Sadovska from the
+country where she had lived and worked for so long and had other family members
+living was a proportionate response to that.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The First-tier Tribunal did not analyse her rights in this way. It was
+quite simply incorrect to deploy the statement that “in immigration appeals the
+burden of proof is on the appellant”, correct though it is in the generality of
+non-EU cases, in her case. She had established rights and it was for the
+respondent to prove that the quite narrow grounds existed for taking them away.
+Nor did the determination address the issue of proportionality. It is
+impossible for this court to conclude that, had the matter been approached in
+the right way, the decision would inevitably have been the same.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The position of Mr Malik is different, for he has no established rights,
+either in EU law or in non-EU immigration law. In order to benefit from the
+Directive, he would have to show that he has a “durable relationship” with Ms
+Sadovska. However, article 3.2 requires the respondent to justify any refusal
+of entry or residence in such cases. So if he can produce evidence of a
+“durable relationship” (a term which is not defined in the Directive), it would
+be for the respondent to show that it was not or that there were other good
+reasons to deny him entry.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is not impossible that a tribunal, properly directing itself, would
+reach different conclusions in the case of these two appellants. But it is
+impossible for this court to conclude that, had the matter been approached in
+the right way, the decision relating to Mr Malik would inevitably have been the
+same.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows that the appeal must be allowed and the case remitted for a
+full re-hearing by the First-tier Tribunal. In seeking to establish its case,
+the respondent will no doubt concentrate on the interviews, the discrepancies
+between the appellants’ accounts, and the gaps in Ms Sadovska’s knowledge of Mr
+Malik’s family, together with the sentence in their statement of 28 March that
+their thoughts of living together and marriage had not yet “manifested into
+action” (which on 28 March was strictly true in that they were not yet living
+together or married but they had given notice of intention to marry). But in
+considering those discrepancies, the circumstances in which the interviews took
+place and the statement was made must be borne fully in mind. Furthermore,
+there were many matters on which their accounts were consistent. It turns out,
+for example, that Ms Sadovska’s mother does indeed live in Lithuania, as Mr
+Malik said in explaining why she was not there. There is also a considerable
+body of evidence which supports their claim to have been in a genuine relationship,
+dating back some time before they gave notice of intention to marry. Should the
+tribunal conclude that Mr Malik was delighted to find an EU national with whom
+he could form a relationship and who was willing to marry him, that does not
+necessarily mean that their marriage was a “marriage of convenience”, still
+less that Ms Sadovska was abusing her rights in entering into it. Their legal
+and their factual cases must be considered separately.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Having reached the firm conclusion that the case must be remitted to the
+First-tier Tribunal to be heard afresh, because a wrong approach was taken to
+the requirements of EU law in this case, it is unnecessary to consider whether
+the appellants’ Convention rights add anything further to their claims. But for
+my part I would not accept their argument that, because their marriage was
+frustrated by the respondent’s actions, their case should be approached as if
+they were married, which would, of course, enhance Mr Malik’s claims. It must
+be permissible for the state to take steps to prevent sham marriages, although
+it is also incumbent on the state to show that the marriage would indeed be a
+sham.</a></p><a name="para35">
+
+</a></div><a name="para35">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/54.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

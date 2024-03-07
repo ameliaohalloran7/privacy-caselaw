@@ -1,0 +1,767 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Eclipse Film Partners No 35 LLP v Revenue and Customs [2016] UKSC 24 (11 May 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	text-indent:-36.0pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Eclipse Film Partners No 35 LLP v Revenue and Customs [2016] UKSC 24 (11 May 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/24.html</i>
+<br>Cite as: 
+[2016] WLR(D) 254,
+
+[2016] UKSC 24,
+
+[2016] WLR 1939,
+
+[2016] 3 All ER 719,
+
+[2016] STC 1385,
+
+[2016] STI 1531,
+
+[2016] 1 WLR 1939,
+
+[2016] BTC 20
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/24.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+254">[2016] WLR(D) 254</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+1+WLR+1939">[2016] 1 WLR 1939</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/24(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Easter
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 24</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeals from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/184.html">[2014] EWCA Civ 184</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b><span style="font-size:20.0pt">Eclipse Film Partners No
+35 LLP (Appellant) <i>v</i> Commissioners for Her Majesty’s Revenue and Customs
+(Respondent)</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">11 May 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 13 April 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jolyon Maugham QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Kate Balmer</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by GRM
+  Law)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="197" valign="top" style="width:147.95pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Rajesh Pillai</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Her
+  Majesty’s Revenue &amp; Customs Solicitors Office)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD NEUBERGER: (<span style="text-transform:none">with whom
+Lord Mance, Lord Sumption, Lord Toulson and Lord Hodge agree</span>)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue raised on this appeal concerns the extent to which the
+jurisdiction of the First-tier Tribunal to make an order for costs is fettered
+by the provisions of the Rules regulating the procedure of the Tribunal.
+Although the Rules in question govern the procedure of the Tax and Chancery
+Chamber, we were told that our conclusion will apply to the other Chambers of
+the First-tier Tribunal (“FTT”).</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Subsections (1) and (2) of section 29 of the Tribunals, Courts and
+Enforcement Act 2007 provide that the “costs of and incidental to” any
+proceedings in the FTT “shall be in the discretion of the Tribunal in which the
+proceedings take place”, and that the Tribunal has “full power” to make orders
+for costs. However, subsection (3) of the same section stipulates that the
+preceding two subsections “have effect subject to Tribunal Procedure Rules”.</a></p><a name="para2">
+
+<p class="ParaHeading">The Rules</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Rules which governed the instant proceedings are the Tribunal
+Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009 (SI 2009/273) (L1)
+(“the Rules”). Rule 2 describes the “overriding objective” of the Rules as
+being to enable the FTT “to deal with cases fairly and justly”, which includes
+dealing with cases proportionately.</a></p><a name="para3">
+
+</a><p class="ParaLevel1"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Rule 5 is headed “Case management powers” and it is in these terms:</a></p><a name="para4">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Subject to the provisions
+of the 2007 Act and any other enactment, the Tribunal may regulate its own
+procedure.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Tribunal may give a
+direction in relation to the conduct or disposal of proceedings at any time,
+including a direction amending, suspending or setting aside an earlier
+direction.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In particular, and
+without restricting the general powers in paragraphs (1) and (2), the Tribunal
+may by direction -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="ParaLevel4">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>require a party to produce a bundle for a hearing …”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm">In addition to
+sub-paragraph (i), rule 5(3) has eleven other sub-paragraphs, which include powers
+to (a) extend or shorten time for complying with the Rules, (c) permit or
+require an amendment, (f) hold a case management hearing, (h) adjourn a
+hearing, and (k) transfer proceedings to another tribunal.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Rule 10 is headed “Orders for costs”. Rule 10(1) is somewhat convoluted,
+and it is in these terms:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The Tribunal may only make an
+order in respect of costs (or, in Scotland, expenses) -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; under section 29(4) of
+the 2007 Act (wasted costs) …;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if the Tribunal
+considers that a party or their representative has acted unreasonably in
+bringing, defending or conducting the proceedings;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the proceedings have
+been allocated as a Complex case under Rule 23 (allocation of cases to
+categories); and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the taxpayer (or,
+where more than one party is a taxpayer, one of them) has not sent or delivered
+a written request to the Tribunal, within 28 days of receiving notice that the
+case had been allocated as a Complex case, that the proceedings be excluded
+from potential liability for costs or expenses under this sub-paragraph …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>With one exception, it would therefore appear that, at least under rule
+10(1), the FTT can only make two types of costs order. The first is a wasted
+costs order under sub-para (a), and the other is an order for costs where a
+party has behaved unreasonably under sub-para (b). The one exception is under
+sub-para (c), which envisages that there will be no such limitation on the
+FTT’s jurisdiction to award costs if two conditions are satisfied - namely (i)
+the proceedings are a “Complex case” under Rule 23, and (ii) the taxpayer has
+not served a request (within the requisite 28-day period) that there should be
+no potential liability under rule 10(1)(c).</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Rule 10(3) sets out how an application for costs under rule 10(1) is to
+be initiated. Rule 10(4) provides that such an application must be made within
+28 days of the FTT’s decision disposing of the proceedings. Rule 10(5) forbids
+the FTT from making an order for costs under rule 10(1) without first giving
+notice to the potential payer and enabling him to make representations. Rule
+10(6) sets out three different ways in which costs under rule 10(1) can be
+assessed (summary assessment, agreement and normal assessment). Rule 10(7)
+provides that the sum so assessed can be recovered through proceedings in the
+County Court or the Costs Office of the High Court.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The only other reference to recovery of costs or expenses to which we
+were taken to in the Rules is in Rule 16, which is concerned with “Summoning or
+citation of witnesses and orders to answer questions or produce documents”.
+Rule 16(2)(b) provides that a summons issued by the Tribunal requiring a person
+to attend proceedings (other than a party to the proceedings) “must … make
+provision for the person’s necessary expenses of attendance to be paid, and
+state who is to pay them”.</a></p><a name="para8">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Eclipse Film Partners No 35 LLP (“Eclipse”) filed a tax return in
+respect of the period which ended on 5 April 2007. The Revenue issued a closure
+notice determining that Eclipse did not carry on a trade or business, which, if
+correct, would have had severely adverse tax consequences for Eclipse.
+Accordingly, Eclipse appealed to the FTT against the closure notice. The appeal
+was allocated as a Complex case under Rule 23, and, within the 28-day period specified
+therein, Eclipse served a request under rule 10(3), that “the proceedings be
+excluded from potential liability for costs or expenses under” rule 10(1)(c).</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thereafter, Eclipse and the Revenue agreed directions for the procedure
+leading up to the hearing. The FTT duly made those directions, which included
+in para 13 a direction that the parties should try and agree an appropriate
+bundle of documents, which should be prepared by Eclipse, who were to serve
+three copies on the Revenue and three copies on the FTT. Paragraph 13 of the
+agreed Directions also provided that, if the parties were unable to agree the
+Bundle, each party was to prepare its own bundle of documents and serve three
+copies on the other party and on the FTT.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The parties were unable to agree a Bundle, and there was a hearing
+before the FTT, at which, among other issues, that problem was discussed. The
+upshot of the hearing so far as this problem was concerned was an oral
+direction by the FTT that Eclipse prepare the Bundle, and that “the costs
+should be shared”. Eclipse’s solicitors accordingly prepared the Bundle, which
+was very extensive indeed (the total for the parties ran to over 700 lever-arch
+files), and its size was in part attributable to requests by the Revenue for
+the inclusion of documents of what some might think were of marginal relevance.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In due course, the hearing took place, and, after some fourteen days of
+evidence and argument, the FTT gave a reserved decision dismissing Eclipse’s
+appeal on the substantive issue of the validity of the closure notice - </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2012/TC01963.html">[2012] UKFTT 270 (TC)</a>. (That decision was subsequently affirmed by the Upper Tribunal,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2013/639.html">[2014] BTC 503</a>, whose decision was in turn upheld by the Court of Appeal,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/95.html">[2015] BTC 10</a>, and we refused Eclipse permission to appeal to the Supreme Court
+on 13 April 2016).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following the hearing before the FTT, Eclipse’s agents sent the Revenue
+invoices for a total of £108,395.48 (inclusive of VAT), representing half the
+cost to Eclipse of preparing the Bundles. After some discussion between the
+parties, and after the FTT had given its decision, the Revenue applied to the
+FTT to set aside the oral direction that the parties should share the costs of
+preparing the Bundles (“the Order”), on the ground that the FTT had no
+jurisdiction to give such a direction, in the light of Rule 10. The FTT held
+that it had had such jurisdiction and therefore dismissed the Revenue’s
+application. The Revenue appealed, and the Upper Tribunal took a different
+view, and held that the Order was made without jurisdiction, and consequently
+set it aside - [2013] UKUT 1041 (TCC). Eclipse’s appeal to the Court of Appeal
+failed - </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/184.html">[2014] EWCA Civ 184</a>. Eclipse now appeals to this court.</p>
+
+<p class="ParaHeading">Discussion</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The reasoning of the Court of Appeal and the Upper Tribunal, which is
+reflected in the Revenue’s argument before us, is very simple, and it is as
+follows. This was a Complex case under Rule 23, and therefore the FTT would
+have had a broad jurisdiction as to costs if no request (“Request”) under rule
+10(1)(c)(ii) had been served, but, as such a Request was served by Eclipse, the
+effect of rule 10(1)(c) is that the FTT could only make an order for costs if,
+and to the extent that, rule 10(1)(a) (wasted costs) and/or rule 10(1)(b)
+(unreasonable behaviour) could be invoked, and neither of those provisions
+applied here.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Two arguments are advanced on behalf of Eclipse to counter this
+analysis. As an initial point, it is said that the Order was not really an
+order for the payment of costs; it was on analysis an order for the sharing of
+costs. The flaw in that argument is that it assumes that the sharing of costs
+cannot involve the payment of costs. On the facts of this case, even though the
+result of the payment of half Eclipse’s expenses in preparing the Bundles could
+fairly be described as the Revenue “sharing” those costs, it would also
+undoubtedly involve the Revenue “paying” costs, in the sense that they would be
+reimbursing Eclipse half the expenses which it had incurred in having the
+Bundles prepared. What the Order plainly envisaged was (i) Eclipse incurring
+the expense of the preparation of the Bundles and (ii) then recovering half the
+expense from the Revenue. Step (ii) is plainly an order, albeit a partially
+proleptic order, for the recovery of costs.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second, and main, argument advanced on behalf of Eclipse is that it
+is inherent in rule 5(3) that the orders that the FTT makes thereunder can
+include terms as to costs. For instance, it is said that it would be
+unrealistic to suggest that the FTT might grant permission to one party to
+amend its case under rule 5(3)(c) or to have an adjournment under rule 5(3)(h),
+without being able to do so on terms as to costs which compensate the other
+party for any prejudice suffered as a result. Despite its initial attraction, I
+do not find that argument convincing, for a number of reasons.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, Eclipse’s interpretation of rule 5(3) robs rule 10(1) of much of
+its force. The purpose of rule 10(1) is to shut out the FTT from making
+cost-shifting orders in all “ordinary” cases save in those where a party or a
+party’s legal advisers have behaved unreasonably or worse, and even in Complex
+cases the taxpayer can opt to avoid cost-shifting. While this would prevent a
+taxpayer from recovering costs from the Revenue, its principal purpose is no
+doubt to protect a taxpayer from a costs exposure which goes beyond having to
+pay his own lawyers. Warren J said in <i>Atlantic Electronics Ltd v Revenue and
+Customs Comrs </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2012/45.html">[2012] STC 931</a>, para 8, that the policy that “in cases other
+than Complex cases … the inability to recover costs is not seen as likely to
+lead to a denial of access to justice” but that “in Complex cases, the choice
+of the taxpayer is to prevail”. The only quarrel I have with that is that it
+seems to me that in non-Complex cases, the normal inability of either the
+taxpayer or the Revenue to recover costs is positively intended to improve
+access to justice in the majority of such cases.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The logic of Eclipse’s argument means that every time that the FTT makes
+a direction, not merely under one of the subparagraphs of rule 5(3), but under
+the more general powers contained in rule 5(2), it can attach an order for
+costs, even where neither the party against whom the order is made, nor its
+legal advisers, have behaved unreasonably. While this would not, of course,
+mean that the FTT could deal with costs as if there was no fetter on its
+powers, it would very significantly cut down the effectiveness of the no
+costs-shifting scheme in rule 10(1).</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, Eclipse’s argument is inconsistent with rules 10(3) to 10(7).
+As explained in para 7 above, those paragraphs contain rules as to how any
+costs awarded by the FTT pursuant to rule 10(1) are to be assessed and
+recovered. If there is a power to award costs under Rule 5, as Eclipse
+effectively argues, there would appear to be a lacuna in the Rules, because
+there are no such provisions governing the assessment and recovery of such
+costs. I appreciate that this argument has limited force in relation to paras
+10(3) to 10(5), as the paying party would normally (but not always) be expected
+to have the opportunity to make submissions about costs at the hearing at which
+such costs could, on Eclipse’s case, be awarded. However, that point does not,
+I think, apply to rules 10(6) and 10(7).</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, rejecting Eclipse’s case does not mean that the FTT cannot give
+permission to amend, or grant an adjournment, on terms as to costs. If, for
+instance, a party wishes to amend its case or be granted an adjournment, there
+is nothing in the Rules which would prevent the FTT from deciding that it will
+only give permission to amend, or grant the adjournment, on terms that that
+party pays the other party’s costs wasted or incurred as a result of the
+proposed amendment or adjournment. However, that is not what happened in this
+case.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fourthly, while of very slender force, there is rule 16(2)(b), which
+enables, indeed requires, the FTT to provide for the costs of a witness, who is
+required to attend a hearing, to be paid for by one or other party. It was
+suggested on behalf of Eclipse that it showed that rule 10(1) did not amount to
+an absolute code. To my mind, if anything, rule 16(2)(b) supports the Revenue’s
+case: it shows that, where the Rules intend to enable or require the FTT to
+render a party liable for costs, they say so.</a></p><a name="para21">
+
+<p class="ParaHeading">Some supplementary points</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Four other points should be mentioned. First, I have only referred to
+the basic facts of this case. Although Moses LJ, who gave the only reasoned
+judgment in the Court of Appeal thought otherwise (see paras 19-22 of his
+judgment), I agree with Mr Maugham QC, for Eclipse, that, in connection with
+the point at issue, it is inappropriate to consider the detailed facts of this
+case relating to the preparation of the Bundle and which led to the making of
+the Order. This case raises an issue of principle, which turns on the
+interpretation of the Rules.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, there was some suggestion that, given that they relate to the
+procedure of a tribunal rather than a court, the Rules should be interpreted on
+a somewhat looser basis than Rules of court. I accept that the procedure of the
+tribunals is intended to be less formal and more flexible than that of the
+traditional courts. While that consideration can, indeed should, properly be
+taken into account when interpreting the Rules, I do not believe that it
+justifies a different result. Indeed, if anything, it is a point which supports
+the conclusion I have reached, based as it is on the fact that the Rules point
+strongly against costs-shifting in the tribunal, whereas costs-shifting in
+litigation in traditional courts is still the norm.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, the fact that things could have been arranged so as to achieve
+the same result as the Order is irrelevant to the outcome of this appeal. As
+Moses LJ pointed out in para 22 of his judgment, the FTT could have ordered
+both parties to prepare the Bundles jointly, in which case there would have
+been a powerful argument for saying that Eclipse could have recovered the £108,395.48
+which they now claim, simply on the basis of a contribution between two jointly
+liable parties. But that is not what happened here: Eclipse were liable for the
+preparation of the Bundles, and it is not sensibly possible to characterise the
+Order as having any effect other than requiring the Revenue to pay some of
+Eclipse’s costs, an order which was precluded by rule 10(1).</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, it is perhaps worth recording that, during the hearing of this
+appeal, Lord Toulson mentioned the possibility of Eclipse having a claim
+against the Revenue for £108,395.48 based on restitution, in the same way that a
+restitutionary claim may be made where services are performed under a contract
+which is for some reason unenforceable or void. That argument could not be
+pursued before us, and therefore I should say no more about it.</a></p><a name="para25">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the event, for the reasons given in paras 17 to 21 above, I would
+dismiss this appeal.</a></p><a name="para26">
+
+</a></div><a name="para26">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/24.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

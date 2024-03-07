@@ -1,0 +1,1032 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>BPP Holdings Ltd &amp; Ors v Revenue and Customs  [2017] UKSC 55 (26 July 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      BPP Holdings Ltd &amp; Ors v Revenue and Customs  [2017] UKSC 55 (26 July 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/55.html</i>
+<br>Cite as: 
+[2017] STI 1742,
+
+[2017] WLR 2945,
+
+[2017] 4 All ER 756,
+
+[2017] STC 1655,
+
+[2017] 1 WLR 2945,
+
+[2017] BVC 36,
+
+[2017] UKSC 55
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/55.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+1+WLR+2945">[2017] 1 WLR 2945</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/55.image1.pdf">Summary</a></span></p><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 55</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/121.html">[2016] EWCA Civ 121</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">BPP Holdings Ltd and others (Respondents) <i>v</i>
+Commissioners for Her Majesty’s Revenue and Customs (Appellant)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">26 July 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 27 June 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:71.25pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jessica Simor QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Nicholas Gibson</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by HMRC
+  Solicitor’s Office)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondents</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Sam Grodzinski QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Simmons &amp; Simmons LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD NEUBERGER: (<span style="text-transform:none">with whom
+Lord Clarke, Lord Sumption, Lord Reed and Lord Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue ultimately to be determined on this appeal is whether the
+First-tier Tribunal (“Ft-T”) was entitled to make an order debarring the
+Commissioners for HM Revenue and Customs (“HMRC”) from defending an appeal
+concerning liability for VAT brought by three companies in the BPP Group of
+companies (to which, save where it is important to distinguish between those
+companies, I shall refer generically as “BPP”).</a></p><a name="para1">
+
+<p class="ParaHeading">The factual and procedural background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Between 1999 and 2006, BPP Holdings Ltd supplied education and books to
+students. Following a corporate rearrangement in 2006, one company, BPP
+Learning Media Ltd, supplied books and another company, BPP University College
+of Professional Studies Ltd, supplied education. BPP took the view that there
+were now two separate supplies by separate companies, one of education (which
+is standard rated for VAT purposes), and the other of books (which is
+zero-rated). Accordingly, BPP did not account for VAT on the supplies of books.
+However, HMRC did not agree with this and contended that BPP’s analysis was
+flawed, or in the alternative that the changes made in 2006 represented an
+abuse. (The law has been changed by section 75 of the Finance Act 2011).</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In November 2012, HMRC issued two VAT assessments, prepared on the basis
+that BPP should have accounted for VAT at the standard rate on the supplies of
+books from 2006. Pursuant to a request from BPP, HMRC also issued a decision to
+that effect on this issue in December 2012, which related to the VAT treatment
+of BPP’s supplies from 19 July 2011.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In May 2013, BPP raised appeals to the Tax Chamber of the Ft-T against
+the two assessments and the decision. Following directions from the Ft-T, HMRC
+served its statement of case on 21 October 2013, which was 14 days late, and
+applied for an extension of time, which BPP did not oppose. Disclosure was
+ordered for 17 December and HMRC provided it a few days late.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Meanwhile, BPP considered that HMRC should provide further information
+of their case, and made a request to that effect on 11 November 2013. After
+some written and telephone exchanges between the parties, BPP applied to the
+Ft-T on 22 November for an order that HMRC supply the information in 14 days
+from the making of the order, failing which BPP’s substantive appeals should be
+allowed. HMRC then offered to supply the information by 31 January 2014, but,
+because they would not agree to the sanction sought by BPP, there was a hearing
+of BPP’s application (together with a directions hearing) on 9 January 2014. At
+that hearing Judge Hellier made an order which included the following
+directions in relation to BPP’s application:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“UPON the respondents having
+agreed to provide by 31 January 2014 replies to each of the questions
+identified in the appellants’ request for further information dated 11 November
+2013;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">AND UPON hearing Counsel for the
+parties, the following Directions are made:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the respondents
+fail to provide replies to each of the questions identified in the appellants’
+request for Further Information by 31 January 2014, the respondents may be
+barred from taking further part in the proceedings …”</p>
+
+<p class="ParaNoNumber">The order also included directions for the future conduct
+of the appeals including an order for the filing of disclosure statements and
+lists of documents by 30 April, and a provision for a seven day hearing.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 31 January 2014, HMRC served a response to BPP’s request. On 14
+March, the same day as it served its response to HMRC’s statement of case, BPP
+issued an application for an order barring HMRC from taking further part in the
+proceedings (“a debarring order”) on the ground that the 31 January response
+did not in fact reply to “each of the questions identified in [BPP’s] request
+for further information”.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 24 April 2014, HMRC informed BPP that they were withdrawing the two
+assessments and therefore conceding two of BPP’s three appeals, but, as they
+were not withdrawing the decision, the third appeal proceeded. Meanwhile, HMRC
+supplied a defective disclosure statement and list of documents some eight days
+late on 8 May, and did not apply for an extension of time in that connection
+until four weeks later; they subsequently agreed to give a new list of
+documents.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>BPP maintained its claim for a debarring order in relation to the
+surviving appeal, and its application came before Judge Mosedale on 23 June
+2014. In a reserved judgment given on 1 July 2014, Judge Mosedale granted BPP’s
+application and made a debarring order - </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2014/TC03768.html">[2014] UKFTT 644 (TC)</a>. Following a
+further hearing in July, in a judgment given on 25 September 2014, Judge
+Herrington refused HMRC’s application to lift the debarring order, but gave
+HMRC permission to appeal against Judge Mosedale’s decision - <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2014/TC04031.html">[2014] UKFTT 917 (TC)</a>. That appeal was heard by Judge Bishopp in the Tax and Chancery Chamber of
+the Upper Tribunal (“UT”) in October; after a two-day hearing he allowed HMRC’s
+appeal for reasons given in a judgment on 3 November 2014 - <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2014/496.html">[2015] STC 415</a>.
+Following the grant to BPP of permission to appeal against his order, the Court
+of Appeal (Moore-Bick V-P, Richards and Ryder LJJ) allowed BPP’s appeal and
+restored Judge Mosedale’s debarring order for reasons given by Ryder LJ, who is
+the Senior President of Tribunals - <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/121.html">[2016] 1 WLR 1915</a>.</p>
+
+<p class="ParaHeading">The issue to be decided</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The case comes before this Court as an appeal from the Court of Appeal,
+but the ultimate issue for us is whether Judge Mosedale’s decision to make a
+debarring order can be justified. Accordingly, it is unnecessary to address all
+the criticisms of the reasoning of the UT and of the Court of Appeal, which
+have been raised by Ms Simor QC in her careful argument on behalf of HMRC. In
+those circumstances, it is right to record that, while, for the reasons given
+below, we agree with the conclusion reached by the Court of Appeal, we should
+not be taken as approving all its reasoning.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The procedures of the various chambers of the Ft-T are governed by
+rules, and it is common ground that the relevant rule for present purposes is
+rule 8 of the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009
+(SI 2009/273). This rule (which appears to be in the rules which apply to at
+least some of the other chambers of the Ft-T) provides, so far as relevant:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The proceedings, or the
+appropriate part of them, will automatically be struck out if the appellant has
+failed to comply with a direction that stated that failure by a party to comply
+with the direction would lead to the striking out of the proceedings or that
+part of them.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Tribunal may strike
+out the whole or a part of the proceedings if -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the appellant has
+failed to comply with a direction which stated that failure by the appellant to
+comply with the direction could lead to the striking out of the proceedings or
+part of them;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the proceedings, or
+part of them, have been struck out under paragraph (1) or (3)(a), the appellant
+may apply for the proceedings, or part of them, to be reinstated.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This rule applies to a
+respondent as it applies to an appellant except that -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a reference to the
+striking out of the proceedings must be read as a reference to the barring of
+the respondent from taking further part in the proceedings; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a reference to an
+application for the reinstatement of proceedings which have been struck out must
+be read as a reference to an application for the lifting of the bar on the respondent
+from taking further part in the proceedings.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It will be noted that by its application of 22 November 2013 BPP sought
+an order which substantially reflected the terms of rule 8(1) read together
+with rule 8(7)(a), whereas the order made by Judge Hellier in the Ft-T on 9
+January 2014 reflected the terms of rule 8(3)(a) read together with rule
+8(7)(a).</a></p><a name="para11">
+
+<p class="ParaHeading">The reasoning of Judge Mosedale</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The reasons for Judge Mosedale’s decision are self-evidently best
+appreciated by reading her careful judgment, but it is right to summarise its
+contents in order to explain our decision on this appeal.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In paras 2 to 36 of her judgment, Judge Mosedale set out the facts more
+fully than I have done. In the course of doing so, she said in para 22 that HMRC’s
+statement of case made hardly any “reference to facts, so far as the third
+appeal was concerned”, so it followed that she concluded that BPP’s request of
+11 November 2013 was justified. In paras 33 to 36, she referred to the earlier
+failures of HMRC to comply with time limits. In paras 37 to 54 of the judgment
+she then addressed the question whether HMRC were in breach of their obligation
+to “comply with the Unless order”, ie to provide the further information which
+they were recorded as having agreed to provide in the Order of 9 January 2014.
+Judge Mosedale concluded that they were. In effect, she said, by the end of
+January 2014 hardly any further information had been supplied by HMRC.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Judge Mosedale then turned to consider “the appropriate sanction”. She
+analysed the guidance given in the Court of Appeal case of <i>Mitchell v News Group
+Newspapers Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/1537.html">[2014] 1 WLR 795</a>, which she said had been held to be
+applicable by analogy to the Tribunals in the UT decision, <i>Revenue and
+Customs</i><i> Comrs v McCarthy &amp; Stone (Developments) Ltd </i><a title="Link to BAILII version" href="/uk/cases/UKUT/TCC/2014/196.html">[2014] UKUT 196 (TCC)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2014/196.html">[2015] STC 973</a> and in the Ft-T decision, <i>Compass Contract
+Services UK Ltd v Revenue and Customs Comrs </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2014/TC03532.html">[2014] UKFTT 403 (TC)</a>. However,
+in paras 59 to 60, she accepted the submission on behalf of HMRC that
+“[s]trictly” those cases were not in point as they concerned cases where, as in
+<i>Mitchell</i>, the order under consideration stated that the party concerned
+will be debarred if he did not comply. By contrast, as she said, the order in
+this case was that HMRC may be debarred if they did not comply (ie they were
+rule 8(1) cases - or their equivalents in the court system - rather than rule
+8(3) cases, as in the instant case). In other words, she accepted that HMRC
+were not applying to be relieved from a debarring order which had automatically
+come into effect as a result of the earlier order: rather BPP was seeking to
+have a debarring order imposed, when such an order had been foreshadowed by the
+earlier order.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nonetheless, she concluded in para 61 that “while <i>Mitchell</i> is not
+strictly relevant, nevertheless it contains some useful guidance that when
+considering the overriding objective of dealing with cases fairly and justly”.
+She concluded that:</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[I]n considering whether to grant
+the appellant’s application to bar HMRC from further participation in this
+appeal I must consider all relevant factors. I will include in my consideration
+factors (a) and (b) from CPR 3.9 and accord them significant weight as part of
+my consideration of the overriding objective to deal with cases fairly and
+justly.”</p>
+
+<p class="ParaNoNumber">CPR 3.9 is a rule which applies in the courts of England
+and Wales and it provides that, when considering an application for relief from
+sanctions (such as relief from a debarring order) the court would “consider all
+the circumstances of the case, so as to enable it to deal justly with the
+application”, including the need “(a) for litigation to be conducted
+efficiently and at proportionate cost; and (b) to enforce compliance with
+rules, practice directions and orders”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In paras 67 to 72, Judge Mosedale then concluded that HMRC had, at least
+arguably, finally provided the information required by the unless order in the
+skeleton argument prepared by counsel, Mr Singh, for HMRC, “served shortly
+before this hearing”, but the fact remained that, until that point, HMRC had
+not provided the information ordered. In para 73, she described the “prejudice
+to the appellants” as “very clear”, as BPP had the right to “be put in the
+position so that it can properly prepare its case”. In the following paragraph,
+she explained that “the real prejudice to the appellant is in the delay” in
+that “HMRC’s continued failure to make a proper statement of their case has
+delayed the progress of this appeal by about eight months”.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In paras 75 to 80, Judge Mosedale then turned to the “reason for
+default” and said that she had no “clear understanding of why this default had
+occurred” and added that “it should have been obvious to a lawyer that the
+Reply delivered on the due date did not comply with Judge Hellier’s Order”. She
+was unimpressed with HMRC’s suggestion that “it ought not to have been required
+to state <i>every</i> fact and matter on which it relied”, not least because
+“the Reply failed to state any fact or matter on which HMRC relied”. In paras
+81 and 82, she said that “HMRC does not appear in this appeal to have
+appreciated the importance of adhering to directions”.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Judge Mosedale then turned to the proposed debarring order which she
+described in para 83 as “a draconian remedy”, but added that it was “virtually
+the only sanction that the Tribunal has”, because “[n]o one suggests in this
+case that costs would be an adequate remedy”. In para 85 she rejected Mr
+Singh’s submission that debarring order should only be made “where the breach
+was incapable of remedy or had not been remedied” as the wrong test “before or
+after <i>Mitchell</i>”.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In paras 88 to 90, Judge Mosedale rejected the contention that the
+importance of the case to HMRC was a relevant factor: if it was a test case,
+they could for instance, concede the appeal, and fight another case, and, even
+if it proceeded and HMRC lost, the authority of the decision would be weakened
+by the fact that it was unopposed. In paras 91 to 93, she rejected as
+irrelevant the contention that the case should be allowed to proceed as the
+unfairness of a wrongly adverse decision would mean that it could be relied on
+as <i>res judicata </i>by BPP in relation to every claim, while expressly
+leaving open the premise for that contention. In para 94, she rejected as
+irrelevant the fact that Judge Hellier had thought it right to make a rule 8(3)
+order rather than the rule 8(1) order sought by BPP.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Judge Mosedale then reached her “Conclusions”. She started in para 95 by
+saying that she “must simply weigh all the factors”, and if in doubt should not
+make a debarring order, and added that the “objective in exercising my
+discretion is the overriding objective of dealing with cases fairly and
+justly”. In the following paragraph, she said that she had “to give significant
+weight when considering the overriding objective to the importance of
+compliance with directions of the tribunal and avoiding unnecessary delays and
+expense”. She then referred to the delay caused by HMRC’s default, the absence
+of any reason for it, the existence of previous less serious breaches of the
+Tribunal rules in these proceedings, although “this is not a case where HMRC
+have ignored the Tribunal entirely”. At para 100, she said that she had “come
+to the conclusion that HMRC should be barred”, and explained:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“There has been unnecessary delay
+and expense. Tribunal directions have been breached. There is clear prejudice
+to the appellant in having to wait eight months for a proper statement of
+HMRC’s case and not barring HMRC would leave the appellant without a remedy for
+this prejudice. There was no good reason for the delay in stating its case, the
+failure lasted for a significant period of time, and HMRC were clearly on
+notice from the first that the appellant did not consider their [statement of
+case] satisfactory, and clearly on notice from January that a failure to comply
+might lead to a barring order yet they did not correct the position for another
+five months. Barring is the appropriate sanction.”</p>
+
+<p class="ParaHeading">Discussion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This was a full and very carefully considered judgment. However, it
+would nonetheless be appropriate for an appellate court to interfere with it,
+if it could be shown that irrelevant material was taken into account, relevant
+material was ignored (unless the appellate court was quite satisfied that the
+error made no difference to the decision), there had been a failure to apply
+the right principles, or if the decision was one which no reasonable tribunal
+could have reached. Ms Simor has argued that there were a number of errors in
+the judgment, and also that the ultimate decision was outside the bounds of
+what a reasonable tribunal could have decided.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, it was said that the Judge approached the issue before her as if
+the order made by Judge Hellier was an order under rule 8(1) rather than under
+rule 8(3). I do not agree. As Ryder LJ said in para 29 of his judgment in the
+Court of Appeal, Judge Mosedale “was careful to identify (at para 60) that she
+was making a decision about whether barring should be applied as a sanction
+rather than considering whether to grant relief from a sanction already
+applied. Furthermore, she did not equate a rule 8(3) conditional order with a
+rule 8(1) unless order”. She was plainly aware of the rule which applied. And
+she was right when she said in para 94 that the fact that Judge Hellier had
+refused to make a rule 8(1) order took matters no further so far as the issue
+before her was concerned.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, it is said that Judge Mosedale’s reliance on the Court of
+Appeal’s reasoning in <i>Mitchell</i> was unsound as the reasoning has
+subsequently been modified by the Court of Appeal in <i>Denton v T H White Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2014/906.html">[2014] 1 WLR 3926</a>. This inferentially raises an important point in relation to the
+interpretation and application of the rules of the Ft-T and the UT. The
+jurisdiction of many of these tribunals is not limited to England and Wales,
+but extends to the whole of the United Kingdom, and even where that is not so, the
+applicable rules may be the same in the different jurisdictions. In any event,
+it is highly desirable, particularly in a field where the law is the same
+throughout the United Kingdom (as in tax), that tribunals, or at any rate
+tribunals in the same field, apply the same, or (at least in some cases) even
+similar, rules in the same way throughout the UK. In these circumstances, all
+tribunals and appellate courts above the level of the UT should be wary of
+applying or relying on the procedural jurisprudence of the English and Welsh
+courts without also taking into account that of the Scottish and Northern Irish
+courts. As Lord Rodger memorably said in <i>Mucelli v Government of Albania</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/2.html">[2009] 1 WLR 276</a>, para 11, in relation to the interpretation of a statute with
+UK-wide application, </p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><a name="para11">“In Scotland, the
+people still walk in darkness and upon them hath the light of the CPR not
+shined. So there can be no question of interpreting the terms of the statute in
+the light of the CPR - or of the Scottish or Northern Irish rules, for that
+matter</a>.”</p>
+
+<p class="ParaNoNumber">Further, while it would be both unrealistic and
+undesirable for the tribunals to develop their procedural jurisprudence on any
+topic without paying close regard to the approach of the courts to that topic,
+the tribunals have different rules from the courts and sometimes require a
+slightly different approach to a particular procedural issue.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this case, when considering the proper approach to the making of a
+debarring order in the Ft-T, the Ft-T, and indeed the UT, the Court of Appeal,
+and counsel before us, concentrated on recent English cases, particularly <i>Mitchell
+</i>and <i>Denton</i>, but also <i>Durrant v Chief Constable of Avon and
+Somerset Constabulary (Practice Note) </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/1624.html">[2014] 1 WLR 4313</a>. These cases
+provide a salutary reminder as to the importance that is now attached in all
+courts and tribunals throughout the UK to observing rules in contentious
+proceedings generally, but they are directed to, and only strictly applicable
+to, the courts of England and Wales, save to the extent that the approach in
+those cases is adopted by the UT, or, even more, by the Court of Appeal when
+giving guidance to the Ft-T.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Such guidance to tribunals on tax cases was given by Judge Sinfield in
+the UT in <i>McCarthy &amp; Stone</i>. In para 43, after referring to
+differences and similarities between the CPR and the tribunal rules, in that
+case the Tribunals Procedure (Upper Tribunal) Rules 2008 (SI 2008/2698), he
+accepted that “the CPR do not apply to tribunals” but added that he did not
+“accept that the UT should adopt a different, ie more relaxed, approach to compliance
+with rules, directions and orders than the courts that are subject to the CPR”.
+The same view was expressed by Ryder LJ in paras 37 and 38 in the Court of
+Appeal in this case, including this: “I can detect no justification for a more
+relaxed approach to compliance with rules and directions in the tribunals”, and
+added that “[i]t should not need to be said that a tribunal’s orders, rules and
+practice directions are to be complied with in like manner to a court’s”.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is not for this Court to interfere with the guidance given by the UT
+and the Court of Appeal as to the proper approach to be adopted by the Ft-T in
+relation to the lifting or imposing of sanctions for failure to comply with
+time limits (save in the very unlikely event of such guidance being wrong in
+law). We have twice recently affirmed a similar proposition in relation to the
+Court of Appeal’s role in relation to the proper approach to be taken in such
+cases by first instance judges - see <i>Global Torch Ltd v Apex Global
+Management Ltd (No 2)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/64.html">[2014] 1 WLR 4495</a> and <i>Thevarajah v Riordan</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/78.html">[2016] 1 WLR 76</a>. The guidance given by Judge Sinfield in <i>McCarthy &amp;
+Stone </i>was appropriate: as Mr Grodzinski QC, who appeared for BPP pointed
+out, it is “an important function” of the UT to develop guidance so as to
+achieve consistency in the Ft-T: see <i>R (Jones) v First-tier Tribunal (Social
+Entitlement Chamber) </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/19.html">[2013] 2 AC 48</a>, para 41, per Lord Carnwath. And, by
+confirming that guidance in this case, the Senior President, with the support
+of Moore-Bick V-P and Richards LJ, has very substantially reinforced its
+authority. In a nutshell, the cases on time-limits and sanctions in the CPR do
+not apply directly, but the Tribunals should generally follow a similar
+approach.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Such an approach was adopted by Judge Mosedale, as demonstrated by the
+passages in her judgment cited in paras 15 and 20 above. As Ryder LJ rightly
+said at para 32 of his judgment:</a></p><a name="para27">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Judge Mosedale did not directly
+apply the CPR or the subsequent authorities that give guidance on CPR 3.9. She
+was careful to make it clear that her consideration of the same was limited to
+whether the guidance contained in them was relevant by analogy to the
+application of the overriding objective in the tax tribunal rules … Most importantly,
+she distinguished the guidance before applying a nuanced version of it to the
+overriding objective in the tax tribunal rules.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning to the specific points raised by Ms Simor, I would reject the
+argument that Judge Mosedale’s decision was vitiated because it relied on the
+reasoning in <i>Mitchell</i>, on the ground that the approach laid down in that
+case was significantly cut down in the subsequent case of <i>Denton</i>. In the
+first place, the approach adopted by Judge Mosedale did not rely on a detailed
+analysis of <i>Mitchell</i>. She ultimately approached the issue she had to
+decide on the basis which she explained in the passages quoted in paras 15 and
+20 above, and that approach involved carrying out the unexceptionable balancing
+exercise which she described.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, in <i>Denton</i>, para 24, the Court of Appeal described the
+guidance given in <i>Mitchell </i>as “remain[ing] substantially sound” and
+suggested an approach which involved three stages, which it then went on to
+expound. The refinements which the Court of Appeal then made to what had been
+said in <i>Mitchell </i>were largely clarifications (see paras 26 and 32).
+Unless it appears that Judge Mosedale misinterpreted the guidance given in <i>Mitchell</i>,
+the decision in <i>Denton</i> would not therefore represent a reason for upsetting
+her decision, and I can see no basis for saying that she did misunderstand the
+guidance given in <i>Mitchell</i>. Thirdly, it was contended that in her
+“Conclusions” in paras 95ff of her judgment, the Judge only considered the
+delay caused by HMRC, the lack of explanation or excuse, and the prejudice
+caused to BPP. There was no consideration, it is said, of the disadvantage to
+HMRC and the arguably disproportionate benefit to BPP. If one confines oneself
+to the contents of Judge Mosedale’s “Conclusions” in paras 95 to 101 of her
+judgment, that point has force. However, it seems to me that that involves an
+unrealistic approach to the judgment. In the preceding 28 paragraphs, Judge
+Mosedale considered all the relevant factors, and it appears to me to be
+fanciful to suggest that she did not take them into account when reaching her
+conclusion. The worst that can be said in this connection is that the Judge
+should have said in terms in her “Conclusions” that she had taken all the
+matters she had discussed in paras 67 to 94 into account, but in my view it is
+clear that she did so: otherwise, one may rhetorically ask, why did she bother
+to consider those other matters, and so carefully.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fourthly, Ms Simor argued that the Judge should have accepted the
+relevance of, and taken into account, the fact that the debarring order in this
+case prevents HMRC from discharging its public duty and could lead to the
+public interest being harmed in that VAT which should be paid may not be
+recovered. I consider that it would set a dangerous precedent if that point
+were accepted, as it would discourage public bodies from living up to the
+standards expected of individuals and private bodies in the conduct of
+litigation. It seems to me that there is at least as strong an argument for
+saying that the courts should expect higher standards from public bodies than
+from private bodies or individuals. In fairness, it should be said that this
+point was more attractively developed by Ms Simor when she said that it
+justified a more relaxed approach to all parties by tribunals than that adopted
+by the courts. Nonetheless, I find that unconvincing: there is no good reason
+to have different rules for public law cases. I consider that Moore-Bick V-P in
+<i>R (Hysaj) v Secretary of State for the Home Department (Practice Note) </i>[2015]
+1 WLR<i> </i>2472, paras 41 to 42 was right to reject a similar point in
+relation to public law cases in the courts.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fifthly, Ms Simor argued that it was disproportionate of BPP to have
+sought a debarring order in the present case rather than proceeding to a
+hearing in accordance with Judge Hellier’s directions. She pointed to the fact
+that, had BPP taken that course, the issue raised by its substantive appeal
+could well have been determined by the time the present appeal came on for hearing
+in the Supreme Court. That is true, but it is a point which can only be made
+because HMRC chose to challenge the decision of Judge Mosedale to make a
+debarring order that these proceedings have lasted beyond 1 July 2014. More
+importantly, the order made on 9 January 2014 specifically envisaged a
+debarring order being made unless HMRC complied with their disclosure
+obligation recited in the order by 31 January, and it is not suggested that it
+was somehow culpable or unfair for BPP to have allowed some six weeks to elapse
+after that date before applying for a debarring order.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sixthly, it was pointed out that a debarring order represents an
+unjustified windfall for BPP. It is true that the debarring order will either
+improve BPP’s prospects of success in the substantive surviving appeal (if the
+appeal goes ahead unopposed) or result in BPP succeeding on the appeal when it
+might not otherwise have done so (if HMRC concede the appeal). However, that
+point can always be made by a party facing a debarring order, and to give the
+point any weight, save perhaps in exceptional circumstances, would appear to me
+to undermine the utility of the sanction of a debarring order. I can see no
+exceptional circumstances in the instant case.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, it was said that, bearing in mind all the circumstances, a
+debarring order was outside the scope of what a reasonable judge in the
+position of Judge Mosedale could have ordered, even if she made no specific
+errors. I accept that the decision to make a debarring order against HMRC was
+tough, and I also accept that some Ft-T judges may not have made that decision.
+However, the issue whether to make a debarring order on certain facts is very
+much one for the tribunal making that decision, and an appellate judge should
+only interfere where the decision is not merely different from that which the
+appellate judge would have made, but is a decision which the appellate judge
+considers cannot be justified. In the words of Lawrence Collins LJ in <i>Walbrook
+Trustee (Jersey) Ltd v Fattal</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2008/427.html">[2008] EWCA Civ 427</a>, para 33:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[A]n appellate court should not
+interfere with case management decisions by a judge who has applied the correct
+principles and who has taken into account matters which should be taken into
+account and left out of account matters which are irrelevant, unless the court
+is satisfied that the decision is so plainly wrong that it must be regarded as
+outside the generous ambit of the discretion entrusted to the judge.”</p>
+
+<p class="ParaNoNumber">In other words, before they can interfere, appellate
+judges must not merely disagree with the decision: they must consider that is
+unjustifiable. HMRC cannot in my view cross that high hurdle in this case.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That is not to say that an appellate tribunal cannot interfere in a case
+where a debarring order has been imposed or confirmed. The decision to impose a
+debarring order (unlike case management decisions of a more routine nature) can
+often have the effect of determining the substantive case. Further, as already
+mentioned in para 27 above, an important function of the UT and the Court of
+Appeal is to ensure a degree of consistency of approach among Ft-T judges. In
+the context of court decisions, this concern was plainly in the mind of the
+Court of Appeal in <i>Mitchell </i>and <i>Denton</i>. There must be a limit to
+the permissible harshness (or indeed the permissible generosity) of a decision
+relating to the imposition or confirmation (or discharge) of a debarring order.
+It may well be that this case is not far from that limit (a view which
+obviously draws support from Judge Bishopp’s careful judgment in the UT).
+However, I do not consider that it was on the wrong side of the line, given the
+combination of the nature and extent of HMRC’s failure to reply to BPP’s
+request, the length of the delay in rectifying the failure and the length of
+the consequential delay to the proceedings, the absence of any remedy to
+compensate BPP for the delay, and the absence of any explanation or excuse for
+the failure, coupled with the existence of other failures by HMRC to comply
+with directions.</a></p><a name="para34">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Simor’s fourth and fifth points prompt the thought that it may be
+worth considering whether tribunals should be accorded additional sanction
+powers to those which they currently have. As Judge Mosedale explained, she was
+faced with a binary question, involving two unpalatable choices. Making the
+debarring order, which she described as draconian, or not making the order,
+which, to use the vernacular, would have meant that HMRC effectively would have
+got away with it. There may be force in the notion that the tribunal rules
+should provide for the possibility of more nuanced sanctions, such as a fine or
+even the imposition of some procedural advantage. Experience suggests that such
+ideas, while attractive in theory, can often be difficult to formulate or to
+apply satisfactorily in practice, so I mention the point with some diffidence.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, for the reasons I have given, HMRC’s appeal must be dismissed.</a></p><a name="para36">
+
+</a></div><a name="para36">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/55.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

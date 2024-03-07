@@ -1,0 +1,1116 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Lachaux v Independent Print Ltd &amp; Anor [2019] UKSC 27 (12 June 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Lachaux v Independent Print Ltd &amp; Anor [2019] UKSC 27 (12 June 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/27.html</i>
+<br>Cite as: 
+[2019] 3 WLR 18,
+
+[2020] AC 612,
+
+[2019] UKSC 27,
+
+[2019] 4 All ER 485,
+
+[2019] EMLR 22
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/27.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011211801/casereport_e795a769-7876-460a-ad99-d594d6f68941/html">[2019] 3 WLR 18</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011211801/casereport_a7ec89ec-ba83-4dc8-8f4b-53712edc9eb7/html">[2020] AC 612</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/27.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 27</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/1334.html">[2017] EWCA Civ 1334</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="width:448.6pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Lachaux
+  (Respondent) <i>v</i> Independent Print Ltd and another (Appellants)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">12 June 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 13 and 14 November 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">David Price QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Adrienne Page QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jonathan Price</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Godwin Busuttil</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by David
+  Price, Solicitor Advocate)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Taylor
+  Hampton)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener
+  (Media Lawyers Association)</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Guy Vassall-Adams
+  QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Romana Canneti</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Edward Craven</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(<i>written
+  submissions only</i>)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><u>Appellants:-</u></b></p>
+
+<p class="MsoNormal">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Independent Print Ltd</p>
+
+<p class="MsoNormal">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Evening Standard Ltd</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">LORD SUMPTION: (<span style="text-transform:none">with whom Lord
+Kerr, Lord Wilson, Lord Hodge and Lord Briggs agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The tort of defamation is an ancient construct of the common law. It has
+accumulated, over the centuries, a number of formal rules with no analogue in
+other branches of the law of tort. Most of them originated well before freedom
+of expression acquired the prominent place in our jurisprudence that it enjoys
+today. Its coherence has not been improved by attempts at statutory reform.
+Statutes to amend the law of defamation were enacted in 1888, 1952, 1996 and
+2013, each of which sought to modify existing common law rules piecemeal,
+without always attending to the impact of the changes on the rest of the law.
+The Defamation Act 2013 is the latest chapter in this history. Broadly speaking,
+it seeks to modify some of the common law rules which were seen unduly to
+favour the protection of reputation at the expense of freedom of expression. In
+particular, there had been criticism of a state of the law in which persons
+resident outside the United Kingdom with only a very limited reputation in the
+United Kingdom were able to sue here for defamation and obtain substantial
+damages. One of the principal provisions of the new Act was section 1, which
+provided that a statement was not to be regarded as defamatory unless it had
+caused or was likely to cause “serious harm” to the claimant’s reputation.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The claimant, Bruno Lachaux, is a French aerospace engineer who at the
+relevant time lived with his British wife Afsana in the United Arab Emirates.
+The marriage broke down, and in April 2011 he began divorce proceedings in the
+UAE courts and sought custody of their son Louis. In March 2012, Afsana went
+into hiding with Louis in the UAE, claiming that she would not get a fair trial
+in its courts. In August 2012, the UAE court awarded custody of Louis to his
+father. In February 2013, Mr Lachaux initiated a criminal prosecution against
+Afsana for abduction. In October of that year, having found out where Louis
+was, he took possession of him under the custody order. In January and February
+2014, a number of British newspapers published articles making allegations
+about Mr Lachaux’s conduct towards Afsana during the marriage and in the course
+of the divorce and custody proceedings. These appeals arise out of two libel
+actions begun by him in the High Court on 2 December 2014 against the
+publishers of the <i>Independent</i> and the <i>Evening Standard</i>, and a
+third begun on 23 January 2015 against the publisher of the <i>i</i>. Other
+libel actions were begun against the publisher of similar articles in another
+online newspaper, but we are not directly concerned with them on these appeals.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In February 2015, Eady J conducted a meaning hearing. In a reserved
+judgment, he held that the article in the <i>Independent</i> bore eight
+defamatory meanings, and the article in the <i>Evening Standard</i> 12. In
+summary, the articles were held to have meant (inter alia) that Mr Lachaux had
+been violent and abusive towards his wife during their marriage, had hidden
+Louis’ passport to stop her removing him from the UAE, had made use of UAE law
+and the UAE courts to deprive her of custody and contact with her son, had
+callously and without justification taken Louis out of her possession, and then
+falsely accused her of abducting him. For the purpose of the trial of the issue
+before of serious harm, which took place before Warby J in July 2015, the
+newspapers did not contest the primary facts set out in Mr Lachaux’s
+Particulars of Claim. Their case was that the statements in the articles were
+not defamatory because they did not meet the threshold of seriousness in
+section 1(1) of the Act of 2013. To appreciate the force of this point, it is
+necessary to summarise some well-established features of the common law relating
+to damage to reputation.</a></p><a name="para3">
+
+<p class="ParaHeading">The common law background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The law distinguishes between defamation actionable per se and
+defamation actionable only on proof of special damage. But although sharing a
+common label, these are very different torts with distinct historical origins.
+Libel, which is always actionable per se, originated in the disciplinary
+jurisdiction of the ecclesiastical courts and the criminal jurisdiction of the
+Court of Star Chamber. The gist of the tort is injury to the claimant’s
+reputation and the associated injury to his or her feelings. Defamation
+actionable per se comprised, in addition to all libels, four categories of
+slander which were assimilated to libel on account of their particular
+propensity to injure the reputation of the claimant. These categories were (i)
+words imputing criminal offences, (ii) words imputing certain contagious or
+infectious diseases, and (iii) words tending to injure a person in his or her
+office, calling, trade or profession. The Slander of Women Act 1891 added (iv)
+words imputing unchastity to a woman. In these cases, the law presumes injury
+to the claimant’s reputation and awards general damages in respect of it. These
+are not merely compensatory, but serve to vindicate the claimant’s reputation.
+In a frequently quoted passage of his speech in <i>Broome v Cassell &amp; Co
+Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1972/3.html">[1972] AC 1027</a>, 1071, Lord Hailsham LC acknowledged that this</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… may put the plaintiff in a
+purely financial sense in a much stronger position than he was before the
+wrong. Not merely can he recover the estimated sum of his past and future
+losses, but, in case the libel, driven underground, emerges from its lurking
+place at some future date, he must be able to point to a sum awarded by a jury
+sufficient to convince a bystander of the baselessness of the charge ...”</p>
+
+<p class="ParaNoNumber">Special damage, ie pecuniary loss caused by the
+publication, may be recovered in addition, but must be proved.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By comparison, slander which is not actionable per se originated as a
+common law action on the case, and is governed by principles much closer to
+those of the law of tort generally. The law does not presume injury to
+reputation by mere oral statements and treats injury to feelings as
+insufficient to found a cause of action. Special damage, representing pecuniary
+loss rather than injury to reputation, must be proved: see <i>McGregor on
+Damages</i>, 20th ed (2017), paras 46.002, 46.003; <i>Gatley on Libel and
+Slander</i>, 12th ed (2013), para 5.2. The interest which the law protects in
+cases where a defamatory statement is actionable per se differs from that which
+it protects in other cases. The gist of the tort where the statement is not
+actionable per se is not injury to reputation but, as Bowen LJ observed in <i>Ratcliffe
+v Evans</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpKQB/1892/131.html">[1892] 2 QB 524</a>, 532, wrongfully inflicted pecuniary loss: cf <i>Jones
+v Jones</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1916/2.html">[1916] 2 AC 481</a>, 490 (Viscount Haldane). Indeed, it is an open
+question, which has given rise to conflicting dicta, whether general damage is
+recoverable at all in such cases.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For present purposes a working definition of what makes a statement defamatory,
+derived from the speech of Lord Atkin in <i>Sim v Stretch</i> [1936] 2 All ER
+1237, 1240, is that “the words tend to lower the plaintiff in the estimation of
+right-thinking members of society generally.” Like other formulations in the
+authorities, this turns on the supposed impact of the statement on those to
+whom it is communicated. But that impact falls to be ascertained in accordance
+with a number of more or less artificial rules. First, the meaning is not that
+which other people may actually have attached to it, but that which is derived
+from an objective assessment of the defamatory meaning that the notional
+ordinary reasonable reader would attach to it. Secondly, in an action for
+defamation actionable per se, damage to the claimant’s reputation is presumed
+rather than proved. It depends on the inherently injurious character (or
+“tendency”, in the time-honoured phrase) of a statement bearing that meaning.
+Thirdly, the presumption is one of law, and irrebuttable.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In two important cases decided in the decade before the Defamation Act
+2013, the courts added a further requirement, namely that the damage to
+reputation in a case actionable per se must pass a minimum threshold of
+seriousness.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first was <i>Jameel (Yousef) v Dow Jones &amp; Co Inc</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2005/75.html">[2005] QB 946</a>. The Saudi claimant had sued the publishers of the <i>Wall Street Journal</i>
+for a statement published online in Brussels to the effect that he had been
+funding terrorism. The statement was shown to have reached just five people in England
+and Wales. The Court of Appeal rejected a submission that the conclusive
+presumption of general damage was incompatible with article 10 of the Human
+Rights Convention. Lord Phillips of Worth Matravers MR, delivering the leading
+judgment, observed (para 37) that “English law has been well served by a
+principle under which liability turns on the objective question of whether the
+publication is one which <i>tends</i> to injure the claimant’s reputation.” But
+he held that the presumption could not be applied consistently with the
+Convention in those cases, said to be rare, where damage was shown to be so
+trivial that the interference with freedom of expression could not be said to
+be necessary for the protection of the claimant’s reputation. The appropriate
+course in such a case was to strike out the claim, not on the ground that it
+failed to disclose a cause of action, but as an abuse of process. The Court of
+Appeal held that it was an abuse of process for the action before them to
+proceed “where so little is now seen to be at stake”, and duly struck it out.
+The effect of this decision was to introduce a procedural threshold of
+seriousness to be applied to the damage to the claimant’s reputation. Two
+things are clear from the language of Lord Phillips’ judgment. One is that the
+threshold was low. The damage must be more than minimal. That is all. Secondly,
+the Court of Appeal must have thought that the operation of the threshold might
+depend, as it did in the case before them, on the evidence of actual damage and
+not just on the inherently injurious character of the statement in question.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second case was <i>Thornton v Telegraph Media Group Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2010/1414.html">[2011] 1 WLR 1985</a>, a decision of Tugendhat J. It arose out of an application by the
+Defendant newspaper to strike out part of the Particulars of Claim in a libel
+action on the ground that the statement complained of was incapable of being
+defamatory. Allowing the application, Tugendhat J held that in addition to the
+procedural threshold recognised in <i>Jameel</i>, there was a substantive
+threshold of seriousness to be surmounted before a statement could be regarded
+as meeting the legal definition of “defamatory”. The judge’s definition (para
+96) was that a statement “may be defamatory of him because it <i>substantially</i>
+affects in an adverse manner the attitude of other people towards him, <i>or
+has a tendency so to do</i>” (the emphasis is the judge’s). He derived this
+formula from dicta of Lord Atkin in <i>Sim v Stretch</i> [1936] 2 All ER 1237.
+At para 94, he dealt with the relationship between the definition thus arrived
+at and the presumption of general damage, in terms which suggested that (unlike
+the <i>Jameel</i> test) the application of the threshold depended on the
+inherent propensity of the words to injure the claimant’s reputation:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If the likelihood of adverse
+consequences for a claimant is part of the definition of what is defamatory,
+then the presumption of damage is the logical corollary of what is already
+included in the definition. And conversely, the fact that in law damage is
+presumed is itself an argument why an imputation should not be held to be
+defamatory unless it has a tendency to have adverse effects upon the claimant.
+It is difficult to justify why there should be a presumption of damage if words
+can be defamatory while having no likely adverse consequence for the claimant.
+The Court of Appeal in <i>Jameel (Yousef)’s</i> case <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2005/75.html">[2005] QB 946</a> declined to
+find that the presumption of damage was itself in conflict with article 10 (see
+para 37), but recognised that if in fact there was no or minimal actual damage
+an action for defamation could constitute an interference with freedom of
+expression which was not necessary for the protection of the claimant’s
+reputation: see para 40.”</p>
+
+<p class="MsoQuote" style="margin-left:0cm"><i>Section 1 of the Defamation Act
+2013</i></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 1 is in the following terms:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<b>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Serious harm</b></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A statement is not
+defamatory unless its publication has caused or is likely to cause serious harm
+to the reputation of the claimant.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of
+this section, harm to the reputation of a body that trades for profit is not
+‘serious harm’ unless it has caused or is likely to cause the body serious
+financial loss.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the present appeals, the rival constructions of this provision may be
+summarised as follows. The case on behalf of Mr Lachaux is that the Act leaves
+unaffected the common law presumption of general damage and the associated rule
+that the cause of action is made out if the statement complained of is
+inherently injurious or, as Lord Phillips put it in <i>Jameel</i> and Tugendhat
+J in <i>Thornton</i>, it has a “tendency” to injure the claimant’s reputation.
+The effect of the provision on this view of the matter is simply that the
+inherent tendency of the words must be to cause not just some damage to
+reputation but serious harm to it. The defendant publishers dispute this. Their
+case is that the provision introduces an additional condition to be satisfied
+before the statement can be regarded as defamatory, on top of the requirement
+that the words must be inherently injurious. It must also be shown to produce
+serious harm in fact. They submit that unless it was self-evident that such a
+statement must produce serious harm to reputation, this would have to be
+established by extraneous evidence. Warby J, after a careful analysis of the
+Act and the antecedent common law, substantially accepted the defendant
+publishers’ case on the law. But he found, on the facts, that the relevant
+newspaper articles did cause serious harm to Mr Lachaux. The Court of Appeal
+(McFarlane, Davis and Sharp LJJ) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/1334.html">[2018] QB 594</a>, preferred Mr Lachaux’s
+construction of section 1, but they upheld the judge’s finding of serious harm.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the Act must be construed as a whole, the issue must turn
+primarily on the language of section 1. This shows, very clearly to my mind,
+that it not only raises the threshold of seriousness above that envisaged in <i>Jameel
+(Yousef)</i> and <i>Thornton</i>, but requires its application to be determined
+by reference to the actual facts about its impact and not just to the meaning
+of the words.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the first place, the relevant background to section 1 is the common
+law position, as I have summarised it. Parliament is taken to have known what
+the law was prior to the enactment. It must therefore be taken to have known
+about the decisions in <i>Jameel (Yousef)</i> and <i>Thornton</i> and the basic
+principles on which general damages were awarded for defamation actionable per
+se. There is a presumption that a statute does not alter the common law unless
+it so provides, either expressly or by necessary implication. But this is not
+an authority to give an enactment a strained interpretation. It means only that
+the common law should not be taken to have been altered casually, or as a
+side-effect of provisions directed to something else. The Defamation Act 2013
+unquestionably does amend the common law to some degree. Its preamble proclaims
+the fact (“an act to amend the law of defamation”). It is not disputed that
+there is a common law presumption of damage to reputation, but no presumption
+that it is “serious”. So the least that section 1 achieved was to introduce a
+new threshold of serious harm which did not previously exist. The question on
+these appeals is what are the legal implications of that change, and what
+necessarily follows from it. Even where some change to the common law was
+intended, it should not go any further than that. As Lord Reid observed in <i>Black-Clawson
+International Ltd v Papierwerke Waldhof-Aschaffenburg AG</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1975/2.html">[1975] AC 591</a>,
+615, Parliament “can be presumed not to have altered the common law further
+than was necessary”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, section 1 necessarily means that a statement which would
+previously have been regarded as defamatory, because of its inherent tendency
+to cause some harm to reputation, is not to be so regarded unless it “has
+caused or is likely to cause” harm which is “serious”. The reference to a
+situation where the statement “has caused” serious harm is to the consequences
+of the publication, and not the publication itself. It points to some historic
+harm, which is shown to have actually occurred. This is a proposition of fact
+which can be established only by reference to the impact which the statement is
+shown actually to have had. It depends on a combination of the inherent
+tendency of the words and their actual impact on those to whom they were
+communicated. The same must be true of the reference to harm which is “likely”
+to be caused. In this context, the phrase naturally refers to probable future
+harm. Ms Page QC, who argued Mr Lachaux’s case with conspicuous skill and
+learning, challenged this. She submitted that “likely to cause” was a synonym
+for the inherent tendency which gives rise to the presumption of damage at
+common law. It meant, she said, harm which was <i>liable</i> to be caused given
+the tendency of the words. That argument was accepted in the Court of Appeal.
+She also submitted, by way of alternative, that if the phrase referred to the
+factual probabilities, it must have been directed to applications for
+pre-publication injunctions quia timet. Both of these suggestions seem to me to
+be rather artificial in a context which indicates that both past and future
+harm are being treated on the same footing, as functional equivalents. If past
+harm may be established as a fact, the legislator must have assumed that
+“likely” harm could be also. As to pre-publication injunctions, the section is
+designed to import a condition to be satisfied if the statement is to be
+regarded as defamatory at all. It is not concerned with the remedies available
+for defamation, whether interlocutory or final. It is right to add that pre-publication
+injunctions are extremely rare, because of the well-established constraints on
+judicial remedies which restrict freedom of expression in advance of
+publication.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, it is necessary to read section 1(1) with section 1(2). Section
+1(2) is concerned with the way in which section 1(1) is to be applied to
+statements said to be defamatory of a body trading for profit. It refers to the
+same concept of “serious harm” as section 1(1), but provides that in the case
+of such a body it must have caused or be likely to cause “serious financial
+loss”. The financial loss envisaged here is not the same as special damage, in
+the sense in which that term is used in the law of defamation. Section 1 is
+concerned with harm to reputation, whereas (as I have pointed out) special
+damage represents pecuniary loss to interests other than reputation. What is
+clear, however, is that section 1(2) must refer not to the harm done to the
+claimant’s reputation, but to the loss which that harm has caused or is likely
+to cause. The financial loss is the measure of the harm and must exceed the
+threshold of seriousness. As applied to harm which the defamatory statement
+“has caused”, this necessarily calls for an investigation of the actual impact
+of the statement. A given statement said to be defamatory may cause greater or
+lesser financial loss to the claimant, depending on his or her particular
+circumstances and the reaction of those to whom it is published. Whether that
+financial loss has occurred and whether it is “serious” are questions which
+cannot be answered by reference only to the inherent tendency of the words. The
+draftsman must have intended that the question what harm it was “likely to
+cause” should be decided on the same basis.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, if serious harm can be demonstrated only by reference to the
+inherent tendency of the words, it is difficult to see that any substantial
+change to the law of defamation has been achieved by what was evidently
+intended as a significant amendment. The main reason why harm which was less
+than “serious” had given rise to liability before the Act was that damage to
+reputation was presumed from the words alone and might therefore be very
+different from any damage which could be established in fact. If, as Ms Page
+submits, the presumption still works in that way, then this anomaly has been
+carried through into the Act. Suppose that the words amount to a grave
+allegation against the claimant, but they are published to a small number of
+people, or to people none of whom believe it, or possibly to people among whom
+the claimant had no reputation to be harmed. The law’s traditional answer is
+that these matters may mitigate damages but do not affect the defamatory
+character of the words. Yet it is plain that section 1 was intended to make
+them part of the test of the defamatory character of the statement.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree, as the judge did, that this analysis is inconsistent with the
+previous common law governing statements actionable per se. But it is
+inconsistent with it only to this extent: that the defamatory character of the
+statement no longer depends only on the meaning of the words and their inherent
+tendency to damage the claimant’s reputation. To that extent Parliament
+intended to change the common law. But I do not accept that the result is a revolution
+in the law of defamation, any more than the lower thresholds of seriousness
+introduced by the decisions in <i>Jameel</i> and <i>Thornton</i> effected such
+a revolution. Ms Page argued that to construe section 1 in the way that I have
+done would transform the way in which the Limitation Act 1980 applies to
+actions for defamation; and that it would effectively abolish the distinction
+between defamation actionable per se and defamation actionable only on proof of
+special damage. In both respects, this was said to be inconsistent with other
+provisions of the Act, notably sections 8 and 14.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 8 is concerned with limitation. Section 4A of the Limitation Act
+1980 provides for a limitation period in defamation actions of one year from
+the accrual of the cause of action. The cause of action is treated at common
+law as accruing on publication where it is actionable per se, and on the
+occurrence of special damage in other cases. Successive publications therefore
+give rise at common law to distinct causes of action. Section 8 of the
+Defamation Act 2013 provides that where a statement has been made to the public
+or a section of the public (for example in a newspaper) and later republished
+in the same or substantially the same terms, “any cause of action against the [same]
+person for defamation in respect of the subsequent publication is to be treated
+as having accrued on the date of the first publication.” The object of this
+provision is to deprive claimants of the right to sue on a further publication
+by the same person of substantially the same defamatory statement, more than a
+year after the first publication. They must sue on the first publication or run
+the risk of being time-barred. The argument is that section 8 assumes that the
+common law rule that the cause of action accrues on publication subsists,
+subject only to the modification that the accrual of the cause of action for a
+qualifying second publication is backdated to the date of the first. Therefore,
+it is said, section 1 must be construed on the footing that the cause of action
+is complete on publication and not on some later date at which “serious harm”
+may occur. One of the problems of legislating piecemeal for different aspects
+of the law of defamation, as the Act of 2013 does, is that the interrelation
+between different rules may be overlooked. I rather doubt whether Parliament
+got to grips with the implications of section 1 for limitation. I would not
+therefore modify my construction of section 1, which I regard as clear, even if
+I agreed with Ms Page that its effect was to postpone the accrual of the cause
+of action for defamation actionable per se. But I do not agree with her about
+that. It is necessary to distinguish between the damage done to an interest
+protected by the law, and facts which are merely evidence of the extent of that
+damage. Where a statement is actionable per se, the interest protected by the
+law is the claimant’s reputation. As an element in the cause of action for
+defamation, publication does not mean commercial publication, but communication
+to a reader or hearer other than the claimant. The impact of the publication on
+the claimant’s reputation will in practice occur at that moment in almost all
+cases, and the cause of action is then complete. If for some reason it does not
+occur at that moment, the subsequent events will be evidence of the likelihood
+of its occurring. In either case, subsequent events may serve to demonstrate
+the seriousness of the statement’s impact including, in the case of a body
+trading for profit, its financial implications. It does not follow that those
+events must have occurred before the claimant’s cause of action can be said to
+have accrued. Their relevance is purely evidential. The position is different
+where a statement is not actionable per se, because the interest protected by
+the law in that case is purely pecuniary. The pecuniary loss must therefore
+have occurred.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 14 is concerned only with the law of slander. It abolishes two
+of the four categories of slander actionable per se, by repealing the Slander
+of Women Act 1891 which made the imputation of unchastity to a woman actionable
+per se, and by providing that an imputation that a person has a contagious or
+infectious disease is not to be actionable without proof of special damage. The
+argument is that since section 14 abolishes two of the categories of slander
+actionable per se, section 1 should not be read as abolishing all of them. The
+fallacy of this argument is that it assumes that section 1 does abolish all of
+them. I do not think that it does. To say that a slander is actionable per se simply
+means that it is actionable without proof of special damage. That is still the
+case for the two surviving special categories of slander. As I have pointed out
+above, special damage in this context means damage representing pecuniary loss,
+not including damage to reputation. Section 1 is not concerned with special
+damage in that sense but with “harm to the reputation of the claimant”, ie with
+harm of the kind represented by general damage. It simply supplements the
+common law by introducing a new condition that harm of that kind must be
+“serious” and in the case of trading bodies that it must result in serious
+financial loss.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal’s analysis not only gives little or no effect to the
+language of section 1. It is to my mind internally contradictory. Davis LJ, who
+delivered the only reasoned judgment, accepted the submission on behalf of Mr
+Lachaux that the seriousness of the harm caused to the claimant’s reputation by
+the publication depended on the inherent tendency of the words. But he appears
+to have thought (paras 70-73) that where this was “serious”, the result was to
+set up an inference of fact, which it was open to the defendant to rebut by
+evidence. As Ms Page accepted, this will not do. The common law rule was that
+damage to reputation was presumed, not proved, and that the presumption was
+irrebuttable. If the common law rule survives, then there is no scope for
+evidence of the actual impact of the publication. That is the main reason why
+in my opinion it cannot survive. Davis LJ has, with respect, accepted the legal
+analysis advanced on behalf of Mr Lachaux, while attaching to it the
+consequences of the legal analysis advanced on behalf of the newspapers. In my
+opinion, Warby J’s analysis of the law was coherent and correct, for
+substantially the reasons which he gave.</a></p><a name="para20">
+
+<p class="ParaHeading">Application to this case</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the footing that (as I would hold) Mr Lachaux must demonstrate as a
+fact that the harm caused by the publications complained of was serious, Warby
+J held that it was. He heard evidence from Mr Lachaux himself and three other
+witnesses of fact, and received written evidence from his solicitor. He also
+received agreed figures, some of them estimates, of the print runs and
+estimated readership of the publications complained of and the user numbers for
+online publications. He based his finding of serious harm on (i) the scale of
+the publications; (ii) the fact that the statements complained of had come to
+the attention of at least one identifiable person in the United Kingdom who
+knew Mr Lachaux and (iii) that they were likely to have come to the attention
+of others who either knew him or would come to know him in future; and (iv) the
+gravity of the statements themselves, according to the meaning attributed to
+them by Sir David Eady. Mr Lachaux would have been entitled to produce evidence
+from those who had read the statements about its impact on them. But I do not
+accept, any more than the judge did, that his case must necessarily fail for
+want of such evidence. The judge’s finding was based on a combination of the
+meaning of the words, the situation of Mr Lachaux, the circumstances of publication
+and the inherent probabilities. There is no reason why inferences of fact as to
+the seriousness of the harm done to Mr Lachaux’s reputation should not be drawn
+from considerations of this kind. Warby J’s task was to evaluate the material
+before him, and arrive at a conclusion on an issue on which precision will
+rarely be possible. A concurrent assessment of the facts was made by the Court
+of Appeal. Findings of this kind would only rarely be disturbed by this court,
+in the absence of some error of principle potentially critical to the outcome.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was submitted on behalf of the defendant newspapers that there were
+errors of principle in the judge’s treatment of the facts. It was said that the
+injury to Mr Lachaux’s reputation was at least in part the result of artificial
+legal rules, notably the “repetition rule” which treats as defamatory the
+reporting, even without endorsement, of another person’s statement; and the <i>Dingle</i>
+rule (see <i>Associated Newspapers Ltd v Dingle</i> [1964] AC 371) that a
+defendant cannot rely in mitigation of damages on the fact that similar
+defamatory statements have been published about the same claimant by other
+persons. The argument was that while these rules of law are well established,
+they do not affect the factual inquiry required by section 1, namely whether
+the harm caused by a particular publication was serious. It was also said that
+the judge should not have taken account of the damage that Mr Lachaux’s
+reputation might suffer in the eyes of people who might get to know him in
+future. Warby J must have rejected all of these submissions, and the Court of
+Appeal agreed with him. So do I.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The repetition rule is a rule governing the meaning of a statement and
+the availability of the defence of truth. A statement that someone else has
+made a defamatory statement about the claimant, although literally true, is
+treated as equivalent to a direct statement to the same effect. The policy is
+that “repeating someone else’s libellous statement is just as bad as making the
+statement directly”: <i>Lewis v Daily Telegraph</i> [1964] AC 234, 260 (Lord
+Reid). The rule is nothing to do with the threshold of seriousness, and nothing
+in the 2013 Act can be taken as implicitly abolishing it or limiting its
+application.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The effect of the <i>Dingle</i> rule is to treat evidence of damage to
+the claimant’s reputation done by earlier publications of the same matter as
+legally irrelevant to the question what damage was done by the particular
+publication complained of. It has been criticised, but it is well established.
+It has the pragmatic advantage of making it unnecessary to determine which of
+multiple publications of substantially the same statement occurred first,
+something which in the case of a newspaper would often be impossible to
+ascertain and might differ from one reader to the next. The practical impact of
+the <i>Dingle</i> rule in the modern law is limited by section 12 of the
+Defamation Act 1952, which allows a defendant to rely in mitigation of damage
+on certain recoveries or prospective recoveries from other parties for words to
+the same effect; and by the operation of the Civil Liability (Contribution) Act
+1978. Section 1 of the Act is concerned with the threshold of harm and not with
+the measure or mitigation of general damage. But both raise a similar question
+of causation. It would be irrational to apply the <i>Dingle</i> rule in one
+context but not the other, and no one is inviting us to abrogate it. The judge
+was therefore entitled to apply it.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning, finally, to the complaint about the impact of the publications
+on those who did not know Mr Lachaux but might get to know him in future, there
+is no principled reason why an assessment of the harm to the claimant’s
+reputation should not take account of the impact of the publications on those
+who had never heard of him at the time. The claimant’s reputation is harmed at
+the time of publication notwithstanding that the reader or hearer knows nothing
+about him other than what the publication tells him. It cannot make any
+difference that it is only later, when he comes to know the claimant personally,
+that the latter’s diminished reputation is of any personal interest to him.</a></p><a name="para25">
+
+<p class="ParaHeading">Disposal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, while I would state the law differently from the
+Court of Appeal, I would dismiss these appeals on the facts.</a></p><a name="para26">
+
+</a></div><a name="para26">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/27.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

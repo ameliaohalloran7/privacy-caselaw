@@ -1,0 +1,1657 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Lynn Shellfish Ltd &amp; Ors v Loose &amp; Anor (rev 1) [2016] UKSC 14 (13 April 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Lynn Shellfish Ltd &amp; Ors v Loose &amp; Anor (rev 1) [2016] UKSC 14 (13 April 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/14.html</i>
+<br>Cite as: 
+[2016] UKSC 14,
+
+[2016] WLR(D) 181,
+
+[2016] 2 WLR 1148,
+
+[2017] AC 599,
+
+[2016] 2 WLR 1126
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/14.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011207317/casereport_2007cec5-6e4a-4c76-b0f7-0f801fd83241/html">[2017] AC 599</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+2+WLR+1126">[2016] 2 WLR 1126</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+2+WLR+1148">[2016] 2 WLR 1148</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+181">[2016] WLR(D) 181</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/14(image1).pdf">Summary</a></span></p><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Easter
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 14</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/846.html">[2014] EWCA Civ 846</a></i></p>
+
+<p class="MsoNormal" align="right" style="text-align:right">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Lynn Shellfish Ltd and others (Appellants) <i>v</i>
+Loose and another (Respondents)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">13 April 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 9 and 10 February
+2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:99.75pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Guy Fetherstonhaugh
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Charles Harpum</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Philip Sissons</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Andrew Jackson)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent (John
+  Henry Loose)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Davey QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Parkinson Wright LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent
+  (Michael George le Strange Meakin)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Zia Bhaloo QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Tim Calland</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Charles Russell Speechlys)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:99.75pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener
+  (Crown Estate Commissioners)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Thomas Braithwaite</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Zahler Bryan</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Bond
+  Dickinson LLP (Southampton))</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD NEUBERGER AND LORD CARNWATH: (<span style="text-transform:
+none">with whom Lord Clarke, Lord Sumption and Lord Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue raised by this appeal is the extent of an exclusive
+prescriptive right (ie an exclusive right obtained through a long period of
+use) to take cockles and mussels from a stretch of the foreshore on the east
+side of the Wash, on the west coast of Norfolk.</a></p><a name="para1">
+
+<p class="ParaHeading"><u>The factual and procedural background</u></p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">An outline of the basic facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The proprietor of the exclusive right in question is the second
+respondent, Mr Michael Le Strange Meakin, who is Lord of the Manors of
+Snettisham and Heacham (“the Manors”) and the owner of a substantial amount of
+land adjoining the east side of the foreshore. The land, the right to fish and
+the Lordships have been in the ownership of the Le Strange family for many
+generations, and we shall refer to Mr Le Strange Meakin and his predecessors as
+“the Estate”. In 1970, the Estate granted a lease of the exclusive right to the
+second respondent, Mr John Loose, who is still holding over under that lease.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants are individuals and companies who operate fishing boats
+out of King’s Lynn in Norfolk. During the summer of 2007, 13 of the appellants’
+boats fished for cockles in locations claimed by the respondents to be within
+the area of the exclusive fishery vested in the Estate. Some of the appellants’
+fishing activities took place at or near an area known as Stubborn Sand, and
+some at or near an area known as Ferrier Sand. Both Stubborn Sand and Ferrier
+Sand are now attached to the foreshore, but they had not been so attached in
+the past.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although we were provided with a large number of detailed plans, the
+following summary of the position on the ground should suffice for present
+purposes.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The stretch of foreshore between Wolferton Creek to the south and
+Thornham Creek to the north (“the Foreshore”) is irregular in shape, but it can
+be treated as going from north to south, with the Wash to the west, and land
+(owned by the Estate) to the east. There are a number of sandbanks which are
+separated from the Foreshore at low tide. The evidence establishes that some
+sandbanks which are currently attached to the Foreshore at any rate at low tide
+had previously been separated from it.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The shifting nature of sandbanks is a feature of the shore on the
+eastern side of the Wash, and, at least in that part of the Wash with which
+this appeal is concerned, the trend over the past 400 years or more appears to
+have been for previously separated sandbanks to become joined to the Foreshore
+with the passage of time. Examples include Stubborn Sand, which is now attached
+to the Foreshore but which was separated from it until sometime in the 18th
+century; Ferrier Sand, which only became attached to the Foreshore around 50
+years ago; and Blackguard Sand, which only became attached within the past 20
+years or so. The attachment to the Foreshore of previously separated sandbanks
+appears to have occurred as a result of the gradual silting up of channels
+which had separated the sandbanks from the Foreshore.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is also clear that the low water marks (ie the lines showing the edge
+of the sea at low water) of the Foreshore have moved significantly with the
+passage of time. At least in recent periods the low water marks have, in very
+general terms, moved further west - ie seaward, further away from the shore. We
+refer to low watermarks in the plural because, of course, the extent of low
+water varies from time to time. For present purposes, four different types of
+low water measurement should be mentioned. (i) Mean low tide, the average of
+neap and spring low waters, (ii) mean spring low tide, the average of spring
+low waters, (iii) mean neap low tide, the average of neap low waters, and (iv)
+the lowest astronomical tide, the most extreme neap low water, which occurs every
+18.6 years. (Extreme low water was also referred to in oral argument, when it
+was said to be the same as lowest astronomical tide, but that was corrected
+subsequent to the hearing. However, it did not feature in argument as a
+separate relevant measurement, save by way of explanation of a line on a
+chart). There are, unsurprisingly, high water equivalents of these four low
+water measurements.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The breeding and other habits of cockles and mussels differ to some
+extent, but it is common ground that there is no need for present purposes to
+make any distinction between the two types of shellfish (and any reference to
+“shellfish” hereafter is to cockles and mussels). Shellfish are to be found on
+the foreshore, but they are also to be found in the shallow seas. At least in
+the past, shellfish were taken entirely from the foreshore at low tide by
+individuals coming by foot from the shore and gathering them by hand. In recent
+times, however, with the development of more sophisticated and aggressive
+fishing techniques, in particular suction dredging, shellfish are increasingly
+gathered from vessels at a time when the foreshore is not exposed by the tide -
+as was done recently by the appellants as referred to in para 3 above.</a></p><a name="para8">
+
+<p class="ParaHeading" style="margin-left:36.0pt">The issues between the parties</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As mentioned above, it is accepted that the Estate is the owner by
+prescription of the exclusive right to take shellfish over part of the
+Foreshore (“the Right”), but what divides the parties is the extent of the area
+over which it can claim the Right (“the Area”).</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The southern and northern boundaries of the Area are not in dispute:
+they are Wolferton Creek and Thornham Creek respectively. The disputes involve
+(i) the location of the western, seaward, boundary and (ii) issues relating to
+former sandbanks near the eastern, landward, boundary.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The dispute over the western, seaward, boundary is whether the Estate’s
+Right extends to mean low tide, mean low water spring tide, lowest astronomical
+tide, or some other mark. At first instance, Sir William Blackburne held that
+it was the mean spring low water, whereas the Court of Appeal concluded that it
+was the lowest astronomical tide mark. The appellants primarily contend that
+the western boundary should be that shown in the Lynn Deeps Fishery Order 1872
+(“the 1872 Order”), or alternatively mean low water, whereas the respondents
+support the conclusion reached by the Court of Appeal.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the issue relating to sandbanks, the appellants contend that,
+unless the respondents can establish that the Estate’s prescriptive Right extended
+to a sandbank before it became attached to the Foreshore, the Right cannot
+extend to such a sandbank simply because it becomes attached to the Foreshore.
+The respondents contend that the Right can and does so extend, and in that
+connection they rely on two arguments. The first is that the Right is a
+prescriptive right which applies to the Foreshore as it is constituted from
+time to time. The second argument is that, if this first argument is wrong, the
+respondents are entitled to invoke the doctrine of accretion, so that a
+sandbank becomes, as it were, added to the Area the subject of the Right by
+operation of law, when it becomes attached to the Foreshore. Sir William
+Blackburne and the Court of Appeal accepted both the respondents’ arguments.</a></p><a name="para12">
+
+<p class="ParaHeading" style="margin-left:36.0pt">The factual evidence and
+previous litigation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The evidence included a number of charts and maps going back to 1588,
+which, as mentioned, clearly establish that (i) the location of the low and
+high water marks moved significantly over time, and (ii) various sandbanks,
+which were initially separated therefrom, became attached to the Foreshore as
+channels became silted up. The evidence also included a number of witness
+statements, which concentrated on both relatively recent events and analyses of
+the effect of earlier proceedings or deductions made from historic documents,
+some private and some public.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The private documents include a number of leases of exclusive fishing
+rights granted by the Estate between 1857 and 1970. These leases describe the
+extent of the exclusive fishery in different terms. For instance, the 1857
+lease referred to “the extreme low water mark of the sea”, and the 1970 lease
+described the boundary as “so far as may be worked without boats … at extreme
+low water”. A 1903 lease identified the seaward boundary as the ordinary low
+water mark. Other leases were less precise as to the boundary, some simply
+referring to “the foreshore” and another to “the foreshore and so much of the
+seabed that belongs to [the lessor]”.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 1857 lease was for a term of ten years, and, during its currency, a
+successful action for trespass at the Norfolk Summer Assize was brought, for
+some reason in the name of the Estate rather than the lessee, against a Mr Rowe
+who had taken mussels from the Foreshore between high and low water - <i>Le
+Strange v Rowe </i></a><a href="http://www.worldlii.org/int/cases/EngR/1866/10.pdf">(1866) 4 F &amp; F 1048</a>. In his direction to the jury in
+that case, Erle CJ said at p 1056 that “there is evidence of what to my mind
+was a very strong act of ownership in respect to the taking of mussels”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 1872 Order was the first of a number of orders regulating fishing in
+the eastern side of the Wash. It applied for 60 years. The boundary of the exclusive
+fishery in the 1872 Order was described as “the line of ordinary low water
+mark, by the western side of the Stubborn Sand”. The chart attached to the 1872
+Order indicated that the seaward extent of the exclusive fishery vested in the
+Estate was “at least as far seaward as” mean spring low water (at least
+according to Bridge LJ in the judgment referred to in paras 21 and 22 below),
+and that that fishery included Stubborn Sand (which was by then joined to the
+Foreshore) but not Ferrier Sand (which was still separate from the Foreshore at
+that time). The Estate was involved in the drafting of the 1872 Order
+(including the attached chart), which also established the Lynn Fisheries
+Committee.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 1872 Order was made under the Sea Fisheries Act 1868 (31 &amp; 32
+Vict C45), which was enacted following a national review of fisheries, and was
+intended to bring some clarity to the existence and extent of coastal private
+fishing rights. Section 48 of the 1868 Act specifically provided that that no
+order made under that Act “shall take away or abridge any Right of Several [ie
+exclusive] Fishery … enjoyed by any Person under … Prescription or Immemorial
+Usage, without the consent of such Person”.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 1885, proceedings were brought by the Estate against the local
+authority, Lynn Corporation, with a view to establishing the southern boundary
+of the fishery - <i>Le Strange v Lynn Corporation</i>. The decision of Lord
+Coleridge CJ, in favour of the Estate, was only reported in a local newspaper,
+but we were shown a fairly full note of the judgments of the Divisional Court,
+who refused Lynn Corporation’s application for a new trial. The propositions
+which this case supports for the purpose of the instant proceedings are
+limited, but may be summarised as follows: (i) the Estate claimed its exclusive
+Right extended over Stubborn Sand but not over Ferrier Sand or other
+unconnected sandbanks, (ii) the decision effectively established the northern
+and southern boundaries of the Area the subject of the Right, and (iii) the
+proceedings illustrate how the Estate has taken steps to protect the Right over
+the Area.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The most recent lease was granted in 1970 for a term of three years to
+Mr Loose, who continues to hold over 45 years later. In 1971, a Mr Castleton
+took mussels from a location near Stubborn Sand, seaward of the mean low water
+mark, but landward of the mean low water springs mark. This led to proceedings
+against him by Mr Loose for declaratory, injunctive and financial relief. The
+proceedings were heard in the King’s Lynn County Court by His Honour Judge
+Moylan, who, in a judgment given in January 1977, found for Mr Loose. He
+decided that the Estate, as the Lords of the Manors, had acquired the ownership
+of an exclusive fishery over the Foreshore by prescription, and that the
+western, seaward, boundary of the area concerned was “at least” as far from the
+shore as the mean spring low water mark (as Mr Loose claimed). Judge Moylan’s
+decision was subsequently upheld by the Court of Appeal - see <i>Loose v
+Castleton</i> (1978) 41 P &amp; CR 19.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Judge Moylan’s judgment is only available in draft form, but it is clear
+and coherent, and shows that he had little hesitation in reaching his
+conclusion, saying that the “evidence builds up to a very strong case that for
+nearly the last four centuries … the Lords of the Manors … have acted as the
+owners and possessors of the soil of the Foreshore … and of a several fishery in
+the waters over that soil”. Some of the documents of title relating to each of
+the Manors included specific references to fisheries - in the case of one of
+the Manors as long ago as the early 12th century and in the case of the other
+in the 16th century; and, while other documents of title did not specifically
+refer to fisheries, they included rights in general terms which could have
+extended to fisheries. Judge Moylan also referred to “acts of ownership,
+possession and user” supporting the existence of the Right, on the part of the
+Lords of the Manors going back to the early 17th century, including acts
+against third parties who were fishing on the Foreshore, leases granted of the
+fishing rights claimed, and records of expenditure on preserving those fishing
+rights.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Judge Moylan went on to accept that, as “the most successful mussel beds
+are found between mean low water and low water mean springs, … the seaward
+boundary of the fishery is and always has been at least as far out as the line
+of low water mean springs wherever that may be from time to time”, which is
+what the Estate had claimed.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal upheld Judge Moylan’s decision for reasons given by
+Bridge LJ, with whom Megaw and Ormrod LJJ (both of whom gave short judgments)
+agreed. The main issue on the appeal was whether the evidence of title relating
+to the two Manors was such as to undermine Judge Moylan’s conclusion. In that
+connection, Bridge LJ said at p 30 that the evidence was sufficient to raise
+“the presumption of a lost grant dating from some period … before the end of
+the reign of Henry II”. At p 32, Bridge LJ rejected the contention that there
+was a rule of law that the seaward boundary was limited to the mean low water
+mark. On the evidence, he agreed with Judge Moylan that the boundary was mean spring
+low water, but, as Judge Moylan made clear, Mr Loose’s case was that it was “at
+least” mean spring low water.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In concluding where the seaward boundary of the Area lay, Bridge LJ’s
+reasoning was controversial. Having given two reasons which were each based on
+evidence of fact which had not been referred to, let alone specifically
+accepted, by Judge Moylan, Bridge LJ said this at p 33:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“perhaps most importantly of all,
+there was clear evidence … that the best mussel grounds … lay between the low
+water mark of ordinary tides and the low water mark of spring tides. In the
+light of that evidence, one is entitled to ask oneself the question: is it
+really to be supposed that, when the Crown was granting to favoured subjects a
+valuable right such as a several fishery relating to shellfish …, it was doing
+so by reference to an artificial line on a map - mean low water at ordinary
+tides - …, and doing so in order to deny to the favoured subjects the primary
+benefit that one would suppose was intended to be conferred on them, namely the
+benefit of exploiting the fishery where it could best be exploited? The answer
+to this question is, obviously: ‘no …’.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Successive Fishery Orders were made after the 1872 Order expired. The
+most recent is the Wash Fishery Order 1992 (SI 1992/3038) (“the 1992 Order”),
+which was made pursuant to the Sea Fisheries (Shellfish) Act 1967. So far as
+the legal effect of the 1992 Order is concerned for present purposes, it
+included in article 16 a statement that “[n]othing in this Order shall affect
+prejudicially … any right … of [the Estate]” and it also stated that “nothing
+herein contained shall be deemed to be a consent to or be construed to
+recognise … the existence of any right, power or privilege of the [Estate]”.
+However, during the currency of the negotiations leading up to the 1992 Order,
+and relying on <i>Loose v Castleton</i>,<i> </i>the Estate successfully
+persuaded the relevant Fisheries Committee and the Crown Estate that certain
+sandbanks which were part of the foreshore but had previously been detached
+from it, including Ferrier Sand, should be excluded from their respective
+jurisdictions. This caused resentment among the fishing community in the
+location, and this then led to the testing of this outcome by the appellants
+fishing in the areas described in para 3 above, and this in turn resulted in
+the instant proceedings.</a></p><a name="para24">
+
+<p class="ParaHeading" style="margin-left:36.0pt">The proceedings below</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the hearing before Sir William Blackburne, the appellants
+(unsurprisingly) accepted Judge Moylan’s finding that there was an exclusive,
+or several, fishery vested in the Estate, which had been let to Mr Loose.
+However, they concentrated on (i) an aspect which was not conclusively
+determined in <i>Loose v Castleton</i>, namely the seaward boundary, and (ii)
+another aspect which appears to have been barely touched on in <i>Loose v
+Castleton</i>, namely the sandbanks which had formerly been separated from the
+Foreshore, but which had become attached thereto.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the formerly detached sandbanks, there was no suggestion
+by the respondents that the Estate had exercised an exclusive right to take
+shellfish over any of the sandbanks which, at least on the evidence currently
+available, had previously been separated from the Foreshore, with the sole
+exception of Stubborn Sand. Thus, with the exception of Stubborn Sand, it was
+common ground that former sandbanks (such as Ferrier Sand and Blackguard Sand),
+so long as they were separated from the Foreshore, had not been treated as part
+of the exclusive fishery claimed by the respondents. It was also accepted that
+they had been available to members of the public for fishing as of right, and,
+at least in the case of some of those sandbanks, that members of the public had
+actually taken shellfish from them within living memory.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants contended at trial (i) that the seaward boundary of the
+Area was the mean low water mark, and (ii) that none of the formerly separated
+sandbanks (including Stubborn Sand) was subject to the Right. In an instructive
+judgment, Sir William concluded that (i) mean spring low water marked the
+boundary of the Area, on “pragmatic grounds” but also following <i>Loose v
+Castleton</i>, and (ii) sandbanks, which were formally separated from the
+Foreshore, became part of the Area when they became joined to the Foreshore, on
+the alternative grounds that (a) the prescriptive right extended to the
+Foreshore as it was physically constituted from time to time, or (b) if the
+prescriptive right was limited to the foreshore in its original state, it
+nonetheless extended to previously separated sandbanks as they joined to the
+foreshore, pursuant to the doctrine of accretion - </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2013/901.html">[2013] EWHC 901 (Ch)</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the appellants’ appeal and the respondents’ cross-appeal, the Court
+of Appeal held, for reasons given in a clear judgment by Moore-Bick LJ, that
+(i) allowing the cross-appeal, the seaward boundary of the Area was the lowest
+astronomical tide mark, and (ii) dismissing the appeal, Sir William was right
+about the former sandbanks being included in the Area for the reasons which he
+gave - </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/846.html">[2015] Ch 547</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On this appeal, the respondents adhere to their position below and
+contend that the Court of Appeal was right on both aspects, essentially for the
+reasons given by Moore-Bick LJ. The appellants, on the other hand, have changed
+their position, albeit only slightly. As to the seaward boundary, the
+appellants contend that it should be as marked on the chart attached to the
+1872 Order, or alternatively that it should be mean low water. So far as the
+formerly separated sandbanks are concerned, while the appellants’ basic case
+remains as it was (namely that neither ground for accepting the respondents’
+case is sustainable), they now accept that Stubborn Sand is included in the
+Area the subject of the Estate’s exclusive fishery, although they maintain their
+contention that Ferrier Sand, Blackguard Sand and any other sandbanks which
+have become joined to the foreshore within living memory, are not.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Crown Estate Commissioners have since 1961 been responsible for
+managing the Crown Estate, and therefore have an obvious interest in the
+outcome of this case. They intervene in this appeal, and support the
+appellants’ case on the issue of whether previously separated sandbanks, which
+have now attached to the foreshore, should be treated as subject to the Estate’s
+right, contending that they should not be so treated.</a></p><a name="para30">
+
+<p class="ParaHeading"><u>Prescription: the applicable legal principles</u></p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">The right to fish on the
+foreshore</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Piscary is the legal name of a right to catch and take away fish, and it
+is an example of a right over land known as a profit <span lang="EN">à</span>
+prendre (or, more simply, a profit), which is a right to go on to the land of
+another to remove items (eg gravel, timber, game). Profits, like easements (a
+different category of rights over land, which include rights of way, rights of
+light and rights of water), are recognised in common law and statute as legal
+rights known as incorporeal hereditaments. A right of piscary which does not
+limit the quantity of fish which can be taken to the requirements or benefit of
+neighbouring land, is in law known as a profit in gross, and, unlike a right of
+piscary which is so limited (or a right of way or a right to light), it is
+capable of surviving independently of any land owned by the grantee - see <i>Harris
+v Earl of Chesterfield </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1911/44.html">[1911] AC 623</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Historically, it has long been accepted that the Crown is prima facie
+the owner of the bed of the sea, and of the foreshore so far as the tide flows
+and reflows. “Prima facie” because there is nothing to prevent the Crown from
+alienating (ie transferring away its ownership of) any part of the foreshore or
+seabed, and it has done so in respect of much of the coast of England and
+Wales. However, as Sir Matthew Hale wrote in <i>De Jure Maris et brachiorum
+ejusdem </i>(1888 ed), p 11, “the common people of England have regularly a
+liberty of fishing in the sea or creeks or arms thereof, as a public common of
+piscary”. This is because, since time immemorial, the public has fished for
+fish and shellfish by right in those areas, but not in non-tidal waters.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nonetheless, as Hale went on to explain, the Crown could, by its
+prerogative, exclude the public from exercising that right, and grant the right
+of fishery to an individual or individuals “exclusive of that common liberty”.
+It has been said on a number of occasions that this prerogative power was
+irrevocably lost in 1215 following the sealing of Magna Carta - see per <i>Blackstone</i>,
+2 Bl (Comm), p 59, and, more recently, per Willes J giving the unanimous advice
+of the judges in <i>Malcolmson v O’Dea </i></a><a href="http://www.worldlii.org/int/cases/EngR/1863/867.pdf">(1863) 10 HL Cas 593</a>, 618, where he
+added that this did not affect rights “which were made … by Act of the Crown
+not later than the reign of Henry II”, ie not later than 1189, when Richard I
+succeeded him.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This advice was held by Lord Blackburn in <i>Neill v Duke of Devonshire </i>(1882)
+8 App Cas 135, 178 to “settle” the law, and it was described as “unquestioned
+law” by Viscount Haldane LC in <i>Attorney-General for the Province of British
+Columbia v Attorney-General for the Dominion of Canada </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1913/51.html">[1914] AC 153</a>, 170.
+It should also be mentioned that, while it is accepted that the Crown cannot
+create an exclusive fishery, there is no reason why Parliament cannot do so or
+authorise the executive to do so, and, as Sir William Blackburne explained at
+<a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2013/901.html">[2013] EWHC 901 (Ch)</a>, paras 15-26, it has done so in relation to many areas
+round the United Kingdom, including the Wash.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The grant of an exclusive fishery (whose technical description is, as
+already explained, somewhat confusingly, a several fishery) over a tidal area
+is not really a grant of the right to take fish from that area, as the grantee
+would presumably have that right in his capacity as a member of the public.
+Rather, it is the grant of a right to exclude anyone else from fishing over
+that area. Classically, such a right would be granted by deed, but, as with
+many rights over property, it can be acquired by long use - ie by prescription.</a></p><a name="para35">
+
+<p class="ParaHeading" style="margin-left:36.0pt">Obtaining rights by
+prescription</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As Lord Hoffmann said in <i>R v Oxfordshire County Council, Ex p
+Sunningwell Parish Council </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1999/28.html">[2000] 1 AC 335</a>, 349, “[a]ny legal system must
+have rules of prescription which prevent the disturbance of long-established de
+facto enjoyment”.<i> </i>Given that a prescriptive right is based on long use,
+the nature and extent of a prescriptive right depends on the nature and extent
+of the long-established use. As Bovill CJ put it in <i>Williams v James </i>(1867)
+LR 2 CP 577, 580, “[i]n all cases of this kind which depend upon user the right
+acquired must be measured by the extent of the enjoyment which is proved”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The quality of the use required in order to establish a prescriptive
+right to a profit or an easement is embodied in the expressions, which have
+been held to be synonymous in their meaning and effect, namely “as of right”
+and <i>nec vi, nec clam, nec precario</i> (ie not secretly, not by force, and
+not with permission). As Lord Walker put it in <i>R (Lewis) v Redcar and
+Cleveland Borough Council (No 2) </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/11.html">[2010] 2 AC 70</a>, para 30, persons claiming
+to have acquired a right by prescription “must by their conduct bring home to
+the landowner that a right is being asserted against him, so that the landowner
+has to choose between warning the trespassers off, or eventually finding that
+they have established the asserted right against him”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The period for which use must be enjoyed to establish a prescriptive
+right to a profit or an easement depends on the nature of the right claimed.
+The law in that connection is a mixture of inconsistent and archaic legal
+fictions, practical if sometimes haphazard judge-made rules, and (in the case
+of easements and some profits but not profits in gross) well-meaning but ineptly
+drafted statutory provisions.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The common law originally fixed the requisite prescription period as
+being from “time immemorial”. In due course, this came to mean from before
+1189, as discussed by Cockburn CJ in <i>Bryant v Foot </i>(1867) LR 2 QB 161,
+179-182, and as explained by Lord Hoffmann in <i>Sunningwell </i>at pp 349-350.
+Because of the impracticality of requiring evidence of use going back to the
+end of the 12th century, the judges developed the rule that use which can be
+shown to have been enjoyed as of right for 20 years continuously or else since
+before the “time of living memory” (ie there is no living witness who can speak
+to a period when it was not enjoyed) would suffice to establish a prescriptive
+right - see eg <i>Aynsley v Glover </i>(1875) 10 Ch App 1023 and <i>RCP
+Holdings Ltd v Rogers </i>[1953] 1 All ER 1029. However, such a claim could be
+defeated where it could be proved that the origin of the enjoyment must have
+been more recent than 1189 - see <i>Bury v Pope </i>(1586) Cro Eliz 118 and <i>Bowring
+Services Ltd v Scottish Widows Fund and Life Assurance Society </i>[1995] 1
+EGLR 158, 160.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Because even this somewhat more relaxed approach to common law
+prescription was regarded as imposing too rigid a test in some cases, the
+judges then developed the more flexible doctrine of lost modern grant, which
+can be relied on where there has been “upward of 20 years’ uninterrupted
+enjoyment” even if there is “direct evidence that no such grant was in fact made”
+- per Buckley LJ in <i>Tehidy Minerals Ltd v Norman </i>[1971] 2 QB 528, 552.
+However, as he also explained, the doctrine cannot be relied on if “for some
+reason, such as incapacity on the part of [the putative grantor], the existence
+of the grant is impossible”.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Meanwhile, after the judiciary had developed common law prescription and
+lost modern grant, the legislature intervened and enacted the notoriously
+poorly drafted Prescription Act 1832 (2 &amp; 3 Will 4 c71). The 1832 Act has
+not replaced the common law, but has added a further basis for claiming a right
+by prescription.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Right in this case is based on the uncontested fact that the Estate
+(and their lessees and agents) have excluded the public from at least part of
+the area over which they claim to have established a right back to a period
+before the time of living memory, and there is no evidence to suggest that the
+Right could not have been granted before 1215. No specific reliance has been
+placed by the respondents on the 1832 Act. This may be because it is assumed
+that the present case involves a profit in gross (as, by virtue of the words
+“the occupiers of the tenement in respect whereof the same is claimed” in
+section 5, it appears that that statute does not extend to a profit in gross).
+Or it may be because it is assumed that the 1832 Act does not take matters
+further than common law prescription, in the light of the effect of Magna
+Carta, as described in paras 33 and 34 above. Lost modern grant was not relied
+on, presumably for this latter reason. Accordingly, it is contended by the
+respondents (and not challenged by the appellants) that the Right is founded on
+common law prescription.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the light of the arguments in this case, it is worth quoting another
+passage in the advice of Willes J in <i>Malcolmson. </i>At p 618, he said that
+once a prescriptive right is established “the result is, not that you say, this
+is a usurpation, for it is not traced back to the time of Henry II, but that
+you presume that the fishery being reasonably shown to have been dealt with as
+property, must have become such in due course of law, and therefore must have
+been created before legal memory”. In other words, because the several fishery
+is treated today as having been the subject of a valid grant at some point
+before living memory, the legal fiction that the right is treated as granted
+before 1189 should not be treated as more than a metaphor. As Lord Mansfield
+said in <i>Jones v Randall</i> </a><a href="http://www.worldlii.org/int/cases/EngR/1774/57.pdf">[1774] Lofft 384</a>, 385, “[t]he law would be a
+strange science … if … we must go to the time of Richard I … and see what is law”.</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">The extent of a prescriptive
+right</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>When considering the arguments relating to both the seaward boundary and
+the formerly separated sandbanks, it is vital to bear in mind that the basis
+upon which the Estate claims to have obtained its right of exclusive fishing is
+by prescription. It is therefore appropriate to consider the precise nature of
+the inquiry involved in an exercise of establishing the nature and extent of a
+prescriptive right.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is true that a prescriptive right can be said to be based on a
+notional grant, but that grant is not merely notional: it is fictional. The
+essential point is that such a right is based not on an imagined document, but
+on actual use “as of right”, namely use which is such as to “bring home to the
+landowner that a right is being asserted against him”, as Lord Walker said in
+the <i>Redcar and Cleveland Borough Council</i> case at para 30. In other
+words, in order to identify the nature and extent of the right obtained by
+prescription, one has to examine the actual use as of right upon which it is
+said to be based. The correct question is therefore not what the notional grant
+would have been likely to be, let alone what would have been the intention of
+the notional grantor; it is what is the extent of the user as of right for the
+requisite period. (In many cases, of course, these questions will produce the
+same answer).</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus, as is reflected by what was said by Bovill CJ in <i>Williams v
+James</i>,<i> </i>the “general rule” is accurately set out in <i>Gale on Easements
+</i>(19th ed (2012), para 9-03, discussing rights of way, but it is applicable
+to any right), namely “where a right of way is acquired by user, the extent of
+the right must be measured by the extent of the user”. Having said that, the
+extent of the right obtained by prescription has to be established bearing in
+mind practical reality. This is exemplified by the <i>unum quid </i>rule which
+was explained by Lord Blackburn (who said that it was “as much the law in a
+Scotch as in an English Court”) in <i>Lord Advocate and the Trustees of the
+Clyde Navigation v Lord Blantyre </i>(1879) 4 App Cas 770, 791-792 in these
+terms:</a></p><a name="para46">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“[A]ll that tends to prove
+possession as owners of parts of the tract tends to prove ownership of the
+whole tract; provided that there is such common character of locality as would
+raise a reasonable inference that if the barons possessed one part as owners
+they possessed the whole, the weight depending on the nature of the tract, what
+kind of possession could be had of it, and what kind of possession was proved.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This was said in connection with possession and ownership of land, but
+it applies equally to rights over land. Thus, the rule was specifically applied
+to a prescriptive claim for a several fishery in <i>Neill v Duke of Devonshire</i>,
+where at p 151, Lord Selborne LC said that “[i]f the fishery of the whole river
+… was what has sometimes been called a <i>unum quid</i>, there can be no doubt that
+evidence of acts<span style="font-size:14.0pt"> </span>of ownership and
+enjoyment in any part of it would be applicable to the whole”. As Lord O’Hagan
+emphasised at p 165, reflecting what Lord Blackburn had said in <i>Blantyre</i>,
+whether evidence of long enjoyment of fishing over one part of a river will
+extend to another part, or to other parts, “must of course vary according to
+circumstances”, and “[w]hat may demonstrate it, in one case, may be quite
+inadequate for that purpose, in another”.</a></p><a name="para47">
+
+<p class="ParaHeading" style="margin-left:36.0pt">A shifting prescriptive right</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Another issue which should be mentioned in relation to both the seaward
+boundary and the sandbanks in the present case is whether the property over
+which a prescriptive right is established can change. The concept of a
+conveyance of, or a grant of a right over, a shifting, or fluctuating, area of
+land is not offensive to any principle of property law, provided that the land
+in question can be ascertained at any time with reasonable precision.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As Sir Robert Megarry V-C pointed out in <i>Baxendale v Instow Parish
+Council </i>[1982] Ch 14, 22, the contention that there cannot be such a thing
+as a shifting freehold is undermined by what is stated in no less an authority
+than <i>Coke on Littleton </i>- see Co Litt 48b, p 494 - which plainly supports
+the argument that what was conveyed by a particular deed was the foreshore as
+it existed from time to time. As Sir Robert went on to hold, and as seems
+supported by at least the majority of the court in <i>Scratton v Brown </i></a><a href="http://www.worldlii.org/int/cases/EngR/1825/224.pdf">(1825) 4 B &amp; C 485</a>, when it comes to construing a conveyance of (or indeed a deed
+of grant over) the foreshore, it is a matter of interpretation whether what is
+conveyed (or granted) is the foreshore (or a right over the foreshore) at the
+time of the document or the foreshore as it exists from time to time.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If a right over land, the identity of which shifts, can be the subject
+of an express grant, then it appears to us to follow that, as has been assumed
+on all sides below, there is no reason why that should not apply equally to a
+right over land obtained by prescription.</a></p><a name="para50">
+
+<p class="ParaHeading" style="margin-left:36.0pt">Presumptions in the case of
+prescriptive rights against the Crown</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is well established that, unlike other instruments, grants by the
+Crown are not construed against the grantor (<i>contra proferentem</i>). Crown
+grants are “construed most strictly against the grantee and most beneficially
+for the Crown, so that nothing will pass to the grantee but by clear and
+express words” - per Lord Birkenhead LC in <i>Viscountess Rhondda’s Claim </i>[1922]
+2 AC 339, 353. The reason for this is that “the prerogatives … of the Crown
+being conferred upon it for great purposes, and for the public use, it shall
+not be intended that such prerogatives … are diminished by any grant, beyond
+what such grant by necessary and unavoidable construction shall take away” -
+per Sir William Scott in <i>The Rebeckah </i></a><a href="http://www.worldlii.org/int/cases/EngR/1799/645.pdf">(1799) 1 Ch Rob 227</a>, 230. This
+principle has been more recently recognised by Lewison J in <i>Crown Estate Comrs
+v Roberts </i>[2008] 2 P &amp; CR 255, paras 78-80.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the Court of Appeal rightly said, this rule has no part to play in a
+case such as this, where the right concerned was not granted by a document, but
+arises as a result of long use. However, in our view, the principle upon which
+the rule is based can, for what it is worth, properly be prayed in aid by the
+Crown in relation to a claim based on prescription, and therefore by the
+appellants in this case. It appears to us that that basic principle is that a
+court should not be too easily persuaded that the Crown has been deprived of a
+property or a right, given that the property or right is held for the public
+good. Therefore, in cases where it would otherwise be quite unclear whether a
+prescriptive right obtained against the Crown extended to certain property or
+certain rights, the principle may properly be invoked to justify the conclusion
+that it does not so extend. In the great majority of cases of prescription, as
+in most cases of express grant, this principle will take matters no further, as
+it is only where the extent of the right would otherwise be really unclear that
+the principle can come into play.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is, we would add, some force in the point that this principle
+should be given particular weight in relation to a prescriptive several
+fishery, given the importance accorded to the public right to fish as long ago
+as 1215. As Lewison J said in <i>Roberts </i>at para 115, “[g]iven the
+importance of the fishing industry both in ancient times and also today several
+fisheries were not popular”.</a></p><a name="para53">
+
+<p class="ParaHeading"><u>Conclusions on the issues in this appeal</u></p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">Introductory</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants have been realistic in accepting that the Estate has a
+several fishery on the Foreshore, in the light of the findings and judgments in
+the earlier cases, as well as the leases and the oral evidence before Sir
+William Blackburne. Both parties have been realistic in accepting that the
+location of the seaward boundary of the Area subject to the fishery has not
+been determined in previous proceedings (in <i>Loose v Castleton</i>, Mr Loose
+contended that it was “at least as far out as the line of low water mean
+springs”, which Judge Moylan accepted). Equally, they have been realistic in
+accepting that the issue whether the fishery extended to previously unattached
+sandbanks was not decided in previous proceedings.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So far as the two issues on this appeal, the seaward boundary and the
+previously unattached sandbanks, are concerned, most of the relevant evidence
+had already been agreed before, or found by, Judge Moylan in <i>Loose v
+Castleton</i>. However, there was further and more detailed evidence adduced
+before Sir William Blackburne, particularly relating to the location of the
+Estate’s fishery at different times, fishing methods and tidal movements.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The leases granted between 1857 and 1970 obviously support the Estate’s
+contention that it owned a several fishery, but, when it comes to identifying
+its eastern and western boundaries, they are imprecise and inconsistent. The
+Fishery Orders are expressly not intended to determine private rights. The maps
+and charts established facts described in paras 5 to 7 above, but are not of
+much further help. As to the more recent factual evidence, there were occasions
+when the appellants or other fishermen negotiated with representatives of the
+Estate or Mr Loose to take cockles from Ferrier Sand. However, the negotiations
+were quite insufficient in terms of frequency, period of time, and express
+terms to give rise to any arguable inference of a public acceptance of the
+existence of a several fishery over Ferrier Sand (and we doubt whether they
+could give rise to a several fishery in any event).</a></p><a name="para56">
+
+<p class="ParaHeading" style="margin-left:36.0pt">The seaward boundary: a
+fluctuating boundary?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As mentioned above, it is rightly common ground that the Estate has a
+prescriptive exclusive Right to take cockles and mussels within an Area of the
+foreshore between Wolferton Creek to the south and Thornham Creek to the north.
+It is clear that the seaward, western, extent of the boundary of that Area must
+be a low water mark. The first question is, logically, whether that boundary is
+a fixed boundary, or whether it is one which fluctuates with the relevant low
+mark. The second question is which of the various suggested low water marks is
+the appropriate boundary.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So far as the first question is concerned, we consider that the
+assumption which was made below was correct, and that the seaward boundary of
+the Area the subject of the exclusive Right to take shellfish fluctuates with
+the passage of time as the low water mark moves. The Estate has exercised a
+prescriptive exclusive Right to take shellfish from the foreshore for a
+substantial period, during which the low water mark fluctuated to a significant
+extent over time, in circumstances where the evidence clearly establishes that
+the only way in which the shellfish were gathered was by individuals walking
+from the land when the tide was out. It is in those circumstances inherently
+very likely, indeed inevitable in terms of practical reality, that the putative
+Right would have been exercised over an area which was defined, or limited, by
+a shifting low tide mark. Thus, based on the inherently probable nature and
+extent of the actual exercise of the putative Right to fish by or on behalf of
+the Estate, we conclude that the boundary of the Area would have been low water
+as it was from time to time.</a></p><a name="para58">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is not an application of the <i>unum quid </i>rule, but it involves
+an approach roughly akin to it. The natural unit of property so far as the
+exercise of the Right is concerned is the stretch of foreshore between high
+water and low water, and, as the land comprised within that unit moves with the
+shifting tides, one would expect, at least in the absence of good reason to the
+contrary, the exercise of the putative right to move correspondingly. As Sir
+Robert Megarry put it in <i>Baxendale </i>at p 25, “one would expect sea-grounds,
+oyster-layings, shores and fisheries to follow the sea as it advances or
+retreats”.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Further, and importantly, it is not as if the existence of such a
+fluctuating right would have detrimentally affected any other interests, and in
+particular any public interests, of any significant value. We accept that the
+public would have enjoyed the right to take shellfish seaward of a low water
+mark boundary, and that right would be lost as, and to the extent that, the
+boundary shifted seaward. However, such a right would have been of no value, as
+nobody could have got access to the shellfish below the low water mark on foot,
+and, as explained in para 9 above, access from the sea for that purpose is of
+comparatively recent origin.</a></p><a name="para60">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In these circumstances, we cannot accept the appellants’ primary
+contention that the boundary of the Area is the low tidemark shown on the chart
+attached to 1872 Order, as this would mean a fixed seaward boundary to the
+Area. In any event, as already mentioned, the 1872 Order was made under
+legislation which provided in terms that it was not intended to delimit the
+extent of private fisheries (even though it is fair to say that there is some
+evidence which could be said to suggest that the tidemark shown on the chart
+was understood by some people at the time to identify the boundary of the
+Right).</a></p><a name="para61">
+
+<p class="ParaHeading" style="margin-left:36.0pt">The seaward boundary: which low
+water mark?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the second issue, namely the identity of the low water boundary of
+the Area, it is well established that the landward limit of the foreshore is
+the mean high water mark. In <i>Attorney-General v Chambers </i></a><a href="http://www.worldlii.org/int/cases/EngR/1854/733.pdf">(1854) 4 De G M &amp; G 206</a>, 218, Lord Cranworth LC (who was assisted by Alderson B and Maule
+J) said that “Lord Hale gives as his reason for thinking that lands only
+covered by high spring tides do not belong to the Crown, that such lands are
+for the most part dry and maniorable”. Lord Cranworth then said that “the
+reasonable conclusion is, that the Crown’s right is limited to land which is
+for the most part not dry or maniorable”. However, as is common ground between
+all parties to this appeal, there is no equivalent consensus as to where the
+seaward limit of the foreshore is located. Further, the reasoning of Lord
+Cranworth in the passage just cited does not cast much, if any, light so far as
+the seaward limit of the foreshore is concerned.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63">63.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Accordingly, the selection of the relevant low water mark which provides
+the boundary of the Area is a relatively open question.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Not without some hesitation, we have come to the conclusion that the
+most satisfactory low water mark to select as the appropriate seaward boundary
+of the Area the subject of the Right is the lowest astronomical tide. That
+conclusion appears to us to produce the least arbitrary result and to be
+consistent with the <i>unum quid </i>principle (discussed in paras 46 and 47
+above). Selecting the most extreme low water mark means that all parts of the
+Foreshore which are at any time uncovered by the sea are included in the Area,
+whereas any other selection involves some of those parts being excluded from
+the Area. And, as we see it, the <i>unum quid </i>principle would at least tend
+to suggest that one should assume, at least in the absence of good reasons to
+the contrary, that the Right was being exercised in respect of the whole of the
+Foreshore, as it was from time to time uncovered by the sea.</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Further, the alternative marks proposed (whether mean spring low water,
+as the Judge selected, or mean low water as the appellants suggested) are mean
+low water marks. As Moore-Bick LJ said, unlike lowest astronomical tide, which
+is an actual (if rare) tide mark, they would therefore involve taking an
+artificial mark, although it is fair to say that it could be seen from a chart.
+In addition, it seems to us that the lowest astronomical tide is consistent
+with the approach of Popham CJ in <i>Sir John Constable’s Case </i>and <i>Sir
+Henry Constable’s Case </i>as translated and discussed by Moore in <i>A History
+of the Foreshore and the Law Relating Thereto</i> (1888), pp 233-237. The
+passage in the judgment, quoted at pp 235-237, suggests that the correct mark
+is where “the sea does not ever ebb” or “the lowest ebb”. The two cases were
+respectively concerned with the extent of a manor and the right to take a
+wreck, so we would accept that they are only of indirect assistance.</a></p><a name="para65">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We were initially impressed with the appellants’ point that lowest
+astronomical tide was an unattractive boundary to select, as it occurs only
+once in every 18.6 years, which significantly exceeds the average life of a
+cockle or mussel. At first sight, at any rate, that renders the lowest
+astronomical tide a rather unrealistic mark to take. However, it is important
+to bear in mind that, until recently, cockles and mussels could only be
+gathered from the shore when the tide was out, and could not be gathered from a
+ship. Accordingly, nobody would have been able to take the cockles and mussels which
+were just on the shore side of lowest astronomical tide, except once every 18.6
+years. It is only with the advent of suction dredging and other similar
+techniques that anyone could gather such cockles and mussels.</a></p><a name="para66">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We do not agree with the reasoning of Moore-Bick LJ (which was
+understandably based on the likely notional grant, following the wrong approach
+in <i>Loose v Castleton </i>at p 33, rather than the probable actual use), but
+we agree with his conclusion that the seaward boundary of the Area subject to the
+Right is the lowest astronomical tide mark from time to time.</a></p><a name="para67">
+
+<p class="ParaHeading" style="margin-left:36.0pt">The previously separated
+sandbanks: prescription</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para67"></a><a name="para68">68.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We turn to the respondents’ contention that sandbanks, previously
+separated from the foreshore, and thus not forming part of the Area subject to
+the Right, nonetheless become part of the Area as a matter of prescription when
+they become attached to the foreshore. In this connection, the respondents’
+first argument is that, although the Estate did not gather cockles or mussels
+from sandbanks such as Ferrier Sand and Blackguard Sand, when they were
+separated from the Foreshore, the nature of the Estate’s prescriptive right is
+such that it automatically extended to those sandbanks as soon as they became
+attached to the Foreshore around 50 and 20 years ago respectively.</a></p><a name="para68">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para68"></a><a name="para69">69.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Given that the Estate is claiming a prescriptive Right, this argument
+must be based on the proposition that, over a long period, sandbanks which have
+been close to, but detached from, the Foreshore have from time to time become
+joined to the Foreshore as channels have become silted up, and, as and when
+this happened, the Estate effectively extended the collecting of shellfish to
+that former sandbank. The Court of Appeal accepted this argument, on the basis
+of assessing the likely terms of the hypothetical grant which would have been
+made (applying Bridge LJ’s faulty analysis in <i>Loose v Castleton </i>at p 33)
+- see para 26 of Moore-Bick LJ’s judgment. However, as already explained the
+proper basis for establishing the nature or extent of a prescriptive right is
+not by assessing the likely terms of a fictional notional grant, but by
+assessing the extent of the actual use of the putative right established by the
+evidence.</a></p><a name="para69">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para69"></a><a name="para70">70.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondents maintain that the Court of Appeal’s conclusion was
+nonetheless correct and, at any rate at first sight, they can derive
+substantial support for their argument from the reasoning in paras 58-60 above,
+which justifies the conclusion that the seaward boundary of the Area
+fluctuates. Although we acknowledge that that argument has some force in the
+present context, we have reached the conclusion that the evidence does not
+establish that the Estate’s prescriptive exclusive Right extends to sandbanks
+which were not previously joined to the Foreshore, as and when they become so
+attached.</a></p><a name="para70">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para70"></a><a name="para71">71.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For present purposes, there are two distinctions of significance between
+the notion that the low tide mark boundary of the Foreshore fluctuates and the
+notion that attaching sandbanks become part of the Foreshore. First, the low
+tide mark will, presumably, at least normally, shift relatively gradually,
+whereas, although the silting up of the channel concerned will be gradual, the
+attachment of the whole of a previously detached sandbank to the Foreshore will
+happen at one moment. It is true that a channel between a sandbank and the
+foreshore will silt up gradually, but the question whether a sandbank has
+become joined to the foreshore must surely be tested by reference to a
+particular point in time, and we would have thought that it would be when the
+tide has receded past the point where the sandbank has or could become joined
+to the foreshore - ie low tide. In that connection, it was implicitly accepted
+by the respondents that there would be a specific point at which a former
+sandbank would become joined to the foreshore: they did not suggest, for
+instance, that the prescriptive right would attach to a sandbank at low tide
+but not at high tide.</a></p><a name="para71">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para71"></a><a name="para72">72.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, and particularly importantly in this context, the public will
+have had the right to take fish (including shellfish) from such a sandbank, at
+least until the moment when it becomes attached to the Foreshore. In those
+circumstances, at least in the absence of any specific evidence that the Estate
+in fact took shellfish and excluded the public from doing so, as of right from
+sandbanks as they became attached to the Foreshore, we do not think that it
+would be right to assume that the Estate did in fact behave in this way.</a></p><a name="para72">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para72"></a><a name="para73">73.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Unlike the position in relation to the fluctuating low tide mark, it is
+by no means plain or obvious that, once a sandbank became attached to the
+Foreshore, the Estate would have exercised an exclusive Right to take shellfish
+from that former sandbank. After all, up to that moment, the public had had a
+right, and, at least in some cases, had exercised the right, to take shellfish
+from that sandbank. In the absence of any evidence that such a thing had ever
+happened, it appears to us wrong in principle to assume that what the Estate
+contends might have happened would have happened, let alone that it did happen.
+Indeed, given that, over at least the past 150 years or so, members of the
+public took shellfish from the Area which was subject to the Right (at least on
+the occasions giving rise to these and the earlier proceedings), it appears to
+us unlikely that local fishermen would have been prepared to accept the Estate
+maintaining (or, as they would have seen it, extending) its exclusive Right to
+fish over former sandbanks which were previously subject to a public right to
+fish just because they had become attached to the Foreshore. It is also
+relevant to mention that in his case in <i>Loose v Castleton</i> Mr Loose did
+not contend that Ferrier Sand was included within the Area.</a></p><a name="para73">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para73"></a><a name="para74">74.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondents argue that the fact that it is common ground that the
+Estate’s several fishery extends to Stubborn Sand is inconsistent with this
+conclusion. We do not agree. For instance, it may be that, throughout the
+period during which the Estate has been taking shellfish from the Area, that
+activity extended to Stubborn Sand, even before it became attached to the
+Foreshore. Over and above this, if, as seems to have been the case, Stubborn
+Sand has been joined to the Foreshore since before the time of living memory,
+it would, as we see it, appear to follow that the Estate would have acquired
+the right to take cockles and mussels from Stubborn Sand by prescription in any
+event.</a></p><a name="para74">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74"></a><a name="para75">75.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus, in summary, we consider that the courts below were wrong on this
+point. We accept that there is force in the respondents’ contention that, as a
+sandbank becomes attached to the Foreshore, it should be treated as part of the
+Area subject to the Right in accordance with the notion that the foreshore is a
+shifting piece of property - in effect a <i>unum quid</i>. However, it appears
+to us that the existence of a public right to fish over that sandbank, a highly
+relevant circumstance, serves to negative the respondents’ contention, at least
+in the absence of further supportive evidence - and there is none.</a></p><a name="para75">
+
+<p class="ParaHeading" style="margin-left:36.0pt">The previously separated
+sandbanks: accretion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para75"></a><a name="para76">76.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The alternative basis upon which the respondents rest their contention
+that previously unattached sandbanks become incorporated within the Area the
+subject of the Estate’s prescriptive exclusive Right is through the process of
+accretion. Thus, given (as we have just indicated) that the nature of the
+prescriptive Right is not such as to extend automatically to those sandbanks,
+the argument is that they are, as a matter of law, nonetheless added to the
+Area as a result of the doctrine of accretion.</a></p><a name="para76">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para76"></a><a name="para77">77.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Whether one is concerned with the ownership of, or rights over, land,
+the principle that land can increase (or indeed decrease) as a result of
+accretion is well established. In the Privy Council, Lord Wilberforce described
+accretion in <i>Southern Centre of Theosophy Inc v State of South Australia</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1981/1981_41.html">[1982] AC 706</a>, 716 as:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“a doctrine which gives
+recognition to the fact that where land is bounded by water, the forces of
+nature are likely to cause changes in the boundary between the land and the
+water. Where<i> </i>these changes are gradual and imperceptible (a phrase
+considered further below), the law considers the title to the land as
+applicable to the land as it may be so changed from time to time. This may be
+said to be based on grounds of convenience and fairness. Except in cases where
+a substantial and recognisable change in boundary has suddenly taken place (to
+which the doctrine of accretion does not apply), it is manifestly convenient to
+continue to regard the boundary between land and water as being where it is
+from day to day or year to year. To do so is also fair. If part of an owner’s
+land is taken from him by erosion, or diluvion (ie advance of the water) it
+would be most inconvenient to regard the boundary as extending into the water:
+the landowner is treated as losing a portion of his land. So, if an addition is
+made to the land from what was previously water, it is only fair that the
+landowner’s title should extend to it. The doctrine of accretion, in other
+words, is one which arises from the nature of land ownership from, in fact, the
+long-term ownership of property inherently subject to gradual processes of
+change.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78">78.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondents argue that accretion applies to the former sandbanks in
+this case, because the channels formerly separating those sandbanks from the
+Foreshore only gradually and imperceptibly became silted up, and it was as a
+result of such gradual silting up that they became attached to the Foreshore.
+Although that argument was accepted by Sir William Blackburne and the Court of
+Appeal, we consider that it is wrong. In a nutshell, the argument relies on the
+“gradual and imperceptible” process pursuant to which the boundary of the
+further land allegedly changes, whereas the doctrine of accretion only applies
+where the actual change to the boundary is “gradual and imperceptible”. As
+explained in para 71 above, it seems to us clear that there is a specific
+moment in time when the whole of a sandbank becomes attached to the foreshore,
+and therefore the addition of the sandbank is not “gradual and imperceptible”
+as that expression was used by Lord Wilberforce. We believe that this follows
+from what he said in the passage quoted above, especially in his reference to
+“changes in the boundary” which are “gradual and imperceptible”, and his
+specific exclusion of cases where “a substantial and recognisable change in
+boundary has suddenly taken place”.</a></p><a name="para78">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78"></a><a name="para79">79.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue was specifically addressed in the judgment of Griffith CJ in
+the High Court of Australia in a passage in his judgment in <i>Williams v Booth
+</i></a><a href="http://www.austlii.edu.au/au/cases/cth/HCA/1910/12.html">(1910) 10 CLR 341</a>, 350, with which we agree:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I do not think that any case of
+accretion is made out. The law as stated by <em>Blackstone</em> (2 Bl Com, p
+262), is that ‘if this gain be by little and little, by small and imperceptible
+degrees, it shall go to the owner of the land adjoining. For <i>de minimis non
+curat lex</i>. ... But, if the alluvion or dereliction be sudden or
+considerable, in this case it belongs to the King; for, as the King is Lord of
+the sea, and so owner of the soil while it is covered with water, it is but
+reasonable he should have the soil, when the water has left it dry.’ The word
+‘imperceptible’ refers to the slowness of the additions to the soil. Assuming,
+then, that a moment has arrived at which the mouth of the lagoon became
+permanently closed, the suggested accretion is not an addition of an
+imperceptible quantity of soil to the plaintiff’s land, but of an area of many
+acres occurring at the moment of permanent closure, so that, according to the
+plaintiff’s contention, on one day the land belonged to the King as Lord of the
+sea and on the next to the plaintiff. This is a sudden and considerable
+alluvion or dereliction, and does not operate to confer a title by accretion.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para80">80.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In other words, there is a difference in kind between the gradual
+extension of one recognised bank and the joining up of two formerly distinct
+banks. It is true that the two cases just referred to were concerned with
+ownership of land rather than prescriptive rights over land, but we can see no
+reason in principle or practice why the rules relating to accretion should not
+apply equally to rights over land as they do to ownership of land: one would
+expect them to march together. Such a view derives support from <i>Mercer v
+Denne </i></a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1905/112.html">[1905] 2 Ch 538</a>, especially per Sterling LJ at p 582.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para81">81.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We were pressed by the respondents with the argument that, if we held
+that accretion did not apply to Ferrier Sand and other formerly separated
+sandbanks, the corollary must be that land forming part of the original
+Foreshore which becomes detached as a separate sandbank would nonetheless
+remain part of the Area subject to the Estate’s Right of several fishery. We
+accept that is indeed the corollary, but we see nothing surprising about it. As
+Ladd J pithily said in an Iowan case <i>Holman v Hodges </i>84 NW (1901) 950,
+952 (a decision cited with approval in the Iowan Supreme Court in <i>State v
+Sorensen </i>436 NW 2d 358 (1989) and - albeit on a different point - by
+Brennan J in the US Supreme Court decision in <i>Nebraska v Iowa </i>406 US 117
+(1972)):</a></p><a name="para81">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“There is no more reason for
+saying the state loses title to an island when connected by accretions to the
+shore than to say title to an islet formed at one side of the thread in an
+unnavigable stream is lost when connected with another’s land on the opposite
+side.”</p>
+
+<p class="ParaHeading"><u>Conclusion</u></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para81"></a><a name="para82">82.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In these circumstances, we would dismiss the appellants’ appeal in so
+far as it relates to the seaward, western, boundary of the Area, but we would
+allow their appeal in relation to previously detached sandbanks.</a></p><a name="para82">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para82"></a><a name="para83">83.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It would be helpful if we were able to define the precise extent of the
+Area over which the Estate’s several fishery should be enjoyed. However, we
+suspect that that would only be possible if the parties were able to agree it
+following receipt of this judgment. In the absence of agreement, there may be
+issues such as the precise identification of the boundary between Stubborn Sand
+and Ferrier Sand. Accordingly, if agreement cannot be reached, it appears to
+us, at least as at present advised, that we should remit the proceedings to Sir
+William Blackburne, or another judge of the Chancery Division, to enable the
+precise extent of the Area to be identified.</a></p><a name="para83">
+
+</a></div><a name="para83">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/14.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

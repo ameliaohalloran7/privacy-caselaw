@@ -1,0 +1,1584 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>B (Algeria) v Secretary of State for the Home Department [2018] UKSC 5 (8 February 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.legds
+	{mso-style-name:legds;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      B (Algeria) v Secretary of State for the Home Department [2018] UKSC 5 (8 February 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/5.html</i>
+<br>Cite as: 
+[2018] UKSC 5,
+
+[2018] INLR 315,
+
+[2018] WLR(D) 81,
+
+[2018] AC 418,
+
+[2018] 2 All ER 759,
+
+[2018] HRLR 10,
+
+[2018] 2 WLR 651
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/5.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011212301/casereport_c3006956-74bb-46a0-8d4a-0f46f4926388/html">[2018] 2 WLR 651</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011212301/casereport_4592720f-9e67-4755-955e-22f8818d37c4/html">[2018] AC 418</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2011212301/casereport_7e474786-7bc6-4c7b-9cf2-f91c83cde8a0/html">[2018] WLR(D) 81</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<center><a href="/uk/cases/UKSC/2018/5.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal" style="text-align:justify"><b><i><span style="color:red">THE
+COURT ORDERED that no one shall publish or reveal the name or address of the
+Respondent&nbsp; who is the subject of these proceedings or publish or reveal any
+information which would be likely to lead to the identification of the
+Respondent or any member of his family in connection with these proceedings.</span></i></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 5</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/445.html">[2015] EWCA Civ 445</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">B (Algeria) (Respondent) <i>v</i> Secretary of State
+for the Home Department (Appellant)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">8 February 2018</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 14 and 15
+November 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Robin Tam QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Belinda McRae</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The Government
+  Legal Department)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Stephanie Harrison
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Anthony Vaughan</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Birnberg Peirce)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:99.75pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener (Bail
+  for Immigration Detainees (BID))</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Fordham QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Laura Dubinsky</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Allen &amp; Overy LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">LORD LLOYD-JONES: (<span style="text-transform:none">with
+whom Lady Hale, Lord Mance, Lord Hughes and Lord Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question raised by this appeal is whether there exists a power under
+the Immigration Act 1971 (“the 1971 Act”) to grant immigration bail to a person
+who can no longer be lawfully detained.</a></p><a name="para1">
+
+<p class="ParaHeading">Factual Background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B has a long and complex immigration history which it is necessary to
+refer to in some detail. He has been in the United Kingdom since 1993. Between
+5 February 2002 and 11 March 2005, he was detained under section 21 of the
+Anti-terrorism, Crime and Security Act 2001. He appealed to the Special Immigration
+Appeals Commission (“SIAC”) against that decision using a false identity. The
+relevant provisions of the 2001 Act were repealed by the Prevention of
+Terrorism Act 2005 (“the 2005 Act”) following the decision of the House of
+Lords in <i>A and others v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2004/56.html">[2004] UKHL 56</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2004/56.html">[2005] 2 AC 68</a>. B was then released from detention on 11 March 2005,
+and made subject to a control order under the 2005 Act. He was admitted to the
+Royal Free Hospital on the 12 March 2005 as a voluntary psychiatric patient
+where he remained, save for one night, until 11 August 2005.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 11 August 2005 B was notified, in accordance with regulations under
+section 105 of the Nationality Immigration and Asylum Act 2002, of the
+Secretary of State’s decision to make a deportation order against him on
+national security grounds, under sections 3(5) and 5(1) of the 1971 Act. B was
+arrested and detained under immigration powers contained in paragraph 2(2) of
+Schedule 3 to the 1971 Act “pending the making of the deportation order”. He
+was detained at HMP Woodhill and, the following day, transferred to HMP Long
+Lartin. On 17 August 2005, B appealed to SIAC against that decision, once again
+using the same false identity. B’s grounds of appeal contended, <i>inter alia</i>,
+that his removal to Algeria would be in breach of the United Kingdom’s
+obligations under the UN Refugee Convention and unlawful as incompatible with
+his rights under article 3 of the European Convention on Human Rights and
+Fundamental Freedoms (“ECHR”).</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Secretary of State has never disputed that, if deported to Algeria,
+B would be at real risk of treatment incompatible with article 3 ECHR and that
+only with specific individual assurances from the Algerian government could he
+be lawfully and safely removed to Algeria. On 11 May 2006, Her Majesty’s
+Government informed the Algerian Government that it proposed to deport B and
+requested certain information about him. On 16 May 2006, specific assurances as
+to the treatment of B were sought from Algeria. On 10 July 2006,<i> </i>the
+Algerian authorities confirmed that the details of his identity given by B were
+those of an individual present in Algeria.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 17 July 2006, SIAC heard the national security case in B’s appeal
+against the Secretary of State’s decision to make a deportation order.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 12 January 2007, pursuant to rule 39(1) of the Special Immigration
+Appeals Commission (Procedure) Rules 2003, SIAC directed B to provide specified
+particulars of his true identity and to consent to provide a non-invasive
+sample for the purposes of DNA testing. B consented to provide a DNA sample but
+refused to provide the particulars of his true identity. On 19 July 2007, SIAC
+ordered B to provide details of his true identity. A penal notice was attached
+to the order.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 30 July 2008, SIAC gave judgment in the national security case
+against B, holding that the Secretary of State’s case on the risk to national
+security had been made out. SIAC concluded that, notwithstanding his mental
+health difficulties, B had played a leading role in facilitating communications
+for Algerian terrorists, as well as being responsible for the procurement of
+false documentation and high technology equipment. The hearing of the case on
+safety on return did not take place at that time because of the unresolved
+question of B’s true identity.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 18 August 2009, the Secretary of State applied to SIAC for an order
+that B be committed to prison for contempt for disobeying the order of 19 July
+2007. Following an adjournment in the hope of resolving the issue of B’s
+identity, the committal application was eventually heard on 11 October 2010. In
+its judgment delivered on 26 November 2010 SIAC held that B had deliberately
+and contumeliously disobeyed its order and, taking into account all the
+circumstances including that B’s mental illness may have reinforced his
+decision not to comply with SIAC’s order, imposed a prison sentence of four
+months. The operation of the order was suspended until the final determination
+of any appeal. On 21 July 2011, the Court of Appeal by a majority dismissed his
+appeal (<i>B (Algeria) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2011/828.html">[2011] EWCA Civ 828</a>). B appealed to the Supreme Court which on 30 January 2013
+dismissed the appeal (<i>B (Algeria) v</i> <i>Secretary of State for the Home
+Department </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/4.html">[2013] UKSC 4</a>;<i> </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/4.html">[2013] 1 WLR 435</a>). B then served his
+sentence of 4 months’ imprisonment in HMP Belmarsh and was released on 5 April
+2013.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 11 April 2006, SIAC had decided in principle that B could be granted
+bail. However, save for one night, throughout the period from 11 March 2005 B
+remained in either prison or hospital until his discharge from hospital to bail
+accommodation on 18 January 2011. B was voluntarily readmitted to hospital in February
+2011 and on further occasions thereafter. Following his release from prison
+after serving his sentence for contempt, two sets of bail conditions were set
+by SIAC to run in parallel depending on whether B was an in-patient at a
+psychiatric hospital or residing at his bail accommodation.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 23 January 2014, B applied to vary his bail conditions which, he
+maintained, constituted an unlawful deprivation of liberty. At a hearing on 28
+and 29 January 2014 SIAC considered the application of the <i>Hardial Singh </i>principles
+(<i>R v Governor of Durham Prison, Ex p Hardial Singh </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/1983/1.html">[1984] 1 WLR 704</a>) to
+the circumstances of B’s case, including the prospect of B’s removal to
+Algeria. In its judgment of 13 February 2014, SIAC found that in the absence of
+a change of mind by B “there is no reasonable prospect of removing [B] to
+Algeria and thus the ordinary legal basis for justified detention of B under
+the Immigration Acts has fallen away”.<i> </i>Following this ruling, the
+Secretary of State did not authorise the further detention of B, although B’s
+advisers only became aware of this on or about 6 June 2014. In its judgment of
+13 February 2014 SIAC also held that the conditions of bail did not constitute
+a deprivation of liberty. However, it subsequently directed a review of B’s bail
+conditions, which were relaxed by an order dated 16 May 2014.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 14 May 2014 the Secretary of State applied under rules 11B and 40 of
+the Special Immigration Appeals Commission (Procedure) Rules 2003 to strike out
+B’s appeal against the notice of decision to deport him, on the grounds of his
+continuing refusal to comply with the order of 19 July 2007. On 1 July 2014, in
+the light of B’s continuing contempt of court, SIAC struck out B’s appeal.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B maintained that, following SIAC’s findings on 13 February 2014, his
+detention could no longer lawfully be authorised as it would be incompatible
+with <i>Hardial</i> <i>Singh </i>principles. He contended that if that were so,
+and he could not lawfully be detained, SIAC no longer had jurisdiction to grant
+bail to B or to impose bail conditions. In its judgment of 1 July 2014, SIAC
+rejected these submissions, concluding that it continued to have jurisdiction
+to impose bail conditions on B.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B then applied for permission to apply for judicial review of SIAC’s
+decision of 1 July 2014 on its bail jurisdiction, there being no right of
+appeal against that decision. Irwin J, sitting as a High Court Judge, heard
+that application by agreement between B and the Secretary of State, and on 14 August
+2014 he granted B permission to apply for judicial review of that decision,
+dismissed the application for judicial review, and granted permission to appeal
+to the Court of Appeal.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B appealed to the Court of Appeal which on 6 May 2015 gave judgment
+allowing both appeals (<i>B (Algeria) v Secretary of State for the Home
+Department (No 2) </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/445.html">[2015] EWCA Civ 445</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/445.html">[2016] QB 789</a>).</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal allowed B’s appeal in relation to SIAC’s bail
+jurisdiction on the ground that SIAC had no jurisdiction to impose bail
+conditions on B if his detention would be unlawful.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal also allowed B’s appeal against the strike out of B’s
+SIAC appeal and remitted the matter to SIAC.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 15 September 2016 SIAC refused the application to strike out B’s
+appeal against the decision to make a deportation order against him. The
+Secretary of State then indicated that she no longer opposed B’s appeal.
+Accordingly, in a judgment dated 12 December 2016 SIAC confirmed its decision
+to allow B’s appeal against the notice of intention to deport him. The
+Secretary of State did not seek permission to appeal. As a result of this
+ruling allowing the substantive deportation appeal, B’s bail fell away and it
+is common ground that the immigration bail power is now unavailable.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 9 November 2015, the Supreme Court granted the Secretary of State
+permission to appeal against the decision of the Court of Appeal on the issue
+of SIAC’s bail jurisdiction.</a></p><a name="para16">
+
+<p class="ParaHeading">Statutory provisions</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Secretary of State’s power to detain or control a person pending
+deportation is set out in </a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0E0CB3F0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 2 of Schedule 3 to the
+1971</span></a> Act which provides in material part, as amended:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(2)&nbsp;&nbsp;&nbsp;&nbsp; Where notice has been
+given to a person in accordance with Regulations under <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I55D032D0E45211DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">section 105 of the Nationality,
+Immigration and Asylum Act 2002</span></a> (notice of decision) of a decision
+to make a deportation order against him, and he is not detained in pursuance of
+the sentence or order of a court, he may be detained under the authority of the
+Secretary of State pending the making of the deportation order.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where a deportation
+order is in force against any person, he may be detained under the authority of
+the Secretary of State pending his removal or departure from the United Kingdom
+(and if already detained by virtue of sub-paragraph (1) or (2) above when the
+order is made, shall continue to be detained unless he is released on bail or
+the Secretary of State directs otherwise).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(4A)&nbsp;&nbsp;&nbsp; <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I5FC31660E42311DAA7CF8F68F6EE57AB"><span style="color:windowtext;text-decoration:none">Paragraphs 22 to 25 of Schedule 2</span></a>
+to this Act apply in relation to a person detained under sub-paragraph (1), (2)
+or (3) as they apply in relation to a person detained under paragraph 16 of
+that Schedule.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A person to whom this
+sub-paragraph applies shall be subject to such restrictions as to residence, as
+to his employment or occupation and as to reporting to the police or an
+immigration officer as may from time to time be notified to him in writing by
+the Secretary of State.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The persons to whom
+sub-paragraph (5) above applies are -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a person liable to be
+detained under sub-paragraph (2) or (3) above, while he is not so detained.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The power to grant immigration bail and impose bail conditions derives
+from </a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0DFD4AA1E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraphs 22 and 29 of Schedule
+2</span></a> to the 1971 Act so far as relevant, as amended. Paragraph 22
+governs bail in general and paragraph 29 governs bail pending appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0D45E180E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Section 3 of the Special
+Immigration Appeals Commission Act 1997</span></a> (“the 1997 Act”) extends to
+SIAC the power to grant bail and impose bail conditions that is conferred on an
+immigration officer not below the rank of chief immigration officer or the
+First-tier Tribunal (“the FTT”) by <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0DFD4AA1E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraphs 22 and 29 of Schedule
+2</span></a> to the 1971 Act. <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0D45E180E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Section 3</span></a> of the 1997
+Act provides in material part:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; In the case of a person
+to whom section (2) below applies, the provisions of <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0DBBFBE0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Schedule 2 to the Immigration Act
+1971</span></a> specified in <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0E0B0640E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Schedule 3</span></a> to this Act
+shall have effect with the modifications set out there.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This subsection applies
+to a person who is detained under the <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I60612B20E42311DAA7CF8F68F6EE57AB"><span style="color:windowtext;text-decoration:none">Immigration Act 1971</span></a> …
+if -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Secretary of State
+certifies that his detention is necessary in the interests of national
+security,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; … or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he is detained
+following a decision to make a deportation order against him on the ground that
+his deportation is in the interests of national security.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0DFDE6E0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Paragraphs 1 and 4 of Schedule 3</span></a>
+to the 1997 Act modify <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I5FC31660E42311DAA7CF8F68F6EE57AB"><span style="color:windowtext;text-decoration:none">paragraphs 22 and 29 of Schedule
+2</span></a> to the 1971 Act respectively so that, in deportation cases heard
+in SIAC, they provide as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“22. (1) The following, namely -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a person detained under
+paragraph 16(1) above pending examination;</p>
+
+<p class="MsoQuote" style="margin-left:180.0pt">(aa)&nbsp;&nbsp;&nbsp;&nbsp; a person detained under
+paragraph 16 (1A) above pending completion of his examination or a decision on
+whether to cancel his leave to enter; and</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a person detained under
+paragraph 16(2) above pending the giving of directions,</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">may be released on bail in
+accordance with this paragraph.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1A)&nbsp;&nbsp;&nbsp; The Special Immigration
+Appeals Commission may release a person so detained on his entering into a
+recognizance or, in Scotland, bail bond conditioned for his appearance before
+an immigration officer at a time and place named in the recognizance or bail
+bond or at such other time and place as may in the meantime be notified to him
+in writing by an immigration officer.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The conditions of a
+recognizance or bail bond taken under this paragraph may include conditions
+appearing to the Special Immigration Appeals Commission to be likely to result
+in the appearance of the person bailed at the required time and place; and any
+recognizance shall be with or without sureties as the Commission may determine.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In any case in which
+the Special Immigration Appeals Commission has power under this paragraph to
+release a person on bail, the Commission may, instead of taking the bail, fix
+the amount and conditions of the bail (including the amount in which any
+sureties are to be bound) with a view to its being taken subsequently by any
+such person as may be specified by the Commission; and on the recognizance or
+bail bond being so taken the person to be bailed shall be released.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">29(1) Where a person (in the
+following provisions of this Schedule referred to as ‘an appellant’) has an
+appeal pending under <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I55A9E620E45211DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Part 5 of the Nationality,
+Immigration and Asylum Act 2002</span></a> or <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0D45BA70E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">section 2 of the Special
+Immigration Appeals Commission Act 1997</span></a> or a review pending under <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I556F26D0F1D611E3BC98FF8A856259AA"><span style="color:windowtext;text-decoration:none">section 2E</span></a> of that Act
+and is for the time being detained under Part I of this Schedule, he may be
+released on bail in accordance with this paragraph and paragraph 22 does not
+apply.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Special Immigration
+Appeals Commission may release an appellant on his entering into a recognizance
+or, in Scotland, bail bond conditioned for his appearance before the Commission
+at a time and place named in the recognizance or bail bond.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The conditions of a
+recognizance or bail bond taken under this paragraph may include conditions
+appearing to the person fixing the bail to be likely to result in the
+appearance of the appellant at the time and place named; and any recognizance
+shall be with or without sureties as that person may determine.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The power of arrest and re-detention of persons on bail under paragraphs
+22 and 29 of Schedule 2 is provided for under paragraph 24 of Schedule 2 to the
+1971 Act which provides:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“24. -</p>
+
+</a><p class="MsoQuote" style="margin-left:108.0pt"><a name="para21">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An immigration officer
+or constable may arrest without warrant a person who has been released by
+virtue of </a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=25&amp;crumb-action=replace&amp;docguid=I0DEAD410E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 22</span></a> above -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if he has reasonable
+grounds for believing that that person is likely to break the condition of his
+recognizance or bail bond that he will appear at the time and place required or
+to break any other condition of it, or has reasonable ground to suspect that
+that person is breaking or has broken any such other condition; or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if, a recognizance with
+sureties having been taken, he is notified in writing by any surety of the
+surety’s belief that that person is likely to break the first-mentioned
+condition, and of the surety’s wish for that reason to be relieved of his
+obligations as a surety;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">and <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=25&amp;crumb-action=replace&amp;docguid=I0DDE9F10E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 17(2)</span></a> above
+shall apply for the arrest of a person under this paragraph as it applies for
+the arrest of a person under <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=25&amp;crumb-action=replace&amp;docguid=I0DDE9F10E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 17</span></a>.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A person arrested under
+this paragraph -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if not required by a
+condition on which he was released to appear before an immigration officer
+within twenty-four hours after the time of his arrest, shall as soon as
+practicable be brought before the First-tier Tribunal or, if that is not
+practicable within those 24 hours, before in England and Wales, a justice of
+the peace, in Northern Ireland, a justice of the peace acting for the petty
+sessions area in which he is arrested or, in Scotland, the sheriff; and </p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if required by such a
+condition to appear within those 24 hours before an immigration officer, shall
+be brought before that officer.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where a person is
+brought before the First-tier Tribunal, a justice of the peace or the sheriff
+by virtue of sub-paragraph (2)(a), the Tribunal, justice of the peace or
+sheriff -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if of the opinion that
+that person has broken or is likely to break any condition on which he was
+released, may either -</p>
+
+<p class="MsoQuote" style="margin-left:180.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; direct that he be
+detained under the authority of the person by whom he was arrested; or</p>
+
+<p class="MsoQuote" style="margin-left:180.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; release him, on his
+original recognizance or on a new recognizance, with or without sureties, or,
+in Scotland, on his original bail or on new bail; and</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if not of that opinion,
+shall release him on his original recognizance or bail.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 12 May 2016 the Immigration Bill 2016 received royal assent. Section
+61 of the Immigration Act 2016 provides in material part:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<span class="legds">(3)&nbsp;&nbsp;&nbsp;&nbsp; A
+person may be released and remain on bail under paragraph 22 or 29 of Schedule
+2 to the Immigration Act 1971 even if the person can no longer be detained
+under a provision of the Immigration Acts to which that paragraph applies, if
+the person is liable to detention under such a provision.</span></p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para22"><span class="legds">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+reference in subsection </span></a><a href="http://www.legislation.gov.uk/ukpga/2016/19/section/61/enacted#section-61-3" title="Go to 61 Immigration bail (3) in PART 3"><span style="color:windowtext;
+text-decoration:none">(3)</span></a><span class="legds"> </span><span class="legds">to paragraph 22 or 29 of Schedule 2 to the Immigration Act 1971
+includes that paragraph as applied by any other provision of the Immigration
+Acts.</span></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><span class="legds">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subsections
+(3) and (4) are to be treated as always having had effect.</span>”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 9 November 2015, the Supreme Court granted the Secretary of State
+permission to appeal on the issue of SIAC’s bail jurisdiction. The Secretary of
+State indicated that she did not propose to rely on section 61 of the
+Immigration Act 2016 on this appeal. The appeal has been heard on the basis of
+the statutory provisions as they were at the time of the Court of Appeal’s
+decision.</a></p><a name="para23">
+
+<p class="ParaHeading">Hardial Singh principles</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Hardial Singh</i> principles form an important part of the
+background to these proceedings. In <i>Hardial Singh</i> itself Woolf J. laid
+down the following propositions (at p 706D-G):</a></p><a name="para24">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para24">“Since 20 July 1983, the applicant
+has been detained under the power contained in </a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=47&amp;crumb-action=replace&amp;docguid=I0E0CB3F0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 2(3) of Schedule 3 to
+the Immigration Act 1971</span></a>. Although the power which is given to the
+Secretary of State in <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=47&amp;crumb-action=replace&amp;docguid=I60612B20E42311DAA7CF8F68F6EE57AB"><span style="color:windowtext;text-decoration:none">paragraph 2</span></a> to detain
+individuals is not subject to any express limitation of time, I am quite
+satisfied that it is subject to limitations. First of all, it can only
+authorise detention if the individual is being detained in one case pending the
+making of a deportation order and, in the other case, pending his removal. It
+cannot be used for any other purpose. Secondly, as the power is given in order
+to enable the machinery of deportation to be carried out, I regard the power of
+detention as being impliedly limited to a period which is reasonably necessary
+for that purpose. The period which is reasonable will depend upon the
+circumstances of the particular case. What is more, if there is a situation
+where it is apparent to the Secretary of State that he is not going to be able
+to operate the machinery provided in the Act for removing persons who are
+intended to be deported within a reasonable period, it seems to me that it
+would be wrong for the Secretary of State to seek to exercise his power of
+detention.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">In addition, I would regard it as
+implicit that the Secretary of State should exercise all reasonable expedition
+to ensure that the steps are taken which will be necessary to ensure the
+removal of the individual within a reasonable time.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Over time these principles have been elaborated and refined. In <i>R (WL
+(Congo)) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/12.html">[2011] UKSC 12</a>;
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/12.html">[2012] 1 AC 245</a>, Lord Dyson JSC summarised them as follows (at para 22):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is common ground that my
+statement in <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=64&amp;crumb-action=replace&amp;docguid=I79BD3A00E42811DA8FC2A0F0355337E9"><i><span style="color:windowtext;text-decoration:none">R (I) v Secretary of State for
+the Home Department </span></i><span style="color:windowtext;text-decoration:
+none"></span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2002/888.html">[2003] INLR 196</a>, para 46 correctly encapsulates the principles
+as follows: (i) the Secretary of State must intend to deport the person and can
+only use the power to detain for that purpose; (ii) the deportee may only be
+detained for a period that is reasonable in all the circumstances; (iii) if,
+before the expiry of the reasonable period, it becomes apparent that the
+Secretary of State will not be able to effect deportation within a reasonable
+period, he should not seek to exercise the power of detention; (iv) the
+Secretary of State should act with reasonable diligence and expedition to
+effect removal.”</p>
+
+<p class="ParaNoNumber">With regard to determining what is a reasonable period
+Lord Dyson (at para 104) repeated his earlier conclusion in <i>I</i>’s case (at
+para 48):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is not possible or desirable
+to produce an exhaustive list of all the circumstances that are or may be
+relevant to the question of how long it is reasonable for the Secretary of
+State to detain a person pending deportation pursuant to <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=64&amp;crumb-action=replace&amp;docguid=I0E0CB3F0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 2(3) of Schedule 3 to
+the Immigration Act 1971</span></a>. But in my view they include at least: the
+length of the period of detention; the nature of the obstacles which stand in
+the path of the Secretary of State preventing a deportation; the diligence,
+speed and effectiveness of the steps taken by the Secretary of State to
+surmount such obstacles; the conditions in which the detained person is being
+kept; the effect of detention on him and his family; the risk that if he is
+released from detention he will abscond; and the danger that, if released, he
+will commit criminal offences.”</p>
+
+<p class="ParaHeading">Discussion</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I take as my starting point that adopted by the Court of Appeal at paragraph
+23 of the judgment of Lord Dyson MR. It is uncontroversial. On 13 February 2014
+SIAC ruled that there was “no reasonable prospect of removing [B] to Algeria
+and thus the ordinary legal basis for justified detention of B under the
+Immigration Acts has fallen away”. The Secretary of State accepts that there
+was thereafter no further authority for the detention of B under paragraph 2(2)
+of Schedule 3 to the 1971 Act. It is, therefore, common ground that B could not
+lawfully be detained following the ruling of 13 February 2014 because to do so
+would exceed the implied limits on the exercise of administrative power to
+detain for immigration purposes as determined in <i>Hardial Singh</i>.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the heart of this case lies a dispute between the parties as to the
+correct approach in principle to the availability of immigration bail when the <i>Hardial
+Singh</i> limit on actual detention is reached. The Secretary of State submits
+that at that point the individual can be moved onto or kept on bail as an
+alternative to detention, as a means of getting or keeping him out of detention
+that is, or is about to become, or would be unlawful. Moreover, at that point
+the ability to exercise control over him in the form of bail conditions is
+retained. B’s position, by contrast, is that bail is predicated on lawful
+detention with the result that when the <i>Hardial Singh</i> limit on actual
+detention is reached the ability to grant or maintain bail also simultaneously
+falls away.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On behalf of the Secretary of State, Mr Tam urges the court to adopt a
+purposive interpretation of the relevant legislation. He submits that it is
+consistent with the purpose of the bail power for it to be construed so that
+bail is available regardless of whether the individual is lawfully detained or
+would hypothetically be lawfully detained. The bail power has been provided in
+order to remove an individual from detention. That purpose would be served
+whether the detention is lawful or unlawful at the time that bail is granted
+and the detention is terminated. The bail power, he submits, constitutes a
+practical solution which permits the termination of unwanted or unwarranted
+detention, regardless of the separate question of whether that detention is
+lawful or unlawful. He then draws attention to the fact that at one end of the
+spectrum of cases dealt with by the immigration system are those of dangerous
+criminals and those who pose a risk to national security. It is, he submits,
+particularly important that bail should be available in such cases. Here he
+refers to the fact that bail conditions can be of greater stringency than
+conditions which can be attached to temporary admission or temporary release.
+The availability of bail, he argues, therefore helps to protect the public from
+such risks if detention is no longer appropriate.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>While accepting that practical difficulties may arise in the categories
+of case referred to by Mr Tam in circumstances where continuing detention
+becomes unlawful on <i>Hardial Singh</i> grounds, I can see no basis for
+adopting the purposive approach for which the Secretary of State contends,
+resting as it does on a disregard of the issue of the lawfulness of any
+continuing detention. It is a fundamental principle of the common law that in
+enacting legislation Parliament is presumed not to intend to interfere with the
+liberty of the subject without making such an intention clear (<i>Tan Te Lam v
+Superintendent of Tai A Chau Detention Centre</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1996/5.html">[1997] AC 97</a>, 111E; <i>R v
+Secretary of State for the Home Department, Ex p Khawaja</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1983/8.html">[1984] AC 74</a>,
+122E-F per Lord Bridge). Thus, in <i>In re Wasfi Suleman Mahmod</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/1994/3.html">[1995] Imm AR 311</a>, 314 Laws J, observed:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“While, of course, Parliament is
+entitled to confer powers of administrative detention without trial, the courts
+will see to it that where such a power is conferred the statute that confers it
+will be strictly and narrowly construed and its operation and effect will be
+supervised by the court according to high standards.”</p>
+
+<p class="ParaNoNumber">In the present case our particular focus is not on a
+power of executive detention, but on a power to grant bail. Nevertheless, and
+despite the fact that the purpose may be to effect a release from detention, I
+consider that this similarly attracts the presumption of statutory
+interpretation because the conditions which may be attached to a grant of bail
+are capable of severely curtailing the liberty of the person concerned. It was
+common ground before us that bail under the 1971 Act may be subject to
+conditions which constitute a deprivation of liberty within article 5(1)(f)
+ECHR. As Mr Tam frankly accepts, the ability to exercise control through the
+use of what may be stringent conditions of bail in part underlies the purposive
+interpretation for which he contends. Moreover, this is, to my mind, a situation
+where the principle of legality is in play. As Lord Hoffmann observed in <i>R v
+Secretary of State for the Home Department, Ex p Simms</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1999/33.html">[2000] 2 AC 115</a>,
+131D-G:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Fundamental rights cannot be
+overridden by general or ambiguous words. This is because there is too great a
+risk that the full implications of their unqualified meaning may have passed
+unnoticed in the democratic process. In the absence of express language or
+necessary implication to the contrary, the courts therefore presume that even
+the most general words were intended to be subject to the basic rights of the
+individual.”</p>
+
+<p class="ParaNoNumber">In these circumstances, we are required to interpret the
+statutory provisions strictly and restrictively.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is common ground that being “detained” is a condition precedent to
+the exercise of the power to grant bail conferred by paragraphs 22 and 29 of
+Schedule 2 to the 1971 Act. The power of SIAC to grant bail under section 3,
+Special Immigration Appeals Commission Act 1997 is similarly based on the
+person being detained. The Court of Appeal (at para 30) described the bail
+power as “predicated on the individual being detained”.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Paragraph 22 of Schedule 2 confers a power to release on bail in the
+case of three categories of person, namely a person detained under paragraph
+16(1) pending examination, a person detained under paragraph 16(1A) pending
+completion of his examination or a decision on whether to cancel his leave to
+enter, and a person detained under paragraph 16(2) pending the giving of
+directions. Each category is defined by reference to the person being detained
+under paragraph 16 of Schedule 2. Similarly, paragraph 29 applies to a person
+who “is for the time being detained under Part I of this Schedule”. Applying
+the strict approach to interpretation which I consider is required here, these
+provisions must be taken to refer to detention which is lawful. This conclusion
+is reinforced by the fact that in respect of each category to which it applies
+paragraph 16 refers to detention “under the authority of an immigration officer”.
+This makes clear that the provision is not addressing the mere fact of detention;
+this must refer to a lawful authorisation for detention. As the Court of Appeal
+concluded in the present case, it would be extraordinary if Parliament had
+intended to confer the power to grant bail where a person had been unlawfully
+detained or could not lawfully be detained. The words employed are certainly
+not appropriate to refer to a state of purported detention or to embrace both
+lawful and unlawful detention. I consider that “detained” in paragraphs 22 and
+29 refers to lawfully authorised detention.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On behalf of the Secretary of State, Mr Tam submits that “detained” is
+used only to define the state of affairs which must exist at the time when the
+power is first exercised. Clearly the power to grant bail can continue to be
+exercised after the person has ceased to be detained. However, this fails to
+address whether there needs to be a continuing power to detain as a
+pre-condition to the grant of bail. Here it seems to me that unless there is a
+continuing power to detain, the system of bail within Part 1 of Schedule 2
+would encounter substantial difficulties in its operation. In this regard, Ms
+Harrison on behalf of B, draws attention to certain features attending the
+grant of bail. First, paragraph 22(1A) and paragraph 29(2) require the detained
+person to enter into a recognizance to appear before an immigration officer at
+a named time and place. When he does so it is then for the immigration officer
+to re-fix bail if he or she considers it appropriate to do so and to determine
+any appropriate conditions. (<i>R (AR (Pakistan)) v Secretary of State for the
+Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/807.html">[2016] EWCA Civ 807</a>, para 26). It is difficult to see how
+this would operate if there were no continuing power of detention. As Ms
+Harrison points out, bail could be re-fixed but until it is the individual
+cannot simply be at liberty, neither detained nor granted temporary admission.
+Secondly, and more fundamentally, Ms Harrison points to a situation in which it
+becomes necessary to re-detain the person on bail, for example because he or
+she is in breach of the conditions of bail. This would not be possible in the
+absence of a subsisting lawful power to detain. In the absence of such a power,
+conditions of bail and recognizances entered into would be unenforceable.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In response Mr Tam first places reliance on the breach of bail
+conditions. However, in such circumstances the legal authority for detention
+cannot be found in the grant of bail or in the breach of conditions of bail but
+must be found in an ongoing lawful power to detain, as appears from <i>Stellato
+v Ministry of Justice</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2010/1435.html">[2010] EWCA Civ 1435</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2010/1435.html">[2011] QB 856</a> and <i>R (Konan)
+v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2004/22.html">[2004] EWHC 22 (Admin)</a>,
+authorities to which I shall return later in this judgment. Secondly, he makes
+the point that under the <i>Hardial Singh</i> principles a power of detention
+may sometimes revive, for example because of a change of circumstances in the
+foreign state concerned or because of a change in the risk which the individual
+presents. While that may well occur from time to time in individual cases, it
+is no answer to Ms Harrison’s objection which is directed at the operation of
+the system of immigration bail. I note, moreover, that there is no possibility
+of that occurring in the present case where not only did SIAC conclude on 1
+July 2014 that B’s detention could no longer be authorised as it would be
+incompatible with <i>Hardial Singh</i> principles, but the Secretary of State
+has not authorised B’s continuing detention since that finding of SIAC. The
+present case, it appears, falls within the category contemplated by Lord Dyson
+JSC in <i>WL (Congo)</i> at para 144 where, however grave the risk of
+absconding or the risk of serious offending, it ceases to be lawful to detain a
+person pending deportation. Once that position is reached there is, in my view,
+no longer a power of detention under paragraph 16 and there is therefore no longer
+a power to grant bail under paragraphs 22 or 29.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Secretary of State next draws attention to paragraph 21 of Schedule
+2 which concerns temporary admission or release of persons liable to detention or
+detained in non-deportation cases (ie the equivalent provisions to </a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0E0CB3F0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraphs 2(5) and (6) of
+Schedule 3</span></a> of the 1971 Act). <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=20&amp;crumb-action=replace&amp;docguid=I0DE6DC70E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Paragraph 21 </span></a>as
+amended provides for the release or temporary admission of persons “liable to
+detention or detained”:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“21.- Temporary admission or
+release of persons liable to detention</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A person liable to
+detention or detained under paragraph 16(1), (1A) or (2) above may, under the
+written authority of an immigration officer, be temporarily admitted to the
+United Kingdom without being detained or be released from detention; but this
+shall not prejudice a later exercise of the power to detain him.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So long as a person is
+at large in the United Kingdom by virtue of this paragraph, he shall be subject
+to such restrictions as to residence, as to his employment or occupation and as
+to reporting to the police or an immigration officer as may from time to time
+be notified to him in writing by an immigration officer.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Tam submits that the respective structures of the powers to grant
+temporary admission or release under paragraph 21 and the power to grant bail
+under paragraph 22 are similar; paragraph 21 refers to “a person liable to
+detention or detained” whereas paragraph 22 refers to “a person detained”. He
+submits that this difference of wording serves only to identify that bail is
+available only if the individual is actually detained, while temporary
+admission is also available if the individual has not been actually detained.
+Thereafter, he submits, the approach adopted by the House of Lords in <i>R
+(Khadir) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2005/39.html">[2005] UKHL 39</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2005/39.html">[2006] 1 AC 207</a> ought to apply equally to both of these “ameliorating possibilities”.
+The power to admit temporarily and the power to grant bail should be held to
+continue so long as the power to detain exists, even if it cannot be lawfully
+exercised.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The approach to which he refers is to be found in the speech of Lord
+Brown in <i>Khadir</i> at paras 31-33.</a></p><a name="para36">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“31.&nbsp;&nbsp;&nbsp;&nbsp; For my part I have no
+doubt that Mance LJ was right to recognise a distinction between the
+circumstances in which a person is potentially liable to detention (and can
+properly be temporarily admitted) and the circumstances in which the power to
+detain can in any particular case properly be exercised. It surely goes without
+saying that the longer the delay in effecting someone’s removal the more
+difficult will it be to justify his continued detention meanwhile. But that is
+by no means to say that he does not remain ‘liable to detention’. What I cannot
+see is how the fact that someone has been temporarily admitted rather than
+detained can be said to lengthen the period properly to be regarded as ‘pending
+... his removal’.</p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para36">32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The true position in my
+judgment is this. ‘Pending’ in </a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=18&amp;crumb-action=replace&amp;docguid=I0DDA8060E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 16</span></a> means no
+more than ‘until’. The word is being used as a preposition, not as an
+adjective. <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=18&amp;crumb-action=replace&amp;docguid=I0DDA8060E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">Paragraph 16</span></a> does not
+say that the removal must be ‘pending’, still less that it must be ‘<i>im</i>pending’.
+So long as the Secretary of State remains intent upon removing the person and
+there is some prospect of achieving this, paragraph 16 authorises detention
+meanwhile. Plainly it may become unreasonable actually to detain the person pending
+a long delayed removal (ie throughout the whole period until removal is finally
+achieved). But that does not mean that the power has lapsed. He remains ‘liable
+to detention’ and the ameliorating possibility of his temporary admission in
+lieu of detention arises under <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=18&amp;crumb-action=replace&amp;docguid=I0DE6DC70E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 21</span></a>.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To my mind the <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=18&amp;crumb-action=replace&amp;docguid=I47A59670E42811DA8FC2A0F0355337E9"><i><span style="color:windowtext;text-decoration:none">Hardial Singh</span></i></a> line
+of cases says everything about the <i>exercise </i>of the power to detain (when
+properly it can be exercised and when it cannot); nothing about its <i>existence</i>.<i>
+…</i>”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In its judgment in the present proceedings SIAC drew attention to the
+distinction drawn by Lord Brown between the existence of a power to detain,
+which can subsist even where actual detention would be unlawful, and the
+unlawful exercise of that power. The power to detain continues to exist even if
+actual detention would be unlawful provided that there is some prospect of
+removal being effected. It noted that <i>Khadir</i> had not been disapproved by
+the Supreme Court in <i>WL (Congo)</i>. In the present case SIAC considered
+that there remained “some prospect” of removal so that the power to detain
+persisted under paragraph 2 of Schedule 3. The fact that detention today would
+be unlawful did not necessarily prevent lawful detention in the future. As a
+result it concluded that the power to grant bail also subsisted and could be
+exercised. That reasoning was decisively rejected by the Court of Appeal.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On this further appeal Mr Tam submits that the value of the decision in <i>Khadir</i>
+is that its acceptance of the continuing existence of the power to detain and
+thus the continuing availability of temporary admission or temporary release
+allows a purposive construction of the three-layered mechanism provided by
+Schedule 2 ie detention, bail, temporary admission or temporary release. In
+particular, he submits that as both bail and temporary admission or temporary
+release are “ameliorating possibilities” of alternatives to detention, it is
+sensible for both powers to persist for some duration beyond the point at which
+actual detention can no longer continue.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my view, <i>Khadir</i> provides no assistance to the Secretary of
+State in the present case, for the reasons given by Lord Dyson MR (at paras
+29-31). They may be summarised as follows:</a></p><a name="para39">
+
+<p class="ParaLevel2" style="text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Khadir</i> is a decision not on detention or on the power to grant
+bail under paragraphs 22 or 29, but on the power to grant temporary admission
+under paragraph 21.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is a material difference between the wording of paragraph 21, on
+the one hand, and paragraphs 22 and 29 on the other. The distinction between a
+person “detained” and a person “liable to be detained” is clear and must have
+been deliberate.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The House of Lords in <i>Khadir</i> held that the distinction between
+the existence and the exercise of the power to detain was material to the power
+to grant temporary admission to a person “liable to detention”. There is no
+warrant for applying that distinction to the different question of whether
+there is a power to grant bail to a person who may not lawfully be detained at
+the time when it is proposed to grant bail.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On behalf of the Secretary of State it is then submitted that the
+interpretation of paragraphs 22 and 29 favoured by the Court of Appeal would
+lead to impracticability in their application and that this casts doubt on its
+reading.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, it is submitted that, if there is no power to grant bail unless
+there is a power to detain, on an application for bail the FTT or an
+immigration officer would have to determine <i>Hardial Singh</i> issues as a
+jurisdictional matter. It is submitted that Parliament could not have intended
+the FTT or immigration officers to engage in such an exercise which is
+difficult enough in a case of actual detention but which would be much more
+difficult or even logically impossible in the hypothetical context required by
+this reading of paragraphs 22 and 29. As a result bail applications could
+require “two or three days of <i>Hardial Singh</i> enquiry simply to decide
+whether there is jurisdiction to grant bail”. Here Mr Tam further submits that
+the FTT does not have jurisdiction to decide whether detention is lawful. (See <i>Konan</i>
+at para 30 and <i>WL (Congo)</i> at para 118.) I consider that there is little
+or no substance in these contentions for the following reasons:</a></p><a name="para41">
+
+<p class="ParaLevel2" style="text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is unlikely that an applicant for bail will seek to challenge the
+jurisdiction of the FTT to grant bail. Similarly, the Secretary of State is
+unlikely to maintain that an applicant’s detention is unlawful. I accept,
+however, that, as it is a matter of jurisdiction, there may be cases in which
+the FTT should properly take the point of its own motion.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The power to grant bail is expressly conferred on the FTT or a Chief
+Immigration Officer by paragraphs 22 and 29 of Schedule 2. If an issue as to
+the legality of detention were to arise on a bail application, it would fall to
+be addressed in that context. If the judge concluded that detention was
+unlawful, the Secretary of State could be expected to direct release of the
+applicant on temporary admission. If she maintained the view that detention was
+lawful, the matter could be raised urgently in the Administrative Court. I note
+that, in the context of SIAC, where an applicant puts the legality of his
+detention in issue, concurrent judicial review proceedings can be lodged and
+the Chair of SIAC is able to exercise the jurisdiction of the Administrative
+Court. That is, in fact, what occurred in the present case.</p>
+
+</a><p class="ParaLevel2" style="text-indent:0cm"><a name="para41">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The FTT is clearly entitled to address the <i>Hardial Singh</i>
+principles. Consideration on a bail application of whether detention was lawful
+would not, in any event, require the FTT to depart significantly from what is
+currently required of it. The current guidance (Bail Guidance for Immigration
+Judges Presiding over Immigration and Asylum Hearing, Presidential Note 1 of
+2012, Judge Michael Clements, 11 June 2012 at paras 5,17 and 18) recognises
+that the lawfulness of detention may be a relevant factor in bail proceedings,
+as has the High Court in the SIAC jurisdiction (<i>R (Othman) v SIAC</i> </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2012/2349.html">[2012] EWHC 2349 (Admin)</a>).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, the Secretary of State submits that it appears from the
+statutory scheme that the grant of bail was intended to be an exercise
+conducted by relatively junior immigration officers or even by police officers
+with less specialist immigration experience and that, accordingly, it is very
+unlikely that Parliament intended that the lawfulness of detention should be
+investigated before the grant of bail. This is equally unconvincing. So far as
+the capabilities of immigration officers are concerned, I agree with the
+observations of Lord Dyson MR (at para 35). Immigration officers are charged by
+Parliament with taking many difficult decisions, which require care, individual
+consideration and the exercise of judgement and which may involve fact finding.
+These decisions are of enormous consequence to the lives of the persons
+concerned. In particular, in considering whether to grant temporary admission
+an immigration officer may have to consider whether a person is “liable to
+detention” under paragraph 21. Contrary to the submission of Mr Tam, I cannot
+see that application of the <i>Khadir</i> test of “some prospect” of the
+individual’s removal is a significantly less complex exercise than the
+application of the <i>Hardial</i> <i>Singh</i> principles.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, the Secretary of State submits that an arrest by a police officer
+for an actual or apprehended breach of bail would require the officer to
+consider the <i>Hardial Singh</i> principles and assess whether the prescribed
+limit of a power to detain had been reached. However, the power of arrest
+conferred by paragraph 24(1)(a) is exercisable by a police officer “if he has
+reasonable grounds for believing that that person is likely to break the
+condition of his recognizance or bail bond”. Unlike the power to order
+re-detention in paragraph 24(3), it does not depend on a continuing power to
+exercise immigration detention.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fourthly, the Secretary of State points to the consequences which might
+follow if detention were unlawful on other grounds. Here, particular reliance
+is placed on <i>WL (Congo)</i>, where detention was unlawful because it was
+based on an unpublished policy which conflicted with a published policy, and on
+<i>R (SK (Zimbabwe)) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/23.html">[2011] UKSC 23</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/23.html">[2011] 1 WLR 1299</a>, where detention was unlawful because of missed
+detention reviews required by a published policy. It is said that it would be
+absurd if there were no power to grant bail in such circumstances. In my view,
+there is no absurdity here. Once detention had been authorised on a lawful
+basis there would be power to grant bail.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Accordingly, I consider that the spectre of impracticability conjured up
+by Mr Tam is illusory and does not cast any doubt on my reading of paragraphs
+22 and 29. There is no reason to conclude that Parliament must have intended to
+confer a power to grant bail where a person is detained unlawfully. On the
+contrary, I have no doubt that the statutory provisions with which we are
+concerned require a lawful power to detain as a pre-condition to a grant of
+bail. In any event, if administrative inconvenience is a consequence the remedy
+lies with Parliament.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons I agree with the conclusion of Lord Dyson MR that bail
+may not be granted under paragraphs 22 and 29 of Schedule 2 where a person is
+unlawfully detained purportedly under paragraph 2(2) of Schedule 3 to the 1971
+Act or where a person not currently in detention could not lawfully be detained
+under that provision.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his judgment in the Court of Appeal in the present case, Lord Dyson
+MR, having arrived at the conclusion that the word “detained” in paragraphs 22
+and 29 of Schedule 2 should be construed as meaning “lawfully detained”,
+advanced a further, independent basis for his conclusion, namely that the power
+to grant bail presupposes the existence of and the ability to exercise the
+power to detain lawfully. In support of this conclusion he drew attention to <i>Mitchell
+v Mitchinham</i> (1823) 2 D &amp; R 722 and <i>In re Amand</i> [1941] 2 KB 239
+which, he observed, demonstrate that the writ of habeas corpus can still issue
+where a person is on bail.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As a matter of legal instinct, the proposition that the ability to
+exercise a lawful power to detain is a precondition to a power to grant bail
+seems entirely sound. Not only does it seem correct as a matter of principle,
+but also the lack of a lawful power to detain is likely, without more, to give
+rise to practical difficulties. As I have explained earlier in this judgment,
+that would, in my view, be the position in relation to immigration bail if the
+Secretary of State’s submissions were accepted in the present case. Although we
+have been referred on this appeal to a number of authorities relating to the
+scope and availability of habeas corpus, including those referred to by Lord
+Dyson MR, I have not found these decisions of any great assistance.
+Nevertheless, there is a considerable body of modern authority which supports
+Lord Dyson’s statement of principle.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The decision of the Court of Appeal in <i>Stellato v Ministry of Justice</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2010/1435.html">[2011] QB 856</a> is strongly supportive of this approach. The claimant having been
+released on licence from a prison sentence refused to comply with the
+conditions of his licence on the ground that he was entitled to be released
+unconditionally. He was returned to prison. A Divisional Court of the Queen’s
+Bench Division dismissed his claim for judicial review. His appeal was allowed
+by the Court of Appeal which granted a declaration that he was entitled to
+immediate release but stayed the declaration to permit a petition to the House
+of Lords and granted him conditional bail. He refused to comply with the bail
+conditions and, as a result, was arrested and returned to prison pursuant to an
+order of a Lord Justice who, the next day, ordered that his bail be revoked and
+that he remain in custody until the end of the stay granted by the Court of
+Appeal. Following the dismissal by the House of Lords of the Home Office’s
+appeal, he was released unconditionally and he then brought an action for false
+imprisonment and breach of his rights under article 5 ECHR against the Ministry
+of Justice as successor to the Home Office. In those proceedings the question
+arose whether the stay or the breach of bail conditions provided legal
+authority for his detention. The Court of Appeal (Maurice Kay, Stanley Burnton
+and Patten LJJ) held that they did not. Stanley Burnton LJ explained (at para
+21) that the only authority for the continued detention was the original
+sentence of imprisonment and the legislation which was the subject of the
+court’s judgment. He continued:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“23.&nbsp;&nbsp;&nbsp;&nbsp; Turning to the effect of
+the orders of Hughes LJ, I consider that the answer is to be found in the
+nature of a grant of bail. In principle, a grant of bail is not an order for
+the detention of the person to whom it is granted. To the contrary, it is a
+grant of liberty to someone who would otherwise be detained. The legal
+justification for his detention is to be found elsewhere: in the case of a
+person suspected of crime, in the powers of arrest of a constable under a warrant
+issued by a magistrates’ court (see <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=18&amp;crumb-action=replace&amp;docguid=IDF57CDF0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">section 1 of the Magistrates’
+Courts Act 1980</span></a>), or without a warrant (see <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=18&amp;crumb-action=replace&amp;docguid=I66F2FE31E44811DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">section 24 of the Police and
+Criminal Evidence Act 1984</span></a>), and powers to remand pending trial or
+further hearing. Similarly, there is statutory authority for detention in
+immigration cases: see, for example, <a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=18&amp;crumb-action=replace&amp;docguid=I0E0CB3F0E44911DA8D70A0E70A78ED65"><span style="color:windowtext;text-decoration:none">paragraph 16 of Schedule 2 to,
+and paragraph 2 of Schedule 3 to, the Immigration Act 1971</span></a>.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A grant of bail may be
+conditional or unconditional. A condition of bail does not impose an obligation
+on the person granted bail. It is a true condition. It qualifies the grant of
+liberty made by the grant of bail. If the person granted bail does not comply
+with the conditions of his bail, he is liable to be returned to custody. If so,
+the legal authority for his detention is not the grant of bail, or his breach
+of the conditions of his bail, but the authority for his detention apart from
+the order for bail. All that his breach of the conditions of his bail does is
+to disentitle him to bail.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Similarly, in <i>R (Konan) v Secretary of State for the Home Department</i>
+</a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2004/22.html">[2004] EWHC 22 Admin</a>, where the claimants alleged that their immigration
+detention had been unlawful, Collins J, in rejecting a submission on behalf of
+the Secretary of State that bail was an alternative remedy, stated (at para
+30):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“An adjudicator in considering a
+bail application is not determining (indeed, he has no power to determine) the
+lawfulness of the detention. The grant of bail presupposes the power to detain
+since a breach of a bail condition can lead to a reintroduction of the
+detention.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That the grant of bail is not a determination of the legality of
+detention was emphasised by Lord Dyson JSC in <i>R (WL (Congo)) v Secretary of
+State for the Home Department</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/12.html">[2012] 1 AC 245</a>, para 118, and Hughes LJ in <i>R
+(Omar Othman) v Special Immigration Appeals Commission </i><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2012/2349.html">[2012] EWHC 2349 (Admin)</a>,
+para 18. I also note that in <i>Ismail v United Kingdom</i> (2014) 58 EHRR SE6,
+para 16, the United Kingdom expressly submitted, on the authority of <i>Konan</i>
+and <i>Lumba</i>, that article 5(4) ECHR was not applicable since a bail
+application was not a procedure under domestic law to challenge the lawfulness
+of immigration detention and emphasised that, under domestic law as interpreted
+by the courts, a decision to release a person on bail, subject to conditions
+designed to ensure his future attendance, presupposed the legality of the power
+to detain.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On behalf of the Secretary of State Mr Tam relies before us on a line of
+cases concerning foreign national offenders in which bail had been granted to
+an individual, whose detention had become or was about to become unlawful, as a
+means of ending the detention and continuing the individual’s management whilst
+he was on bail. These decisions include <i>R (Bashir) v Secretary of State for
+the Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2007/3017.html">[2007] EWHC 3017 (Admin)</a>; <i>R (A, MA, B and E) v Secretary
+of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2008/142.html">[2008] EWHC 142 (Admin)</a>; <i>R (O) v Secretary
+of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2008/2596.html">[2008] EWHC 2596 (Admin)</a>; <i>R (Adewale) v
+Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2009/1289.html">[2009] EWHC 1289 (Admin)</a>; <i>R
+(Wang) v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2009/1578.html">[2009] EWHC 1578 (Admin)</a>; <i>R (D) v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2009/1655.html">[2009] EWHC 1655 (Admin)</a>; <i>R (Ahmed) v Secretary of State for the Home Department</i> [2010]
+EWHC 625 (Admin); <i>R (Hussein) v Secretary of State for the Home Department</i>
+<a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2010/2651.html">[2010] EWHC 2651 (Admin)</a> and <i>R (HY) v Secretary of State for the Home
+Department</i> <a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2010/1678.html">[2010] EWHC 1678 (Admin)</a>. On this basis, he submits that the
+Secretary of State’s contention in the present proceedings is the
+conventionally accepted approach to the question of bail and that this includes
+the imposition of bail conditions as an alternative to detention after actual
+detention has become unlawful for <i>Hardial Singh</i> reasons. The difficulty
+with this submission, however, is that in these first instance decisions, which
+include one of my own, the power to grant bail appears to have been assumed
+without the present issue having been directly addressed.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nevertheless, the notion that the power to grant bail presupposes the
+existence and the ability to exercise a power to detain lawfully is not necessarily
+a principle of universal application. While the clearest possible words would
+be required to achieve a contrary result, Parliament could do so. It would be a
+question of construction in each case whether that result had been achieved.
+Thus in <i>Stellato</i> Stanley Burnton LJ observed (at para 25) that the
+general principles which he had set out in paragraphs 23 and 24 (quoted above)
+are subject to any statutory provision. Moreover, following a suggestion by
+Lord Hughes during the course of argument on this appeal, it became apparent
+that the provisions governing police bail in sections 34, 37 and 41, Police and
+Criminal Evidence Act 1984 may be exceptions to the general principle stated by
+the Court of Appeal. In this regard, I also draw attention to section 61,
+Immigration Act 2016.</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In view of such possible statutory inroads into the principle stated by
+the Court of Appeal, I prefer to found my conclusions in the present case on
+the interpretation of the provisions of Schedule 2.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case it is common ground that B could not lawfully be
+detained following the ruling of SIAC on 13 February 2014 that there was “no
+reasonable prospect of removing [B] to Algeria and thus the ordinary legal
+basis for justified detention of B under the Immigration Acts has fallen away”.
+Furthermore, it has not been suggested that this is a case in which, on the
+application of <i>Hardial Singh</i> principles, a lawful power of detention
+subsequently revived as a result of a change of circumstances. In these
+circumstances I conclude, for the reasons set out above, that in the absence of
+a power of lawful detention there was no power to grant bail to B pursuant to paragraph
+22 of Schedule 2 to the 1971 Act.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In these circumstances I do not consider it necessary to address the arguments
+which we have heard on article 5 ECHR which, in my view, adds nothing to the
+resolution of the issues before the court on this appeal.</a></p><a name="para56">
+
+</a></div><a name="para56">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/5.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

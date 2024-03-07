@@ -1,0 +1,958 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Burnden Holdings (UK) Ltd  v Fielding &amp; Anor [2018] UKSC 14 (28 February 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Burnden Holdings (UK) Ltd  v Fielding &amp; Anor [2018] UKSC 14 (28 February 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/14.html</i>
+<br>Cite as: 
+[2018] WTLR 379,
+
+[2018] 2 WLR 885,
+
+[2018] 2 All ER 1083,
+
+[2018] AC 857,
+
+[2018] BCC 867,
+
+[2018] 2 BCLC 311,
+
+[2018] WLR(D) 130,
+
+[2018] UKSC 14
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/14.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016003952/casereport_77ccb3b6-f5d3-45b9-a94d-9d88cc5272d3/html">[2018] 2 WLR 885</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016003952/casereport_2b80e75b-b800-494e-84b9-2cec5fead719/html">[2018] WLR(D) 130</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2018/14.image.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><span style="letter-spacing:
+-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 14</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/557.html">[2016] EWCA Civ 557</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Burnden
+  Holdings (UK) Limited (Respondent) <i>v</i> Fielding and another (Appellants)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">28 February 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 7 December 2017</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">David Chivers QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Christopher R Parker
+  QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Matthew Parfitt</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Matthew Smith</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Addleshaw
+  Goddard LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Enyo
+  Law LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="NewSpeech">LORD BRIGGS<span style="text-transform:none">: (with whom
+Lord Kerr, Lord Sumption, Lord Carnwath and Lord Lloyd-Jones agree)</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para1"><span style="font-size:13.0pt">This appeal raises a
+well-formulated issue as to the construction of section 21 of the Limitation
+Act 1980, and a rather more diffuse question as to the meaning and application
+of section 32 of the Act, in both cases in relation to what is assumed to have
+been (although this is hotly contested in the proceedings) an unlawful
+distribution in specie by the Claimant company of its shareholding in a trading
+subsidiary by the directors of the Claimant (including the two defendants), six
+years and three days before the issue of the claim form in these proceedings.</span></a></p><a name="para1">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para1"><span style="font-size:
+13.0pt"></span></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The Defendants sought summary
+judgment dismissing the claim on the ground that it was statute-barred, and
+succeeded at first instance, before HHJ Hodge QC, sitting as a judge of the
+High Court. The Court of Appeal (Arden, Tomlinson and David Richards LJJ) held,
+first, that time did not run against the Claimant company because of section
+21(1)(b) of the Act and that, in any event, there was a triable issue as to
+whether, within the meaning of section 32 of the Act, there had been deliberate
+concealment of the facts involved in the breach of duty constituted by the
+unlawful distribution.</span></a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Whatever the conclusion of this court as to the construction of sections
+21 and 32, there could not now be summary judgment for the Defendant directors.
+This is because the Claimant has since amended its claim to include the
+allegation that the claimed unlawful distribution amounted to a fraudulent
+breach of trust to which the Defendants were party, within the meaning of
+section 21(1)(a). Nonetheless the issue as to the meaning of section 21(1)(b)
+is of sufficient importance to have made it appropriate for this appeal (for
+which permission had been sought prior to the amendment pleading fraud) to
+proceed.</a></p><a name="para3">
+
+<p class="ParaHeading">The Assumed Facts</p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm;text-autospace:none"><a name="para3"><span style="font-size:13.0pt"></span></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">At all </span><span style="font-size:13.0pt">material times before October 2007, the Claimant was a
+holding company with a number of trading subsidiaries. The subsidiaries
+operated in two business areas, the supply and construction of conservatories
+and a combined heat and power business. Two trading subsidiaries in the
+conservatory business are referred to in the particulars of claim, K2 Conservatory
+Systems Ltd (“K2”) and Cestrum Conservatories Ltd (“Cestcon”). The combined
+heat and power business was carried on by Vital Energi Utilities Ltd (“Vital”).</span></a></p><a name="para4">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm;text-autospace:none"><a name="para4"><span style="font-size:13.0pt"></span></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The directors of the Claimant were
+at all material times the Defendants, Mr and Mrs Fielding, and three other
+executive directors, Mr Beckett, Mr Whitelock and Mr Kavanagh. The issued share
+capital of the Claimant comprised three classes of shares: 50,000 A ordinary
+shares, 50,000 B ordinary shares, and 50,000 D ordinary shares. The A and B
+ordinary shares were held by Mr and Mrs Fielding in equal parts, while the D
+ordinary shares were held by Mr Beckett, Mr Whitelock and The Burnden Group
+Trustee Limited (“TBGT”), the trustee of an employee share scheme. The controlling
+shareholders were Mr<i> </i>and Mrs Fielding.</span></a></p><a name="para5">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm;text-autospace:none"><a name="para5"><span style="font-size:13.0pt"></span></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">In or about July 2007, Scottish
+&amp; Southern Energy plc (“SSE”) offered to purchase a 30% shareholding in
+Vital for £6m, subject to a significant number of conditions including, in
+particular, the complete separation of Vital from the conservatory business.</span></a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In October 2007, the following pre-arranged transactions were carried
+out:</a></p><a name="para7">
+
+<p class="ParaNoNumber" style="margin-left:35.45pt">a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On 4 October 2007,
+the shareholders of the Claimant exchanged their shares for shares in a new
+holding company for the group, BHU Holdings Ltd (“BHUH”), with the
+shareholdings in that company precisely mirroring the former shareholdings in
+the Claimant.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify"><span style="font-size:13.0pt">b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On
+12 October 2007, a distribution in specie of the Claimant’s shareholding in
+Vital was approved by a unanimous resolution of the directors of the Claimant
+and by a resolution in writing of BHUH as the sole member of the Claimant. The
+distribution was effected on 12 October 2007, with the transfer of the only
+issued share in Vital from the Claimant to BHUH being registered in the register
+of members of Vital on that day. Although it is pleaded in the particulars of
+claim that Vital was a subsidiary of the Claimant until 15 October 2007, it is
+accepted by the Claimant for present purposes that the share in Vital was
+distributed in specie on 12 October 2007.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify"><span style="font-size:13.0pt">c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On
+15 October 2007, BHUH went into members’ voluntary liquidation. A<i> </i>special
+resolution to that effect was passed on that day by the members of BHUH, and
+the directors of BHUH made a statutory declaration as to its solvency. Also on
+15 October 2007, pursuant to reconstruction agreements made on that day under
+section 110 of the Insolvency Act 1986, the liquidator of BHUH transferred the
+share in Vital to a new company, Vital Holdings Limited (“VHL”) and the shares
+in the Claimant to a new company, Burnden Group Holdings Limited (“BGHL”). The
+two new holding companies issued shares to the former shareholders in BHUH,
+again precisely mirroring their shareholdings in BHUH and, previously, in the
+Claimant.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify"><span style="font-size:13.0pt">d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On
+19 October 2007, Mrs Fielding sold a 30% shareholding in VHL to SSE for £6m. Of
+that sum, £3m was lent to the Claimant and the balance was, according to the Claimant’s
+case, put towards the purchase of a property for £8.3m by Mr and Mrs Fielding
+in May 2008.</span></p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para7"><span style="font-size:
+13.0pt"></span></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Subsequently, on 2 October 2008,
+the Claimant, K2 and Cestcon all went into administration. In December 2009,
+the Claimant went into liquidation and the present liquidator was appointed in
+December 2012.</span></a></p><a name="para8">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para8"><span style="font-size:
+13.0pt"></span></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">It is alleged by the Claimant that
+the distribution in specie of the Claimant’s shareholding in Vital to BHUH was
+unlawful, and it is claimed that the Defendants breached their duties to the
+Claimant in making the distribution. The basis of the claim that the
+distribution was unlawful, at least when the matter was before the Court of
+Appeal, was that the Claimant company did not have sufficient accumulated,
+realised profits to enable the distribution of its shareholding in Vital to be
+lawfully made. The detailed basis of that allegation has changed over time and
+has, throughout, been firmly challenged by the Defendants. The detail is
+irrelevant to the limitation issues before this court. It is simply to be
+assumed that the distribution was unlawful, that the Defendants’ participation
+in it amounted to a breach of their fiduciary duties to the Claimant and that,
+because the distribution was made to a company, BHUH, in which they were
+majority shareholders and directors, the distribution was one from which they
+derived a substantial benefit.</span></a></p><a name="para9">
+
+<p class="ParaHeading">Section 21</p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para9"><span style="font-size:
+13.0pt"></span></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Section 21 of the Limitation Act
+1980 provides, so far as is relevant, as follows:</span></a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“21.- Time limit for actions in
+respect of trust property.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No period of limitation
+prescribed by this Act shall apply to an action by a beneficiary under a trust,
+being an action -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in respect of any fraud
+or fraudulent breach of trust to which the trustee was a party or privy; or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to recover from the
+trustee trust property or the proceeds of trust property in the possession of
+the trustee, or previously received by the trustee and converted to his use.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where a trustee who is
+also a beneficiary under the trust receives or retains trust property or its
+proceeds as his share on a distribution of trust property under the trust, his
+liability in any action brought by virtue of subsection (1)(b) above to recover
+that property or its proceeds after the expiration of the period of limitation
+prescribed by this Act for bringing an action to recover trust property shall
+be limited to the excess over his proper share. This subsection only applies if
+the trustee acted honestly and reasonably in making the distribution.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to the
+preceding provisions of this section, an action by a beneficiary to recover
+trust property or in respect of any breach of trust, not being an action for
+which a period of limitation is prescribed by any other provision of this Act,
+shall not be brought after the expiration of six years from the date on which
+the right of action accrued. For the purposes of this subsection, the right of
+action shall not be treated as having accrued to any beneficiary entitled to a
+future interest in the trust property until the interest fell into possession.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is common ground (and clear beyond argument) that, as directors of an
+English company who are assumed to have participated in a misappropriation of
+an asset of the company, the Defendants are to be regarded for all purposes
+connected with section 21 as trustees. This is because they are entrusted with
+the stewardship of the company’s property and owe fiduciary duties to the
+company in respect of that stewardship: see <i>Paragon Finance plc v DB
+Thakerar &amp; Co </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1998/1249.html">[1999] 1 All ER 400</a>; <i>JJ Harrison (Properties) Ltd v
+Harrison</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/1467.html">[2002] 1 BCLC 162</a>, in particular per Chadwick LJ at paras 25-29; <i>Williams
+v Central Bank of Nigeria</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/10.html">[2014] AC 1189</a>, per Lord Sumption at para 28 and,
+most recently, <i>First Subsea Ltd (formerly BSW Ltd) v Balltec Ltd </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/186.html">[2018] Ch 25</a>, per Patten LJ at para 50. By the same token, the company is the
+beneficiary of the trust for all purposes connected with section 21.
+Complications have arisen where, although a director, the Defendant’s breach of
+duty did not involve the misapplication of company property: see for example <i>Gwembe
+Valley Development Co Ltd v Koshy (No 3)</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2003/1048.html">[2004] 1 BCLC 131</a>, but those
+difficulties (if indeed they survive the decision of the Court of Appeal in the
+<i>First</i> <i>Subsea</i> case) do not arise on this appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is also now common ground that, unless section 21(1) applies, the
+Defendants have the benefit of the six-year period of limitation laid down by
+section 21(3), because the relevant breach of duty arising from the
+distribution of the shareholding in Vital occurred on 12 October 2007, and
+these proceedings were issued more than six years later. At the time of the
+hearing before the Court of Appeal there was no relevant allegation of fraud:
+see para 32 of the judgment of David Richards LJ </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/557.html">[2017] 1 WLR 39</a>. Although such
+an allegation has since been pleaded, this appeal has been argued upon the
+basis that the only question to be decided is whether the Defendants’ ability
+to rely upon a six year period of limitation under section 21(3) is denied to
+them by reason of section 21(1)(b).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 21(1)(b) is about actions “to recover from the trustee trust
+property or the proceeds of trust property …” A preliminary objection was taken
+in the Court of Appeal by Mr David Chivers QC (who appears also on this appeal
+for the Defendants) that a claim such as the present, for an account of profits
+or alternatively equitable compensation, did not fall within section 21(1)(b)
+at all. This was rejected by the Court of Appeal (at para 38), upon the basis
+that a claim for equitable compensation, in a case where the trustee’s indirect
+interest in the trust asset had been converted to the use of the trustee, was
+an appropriate remedy to seek in an action falling within section 21(1)(b). That
+analysis of David Richards LJ has not been challenged on this appeal. Rather,
+Mr Chivers’ focus has been on the remaining part of section 21(1)(b), by way of
+submissions that the relevant trust property (namely the shareholding in Vital)
+was never in the possession of the Defendants, or previously received by them
+and converted to their use. The gist of his submission, both here and below,
+was that from start to finish the shareholding in Vital had been in the legal
+and beneficial ownership and therefore possession of a succession of corporate
+entities, namely the Claimant company, then BHUH, to which the shareholding was
+unlawfully distributed, and later VHL, to which the shareholding was later
+transferred as part of the corporate reconstruction which led to these
+proceedings, and where it ultimately remained. Although the Defendants were
+from time to time shareholders and directors in all those corporate entities,
+the shareholding in Vital was never in their possession, nor previously
+received by them and converted to their use. To hold otherwise would, he
+submitted, involve the lifting of one or more corporate veils, or ignoring the
+separate legal personality of the companies concerned, all of which are
+prohibited, save in circumstances which do not apply to this case, by the
+reasoning of this court in <i>Prest v Petrodel Resources Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/34.html">[2013] 2 AC 415</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the Court of Appeal, David Richards LJ acknowledged (at para 35) that
+this submission responded well to a literal reading of section 21(1)(b) but
+that such an interpretation would be a recipe for avoidance by trustees
+because, in the modern world, it is commonplace for companies to be used to
+hold assets, where the beneficial ownership is vested in the company but the
+entire economic benefit is available for the shareholders. Relying upon and
+approving the analysis of Mr Richard Field QC in <i>In re Pantone 485 Ltd;
+Miller v Bain </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2001/705.html">[2002] 1 BCLC 266</a>, David Richards LJ concluded that, in order
+to achieve its purpose, section 21(1)(b) had to be construed so as to include
+within its terms a transfer (in breach of trust) to a company directly or
+indirectly controlled by the defaulting trustee.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this court, Mr Chivers made a detailed and thorough attack on that
+analysis, which may be summarised as follows:</a></p><a name="para15">
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">There was no need to be concerned
+with anti-avoidance when construing section 21(1)(b). If trustees deliberately
+inserted a company between them and the misappropriated assets this would be a
+recognised ground for lifting the corporate veil: see the <i>Prest</i> case, at
+paras 34-35. It would be an abuse of corporate legal personality.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">In any event, the deliberate use
+of a corporate vehicle to insulate trustees from liability, after six years,
+for breach of trust would in most cases give rise to a claim in fraud within
+section 21(1)(a).</span></p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify;text-indent:0cm"><a name="para15"><span style="font-size:
+13.0pt">iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">It was wrong in principle to
+equate control of a company with possession of its assets save, perhaps, where
+the company was a pure nominee. For that purpose, he relied upon the analysis
+of possession for the purposes of section 8 of the Trustee Act 1888 (the
+distant predecessor of section 21) by Lindley LJ in <i>Thorne v Heard</i>
+</span></a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1894/12.html">[1894] 1 Ch 599</a>, at 605-606. In practical terms, he submitted that majority
+shareholders had much less than absolute control over a company’s property,
+because of the requirement to have regard to the interests of other
+stakeholders, such as minority shareholders and creditors.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt">iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">As to the <i>Pantone</i> case, he
+submitted that the deputy judge’s analysis had been based upon the <i>Harrison</i>
+case (cited above), in which Chadwick LJ’s conclusion was grounded on facts
+which included the acquisition (in breach of duty) by a director of the company
+by a purchase at an undervalue, followed by an on-sale of it to a third party. In
+that type of case, Mr Chivers submitted, the company’s property had indeed been
+“previously received” by the director/trustee before being converted to his use
+by its on-sale.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt">v)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">In response to a question from the
+court as to whether an unlawful distribution in specie could itself be said to
+be a conversion of trust property Mr Chivers submitted that a distribution,
+even if unlawful, affirmed rather than denied the company’s title to that which
+was distributed.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt">vi)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">Finally, in response to the
+question whether a director could not be said to have “previously received”
+company property by virtue of his office as director, in advance of any
+misapplication of it in breach of trust, Mr Chivers submitted that this would
+render the requirement of previous receipt otiose, since it would apply in
+every case.</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These carefully constructed submissions were of real force, to the
+extent that they demonstrated that there was no need to have regard to
+anti-avoidance in construing section 21(1)(b). The deliberate use of a corporate
+vehicle to distance a defaulting trustee from the receipt or possession of
+misappropriated trust property might justify lifting the corporate veil. In any
+event it would in most cases justify a finding of fraud, within the meaning of
+section 21(1)(a). Furthermore, the submission that control of a company
+afforded by being a majority shareholder and director is not so absolute as to
+confer <i>de facto</i> possession of its property is persuasive: see eg <i>Lonrho
+Ltd v Shell Petroleum Co Ltd </i>[1980] 1 WLR 627. But taken as a whole, Mr
+Chivers’ submissions do not lead to the conclusion that section 21(1)(b) is
+inapplicable to the assumed facts with which this appeal is concerned, merely
+because the misappropriated property has remained legally and beneficially
+owned by corporate vehicles throughout, rather than becoming vested in law or
+in equity in the defaulting directors.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The starting point in the construction of section 21(1)(b) is to pay due
+regard to its purpose. This was laid down, in relation to its predecessor, in <i>In
+re Timmis, Nixon v Smith </i></a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1901/192.html">[1902] 1 Ch 176</a> at 186 by Kekewich J as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The intention of the statute was
+to give a trustee the benefit of the lapse of time when, although he had done
+something legally or technically wrong, he had done nothing morally wrong or
+dishonest, but it was not intended to protect him where, if he pleaded the
+statute, he would come off with something he ought not to have, ie, money of
+the trust received by him and converted to his own use.”</p>
+
+<p class="ParaNoNumber">That this is the purpose of what is now section 21 was
+confirmed by Chadwick LJ in the <i>Harrison </i>case at para 40. Mr Chivers did
+not, when it was put to him, challenge it in any way.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is necessary to bear in mind that section 21 is primarily aimed at
+express trustees, and applicable to company directors by what may fairly be
+described as a process of analogy. An express trustee, such as a trustee of a
+strict settlement, might or might not from time to time, or indeed at all, be
+in possession or receipt of the trust property. The property might consist of
+land in the possession of a tenant for life.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By contrast, in the context of company property, directors are to be
+treated as being in possession of the trust property from the outset. It is
+precisely because, under the typical constitution of an English company, the
+directors are the fiduciary stewards of the company’s property, that they are trustees
+within the meaning of section 21 at all. Of course, if they have
+misappropriated the property before action is brought by the company (the
+beneficiary for this purpose) to recover it they may or may not by that time
+still be in possession of it. But if their misappropriation of the company’s
+property amounts to a conversion of it to their own use, they will still
+necessarily have previously received it, by virtue of being the fiduciary
+stewards of it as directors.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It may well be that, in relation to trustees who are company directors,
+the requirement in section 21(1)(b) that the property be previously received by
+them before its conversion adds little or nothing to the conditions for the
+disapplication of any limitation period which would otherwise have operated in
+their favour. But that requirement is not otiose in relation to trustees
+generally, for the reason already given. Thus, for example, the trustee of a
+strict settlement who had, without dishonesty, committed a breach of trust by
+neglecting to exercise available powers to prevent dissipation of the trust
+property by the tenant for life, would not be deprived of the benefit of the
+trustee’s six year limitation period by virtue of section 21(1)(b). He would
+neither be in possession of the trust property, nor would he ever have received
+it nor, incidentally, would he have converted it to his own use.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is nothing in Mr Chivers’ objection that to treat individual
+directors as being in possession, or in previous receipt, of company property
+by virtue of their office would unfairly assume a level of control over it
+which they might in practice lack, for example by being in a minority on the
+Board. Trustees of an express trust in whom the trust property is vested in law
+are each treated as being in possession or receipt of the trust property,
+notwithstanding that they hold title to it jointly with all the other trustees.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, (of course only on the assumed facts), the
+Defendant directors converted the company’s shareholding in Vital when they
+procured or participated in the unlawful distribution of it to BHUH. It was a
+conversion because, if the distribution was unlawful, it was a taking of the
+company’s property in defiance of the company’s rights of ownership of it. It
+was a conversion of the shareholding to their own use because of the economic
+benefit which they stood to derive from being the majority shareholders in the
+company to which the distribution was made. By the time of that conversion the
+Defendants had previously received the property because, as directors of the
+Claimant company, they had been its fiduciary stewards from the outset.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For those reasons, although they differ to some extent from the Court of
+Appeal’s analysis, I would dismiss this appeal so far as it relates to section
+21.</a></p><a name="para23">
+
+<p class="ParaHeading">Section 32</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 32 of the Limitation Act 1980, as amended by section 6(6) of,
+and paragraph 5 of Schedule 1 to, the Consumer Protection Act 1987, provides,
+so far as relevant for present purposes, as follows:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“32.- Postponement of limitation
+period in case of fraud, concealment or mistake.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to subsections
+(3) and (4A) below, where in the case of any action for which a period of
+limitation is prescribed by this Act, either -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the action is based
+upon the fraud of the Defendant; or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any fact relevant to
+the plaintiff’s right of action has been deliberately concealed from him by the
+Defendant; or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the action is for
+relief from the consequences of a mistake;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">the period of limitation shall
+not begin to run until the plaintiff has discovered the fraud, concealment or
+mistake (as the case may be) or could with reasonable diligence have discovered
+it. References in this subsection to the Defendant include references to the
+Defendant’s agent and to any person through whom the Defendant claims and his
+agent.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of
+subsection (1) above, deliberate commission of a breach of duty in
+circumstances in which it is unlikely to be discovered for some time amounts to
+deliberate concealment of the facts involved in that breach of duty. …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal reversed the judge’s order by way of Defendants’
+summary judgment in relation to section 32, mainly because they regarded the
+issues as to its applicability as being too fact-sensitive to be suitable for
+summary judgment: see per David Richards LJ at paras 51 and 55. On the way to
+that conclusion David Richards LJ adopted an interpretation of section 32(2)
+which has, on this appeal, been subjected to significant, albeit commendably
+brief, criticism by Mr Chivers, both orally and in writing, centred around
+issues as to the meaning of the phrase “some time” in subsection (2), and the
+interpretation placed upon it by Lewison J in <i>JD Wetherspoon plc v Van de
+Berg &amp; Co Ltd </i></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2007/1044.html">[2007] EWHC 1044 (Ch)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2007/1044.html">[2007] PNLR 28</a>, at para 40.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The in-depth analysis of this difficult question would take the court
+into a potential minefield of difficulties which surround section 32 and, in
+this corporate context, would also involve a consideration of questions of
+attribution. There cannot be summary judgment in favour of the Defendants in
+this case, both because of the recent plea of fraud and because of this court’s
+decision about the meaning of section 21. Whatever the correct interpretation
+of section 32(2), there would still be fact-intensive issues calling for a
+trial. In view of the relatively summary way in which this issue has been
+addressed by counsel (about which I express no criticism at all), I have not
+therefore considered it appropriate to reach any final view about it. It is
+sufficient for present purposes for me to conclude that the appeal in relation
+to section 32 should be dismissed because the issue is unsuitable for summary
+judgment. I express no view one way or the other on the correctness or otherwise
+of the interpretation of section 32(2) adopted <i>en passant</i> by the Court
+of Appeal.</a></p><a name="para26">
+
+</a></div><a name="para26">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/14.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

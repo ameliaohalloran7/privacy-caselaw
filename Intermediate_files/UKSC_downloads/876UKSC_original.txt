@@ -1,0 +1,872 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Secretary of State for Transport v Curzon Park Ltd &amp; Ors [2023] UKSC 30 (10 August 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:Gisha;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:TimesNewRomanPSMT;  panose-1:0 0 0 0 0 0 0 0 0 0;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:18.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaSubHeading2, li.ParaSubHeading2, div.ParaSubHeading2  {mso-style-name:ParaSubHeading2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Secretary of State for Transport v Curzon Park Ltd &amp; Ors [2023] UKSC 30 (10 August 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/30.html</i>
+<br>Cite as: 
+[2023] 1 WLR 2762,
+
+[2023] UKSC 30,
+
+[2023] WLR 2762,
+
+[2023] PTSR 1564
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/30.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2020002438/casereport_46dc4793-8d04-4273-9437-7a1be8dc9ee9/html">[2023] 1 WLR 2762</a>]
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2020002438/casereport_93fe8f8c-ead4-460f-8576-576021c37099/html">[2023] PTSR 1564</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/30.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/30.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b>[2023] UKSC 30</b></a></p>  
+
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/651.html">[2021] EWCA Civ 651</a></i></p>  
+
+<p class="JudgmentTitle">JUDGMENT</p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">Secretary of State for Transport (Appellant) <br><i>v</i><br> Curzon Park Ltd and others (Respondents)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Kitchin</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Sales</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hamblen</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Leggatt</p>  
+
+<p class="JudgmentJudges">Lady Rose</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">10 August 2023</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges">Heard on 19 and 20 April 2023</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>Appellant</i></a></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Timothy Corner KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Guy Williams KC</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by DLA Piper UK LLP (Birmingham))</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>1<sup>st</sup> Respondent</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">James Pereira KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Caroline Daly</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Town Legal LLP (London))</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>&nbsp;2<sup>nd</sup> and 3<sup>rd</sup> Respondents</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">David Elvin KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Richard Moules</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Bryan Cave Leighton Paisner LLP (London)/Ashurst LLP (London))</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>4<sup>th</sup> Respondent</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Richard Glover KC</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by Mills &amp; Reeve LLP (Cambridge))</p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="JudgmentAppRespInt" align="left" style="margin-bottom:0cm;text-align: left"><b>Respondents</b>&nbsp; </p>  
+
+<p class="JudgmentAppRespInt" align="left" style="margin-bottom:0cm;text-align: left">1) Curzon Park Ltd</p>  
+
+<p class="JudgmentAppRespInt" align="left" style="margin-bottom:0cm;text-align: left">2) Quintain City Park Gate Birmingham Ltd</p>  
+
+<p class="JudgmentAppRespInt" align="left" style="margin-bottom:0cm;text-align: left">3) The Eastside Partnership Nominee Company Ltd</p>  
+
+<p class="JudgmentAppRespInt" align="left" style="text-align:left">4) Birmingham City University </p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="MsoNormal"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">Lord Sales and Lord Hamblen (</a><span style="text-transform:none">with whom Lord Kitchin, Lord Leggatt and Lady Rose agree</span>): </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">1 Introduction</span></p><ol>  
+
+<li value="1"><a name="para1"> When land is compulsorily purchased the landowner is entitled to compensation. The basic measure of compensation is the open market value of land if sold by a willing seller - see rule (2) of section 5 of the Land Compensation Act 1961 (“the LCA”).
+</a></li>
+<p> </p>  
+
+<li value="2"><a name="para2"> The landowner is also entitled to be compensated for enhancement of the value of the land (which we will call “the land in issue”) resulting from actual or prospective planning permission for its development. This is addressed in section 14 of the LCA.
+</a></li>
+<p> </p>  
+
+<li value="3"><a name="para3"> Under section 14 in assessing the value of the land in issue account may be taken of (i) planning permission which is in force in respect of it at the relevant valuation date (section 14(2)(a)); (ii) the prospect at the valuation date of planning permission being granted in respect of it on or after that date (section 14(2)(b)) (commonly referred to as “hope value”); and (iii) “appropriate alternative development” of the land (section 14(3) and (4)).
+</a></li>
+<p> </p>  
+
+<li value="4"><a name="para4"> Development is appropriate alternative development if, on stated assumptions, at the relevant valuation date planning permission for the development could reasonably have been expected to be granted on an application decided either on that date or at a time after that date: section 14(4). If so, then it is assumed that planning permission is or will be in force in respect of the land in issue at those dates: section 14(3).
+</a></li>
+<p> </p>  
+
+<li value="5"><a name="para5"> Under section 17 of the LCA the landowner may apply to the local planning authority for a certificate stating that there is development which is appropriate alternative development for the purposes of section 14 - a certificate of appropriate alternative development (“CAAD”). In practice, a landowner will often apply for a CAAD which identifies every description of development for which planning permission could reasonably have been expected to be granted if the land had not been compulsorily acquired. The landowner can then rely on whichever happens to be the most valuable form of hypothetical development covered by the CAAD for the purposes of seeking compensation for the land in issue. 
+</a></li>
+<p> </p>  
+
+<li value="6"><a name="para6"> The issue which arises on this appeal is whether in determining an application for a CAAD for a particular parcel of land the decision-maker may take into account CAAD applications or decisions which relate to the development of other land. The Court of Appeal held that the decision-maker was not entitled to do so.
+</a></li>
+<p> </p>  
+
+<li value="7"><a name="para7"> The appellant, the Secretary of State for Transport, contends that the Court of Appeal’s decision is wrong and that CAAD applications or decisions in respect of land other than the land in issue may be taken into account if they contain evidence bearing on the question to be addressed under section 14(4). In this respect, however, the Secretary of State’s case has been substantially changed from that which was advanced in the Upper Tribunal and in the Court of Appeal. 
+</a></li>
+<p> </p>  
+
+<li value="8"><a name="para8"> The factual context in which the issue arises for decision is the valuation of four neighbouring sites which were compulsorily acquired by the Secretary of State in order to construct a railway terminus in Birmingham for Phase 1 of HS2 (the London to West Midlands high-speed railway). The four respondents were the owners of the sites and each of them applied for and was granted a CAAD in relation to their respective sites.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">2 <span style="text-transform:none">Factual background</span></p>  
+
+<li value="9"><a name="para9"> In 2010, the Government announced ("High Speed Rail": Command Paper 7827: March 2010) that it had accepted a recommendation that a high-speed rail network should be built between London, Birmingham, Manchester and Leeds, which has become known as "HS2". Phase 1 of HS2 concerns the high-speed rail link from London to the West Midlands.
+</a></li>
+<p> </p>  
+
+<li value="10"><a name="para10"> The respondents were the owners of four neighbouring sites at the eastern edge of Birmingham city centre, close to the main campuses of Aston University and Birmingham City University. The four sites are (1) Quintain City Park Gate (“Site 1” - owned by the second respondent); (2) Birmingham City University site (“Site 2” - owned by the fourth respondent); (3) Curzon Park (“Site 3” - owned by the first respondent) and (4) Curzon Gateway (“Site 4” - owned by the third respondent). Each site is a substantial development site in its own right. All of them had been cleared for development in anticipation of the eastward expansion of the city centre and various planning permissions had been obtained in respect of them.
+</a></li>
+<p> </p>  
+
+<li value="11"><a name="para11"> On 9 July 2013, safeguarding directions were issued by the Secretary of State in relation to all four sites. The object of a safeguarding direction is to make land which might be required for an infrastructure project subject to additional requirements in relation to its development. Where such a direction is in place in respect of specified land, HS2 Ltd must be consulted by the local planning authority on any planning application that is submitted for determination.
+</a></li>
+<p> </p>  
+
+<li value="12"><a name="para12"> In November 2013, the Government introduced the High Speed Rail (London-West Midlands) Bill (which ultimately became the High Speed Rail (London-West Midlands) Act 2017 - “the Phase 1 Act”) to seek powers for the construction and operation of Phase 1. The Phase 1 Act achieved Royal Assent on 23 February 2017. In 2018, the Secretary of State compulsorily acquired, pursuant to section 4(1) of the Phase 1 Act, each of the four sites. The acquisition was implemented by separate general vesting declarations made between March and September 2018. The vesting dates for each site were 16 March 2018 (Site 2); 17 July 2018 (Site 1); 30 August 2018 (Site 3); and 26 September 2018 (Site 4).
+</a></li>
+<p> </p>  
+
+<li value="13"><a name="para13"> Each of the respondents applied to Birmingham City Council (“the Council”), as the local planning authority, for a CAAD. 
+</a></li>
+<p> </p>  
+
+<li value="14"><a name="para14"> In relation to Site 1, the second respondent made a CAAD application to the Council on 11 February 2019. On 29 May 2019 the Council purported to grant a CAAD for a mixed-use development of up to 99,490 sqm including residential, office, hotel and retail uses, together with student accommodation providing 1,940 beds (because an appeal had already been lodged against the Council’s failure to determine the application within the statutory time limit, the parties agreed that the Council had no power to grant that CAAD, but it was indicative of the Council’s view). 
+</a></li>
+<p> </p>  
+
+<li value="15"><a name="para15"> In relation to Site 2, the fourth respondent made a CAAD application on 21 December 2018. On 31 July 2019 the Council granted a CAAD for a mixed use development of up to 88,829 sqm, including up to 895 dwellings, a maximum of 38,580 sqm of offices, a theatre and a concert hall, a hotel, car parking and a maximum of 66,187 sqm of student accommodation providing 2,279 beds.
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> In relation to Site 3, the first respondent made a CAAD application on 18 April 2019. On 18 June 2019 the Council granted a CAAD for a series of buildings of between 7 and 41 storeys comprising up to 181,260 sqm of residential, office, retail and educational uses, a hotel, and up to 37,013 sqm of student accommodation providing 1,716 beds. 
+</a></li>
+<p> </p>  
+
+<li value="17"><a name="para17"> In relation to Site 4, the third respondent made an initial application for a CAAD on 22 February 2019 and, following an appealed non-determination, a second application on 21 November 2019. On 16 January 2020 the Council granted a CAAD for a mixed-use development of up to 30,747 sqm and a maximum of 24,870 sqm of student accommodation providing 871 beds.
+</a></li>
+<p> </p>  
+
+<li value="18"><a name="para18"> &nbsp;Each of the CAAD applications related to the development of each respondent’s site alone and not in conjunction with other land. The Council rejected the Secretary of State’s contention that the cumulative impacts of all the applications for CAADs should be considered. Its position on each application was that “the other current and consented applications for certificates are neither part of the policy context nor the planning position at the relevant valuation date. As the assumption has to be that the project is cancelled on its launch date no CAAD submissions by neighbouring landowners could have been submitted. There is therefore no requirement or basis for considering cumulative effects of these submissions”.
+</a></li>
+<p> </p>  
+
+<li value="19"><a name="para19"> Given the inclusion within the various CAAD applications of purpose-built student accommodation, policy TP33 of the Birmingham Development Plan 2017 was relevant. It requires a demonstrated need for such development where the development is to take place off campus.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">3 The statutory framework</span></p>  
+
+<li value="20"><a name="para20"> Section 5 of the LCA provides that compensation in respect of any compulsory acquisition shall be assessed in accordance with the rules set out therein. Rule (2) of section 5 sets out the basic measure of compensation. It provides that:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“The value of land shall, subject as hereinafter provided, be taken to be the amount which the land if sold in the open market by a willing seller might be expected to realise.”</p>  
+
+<li value="21"><a name="para21"> Section 14 of the LCA makes provision for taking account of actual or prospective planning permission in the assessment of the value of land under rule (2) of section 5. The full text of section 14 is set out in the annex to this judgment.
+</a></li>
+<p> </p>  
+
+<li value="22"><a name="para22"> Section 14(2)(a) provides that planning permissions in force at the relevant valuation date for the relevant land (ie the land in issue) or other land may be taken into account.
+</a></li>
+<p> </p>  
+
+<li value="23"><a name="para23"> Section 14(2)(b) provides that account may be taken “of the prospect, on the assumptions set out in subsection (5) but otherwise in the circumstances known to the market at the relevant valuation date,” of planning permission being granted for development on the relevant land or other land, other than development for which planning permission is in force at the relevant valuation date (that situation being covered by subsection (2)(a)) and “appropriate alternative development” (this being covered by subsections (3) and (4)). 
+</a></li>
+<p> </p>  
+
+<li value="24"><a name="para24"> Section 14(3) provides that for development which is appropriate alternative development to which subsection (4)(b)(i) applies (planning permission reasonably to be expected to be granted at the valuation date) it may be assumed that planning permission is in force at the valuation date and that for development to which subsection (4)(b)(ii) applies (planning permission reasonably to be expected at a later date) it may be assumed that “it is certain” that planning permission will be granted at that later date<span style="font-family:&quot;Times New Roman&quot;,serif">.</span>
+</a></li>
+<p> </p>  
+
+<li value="25"><a name="para25"> Section 14(4) sets out what appropriate alternative development is. It provides:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“(4) For the purposes of this section, development is ‘appropriate alternative development’ if-</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a) it is development, on the relevant land alone or on the relevant land together with other land, other than development for which planning permission is in force at the relevant valuation date, and</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b) on the assumptions set out in subsection (5) but otherwise in the circumstances known to the market at the relevant valuation date, planning permission for the development could at that date reasonably have been expected to be granted on an application decided—</p>  
+
+<p class="MsoQuote" style="text-indent:36.0pt">(i) on that date, or</p>  
+
+<p class="MsoQuote" style="text-indent:36.0pt">(ii) at a time after that date.”</p>  
+
+<li value="26"><a name="para26"> Section 14(5) sets out the assumptions to be made for the purpose of subsections 2(b) and 4(b) (“the cancellation assumption”). It provides:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“(5) The assumptions referred to in subsections (2)(b) and (4)(b) are— </p>  
+
+<p class="MsoQuote">(a) that the scheme of development underlying the acquisition had been cancelled on the launch date, </p>  
+
+<p class="MsoQuote">(b) that no action has been taken (including acquisition of any land, and any development or works) by the acquiring authority wholly or mainly for the purposes of the scheme, </p>  
+
+<p class="MsoQuote">(c) that there is no prospect of the same scheme, or any other project to meet the same or substantially the same need, being carried out in the exercise of a statutory function or by the exercise of compulsory purchase powers, and </p>  
+
+<p class="MsoQuote">(d) if the scheme was for use of the relevant land for or in connection with the construction of a highway (‘the scheme highway’), that no highway will be constructed to meet the same or substantially the same need as the scheme highway would have been constructed to meet.”</p>  
+
+<p class="ParaNoNumber">Assumption (d) is of no relevance in this case as it does not concern a highway.</p>  
+
+<li value="27"><a name="para27"> Section 14(6) defines “the launch date”, which in essence is the date upon which the potential use of compulsory acquisition powers becomes public. In this case it is agreed to be 25 November 2013. That was the date upon which the High Speed Rail (London-West Midlands) Bill was introduced in Parliament.
+</a></li>
+<p> </p>  
+
+<li value="28"><a name="para28"> Section 5A defines “the relevant valuation date”. It is agreed that this is the vesting date for each Site.
+</a></li>
+<p> </p>  
+
+<li value="29"><a name="para29"> Section 17 makes provision for local planning authorities to certify whether development is appropriate alternative development. Subsection (1) provides:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“(1) Where an interest in land is proposed to be acquired by an authority possessing compulsory purchase powers, either of the parties directly concerned may (subject to subsection (2)) apply to the local planning authority for a certificate containing whichever of the following statements is the applicable statement—</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a) that in the local planning authority’s opinion there is development that, for the purposes of section 14, is appropriate alternative development in relation to the acquisition;</p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b) that in the local planning authority’s opinion there is no development that, for the purposes of section 14, is appropriate alternative development in relation to the acquisition.”</p>  
+
+<p class="MsoNormal" style="margin-left:72.0pt;text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<li value="30"><a name="para30"> Subsection (3) provides that an application for a CAAD which contends that there is development which is appropriate alternative development must specify each description of development which is said to qualify as appropriate alternative development and the reasons in support of that. 
+</a></li>
+<p> </p>  
+
+<li value="31"><a name="para31"> Subsection (5) provides that if a CAAD is issued under subsection (1)(a) it must identify every description of development (whether specified in the application or not) that in the local planning authority’s opinion is appropriate alternative development of the land in issue and must give a general indication of any conditions to which planning permission for that development could reasonably have been expected to be subject, of when such permission could reasonably have been expected to be granted (if it could only reasonably have been expected to be granted after the valuation date) and of any pre-condition for granting the permission (for example the entry into an obligation) that could reasonably have been expected to be met. 
+</a></li>
+<p> </p>  
+
+<li value="32"><a name="para32"> Section 18 of the LCA provides for a right of appeal to the Upper Tribunal in relation to a local planning authority’s decision in respect of an application for a CAAD. Where there is an appeal, the Upper Tribunal must consider matters as if the application had been made to it in the first place (section 18(2)). 
+</a></li>
+<p> </p>  
+
+<li value="33"><a name="para33"> It is not necessary for the owner of the land in issue to apply to the local planning authority for a CAAD in order to contend that there is appropriate alternative development of that land which ought to be taken into account when assessing the value of the land in issue for the purposes of compensation. That may be a matter of agreement between the landowner and the relevant public authority, it may be a matter made subject to an arbitration agreement between them, or it may be an issue which is raised in proceedings in the Upper Tribunal in which a compensation payment is claimed, in which case the Upper Tribunal itself will make an assessment.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">4 The decisions below</span></p>  
+
+<li value="34"><a name="para34"> The CAAD decision for each of the sites was appealed to the Upper Tribunal (Lands Chamber) under section 18 of the LCA. 
+</a></li>
+<p> </p>  
+
+<li value="35"><a name="para35"> On 16 October 2019 the Upper Tribunal directed that it would determine the following “preliminary issue” in all four appeals at a single hearing: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Whether, and if so how, in determining an application for a certificate of appropriate alternative development under section 17 [of the LCA] (‘CAAD’) the decision-maker in determining the development for which planning permission could reasonably have been expected to be granted for the purposes of section 14 LCA 1961 may take into account the development of other land where such development is proposed as appropriate alternative development in other CAAD applications made or determined arising from the compulsory acquisition of land for the same underlying scheme.”</p>  
+
+<li value="36"><a name="para36"> The preliminary issue hearing was held on 23 January 2020 before the Upper Tribunal (Martin Rodger QC, Deputy Chamber President, and AJ Trott FRICS).
+</a></li>
+<p> </p>  
+
+<li value="37"><a name="para37"> At the hearing the respondents contended that the cancellation assumption in section 14(5) of the LCA required the existence of CAADs or applications for CAADs relating to other sites to be disregarded (“the cancellation argument”). It was said that on the required assumption that the HS2 scheme had been cancelled on the launch date there would not have been any CAAD applications on other sites and so they must necessarily be ignored. This is because the ability of a landowner to make an application for a CAAD is triggered only where the authority proposes to purchase the land compulsorily. If, as one must assume, the development scheme had been cancelled at the launch date there would have been no such proposal. In its decision of 10 February 2020, </a><a title="Link to BAILII version" href="/uk/cases/UKUT/LC/2020/37.html">[2020] UKUT 37 (LC)</a>, reported at <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/LC/2020/37.html">[2020] RVR 154</a>, the Upper Tribunal rejected the cancellation argument. It considered that it does not follow from section 14(5)(a) that all consequences of the scheme must be assumed away or disregarded. The cancellation assumption goes no further than assuming that the scheme has been cancelled; it does not require that all consequences of the scheme should be assumed not to have happened (see paras 44-46).
+</li>
+<p> </p>  
+
+<li value="38"><a name="para38"> The Upper Tribunal held that the task created by section 14(4) is to decide the outcome of a notional application for planning permission (para 50). A CAAD decision made in respect of an adjoining site could be relied upon as evidence of how, in the world of the cancelled scheme, the planning authority might reasonably have been expected to deal with an application for planning permission on the relevant land. For example, in this case the Council had used a CAAD decision in respect of Site 1 in establishing the principle of the acceptability of off campus student residential development as proposed in an application made in respect of Site 2 (para 51). It was further held, however, that an undetermined CAAD application for an adjoining site is unlikely to be of significance in the determination of a CAAD application for the relevant land; the mere fact that it had been made would be unlikely to tell the decision maker much of relevance (para 53).
+</a></li>
+<p> </p>  
+
+<li value="39"><a name="para39"> The Upper Tribunal rejected the Secretary of State’s case that CAAD applications in respect of other sites should be treated as notional applications for planning permission (paras 56-62).
+</a></li>
+<p> </p>  
+
+<li value="40"><a name="para40"> The Upper Tribunal also rejected the Secretary of State’s case that each of the respondents was liable to be over-compensated unless the cumulative effect of development which had or was likely to come forward on neighbouring sites was taken into account. In this case, for example, the combined effect of the four certificates sought by the respondents would be to confirm that there was a reasonable expectation of planning permission being granted at the valuation date for a total of 6,864 bed spaces. In reality, planning permission would have been limited by planning policy to a much smaller number (para 40). The Upper Tribunal pointed out that any complaint about excessive compensation had to have regard to the fact that the respondents had been deprived of the freedom to develop their land from the launch date in November 2013 until the vesting dates in 2018 (para 63). Further, section 14 of the LCA represents Parliament’s policy choice as to what amounts to fair compensation (para 65).
+</a></li>
+<p> </p>  
+
+<li value="41"><a name="para41"> At para 66 the Upper Tribunal answered the preliminary issue as follows:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“…our answer to the preliminary issue is that in determining the development for which planning permission could reasonably have been expected to be granted for the purposes of section 14(4)(b), the decision maker is not required to assume [that] CAAD applications or decisions arising from the compulsory acquisition of land for the same underlying scheme had never been made. The decision maker must treat such applications and decisions as what they are, and not as notional applications for, or grants of, planning permission. They are not material planning considerations. Subject to those boundaries, it is for the decision maker to give the applications and decisions such evidential weight as they think appropriate.”</p>  
+
+<li value="42"><a name="para42"> The Secretary of State appealed to the Court of Appeal with its permission. The respondents issued respondents’ notices in which they relied on the cancellation argument which the Upper Tribunal had rejected.
+</a></li>
+<p> </p>  
+
+<li value="43"><a name="para43"> The Court of Appeal (Lewison LJ, Sir Keith Lindblom SPT and Moylan LJ) dismissed the appeal in its judgment of 6 May 2021: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/651.html">[2021] EWCA Civ 651</a>, <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/651.html">[2021] PTSR 1560</a>. The leading judgment was given by Lewison LJ. Sir Keith Lindblom gave a concurring judgment and Moylan LJ agreed with both judgments.
+</li>
+<p> </p>  
+
+<li value="44"><a name="para44"> The Court of Appeal’s primary ground for dismissing the appeal was its acceptance of the cancellation argument. It concluded that as the cancellation assumption in section 14(5)(a) requires the decision maker to assume that the scheme has been cancelled on the launch date, it follows from that assumption that no CAAD applications could have been made pursuant to section 17(1) in the counterfactual scenario posited by the statute (sometimes referred to, by way of shorthand, as “the no scheme world”, but which is more accurately described as “the cancelled scheme world”). As such, an “inevitable consequence” of the cancellation assumption is that the decision maker must disregard any applications or decisions in respect of other sites which may in fact have been made (paras 44-49).
+</a></li>
+<p> </p>  
+
+<li value="45"><a name="para45"> Although this was dispositive of the appeal it was further held that the appeal must fail in any event. As set out in the judgment of Lewison LJ, this was for three main reasons.
+</a></li>
+<p> </p>  
+
+<li value="46"><a name="para46"> First, the decision maker is obliged to determine whether planning permission could reasonably be expected to have been granted on the valuation date by reference to “the circumstances known in the market” at the relevant time (section 14(4)(b)). Events after the valuation date generally cannot be taken into account. That is reinforced by section 5A(2), which prohibits any adjustment to the valuation as a result of anything that occurred after the valuation date. The applications for CAADs were made after the relevant valuation dates, and therefore could not have been known to the market. Assuming that a CAAD application had been made at the valuation date would be contrary to what Lewison LJ called the reality principle and section 5A(2) (para 53). He explained (paras 40-43) that the reality principle is a fundamental principle of valuation in a context like the LCA, which requires the valuation to take place against the background of the real world, except in so far as specified hypotheses (in this case, in the LCA) otherwise require; in that regard, he cited <i>Transport for London (formerly London Underground Ltd) v Spirerose Ltd </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2009/44.html">[2009] UKHL 44</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/44.html">[2009] 1 WLR 1797</a> (“<i>Spirerose</i>”), para 50 (Lord Neuberger of Abbotsbury) and his own judgment in <i>Harbinger Capital Partners v Caldwell </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2013/492.html">[2013] EWCA Civ 492</a>, paras 22-23 (paras 40-43).
+</li>
+<p> </p>  
+
+<li value="47"><a name="para47"> Secondly, as there was room for some development of student accommodation under the relevant policy, it was unclear how, if each landowner applied for a CAAD specifying student accommodation, the Council could have fairly allocated that development across the four sites via the CAADs. Lewison LJ considered that that difficulty is compounded by the fact that applications will be made at different dates, and that events post-dating the valuation date cannot be taken into account (paras 44-49).
+</a></li>
+<p> </p>  
+
+<li value="48"><a name="para48"> Thirdly, Lewison LJ said that the appellant was unable to point to any individual landowner who has been overcompensated. He said that fair compensation requires that the landowner is paid the value of the land to him<i> </i>(paras 64-66) and that the potential for overcompensation could only be the cumulative effect of the grant of all four CAADs. He observed (para 67) that in the real world, if all four landowners had sold their land at the respective valuation dates without having first applied for planning permission, the market would have valued each parcel on the basis of hope value, that is to say by discounting for the risk that planning permission for a particular form of development might not be granted where it was likely to be in competition with applications for such development on neighbouring land; but section 14 has the effect of converting four reasonable expectations of planning permission into a certainty, so that it is not surprising that this would have the cumulative effect of increasing the overall compensation payable to a level beyond that which would have been achieved in the real world. 
+</a></li>
+<p> </p>  
+
+<li value="49"><a name="para49"> The Court of Appeal therefore dismissed the Secretary of State’s appeal and answered the question raised in the preliminary issue in the following terms (para 69):
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“In determining the development for which planning permission could reasonably have been expected to be granted for the purposes of section 14(4)(b) in relation to a particular parcel of land, the decision maker is not entitled to take into account CAAD applications or decisions relating to other land arising from the compulsory acquisition of land for the same underlying scheme. They are not notional applications for planning permission and are not material planning considerations.”</p>  
+
+<li value="50"><a name="para50"> The Supreme Court granted permission to appeal against the Court of Appeal’s decision on 7 June 2022.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">5 <span style="text-transform:none">The Secretary of State’s case on this appeal</span></p>  
+
+<li value="51"><a name="para51"> Before the Upper Tribunal and the Court of Appeal the Secretary of State’s primary case was that CAAD applications should be treated as notional planning applications and that where a CAAD was issued it should be treated as if it were the grant of planning permission. As such, CAADs and CAAD applications in respect of land other than the land in issue for a particular CAAD application should be taken into account in the same way as they would have been if they had been actual grants of planning permission or actual applications for planning permission in the real world. The Secretary of State’s contention was that such CAADs or CAAD applications in relation to other land should therefore be treated as material planning considerations for the purposes of assessing the extent and nature of the notional planning permission to be deemed under section 14(4)(b) to be granted in respect of the land in issue. 
+</a></li>
+<p> </p>  
+
+<li value="52"><a name="para52"> In this court Mr Corner KC for the Secretary of State, who did not appear below, did not put his case in this way. Instead, a more limited case was advanced to the effect that CAAD applications and decisions in respect of other land may be taken into account insofar as they shed light on the prospect of planning permission being granted for the land in issue at the valuation date by:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; evidencing:</p>  
+
+<p class="ParaLevel3" style="text-indent:0cm">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>the existence of alternative sites or proposals, or</p>  
+
+<p class="ParaLevel3" style="text-indent:0cm">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>proposals whose cumulative effects would require consideration together with those of development on the land in issue, or</p>  
+
+<p class="ParaLevel3" style="text-indent:0cm">(c)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>other land relevant in some other way to the determination of a planning application on the land in issue; </p>  
+
+<p class="ParaApprovedLevel2">or, in the case of a CAAD already granted in respect of other land:</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; evidencing how in the world of the cancelled scheme the local planning authority or Secretary of State on appeal might have been expected to deal with a planning application on the relevant land.</p>  
+
+<li value="53"><a name="para53"> The respondents did not object to this change of case although they contended that it suffered from the same shortcomings as the Secretary of State’s previous case. 
+</a></li>
+<p> </p>  
+
+<li value="54"><a name="para54"> At the hearing the first respondent, the second and third respondents, and the fourth respondent were separately represented. It was agreed between the parties that the second and third respondents, jointly represented by Mr David Elvin KC, would take the lead role in presenting the respondents’ arguments. Mr James Pereira KC, for the first respondent, and Mr Richard Glover KC, for the fourth respondent, made helpful supplementary submissions.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">6 <span style="text-transform:none">The issues</span></p>  
+
+<li value="55"><a name="para55"> In the light of the Secretary of State’s reformulated case and the parties’ arguments the principal issues which arise for consideration may be stated as follows:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether taking account of CAAD applications or decisions is precluded by the cancellation assumption (the cancellation argument).</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The relevance of other sites/proposals to the determination of planning permission applications.</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In constructing the cancelled scheme world in accordance with the cancellation assumption: </p>  
+
+<p class="ParaLevel3" style="text-indent:0cm">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is it legitimate to consider whether planning permission would have been granted on other land during the period between the launch date and the valuation date?</p>  
+
+<p class="ParaLevel3" style="text-indent:0cm">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>if not, how does one construct the cancelled scheme world as at the valuation date? </p>  
+
+<p class="ParaApprovedLevel2">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether a CAAD application is distinct from an application for planning permission, whether a CAAD decision is distinct from the grant of planning permission, and whether a CAAD application or decision is a material planning consideration.</p>  
+
+<p class="ParaApprovedLevel2">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether account may be taken of evidential material contained in a CAAD application.</p>  
+
+<p class="ParaApprovedLevel2">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether and if so in what circumstances CAAD applications or decisions relating to land other than the land in issue are relevant and may be taken into account.</p>  
+
+<li value="56"><a name="para56"> These questions fall to be answered in the light of general principles applicable to the compensation regime under the LCA as explained in <i>Spirerose </i>in the speech of Lord Collins of Mapesbury at paras 89-95 and helpfully summarised by Lewison LJ as follows (para 27):
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The underlying principle is that fair compensation should be given to the owner claimant whose land has been compulsorily taken. The aim of compensation is to provide a fair financial equivalent for the land taken. The owner is entitled to be compensated fairly and fully for his loss, but the owner is not entitled to receive more than fair compensation.</p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The basis of compensation is the value to the owner, and not its value to the public authority.</p>  
+
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>One relevant element in the value to the owner is the prospect of exploiting the property. The price which the land in issue might reasonably be expected to fetch on the open market at the valuation date would be expected to reflect whatever development potential the land has. </p>  
+
+<li value="57"><a name="para57"> Whilst the principle of fair compensation (or, as it is sometimes called, the principle of equivalence: <i>Director of Buildings and Lands v Shun Fung Ironworks Ltd </i>[1995] 2 AC 111, 125) provides some guidance for the interpretation of the LCA scheme it is imprecise and is subject to any clear intention of Parliament to depart from it or to modify its application as expressed in the legislative provisions: see <i>Spirerose</i>, paras 36 and 41 (Lord Walker of Gestingthorpe), paras 56 and 59 (Lord Neuberger) and para 131 (Lord Collins).
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">(1) Whether taking account of CAAD applications or decisions is precluded by the cancellation assumption (the cancellation argument).</span></p>  
+
+<li value="58"><a name="para58"> This was an issue upon which the Upper Tribunal and the Court of Appeal disagreed.
+</a></li>
+<p> </p>  
+
+<li value="59"><a name="para59"> The cancellation assumption requires it to be assumed that the scheme was cancelled on the launch date (section 14(5)(a)), that no action has been taken by the acquiring authority for the purposes of the scheme (section 14(5)(b)) and that there is no prospect of the scheme or any other project to meet substantially the same need being carried out (section 14(5)(c)). The respondents’ case is that, since a CAAD application can only be made in circumstances where land is to be acquired for the purpose of a development scheme, the assumed cancellation of the scheme means that no CAAD application either would or could have been made. It follows that such applications cannot be taken into account in any way. CAAD applications only exist in a scheme world whereas the cancellation assumption requires consideration of a cancelled scheme world. The Court of Appeal accepted that case. Despite its logical simplicity we cannot do so.
+</a></li>
+<p> </p>  
+
+<li value="60"><a name="para60"> The question to be addressed under section 14(4) is whether at the valuation date planning permission could reasonably have been expected to be granted. That question is to be determined making the assumptions required in subsection (5) but otherwise “in the circumstances known to the market at the relevant valuation date”. In answering that question no restriction is placed on the evidence which can or cannot be used other than that it must be circumstances known to the market. If it is, then any relevant real world evidence may be relied upon.
+</a></li>
+<p> </p>  
+
+<li value="61"><a name="para61"> For example, in the real world a CAAD application or decision may have been made in relation to land other than the land in issue prior to the valuation date and this might be known to the market. If the making of that application was relevant to whether planning permission could reasonably have been expected to be granted in respect of the land in issue (which is a different question), then it could properly be taken into account. There is nothing in section 14 which precludes consideration of relevant, real world evidence which is known to the market as at the relevant valuation date for the land in issue.
+</a></li>
+<p> </p>  
+
+<li value="62"><a name="para62"> The statutory question has to be answered on the assumptions set out in section 14(5) but no further assumptions, including consequential assumptions, are required to be made. As the Upper Tribunal stated at para 46: “It is true that all four CAAD applications were a consequence of the scheme, and that, but for the scheme they would not have been made. But in the absence of a statutory direction that is not a good enough reason to assume them away or disregard them<span style="font-family:&quot;Times New Roman&quot;,serif">.” </span>
+</a></li>
+<p> </p>  
+
+<li value="63"><a name="para63"> As Lord Hope of Craighead stated in <i>Fletcher Estates (Harlescott) Ltd v Secretary of State for the Environment </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2000/10.html">[2000] 2 AC 307</a> (“<i>Fletcher Estates</i>”), at p 324, CAAD applications should be determined by “applying ordinary planning principles to the existing circumstances” at the relevant date. Provided they are known to the market, there is no reason to exclude from consideration any relevant existing circumstances.
+</li>
+<p> </p>  
+
+<li value="64"><a name="para64"> This is consistent with the reality principle, a fundamental principle of valuation. As Lord Neuberger stated in<i> Spirerose</i> at para 50:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“…if a statute directs that property is to be valued on an open market basis as at a certain date, one would not expect any counterfactual assumptions to be made other than those which are inherent in the valuation exercise (such as the assumption that the property has been on the market and is the subject of a sale agreement on the valuation date) or those which are directed by the statute”.</p>  
+
+<li value="65"><a name="para65"> In addition, it would be odd to say that evidence which happens to exist in the real world which is capable of providing relevant assistance in answering the questions to be addressed in constructing the cancelled scheme world under the LCA regime should be ignored. It would require clear statutory language to produce such an effect, and there is none in the LCA. So if CAAD applications or decisions are capable of being a source of relevant evidence, the LCA does not preclude reference being made to them.
+</a></li>
+<p> </p>  
+
+<li value="66"><a name="para66"> In agreement with the Upper Tribunal we would therefore reject the cancellation argument. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">(2) The relevance of other sites/proposals to the determination of planning permission applications</span></p>  
+
+<li value="67"><a name="para67"> There was substantial agreement between the parties regarding the ways in which, where an application is made for planning permission to develop land in a particular way, the possibility of development of other land, or the existence of applications for planning permission to develop other land, or the existence of planning permission already granted to develop other land, may be material considerations affecting whether planning permission should be granted for development of the land at issue, as alluded to by Sir Keith Lindblom SPT in the Court of Appeal at para 93:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The existence of alternative sites to satisfy a particular need in the public interest may be relevant to the question whether the grant of permission for the development of the land at issue is appropriate, if the need could be met at less cost to other aspects of the public interest by equivalent development on other sites which it is reasonable to expect may be developed or brought forward for development within a reasonable time: see, eg, <i>R (Chelmsford Car and Commercial Ltd) v Chelmsford Borough Council </i><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2005/1705.html">[2005] EWHC 1705 (Admin)</a>, [2006] 2 P &amp; CR 12; <i>London Historic Parks and Gardens Trust v Minister of State for Housing </i><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2022/829.html">[2022] EWHC 829 (Admin)</a>, para 130 (“the alternative sites point”). The Secretary of State maintains that the application of policy TP33 in relation to off campus student accommodation provides a possible example of this point, but did not work this through by way of a detailed consideration on the facts. The Upper Tribunal and the Court of Appeal dealt with it in the same way, as do we, as an example of the possibility of a type of situation which could in theory arise;</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where a number of proposals are put forward for the development of different parcels of land, it may be relevant to take into account the cumulative effects of those proposals adverse to some aspect of the public interest when deciding whether to grant planning permission in relation to a particular site: see, eg, <i>Pearce v Secretary of State for Business, Energy and Industrial Strategy </i><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2021/326.html">[2021] EWHC 326 (Admin)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2021/326.html">[2022] Env LR 4</a> (cumulative impact on the landscape and visual amenity from proposals for erection of wind turbines) (“the cumulative impact point”);</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sites may be designated in a development plan or permission may have been granted for types of development on particular land, say for industrial use, which would be incompatible with the grant of planning permission for other forms of development, say for residential use, on neighbouring land (“the incompatibility point”). </p>  
+
+<li value="68"><a name="para68"> In addition, there is a principle of consistency in public law in relation to making decisions. This is not the place to explore the ambit or content of this principle in detail, but there clearly are some cases in which it may have a bearing on the determination of an application for planning permission. When a planning authority has, in determining an application for planning permission in relation to one site, decided a particular point which is equally relevant for determining an application for planning permission on another site, it may be legally obliged to determine the second application on the same basis so as to ensure that like cases are treated alike: see, eg, <i>Baroness Cumberledge of Newick v Secretary of State for Communities and Local Government</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/1305.html">[2018] EWCA Civ 1305</a>, <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/1305.html">[2018] PTSR 2063</a> (interpretation of planning policy).
+</li>
+<p> </p>  
+
+<li value="69"><a name="para69"> We address below the question of the extent to which these aspects of planning law in the real world have a bearing on the operation of the cancelled scheme world under the LCA regime. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">(3) In constructing the cancelled scheme world in accordance with the cancellation assumption: </span></p>  
+
+<p class="ParaSubHeading2" style="margin-left:36.0pt"><span style="text-decoration: none">(a) is it legitimate to consider whether planning permission would have been granted on other land during the period between the launch date and the valuation date?</span></p>  
+
+<p class="ParaSubHeading2" style="margin-left:36.0pt"><span style="text-decoration: none">(b) if not, how does one construct the cancelled scheme world as at the valuation date? </span></p>  
+
+<li value="70"><a name="para70"> By virtue of section 14(2)(a), when assessing the value of the land in issue at the valuation date, account may be taken of any planning permission, whether for development of the land in issue or for development of other land, which is in force in the real world at that date. Therefore, if in the real world planning permission has been granted in respect of neighbouring land, that permission may be capable of affecting the assessment under section 14(4)(b) </a><a name="_Hlk138440195">on the basis of the alternative sites, cumulative impact and incompatibility points </a>and the principle of consistency referred to above (as it applies in relation to planning permission granted in respect of a different site). The existence of such planning permission will be known to the market on that date. There may also be scope for the principle of consistency to apply by reference to planning permission in effect at the valuation date in the real world in respect of the land in issue (ie by reference to planning permission granted in respect of the same site).
+</li>
+<p> </p>  
+
+<li value="71"><a name="para71"> In addition to cases where planning permission is in fact in force as at the valuation date (section 14(2)(a)) and cases which qualify for deemed planning permission because they are appropriate alternative development (section 14(3) and (4)), account may be taken, by virtue of section 14(2)(b), of the prospect of planning permission being granted after the valuation date for development on the land in issue or on other land. So far as concerns the land in issue, this means that one takes account of the hope value in relation to gaining planning permission in future for particular uses of the land. There is therefore a distinction drawn in section 14 between a (discounted) hope value derived from the prospect, as at the valuation date, of a future grant of planning permission and the stronger assumption made under section 14(3) when the test for appropriate alternative development is satisfied. In the latter case, that planning permission is deemed to be actually granted on the valuation date or it is assumed that it will certainly be granted at a later date. The distinction turns on the difference between a situation in which there is a “prospect” of the future grant of planning permission (section 14(2)(b)) and a situation in which it “could … reasonably [be] expected” that planning permission would be granted (section 14(4)(b)). The test for a development to amount to appropriate alternative development therefore involves a more strongly grounded and objectively justified hope of the grant of planning permission. Where this exists the statute says that planning permission will be treated as granted or as certain to be granted, as the case may be. Both the prospect under section 14(2)(b) and the reasonable expectation under section 14(4)(b) have to be assessed on the basis of the cancellation assumption in section 14(5) and by reference to “the circumstances known to the market” at the valuation date.
+</a></li>
+<p> </p>  
+
+<li value="72"><a name="para72"> So far as concerns land other than the land in issue, section 14(2)(b) has a different effect upon the valuation of the land in issue. It requires one to ask, on the basis of the cancellation assumption and by reference to “the circumstances known to the market” at the valuation date, whether the value of the land in issue would have been affected by the prospect of planning permission being granted for development of that other land. If there was such a prospect then, depending on the strength of that prospect in the circumstances known to the market, that might be capable of affecting what planning permission could reasonably have been expected to be granted in relation to the land in issue (section 14(4)(b)) by reference to the alternative sites, cumulative impact and incompatibility points. We will return below to the way in which this assessment should be carried out and the role which the alternative sites, cumulative impact and incompatibility points might play in this. Since one is not dealing here with any actual grant of planning permission in respect of the land in issue or other land, there is no scope for application of the consistency principle under this limb of section 14.
+</a></li>
+<p> </p>  
+
+<li value="73"><a name="para73"> Finally under the section 14 regime, consideration has to be given to cases where the test for appropriate alternative development is satisfied under section 14(4). That test is directed to the situation in relation to the land in issue (or that land in combination with other land, where development on the combined plot could be proposed: section 14(4)(a)). The test is that specified in section 14(4)(b), namely that on the basis of the cancellation assumption in section 14(5), “but otherwise in the circumstances known to the market” at the valuation date, planning permission for the putative alternative development could “at that date reasonably have been expected to be granted on an application decided” on either of the dates identified in subparagraphs (i) and (ii). For ease of exposition, we will focus on subparagraph (i), which points to an application decided on the valuation date itself. The date identified in subparagraph (ii) is later than that.
+</a></li>
+<p> </p>  
+
+<li value="74"><a name="para74"> When constructing the cancelled scheme world, it is clear from the language of section 14 and the regime it sets out that it is not legitimate to consider whether planning permission for development either for the land in issue or for any other land might have been granted in the notional period between the deemed cancellation of the scheme “on the launch date”, pursuant to section 14(5)(a), and the valuation date. In the case of planning permissions which exist in the real world (section 14(2)(a)), the relevant date to see if there are any in force is the valuation date. No process of speculation about the notional period between the cancellation date and the valuation date is authorised. In the case of assessing the prospect of the grant of planning permission for the land in issue or other land under section 14(2)(b), this involves looking at the circumstances as known to the market at the valuation date. Again, no speculation about the notional period between the cancellation date and the valuation date is authorised. The same is true in relation to assessing whether the test for appropriate alternative development is satisfied: section 14(4)(b). 
+</a></li>
+<p> </p>  
+
+<li value="75"><a name="para75"> Since section 14 does not authorise speculation about what might have happened in the cancelled scheme world between the cancellation date and the valuation date, the reality principle precludes any such speculation. 
+</a></li>
+<p> </p>  
+
+<li value="76"><a name="para76"> This conclusion is also supported by the points made by Lord Hope (with whom the other Law Lords agreed) in <i>Fletcher Estates</i>, at p 324, about the context in which the section 14 regime operates, in relation to the then current regime under the LCA prior to its amendment into its current form, but which had similar features. He said:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“… there is much force in [the] point [made by Phillimore LJ in <i>Jelson Ltd v Minister of Housing and Local Government </i>[1970] 1 QB 243, 255] that once one starts looking back in time the exercise becomes clouded in uncertainty. The questions which are likely to arise will be complex and difficult. They will involve matters of evidence as to past events, the assessment of which is likely to lie outside the expertise of the local planning authority. Its normal function is to examine planning issues in the light of existing circumstances. The fact that applications for certificates of appropriate alternative development are made to the local planning authority lies at the heart of the matter. It supports the view that the determination as to the contents of the certificate should be arrived at by applying ordinary planning principles to the existing circumstances, not by assessing what may or may not have happened in the past”. </p>  
+
+<p class="ParaNoNumber">It is not plausible to infer that Parliament intended the section 14 regime to operate on the basis of such an uncertain and speculative methodology. On the contrary, section 14 is drafted so as to specify a reasonably certain process of assessment of the value of the land in issue, focusing on circumstances as they actually exist (subject to the cancellation assumption) at the valuation date and based on an objective set of circumstances as known to the market at that date. Parliament intended that there should be reasonable certainty in the approach to be adopted, having regard to the body which could be called on under section 17 to apply it (the local planning authority). It is also clearly desirable under the LCA compensation scheme that the parties should be able to predict the likely outcome of any application under section 17, of any appeal to the Upper Tribunal under section 18, or of any direct invocation of the jurisdiction of the Upper Tribunal in an application for compensation, so that they can bargain with each other effectively without needing to proceed with a dispute. </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">(4) Whether a CAAD application is distinct from an application for planning permission, whether a CAAD decision is distinct from the grant of planning permission, and whether a CAAD application or decision is a material planning consideration.</span></p>  
+
+<li value="77"><a name="para77"> The Upper Tribunal and the Court of Appeal were right to conclude that a CAAD application is not equivalent to an application for planning permission in the real world and that a decision to grant a CAAD is not equivalent to the grant of planning permission in the real world. The CAAD regime exists only as a mechanism to assist with the assessment of the value of the land in issue in the counterfactual cancelled scheme world for the purpose of determining the amount of compensation which is payable in respect of it. A landowner has no obligation to apply for a CAAD under the LCA regime in order to obtain the benefit of a determination by the Upper Tribunal or in arbitration which takes account of the assumptions specified in section 14. The fact that it does apply for one does not indicate that it would necessarily have applied for planning permission for the same development in the real world, had the relevant infrastructure scheme not been proposed or if it had been proposed and cancelled. In the real world, the owner of the land in issue might have reasons of its own why it would not wish to bring the land forward for development at the time it decides to apply for a CAAD or at all. Under the LCA regime, the grant of a CAAD is not intended to operate as a proxy for what might have happened as a matter of fact in the cancelled scheme world. 
+</a></li>
+<p> </p>  
+
+<li value="78"><a name="para78"> Neither a CAAD application nor a decision to grant a CAAD are material planning considerations. They play no role whatever in the real planning world. A CAAD does not in fact authorise the carrying out of development on the land in issue. It establishes a purely notional set of circumstances which are relevant only for the purpose of calculating the compensation payable in relation to the land in issue. 
+</a></li>
+<p> </p>  
+
+<li value="79"><a name="para79"> These points involve the refutation of the Secretary of State’s primary case as advanced in the Upper Tribunal and in the Court of Appeal. For the appeal to this court, Mr Corner did not seek to revive that case. He accepts that the previous contention of the Secretary of State that a CAAD application should be treated as equivalent to a real world application for planning permission and that the grant of a CAAD should be treated as equivalent to a grant of planning permission in the real world cannot be sustained.
+</a></li>
+<p> </p>  
+
+<li value="80"><a name="para80"> This means that the Secretary of State’s case as presented below, to the effect that the alternative sites, cumulative effects and incompatibility points and the consistency principle should all be applied by reference to a CAAD application or decision in the same way as they would apply by reference to an application for or grant of planning permission in the real world must also be rejected. Mr Corner does not contend otherwise. 
+</a></li>
+<p> </p>  
+
+<li value="81"><a name="para81"> Accordingly, Mr Corner accepts that the grant of a CAAD does not have the effect of meeting a planning need for a particular type of development in the real world or in the cancelled scheme world. If there were a planning need for, say, 1000 units of off campus student accommodation in the area and a CAAD was granted for one of the four sites stipulating that development of 600 such units was appropriate alternative development on that site, the grant of the CAAD would not mean that appropriate alternative development on the other sites could not exceed 400 units; nor would it mean that 400 units could be factored in as appropriate alternative development for any or all of the other sites. Instead, the assessment of what would qualify as appropriate alternative development for any particular site would depend upon the evidence available in relation to that site, including matters such as whether there was planning permission actually in force for such development on other land and whether there was available any other land ripe for development which appeared more suitable and which could reasonably be expected to be brought forward to meet that need. 
+</a></li>
+<p> </p>  
+
+<li value="82"><a name="para82"> Despite this modification of the Secretary of State’s argument, Mr Corner submits that a CAAD application and a decision to grant a CAAD may still provide evidence which is capable of being relevant to the test for appropriate alternative development in section 14(4)(b). In support of an application for a CAAD, the owner of the land to which that application relates may set out information which is drawn from information in the public domain and which reflects “the circumstances known to the market at the relevant valuation date” for that land. Mr Corner contends that by reason of the nature of the information so set out, the location of that land and the proximity in time to the relevant valuation date in respect of a different application for a CAAD by the owner of another plot of land in the vicinity of the land in issue, the information set out in the first CAAD application might be of relevance. It might contain information in respect of or allow inferences to be drawn regarding “the circumstances known to the market” at the valuation date for the land in issue and relevant to answering the question whether planning permission for the land in issue could at that date reasonably have been expected to be granted on an application decided on that date. Mr Corner also submits that a CAAD decision in relation to the first CAAD application might also, depending on the circumstances and what it showed, have a bearing on the assessment under section 14(4)(b) in respect of the land in issue on the CAAD application relating to that land. In both cases, it should be left to the local planning authority which has to make the assessment pursuant to an application under section 17 (or the Upper Tribunal on an appeal under section 18 in respect of a CAAD or in the exercise of its original jurisdiction to award compensation pursuant to the LCA) to decide on the relevance and weight of such information as might be gleaned from the CAAD application or decision in respect of the land other than the land in issue, subject to usual public law principles.
+</a></li>
+<p> </p>  
+
+<li value="83"><a name="para83"> &nbsp;Mr Corner also submits that the principle of consistency would apply in relation to CAAD decisions in respect of different plots of land. So, for example, if the local planning authority decided one CAAD application on the basis that, say, there was a need for a particular form of development or that a relevant planning policy had a particular interpretation, then the principle of consistency should apply so that those points were decided in the same way in relation to other CAAD applications which turned on them.
+</a></li>
+<p> </p>  
+
+<li value="84"><a name="para84"> It is to these modified submissions for the Secretary of State that we now turn.
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">(5) Whether account may be taken of evidential material contained in a CAAD application.</span></p>  
+
+<li value="85"><a name="para85"> There is no objection to a local planning authority (or, as the case may be, the Upper Tribunal) referring to information submitted in support of a CAAD application for another plot of land, if that information reveals something relevant about the circumstances known to the market at the valuation date for the land in issue. We did not understand the respondents to contend otherwise. They make the different point, which we have already accepted, that the CAAD application in relation to the other land cannot be treated as equivalent to an application for planning permission in the real world in respect of that other land. The material submitted in support of an application for a CAAD will contain a fund of information (see section 17(3)), some of which may well be relevant to an assessment of the circumstances known to the market at the valuation date and hence relevant to the application of the test in section 14(4)(b). Accordingly, insofar as it is relevant, the local planning authority (and the Upper Tribunal) is entitled to refer to the pack of material submitted in support of the CAAD application for other land and to treat it as a readily available source of evidence bearing upon the application of that test. The local planning authority has to bear in mind that the other CAAD application is not to be treated as if it were itself an application for planning permission in respect of the other land, and can only draw upon the material submitted in support of that application to the extent that it casts light upon the “circumstances known to the market” at the valuation date for the land in issue. It is possible that it may do so. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">(6) Whether and if so in what circumstances CAAD applications or decisions relating to land other than the land in issue are relevant and may be taken into account.</span></p>  
+
+<li value="86"><a name="para86"> The test for appropriate alternative development in section 14(4)(b) requires the local planning authority (or, as the case may be, the Upper Tribunal) to assess whether and what planning permission could reasonably have been expected to be granted as at the valuation date (we focus on subparagraph (i) for the purposes of exposition) on the basis of the cancellation assumption “but otherwise in the circumstances known to the market” at that date. This test requires the local planning authority to conduct an exercise similar to that which it would have had to conduct in the real world if an application had been made for planning permission for equivalent development for the land in issue, but requires that exercise to be conducted with a more limited set of information than would likely have been available in such a real world scenario. 
+</a></li>
+<p> </p>  
+
+<li value="87"><a name="para87"> In principle, the local planning authority may be required to assess whether “in the circumstances known to the market” at the valuation date it could reasonably have been expected that other sites would be brought forward for development in a manner which might engage the alternative sites, cumulative impacts and incompatibility points in the same way as they could be engaged in relation to an application for planning permission for the land in issue in the real world. Clearly, to the extent that planning permission already existed at that date for development of other land, those points would potentially arise with reference to such planning permission: see section 14(2)(a) and para 70 above. There is no reason in principle why the same should not be true in relation to other land where planning permission had not yet been granted but, in the circumstances known to the market at the valuation date, it was reasonable to expect that an application for such permission would be brought forward within a reasonable time such as potentially to engage those points. In any event section 14(2)(b) provides that account may be taken of the prospect as at the valuation date of planning permission being granted for development on other land. Section 17(5) supports the view that the local planning authority is required to perform what is essentially the same assessment exercise for the grant of planning permission in relation to the land in issue as would have been required in the real world, including by specifying relevant conditions, but painting with a broad brush on the basis of the general information known to the market at the valuation date.
+</a></li>
+<p> </p>  
+
+<li value="88"><a name="para88"> &nbsp;The respondents submitted that in this broad brush assessment it could not be known whether any owner of another site would in fact have brought forward its land to seek planning permission for its development in any particular way or at all. Landowners might have their own private reasons why they would not wish to do so in the real world. Therefore, it would not be right for a local planning authority applying section 14 to assume that any application for planning permission would be made by the owner of other land in the vicinity of the land in issue; nor would it be right for the local planning authority to seek to conduct any form of comparative assessment between the notional application for planning permission in respect of the land in issue under section 14(4)(b) and some notional application for planning permission which might be made in respect of other land, by reference to the alternative sites, cumulative impacts or incompatible development points. 
+</a></li>
+<p> </p>  
+
+<li value="89"><a name="para89"> We do not accept these submissions. The point of the broad brush assessment required by section 14 is that the local planning authority should be taken to behave so far as possible, working in a broad brush way by reference only to objective circumstances known to the market, as it could reasonably have been expected to do if an application for planning permission for the land in issue had been made in the real world. This is in accordance with the principle inherent in the LCA regime that a landowner should receive fair value for its land, and no more. The fact that the LCA requires that the assessment be made solely on the basis of circumstances known to the market does not mean that the broad brush assessment required is intended to eliminate the effect of the alternative sites, cumulative impacts or incompatibility points, where on a reasonable assessment it can be seen that they would have had a significant part to play in a real world planning assessment. The fact that the assessment has to be made in the light of the circumstances known to the market means that for the purposes of the statutory exercise one eliminates any speculation about private motives an owner of other land might have for not bringing that land forward for development alongside the proposed development of the land in issue and just assesses the situation by reference to objective circumstances as known to the market. (On the other hand, if a particular landowner had before the valuation date made public announcements to the effect that for reasons of its own it would not be seeking to develop its land, that would be a circumstance known to the market which would need to be factored in to the assessment under section 14(4)(b)).
+</a></li>
+<p> </p>  
+
+<li value="90"><a name="para90"> The circumstances known to the market will include an appreciation that a landowner holding land for development may be expected to seek to maximise the value of its investment by bringing that land forward for development. That will especially be the case where (as with the sites here) the land has been cleared for development and has no productive use unless it is developed. 
+</a></li>
+<p> </p>  
+
+<li value="91"><a name="para91"> In order to know whether the alternative sites, cumulative effects or incompatibility points could reasonably have been expected to affect the planning permission to be granted for the development of the land in issue it may be necessary for the local planning authority to make an assessment of what applications for development of other land in the vicinity would reasonably have been expected as at the valuation date to be made and granted (such an assessment is not required insofar as planning permission has already been granted in relation to the other land, since the precise nature of that permission is already known: section 14(2)(a) and para 70 above). The local planning authority has to make that assessment as best it can on the same broad brush basis as it has to apply under section 14(4)(b) in relation to other aspects of the facts in light of the circumstances known to the market. 
+</a></li>
+<p> </p>  
+
+<li value="92"><a name="para92"> &nbsp;The question arises whether the fact that a CAAD application has been made in respect of such other land can potentially be taken into account as suggesting that, in the cancelled scheme world, it could reasonably be expected that the owner of that other land would have made a planning application for the same development as specified in the CAAD application or any other development. We consider that CAAD applications in respect of other land, along with the material submitted in support of them, may have some relevance in showing how the market would expect landowners holding land ripe for development to seek to develop their land. Such landowners would be expected to act to maximise their returns by focusing development proposals for their land on the most profitable forms of development likely to be appropriate for the area in question. Similarly, landowners who make CAAD applications are likely for ordinary reasons of self-interest to press for a CAAD for patterns of development which would reflect the highest contribution to the value of their land. Accordingly, if the CAAD applications in relation to plots of land in the same general area revealed a pattern in terms of the development sought to be reflected in the CAADs, that could provide some evidence to show how market actors would have been likely to respond to known market circumstances at the valuation date for the land in issue in the cancelled scheme world. It might furnish a practical illustration of the way in which the market would expect owners of land suitable for development to be likely to have sought maximum profit from their land and hence provide some evidence bearing on the question of what planning applications could reasonably have been expected to be made, assessed at the valuation date, by owners of development land other than the land in issue. Such evidence might supplement general expert economic evidence directed to the same point. It might also supplement information about such matters derived from general experience of the pattern of planning applications in the past in the real world in respect of the area. 
+</a></li>
+<p> </p>  
+
+<li value="93"><a name="para93"> Indeed, information in CAAD applications and information in planning applications in the real world are both forms of real world information. The former is information derived from the behaviour of landowners in the real world of making applications to seek compensation under the LCA regime. The extent to which information in a CAAD application or information from planning applications in the real world provide material capable of providing analogies relevant to an assessment of such matters for the purposes of the construction of the counterfactual world in section 14(4)(b) will depend on how closely the circumstances in each case are comparable. This would be a matter for the assessment of the local planning authority (or the Upper Tribunal, as the case may be), subject to the usual constraints imposed by general public law. 
+</a></li>
+<p> </p>  
+
+<li value="94"><a name="para94"> On this approach, the fairness and sequencing issues which concerned the Upper Tribunal and the Court of Appeal in relation to how one would decide which CAAD application would be resolved first and what impact that might have on other applications would not arise. Each CAAD application has to be decided on its own merits and by reference to the evidence which happens to be available at the time of the determination of the question to be resolved under section 14(4)(b) for that particular application. For the purposes of the alternative sites, cumulative impacts and incompatibility points, it is not the fact that other CAAD applications have been made which is important, but what the evidence reveals about whether it was reasonable to expect as at the valuation date that other land was likely to be brought forward for development within a reasonable time in a way which would engage those points. The fact that other CAAD applications have been made may play a limited role in contributing to that evidential picture: para 92 above.
+</a></li>
+<p> </p>  
+
+<li value="95"><a name="para95"> The point made by Lewison LJ at para 67 (see para 48 above) is valid. Section 14(3) and (4) require some departure from the general fair valuation principle and from the general approach under section 14(4)(b) and section 17(5) that the assessment of the market whether planning permission would be available for development of the land in issue would reflect how the market would expect the relevant planning authority to behave, with a discount for uncertainty. However, the test in section 14(4)(b) incorporates an assessment of how the planning authority would be likely to behave in the real world, including by having regard to the possible availability for development of sites in the area other than the land in issue, before the statute has the effect of deeming some level of uncertainty to be treated as a certainty. The statute does not make the prior stage redundant nor authorise its circumvention. 
+</a></li>
+<p> </p>  
+
+<li value="96"><a name="para96"> We turn finally to discuss the consistency principle. Since a CAAD decision is not equivalent to the grant of planning permission, the fact that a CAAD has been granted does not provide any foundation for the application of the consistency principle when assessing whether a local planning authority would have been likely to grant planning permission for development of the land in issue in the counterfactual cancelled scheme world under section 14(4)(b). 
+</a></li>
+<p> </p>  
+
+<li value="97"><a name="para97"> However, a different issue could arise in relation to the application of the consistency principle. Suppose a CAAD application for one plot of land in the area is determined by the local planning authority on the basis of acceptance of particular planning issues, and the authority then has to decide a CAAD application in relation to the land in issue in which those same planning issues arise. Depending on the circumstances, it may be that the principle of consistency would apply so as to require the local planning authority to resolve those issues in the same way in its later CAAD decision in relation to the land in issue. 
+</a></li>
+<p> </p>  
+
+<li value="98"><a name="para98"> It is doubtful, however, whether on an appeal under section 18 the Upper Tribunal would be required to do the same, since on such an appeal it is obliged to consider the matter afresh. But the principle of consistency is also capable of applying to the Upper Tribunal itself in relation to its own decision-making in relation to successive CAAD applications in respect of different plots of land. It is not necessary to explore these matters further in this judgment.
+</a></li>
+<p> </p>  
+
+<li value="99"><a name="para99"> Where planning permissions exist in the real world in respect of either the land in issue or other land as at the valuation date for the land in issue (see section 14(2)(a)), the market in the counterfactual cancelled scheme world would expect the consistency principle to apply (insofar as it is relevant) in relation to an assessment whether planning permission would be granted for the land in issue, as mentioned in paras 70 and 72 above. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Conclusion</span></p>  
+
+<li value="100"><a name="para100"> For the reasons we have given, we would allow the appeal to the limited extent indicated in this judgment. The net effect of this, in terms of the order to be made on the preliminary issue, is that the declaration made by the Upper Tribunal (para 41 above) should be restored.
+</a></li>
+<p> </p>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  
+
+<p class="MsoNormal" style="margin-bottom:8.0pt;line-height:107%"><span style="font-size:13.0pt;line-height:107%">&nbsp;</span></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center;text-autospace:none"><b><span style="font-size:13.0pt">ANNEX</span></b></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center;text-autospace:none"><b><span style="font-size:13.0pt">Section 14 of the LCA</span></b></p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center;text-autospace:none"><b><i><span style="font-size:13.0pt">“</span></i></b><b><i><span style="font-size:13.0pt">Assumptions as to planning permission</span></i></b></p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="MsoNormal" style="text-autospace:none"><b><span style="font-size:13.0pt">14 Taking account of actual or prospective planning permission</span></b></p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(1) This section is about assessing the value of land in accordance with rule (2) in section 5 for the</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">purpose of assessing compensation in respect of a compulsory acquisition of an interest in land.</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(2) In consequence of that rule, account may be taken—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(a) of planning permission, whether for development on the relevant land or other land, if it is in force</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">at the relevant valuation date, and</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(b) of the prospect, on the assumptions set out in subsection (5) but otherwise in the circumstances</span><span style="font-size: 13.0pt"> </span><span style="font-size:13.0pt">known to the market at the relevant valuation date, of planning permission being granted on or after</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">that date for development, on the relevant land or other land, other than—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:72.0pt;text-autospace:none"><span style="font-size:13.0pt">(i) development for which planning permission is in force at the relevant valuation date, and</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">(ii) appropriate alternative development.</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(3) In addition, it may be assumed—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoListParagraphCxSpFirst" style="margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:54.0pt;text-indent:-18.0pt;line-height:normal; text-autospace:none"><span style="font-size:13.0pt">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span><span style="font-size:13.0pt">that planning permission is in force at the relevant valuation date for any development that is appropriate alternative development to which subsection (4)(b)(i) applies, and</span></p>  
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:54.0pt;line-height:normal;text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoListParagraphCxSpLast" style="margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:54.0pt;text-indent:-18.0pt;line-height:normal; text-autospace:none"><span style="font-size:13.0pt">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="font-size:13.0pt">that, in the case of any development that is appropriate alternative development to which subsection (4)(b)(ii) applies and subsection (4)(b)(i) does not apply, it is certain at the relevant valuation date that planning permission for that development will be granted at the later time at which at that date it could reasonably have been expected to be granted.</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(4) For the purposes of this section, development is ‘appropriate alternative development’ if—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(a) it is development, on the relevant land alone or on the relevant land together with other land,</span><span style="font-size: 13.0pt"> </span><span style="font-size:13.0pt">other than development for which planning permission is in force at the relevant valuation date, and</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(b) on the assumptions set out in subsection (5) but otherwise in the circumstances known to the</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">market at the relevant valuation date, planning permission for the development could at that date</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">reasonably have been expected to be granted on an application decided—</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">(i) on that date, or</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">(ii) at a time after that date.</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(5) The assumptions referred to in subsections (2)(b) and (4)(b) are—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(a) that the scheme of development underlying the acquisition had been cancelled on the launch</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">date,</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(b) that no action has been taken (including acquisition of any land, and any development or works)</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">by the acquiring authority wholly or mainly for the purposes of the scheme,</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(c) that there is no prospect of the same scheme, or any other project to meet the same or</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">substantially the same need, being carried out in the exercise of a statutory function or by the exercise</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">of compulsory purchase powers, and</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(d) if the scheme was for use of the relevant land for or in connection with the construction of a</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">highway (‘the scheme highway’), that no highway will be constructed to meet the same or substantially</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">the same need as the scheme highway would have been constructed to meet.</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(6) In subsection (5)(a) ‘the launch date’ means whichever of the following dates applies—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(a) if the acquisition is authorised by a compulsory purchase order, the date of first publication of the</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">notice required under section 11 of the Acquisition of Land Act 1981 or (as the case may be) paragraph</span><span style="font-size:13.0pt"> </span><span style="font-size: 13.0pt">2 of Schedule 1 to that Act,</span></p>  
+
+<p class="MsoNormal" style="text-indent:36.0pt;text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-indent:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(b) if the acquisition is authorised by any other order—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">(i) the date of first publication, or</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:72.0pt;text-autospace:none"><span style="font-size:13.0pt">(ii) the date of service,</span><span style="font-size:13.0pt"> </span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">of the first notice that, in connection with the acquisition, is published or served in accordance with any</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">provision of or made under any Act, or</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(c) if the acquisition is authorised by a special enactment other than an order, the date of first</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">publication of the first notice that, in connection with the acquisition, is published in accordance with any</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">Standing Order of either House of Parliament relating to private bills;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">and in paragraph (a) ‘compulsory purchase order’ has the same meaning as in the Acquisition of Land Act</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">1981.</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(7) In subsection (5)(d) references to the construction of a highway include its alteration or</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">improvement.</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(8) If there is a dispute as to what is to be taken to be the scheme mentioned in subsection (5) (‘the</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">underlying scheme’) then, for the purposes of this section, the underlying scheme is to be identified by the</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">Upper Tribunal as a question of fact, subject as follows—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(a) the underlying scheme is to be taken to be the scheme provided for by the Act, or other</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">instrument, which authorises the compulsory acquisition unless it is shown (by either party) that the</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">underlying scheme is a scheme larger than, but incorporating, the scheme provided for by that</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">instrument, and</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(b) except by agreement or in special circumstances, the Upper Tribunal may permit the acquiring</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">authority to advance evidence of such a larger scheme only if that larger scheme is one identified in the</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">following read together—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">(i) the instrument which authorises the compulsory acquisition, and</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-indent:36.0pt;text-autospace: none"><span style="font-size:13.0pt">(ii) any documents published with it.</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">(9) For the purposes of the references to planning permission in subsections (2)(a) and (b)(i) and (4)(a)</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">and section 15(1)(b), it is immaterial whether any planning permission was granted—</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-indent:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(a) unconditionally or subject to conditions, or</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="margin-left:36.0pt;text-autospace:none"><span style="font-size:13.0pt">(b) on an ordinary application, on an outline application or by virtue of a development order,</span><span style="font-size: 13.0pt"> </span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">&nbsp;</span></p>  
+
+<p class="MsoNormal" style="text-autospace:none"><span style="font-size:13.0pt">or is planning permission that, in accordance with any direction or provision given or made by or under</span><span style="font-size:13.0pt"> </span><span style="font-size:13.0pt">any enactment, is deemed to have been</span><span style="font-size:13.0pt"> granted.”</span></p>  
+
+<p class="JudgmentTitle">&nbsp;</p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/30.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

@@ -1,0 +1,289 @@
+
+ This appeal raises an issue of statutory construction. Under section 8(4) of the Wireless Telegraphy Act 2006 (“the WTA 2006”), the Office of Communications (“Ofcom”) is under a duty to make regulations exempting the installation and use of wireless telegraphy equipment of any particular description from the requirement for a licence under section 8(1), if satisfied that the conditions in section 8(5) are met as respects the use of that type of equipment. Under section 5(2) of the Communications Act 2003 (“the CA 2003”), Ofcom is under a duty to carry out its functions in accordance with directions given by the Secretary of State on very limited grounds, which include the interests of national security and public safety. The issue is whether Ofcom’s duty under section 8(4) of the WTA 2006 is qualified, or overridden as the respondent puts it, by its duty under section 5(2) of the CA 2003. 
+
+ 
+ The Court of Appeal (Underhill, Macur and Flaux LJJ) [2020] EWCA Civ 1564; [2021] 1 WLR 2839, affirmed the decision of Morris J, sitting in the Administrative Court [2019] EWHC 994 (Admin), to quash a direction dated 25 September 2017 given by the Secretary of State under section 5(2) of the CA 2003 (“the Direction”), holding that Ofcom’s duty under section 8(4) of the WTA 2006 was not qualified by its duty under section 5(2) and that the Secretary of State therefore had no power to direct Ofcom not to make regulations under section 8(4).
+
+ 
+ Section 5 of the CA 2003, in the form in force as at the date of the Direction, provided:
+
+ 
+“Directions in respect of networks and spectrum functions
+This section applies to the following functions of OFCOM
+(a) their functions under Part 2; and
+(b) their functions under the enactments relating to the management of the radio spectrum that are not contained in that Part.
+(2) It shall be the duty of OFCOM to carry out those functions in accordance with such general or specific directions as may be given to them by the Secretary of State.
+(3) The Secretary of State's power to give directions under this section shall be confined to a power to give directions for one or more of the following purposes-
+(a) in the interests of national security;
+(b) in the interests of relations with the government of a country or territory outside the United Kingdom;
+(c) for the purpose of securing compliance with international obligations of the United Kingdom;
+(d) in the interests of the safety of the public or of public health.
+(4) The Secretary of State is not entitled by virtue of any provision of this section to direct OFCOM to suspend or restrict-
+(a) a person's entitlement to provide an electronic communications network or electronic communications service; or
+(b) a person's entitlement to make available associated facilities...
+(5) The Secretary of State must publish a direction under this section in such manner as appears to him to be appropriate for bringing it to the attention of the persons who, in his opinion, are likely to be affected by it.
+(6) The Secretary of State is not required by subsection (5) to publish a direction, and he may exclude matter from a direction he does publish, if he considers the publication of the direction or matter to be –
+(a) against the interests of national security; or
+(b) against the interests of relations with the government of a country or territory outside the United Kingdom. 
+(7) Subsection (4) does not affect the Secretary of State’s powers under section 133.”
+ 
+ Section 8 of the WTA 2006, in the form in force at the date of the Direction, provided:
+
+ 
+“Licences and exemptions
+(1) It is unlawful-
+(a) to establish or use a wireless telegraphy station, or
+(b) to instal or use wireless telegraphy apparatus,
+except under and in accordance with a licence (a "wireless telegraphy licence") granted under this section by OFCOM.
+(2) Subsection (1) does not apply to-
+(a) the use of a television receiver (within the meaning of Part 4 of the Communications Act 2003) for receiving a television programme; or
+(b) the installation of a television receiver for use solely for that purpose.
+(3) OFCOM may by regulations exempt from subsection (1) the establishment, installation or use of wireless telegraphy stations or wireless telegraphy apparatus of such classes or descriptions as may be specified in the regulations, either absolutely or subject to such terms, provisions and limitations as may be so specified.
+(3A) OFCOM may not make regulations under subsection (3) specifying terms, provisions or limitations in relation to the establishment, installation or use of wireless telegraphy stations or wireless telegraphy apparatus for the provision of an electronic communications network or electronic communications service unless the terms, provisions or limitations are of a kind falling within Part A of the Annex to Directive 2002/20/ EC of the European Parliament and of the Council.
+(3B) Terms, provisions and limitations specified in regulations under subsection (3) must be—
+(a) objectively justifiable in relation to the wireless telegraphy stations or wireless telegraphy apparatus to which they relate,
+(b) not such as to discriminate unduly against particular persons or against a particular description of persons,
+(c) proportionate to what they are intended to achieve, and
+(d) in relation to what they are intended to achieve, transparent.
+(4) If OFCOM are satisfied that the conditions in subsection (5) are satisfied as respects the use of stations or apparatus of a particular description, they must make regulations under subsection (3) exempting the establishment, installation and use of a station or apparatus of that description from subsection (1). 
+(5) The conditions are that the use of stations or apparatus of that description is not likely to –
+(a) involve undue interference with wireless telegraphy;
+(b) have an adverse effect on technical quality of service;
+(c) lead to inefficient use of the part of the electromagnetic spectrum available for wireless telegraphy;
+(d) endanger safety of life;
+(e) prejudice the promotion of social, regional or territorial cohesion; or
+(f) prejudice the promotion of cultural and linguistic diversity and media pluralism.”
+ The type of equipment relevant to the appeal is known as commercial multi-user Global Systems for Mobile Communications (“GSM”) gateway apparatus (“COMUG”). GSM gateways are telecommunications equipment containing one or more SIM cards, as used in mobile phones. They enable phone calls and text messages from landlines to be routed directly on to mobile networks, taking advantage of lower mobile call charges. They have been widely used by businesses and public bodies to reduce their telephone bills. A commercial operator may use a GSM gateway to provide services to a single end-user, so that all the calls diverted through the gateway come from one user, which is called a commercial single-user GSM gateway (“COSUG”). Alternatively, a commercial operator may use a COMUG to provide a similar service to multiple end-users, so that the calls diverted through the gateway come from more than one end-user. 
+
+ 
+ The use of COMUGs gave rise to national security and public safety concerns which led the Secretary of State to give the Direction to Ofcom under section 5(2) of the CA 2003 which is the subject of these proceedings. When a call is made from a landline or a mobile phone, information identifying the calling party is transmitted over the network, as is information as to the user’s location in the case of a mobile phone. However, when a call is routed through a GSM gateway, this information is not conveyed to the network. Instead, the only data is the number and location of the SIM card in the GSM gateway, which masks communications data about the call and the caller. 
+
+ 
+ Until 2016, the use of any GSM gateway equipment was subject to the licensing requirements of section 8(1) of the WTA 2006. This was modified by the Wireless Telegraphy (Exemption) (Amendment) Regulations 2016 (SI 2016/486), which exempted the use of COSUGs from the licensing requirements, but COMUGs remained subject to them. This change followed the decision of Rose J in Recall Support Services Ltd v Secretary of State for Culture, Media and Sport [2013] EWHC 3091 (Ch), [2014] 2 CMLR 2 (“Recall HC”), affirmed by the Court of Appeal ([2014] EWCA Civ 1370, [2015] 1 CMLR 38) (“Recall CA”), that under EU law (and under domestic law as it then stood) it was permissible to require individual licensing on public security grounds, and that on the evidence before the court this requirement was justified for COMUGs, but not for COSUGs.
+
+ 
+ Following a public consultation, Ofcom published in July 2017 a notice stating its intention to make regulations under section 8 exempting COMUGs from the licensing requirements of section 8(1). It was satisfied that the conditions provided by section 8(5) were met. Those conditions do not include national security or the three other matters which, under section 5 of the CA 2003, entitle the Secretary of State to give a direction to Ofcom as to the performance of its functions.
+
+ 
+ In response to this notice, the Secretary of State (acting by the Minister of State for Security) issued the Direction under section 5(2) of the CA 2003 challenged in these proceedings. The Direction was given on the basis of serious national security and public safety concerns. Those concerns are not disputed by the respondent, VIP Communications Ltd (“VIP”). The Direction read as follows: 
+
+ 
+"I direct that the operation of a commercial multi-user gateway for the purpose of voice calls over a publicly available telephone service or SMS shall not be exempted by Ofcom from the requirement for a licence to be granted under section 8(1) of the Wireless Telegraphy Act 2006. Ofcom shall not issue a licence for such purposes unless the provider of the [COMUG] can demonstrate that the calling line identification will pass through the telecommunications network such that:
+a)     It is possible to obtain from the telecommunications operator with whom a device or account is registered, accurate telecommunications data to the same level as can currently be obtained without the use of a [COMUG]. This includes data that identifies the sender and end-recipient of communication, or the time or duration of a communication, in the same timescales. This data must be provided to the same level of integrity and in the same format as if the communications had been made without the use of a [COMUG] and without the need to approach the [COMUG] provider to gain this information; 
+b)     The relevant telecommunications operator with whom a device or account is registered is able to uniquely identify relevant communications, without having to seek additional information from the provider of the [COMUG], such that the telecommunications operator can comply with an interception warrant issued by the Secretary of State."
+The proceedings
+ In December 2017, VIP issued an application for judicial review of the Direction, contending that it was ultra vires the Secretary of State’s powers under section 5 of the CA 2003 and should be quashed. It argued that the Secretary of State had no power under section 5 to direct Ofcom not to comply with its duty under section 8(4) of the WTA 2006 to make regulations (“exemption regulations”) if Ofcom was satisfied that the conditions in section 8(5) were met. VIP had carried on a business of providing services by way of GSM gateways, but its business collapsed, and it went into administration in 2005 and into liquidation in 2010. It is not clear on the materials before the court why a company that has been in liquidation since 2010 should be bringing these proceedings, but, although this point was taken in opposition to the application for permission for judicial review, permission was granted and the point was not pursued further.
+
+ 
+ In his judgment upholding VIP’s claim, Morris J took as his “starting point” that “a restrictive approach to construction is to be adopted and clear words are required to give a power, by way of secondary legislation, to override a statutory duty imposed by other primary legislation. Absent clear wording, or a provision to resolve a conflict between duties, the court should presume that Parliament would not impose inconsistent duties or clashing duties” (para 54).
+
+ 
+ Consistently with this starting point, Morris J subjected the terms of section 5(2) to close scrutiny. While he accepted that Ofcom’s “functions” included its duty under section 8(4) of the WTA 2006, he considered that a direction not to carry out the duty under section 8(4) could not be a direction to carry out that duty. He also held that the words “in accordance with” in section 5(2) meant “in line with” or “in the same direction as” but did not mean “subject to”. He found support for his conclusion in the decision of the Court of Appeal in EE Ltd v Office of Communications [2017] EWCA Civ 1873, [2018] 1 WLR 1868 (“EE v Ofcom”), in obiter observations of (Stephen) Richards LJ in Recall CA, and in a comparison with other sections of the WTA 2006 and related legislation which contained express provision for resolving conflicts of statutory duty. 
+
+ 
+ The Court of Appeal’s reasons for dismissing the Secretary of State’s appeal were given in the judgment of Flaux LJ, with which Underhill and Macur LJJ agreed. At para 54, Flaux LJ said that “the court will not construe a statutory power to give a direction as extending to giving a direction not to comply with statutory duties under that or another statute, in the absence of clear words to that effect”. This was a principle of statutory construction, for which he relied on a passage in Bennion on Statutory Interpretation 7th ed, (2017) and the decision of the Court of Appeal in EE v Ofcom. 
+
+ 
+ Flaux LJ said that section 5(2) of the CA 2003 contained no such clear words and could not be construed as conferring on the Secretary of State the power to direct Ofcom not to comply with its statutory duties. First, it was clear from the legislation that when one duty was to be subordinate to another, it was expressly provided. Second, the power to give a direction to Ofcom to carry out a function did not permit a direction not to carry out a function. Third, there was nothing in the argument that, if the Secretary of State could not direct Ofcom to refrain from making regulations under section 8(4) of the WTA 2006 in the interests of national security and public safety, there would be a lacuna in the legislative scheme. A strained construction should not be placed on section 5(2) “merely to fill a perceived lacuna”, for which the remedy would be an amendment to the statute to confer the relevant power. Fourth, in any event, there was no lacuna because the Secretary of State could adequately safeguard national security and public safety by exercising the power under section 5(2) to require Ofcom to make the exemption subject to conditions in the terms of paragraphs (a) and (b) of the Direction. This would be consistent with Ofcom’s power under section 8(3) to make regulations which grant an exemption “subject to such terms, provisions and limitations as may be so specified”. 
+
+ 
+Statutory construction
+ There is no dispute about the basic principles of statutory construction, although there is dispute as regards the particular presumption on which the Court of Appeal relied. The basic principles have been analysed in many authorities including, recently, R (O) v Secretary of State for the Home Department [2022] UKSC 3, [2022] 2 WLR 343. Giving the lead judgment, with which the other members of the court agreed, Lord Hodge summarised the correct approach to statutory construction. He said at para 29:
+
+ 
+“The courts in conducting statutory interpretation are ‘seeking the meaning of the words which Parliament used’: Black-Clawson International Ltd v Papierwerke Waldhof-Aschaffenburg AG [1975] AC 591, 613 per Lord Reid of Drem. More recently, Lord Nicholls of Birkenhead stated: 
+ ‘Statutory interpretation is an exercise which requires the court to identify the meaning borne by the words in question in the particular context.’ 
+(R v Secretary of State for the Environment, Transport and the Regions, Ex p Spath Holme Ltd [2001] 2 AC 349, 396). Words and passages in a statute derive their meaning from their context. A phrase or passage must be read in the context of the section as a whole and in the wider context of a relevant group of sections. Other provisions in a statute and the statute as a whole may provide the relevant context. They are the words which Parliament has chosen to enact as an expression of the purpose of the legislation and are therefore the primary source by which meaning is ascertained.” 
+ Lord Hodge said at para 31 that statutory interpretation involved “an objective assessment of the meaning which a reasonable legislature as a body would be seeking to convey in using the statutory words which are being considered”. 
+
+ 
+The legislative scheme
+ Section 5 of the 2003 Act and section 8 of the 2006 Act form part of a complex legislative scheme for the regulation of telecommunications, including the installation and use of wireless telegraphy equipment. They must be construed in the context of that scheme and in the light of their purpose within the scheme. 
+
+ 
+ The development of the legislation governing the installation and use of wireless telegraphy equipment over more than a century provides important context to the present state of the legislation. 
+
+ 
+ Legislation to regulate wireless telegraphy was introduced after its practical application became clear in the late 1890’s, largely as a result of Marconi’s successful demonstrations. The Wireless Telegraphy Act 1904 was enacted “to provide for the regulation of Wireless Telegraphy”, as its long title stated. The installation and use of wireless telegraphy equipment was brought under Government control. It was made an offence to act in breach of section 1(1) which provided that:
+
+ 
+“A person shall not establish any wireless telegraph station or instal or work any apparatus for wireless telegraphy in any place or on board any British ship, except under and in accordance with a licence granted in that behalf by the Postmaster General.”
+ Wireless telegraphy remained subject to exclusive executive control under the Wireless Telegraphy Act 1949 (“the 1949 Act”), which replaced the 1904 Act. Section 1(1) contained a similar requirement for an individual licence to be granted by the Postmaster General, subject to a proviso in terms almost identical to those of section 8(3) of the 2006 Act: 
+
+ 
+“Provided that the Postmaster General may by regulations exempt from the provisions of this subsection the establishment, installation or use of stations for wireless telegraphy or wireless telegraphy apparatus of such classes or descriptions as may be specified in the regulations, either absolutely or subject to such terms, provisions and limitations as may be so specified.”
+ The Postmaster General was empowered to issue individual licences under section 1(1) subject to such terms, provisions and limitations as he might think fit, including the places where, the purposes for which, the circumstances in which and the persons by whom the station or apparatus might be used (section 1(2)). The Postmaster General had an unqualified power to revoke licences (section 1(4)). By section 3, the Postmaster General was empowered to make regulations applicable to licence holders, which could include prescribing the things which were to be done or not done in connection with the use of any station or apparatus. The 1949 Act was subsequently amended in a number of respects, for example to make provision as regards television and to substitute the Secretary of State for the Postmaster General. 
+
+ 
+ Among the regulations made pursuant to the proviso to section 1(1) of the 1949 Act were the Wireless Telegraphy (Exemption) Regulations 1999 (SI 1999/930), which exempted a broad range of telecommunications equipment from a licensing requirement. However, GSM Gateways, including COMUGs, were not exempted. By regulation 4(2), they remained subject to a licensing requirement when used as part of a telecommunications service business (“the commercial use restriction”). These regulations were revoked and replaced by the Wireless Telegraphy (Exemption) Regulations 2003 (SI 2003/74), also made pursuant to the 1949 Act, which maintained the commercial use restriction. Security considerations were a prime reason for the commercial use restriction: see Recall CA at para 38. 
+
+ 
+ In circumstances where control rested solely with the Secretary of State, it was unnecessary to make special provision for matters such as national security and public safety. The Secretary of State could take such matters into account in the exercise of the powers to grant licences and to make regulations. 
+
+ 
+ A major overhaul of the system of control and regulation of telecommunications services and equipment was required to implement the group of five EU Directives, known collectively as the Common Regulatory Framework, introduced in 2002. This comprised the Framework Directive (2002/21/EC of 7 March 2002) and four specific Directives including the Authorisation Directive (2002/20/EC of 7 March 2002). Member states were obliged to designate a national regulatory authority to take on many of the functions set out in the Directives. The Directives were to be implemented by 24 July 2003.
+
+ 
+ The regulation of electronic communications networks and services was the subject of the Authorisation Directive. Its aim was “to implement an internal market in electronic communications networks and services through the harmonisation and simplification of authorisation rules and conditions in order to facilitate their provision throughout the Community” (article 1). Subject to certain exceptions and qualifications, the “provision of electronic communications networks or the provision of electronic communications services may…only be subject to a general authorisation” without the requirement for “an explicit decision or any other administrative act by the national regulatory authority before exercising the rights stemming from the authorisation” (article 3(2)). Article 5 of the Directive provided that member states “shall, where possible, in particular where the risk of harmful interference is negligible, not make the use of radio frequencies subject to the grant of individual rights but shall include the conditions for usage of such radio frequencies in a general authorisation”. Thus, while in certain circumstances member states could prohibit the use of wireless telegraphy without an individual licence, the use of wireless telegraphy was otherwise to be permitted on the terms of a general authorisation. 
+
+ 
+ The Directives were implemented in the UK primarily by the CA 2003. Ofcom, which had been created by the Office of Communications Act 2002, was designated as the regulator and extensive responsibilities were given to it. 
+
+ 
+ Part 1 of the CA 2003 contains general provisions as regards the functions of Ofcom. Many of the functions previously conferred on the Secretary of State were transferred to Ofcom by section 2. Sections 3 to 9 are grouped under the heading “General duties in carrying out functions”. Section 3 states the “principal duty” of Ofcom as being to further the interests of citizens in relation to communication matters and to further the interests of consumers, and it sets out “things…which OFCOM are required to secure in the carrying out of their functions” and matters to which it must have regard in performing its principal duties. Section 4 sets out duties for the purpose of fulfilling EU obligations. Sections 6 to 8 contain duties as regards regulatory burdens, impact assessments and promptness standards. 
+
+ 
+ Section 5, set out at the start of this judgment, contains the power of the Secretary of State to give directions to Ofcom which is at the heart of this appeal. It applies to Ofcom as regards its functions under Part 2 of the CA 2003 and its “functions under any other enactment relating to the management of the radio spectrum” which, as section 405 makes clear, include the power to grant licences and to make exemption regulations under the WTA 1949, and now under the WTA 2006. 
+
+ 
+ The distinction made by the Authorisation Directive between a general authority and individual rights of use already existed in section 1 of the WTA 1949, referred to above. The transfer of the Secretary of State’s power to make exemption regulations and to issue individual licences was effected by amending section 1 of the WTA 1949 to substitute Ofcom for the Secretary of State. 
+
+ 
+ A significant substantive change was made by the introduction of a new section 1AA into the WTA 1949. It required Ofcom to make exemption regulations as regards the use of stations or equipment of any particular description, if satisfied that the use of such stations or equipment was not likely to involve any undue interference with wireless telegraphy. Although article 5(1) was in terms directed to the use of radio frequencies, while section 1AA was concerned with “the establishment, installation and use of any station or apparatus”, section 1AA was said by the explanatory notes to the CA 2003 to implement article 5(1). 
+
+ 
+ The use of COMUGs continued to be subject to the commercial use restriction, by virtue of transitional provisions in the 2003 Act which maintained the Wireless Telegraphy (Exemption) Regulations 2003 (SI 2003/74) in force.
+
+ 
+ The WTA 1949 and Part 2, Chapter 2 of the CA 2003 were repealed and replaced by the WTA 2006, a consolidating statute. The provisions relating to licences and exemption regulations previously contained in sections 1 and 1AA of the WTA 1949 were re-enacted in sections 8 and 9 of the new Act. Like section 1AA of the WTA 1949 Act, the only condition of which Ofcom had to be satisfied, before it was required to make regulations exempting the use of particular equipment from the need for an individual licence, was that it was not likely to involve undue interference with wireless telegraphy (section 8(5)). This was expanded by the Electronic Communications and Wireless Regulations 2011 to include the conditions appearing in paragraphs (b) to (f) in section 8(5) as set out at the start of this judgment. This reflected the terms of an expanded article 5(1) of the Authorisation Directive which was introduced by the Better Regulation Directive (2009/140/EC of 25 November 2009). 
+
+ 
+Purpose and context of the relevant provisions
+ It is obvious that the use of wireless telegraphy may well engage issues of, for example, national security, as the inclusion of section 5 in the CA 2003 demonstrates. National security, and the other matters listed in section 5(3) of the CA, are core functions of the Government, for which it is democratically accountable. In a field where far-reaching technological developments can and do occur with great speed, vital national interests may require a rapid response. For these reasons, these matters are reserved to the Secretary of State by section 5. Equally, a regulator like Ofcom is in no sense equipped to have responsibility for any of them. 
+
+ 
+ Until the changes made in 2003 to implement the Common Regulatory Framework, the use of wireless telegraphy equipment was subject to the sole control of the Secretary of State. Express statutory powers were not needed to enable account to be taken of national security and similar concerns in, for example, retaining a requirement for individual licences in the case of particular categories of equipment. Under the regime introduced in 2003, regulatory control is largely in the hands of Ofcom but subject to the Secretary of State’s power to give directions to Ofcom for one or more of the four purposes listed in section 5(3) of the CA 2003. Those purposes do not feature in the extensive lists of relevant factors to which Ofcom must have regard in the performance of its general duties under section 3. As regards exemption regulations, Ofcom is concerned exclusively with the conditions listed in section 8(5) of the WTA 2006, which cover either technical matters (sub-paras (a) to (d)) or broader matters which can properly be decided by a regulator (sub-paras (e) and (f)). Consistently with this division of responsibility, Ofcom is given no power to have regard to national security or the other matters listed in section 5(3) and does not itself have any power to refuse to make exemption regulations on grounds of prejudice to any of those matters.
+
+ 
+ Under the EU regime that the CA 2003 implemented, the continuing responsibility of member states for matters such as national security was expressly recognised. For example, the recitals to the Authorisation Directive stated:
+
+ 
+“(3) The objective of this Directive is to create a legal framework to ensure the freedom to provide electronic communications networks and services, subject only to the conditions laid down in this Directive and to any restrictions in conformity with Article 46(1) of the Treaty [later Article 52 TFEU], in particular measures regarding public policy, public security and public health.
+…
+(12) … In accordance with case law of the Court of Justice, any national restrictions on the rights guaranteed by Article 49 of the Treaty [later Article 56 TFEU] should be objectively justified, proportionate and not exceed what is necessary to achieve general interest objectives as defined by Member States in conformity with Community law.”
+ Likewise, article 3.1 of the Authorisation Directive provided that member states should not prevent an undertaking from providing electronic communications networks or services “except where this is necessary for the reasons set out in Article 46(1) of the Treaty”. Recital 25 to the Better Regulation Directive recognised “the right of Member States to organise and use their radio spectrum for the purposes of public order, public security and defence”.
+
+ 
+ Article 46(1), read with article 55, of the EC Treaty (replaced by articles 52 and 62 TFEU) provide that measures taken to implement the free movement of services “shall not prejudice the applicability of provisions laid down by law, regulation or administrative action providing for special treatment…on grounds of public policy, public security or public health”. 
+
+ 
+ It was held by Rose J and by the Court of Appeal in Recall that, in the light of these provisions, it was permissible under EU law for the Secretary of State, on national security and public safety grounds, to direct Ofcom not to issue exemption regulations covering COMUGs. 
+
+ 
+ It is beyond argument that Parliament’s purpose in enacting section 5 was that, notwithstanding the extensive changes made to the regime for the control of wireless telegraphy, the Government should continue to be responsible for national security and the other matters listed in section 5(3) of the CA 2003.
+
+ 
+Construction of section 5 of the CA 2003 and section 8 of the WTA 2006
+ Although the provisions dealing with the regulation of wireless telegraphy appear in more than one statute, they are dealing with a single system of regulation, so that provisions such as section 5 of the CA 2003 and section 8 of the WTA 2006 are to be construed as if contained within a single statute.
+
+ 
+ VIP accepts, as did the courts below, that section 5 of the CA 2003 gives wide powers to the Secretary of State to intervene for the limited purposes set out in section 5(3) in many aspects of Ofcom’s functions. So, for example, Flaux LJ observed in his judgment at para 62 that it would be open to the Secretary of State to direct Ofcom to make any exemption under section 8(5) subject to conditions designed to address issues of national security or other matters listed in section 5(3). 
+
+ 
+ Nonetheless, the courts below identified a limit on the powers of the Secretary of State under section 5 of the CA 2003 in one particular respect, namely where Ofcom is expressed under section 8 to be under a duty to make exemption regulations under section 8. In Recall HC, Rose J found, on the basis of evidence heard in private and for the reasons given in a confidential annex to her judgment, that the requirement for individual licences for the commercial use of COMUGs, and the refusal to make exemption regulations in respect of such use, was justified by the public security concerns raised by the Secretary of State. This conclusion was not challenged in the Court of Appeal. As I read the judgment of Flaux LJ, he accepted that there could be circumstances where the making of such regulations would prejudice national security or the other matters listed in section 5(3) but where the Secretary of State would be powerless to prevent the making of such regulations. Flaux LJ suggested that the answer to this lacuna would be to enact amending legislation.
+
+ 
+ In circumstances where the legislation has carefully divided responsibility between the Government and the regulator, reserving to the former powers only in respect of matters of vital national interests which are peculiarly within the competence of the Government, it would be very surprising if those powers did not apply so as to prevent the making of an exemption regulation where, in the reasonable and proportionate judgment of the Government, the regulation would prejudice those interests. As Mr Beard KC, appearing for the Secretary of State, submitted, it is on the face of it implausible that Parliament would provide that exemption regulations must not be made if they were likely to prejudice regional cohesion, but must be made notwithstanding prejudice to national security. The position was starker still before the amendments to section 8(5) in 2011, when the only matter for Ofcom’s consideration was whether the exempted equipment was likely to involve any undue interference with wireless telegraphy.
+
+ 
+ This would be all the more surprising in circumstances where, before the enactment of the CA 2003, the Secretary of State clearly had power to decline to make exemption regulations on grounds such as national security and where the EU regime implemented by the CA 2003 expressly preserved the competence of member states in matters such as national security.
+
+ 
+ In those circumstances, the grounds on which the respondent submits, and the courts below concluded, that the Secretary of State’s powers under section 5 of the CA 2003 do not extend to directing Ofcom to refrain from making an exemption regulation require careful examination. 
+
+ 
+ The Court of Appeal based its decision on two principal grounds. First, it was said to be a general principle of statutory construction that, in the absence of clear words, a statutory power to give a direction cannot extend to directing a person not to comply with a statutory duty under the same or another statute, and section 5 contains no such clear words. Second, section 5(2) cannot in any event be construed as conferring on the Secretary of State the power to give a direction to Ofcom not to carry out its statutory duties, in this case the duty to make exemption regulations if satisfied as to the conditions in section 8(5).
+
+ 
+ It is logical to take the second of these grounds first. If section 5(2) is indeed incapable of being construed as conferring the power to give a direction to Ofcom not to make exemption regulations, then the Secretary of State’s appeal must be dismissed. 
+
+ 
+ The Court of Appeal did not quite go so far as to hold that, as a matter of the language of section 5(2), it could not be so construed. It was, however, said to be “a strained construction” (para 61). So far as this depended on the terms of section 5(2), Flaux LJ stated the point in this way at para 58:
+
+ 
+“I consider that [section 5(2)] is imposing a duty on Ofcom in relation to functions it actually carries out and “carry out” cannot be extended to include “not carry out”. The first paragraph of the Direction directs Ofcom not to grant exemptions from the requirement for a licence, when section 8(4) WTA 2006 requires it to do so if the conditions in (5) are satisfied, in other words it directs Ofcom not to carry out specific functions when it has a statutory duty to do so.”
+ The effect of this approach to section 5(2) is that the Secretary of State has power to direct Ofcom to take some positive step, or to take action in a particular way (such as by attaching conditions to an exemption), but does not have power to direct Ofcom to refrain from taking a particular step. Section 5(2) is necessarily expressed in general terms because it is concerned with all the functions of Ofcom under Part 2 of the CA 2003 (which, as originally enacted, ran to 165 sections, and now to many more) and to its functions under all other enactments relating to the management of the radio spectrum, which include its functions under the WTA 2006 (which ran originally to 126 sections). The drafter was not directing the language at any particular function but was choosing words which could cover the whole field of those functions. In these circumstances, Ofcom is as much carrying out one of its functions when, following a direction by the Secretary of State, it does not make exemption regulations under section 8 of the WTA 2006 as when, in the absence of a direction, it does make exemption regulations. In the case of a provision whose purpose is to safeguard vital national interests, it is an improbable reading that it permits the Secretary of State to direct Ofcom to do something or to do it in a particular way but does not permit a direction not to do that thing. 
+
+ 
+ The Court of Appeal drew support for its conclusion on the scope of section 5(2) from a comparison with other provisions in the CA 2003 and related legislation which made clear, in the case of what it called conflicting duties, which of those duties prevailed. 
+
+ 
+ The relevance of these comparisons rests on the premise that a conflict exists between Ofcom’s duties under section 5 of the CA 2003 and its duties under section 8 of the 2006 Act. That pre-supposes the answer to the central issue on this appeal as to the existence of any such conflict. If, on the proper construction of the two provisions, there is no conflict, there is no need for a provision as to which is to prevail. 
+
+ 
+ Moreover, the reliance on the absence of a conflict-resolution provision is closely tied to the Court of Appeal’s acceptance of a general principle of construction that a power to give a direction cannot be used to require a person, in this case Ofcom, to refrain from carrying out a statutory duty. If such a general principle exists, there is force in the point that it would be easy for the legislation to make clear that the power to give a direction could be used in that way. This is illustrated by R (Black) v Secretary of State for Justice [2017] UKSC 81, [2018] AC 215, on which VIP relied. The issue was whether the relevant part of the Health Act 2006, dealing with the prohibition of smoking in public places, applied as regards smoking in state-run prisons. That issue in turn depended on whether that part of the Act applied to the Crown, the longstanding convention being that a statute does not bind the Crown in the absence of express provision or necessary implication. There was no such express provision and this Court, affirming the decision below, held that it did not apply to the Crown. In that context, it was clearly relevant to observe, as Lady Hale did at para 43, that “there are powerful indicators in the language of the Act itself that the Crown was not to be bound by the smoking ban. First and foremost, it does not say so and it would have been easy enough so to do.” 
+
+ 
+ As appears below, I do not accept the existence of the general principle of statutory construction on which the Court of Appeal relied, and I do not think that any assistance is gained from the comparison with other provisions. Nevertheless, it should be noted that there were good reasons for the inclusion of those conflict-resolution provisions. 
+
+ 
+ The Court of Appeal took section 3 of the WTA 2006 (formerly, section 154 of the CA 2003) as “the clearest and most relevant example”. Section 3 sets out the duties of Ofcom when carrying out its functions as regards spectrum use. Section 3(1) requires Ofcom “to have regard to” certain specified matters regarding the availability of the electro-magnetic spectrum for wireless telegraphy use and the demand for such use. Section 3(2) requires Ofcom also to have regard to the desirability of promoting matters such as efficient management and use of the spectrum, the benefits that may arise from the use of wireless telegraphy, and competition. Section 3(5) provides:
+
+ 
+“Where it appears to OFCOM that a duty under this section conflicts with one or more of their duties under sections 3 to 6 of the Communications Act 2003, priority must be given to their duties under those sections.” 
+ Sections 3 to 6 of course include section 5, imposing a duty on Ofcom to carry out its functions in accordance with any directions given by the Secretary of State under that section. The Court of Appeal took the view that section 3(5) of the WTA 2006 is therefore a directly relevant example of a conflict-resolution provision, which is absent in the case of section 8 of the WTA 2006. 
+
+ 
+ There is, however, no direct parallel between, on the one hand, a conflict between the duties in section 3 of the WTA 2006 and those in sections 3 to 6 of the CA 2003 and, on the other hand, a supposed conflict between the Ofcom’s duty to comply with a direction under section 5 of the CA 2003 and its duty to make an exemption regulation under section 8 of the WTA 2006. Section 3 of the WTA 2006 lists matters to which Ofcom must have regard when exercising its functions, as does section 3 (and, to an extent, section 6) of the CA 2003. The effect of section 3(5) of the WTA 2006 is that primacy is to be given to the matters listed in sections 3 and 6 of the CA 2003. Section 4 sets out Ofcom’s duty to act in accordance with what were then EU obligations, to which section 3(5) also gave primacy. The inclusion of section 5 within the group of sections referred to in section 3(5) of the WTA 2006 simply made explicit what was in any event the effect of section 5, given its terms, purpose and context. 
+
+ 
+ Section 94(3) of the Telecommunications Act 1984 (as amended by the CA 2003) was the other provision on which the Court of Appeal relied. By section 94(1) and (2), the Secretary of State may give directions in the interests of national security or international relations to specified persons. The persons to whom directions could be given were amended by the CA 2003 to Ofcom and providers of public electronic communications networks. Section 94(3) provides those persons must give effect to any such directions, notwithstanding any other duty under Part 1 or Chapter 1 of Part 2 of the CA 2003 and, in the case of a direction to a provider of a public electronic communications network, notwithstanding that it relates to the provider in some other capacity. 
+
+ 
+ Section 94(3) creates a link between two separate legislative schemes, ensuring as regards Ofcom that its relevant duties under the CA 2003 are subject to directions given by the Secretary of State under section 94. In the absence of section 94(3), it would or might not be clear that such directions were to override duties under the CA 2003. By contrast, as regards wireless telegraphy, the CA 2003 and the WTA 2006 are part of the same legislative scheme.
+
+ 
+ The principal basis for the Court of Appeal’s decision was the application of what was said to be a general principle of statutory construction that a statutory power to give a direction does not extend to a direction not to comply with a statutory duty arising under that or another statute, in the absence of clear words to that effect. Although the Court of Appeal’s decision in EE v Ofcom was said to be a recent example of the application of this principle, no other case was cited in support of it. Reliance was placed on a statement in Bennion on Statutory Interpretation (7th ed, 2017) at sub-para (2) of section 3.7, which is now at section 3.9 in Bennion, Bailey and Norbury on Statutory Interpretation 8th ed, (2020): 
+
+ 
+“3.9 The general principles for determining the scope of an enabling power are as follows.
+(1)   The scope of an enabling power is to be determined in accordance with the usual principles of statutory construction.
+(2)   If the legislature intends to confer certain powers - such as the ability to create offences, to impose charges, to amend or modify primary legislation, to interfere with fundamental rights, to permit sub-delegation or to make retrospective provision - it will usually do so expressly. In the absence of express provision, a court may be reluctant to find that the legislature intended to confer such powers."
+ The statement in sub-para (2) refers to circumstances in which it is well-established that a legislative intention must be stated in clear terms. However, the provisions in issue in the present appeal do not fall within any of those categories. The provisions concern two duties - the duty of Ofcom to comply with directions given by the Secretary of State and the duty of Ofcom, if satisfied of the specified matters, to make exemption regulations. Neither of these duties infringes any rights, still less any fundamental rights, nor do they purport to have any of the other effects listed in sub-para 3.9(2) of Bennion. 
+
+ 
+ Flaux LJ acknowledged at para 54 that all the authorities which counsel for VIP cited concerned fundamental public law rights, but he considered that the principle of construction on which he relied was of broader application. 
+
+ 
+ In my judgment, there is no such general principle of statutory construction. It will of course be relevant to the assessment of rival interpretations of a provision that, on one view, it would permit a direction to be given that has the effect of precluding the performance of what would otherwise be a statutory duty, but that is no more than one of the factors which will need to be considered in arriving at the proper construction of the provision. It is not a principle or presumption of the sort which applies when a court is asked to determine whether a statutory provision overrides fundamental rights or the rule of law, or confers on another body the power to do so. As Lord Hodge said in R (O) v Secretary of State for the Home Department at para 43:
+
+ 
+“Where the court is not dealing with an interference by statute with a common law constitutional right or with a statutory provision which declares such a fundamental or constitutional right, the normal canons of statutory construction apply.” 
+ In his submissions on this appeal, Mr Segan KC on behalf of VIP submitted, by reference to R (Public Law Project) v Lord Chancellor [2016] UKSC 39, [2016] AC 1531, that a direction under section 5 of the CA 2003 was analogous to the exercise of a Henry VIII power to amend primary legislation, because its effect if the Secretary of State is correct is that Ofcom’s duty under section 8 of the WTA 2006 is overridden by the exercise of a delegated power to give a direction under section 5. I do not accept this submission. There is no question of an amendment of section 8. The question is simply one of construction of the two provisions in the light of their purpose and context, to determine the relationship between them.
+
+ 
+ In this context, Mr Segan also drew attention to the breadth of the power to give directions under section 5, applying as it does to Ofcom’s functions under the whole of Part 2 of the CA 2003 and under all other enactments relating to the management of the radio spectrum. As noted by Flaux LJ at para 58, the Secretary of State’s construction of section 5 would permit a direction to be given not to carry out any of its functions under the relevant legislation. The suggestion is far-fetched in practical terms, but any such concerns are met by the obligation of the Secretary of State to exercise the power in a reasonable and proportionate way.
+
+ 
+ Flaux LJ referred to the Court of Appeal’s decision in EE v Ofcom as a recent example of the application of the general principle that clear words will be required before the power under section 5 will be interpreted as extending to directing Ofcom not to comply with its statutory duties. 
+
+ 
+ EE v Ofcom concerned the power of the Secretary of State under section 5(1) of the WTA 2006 to “give general or specific directions to Ofcom about the carrying out by them of their radio spectrum functions”, which included Ofcom’s function under section 12 to fix the fees payable on the grant of a wireless telegraphy licence. The Secretary of State issued a direction to Ofcom that it should fix the fees at full market value, thereby precluding it from having regard to any other considerations, including the requirements set out in article 8 of the Framework Directive to which Ofcom was required to give effect by section 4 of the CA 2003. The Court of Appeal held that the direction was ultra vires section 5 of the WTA 2006. Section 5 empowered the Secretary of State to give directions as to how Ofcom should exercise its function of fixing licence fees, but it did not authorise the Secretary of State to direct Ofcom to ignore its duties under section 4 of the CA 2003. Patten LJ said at para 54:
+
+ 
+“It did not obviously contemplate or in my view authorise the performance of the article 8 duty by someone who was not the regulator and who was not carrying out the relevant function to which the duty relates. In the absence of clear words, the section 4(2) duty is to be treated as non-delegable and there is nothing in section 5 of WTA 2006 which in terms allows the Secretary of State to relieve Ofcom of the statutory duties which Parliament has expressly imposed on it. The language of section 5 is entirely neutral.”
+ The effect of the direction in EE v Ofcom was to substitute the Secretary of State for Ofcom as the decision-maker for licence fees, a function that was unambiguously conferred on Ofcom as the regulator in accordance with the applicable EU Directives. It was not open to the Secretary of State to give a direction by which he in effect took over that function. 
+
+ 
+ I do not consider that the Court of Appeal’s decision in that case provides support for, or illustrates, the suggested general principle of statutory construction relied on in the present case, or that it provides any guidance on the issue that arises in this case. 
+
+ 
+ There was some difference of view on the point in issue on this appeal between Rose J and Richards LJ in Recall. The claimants in that case argued that the commercial use restriction was unlawful as a matter of both EU and English domestic law. As regards the position under English law, the claimants’ submissions included the case made by the respondents in the present case. Rose J rejected it:
+
+ 
+“85. However, I accept that section 5 of the CA 2003 does have the effect contended for by DCMS and does allow the United Kingdom to rely on a public security justification in relation to the making of exemptions under section 1AA/section 8. Indeed, it is also more likely, in my judgment, that the legislative intention was that decisions about the needs of national security would be placed in the hands of the Secretary of State rather than of OFCOM. 
+86. The claimants countered with three points on the potential application of section 5 of the CA 2003. They argue that a direction made under section 5 could not be used to override the duty imposed on OFCOM in primary legislation such as the duty to issue an exemption imposed in section 1AA/section 8. I do not see why this should be the case. Sections 5 and 405(1) of the CA 2003 (which defines which OFCOM functions the power relates to) contain no such limitation.”
+ The Court of Appeal held the commercial use restriction to be valid as a matter of English law solely on the ground that the CA 2003 had maintained the Wireless Telegraphy (Exemption) Regulations 2003 (SI 2003/74) in force: see Recall CA at para 53. However, Richards LJ gave some obiter consideration to the relationship between section 5 of the CA 2003 and section 1AA of the WTA 1949. Having said at para 55 that section 5 “shows the importance attached by Parliament to national security in this general context and gives the Secretary of State substantial powers to act to promote it”, he continued at para 56:
+
+ 
+“The wording of section 5 is, however, problematic. Section 5(2) provides that if directions are given by the Secretary of State, it is the duty of Ofcom to carry out its relevant functions (which include its duty under section 1AA of the 1949 Act to make exempting regulations) “in accordance with those directions”. That cannot readily be interpreted as requiring Ofcom, if so directed by the Secretary of State, not to carry out a statutory duty otherwise imposed on it. The wording may be contrasted with the terms of section 94(3) of the Telecommunications Act 1984, quoted above, which require a person to give effect to a direction “notwithstanding any other duty imposed on him”, and with the terms of section 3(5) of the 2006 Act, also quoted above, which make clear how a conflict between statutory duties is to be resolved. On this point, therefore, I have greater reservations than did Rose J, who said at paragraph 86 of her judgment that she did not see why a direction under section 5 could not be used to override Ofcom’s duty to make exempting regulations. (I consider that the point is essentially one of construction of the 2003 Act and that the Joint Council for the Welfare of Immigrants ... case on which the appellants rely does not provide any real assistance.)”
+ For the reasons given in this judgment, I prefer the decision of Rose J on this issue to the reservations expressed by Richards LJ. 
+
+ 
+ In the circumstances, it is not necessary to dwell on VIP’s submission that the security concerns of the Secretary of State could be met by attaching conditions to an exemption regulation. I would, however, make three short observations. First, there is a clear difference between, on the one hand, requiring an applicant for a licence to demonstrate compliance with conditions before a licence is issued and, on the other hand, ascertaining only after the event that a person has not complied with a condition attached to a general exemption regulation. Second, even if the security concerns could be met by conditions in the case of COMUGs, it does not follow that they could be similarly met in the case of other equipment. Third, it is not the function of this court, or of the courts below, to make a judgment on these questions. VIP’s application was concerned solely with whether the Secretary of State’s direction was ultra vires. It accepted that the Secretary of State had serious concerns on national and public security grounds and it did not seek to argue that the Direction was irrational because it precluded the making of an exemption regulation, rather than simply requiring conditions to be attached to an exemption regulation. There was therefore no evidence adduced by any party going to any such point. As regards the court’s role in such circumstances, see R (Begum) v Special Immigration Appeals Commission [2021] UKSC 7, [2021] AC 765, paras 108-109 and 134.
+
+ 
+ For the reasons given in this judgment, I would allow the appeal and dismiss VIP’s application for judicial review. 
+
+ 
+  

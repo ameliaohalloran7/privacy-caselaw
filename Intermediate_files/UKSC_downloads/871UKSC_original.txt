@@ -1,0 +1,639 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>McCulloch &amp; Ors v Forth Valley Health Board (Scotland) [2023] UKSC 26 (12 July 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Garamond;  panose-1:2 2 4 4 3 3 1 1 8 3;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gisha;} @font-face  {font-family:Calibri-Italic;  panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:AdvP459842;  panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:PalatinoLinotype-Roman;  panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:TimesNewRomanPSMT;  panose-1:0 0 0 0 0 0 0 0 0 0;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoCommentText, li.MsoCommentText, div.MsoCommentText  {mso-style-link:"Comment Text Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject  {mso-style-link:"Comment Subject Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.MsoRMPane, li.MsoRMPane, div.MsoRMPane  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} p.Caveat, li.Caveat, div.Caveat  {mso-style-name:Caveat;  margin:0cm;  text-align:justify;  border:none;  padding:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:18.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.Paraheading2, li.Paraheading2, div.Paraheading2  {mso-style-name:"Paraheading 2";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.Paraheading3, li.Paraheading3, div.Paraheading3  {mso-style-name:"Paraheading 3";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  text-decoration:underline;} p.Embargo, li.Embargo, div.Embargo  {mso-style-name:Embargo;  margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:0cm;  text-align:justify;  line-height:107%;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.Bulletpara, li.Bulletpara, div.Bulletpara  {mso-style-name:"Bullet para";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.Paraheading4, li.Paraheading4, div.Paraheading4  {mso-style-name:"Paraheading 4";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.Paraheading5, li.Paraheading5, div.Paraheading5  {mso-style-name:"Paraheading 5";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.Paraheading6, li.Paraheading6, div.Paraheading6  {mso-style-name:"Paraheading 6";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.CourtOrder, li.CourtOrder, div.CourtOrder  {mso-style-name:"Court Order";  margin:0cm;  line-height:107%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  color:#C00000;  font-weight:bold;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaSubHeading2, li.ParaSubHeading2, div.ParaSubHeading2  {mso-style-name:ParaSubHeading2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.ParaSubHeading3, li.ParaSubHeading3, div.ParaSubHeading3  {mso-style-name:ParaSubHeading3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaNoNumberApproved, li.ParaNoNumberApproved, div.ParaNoNumberApproved  {mso-style-name:ParaNoNumberApproved;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.CommentTextChar  {mso-style-name:"Comment Text Char";  mso-style-link:"Comment Text";  font-family:"Calibri",sans-serif;} span.CommentSubjectChar  {mso-style-name:"Comment Subject Char";  mso-style-link:"Comment Subject";  font-family:"Calibri",sans-serif;  font-weight:bold;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      McCulloch &amp; Ors v Forth Valley Health Board (Scotland) [2023] UKSC 26 (12 July 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/26.html</i>
+<br>Cite as: 
+[2023] UKSC 26,
+
+2023 SLT 725,
+
+[2023] 3 WLR 321,
+
+2023 GWD 27-233
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/26.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2021001663/casereport_d8719f20-f2b9-4f43-ad43-b6fce4baa83f/html">[2023] 3 WLR 321</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/26.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/26.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b>Trinity Term</b></a></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>[2023] UKSC 26</b></p>  
+
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2021/2021_CSIH_21.html">[2021] CSIH 21</a></i></p>  
+
+<p class="JudgmentTitle">JUDGMENT</p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">McCulloch and others (Appellants)</span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">&nbsp;<i>v</i> </span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">Forth Valley Health Board (Respondent) (Scotland)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Reed, President</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hodge, Deputy President</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Kitchin</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hamblen</p>  
+
+<p class="JudgmentJudges">Lord Burrows</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">12 July 2023</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges">Heard on 10 and 11 May 2023</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="MsoNormal" align="center" style="text-align:center"><a name="_Hlk521913256"><i>Appellants</i></a></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Robert Weir KC</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Lauren Sutherland KC</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Drummond Miller LLP (Edinburgh))</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Garamond&quot;,serif">&nbsp;</span></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Una Doherty KC</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">David Myhill</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Ewen Campbell</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by NHS Central Legal Office (Edinburgh))</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center"><i>1<sup>st</sup> Intervener</i></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Roddy Dunlop KC</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by GMC Legal (Manchester))</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center"><i>2<sup>nd</sup> Intervener (written submissions only)</i></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Ben Collins KC</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Sophie Beesley</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Capital Law (Cardiff))</p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="MsoNormal"><b>&nbsp;</b></p>  
+
+<p class="MsoNormal"><b>Interveners</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>  
+
+<p class="MsoNormal">1) General Medical Council</p>  
+
+<p class="MsoNormal">2) British Medical Association</p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="JudgmentAppRespInt"><b>&nbsp;</b></p>  
+
+<p class="MsoNormal">&nbsp;</p>  
+
+<p class="JudgmentAppRespInt"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">Lord Hamblen and Lord Burrows (</a><span style="text-transform:none">with whom Lord Reed, Lord Hodge and Lord Kitchin agree</span>): </p>  
+
+<p class="ParaHeading1">1. <span style="text-transform:none">Introduction</span></p> <ol> 
+
+<li value="1"><a name="para1"> The legal test for establishing negligence by a doctor in diagnosis or treatment is whether the doctor has acted in accordance with a practice accepted as proper by a responsible body of medical opinion. In this judgment, we will refer to this test, for shorthand, as the “professional practice test”. This test was most clearly laid down by McNair J in <i>Bolam v Friern Hospital Management Committee </i>[1957] 1 WLR 582 (“<i>Bolam</i>”) at p 587 and is consistent with what Lord President Clyde said in the leading Scottish case of <i>Hunter v Hanley </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotCS/1955/1955_SC_200.html">1955 SC 200</a> (“<i>Hunter v Hanley</i>”) at p 206. A qualification of this test is that, as recognised in <i>Bolitho v City and Hackney Health Authority </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1997/46.html">[1998] AC 232</a> (“<i>Bolitho</i>”<i>)</i>, a court may, in a rare case, reject the professional opinion if it is incapable of withstanding logical analysis. 
+</li>
+<p> </p>  
+
+<li value="2"><a name="para2"> In the case of <i>Montgomery v Lanarkshire Health Board </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/11.html">[2015] UKSC 11</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/11.html">[2015] AC 1430</a> (“<i><span style="font-family:&quot;Calibri-Italic&quot;,sans-serif">Montgomery</span></i>”) this court decided that the professional practice test did not apply to a doctor’s advisory role “in discussing with the patient any recommended treatment and possible alternatives, and the risks of injury which may be involved” (para 82). The performance of this advisory role is not a matter of purely professional judgment because respect must be shown for the right of patients to decide on the risks to their health which they are willing to run. “<span style="font-family:AdvP459842">The doctor is therefore under a duty to take reasonable care to ensure that the patient is aware of any material risks involved in any recommended treatment, and of any</span><i><span style="font-family:&quot;Calibri-Italic&quot;,sans-serif"> </span></i><span style="font-family:AdvP459842">reasonable alternative or variant treatments” (para 87). </span>The courts are therefore imposing a standard of reasonable care in respect of a doctor’s advisory role that may go beyond what would be considered proper by a responsible body of medical opinion. 
+</li>
+<p> </p>  
+
+<li value="3"><a name="para3"> <span style="font-family:AdvP459842">The main issue which arises on this </span>appeal is what legal test should be applied to the assessment as to whether an alternative<i> </i>treatment is reasonable and requires to be discussed with the patient. More specifically, did the doctor in this case fall below the required standard of reasonable care by failing to make a patient aware of an alternative treatment in a situation where the doctor’s opinion was that the alternative treatment was not reasonable and that opinion was supported by a responsible body of medical opinion? 
+</a></li>
+<p> </p>  
+
+<li value="4"><a name="para4"> The Inner House and the Lord Ordinary held that the professional practice test applies.<i> </i>Whether an alternative treatment is reasonable depends upon the exercise of professional skill and judgment and a treatment which, applying the professional practice test, is considered not to be reasonable does not have to be discussed with the patient. The appellants contend that this is wrong in law. They accept that whether the doctor should know of the existence of an alternative treatment is governed by the professional practice test. In contrast, they submit that whether the alternative treatments so identified are reasonable depends on the circumstances, objectives and values of the individual patient and cannot be judged simply by the view of the doctor offering the treatment even though that view is supported by a responsible body of medical opinion. If the appellants are correct as to the applicable legal test then further issues arise in relation to causation.
+</a></li>
+<p> </p>  
+
+<li value="5"><a name="para5"> These issues arise in the context of a claim brought by the widow and other family members of Mr Neil McCulloch against the respondent, Forth Valley Health Board, for damages for negligently causing his death on 7 April 2012. It is alleged that his death was caused by the negligence of Dr Labinjoh, a consultant cardiologist, for whose acts and omissions the respondent is vicariously liable. In particular, it is alleged that (i) on 3 April 2012 Dr Labinjoh should have advised Mr McCulloch of the option of treatment with a non-steroidal anti-inflammatory drug (“NSAID”) (such as ibuprofen) for pericarditis, (ii) had such advice been given, Mr McCulloch would have taken the NSAID, (iii) had he taken the NSAID, he would<i> </i>not have died.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">2. Factual background</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(1) Cause of death</span></p>  
+
+<li value="6"><a name="para6"> Mr McCulloch died on 7 April 2012 shortly after admission to Forth Valley Royal<i> </i>Hospital (“FVRH”), having suffered a cardiac arrest at his home at around 14.00. He was aged 39. The cause of death was recorded as idiopathic pericarditis and pericardial effusion. It was agreed that Mr McCulloch died as a result of cardiac tamponade.
+</a></li>
+<p> </p>  
+
+<li value="7"><a name="para7"> The heart is a muscular pump which sits within the pericardial sac. The outer surface of the heart is the visceral pericardium and the sac is the parietal pericardium. There is normally a small amount of fluid within the pericardial sac to allow free movement of the heart during contraction. Fluid can accumulate in the pericardial sac. If the two layers of pericardium become separated by the accumulating fluid, this is a pericardial effusion. In most cases, inflammation of the pericardial sac is called pericarditis. In many cases no cause can be found for the pericarditis and in such circumstances it is referred to as idiopathic pericarditis. Tamponade occurs when a large pericardial effusion compresses the heart and does not allow adequate filling. There are degrees of tamponade. When cardiac<i> </i>tamponade is complete there is no cardiac output.
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(2) The medical history and treatment of Mr McCulloch at FVRH </span></p>  
+
+<li value="8"><a name="para8"> The detailed history of Mr McCulloch’s admissions to FVRH and his treatment there are set out in the (unchallenged) findings of the Lord Ordinary at paras 8 to 41 of his opinion.
+</a></li>
+<p> </p>  
+
+<li value="9"><a name="para9"> In outline, Mr McCulloch was first admitted to FVRH on 23 March 2012 at 20.10. Prior to his admission Mr McCulloch had become acutely unwell with<i> </i>severe pleuritic chest pains and worsening nausea and vomiting. Tests showed abnormalities compatible with a diagnosis of pericarditis. Treatment with fluids and antibiotics was started to treat sepsis. The presence of a<i> </i>pericardial effusion, fluid in the abdomen and around the hepatic portal system were also noted.
+</a></li>
+<p> </p>  
+
+<li value="10"><a name="para10"> Mr McCulloch continued to deteriorate and by 01.30 on 24 March he was intubated and ventilated in the Intensive Treatment Unit (“ITU”). The possibility was investigated of transferring Mr McCulloch to Glasgow Royal Infirmary to facilitate pericardiocentesis if this was required. This is a process whereby the pericardial fluid is removed by aspiration through a needle usually under ultrasound guidance. Following improvements in Mr McCulloch’s condition during the course of that day it was decided not to transfer him.
+</a></li>
+<p> </p>  
+
+<li value="11"><a name="para11"> Dr Labinjoh’s first involvement was on 26 March when she was asked to review an echocardiogram which had been performed on Mr McCulloch. An echo or echocardiogram is an ultrasound examination of the heart and its immediately surrounding structures. The process is used to identify cavities which may be fluid filled. Sound waves, which leave a transducer placed on the chest, return at different velocities and depths and are then assimilated into a moving image on the screen. The video recordings are available for subsequent review by a cardiologist. A sonographer produces a written report for the patient’s records. 
+</a></li>
+<p> </p>  
+
+<li value="12"><a name="para12"> Dr Labinjoh was a highly experienced cardiologist. At the time of the proof in January 2020 she had held the post of consultant cardiologist at NHS Forth Valley for 13 years and had been clinical lead for cardiology at NHS Forth Valley for eight years. In 2012 the cardiology unit provided specialist advice to other departments on request.
+</a></li>
+<p> </p>  
+
+<li value="13"><a name="para13"> Dr Labinjoh made a note of her review of Mr McCulloch. Her note stated: “This man’s presentation does not fit with a diagnosis of pericarditis. He has been unwell with weight loss for months and presents with vomiting, abdo [ie abdominal] pain, fever and hypotension, pleuritic chest pain. Anaemic on admission at 97. CRP [ie C-reactive protein] 40. His JVP [ie jugular venous pulse] was not elevated making significant pericardial constriction very unlikely. I will discuss with Dr Woods [sic] who was exploring immunocompromise, malignancy. Care to continue under general medicine. I’ll review echo.”
+</a></li>
+<p> </p>  
+
+<li value="14"><a name="para14"> During the next few days Mr McCulloch’s condition improved and on 30 March he was discharged home on antibiotics, to be reviewed by Dr Wood in four weeks’ time, with a repeat echocardiogram and chest X-ray to be arranged in advance of the consultation. The immediate discharge letter on 30 March recorded the diagnosis as acute viral myo/pericarditis and pleuropneumonitis with secondary bacterial lower respiratory tract infection.
+</a></li>
+<p> </p>  
+
+<li value="15"><a name="para15"> Mr McCulloch was re-admitted to FVRH by ambulance on 1 April 2012 at 22.22. The complaint was of central pleuritic chest pain, similar to the previous admission. On admission it was noted under “History of Presenting Complaint” that Mr McCulloch had “c/o [ie complained of] central chest pain, recent ITU admission. Pericarditis”. He was given intravenous fluids and antibiotics and admitted under the care of the medical team.
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> On 2 April, Mr McCulloch was transferred from Accident and Emergency to the Acute Admissions Unit (“AAU”). A repeat echocardiogram was instructed. On the same day there is a nursing entry recording “Nil further chest pain”.
+</a></li>
+<p> </p>  
+
+<li value="17"><a name="para17"> Dr Labinjoh’s second and allegedly critical involvement was on 3 April. Her evidence, which was accepted by the Lord Ordinary, was that she was not asked to review Mr McCulloch but merely to assist in interpretation of Mr McCulloch’s third echocardiogram. She was not at any time the consultant with overall responsibility for Mr McCulloch’s care. She was unaware that Mr McCulloch had been discharged and re-admitted. This was not mentioned to her and she did not notice this in his medical records which appeared to be continuous.
+</a></li>
+<p> </p>  
+
+<li value="18"><a name="para18"> Dr Labinjoh did not consider that the third echocardiogram which she was reviewing differed from the first two echocardiograms in a way that gave cause for concern. The first echocardiogram had been taken while Mr McCulloch was intubated and the second while he was still in the ITU. The pericardial fluid would be expected to look different. Her view was that what was important was whether any enlargement of the effusion was creating pressure on the heart. The sonographer’s report mentioned a degree of collapse but did not specify which chamber, so Dr Labinjoh looked for that herself. She found a small degree of collapse of the right atrium which was of short duration. She did not recall seeing this in previous examinations, but it was not a meaningful feature in the absence of other features to suggest compromise or cardiac tamponade. She found no such features. An examination of the right ventricle in all available views suggested an absence of compromise, as did absence of distension of the inferior vena cava. 
+</a></li>
+<p> </p>  
+
+<li value="19"><a name="para19"> Dr Labinjoh nevertheless decided to visit Mr McCulloch in the AAU on 3 April to assess whether his clinical presentation was consistent with her interpretation of the echocardiogram. When she attended the ward, he was moving around. He had just taken a shower before she arrived. He looked much better than when she saw him on 26 March. In response to specific questions from her, he denied having any chest pain, palpitations, breathlessness on exertion or breathlessness lying flat. He did not wake from sleep with breathlessness and had no ankle swelling. He did not have dizziness on getting out of bed or standing up and he had no blackouts, fevers or sweats. He made eye contact and engaged in conversation. 
+</a></li>
+<p> </p>  
+
+<li value="20"><a name="para20"> Dr Labinjoh made the following untimed note when she went to see Mr McCulloch: “I note echo, essentially unchanged. No convincing features of tamponade or pericardial constriction. On examination Tachycardia BP 80 systolic - no palpable paradox - no oedema - JVP low RR20 - All of which go against pericardial constriction. The effusion is rather small to justify the risk of aspiration v possible diagnostic utility. I am not certain where to go for a diagnosis from here. Happy to liaise. Please keep us informed.”
+</a></li>
+<p> </p>  
+
+<li value="21"><a name="para21"> Dr Labinjoh accepted that the note did not contain all she had discussed with Mr McCulloch as she did not consider it necessary to include a complete history in her written note as it was not a review. She considered that his presentation was consistent with the interpretation of the echocardiogram as not giving cause for concern. Dr Labinjoh’s understanding was that the management plan agreed with Dr Wood was still in place. From the point of view of cardiology, she saw no reason to alter that. Dr Labinjoh did not prescribe any medical treatment nor did she have a discussion with Mr McCulloch about the risks and benefits of the prescription of NSAIDs. She gave no instruction that a repeat echocardiogram should be performed prior to Mr McCulloch being discharged from hospital because a management plan providing for an echocardiogram was already in place. She did have a discussion with him about pericardiocentesis despite the fact this was not a treatment option she considered reasonable and she advised him against pericardiocentesis at this time. Mr McCulloch already knew about the procedure of pericardiocentesis from discussions during his first admission. On 3 April Dr Labinjoh reiterated her previous advice that pericardiocentesis was still not required to drain the pericardial fluid. She considered the risks and benefits of performing pericardiocentesis only for diagnostic purposes rather than because of concern about the size of the effusion. 
+</a></li>
+<p> </p>  
+
+<li value="22"><a name="para22"> Dr Labinjoh did not regard it as necessary or appropriate to prescribe NSAIDs because Mr McCulloch was not in pain at the time she saw him (and there was no clear diagnosis of pericarditis). Had he complained of pain she would probably have prescribed a NSAID such as ibuprofen in the absence of any contra-indication (ie reason not to prescribe a NSAID). The reason Dr Labinjoh did not prescribe NSAIDs was not that she regarded them as a reasonable treatment but decided against it because of risks not discussed with Mr McCulloch. Rather, she did not prescribe NSAIDs because she did not in her professional judgment regard it as appropriate to do so.
+</a></li>
+<p> </p>  
+
+<li value="23"><a name="para23"> By 6 April Mr McCulloch’s condition had improved and the plan, subject to clarification, was for discharge. That day there was a brief telephone call to Dr Labinjoh who, at the time of the call, was scrubbed up and about to operate in cardiac theatre in the Royal Infirmary of Edinburgh. She was accordingly unable to review the patient or give advice. When asked whether she agreed with the proposed discharge, she stated that the decision should be made by the responsible consultant with whom she was happy to liaise. She was informed of the plan for follow up with Dr Wood and indicated that she saw no need for a separate appointment with cardiology to be arranged at that time. She did not recall being informed either of any ongoing symptoms or that discharge would take place the same day. 
+</a></li>
+<p> </p>  
+
+<li value="24"><a name="para24"> Mr McCulloch was discharged on the evening of 6 April. He remained on oral antibiotic medication for the previously diagnosed lower respiratory tract infection. Mrs McCulloch was very unhappy about his being discharged. She described Mr McCulloch as very unwell, having to lean on her to walk. He complained of chest pain and a severe sore throat.
+</a></li>
+<p> </p>  
+
+<li value="25"><a name="para25"> On 7 April at around 14.00 Mr McCulloch suffered a cardiac arrest at home and he was taken to FVRH and died in the emergency room at 16.46 after a prolonged period of attempted resuscitation. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">3. The decisions of the Lord Ordinary and the Inner House</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(1) The prescription of NSAIDs</span></p>  
+
+<li value="26"><a name="para26"> The Lord Ordinary (Lord Tyre), </a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2020/2020_CSOH_40.html">[2020] CSOH 40</a>, summarised the evidence on this issue of the medical experts for the appellants, Dr Flapan and Dr Weir, and for the respondent, Dr Bloomfield, at paras 49-54 of his opinion. His principal findings are at paras 77-78 and 88-91.
+</li>
+<p> </p>  
+
+<li value="27"><a name="para27"> The Lord Ordinary noted that there was a measure of common ground between the expert witnesses on the prescription of NSAIDs. He found that the experts agreed that it was standard practice to prescribe NSAIDs to treat pericarditis. Clinical experience was that, after being prescribed NSAIDs, the patient usually gets better often quite quickly (para 88) and any pericardial effusion usually diminishes (para 91). 
+</a></li>
+<p> </p>  
+
+<li value="28"><a name="para28"> He found that the use of NSAIDs was advocated in the leading textbooks. Although their effectiveness was not proved by any randomised controlled trial, their use was supported by the ESC Guidelines 2004 (European Society of Cardiology on the Diagnosis and Management of Pericardial Disease) and by clinical practice. NSAIDs were effective in relieving the pain by reducing inflammation (para 88).
+</a></li>
+<p> </p>  
+
+<li value="29"><a name="para29"> He noted that there was disagreement among the expert witnesses regarding the prescription of NSAIDs to a patient who was not in pain.
+</a></li>
+<p> </p>  
+
+<li value="30"><a name="para30"> Dr Flapan regarded it as usual practice to prescribe NSAIDs to a patient who was not in pain because treatment of the inflammation would reduce the size of the pericardial effusion (para 89).
+</a></li>
+<p> </p>  
+
+<li value="31"><a name="para31"> Dr Bloomfield’s evidence was that patients often simply got better on their own. He did not consider that there was any benefit from NSAIDs if they were not required for pain relief. In the absence of pain, it was unclear they would provide any benefit. Against this there were reasons not to prescribe NSAIDs: Mr McCulloch’s history of gastric upset and other gastro-intestinal symptoms. It was not clear that the side effects could be wholly eliminated (para 91).
+</a></li>
+<p> </p>  
+
+<li value="32"><a name="para32"> Dr Weir accepted that there could be variations in practice in the use of NSAIDs where no pain was reported and where there were other issues suspected such as respiratory infection (para 89).
+</a></li>
+<p> </p>  
+
+<li value="33"><a name="para33"> The Lord Ordinary found that Dr Flapan’s view had the support of clinical experience that patients who are prescribed NSAIDs usually get better and any pericardial effusion usually diminishes. He noted that gastric protection measures could be taken to minimise side effects and liver function could be monitored. He also found that there was logical support for Dr Bloomfield’s view that there were good reasons not to prescribe NSAIDs to Mr McCulloch. This was not a straightforward case of acute pericarditis: the diagnosis remained uncertain. There was no study-based evidence in medical literature that NSAIDs prevent the development or progression of pericardial effusions, or that the effect of reduction of inflammation is reduction of the size of the effusion. There was no evidence from clinical trials that NSAIDs alter the natural history of pericardial effusions even if they successfully treat pain and inflammation. Patients often simply get better on their own. He found that “neither of these views” (Dr Flapan and Dr Bloomfield) could be described as unreasonable or lacking in logical support (para 91). 
+</a></li>
+<p> </p>  
+
+<li value="34"><a name="para34"> The Inner House in its opinion (Lord Justice Clerk (Lady Dorrian), Lord Menzies and Lord Pentland), </a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2021/2021_CSIH_21.html">[2021] CSIH 21</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotCS/2021/2021_CSIH_21.html">2021 SLT 695</a>, noted a number of facts which had been established in evidence in relation to the prescription of NSAIDs (para 45). It stated that the evidence that NSAIDs were commonly used in the treatment of pericarditis requires to be seen in the context of the typical presentation and symptoms of pericarditis and that Mr McCulloch presented a complex picture. After looking at medical literature, it concluded, at para 45, that “the literature does not seem to support the assertion that NSAIDs have a benefit beyond pain relief”<b>.</b>
+</li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(2) The applicable legal test</span></p>  
+
+<li value="35"><a name="para35"> The Lord Ordinary referred to the cases of <i>Hunter v Hanley </i>at p 206 (per Lord President Clyde), <i>Maynard </i>v <i>West Midlands</i> <i>Regional Health Authority </i>[1984] 1 WLR 634 at p 639 (per Lord Scarman) and <i>Bolitho </i>at pp 241-242 (per Lord Browne-Wilkinson). He held that the applicable test is whether the practice of the doctor which is in issue is supported by a reasonable or responsible body of professional opinion. It was not for the judge simply to prefer one or other body of expert evidence. “If the opinion of Dr Bloomfield that Dr Labinjoh adhered to a usual and normal practice is to be rejected, I require to be satisfied that that opinion is not reasonable and cannot logically be supported” (para 66).
+</a></li>
+<p> </p>  
+
+<li value="36"><a name="para36"> The Lord Ordinary rejected the appellants’ argument that <i>Montgomery </i>meant that Dr Labinjoh was under a duty to discuss with Mr McCulloch the option of using NSAIDs to reduce the size of the pericardial effusion and to discuss its risks and benefits, in circumstances where, in her professional judgment, she did not regard it as appropriate to do so. He held:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><i>“</i>109. <i>Montgomery </i>effected a significant development of the law, but care must be taken not to apply it to circumstances that lie beyond the scope envisaged by the Supreme Court. It is concerned with the discussion of, and obtaining of consent to, material risks identified by the doctor in connection with a recommended course of treatment. … there is an important distinction between the doctor’s role when considering treatment options and his or her role when discussing with the patient the risks of injury in the course of the recommended treatment…</p>  
+
+<p class="MsoQuote"><i>…</i></p>  
+
+<p class="MsoQuote">111. … <i>Montgomery </i>imposes an obligation on the doctor to discuss the risks associated with a recommended course of treatment and to disclose and discuss reasonable alternatives. It does not go so far as to impose upon the doctor an obligation to disclose and discuss alternatives that he or she does not, in the exercise of professional judgement, regard as reasonable. If the doctor is wrong either about the risks of the recommended course or about the reasonableness of any alternative, then he or she might be liable for any consequent loss or injury, but that would be decided by application of the <i>Hunter </i>v <i>Hanley </i>test.”</p>  
+
+<p class="MsoNormal" style="line-height:200%;text-autospace:none"><span style="font-size:11.0pt;line-height:200%;font-family:PalatinoLinotype-Roman">&nbsp;</span></p>  
+
+<li value="37"><a name="para37"> The Lord Ordinary agreed with the decision of Lord Boyd in <i>AH </i>v <i>Greater Glasgow Health Board </i></a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2018/[2018]_CSOH_57.html">[2018] CSOH 57</a>, 2018 SLT 535 (“<i>AH”</i>) in which a similar argument by the pursuer based on <i>Montgomery </i>was rejected.<span style="font-size:11.0pt;font-family:PalatinoLinotype-Roman"> </span>In that case it was held that a doctor was not under a duty to advise the patient of an alternative treatment if it was not considered by the doctor to be a reasonable alternative.
+</li>
+<p> </p>  
+
+<li value="38"><a name="para38"> <span style="color:#212121">The Inner House agreed with Lord Boyd’s analysis in <i>AH </i>and the Lord Ordinary’s decision that “</span><i>Montgomery </i>has no application in the circumstances of the present case” (para 40). Earlier in para 40, the Inner House said:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“<i>Montgomery </i>was about advising of the risks associated with a proposed course of action, which would of course include the risks if that course of action were not adopted. It does not follow that where a doctor concludes that a course of treatment is not a reasonable option in the circumstances of the patient the duty under <i>Montgomery </i>nevertheless arises. The patient’s right is to decide whether or not to accept a proposed course of treatment. That right can only be exercised on an informed basis, which means that the patient must in such a situation be advised of the risks involved in opting for that course of treatment, or rejecting it. If alternative treatments are options reasonably available in the circumstances the patient is entitled to be informed of the risks of these accordingly. But where the doctor has rejected a particular treatment, not by taking on him or herself a decision more properly left to the patient, but upon the basis that it is not a treatment which is indicated in the circumstances of the case, then the duty does not arise…”</p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(3) The lower courts’ conclusions</span></p>  
+
+<li value="39"><a name="para39"> In the light of his findings in relation to the prescription of NSAIDs and the applicable legal test, the Lord Ordinary concluded that this was not a reasonable alternative treatment which was required to be discussed with Mr McCulloch. As he explained, Dr Labinjoh “did not prescribe NSAIDs because she did not, in her professional judgement, regard it as appropriate to do so when Mr McCulloch said that he was not in pain, and where there was no clear diagnosis of pericarditis” (para 112); and this was a judgment supported by the evidence of Dr Bloomfield whose opinion was neither unreasonable nor illogical. In these circumstances, “there was, accordingly, no risk in a recommended course, or a reasonable alternative, to discuss with him. Properly analysed, the pursuers’ complaint is that Dr Labinjoh was negligent in her professional assessment, not that she identified a reasonable alternative (prescription of anti-inflammatories) but then failed to discuss it with Mr McCulloch” (para 112). He accordingly concluded that “no case based on failure to advise of the risks of a recommended course of treatment, or of alternative courses of treatment, along the lines of <i>Montgomery</i>, has been made out” (para 114).
+</a></li>
+<p> </p>  
+
+<li value="40"><a name="para40"> The Inner House, having agreed with his approach to the legal test, upheld the decision of the Lord Ordinary. In the light of all the evidence, as summarised in paras 41-47 of its opinion, it concluded that “the Lord Ordinary was entitled to reach the conclusion that he could not say that Dr Bloomfield’s evidence about Dr Labinjoh’s decision not to prescribe NSAIDs was unreasonable or illogical” (para 47).
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(4) Causation</span></p>  
+
+<li value="41"><a name="para41"> The Lord Ordinary found that Dr Labinjoh had been negligent in failing to direct a repeat echocardiogram prior to Mr McCulloch’s discharge (a finding overturned by the Inner House). In that context he addressed causation and concluded that he was unable to hold that Mr McCulloch’s death would have been prevented if such a direction had been given (paras 97-99). He did not consider causation in relation to the prescription of NSAIDs other than in passing when considering an argument based on material contribution being sufficient to found causation, which he rejected on legal grounds (a decision which was not appealed).
+</a></li>
+<p> </p>  
+
+<li value="42"><a name="para42"> The Inner House recognised that the issue of causation did not arise given its conclusion that there was no breach of duty, but it did state, at para 60, that it could “see no basis upon which the pursuers could have succeeded”. This was based on its analysis of the evidence at paras 45 and 46 of its opinion and the fact that this “suggests that the primary reason for prescribing NSAIDs is pain relief, rather than for any anticipated effect on the progression of the condition” (para 60). 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">4.<span style="text-transform:none"> The issues on this appeal</span></p>  
+
+<li value="43"><a name="para43"> The two principal issues, as articulated by the parties, which arise on this appeal are:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What legal test should be applied to the assessment as to whether an alternative treatment is reasonable and requires to be discussed with the patient?</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  In particular, did the Inner House and Lord Ordinary err in law in holding that a doctor’s decision on whether an alternative treatment was reasonable and required to be discussed with the patient is determined by the application of the professional practice test found in <i>Hunter v Hanley </i>and <i>Bolam</i>?</p>  
+
+<li value="44"><a name="para44"> If the Inner House and the Lord Ordinary did so err in law then various causation issues potentially arise, including whether they are a matter for this court.
+</a></li>
+<p> </p>  
+
+<li value="45"><a name="para45"> As interveners, written cases were provided for the appeal by the General Medical Council (“GMC”) and the British Medical Association (“BMA”). The GMC also made brief oral submissions. The GMC has, since 1858, been the independent regulator for doctors practising in the United Kingdom. The BMA is the leading independent trade union and professional association for doctors and medical students in the UK.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">5. The decisions in <i>Montgomery</i> and <i>Duce v Worcestershire Acute Hospitals NHS Trust</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/1307.html">[2018] EWCA Civ 1307</a>, [2018] PIQR P18 (“<i>Duce</i>”)</span></p>  
+
+<li value="46"><a name="para46"> There are two appellate decisions that are of particular importance for the purposes of deciding the principal issues in this case. They are the landmark decision of the Supreme Court in <i>Montgomery </i>and the decision of the Court of Appeal, applying <i>Montgomery, </i>in <i>Duce</i>. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(1) </span>Montgomery</p>  
+
+<li value="47"><a name="para47"> The pursuer, during her pregnancy and labour, was under the care of a doctor employed by the defender health board. The pursuer was regarded as having a high-risk pregnancy because she was diabetic and of small stature. When told that she was having a larger than usual baby, she raised concerns about vaginal delivery. However, the doctor did not tell her that diabetic women had a 9-10% risk during a vaginal delivery of shoulder dystocia, where the baby’s shoulders are unable to pass through the pelvis. The doctor did not tell her of that risk because she thought that, if she did, the pursuer would ask for a caesarean section and the doctor believed that it was “not in the maternal interests for women to have caesarean sections” (para 13). The pursuer gave birth to a son who, as a result of complications during delivery, caused by shoulder dystocia, was born with severe disabilities. On the appeal by the pursuer to the Supreme Court it was held that the pursuer was entitled to damages for delictual (or tortious) negligence. The doctor had been in breach of her duty of care to the pursuer because she ought to have informed her of the risk of going ahead with a vaginal birth. Had the doctor done so, the pursuer would probably have opted for a caesarean section and the child would have been born unharmed. 
+</a></li>
+<p> </p>  
+
+<li value="48"><a name="para48"> The leading judgment in the Supreme Court was given by Lord Kerr of Tonaghmore and Lord Reed, with whom Lord Neuberger of Abbotsbury, Lord Clarke of Stone-cum-Ebony, Lord Wilson and Lord Hodge agreed, and with whom Baroness Hale of Richmond agreed in a short concurring judgment. The Supreme Court made clear that the professional practice test (ie the <i>Bolam </i>test) did not apply in determining whether the doctor should have informed the patient of the risks of the vaginal delivery. On that matter, the courts were imposing their required standard of reasonable care on the medical profession and the doctor could not avoid liability by establishing that her view was supported by a responsible body of medical opinion that, like her, would not have disclosed the risk involved to the patient. It was explained that the duty of care to inform a patient about the material risks of a procedure was to enable the patient to make an informed choice. This reflected a move away from medical paternalism to protecting a patient’s autonomy and right to self-determination. There was therefore a difference between the role of a doctor in diagnosis and treatment, which rests entirely on professional skill and judgment, and the doctor’s advisory role where the doctor must also take into account the patient’s right to decide on the risks to her health which she is willing to run. Lords Kerr and Reed said at paras 81-83 and 87: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“81. [Recent] social and legal developments … point away from a model of the relationship between the doctor and the patient based on medical paternalism. They also point away from a model based on a view of the patient as being entirely dependent on information provided by the doctor. What they point towards is an approach to the law which, instead of treating patients as placing themselves in the hands of their doctors (and then being prone to sue their doctors in the event of a disappointing outcome), treats them so far as possible as adults who are capable of understanding that medical treatment is uncertain of success and may involve risks, accepting responsibility for the taking of risks affecting their own lives, and living with the consequences of their choices.</p>  
+
+<p class="MsoQuote">82. In the law of negligence, this approach entails a duty on the part of doctors to take reasonable care to ensure that a patient is aware of material risks of injury that are inherent in treatment. This can be understood, within the traditional framework of negligence, as a duty of care to avoid exposing&nbsp;a person to a risk of injury which she would otherwise have avoided, but it is also the counterpart of the patient's entitlement to decide whether or not to incur that risk. The existence of that entitlement, and the fact that its exercise does not depend exclusively on medical considerations, are important. They point to a fundamental distinction between, on the one hand, the doctor's role when considering possible investigatory or treatment options and, on the other, her role in discussing with the patient any recommended treatment and possible alternatives, and the risks of injury which may be involved.</p>  
+
+<p class="MsoQuote">83. The former role is an exercise of professional skill and judgment: what risks of injury are involved in an operation, for example, is a matter falling within the expertise of members of the medical profession. But it is a non sequitur to conclude that the question whether a risk of injury, or the availability of an alternative form of treatment, ought to be discussed with the patient is also a matter of purely professional judgment. The doctor's advisory role cannot be regarded as solely an exercise of medical skill without leaving out of account the patient's entitlement to decide on the <a name="_Hlk135831462">risks to her health which she is willing to run </a>(a decision which may be influenced by non-medical considerations).&nbsp;Responsibility for determining the nature and extent of a person's rights rests with the courts, not with the medical professions.</p>  
+
+<p class="MsoQuote">87… An adult person of sound mind is entitled to decide which, if any, of the available forms of treatment to undergo, and her consent must be obtained before treatment interfering with her bodily integrity is undertaken. <i>The doctor is therefore under a duty to take reasonable care to ensure that the patient is aware of any material risks involved in any recommended treatment, and of any reasonable alternative or variant treatments.</i> The test of materiality is whether, in the circumstances of the particular case, a reasonable person in the patient's position would be likely to attach significance to the risk, or the doctor is or should reasonably be aware that the particular patient would be likely to attach significance to it.” (emphasis added)</p>  
+
+<li value="49"><a name="para49"> In this case, in essence, the court is being asked to explain further what is meant by the italicised sentence. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(2) </span>Duce </p>  
+
+<li value="50"><a name="para50"> The most important case on a doctor’s duty of care to inform since <i>Montgomery </i>was the decision of the Court of Appeal in <i>Duce</i>. 
+</a></li>
+<p> </p>  
+
+<li value="51"><a name="para51"> Mrs Duce, the claimant, after suffering from painful and heavy periods for years, underwent a total abdominal hysterectomy and a bilateral salpingo-oophorectomy at the Worcester Royal Hospital in March 2008. The medical notes recorded that her doctors had explained that this was a major operation with associated risks but that she was insistent that she wanted it and confirmed that she would not consider other treatment options. On the day of the operation, she signed a consent form which made no reference to pain. The Registrar discussed with Mrs Duce the fact that the procedure might not relieve her existing pain and warned of post-operative pain normally associated with surgery but not that there was a risk of developing chronic pain or neuropathic pain as a result of the procedure. As a result of the operation, performed non-negligently, Mrs Duce suffered nerve damage leading to serious and permanent pain, described as Chronic Post Surgical Pain (“CPSP”). She brought an action in the tort of negligence against the NHS Trust alleging that she was not adequately warned of the risk of CPSP in relation to the operation. The particulars of claim were amended to allege a failure to warn of post-operative pain. The claim failed at first instance and the appeal was dismissed. 
+</a></li>
+<p> </p>  
+
+<li value="52"><a name="para52"> The Court of Appeal (Hamblen LJ giving the leading judgment, with which Newey and Leggatt LJJ agreed) reasoned that the trial judge had found that in 2008, in respect of this operation, there was insufficient understanding amongst gynaecologists of the existence of the risk of chronic pain or neuropathic pain, whether that was long term or short term, to justify the imposition of a duty to warn of such a risk. A clinician could not be required to warn of a risk of which he or she could not reasonably be taken to be aware. There was also abundant evidence to support the judge’s findings that, even had Mrs Duce been warned, she would have proceeded with the operation in any event so that the causal link to the injury was not satisfied applying the standard “but for” test. 
+</a></li>
+<p> </p>  
+
+<li value="53"><a name="para53"> After considering <i>Montgomery </i>and, in particular, extracts from the judgment of Lord Kerr and Lord Reed at paras 83 and 87, Hamblen LJ explained that, in the light of the different roles of the doctor identified in the <i>Montgomery</i> judgment, the duty of care to inform required by <i>Montgomery </i>involves a two-stage test. He set out that two-stage test as follows in para 33:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“(1) What risks associated with an operation were or should have been known to the medical professional in question. That is a matter falling within the expertise of medical professionals…</p>  
+
+<p class="MsoQuote">(2) Whether the patient should have been told about such risks by reference to whether they were material. That is a matter for the Court to determine …. This issue is not therefore the subject of the <i>Bolam </i>test and not something that can be determined by reference to expert evidence alone…”</p>  
+
+<li value="54"><a name="para54"> He went on in para 34 to cite the test of materiality set out in <i>Montgomery </i>at para 87 (see para 48 above) and then continued in para 35:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Factors of relevance to determining materiality may include: the odds of the risk materialising; the nature of the risk; the effect its occurrence would have on the life of the patient; the importance to the patient of the benefits sought to be achieved by the treatment; the alternatives available and the risks associated with them.”</p>  
+
+<li value="55"><a name="para55"> This was a case on the risks associated with an operation. It was not directly concerned with reasonable alternative treatments. But in the context of warning about risks, the most important point is that Hamblen LJ distinguishes between first, knowledge of the risks which, applying the <i>Bolam </i>standard, is to be determined by reference to the expertise of the medical profession; and, secondly, the duty to warn of material risks where the standard of care is set by the courts and the <i>Bolam </i>test does not apply. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">6. What is the correct legal test to be applied to the assessment as to whether an alternative treatment is reasonable and requires to be discussed with the patient? And did the lower courts err in law in deciding that the correct legal test is the professional practice test found in <i>Hunter v Hanley </i>and <i>Bolam</i>? </span></p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(1) The correct legal test is the professional practice test as applied by the lower courts</span></p>  
+
+<li value="56"><a name="para56"> In our view, in respect of issues (1) and (2) (see para 43 above), the correct legal test to be applied to the question of what constitutes a reasonable alternative treatment is the professional practice test found in <i>Hunter v Hanley</i> and <i>Bolam</i>. On the facts of this case, therefore, as Dr Labinjoh took the view that prescribing NSAIDs was not a reasonable alternative treatment because Mr McCulloch had no relevant pain and there was no clear diagnosis of pericarditis and, because that view was supported by a responsible body of medical opinion (as established by the evidence of Dr Bloomfield), there was no breach of the duty of care to inform required by <i>Montgomery</i>. There was therefore no error of law made by the lower courts and there is no basis for going behind their decision reached on the evidence that Dr Labinjoh was not negligent.
+</a></li>
+<p> </p>  
+
+<li value="57"><a name="para57"> A hypothetical example may help to explain, in more detail, how we regard the law as working. A doctor will first seek to provide a diagnosis (which may initially be a provisional diagnosis) having, for example, examined the patient, conducted tests, and having had discussions with the patient. Let us then say that, in respect of that diagnosis, there are ten possible treatment options and that there is a responsible body of medical opinion that would regard each of the ten as possible treatment options. Let us then say that the doctor, exercising his or her clinical judgment, and supported by a responsible body of medical opinion, decides that only four of them are reasonable. The doctor is not negligent by failing to inform the patient about the other six even though they are possible alternative treatments. The narrowing down from possible alternative treatments to reasonable alternative treatments is an exercise of clinical judgment to which the professional practice test should be applied. The duty of reasonable care would then require the doctor to inform the patient not only of the treatment option that the doctor is recommending but also of the other three reasonable alternative treatment options (plus no treatment if that is a reasonable alternative option) indicating their respective advantages and disadvantages and the material risks involved in such treatment options.
+</a></li>
+<p> </p>  
+
+<li value="58"><a name="para58"> It is important to stress that it is not being suggested that the doctor can simply inform the patient about the treatment option or options that the doctor himself or herself prefers. Rather the doctor’s duty of care, in line with <i>Montgomery</i>, is to inform the patient of all reasonable treatment options applying the professional practice test. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(2) Our reasons for deciding that the professional practice test is the correct legal test in respect of reasonable alternative treatments</span></p>  
+
+<p class="ParaSubHeading2" style="text-indent:18.0pt"><b><span style="text-decoration: none">(i) Consistency with Montgomery </span></b></p>  
+
+<li value="59"><a name="para59"> In line with the distinction drawn in <i>Montgomery </i>at para 83 (see para 48 above), between the exercise of professional skill and judgment and the court-imposed duty of care to inform, the determination of what are reasonable alternative treatments clearly falls within the former and ought not to be undermined by a legal test that overrides professional judgment. In other words, deciding what are the reasonable alternative treatments is an exercise of professional skill and judgment. That is why, as submitted by Una Doherty KC, counsel for the respondent, it is appropriate to refer synonymously to reasonable alternative treatments or to “clinically appropriate” or “clinically suitable” alternative treatments. 
+</a></li>
+<p> </p>  
+
+<li value="60"><a name="para60"> Robert Weir KC, counsel for the appellants, focused on the wording of para 87 of <i>Montgomery </i>emphasised above (see para 48)<i>. </i>He submitted that the duty to take reasonable care to ensure that the patient is aware “of any reasonable alternative or variant treatments” means all such treatments and that what constitutes a reasonable alternative treatment is to be determined by the court, unshackled from the professional practice test. This is to blur the clear line drawn in <i>Montgomery </i>between when the doctor’s role is, and is not, a matter of professional skill and judgment. 
+</a></li>
+<p> </p>  
+
+<li value="61"><a name="para61"> Mr Weir further submitted that the approach of the lower courts, and which we favour, undermines (or “hollows out”) the force of the focus on the patient’s right to choose accepted in <i>Montgomery</i>. We reject that submission. The approach we favour is an application, not a rejection, of what was said in <i>Montgomery </i>and our approach in no sense diminishes the force of the doctor’s duty of care to inform which was authoritatively recognised for the first time in that case. On the contrary, acceptance of Mr Weir’s submission would constitute a significant and, in our view, unwarranted extension of <i>Montgomery</i>. 
+</a></li>
+<p> </p>  
+
+<li value="62"><a name="para62"> While the focus in <i>Montgomery </i>was on a duty of care to inform of the risks involved in vaginal delivery, rather than to inform of a reasonable alternative, it is clear that, on the facts, there was a reasonable alternative, namely a caesarean section. There was no responsible body of medical opinion denying that a caesarean section was a reasonable alternative procedure to the vaginal delivery. Viewed through the lens of a reasonable alternative treatment, the approach we favour is therefore consistent with saying that, in <i>Montgomery</i>, not only should the pursuer have been informed of the risk of vaginal delivery but she should also have been informed of the reasonable alternative of a caesarean section. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading2" style="text-indent:18.0pt"><b><span style="text-decoration: none">(ii) Consistency with Duce</span></b></p>  
+
+<li value="63"><a name="para63"> &nbsp;The two-stage test identified in <i>Duce </i>(see para 53 above) is based on the distinction drawn in <i>Montgomery </i>between when the doctor’s role is, and is not, a matter of professional skill and judgment. All matters of professional skill and judgment, to which the professional practice test should be applied, fall within the first stage of the <i>Duce </i>test.
+</a></li>
+<p> </p>  
+
+<li value="64"><a name="para64"> The identification of which treatments are reasonable alternatives (ie clinically appropriate) is as much a matter falling within medical expertise and professional judgment, and hence governed by the professional practice test, as the identification of risks associated with any treatment. Indeed, they are closely linked. The risk of any given treatment will be a significant part of any analysis of alternative treatment options. The identification of reasonable alternative treatments (ie clinically appropriate treatments) should therefore be treated in the same way as the identification of risk in <i>Duce</i>. It is only once the reasonable alternative treatment options have been identified that the second stage advisory role arises. That is, the doctor is required at the second stage to inform the patient of the reasonable alternative treatments and of the material risks of such alternative treatments. 
+</a></li>
+<p> </p>  
+
+<li value="65"><a name="para65"> <i>Duce </i>was concerned with the identification of risk which is why the first stage was described in terms of what risks were or should have been known to the medical professional. Mr Weir argued for a direct read across from the <i>Duce </i>two-stage test for dealing with risk (knowledge of risk and then informing the patient of material risks) to the question of possible and reasonable alternative treatments. Mr Weir argued that, by analogy, one can separate out the knowledge of possible alternative treatments, to which he accepted a <i>Bolam </i>approach should be taken, from the duty to inform the patient about reasonable alternative treatments to which a court-imposed standard should be applied. That is a beguiling but flawed submission. 
+</a></li>
+<p> </p>  
+
+<li value="66"><a name="para66"> The reason it is flawed is that knowledge (or identification) of risk, and the identification of possible <i>and reasonable</i> alternative treatments, are all matters of professional skill and judgment to which the professional practice (<i>Hunter v Hanley/Bolam</i>) test should be applied. It would be inappropriate to apply the professional practice test to determining possible alternative treatments and a court-imposed standard to determining reasonable alternative treatments. Once it has been decided what are the reasonable alternative treatments, by applying the professional practice test, the doctor is then under a duty of care to inform the patient of those reasonable alternative treatments and of the material risks of such alternative treatments. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading2" style="text-indent:18.0pt"><b><span style="text-decoration: none">(iii) Consistency with medical professional expertise and guidance</span></b></p>  
+
+<li value="67"><a name="para67"> Both the BMA and the GMC, in their submissions as interveners, emphasised the importance of clinical judgment in determining reasonable alternative treatment options. 
+</a></li>
+<p> </p>  
+
+<li value="68"><a name="para68"> The BMA observed that “the discussion of diagnosis, prognosis and treatment options (including the risks of such treatment options) is a matter which is heavily influenced by the doctor’s learning and experience, and to that extent is itself an exercise of professional skill and judgement”. Considering options for treatment “is a matter of professional skill and judgement rather than patient autonomy (and it is inherent in the exercise of a judgement of this sort that there will commonly be a range of different opinions as to what is or is not a clinically reasonable alternative treatment for the particular patient at a particular time).”
+</a></li>
+<p> </p>  
+
+<li value="69"><a name="para69"> The GMC, while making clear the need throughout for a collaborative discussion with the patient, observed that<span style="font-family:&quot;Times New Roman&quot;,serif"> </span>“once a diagnosis has been made, the doctor will require to consider what treatment options are clinically appropriate. That again turns on clinical judgment, based on knowledge and experience … a consideration of reasonableness in this context cannot be shorn of professional judgment.”
+</a></li>
+<p> </p>  
+
+<li value="70"><a name="para70"> These observations provide strong support for the view that the determination of reasonable treatment options is a matter of medical expertise and professional skill and judgment. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading2" style="text-indent:18.0pt"><b><span style="text-decoration: none">(iv) Avoiding an unfortunate conflict in the doctor’s role</span></b></p>  
+
+<li value="71"><a name="para71"> If we were to reject the professional practice test in determining reasonable alternative treatments, one consequence would be an unfortunate conflict in the exercise of a doctor’s role. This is because the law would be requiring a doctor to inform a patient about an alternative medical treatment which the doctor exercising professional skill and judgment, and supported by a responsible body of medical opinion, would not consider to be a reasonable medical option. This was a point forcibly made by Lord Boyd in his judgment in <i>AH. </i>He said<i> </i>at paras 42-43:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“[42] The pursuers argue that what is a reasonable alternative is to be defined by the patient. What the patient considered to be reasonable would emerge from the discussion that the doctor would be expected to have with the patient. The doctors on the other hand say that the range of alternatives are those that the doctor considers reasonable exercising his or her skill and expertise as a reasonably competent doctor (the <i>Hunter v Hanley</i>/<i>Bolam </i>test) and are available.</p>  
+
+<p class="MsoQuote">[43] In my opinion the submissions for the doctors are to be preferred. If the pursuers are right the doctor may well be obliged to advise the patient of alternative treatments which he or she as a doctor would not consider as clinically suitable for the patient. Take, for example, the case of a patient with a pre-existing condition who is being treated for another illness. There is common and available treatment which is usually available to a patient with this illness. However it is dangerous for those with the pre-existing condition. That may arise where, for example, the combination of drugs used by the patient to treat the pre-existing condition with those used to treat the illness gives rise to complications imposing unacceptable risks to the patient. According to counsel for the pursuers the duty on the doctor is to advise the patient of the existence of the alternative remedy even if, in the particular case it is not considered to be a reasonable alternative by the doctors. The explanation for this approach is that the patient may wish to get a second opinion.</p>  
+
+<p class="MsoQuote">[44] That is not consistent with the approach in <i>Montgomery</i>…”</p>  
+
+<p class="ParaSubHeading2" style="text-indent:18.0pt"><b><span style="text-decoration: none">(v) Avoiding bombarding the patient with information</span></b></p>  
+
+<li value="72"><a name="para72"> As the court noted in <i>Montgomery </i>at para 90:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“…the doctor’s advisory role involves dialogue, the aim of which is to ensure that the patient understands the seriousness of her condition, and the anticipated benefits and risks of the proposed treatment and any reasonable alternatives, so that she is then in a position to make an informed decision. This role will only be performed effectively if the information provided is comprehensible. The doctor’s duty is not therefore fulfilled by bombarding the patient with technical information which she cannot reasonably be expected to grasp...”</p>  
+
+<li value="73"><a name="para73"> As the BMA point out, “the doctor’s duty is not fulfilled by ‘bombarding’ the patient with every possible potential treatment for every potential diagnosis, however mainstream or fringe, however simple the case may be, and however likely any given treatment might be to bear fruit. If it obstructs patient understanding, providing too much information may be as unhelpful as providing too little.” To require a doctor to outline the risks of all possible alternative treatments, even those considered not to be reasonable, is unlikely to be in the patient’s best interest and may impair good decision making. A filtering of information is important but is unlikely to occur on the appellants’ case.
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading2" style="text-indent:18.0pt"><b><span style="text-decoration: none">(vi) Avoiding uncertainty </span></b></p>  
+
+<li value="74"><a name="para74"> Following <i>Montgomery, </i>it is of the first importance that doctors should be able readily to understand (i) when they have an advisory role and (ii) what that role requires of them. Extending the advisory role in the way contended for by the appellants would introduce considerable uncertainty to both those questions.
+</a></li>
+<p> </p>  
+
+<li value="75"><a name="para75"> On the appellants’ case, what are reasonable alternative treatment options is to be determined by the court having regard to a range of factors including:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“(i) alternative treatments that, in the circumstances of the particular case, a reasonable person in the patient’s position would be likely to attach significance to in the context of making his or her decision and/or might reasonably consent to; (ii) alternative treatments that the particular patient would be likely to attach significance to in the context of making such a decision and/or might reasonably consent to; (iii) alternative treatments that the doctor appreciates, or should appreciate, would be considered reasonable within the medical profession even though the doctor reasonably elects to recommend a different course of action.”</p>  
+
+<li value="76"><a name="para76"> If these are the factors by which the court is to judge the conduct of the doctor it follows that these are factors to which the doctor must also have regard. This would render the doctor’s task inappropriately complex and confusing. 
+</a></li>
+<p> </p>  
+
+<li value="77"><a name="para77"> Further, for this to be a matter to be determined after the event by the court would create real practical difficulties for a doctor. A doctor cannot foresee what a court might thereafter make of the matter in the light of competing bodies of expert evidence viewed, as Roddy Dunlop KC for the GMC put it, through a “retrospectoscope”. We would have concerns that a consequence would be defensive medicine with the doctor advising on all possible alternative treatment options, however numerous or clinically inappropriate they may be.
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading2" style="text-indent:18.0pt"><b><span style="text-decoration: none">(vii) Conclusion on the correct legal test</span></b></p>  
+
+<li value="78"><a name="para78"> For all the above reasons, we consider that the professional practice test is the correct legal test in respect of reasonable alternative treatments. However, we must finally address two possible qualifications to the application of the professional practice test. 
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-style:normal">(3) Two possible qualifications of the application of the professional practice test in the context of reasonable alternative treatments</span></p>  
+
+<li value="79"><a name="para79"> We have made clear that the correct and straightforward approach is that a doctor has a duty of care to inform a patient of the reasonable alternative treatments in addition to the treatment recommended and that the legal test for determining what are reasonable alternative treatments is the professional practice test. There are two possible qualifications to that straightforward approach that were suggested in the course of submissions (although the second, which had been suggested in the respondent’s written submissions, was withdrawn by the respondent in oral submissions).
+</a></li>
+<p> </p>  
+
+<li value="80"><a name="para80"> The first possible qualification, raised by the BMA, was whether there should be an additional filter turning on whether it is reasonable for a doctor to inform the patient of all reasonable alternative treatments. It might be argued, for example, that the disinterest of the patient may make it reasonable to inform that patient of fewer of the reasonable alternative treatments than if the patient were very interested in the reasonable alternatives. Certainly we accept that discussions with the patient, so that one has a more complete picture of the patient and of his or her medical history, may lead to an expansion or restriction of the reasonable alternative treatments. But in our view, once the doctor, applying the professional practice test, has a range of reasonable alternative treatments, the patient should be informed of all of them. It would cause uncertainty if the doctor had to qualify which reasonable alternative treatments the patient should be informed about by asking which of the reasonable alternatives it was reasonable for that particular patient to be informed about. Of course, a patient can specifically request greater or lesser information about reasonable alternative treatments but we are here dealing with the default position where no such request is made.
+</a></li>
+<p> </p>  
+
+<li value="81"><a name="para81"> The second possible qualification is whether the doctor is under a duty of care to inform the patient of a possible alternative treatment that, applying the professional practice test, he or she does not regard as a reasonable alternative treatment but where the doctor is aware (or perhaps ought to be aware) that there is a responsible body of medical opinion that does regard that alternative treatment as reasonable. For example, if it had been the case that Dr Labinjoh was aware (or perhaps ought to have been aware) that there was a responsible body of medical opinion that would have prescribed NSAIDs to a patient to reduce pericardial effusion, even if that patient was not in pain and there was no clear diagnosis of pericarditis (and assuming that there were no significant contra-indications), would she have been under a duty to inform the patient of that alternative treatment? In our view, this qualification should also be rejected. Not only would it render the law more difficult for a doctor to apply but it would also lead to the unfortunate conflict in the doctor’s role that we have explained in para 71 above. Provided the doctor’s assessment of what is and what is not a reasonable alternative treatment is supported by a responsible body of medical opinion the doctor will not be liable for a failure to inform a patient of other possible alternative treatments. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">7. <span style="text-transform:none">Causation </span></p>  
+
+<li value="82"><a name="para82"> Given our conclusion that Dr Labinjoh was not in breach of a duty of care in not informing the patient about the possible alternative treatment by NSAIDs, the questions on causation (see para 44 above) do not arise and we prefer to say nothing about them. 
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">8. <span style="text-transform:none">Overall conclusion </span></p>  
+
+<li value="83"><a name="para83"> For the reasons we have given, the professional practice test (derived from <i>Hunter v Hanley</i> and <i>Bolam</i>) is the correct legal test in determining what are the reasonable treatment options that a doctor has a duty of reasonable care to inform a patient about. This is to apply the law laid down in <i>Montgomery </i>and we reject the appellants’ submissions which would constitute an unwarranted extension of that law. We would therefore dismiss the appeal. 
+</a></li>
+<p> </p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/26.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

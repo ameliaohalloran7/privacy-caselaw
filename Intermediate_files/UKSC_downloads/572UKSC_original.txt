@@ -1,0 +1,1213 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>O'Connor v Bar Standards Board [2017] UKSC 78 (6 December 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:106%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:106%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:106%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:106%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.legrhs1, li.legrhs1, div.legrhs1
+	{mso-style-name:legrhs1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:18.0pt;
+	background:white;
+	font-size:9.5pt;
+	font-family:"Times New Roman",serif;
+	color:black;}
+span.legds2
+	{mso-style-name:legds2;
+	display:none;}
+span.legextentrestriction7
+	{mso-style-name:legextentrestriction7;
+	color:white;
+	display:none;
+	background:#660066;
+	font-weight:bold;
+	font-style:normal;}
+p.legclearfix2, li.legclearfix2, div.legclearfix2
+	{mso-style-name:legclearfix2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:18.0pt;
+	background:white;
+	font-size:9.5pt;
+	font-family:"Times New Roman",serif;
+	color:black;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      O'Connor v Bar Standards Board [2017] UKSC 78 (6 December 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/78.html</i>
+<br>Cite as: 
+[2018] HRLR 2,
+
+[2017] WLR 4833,
+
+[2017] WLR(D) 813,
+
+[2018] 2 All ER 779,
+
+[2017] UKSC 78,
+
+[2017] 1 WLR 4833
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/78.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="https://www.iclr.co.uk/document/2017000492/casereport_d4a75349-abea-4777-950a-830928b06030/html">[2017] WLR(D) 813</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<center><a href="/uk/cases/UKSC/2017/78.image1.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 78</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/775.html">[2016] EWCA Civ 775</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">O’Connor (Appellant) <i>v</i> Bar Standards Board
+(Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">6 December 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 4 October 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:71.25pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Mark Anderson QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">S Chelvan</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Pegasus Legal LDP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Alison Padfield</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by BLM)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">lord lloyd-jones: (<span style="text-transform:none">with
+whom Lady Hale, Lord Kerr, Lord Wilson and Lady Black agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In these proceedings the appellant, Ms O’Connor, a practising barrister,
+claims damages under the Human Rights Act 1998 against the respondent, the Bar
+Standards Board (“the BSB”), alleging discrimination in her enjoyment of the
+right to a fair trial, in breach of article 14 of the European Convention on
+Human Rights (“ECHR”) considered in conjunction with article 6 ECHR. The
+appellant, who is black, alleges that the BSB discriminated against her on grounds
+of her race in bringing disciplinary proceedings which ended in her acquittal
+on appeal in August 2012.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 9 June 2010 the BSB Complaints Committee brought 6 disciplinary charges
+against the appellant. Charges 1-3 each alleged professional misconduct in that
+she had conducted litigation by signing a statement of truth on behalf of a
+party to litigation. Charge 4 alleged professional misconduct in that, in
+conducting litigation by signing a statement of truth on behalf of a party to
+litigation, she failed to have regard to Public Access Work Guidance for
+Barristers, issued by the General Council of the Bar. Charge 5 alleged
+professional misconduct in that she engaged in conduct discreditable to a
+barrister by committing an offence under section 70(8) of the Courts and Legal
+Services Act 1990 as a member of an unregulated limited liability partnership
+which “filed” a defence and counterclaim with the claimant’s solicitor, thereby
+unlawfully conducting litigation. Charge 6 alleged professional misconduct in
+that she engaged in conduct likely to diminish public confidence in the legal
+profession or the administration of justice or otherwise bring the legal
+profession into disrepute by committing the offence contrary to section 70(8)
+of the Courts and Legal Services Act 1990 referred to in Charge 5.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 23 May 2011 a Disciplinary Tribunal found Charges 1-5 proved. Charge
+6 was dismissed.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant appealed to the Visitors to the Inns of Court (“the Visitors”).
+(It should be noted that the procedure for an appeal to the Visitors with which
+we are concerned in this case is no longer in force, having been replaced by an
+appeal to the High Court. See section 24(1) of the Crime and Courts Act 2013
+which came into force on 7 January 2014; <i>Tariq Rehman v The Bar Standards
+Board</i> </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2016/1199.html">[2016] EWHC 1199 (Admin)</a>, at para 22, Hickinbottom J.) On 17 August
+2012 her appeal was allowed. The Visitors found that none of the conduct
+alleged against the appellant involved any breach of the Code of Conduct of the
+Bar of England and Wales. Sir Andrew Collins, delivering the judgment of the
+Visitors, observed that they had no doubt that none of these charges should
+stand. In the light of this conclusion it was not necessary for the Visitors to
+rule on two further submissions, namely that there had been procedural
+unfairness in the course of the hearing and that there was a lack of reasons in
+the decision of the tribunal. The Visitors observed, however, that there was in
+their view considerable force in those submissions.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant issued the present proceedings against the BSB on 21
+February 2013. The appellant relied on various causes of action including
+allegations of violation of articles 6 and 14 ECHR, contrary to section 6 of
+the Human Rights Act 1998. By its defence the BSB denied the appellant’s
+allegations and also maintained that the claims under the 1998 Act were
+time-barred. On 9 October 2013 the appellant issued an application for
+directions. These included an application for permission to amend her particulars
+of claim and directions for the service of a reply. The draft amended pleading
+did not answer the BSB’s plea that the claim was time-barred. The appellant did
+not serve a reply.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 3 January 2014 the BSB issued an application seeking an order that
+the statement of case be struck out pursuant to CPR rule 3.4(2) on the grounds
+that it disclosed no reasonable grounds for bringing the claim or that summary
+judgment be given in its favour pursuant to CPR Part 24. On 28 March 2014
+Deputy Master Eyre heard the application. The BSB maintained that none of the
+claims had a real prospect of success and that, in any event, the limitation
+defence was bound to succeed. Deputy Master Eyre granted the application with
+costs. He held:</a></p><a name="para6">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The allegation is on its
+face time-barred and there is no application to extend the time limits; and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So far as the allegation
+rests on the allegations supporting misfeasance it must fail.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The allegation rests
+also on a general assertion that the defendant is habitually or systematically
+unfair to black barristers, an allegation which is demurrable.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The evidence is quite to
+the contrary.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant’s appeal was heard by Warby J </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2014/4324.html">[2014] EWHC 4324 (QB)</a> who on
+18 December 2014 held that there was sufficiently pleaded a case that the BSB
+indirectly discriminated against the appellant on racial or ethnic grounds by
+bringing the disciplinary proceedings against her. He did not consider that it
+was possible for the court to determine that the appellant had no real prospect
+of establishing that the statistics on which she relied were significant (at paras
+63, 65). However, he held (at para 79) that the claim was time-barred by
+section 7(5) of the 1998 Act.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Here, the ‘act complained of’ in
+the one human rights claim that I have held to be both adequately pleaded and
+sustainable for the purposes of a summary judgment application is the BSB’s ‘prosecution’
+of the appellant. The decision to bring proceedings was taken on 9 June 2010 or
+at the latest in late July 2010 when the charges were served on the appellant. If
+time runs from either of those dates then the one-year time limit expired some
+17 or 18 months before the issue of these proceedings in February 2013. If the
+BSB’s ‘prosecution’ of the appellant is considered to be a continuing state of
+affairs up to the tribunal decision, time under section 7 expired in May 2012.”</p>
+
+<p class="ParaNoNumber">Warby J also rejected (at para 81) the submission on behalf
+of the appellant that the deputy master had been wrong not to grant her an
+extension of time under section 7(5)(b) of the 1998 Act.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant appealed to the Court of Appeal. In its judgment of 25
+July 2016 the Court of Appeal (Lord Dyson MR, Elias and Sharp LJJ) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/775.html">[2016] 1 WLR 4085</a> held that the one year time limit under section 7(5)(a) of the 1998 Act
+had started to run when the Disciplinary Tribunal had found the charges against
+the claimant proved and so had expired before she had issued her claim. The
+Court of Appeal refused a renewed application for permission to appeal on the
+ground that the limitation period should have been extended pursuant to section
+7(5)(b) of the 1998 Act.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 8 December 2016 the Supreme Court granted permission to appeal only
+in respect of the issue under section 7(5)(a) of the 1998 Act.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The following issues arise on this appeal.</a></p><a name="para10">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Are the disciplinary proceedings brought by the BSB against the
+appellant to be considered a series of discrete acts or a single continuing act
+for the purposes of section 6(1)(a) of the 1998 Act?</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If the latter, does that act end with the verdict of the Disciplinary
+Tribunal or with the verdict of the Visitors?</p>
+
+<p class="ParaNoNumber">Furthermore, by a respondent’s notice, the BSB contends
+that the decision of the Court of Appeal should be affirmed on grounds other
+than those relied on by that court, namely that Warby J erred in holding that
+the article 14 claim had a real prospect of success. In this regard, the BSB
+also seeks permission to adduce new evidence of fact, thereby replicating a
+respondent’s notice and related application to adduce new evidence which were
+before the Court of Appeal.</p>
+
+<p class="ParaHeading">Relevant Provisions</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 6(1) ECHR provides in relevant part:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; In the determination of
+his civil rights and obligations or of any criminal charge against him,
+everyone is entitled to a fair and public hearing within a reasonable time by
+an independent and impartial tribunal established by law. …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 14 ECHR provides:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The enjoyment of the rights and
+freedoms set forth in this Convention shall be secured without discrimination
+on any ground such as sex, race, colour, language, religion, political or other
+opinion, national or social origin, association with a national minority,
+property, birth or other status.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 6 of the 1998 Act provides in relevant part:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; It is unlawful for a
+public authority to act in a way which is incompatible with a Convention right.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><span style="font-style:normal">‘An act’ </span></em>includes a failure to act …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 7 of the 1998 Act provides in relevant part:</a></p><a name="para14">
+
+<p class="MsoQuote" style="margin-left:72.0pt"><span class="legds2"><span lang="EN" style="font-size:12.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN">A person who
+claims that a public authority has acted (or proposes to act) in a way which is
+made unlawful by section 6(1) may -</span></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span class="legds2"><span lang="EN">(a)</span></span><span class="legds2"><span lang="EN" style="font-size:12.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span lang="EN">bring proceedings against the authority under this Act in the
+appropriate court or tribunal; or</span></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span lang="EN">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rely on
+the Convention right or rights concerned in any legal proceedings,</span></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><span lang="EN">but only if he is
+(or would be) a victim of the unlawful act.</span></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proceedings under
+subsection (1)(a) must be brought before the end of -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the period of one year
+beginning with the date on which the act complained of took place; or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; such longer period as
+the court or tribunal considers equitable having regard to all the
+circumstances,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">but that is subject to any rule
+imposing a stricter time limit in relation to the procedure in question.”</p>
+
+<p class="ParaHeading">The nature of the discrimination claim</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before addressing the application of section 7(5)(a) to the present
+proceedings, it is necessary to consider the precise nature of the
+discrimination claim which the appellant wishes to make. In particular it is
+necessary to establish whether the complaint is directed at the conduct of the
+BSB in bringing and pursuing the prosecution against this appellant or, more
+generally, at alleged systemic discrimination against BME barristers.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The discrimination claim is pleaded in the Particulars of Claim in very
+general terms which are vague and unclear. The relevant paragraphs provide:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“22.&nbsp;&nbsp;&nbsp;&nbsp; The defendant infringed
+the claimant’s right to a fair trial on grounds of her race, in breach of
+article 14 of the Convention.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The refusal to allow
+sufficient time to prepare is in line with the defendant’s general complaints
+process which impacts disproportionately on black and ethnic Barristers. Black and
+ethnic Barristers are more likely to have a complaint referred for disciplinary
+action, are more likely to be convicted, and are more likely to have those
+convictions upheld. The claimant avers that the fact that every element of the
+defendant’s disciplinary system impacts on black and ethnic Barristers more
+adversely indicates that there is a systemic bias against black and ethnic
+Barristers.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is no objective or
+reasonable reason why, given that black and ethnic Barrister make up such a
+small proportion of the Bar, they are more likely to be investigated following
+a complaint, more likely to have a complaint referred for prosecution, more
+likely to be prosecuted, more likely to be convicted and more likely to have
+those convictions upheld. There is no objective reason why the defendant ignored
+its own rules and prosecuted the claimant.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The defendant
+discriminated against the claimant indirectly in breach of section 53(2), 53(3)
+of the Equality Act 2010, section 1 of the Race Relations Act 1976 and article
+14 of the Convention. The defendant’s rules are applied in such a way that
+although the Code of Conduct of the Bar applies to all Barristers in England
+and Wales it particularly disadvantages ethnic Barristers who make up only a
+small proportion of the membership of the Bar. The claimant again repeats para
+20 of these Particulars.”</p>
+
+<p class="ParaLevel1">The reference in para 23 to refusal to allow sufficient
+time to prepare is no longer relevant as that basis of claim did not survive
+the hearing before Warby J. Para 20 of the pleading had alleged, inter alia,
+that the BSB had acted knowing that it had no power to act because its actions
+were in breach of its own rules and knowing that its action would injure the
+claimant.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Warby J had this to say about the pleaded case:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“63.&nbsp;&nbsp;&nbsp;&nbsp; The relevant parts of the
+appellant’s particulars of claim could be more clearly formulated and do
+contain some surplus wording. In my judgment however she has, within paras
+22-24 and 29, sufficiently pleaded a case that the BSB indirectly discriminated
+against her on racial or ethnic grounds by bringing the disciplinary
+‘prosecution’ against her. At 23 and 24 she alleges that in practice the
+complaints process impacts disproportionately on BME barristers in particular
+ways. These include the allegation that BME barristers are more likely to have
+a complaint referred for prosecution. She also alleges, though it may not be
+necessary for her to do so, that there is no objective reason to justify this
+different treatment. At 29 she expressly alleges indirect discrimination in
+that the relevant rules ‘are applied in such a way’ by the BSB that ‘it
+particularly disadvantages black barristers’.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At para 79 he concluded that the “act complained of” in the one human
+rights claim that he held to be both adequately pleaded and sustainable for the
+purposes of a summary judgment application was “the BSB’s ‘prosecution’ of the
+appellant”. However, he also considered (at para 62) that the decision of the
+Grand Chamber of the European Court of Human Rights in <i>DH v Czech Republic</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2007/922.html">(2008) 47 EHRR 3</a> showed that in an appropriate case statistics may be relied on
+to establish that an applicant is a member of a group which has been treated
+differently in practice from others in a comparable situation in a way which is
+disproportionately prejudicial to members of that group, and thereby shift the
+onus to the public body concerned to provide evidence of an objective and
+reasonable justification for the difference.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the Court of Appeal Lord Dyson MR (at para 21) approached the issue
+of limitation on the basis that the complaint was that the proceedings against
+the appellant were in breach of article 14. Elias LJ (at paras 38 and 39)
+suggested that some confusion had arisen over the article 14 claim. He
+distinguished between an allegation of discriminatory treatment of the
+appellant herself and a distinct, wider allegation that there is systemic
+discrimination against BME barristers. In the former case the focus had to be
+on the act or acts directed against the appellant and the limitation period
+fell to be determined by reference to that act or those acts. In that regard
+the disproportionate treatment of BME barristers was potentially evidence of
+discrimination against the appellant herself. In the latter case each BME
+barrister subjected to the disciplinary process would, on the analysis of <i>DH</i>,
+be a victim with the right to take action to challenge the wider systemic
+discrimination. The remedy for such a claim would, however, be different and it
+was highly arguable that the limitation period would run from a different time.
+In his view the operation of the limitation period had at all points in the
+present proceedings been argued on the assumption that it ran by reference to
+acts directed against the appellant. Accordingly, that gave rise to the
+question whether the decision to bring disciplinary proceedings against her, as
+an alleged act of discrimination, was a continuous act or not and if so,
+whether it ran until the appeal was determined.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On this appeal counsel for the appellant, Mr Mark Anderson QC and Mr S
+Chelvan, neither of whom appeared below, have made clear in their written case
+and in the oral submissions of Mr Anderson that the appellant’s complaint is that
+the disciplinary proceedings were brought against her for reasons which
+infringe her Convention rights. The BSB’s written case states that the only act
+complained of which survived the hearing before Warby J is the alleged
+violation of article 14 by indirect discrimination pursuant to the <i>DH v
+Czech Republic</i> line of Strasbourg case law. However, it later states that
+the only surviving allegation of discrimination is that by bringing
+disciplinary proceedings against the appellant, the respondent indirectly
+discriminated against her contrary to article 14 pursuant to the <i>DH v Czech
+Republic</i> line of Strasbourg case law.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree with Elias LJ as to the basis on which the claim has been
+presented and I gratefully adopt his analysis. The appellant’s challenge is to
+the conduct of the BSB in bringing and pursuing disciplinary proceedings
+against her, not to an alleged state of affairs in which BME lawyers were more
+likely to be the subject of such proceedings. The appellant’s reliance on <i>DH</i>
+is intended to demonstrate that the disciplinary proceedings against her were
+discriminatory. This has an important impact on the issue of limitation. The
+bringing and pursuit of disciplinary proceedings must be the focus of the
+investigation into “the date on which the act complained of took place”.</a></p><a name="para21">
+
+<p class="ParaHeading">Section 7(5)(a): A series of acts or a single act?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question which then arises in relation to the application of section
+7(5)(a) to the present proceedings is whether the bringing of disciplinary
+proceedings by the BSB is to be considered a series of discrete acts or a
+single continuous act.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The expression “the date on which the act complained of took place” is
+apt to address a single event. However, the provision should not be read
+narrowly. There will be many situations in which the conduct which gives rise
+to the infringement of a Convention right will not be an instantaneous act but
+a course of conduct. The words of section 7(5)(a) should be given a meaning
+which enables them to apply to a continuing act of alleged incompatibility.
+While it is correct that section 7(5)(b) may often empower a court to grant an
+extension of time to bring proceedings in respect of a course of conduct which
+has extended over a period of longer than a year, leaving a claimant to have
+recourse to such a discretionary remedy is inappropriate. It cannot justify
+limiting the scope of section 7(5)(a). The primary provision in 7(5)(a) must be
+capable of providing an effective and workable rule for situations where the
+infringement arises from a course of conduct.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is then necessary to consider whether the alleged infringement of
+Convention rights in the present case arises from a course of conduct as
+opposed to a single act.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On behalf of the appellant, Mr Anderson submits that where a barrister
+complains that she was prosecuted for reasons which infringe her Convention
+rights, she is not complaining about each of the individual steps which
+comprise the prosecution but about the fact that the BSB prosecuted her, a
+state of affairs which lasted until the prosecution came to an end. He also
+draws attention to section 6(6) of the 1998 Act which provides that an act
+includes a failure to act. He submits that the BSB had the power to decide at
+any moment after preferring the charges and before the verdict of the Visitors
+that it would offer no evidence and, in certain circumstances, a duty to offer
+no evidence. However, he accepts that the Court of Appeal was correct to
+conclude that a failure to act does not arise in this case, provided that it is
+accepted that the prosecution is a single continuous act.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On behalf of the BSB, Ms Padfield submits that the decision to refer the
+appellant to a disciplinary tribunal, even if indirectly discriminatory, was a
+one-off act with potentially continuing consequences rather than a continuing
+violation. She submits that this is a case of alleged indirect discrimination
+and that any unlawfulness does not automatically continue for as long as the
+prosecution continues. She accepts that there is evidence of disproportionate
+impact in relation to the decision to refer BME barristers to disciplinary
+tribunals but submits that there is no evidence of disproportionate impact in
+relation to the continuation of disciplinary prosecutions or the failure to
+bring them to an end.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The only authority to which we were referred on this issue is <i>Somerville
+v Scottish Ministers</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2007/44.html">[2007] UKHL 44</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/44.html">[2007] 1 WLR 2734</a>. This decision is,
+however, not particularly illuminating on this point because of the variety of
+views expressed. The petitioners were serving sentences of imprisonment and
+were at various times segregated from other prisoners by monthly orders and
+authorisations that were made over a period of time. They sought judicial
+review of the decisions to segregate them on the ground that their Convention
+rights had been infringed. Several of the periods of segregation had concluded
+more than one year before the proceedings were brought. The House held that the
+time limit in section 7(5) did not apply to the proceedings and the
+observations on its operation were therefore obiter. Lord Hope of Craighead
+stated (at paras 51-52) that he would hold that the phrase “the date on which
+the act complained of took place” in section 7(5)(a) means, in the case of what
+may properly be regarded as a continuing act of alleged incompatibility, that
+time runs from the date when the continuing act ceased, not when it began.
+Otherwise it would not be open to a person who was subjected to a continuing
+act or failure to act which was made unlawful by section 6(1) to take proceedings
+to bring it to an end without relying on section 7(5)(b) while it was still
+continuing after the expiry of one year after its commencement. He also
+considered that, so long as the proceedings were brought within the time
+permitted by section 7(5)(a) and any longer period allowed under section
+7(5)(b), damages may be awarded as just satisfaction for the whole of the
+period over which the continuing act extends, including any part of it that
+commenced before the period of one year prior to the date when the proceedings
+were brought. The question whether the acts complained of in that case were
+continuing acts or one-off acts with continuing consequences was not easy to
+determine on the pleadings and he preferred to reserve his opinion on that point.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Mance, by contrast, (at para 197), considered that each monthly
+order and authorisation constituted for the purpose of section 7(5) a separate
+act in respect of which separate one year limitation periods would run. If a
+period of segregation has lasted for more than a year the claimant would be
+left to seek an extension of time under section 7(5)(b). Lord Rodger of
+Earlsferry (at paras 145-146) preferred to express no view on the point but
+considered Lord Mance’s approach at least arguable. Lord Walker of
+Gestingthorpe (at para 167) did not expressly address the point but said he
+agreed on all other issues with Lord Hope and Lord Rodger. Lord Scott of
+Foscote (at para 81) observed that “act” includes “a failure to act”. In his
+view it therefore followed that the one year beginning with the date on which
+the act complained of took place should simply be calculated back from the date
+on which the section 7(1)(a) proceedings were commenced.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I consider that the alleged infringement of Convention rights in the
+present case arises from a single continuous course of conduct. Although
+disciplinary proceedings brought by the BSB necessarily involve a series of
+steps, the essence of the complaint made here is the initiation and pursuit of
+the proceedings to their conclusion, ie the entirety of the course of conduct
+as opposed to any component steps. As Lord Dyson MR observed in the Court of
+Appeal (at para 21) without expressing a concluded view on this issue,
+prosecution is a single process in which the prosecutor takes many steps. It
+cannot have been the intention of Parliament that each step should be an “act”
+to which the one year limitation period should apply. I also note in this
+regard that, were it otherwise, a prosecution which lasted longer than one year
+could not be relied on in its entirety as a basis of complaint unless
+proceedings were commenced before the conclusion of the disciplinary
+proceedings or relief were granted under section 7(5)(b). A claimant would be
+placed in the difficult position of having to bring a human rights claim within
+one year of the commencement of what might be lengthy proceedings, without
+knowing the outcome which might be very material to the claim.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the basis that we are concerned here with a single continuing act of
+alleged incompatibility, I agree with Lord Hope in <i>Somerville</i> (at para
+51) that time runs from the date when the continuing act ceased, not when it
+began.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In view of my conclusion on this issue, it is not necessary to consider
+the appellant’s alternative argument based on a failure to act. I would,
+however, suggest that it may, in certain other circumstances, be necessary to
+guard against reliance on a failure to reverse an out-of-time decision which
+would have the potential to subvert the limitation scheme of the Act.</a></p><a name="para31">
+
+<p class="ParaHeading">When did the continuing act cease?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the basis that the conduct challenged in these proceedings is the
+single continuing act of bringing and pursuing disciplinary proceedings against
+the appellant, it is necessary to consider when that continuing act ceased.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the Court of Appeal Lord Dyson MR, with whom the other members of
+that court agreed, considered, at para 22, that the question for consideration
+here was whether “opposing an appeal by a convicted defendant should be
+regarded as a continuation of the prosecution”. His view was that it should not
+be so regarded. He considered that a prosecution comes to an end with the
+verdict when the prosecution has run its course. In opposing an appeal by a
+convicted defendant a prosecutor is not continuing the prosecution but is
+seeking to uphold the decision of the court or tribunal that has convicted the
+defendant. In his view, seeking to uphold a conviction is a categorically
+different act from that of prosecuting.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It appears that throughout the current proceedings the disciplinary
+proceedings brought by the BSB against the appellant have been described as a
+“prosecution”. This is, perhaps, an understandable analogy but it is imprecise
+and may tend to obscure the fact that the complaint is of discrimination in
+bringing disciplinary proceedings not a criminal prosecution. There is a danger
+that this characterisation may influence the outcome on the current issue.
+Whatever may be the position in relation to an appeal against a criminal
+conviction, in considering whether in the present case the BSB’s conduct in
+proceedings before the Visitors should be considered as forming part of the
+same continuing act as its conduct in proceedings before the Disciplinary
+Tribunal for the purpose of the rules on limitation, it is necessary to have
+regard to the nature of the regulatory scheme and the precise features of such
+conduct.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Several features of the regulatory scheme and the Visitors’
+jurisdiction, as applicable to the disciplinary proceedings against this
+appellant lead me to the conclusion that the BSB’s part in proceedings before
+the Disciplinary Tribunal and those before the Visitors should be regarded for
+this purpose as part of a single continuing act.</a></p><a name="para35">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>In re S (A Barrister)</i> [1970] 1 QB 160 five judges sitting as
+Visitors of the Inns of Court stated (at p 166G-H), that “[t]he judges as
+visitors have always had supervisory powers and their decision, upon an appeal
+by a barrister or student to them, has always been the final determination of
+such matter”. The precise origins of the long-established visitorial
+jurisdiction of the judges to hear disciplinary appeals from the Inns of Court
+are obscure. (See J H Baker, Judicial Review of the judges as Visitors to the
+Inns of Court, (1992) Public Law 411.) For present purposes it is sufficient to
+record that in 1886 the Council of Judges resolved that “the jurisdiction as to
+appeals from decisions of the benchers of the several Inns of Court is now
+vested in the judges of the High Court”. (See <i>R v Visitors to the Inns of
+Court, Ex p Calder</i> [1994] QB 1<i> </i>per Sir Donald Nicholls V-C at pp
+35D-E). This arrangement continued notwithstanding the transfer by the Inns of
+Court of their disciplinary function (other than the power to pronounce and
+carry into effect any sentence) to the Senate of the Inns of Court in 1966 and
+to the Council of the Inns of Court in 1986. The first Hearings before the Visitors
+Rules were issued in 1980.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>One aspect of the continuing supervisory jurisdiction of the Visitors was
+apparent in their role in hearing applications and giving directions for the
+conduct of the disciplinary proceedings. Regulation 9(1) of The Disciplinary
+Tribunals Regulations 2009 (Annexe K to the Code of Conduct of the Bar of
+England and Wales) required the President of a Disciplinary Tribunal to
+designate a judge or judges to perform this function. The directions to be
+given by a designated judge might concern (inter alia) the severance or strike
+out of charges, the attendance of witnesses, the admission of documents, the
+admission of facts and such other matters as the judge deemed expedient for the
+efficient conduct of the hearing. In the proceedings against this appellant
+Field J heard the appellant’s application to strike out the proceedings and
+gave directions for their conduct.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The function of the Visitors in hearing appeals from Disciplinary
+Tribunals was a further aspect of this supervisory jurisdiction. The appeal
+brought by this appellant was governed by the Hearings before the Visitors
+Rules 2010 (Annexe M to the Code of Conduct).</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In cases where one or more charges of professional misconduct had been
+proved, an appeal against conviction or sentence could be lodged by the
+barrister as of right (Regulation 25(1) of The Disciplinary Tribunals
+Regulations 2009).</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In certain circumstances (which did not arise in this case) the BSB could
+appeal against the dismissal of a charge of professional misconduct with the
+consent of the Chairman of the BSB or the Chairman of the Complaints Committee
+or the permission of the visitors (Regulation 25(1)(c), 25(5) of The Disciplinary
+Tribunals Regulations 2009).</p>
+
+</a><p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm"><a name="para35">(6)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On an appeal the Visitors were required to look afresh at the matters in
+dispute and to form their own views. They were required to consider whether the
+charge had been made out to their satisfaction, to the requisite standard of
+proof. The proper approach was that of an appellate court rehearing the case on
+its merits. (</a><a name="_Hlk497476776"><i>R v Visitors to the Inns of Court, Ex p
+Calder</i> [1994] QB 1<i> </i>per Sir Donald Nicholls V-C at pp</a> 42D-F, 42H;
+per Stuart-Smith LJ at pp 61H - 62D. See also <i>Lincoln v Daniels </i>[1962] 1
+QB 237, per Devlin LJ at p 256.)</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(7)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was open to the Visitors to correct procedural defects and to remedy
+procedural unfairness before the Disciplinary Tribunal. As Sir Andrew Collins
+observed in delivering the judgment of the Visitors in the present case, the
+Visitors were able to hear the matter entirely on its merits. They would give
+the necessary protection to an appellant and it was not necessary for the
+matter to be remitted for further consideration by the Tribunal.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(8)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following a finding or sentence of the Tribunal on a charge of
+professional misconduct, the Treasurer of a defendant’s Inn was required to
+pronounce and implement the sentence. However, the Treasurer was required first
+to wait for 21 days to allow a notice of appeal to be lodged. Where a defendant
+had given notice of appeal to the Visitors against a finding or sentence of the
+Tribunal on a charge of professional misconduct, the pronouncement and
+implementation of the sentence by the Treasurer of the defendant’s Inn were
+automatically deferred (Regulation 27, The Disciplinary Tribunals Regulations
+2009). The verdict of the Tribunal could not be put into effect until after the
+decision of the Visitors on the appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These features, considered cumulatively, persuade me that the role of
+the BSB in initiating and pursuing these proceedings before the Tribunal and
+before the Visitors is essentially one continuing act. In these circumstances
+it is not necessary to express any view as to whether the same conclusion
+should be drawn in relation to an appeal against a criminal conviction.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before leaving this issue, I should refer to a further submission of Mr
+Anderson based on <i>Delcourt</i> <i>v Belgium </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1970/1.html">(1970) 1 EHRR 355</a> where the
+Strasbourg court, in rejecting a submission that article 6 had no application
+to the Belgian Court of Cassation because it was concerned not with the merits
+of the case but with the validity of the judgment, observed:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Thus, a criminal charge is not
+really ‘determined’ as long as the verdict of acquittal or conviction has not
+become final. Criminal proceedings form an entity and must, in the ordinary
+way, terminate in an enforceable decision. Proceedings in cassation are one
+special stage of the criminal proceedings and their consequences may prove
+decisive for the accused. It would therefore be hard to imagine that proceedings
+in cassation fall outside the scope of article 6(1).” (at para 25)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I do not find this passage of any assistance, even by way of analogy.
+The Strasbourg court was there concerned with the distinct question as to the
+scope of application of article 6. As Lord Dyson MR observed in the Court of
+Appeal (at para 23) in relation to a similar submission based on <i>Eckle v
+Federal Republic of Germany</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1982/4.html">(1982) 5 EHRR 1</a>, this does not touch on the
+question whether the role of a prosecutor in appeal proceedings is to be considered
+as a continuation of the act of prosecuting the defendant in the first place.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would therefore allow the appeal. I consider that the conduct of the
+BSB in bringing and pursuing the disciplinary proceedings was, for the purposes
+of section 7(5)(a), a single continuing act which continued until the Visitors
+to the Inns of Court allowed the appeal on 17 August 2012. The present
+proceedings against the BSB, which were commenced on 21 February 2013, were
+therefore commenced within a period of one year beginning with the date on
+which the act complained of took place.</a></p><a name="para39">
+
+<p class="ParaHeading">The respondent’s notice</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By its Notice of Objection dated 12 January 2017 the BSB asks this court
+to uphold the Court of Appeal’s decision on the alternative ground that Warby J
+was wrong to hold that the article 14 claim had real prospects of success. In
+addition, it seeks permission to adduce new evidence of fact to counter the
+conclusion of Warby J on this point.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Notice of Objection and the application to adduce new evidence
+replicate a respondent’s notice and related application that were before the
+Court of Appeal. Warby J had concluded that the particulars of claim both in
+their unamended and draft amended forms adequately stated a case, which was not
+fanciful, that by bringing disciplinary proceedings against the appellant, the
+BSB indirectly discriminated against her contrary to article 14. In the light
+of its conclusion as to the limitation period under section 7(5)(a) the Court
+of Appeal did not address these matters in any detail or express any concluded
+view. However, Lord Dyson did refer to the main submission made by Ms Padfield
+for the BSB in this regard which, as before us, was, essentially that the
+discrimination claim founded on Strasbourg decisions such as <i>DH v Czech Republic</i>
+could have no real prospect of success without statistics sufficient to raise a
+prima facie case of discrimination, general statements of disproportionate
+impact being unlikely to be sufficient. In this regard Ms Padfield relied on <i>Oršuš
+v Croatia</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2010/337.html">(2011) 52 EHRR 7</a>. Lord Dyson MR observed (at para 35) that, in
+his view, there was considerable force in these points and that, at best, the
+appellant’s case, on the basis of the evidence she had adduced so far, was very
+thin.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Had this point been raised in isolation by BSB on an application for
+permission to appeal to the Court of Appeal, it seems most unlikely that
+permission would have been granted. It would have been a second appeal and it
+would not have satisfied the second appeal criteria in that it does not raise
+an important point of principle or practice and there is no other compelling
+reason why an appeal should be heard (CPR 52.7 and 52.13). The point is now
+before this court only because BSB took a limitation point which in my view
+should fail. It is adventitious that it is before the court at all. Moreover,
+it cannot be said that the respondent’s notice raises a point of law of general
+public importance. In these circumstances, it would certainly be open to this
+court to decline to entertain the ground in the respondent’s notice.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nevertheless, in the light of the history of these proceedings, I
+consider it appropriate to address the merits of the respondent’s notice. I can
+do so briefly. I consider that Warby J was correct to conclude on the basis of
+the evidence before him that there were reasonable grounds for bringing the
+claim and that it had a real prospect of success. The appellant’s case is
+based, in part, on a 2013 report by Inclusive Employers into the BSB’s
+complaints system. That report analysed data from the period 2007-11 and
+concluded that (i) BME barristers were disproportionately over-represented in
+the complaints process in relation to the outcomes of external complaints; (ii)
+BME barristers were more likely to have a complaint referred to disciplinary
+action; and (iii) BME barristers were more likely to have complaints upheld.
+The report went on to find that although there were steps the BSB could take to
+improve the complaints process from an equality and diversity perspective - in
+particular the provision of more prompt training for tribunal members which
+included training in unconscious bias - the procedure itself was not
+discriminatory and that other factors, as yet unidentified, were causing the
+disproportions shown in the data. Ms Padfield for the BSB objects that the mere
+fact of a statistical difference in treatment between two groups is not
+sufficient to establish that there is prima facie evidence that the effect of a
+measure or practice is discriminatory. I accept that in <i>DH</i> and in <i>Sampanis
+v Greece </i>(Application No 32526/05), 5 June 2008 (Case Summary </a><a title="Link to BAILII version" href="/eu/cases/ECHR/2011/1637.html">[2011] ECHR 1637</a>), the difference in
+treatment between different groups was so striking as to amount, of itself, to <i>prima
+facie</i> evidence that the effect was discriminatory and to require
+explanation. That may not be the position in the present case. Nevertheless, I
+consider that the appellant is entitled to rely on this evidence, so far as it
+goes, in conjunction with the unhappy history of the proceedings against her,
+as supporting her case that she has been the victim of discrimination. The
+BSB’s submission in the present case rests on the fallacious assumption that an
+inference from statistical difference in treatment is the only way in which a
+claimant can establish an infringement of article 14. As the Strasbourg court
+has made clear, indirect discrimination can be proved without statistical
+evidence (<i>DH</i> at para 188; <i>Oršuš</i> at para 153).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, Ms Padfield seeks, by her application to adduce new evidence,
+to produce a further report by the BSB’s research department dated January 2016
+and entitled “Complaints at the Bar: An Analysis of ethnicity and gender
+2012-2014”, in order to counter the 2013 report. I would refuse the application.
+It is not appropriate for this court to address, for the first time in the
+course of these proceedings, competing submissions of fact on a strike out
+application.</a></p><a name="para44">
+
+</a></div><a name="para44">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/78.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

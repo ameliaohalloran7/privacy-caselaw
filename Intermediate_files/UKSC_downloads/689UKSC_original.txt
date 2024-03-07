@@ -1,0 +1,1415 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title> Singularis Holdings Ltd v Daiwa Capital Markets Europe Ltd (Rev 1) [2019] UKSC 50 (30 October 2019) </title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	border:none;
+	padding:0cm;
+	font-size:18.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	font-weight:normal;}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin-top:8.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	font-weight:normal;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;
+	font-weight:normal;}
+h4
+	{mso-style-link:"Heading 4 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Calibri Light","sans-serif";
+	font-weight:normal;}
+h5
+	{mso-style-link:"Heading 5 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Calibri Light","sans-serif";
+	font-weight:normal;
+	font-style:italic;}
+h6
+	{mso-style-link:"Heading 6 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;
+	font-weight:normal;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-link:"Heading 7 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;
+	font-style:italic;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-link:"Heading 8 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-link:"Heading 9 Char";
+	margin-top:4.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	page-break-after:avoid;
+	font-size:10.5pt;
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;
+	font-style:italic;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	color:#404040;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-link:"Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:40.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-link:"Subtitle Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	font-size:15.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	line-height:110%;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-link:"Intense Quote Char";
+	margin-right:43.2pt;
+	margin-bottom:12.0pt;
+	margin-left:43.2pt;
+	text-align:center;
+	line-height:110%;
+	font-size:14.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#5B9BD5;}
+span.MsoSubtleEmphasis
+	{color:#595959;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleReference
+	{font-variant:small-caps;
+	color:#404040;}
+span.MsoIntenseReference
+	{font-variant:small-caps;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoBookTitle
+	{font-variant:small-caps;
+	font-weight:bold;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	border:none;
+	padding:0cm;
+	font-size:18.0pt;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-link:"Heading 4";
+	font-family:"Calibri Light","sans-serif";}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-link:"Heading 5";
+	font-family:"Calibri Light","sans-serif";
+	font-style:italic;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-link:"Heading 6";
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;}
+span.Heading7Char
+	{mso-style-name:"Heading 7 Char";
+	mso-style-link:"Heading 7";
+	font-family:"Calibri Light","sans-serif";
+	color:#595959;
+	font-style:italic;}
+span.Heading8Char
+	{mso-style-name:"Heading 8 Char";
+	mso-style-link:"Heading 8";
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;}
+span.Heading9Char
+	{mso-style-name:"Heading 9 Char";
+	mso-style-link:"Heading 9";
+	font-family:"Calibri Light","sans-serif";
+	font-variant:small-caps;
+	color:#595959;
+	font-style:italic;}
+p.Title2, li.Title2, div.Title2
+	{mso-style-name:Title2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	line-height:110%;
+	font-size:13.0pt;
+	font-family:"Calibri","sans-serif";
+	font-weight:bold;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-link:Title;
+	font-family:"Calibri Light","sans-serif";
+	color:#2E74B5;
+	letter-spacing:-.35pt;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-link:Subtitle;
+	font-family:"Calibri Light","sans-serif";
+	color:#404040;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+span.IntenseQuoteChar
+	{mso-style-name:"Intense Quote Char";
+	mso-style-link:"Intense Quote";
+	font-family:"Calibri Light","sans-serif";
+	color:#5B9BD5;}
+span.UnresolvedMention
+	{mso-style-name:"Unresolved Mention";
+	color:#605E5C;
+	background:#E1DFDD;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Singularis Holdings Ltd v Daiwa Capital Markets Europe Ltd (Rev 1) [2019] UKSC 50 (30 October 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/50.html</i>
+<br>Cite as: 
+[2020] BCC 89,
+
+[2020] 1 All ER (Comm) 1,
+
+[2020] AC 1189,
+
+[2020] 1 All ER 383,
+
+[2020] PNLR 5,
+
+[2019] WLR(D) 608,
+
+[2020] Lloyd's Rep FC 54,
+
+[2019] UKSC 50,
+
+[2020] 2 BCLC 392,
+
+[2019] Bus LR 3086,
+
+[2019] 2 CLC 743,
+
+[2020] 1 Lloyd's Rep 47,
+
+[2019] 3 WLR 997
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/50.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016009264/casereport_d95e9ad2-1ebd-4b2c-b46f-ee006cc28acb/html">[2020] AC 1189</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016009264/casereport_c19ee8de-33ba-4889-8ce5-bff366481440/html">[2019] WLR(D) 608</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016009264/casereport_8ae44be4-0a25-456d-9c92-c02c4269dd81/html">[2019] Bus LR 3086</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016009264/casereport_c8a71ef4-33f7-4d58-a1c4-2712d06e513e/html">[2019] 3 WLR 997</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/50.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 50</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/84.html">[2018] EWCA Civ 84</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="width:448.6pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Singularis
+  Holdings Ltd (In Official Liquidation) (A Company Incorporated in the Cayman
+  Islands) (Respondent) <i>v</i> Daiwa Capital Markets Europe Ltd (Appellant)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sales</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Thomas</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">30 October 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 23 and 24 July 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">John McCaughran QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jonathan Crow QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Watkins</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew de Mestre QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Ashurst
+  LLP (London))</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Jenner
+  &amp; Block London LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LADY HALE: (<span style="text-transform:none">with whom Lord
+Reed, Lord Lloyd-Jones, Lord Sales and Lord Thomas agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Counsel for the respondent, Jonathan Crow QC, boldly asserted at the
+outset of his submissions that “this case is in fact bristling with simplicity”.
+The issue is certainly a simple one. The claim is brought by a company (through
+its liquidators) against its investment bank and broker for breach of the
+so-called <i>Quincecare </i>duty of care. In <i>Barclays Bank plc v Quincecare
+Ltd</i> [1992] 4 All ER 363, Steyn J held that it was an implied term of the
+contract between a bank and its customer that the bank would use reasonable
+skill and care in and about executing the customer’s orders; this was subject
+to the conflicting duty to execute those orders promptly so as to avoid causing
+financial loss to the customer; but there would be liability if the bank
+executed the order knowing it to be dishonestly given, or shut its eyes to the
+obvious fact of the dishonesty, or acted recklessly in failing to make such
+inquiries as an honest and reasonable man would make; and the bank should
+refrain from executing an order if and for so long as it was put on inquiry by
+having reasonable grounds for believing that the order was an attempt to
+misappropriate funds. The issue in this case is whether such a claim is
+defeated if the company’s instructions were given by the company’s Chairman and
+sole share-holder who was the “dominant influence over the affairs of the
+company”. Can his fraud be attributed to the company? And if so, is the claim
+then defeated, whether on grounds of illegality, of causation, or by an equal
+and opposite claim against the company in deceit?</a></p><a name="para1">
+
+<p class="ParaHeading">The background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondent company, “Singularis”, is a company registered in the
+Cayman Islands, set up to manage the personal assets of a Saudi Arabian
+business man, Maan Al Sanea, separately from his business group. At all times
+material to this claim, Mr Al Sanea was its sole shareholder, a director and
+also its chairman, president and treasurer. There were six other directors, who
+were reputable people, but did not exercise any influence over the management
+of the company. Very extensive powers were delegated to Mr Al Sanea to take
+decisions on behalf of the company, including signing powers over the company’s
+bank accounts. The company had a substantial and legitimate business, carried
+out over a number of years before the relevant events, for which it borrowed
+substantial sums of money under a variety of funding arrangements.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant, Daiwa, is the London subsidiary of a Japanese investment
+bank and brokerage firm. In 2007, it entered into a stock financing arrangement
+with Singularis. Daiwa provided Singularis with loan financing to enable it to
+purchase shares which were the security for the repayment of the loan. In June
+2009, all the shares were sold, the loan was repaid, and Daiwa was left holding
+a cash surplus for the account of Singularis. Together with a sum of US$80m
+deposited by Singularis in June 2009, the total held to Singularis’ account was
+approximately US$204m.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Between 12 June and 27 July 2009, Daiwa was instructed by Singularis to
+make eight payments, totalling approximately US$204,500,000, out of the money
+held to Singularis’ account. Five of those payments were to the Saad Specialist
+Hospital Company. Three of them were to or for the benefit of Saad Air (A320 No
+2) Ltd and Saad Air (A340-600) Ltd (together, “Saad Air”). Those instructions
+were given with the approval of Mr Al Sanea who, as between Singularis and
+Daiwa, had authority to give instructions to make the payments. Daiwa made
+those payments. The judge held that each of the payments was indeed a
+misappropriation of Singularis’ funds because there was no proper basis for any
+of them. There has been no appeal against that finding.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 20 August 2009, Mr Al Sanea placed Singularis in voluntary
+liquidation. On 18 September 2009 the Grand Court of the Cayman Islands made a
+compulsory winding up order and joint liquidators were appointed.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 18 July 2014, Singularis, acting through its joint liquidators,
+brought a claim against Daiwa for the full amount of the payments (less any
+sums recovered either from Mr Al Sanea or the recipients of the payments).
+There were two bases for the claim: (1) dishonest assistance in Mr Al Sanea’s
+breach of fiduciary duty in misapplying the company’s funds; and (2) breach of
+the <i>Quincecare</i> duty of care to the company by giving effect to the
+payment instructions.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the Chancery Division of the High Court, Rose J dismissed the dishonest
+assistance claim because Daiwa’s employees had acted honestly. However, she
+upheld the negligence claim, while making a deduction of 25% under the Law
+Reform (Contributory Negligence) Act 1945 to reflect the contributory fault of
+Mr Al Sanea and the company’s inactive directors, for which the company was
+responsible: </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2017/257.html">[2017] EWHC 257 (Ch)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2017/257.html">[2017] Bus LR 1386</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Singularis did not appeal against the dismissal of the dishonest
+assistance claim. Daiwa did appeal against the finding of liability on the negligence
+claim. The Court of Appeal unanimously dismissed the appeal: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/84.html">[2018] EWCA Civ 84</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/84.html">[2018] 1 WLR 2777</a>. In brief, it held (1) that Mr Al Sanea’s fraudulent
+state of mind could not be attributed to the company; but (2) even if it could,
+the claim would still have succeeded - the bank’s negligence had caused the
+loss, it was not defeated by a defence of illegality, or by an equal and
+opposite claim by the bank for the company’s deceit; and (3) the judge’s
+finding of 25% contributory negligence was a reasonable one.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Daiwa now appeals to this Court on the question of attribution and its
+consequences. Two broad issues arise. (1) When can the actions of a dominant
+personality, such as Mr Al Sanea, who owns and controls a company, even though
+there are other directors, be attributed to the company? (2) If they are
+attributed to the company, is the claim defeated (i) by illegality; (ii) by
+lack of causation because the bank’s duty of care does not extend to protecting
+the company from its own wrongdoing or because the company did not rely upon
+its performance; or (iii) by an equal and countervailing claim in deceit?</a></p><a name="para9">
+
+<p class="ParaHeading">The starting point</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The starting point must be the judge’s findings, none of which is under
+appeal. She held that there was no good reason to make the payments to Saad Air
+and that it was a breach of fiduciary duty for Mr Al Sanea to direct Singularis
+to make them (para 120). She also held that the agreement made between
+Singularis and the hospital to pay the expenses of the hospital was a sham and
+the five payments were a misappropriation of the company’s money by Mr Al Sanea
+in breach of his fiduciary duty (paras 121-127). As sole shareholder he was not
+entitled to ratify the misappropriation of company funds because he must have
+known that the company was on the verge of insolvency and his duty as director
+was to act in the best interests of the company’s creditors. This precluded
+making gratuitous payments to other companies in the Saad group to the
+detriment of Singularis’ creditors (paras 128-137).</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>She went on to hold that Daiwa was in breach of the <i>Quincecare </i>duty
+on the facts of the case. Any reasonable banker would have realised that there
+were “many obvious, even glaring, signs that Mr Al Sanea was perpetrating a
+fraud on the company”. He was clearly using the funds for his own purposes and
+not for the purpose of benefiting Singularis (para 192). First, Daiwa was well
+aware of the dire financial straits in which Mr Al Sanea and the Saad group
+found themselves at the end of May and in early June 2009 (paras 193-196).
+Second, it was aware that Singularis might have other substantial creditors
+with an interest in the money (para 197). Third, there was plenty of evidence
+to put Daiwa on notice that there was something seriously wrong with the way
+that Mr Al Sanea was operating the Singularis account (para 199). Fourth, it
+was alive to the possibility that the agreement with the hospital was a front
+or a cover rather than a genuine obligation (para 200). Fifth, there was a
+striking contrast between the way in which some payment requests were processed
+and how the disputed payments were handled (para 201). In short “Everyone
+recognised that the account needed to be closely monitored … But no one in fact
+exercised care or caution or monitored the account themselves and no one
+checked that anyone else was actually doing any exercising or monitoring
+either” (para 202).</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the basis of those findings, the judge held that there was a clear
+breach of Daiwa’s <i>Quincecare </i>duty of care to Singularis. That is
+incontrovertible. The issue for this Court, as in the courts below, is whether
+Daiwa has any defence to that claim. The issue of attribution has to be seen in
+the context of the possible defences to which it might give rise. Were
+attribution to be established, Daiwa raises three possible defences. It is
+worth giving a brief account of each of these before turning to the question of
+attribution. It will be seen that, even if attribution were established, none
+of them is a very promising basis for denying liability.</a></p><a name="para12">
+
+<p class="ParaHeading">Illegality</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both the judge and the Court of Appeal rejected the illegality defence
+raised by Daiwa on two grounds: first, that Mr Al Sanea’s fraud could not be
+attributed to the company - ie held to be the company’s fraud - for this
+purpose (Rose J, paras 208 to 215; CA, paras 50 to 60); and second, in any
+event, the test for a successful illegality defence, laid down by this Court in
+<i>Patel v Mirza </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/42.html">[2016] UKSC 42</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/42.html">[2017] AC 467</a>, was not met (Rose J, paras
+216 to 220; CA, paras 61 to 67).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Patel v Mirza </i>was a restitution claim. Mr Patel agreed to pay
+£620,000 to Mr Mirza on the basis that Mr Mirza would use it to bet on the
+price of shares using inside information that Mr Mirza expected to receive.
+This was a conspiracy to commit the offence of insider dealing contrary to
+section 52 of the Criminal Justice Act 1993. However, the inside information
+was not forthcoming and the bets were never placed. Mr Patel asked for his
+money back and Mr Mirza refused. He argued that the claim was barred by
+illegality because Mr Patel would have to prove the illegal agreement under
+which the money was paid in order to prove that the purpose had failed and he
+should get it back. A panel of nine Supreme Court Justices was convened to hear
+the appeal, because of the perceived conflict between the decisions of this
+Court in <i>Hounga v Allen </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2014/47.html">[2014] UKSC 47</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/47.html">[2014] 1 WLR 2889</a>, <i>Les
+Laboratoires Servier v Apotex Inc </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2014/55.html">[2014] UKSC 55</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/55.html">[2015] AC 430</a>, and <i>Bilta
+(UK) Ltd v Nazir (No 2) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/23.html">[2015] UKSC 23</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/23.html">[2016] AC 1</a>. By a majority of six
+to three, the Court rejected the approach of the House of Lords in <i>Tinsley v
+Milligan</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1993/3.html">[1994] 1 AC 340</a>, which depended on whether or not the claimant had
+to plead the illegal agreement in order to succeed. Instead it adopted the
+approach summed up by Lord Toulson, who gave the leading judgment, at para 120:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The essential rationale of the
+illegality doctrine is that it would be contrary to the public interest to
+enforce a claim if to do so would be harmful to the integrity of the legal
+system … In assessing whether the public interest would be harmed in that way,
+it is necessary (a) to consider the underlying purpose of the prohibition which
+has been transgressed and whether that purpose will be enhanced by denial of
+the claim, (b) to consider any other relevant public policy on which the denial
+of the claim may have an impact and (c) to consider whether denial of the claim
+would be a proportionate response to the illegality, bearing in mind that
+punishment is a matter for the criminal courts.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In that case, it was not contrary to the public interest to allow Mr Patel
+to recover the money which he had paid for an illegal purpose but which had not
+been used for that purpose. In wanting it back he was seeking to unwind the
+arrangement, not to profit from it.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this case, the illegality relied on was, in relation to some of the
+payments, Mr Al Sanea’s provision of documents which he knew to be false and,
+in relation to all of the payments, his breach of his fiduciary duty towards
+Singularis. The judge held that the purpose of the prohibition of breach of
+fiduciary obligation was to protect the company from becoming the victim of the
+wrongful exercise of power by officers of the company. That purpose would
+certainly not be enhanced by preventing the company from getting back the money
+which had been wrongfully removed from its account. The purpose of the
+prohibition of making false statements was both to protect the bank from being
+deceived and the company from having its funds misappropriated. Although the
+purpose of protecting the bank would be enhanced by denial of the claim, that
+purpose was achieved by ensuring that the bank was only liable to repay the
+money if the <i>Quincecare </i>duty was breached: that duty struck a careful
+balance between the interests of the customer and the interests of the bank.
+“It would not enhance the integrity of the law to undermine that balance by
+denying the claim on grounds of illegality in a case where, ex hypothesi, the
+exceptional circumstances needed for the duty to arise and be breached are
+found to be present.” (para 218)</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning to whether there might be any other relevant public interests,
+she held that denial of the claim would have a material impact upon the growing
+reliance on banks and other financial institutions to play an important part in
+reducing and uncovering financial crime and money laundering. If a regulated
+entity could escape from the consequences of failing to identify and prevent
+financial crime by casting on the customer the illegal conduct of its employees
+that policy would be undermined (para 219).</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, denial of the claim would be an unfair and disproportionate
+response to any wrongdoing on the part of Singularis. The possibility of making
+a deduction for contributory negligence on the customer’s part enables the
+court to make a more appropriate adjustment than the rather blunt instrument of
+the illegality defence (para 220).</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal took the view that there was no error in the judge’s
+approach. Barring Singularis’ claim would serve to undermine the carefully
+calibrated <i>Quincecare</i> duty and would not be a proportionate response,
+particularly where Daiwa’s breaches were so extensive and the fraud was so
+obvious (para 66).</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr John McCaughran QC, who appears for Daiwa, argues that the judge went
+wrong at each stage of the analysis. The purpose of the prohibition of deceit
+is to encourage honest dealing. The integrity of the legal system is not
+enhanced by allowing fraudulent companies to recover damages in respect of
+their fraud. If this is adequately addressed by the carefully calibrated <i>Quincecare</i>
+duty, it leaves no room for the application of the illegality defence. As to
+the public policy of enlisting banks and financial institutions in the fight
+against financial crime and money laundering, there already existed important
+incentives in the regulatory regime for banks and brokers to detect financial
+crime. There was no need for a further incentive in the form of a damages claim
+by the company. Denying the claim would be a proportionate response to the
+company’s wrongdoing.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Daiwa’s arguments necessarily depend upon a finding that Mr Al Sanea’s
+fraud was the company’s fraud, an issue which is discussed later. But even if
+it was, in my view the judge’s conclusion was correct for the reasons she gave.
+I should, however, record my reservations about the view expressed by the Court
+of Appeal as to the role of an appellate court in relation to the illegality
+defence: that “an appellate court should only interfere if the first instance
+judge has proceeded on an erroneous legal basis, taken into account matters
+that were legally irrelevant, or failed to take into account matters that were
+legally relevant” (para 65). Daiwa point out that applying the defence is “not
+akin to the exercise of discretion” (citing Lord Neuberger in <i>Patel v Mirza</i>,
+at para 175) and an appellate court is as well placed to evaluate the arguments
+as is the trial judge. It is not necessary to resolve this in order to resolve
+this appeal and there are cases concerning the illegality defence pending in
+the Supreme Court where it should not be assumed that this Court will endorse
+the approach of the Court of Appeal.</a></p><a name="para21">
+
+<p class="ParaHeading">Causation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Daiwa argues that, if the fraud is attributed to the company, the
+company’s loss is caused by its own fault and not by the fault of Daiwa. In <i>Reeves
+v Comr of Police of the Metropolis </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1999/35.html">[2000] 1 AC 360</a>, at 368, Lord Hoffmann
+referred to “the sound intuition that there is a difference between protecting
+people against harm caused to them by third parties and protecting them against
+harm which they inflict upon themselves … People of full age and sound
+understanding must look after themselves and take responsibility for their
+actions”. This was a case, argues Daiwa, in which the company inflicted the
+harm upon itself.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Against that, Lord Hoffmann went on to say that “This philosophy
+expresses itself in the fact that … a duty to protect a person of full
+understanding from causing harm to himself is very rare indeed. But, once it is
+admitted that this is the rare case in which such a duty is owed, it seems to
+me self-contradictory to say that the breach could not have been a cause of the
+harm because the victim caused it to himself”. This is just such a case: the
+purpose of the <i>Quincecare </i>duty<i> </i>is to protect a bank’s customers
+from the harm caused by people for whom the customer is, one way or another,
+responsible. Hence Mr Crow argues that the loss was caused, not by the
+dishonesty, but by Daiwa’s breach of its duty of care. Had it not been for that
+breach, the money would still have been in the company’s account and available
+to the liquidators and creditors. This was not a case where the company’s act
+came after Daiwa’s breach of duty (unlike <i>Reeves</i>, where the prisoner’s
+suicide came after the police’s breach of duty). The fraudulent instruction to Daiwa
+gave rise to the duty of care which the bank breached, thus causing the loss.</a></p><a name="para23">
+
+<p class="ParaHeading">Countervailing claim in deceit</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Daiwa argues that because it would have an equal and countervailing
+claim in deceit against the company, the company’s claim in negligence should
+fail for circularity. They paid out because of the company’s deceit and
+therefore have a claim against the company for any loss suffered by their
+exposure to Singularis’ claim. This cancels out the company’s claim against
+them for negligence in failing to detect the fraud. This is a variant of the
+causation argument and the judge answered it by reference to two decisions of
+Evans-Lombe J in <i>Barings plc v Coopers &amp; Lybrand (No 2) </i></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2002/461.html">[2002] EWHC 461 (Ch)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2002/461.html">[2002] 2 BCLC 410</a> and <a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2003/1319.html">[2003] EWHC 1319 (Ch)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2003/1319.html">[2003] PNLR 34</a>. These
+were proceedings brought by Barings against their auditors for failing to
+detect the dealings of Mr Nick Leeson which led to the downfall of the bank.
+The first decision concerned the allegation of the auditors that they had been
+deceived by Barings’ finance director into accepting figures which he knew to
+be false. That claim failed on the facts, but had it succeeded, the judge would
+have held that Barings were vicariously responsible for the deception and this
+would have defeated the negligence claim. The second decision concerned the
+activities of Mr Leeson. Fraudulent though they were, they did not defeat the
+bank’s claim because it was the very duty of the auditors to detect the fraud.
+Thus, in this case, the judge held that Daiwa “owed Singularis a duty to guard
+against being misled into paying away Singularis’ money by just such fraudulent
+instructions. Their breach, and not Mr Al Sanea’s misrepresentations, is the
+cause of their exposure to the claim for Singularis’ loss” (Rose J, para 228).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Daiwa sought to distinguish <i>Barings</i> on the basis that Barings
+were merely vicariously liable for Mr Leeson’s fraud, whereas, if it is right
+about attribution, in this case the fraud is the fraud of the company itself
+and not just one of its employees. The Court of Appeal rejected this argument
+and upheld the reasoning of the judge: “The existence of the fraud was a
+precondition for Singularis’ claim based on breach of Daiwa’s <i>Quincecare </i>duty,
+and it would be a surprising result if Daiwa, having breached that duty, could
+escape liability by placing reliance on the existence of the fraud that was
+itself a pre-condition for its liability” (CA, para 79).</a></p><a name="para25">
+
+<p class="ParaHeading">Attribution</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Daiwa argues that, as Singularis was effectively a one-man company and
+Mr Al Sanea was its controlling mind and will, his fraud is to be attributed to
+the company, with the consequence that its <i>Quincecare </i>claim against
+Daiwa is defeated, either by illegality, or for lack of causation, or because
+of an equal and opposite claim for the company’s deceit. To examine such an
+assertion, it is necessary to go back to basic principles.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The starting point has to be the principle established by the House of
+Lords in <i>Salomon v A Salomon and Co Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1896/54.html">[1897] AC 22</a>, that a properly
+incorporated company has an identity and legal personality quite separate from
+that of its subscribers, shareholders and directors. Mr Salomon had established
+the company, with his family, to buy his boot and shoe manufacturing business
+at a time when it was solvent. When it later became insolvent, he was entitled
+to enforce the debentures granted by the company in part payment of the price
+and he was not obliged to indemnify the company against the claims of its
+creditors. It is also worth recalling the words of Lord Macnaghten, at p 53,
+that “It has become the fashion to call companies of this class ‘one-man
+companies’. That is a taking nickname, but it does not help one much in the way
+of argument”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Companies being fictional persons, they have of course to act through
+the medium of real human beings. So the issue is when the acts and intentions
+of real human beings are to be treated as the acts and intentions of the
+company. The classic exposition is to be found in the Opinion of the Judicial
+Committee of the Privy Council in <i>Meridian Global Funds Management Asia Ltd
+v Securities Commission </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1995/5.html">[1995] 2 AC 500</a>, delivered by Lord Hoffmann. He
+identified three levels of attribution (at pp 506-507). The primary rule is
+contained in the company’s constitution, its articles of association, which
+will typically say that the decisions of the shareholders or of the board of
+directors are to be the decision of the company on certain matters. But this
+will not cover the whole field of the company’s decision-making. For this, the
+ordinary rules of agency and vicarious liability, which apply to natural
+persons just as much as to companies, will normally supply the answer. However there
+will be some particular rules of law to which neither of these principles
+supplies the answer. The question is not then one of metaphysics but of
+construction of the particular rule in question.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In seeking to establish attribution in this case, Daiwa prays in aid the
+decision of the House of Lords in <i>Stone &amp; Rolls Ltd v Moore Stephens </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2009/39.html">[2009] UKHL 39</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/39.html">[2009] 1 AC 1391</a>. The claimant company was owned, controlled and
+managed by a Mr Stojevic, who had procured the company to engage in frauds upon
+banks. The company was sued for deceit by one of the banks and went into liquidation.
+The company then brought proceedings against its auditors, alleging that they
+had been negligent in failing to detect and prevent Mr Stojevic’s activities.
+The auditors applied to strike out the claim on the basis that Mr Stojevic’s
+fraud was to be attributed to the company. The trial judge refused to strike it
+out, on the basis that such fraud was “the very thing” that the auditors were
+employed to detect. The Court of Appeal held that, as the company had to rely
+upon the illegality to found its claim, the defence of illegality was made out
+(this was, of course, before <i>Patel v Mirza</i>). The House of Lords, by a
+majority, held that, as Mr Stojevic was the beneficial owner and “directing
+mind and will” of the company, knowledge of his fraudulent activities was to be
+attributed to the company, so the company could not complain that the auditors
+had failed to detect it. Lord Mance, dissenting, pointed out that this deprived
+the company’s creditors of a remedy, as it was only the company which could sue
+the auditors for their negligence. It appears that what principally divided
+their lordships was whether the auditors had to have regard to the interests of
+creditors even though they owed them no duty of care.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Stone &amp; Rolls </i>has prompted much debate and criticism. It was
+analysed in detail by a panel of seven Justices of this Court in <i>Bilta (UK)
+Ltd v Nazir (No 2) </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/23.html">[2015] UKSC 23</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/23.html">[2016] AC 1</a>. The company and its
+liquidators brought claims against its directors and others who were alleged to
+have dishonestly assisted the directors in a conspiracy to defraud the company.
+The claim was defended on the basis that the fraud of its directors was
+attributable to the company which could not then make a claim against the other
+conspirators relying on its own illegality. This court held unanimously that
+where a company has been the victim of wrongdoing by its directors, the
+wrongdoing of the directors cannot be attributed to the company as a defence to
+a claim brought against the directors - and their co-conspirators - by the
+company’s liquidator for the loss suffered by the company as a result of the
+wrongdoing. The court explained that the key to any question of attribution was
+always to be found in considerations of the context and the purpose for which
+the attribution was relevant. Where the purpose was to apportion responsibility
+between the company and its agents so as to determine their rights and
+liabilities to one another, the answer might not be the same as where the
+purpose was to apportion responsibility between the company and a third party.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Stone &amp; Rolls</i> was a case between a company and a third party.
+Lords Toulson and Hodge, after analysing the judgments in detail, reached the
+conclusion (para 154) that “it should be regarded as a case which has no
+majority ratio decidendi. It stands as authority for the point which it
+decided, namely that on the facts of that case no claim lay against the
+auditors, but nothing more”. Lord Sumption identified three points for which it
+was authority (para 80), but Lord Neuberger, with whom Lord Clarke and Lord Carnwath
+agreed, agreed with only two of these (para 26). The first was that an
+illegality defence cannot be run by a third party against a company where there
+are innocent shareholders or directors. The second was that the defence was
+available, albeit only on some occasions, where there are no innocent directors
+or shareholders. Lord Mance agreed with the first of these but as to the second
+he commented that it “appears [to be] a factually correct representation of the
+outcome of <i>Stone &amp; Rolls</i>, though the present appeal does not raise
+the correctness in law of that outcome, which may one day fall for
+reconsideration” (para 50).</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Subject to the two points with which he agreed, Lord Neuberger said
+this:</a></p><a name="para32">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para32">“[T]he time has come in my view
+for us to hold that the decision in <i>Stone &amp; Rolls</i> should as Lord
+Denning MR graphically put it in relation to another case in <i>In re King,
+decd </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/1963/1.html">[1963] Ch 459</a>, 483, be put ‘on one side in a pile and marked “not to
+be looked at again”’. Without disrespect to the thinking and research that went
+into the reasoning of the five Law Lords in that case, and although persuasive
+points and observations may be found from each of the individual opinions, it
+is not in the interests of the future clarity of the law for it to be treated
+as authoritative or of assistance save as already indicated.” (para 30)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Unfortunately, the majority’s acceptance of the second point has been
+treated as if it established a rule of law that the dishonesty of the
+controlling mind in a “one-man company” could be attributed to the company -
+with the consequences discussed earlier - whatever the context and purpose of
+the attribution in question. Thus there was much argument in this case about
+what was meant by “innocent” directors and whether this included innocent but
+inactive directors who should have been paying more attention to what Mr Al
+Sanea was doing. The judge found that Singularis was not a one-man company in
+the sense that the phrase was used in <i>Stone &amp; Rolls</i> and<i> Bilta</i>
+(Rose J, para 212). The company had a board of reputable people and a
+substantial business. There was no evidence to show that the other directors
+were involved in or aware of Mr Al Sanea’s actions. There was no reason why
+they should have been complicit in his misappropriation of the money (para
+189). The Court of Appeal held that, on those findings of fact, she had made no
+error of law (CA, para 54).</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree. But in any event, in my view, the judge was correct also to say
+that “there is no principle of law that in any proceedings where the company is
+suing a third party for breach of a duty owed to it by that third party, the
+fraudulent conduct of a director is to be attributed to the company if it is a
+one-man company”. In her view, what emerged from <i>Bilta </i>was that “the
+answer to any question whether to attribute the knowledge of the fraudulent
+director to the company is always to be found in consideration of the context
+and the purpose for which the attribution is relevant” (para 182). I agree and,
+if that is the guiding principle, then <i>Stone &amp; Rolls </i>can finally be
+laid to rest.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The context of this case is the breach by the company’s investment bank
+and broker of its <i>Quincecare </i>duty of care towards the company. The
+purpose of that duty is to protect the company against just the sort of
+misappropriation of its funds as took place here. By definition, this is done
+by a trusted agent of the company who is authorised to withdraw its money from
+the account. To attribute the fraud of that person to the company would be, as
+the judge put it, to “denude the duty of any value in cases where it is most
+needed” (para 184). If the appellant’s argument were to be accepted in a case
+such as this, there would in reality be no <i>Quincecare </i>duty of care or
+its breach would cease to have consequences. This would be a retrograde step.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Daiwa makes two further arguments - essentially policy arguments
+-against this conclusion. First, it argues that it is odd if the claim of a
+company arising out of the dishonest activities of its “directing mind and
+will” against a negligent auditor fails (as in <i>Stone &amp; Rolls </i>and in <i>Berg
+Sons &amp; Co Ltd v Adams </i>[1993] BCLC 1045) but a claim against a negligent
+bank or broker succeeds. But (quite apart from the difficulties of <i>Stone
+&amp; Rolls</i>) this ignores the fact that the duties of auditors are
+different from the duties of banks and brokers. The auditor’s duty is to report
+on the company’s accounts to those having a proprietary interest in the company
+or concerned with its management and control. If the company already knows the
+true position (as in <i>Berg</i>) then the auditor’s negligence does not cause
+the loss.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Second, Daiwa argues that the law should not treat a company more
+favourably than an individual. In <i>Luscombe v Roberts </i>(1962) 106 SJ 373,
+a solicitor’s claim against his negligent accountants failed because he knew
+that what he was doing - transferring money from his clients’ account into his
+firm’s account and using it for his own purposes - was wrong. But companies are
+different from individuals. They have their own legal existence and personality
+separate from that of any of the individuals who own or run them. The
+shareholders own the company. They do not own its assets and a sole shareholder
+can steal from his own company.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I therefore see nothing in those arguments to detract from the
+conclusion reached - that, for the purpose of the <i>Quincecare </i>duty of
+care, the fraud of Mr Al Sanea is not to be attributed to the company. However,
+even if it were, for the reasons given earlier, none of the defences advanced
+by Daiwa would succeed.</a></p><a name="para38">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In reaching this conclusion in such short order, I mean no disrespect to
+the lengthy arguments of counsel or to the impressive judgments in the courts
+below. But Mr Crow was correct to say that this case is bristling with
+simplicity. A company with a substantial business traded for some years and ran
+up debts in doing so. It also had a substantial sum of money standing to its
+credit, as a result of its legitimate business activities, with its
+broker-bankers. When it appeared that the company was running into
+difficulties, its “directing mind” and sole shareholder fraudulently deprived
+the company of that money by directing Daiwa to pay it away. Daiwa should have
+realised that something suspicious was going on and suspended payment until it
+had made reasonable enquiries to satisfy itself that the payments were properly
+to be made. The company (and through the company its creditors) has been the
+victim of Daiwa’s negligence.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal should be dismissed and the judge’s order should stand.</a></p><a name="para40">
+
+</a></div><a name="para40">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/50.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

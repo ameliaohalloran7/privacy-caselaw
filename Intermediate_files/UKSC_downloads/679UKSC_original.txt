@@ -1,0 +1,1984 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Tillman v Egon Zehnder Ltd [2019] UKSC 32 (3 July 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Tillman v Egon Zehnder Ltd [2019] UKSC 32 (3 July 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/32.html</i>
+<br>Cite as: 
+[2020] 1 All ER 477,
+
+[2019] UKSC 32,
+
+[2019] ICR 1223,
+
+[2019] 2 BCLC 143,
+
+[2019] FSR 39,
+
+[2020] AC 154,
+
+[2019] WLR(D) 395,
+
+[2019] IRLR 838,
+
+[2019] 3 WLR 245
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/32.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016097560/casereport_7fbfb2b5-1671-472a-b6f9-3f9df58f419c/html">[2020] AC 154</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016097560/casereport_c93eeaa2-ef26-4f0b-921c-fecafc4ee404/html">[2019] ICR 1223</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016097560/casereport_39240a8a-5256-4c8a-ad69-0175a97a1d33/html">[2019] WLR(D) 395</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016097560/casereport_6bd7fe71-35f9-4d39-b89b-09dfb4959bff/html">[2019] 3 WLR 245</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/32.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 32</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/1054.html">[2017] EWCA Civ 1054</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Tillman
+  (Respondent) <i>v</i> Egon Zehnder Ltd (Appellant)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Arden</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">3 July 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 21 and 22 January 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">James Laddie QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Daniel Oudkerk QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Adam Solomon QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Amy Rogers</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Reynolds
+  Porter Chamberlain LLP (London))</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Simmons
+  &amp; Simmons LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="NewSpeech">LORD WILSON:<span style="text-transform:none"> (with whom Lady
+Hale, Lord Kerr, Lord Briggs and Lady Arden agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A company employs a business executive pursuant to a written agreement.
+Following the termination of her employment she wishes to become employed by a
+firm whose business is in competition with that of the company. The company
+contends that her proposed employment would breach a covenant in the agreement.
+She answers that the covenant is void at common law because part of it is in
+unreasonable restraint of trade. Before this court the company replies with
+three contentions, each of which she disputes.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Each of the company’s contentions raises an issue with a different
+hypothesis, as follows:</a></p><a name="para2">
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The hypothesis in
+Issue (A) is that the employee’s construction of the part of the covenant
+alleged to be in unreasonable restraint of trade is correct. Here the company
+contends that the impugned part falls outside the doctrine against restraint of
+trade (“the doctrine”) and that it is therefore irrelevant that, had it fallen
+within the doctrine, it would have been in unreasonable restraint of it.</p>
+
+</a><p class="ParaLevel2"><a name="para2">(B)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The hypothesis in Issue (B) is </a><a name="_Hlk1552721">that the employee’s construction of the impugned part is
+incorre</a>ct. Here the company contends that, upon a correct construction of
+it, it is not in unreasonable restraint of trade.</p>
+
+<p class="ParaLevel2">(C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The hypothesis in Issue (C) is that, as in Issue
+(A), the employee’s construction of the impugned part is correct; but that,
+contrary to the company’s contention in Issue (A), it does fall within the
+doctrine. Here the company contends that, although it is in unreasonable
+restraint of trade, the impugned part should be severed and removed from the
+remainder of the covenant, which would therefore survive so as to prohibit the
+employee’s entry into the proposed employment.</p>
+
+<p class="ParaNoNumber">One can argue that Issue (B) is logically anterior to
+Issue (A). But, since Issue (A) purports to test the very boundaries of the
+doctrine, a balance of convenience favours consideration of it first.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I will explain why in my opinion the most difficult and important issue
+raised in the appeal is Issue (C): when part of a post-employment covenant is
+in unreasonable restraint of trade, in what circumstances should the court
+sever and remove it so as to leave the employee bound by the remainder of it?</a></p><a name="para3">
+
+<p class="ParaHeading">The Facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Egon Zehnder Ltd (“the company”), the appellant, is the UK subsidiary of
+a Swiss company and part of a worldwide group which is in the business of
+specialist executive search and recruitment. The group has nine practice areas
+into one of which it will place each of its recruiting customers.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Tillman, the respondent, had previously been employed by J P Morgan
+as European Managing Director. The company considered that she would be ideally
+placed in the financial services practice area of its business. It employed her
+as a consultant, with effect from 5 January 2004, pursuant to the terms of an
+employment agreement dated 10 December 2003. It agreed to pay her a salary of
+£120,000 pa and, at the end of the first year, a bonus of £100,000 provided
+that she then remained in its employment. Mann J, at first instance, observed
+that the company regarded Ms Tillman as “a bit special” and that it expected to
+promote her. It duly promoted her to be a principal in 2006 and to be a partner
+in 2009. A condition of her becoming a partner was that she should hold shares
+in the Swiss holding company; and she began to do so. In 2012 she became joint
+global head of the company’s financial services practice area. The agreement
+made in 2003 was never replaced in order to reflect her promotions although no
+doubt a few of its terms, in particular relating to her remuneration, then
+changed. In any event, however, resolution of the issues raised by the appeal
+requires the court to address the terms of the original agreement.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Clause 13 of the agreement was entitled “COVENANTS” and it provided for
+five restraints upon the activities of Ms Tillman following the end of her
+employment, all limited to the six months which would immediately follow it. By
+the first, in clause 13.1, she covenanted not to endeavour to entice away from
+the company any of its employees in specified senior positions.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The other four restraints were included in clause 13.2. Its introductory
+words, arguably relevant to Issue (B), are as follows:</a></p><a name="para7">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“You [Ms Tillman] shall not
+without the prior written consent of the company directly or indirectly, either
+alone or jointly with or on behalf of any third party and whether as principal,
+manager, employee, contractor, consultant, agent or otherwise howsoever …”</p>
+
+<p class="ParaNoNumber">By the first of the other four restraints, set out in
+clause 13.2.1, Ms Tillman covenanted not to solicit the custom of, nor to deal
+with, specified suppliers of services to the company. By the second, set out in
+clause 13.2.2, she covenanted not to seek to interfere with supplies to the
+company. By the fourth, set out in clause 13.2.4, she covenanted not to use any
+name likely to be confused with any name recently used by the company.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third of the restraints in clause 13.2, set out in clause 13.2.3, is
+central to all the issues in the appeal. There Ms Tillman covenanted that she
+would not</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“directly or indirectly engage or
+be concerned or interested in any business carried on in competition with any
+of the businesses of the Company or any Group Company which were carried on at
+the Termination Date or during the period of 12 months prior to that date and
+with which you were materially concerned during such period.”</p>
+
+<p class="ParaNoNumber">I will refer to this as “the non-competition covenant”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By clause 13.3, Ms Tillman acknowledged that the provisions of clause 13
+were fair, reasonable and necessary to protect the goodwill and interests of
+the company. Clause 13.4 provided:</a></p><a name="para9">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If any of the restrictions or
+obligations contained in this clause 13 is held not to be valid as going beyond
+what is reasonable for the protection of the goodwill and interest of the
+Company … but would be valid if part of the wording were deleted, then such
+restriction or obligation shall apply with such modifications as may be
+necessary to make it enforceable.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As I will explain, the question raised in Issue (B) relates to whether
+the word “interested” in clause 13.2.3 purports to prohibit Ms Tillman from
+holding any shares in a company conducting business in competition with such
+businesses there specified as were conducted within the company’s group. To
+that question an earlier clause of the agreement, casting a restraint upon her
+during the period of her employment, is arguably relevant:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“4.5.&nbsp;&nbsp;&nbsp; You shall not, during the
+course of your employment, directly or indirectly, hold or have any interest
+in, any shares or other securities in any company whose business is carried on
+in competition with any business of the Company …, except that you may hold or
+have an interest in, for investment only, shares or other securities in a
+publicly quoted company of up to a maximum of 5% of the total equity in issue
+of that company.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 30 January 2017 Ms Tillman’s employment by the company came to an
+end. Shortly thereafter she informed it that she intended to start work, on (as
+she later added) 1 May 2017, as an employee of a firm which was in competition
+with the company. She made clear that she intended fully to comply with all her
+covenants in the agreement apart from that in clause 13.2.3. She conceded that,
+by its terms, this last clause prevented her entry into the proposed employment
+but alleged that it was in unreasonable restraint of trade and therefore void.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 10 April 2017 the company issued proceedings in which it applied for
+an interim injunction to restrain Ms Tillman’s entry into the proposed
+employment. On the undertaking of the company to compensate her in damages if
+the court were later to hold it not to be entitled to the injunction, she
+undertook not to enter into the proposed employment until the court had
+determined the application.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The lower courts were impressively accommodating to the fact that the
+issue related to a covenant which on any view had no effect beyond 30 July
+2017. On 15 and 16 May 2017 Mann J heard the company’s application and on 23
+May he delivered a substantial judgment in which he granted the injunction:
+</a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2017/1278.html">[2017] EWHC 1278 (Ch)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2017/1278.html">[2017] IRLR 828</a>. On 11 July the Court of Appeal heard Ms
+Tillman’s expedited appeal and on 21 July, by a judgment delivered by Longmore
+LJ with which Patten and Sales LJJ agreed, it upheld it, set aside the
+injunction and dismissed the company’s claim: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/1054.html">[2017] EWCA Civ 1054</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/1054.html">[2018] ICR 574</a>. It is against the Court of Appeal’s order that the company brings the
+present appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The temporal limitation of the dispute and therefore the reality that
+determination of the company’s application would dispose of the whole claim
+also led the parties to agree, and Mann J to accept, that the grant of the
+injunction should depend on a closer inquiry into the merits of the company’s
+claim than whether it merely raised “a serious question” apt to the conventional
+determination of an application for an interim injunction: <i>NWL Ltd v Woods</i>
+[1979] 1 WLR 1294.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By her Defence, Ms Tillman alleged that the non-competition covenant
+exceeded the company’s need to protect its legitimate interests, and was
+therefore void, for no less than five different reasons. But, by the time of
+the hearing before Mann J, the substantial focus was on one argument alone. It
+was that the effect of the part of the non-competition covenant not to be
+“interested” in any of the competing businesses there specified was
+unreasonably to prohibit her from holding even a minority shareholding in such
+a business. She did not allege that she aspired to hold any shares in the
+business which proposed to employ her or in any other of the competing
+businesses there specified; but such was agreed to be irrelevant. The company’s
+response to her argument was</a></p><a name="para15">
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to dispute that, on
+its proper construction, the covenant prohibited her from holding even a
+minority shareholding in any of the competing businesses there specified; and</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to concede that, if,
+contrary to (a), the covenant did prohibit her from doing so, the whole of it
+was in unreasonable restraint of trade but to contend that a word or words
+(which the judge took to be the words “or interested”) should be severed and
+removed from the remainder of the clause, with the result that she would remain
+prohibited from entering into the proposed employment.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mann J upheld the company’s response at (a) above. He so construed the
+word “interested” in the non-competition covenant as not to prohibit Ms Tillman
+from holding shares in any of the competing businesses there specified. He
+therefore had no need to address what he took to be the company’s alternative
+contention that, together of course with the word “or”, the word should be
+severed and removed from the remainder of the clause; he added however that,
+although it had not been developed at any length, he did not find that
+contention appealing.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In upholding Ms Tillman’s appeal, the Court of Appeal rejected the
+construction placed by Mann J upon the word “interested” in the non-competition
+covenant. It held that its effect would be to prohibit Ms Tillman from holding
+even a minority shareholding in any of the competing businesses there specified
+and that, as such, the covenant was in unreasonable restraint of trade; and it
+refused to sever the word from the remainder of the clause so as to save the
+remainder of the prohibition.</a></p><a name="para17">
+
+<p class="ParaHeading">Issue (A): The Doctrine</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The hypothesis here is that Ms Tillman is correct to construe the word
+“interested” in the non-competition covenant as purporting to prohibit her from
+holding any shares, however small a proportion of those issued, in a company
+conducting business in competition with such of the businesses of the group as
+are there specified. On that hypothesis the company concedes that, if the
+doctrine applied to it, the prohibition reflected in that word, in particular
+by excluding the sort of minor shareholding which was permitted to Ms Tillman
+during her employment, would exceed any necessary protection of its interests;
+that it would therefore be in unreasonable restraint of trade; and that the
+word would accordingly need to be severed and removed from the remainder in
+order to justify the injunction sought. But the company contends that the
+doctrine does not apply at all to a prohibition against holding shares. Not
+every post-employment restriction agreed in a contract of employment will, says
+the company, restrain trade. It seeks to make its point by reference to an extreme
+example: what if (it asks) Ms Tillman had there agreed not to play mah-jong for
+six months following the end of her employment?</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The company did not raise Issue (A) in either of the courts below.
+Wrongly, as I will suggest, it considered that the doctrine of precedent would
+have obliged both of them to reject its contention which the issue reflects.
+The company seems to have had in mind in particular the decision of the Court
+of Appeal in <i>Scully UK Ltd v Lee</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1998/188.html">[1998] IRLR 259</a>. An employee had
+covenanted that throughout the year following termination he would not engage
+in or be “otherwise interested in, whether as a shareholder … employee or … in
+any other capacity” any business, which was defined in terms not limited to the
+employer’s competitors. The trial judge held that the prohibition against
+shareholding on the part of the employee was too wide because it would catch
+even a small holding but that it should be severed and removed and that the
+remainder should be enforced against him. The Court of Appeal took no issue
+with the judge’s objection to the prohibition against shareholding but upheld
+the employee’s appeal on the basis that there were other unreasonable features
+of the covenant incapable of severance.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It seems clear therefore that in the <i>Scully UK</i> case both courts
+were making an assumption, rather than reaching a focussed determination, that
+the word “interested” not only represented a prohibition against holding shares
+but also fell within the doctrine. The same can be said of the decision in <i>Geo
+Hill and Co v Hill</i> (1886) 55 LT 769. The claimant company acquired the meat
+export business of the defendant, who covenanted not to “be in any way
+concerned or interested in any similar business” within ten miles of the Royal
+Exchange. He became an employee of a similar business within that radius. The
+judge held that it was unnecessary to decide whether he was “interested in” the
+business, which, the judge added, meant in commercial language “entitled to
+profits”, because on any view he was “concerned” in it; and that the covenant
+should be enforced against him.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>When a court makes an assumption about the law, instead of reaching a
+focussed determination in relation to it, the decision based upon it does not
+carry binding authority under the doctrine of precedent: <i>National
+Enterprises Ltd v Racal Communications Ltd </i>[1975] Ch 397, 406 to 408. But,
+notwithstanding the absence of a decision on Issue (A) which could have been
+sought in the courts below, this court has granted permission to the company to
+raise it and it must therefore receive a focussed determination.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The doctrine is one of the earliest products of the common law. It
+epitomises the nation which developed it: a nation which has ascribed central
+importance to the freedom of all of us to work - in the interests both of the
+self-sufficiency of ourselves and our families and of our common prosperity.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Dyer’s</i> case, 2 Hen 5, f 5, pl 26, 1414, John Dyer, a dyer, was
+sued in the Court of Common Pleas for breach of a condition in an indenture
+that he would not work as a dyer for six months. He contended that he had not
+broken the condition but Justice Hull observed that he should have taken a
+wider point, namely that the obligation was void. “By God,” added the judge,
+“if the plaintiff was here, he would go to prison until he paid a fine to the
+King.” Two hundred years later the invalidity of restraints of trade remained
+unqualified. In <i>Colgate v Bacheler</i> (1601) Cro Eliz 872, the defendant
+agreed that, if for three years his son worked as a haberdasher in Canterbury
+or Rochester, he would pay the plaintiff £20. The court held the agreement to
+be void irrespective of its limitations of time and place because it was
+against the benefit of the commonwealth and because the defendant’s son ought
+not to have been abridged of his trade and living.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But in the 17th century the absolute nature of the right of the
+ex-employee or vendor of a business to work or trade elsewhere irrespective of
+his covenant began to be tempered. For paradoxically the doctrine against restraint
+of trade was positively inhibiting trade. In <i>Nordenfelt v The Maxim
+Nordenfelt Guns and Ammunition Co Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1894/52.html">[1894] AC 535</a>, 564, Lord Macnaghten
+explained:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… it was found that a rule so
+rigid and far-reaching must seriously interfere with transactions of every-day
+occurrence. Traders could hardly venture to let their shops out of their own
+hands; the purchaser of a business was at the mercy of the seller; every
+apprentice was a possible rival. So the rule was relaxed.”</p>
+
+<p class="ParaNoNumber">The law came to recognise that the employer or the
+purchaser of a business had legitimate interests which might justify his
+placing limited restrictions on his employee or vendor.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 1711 Chief Justice Parker, later Lord Macclesfield, gave the seminal
+judgment of the Court of Queen’s Bench in <i>Mitchel v Reynolds</i>. The
+immaculate report of it is at (1711) 1 P Wms 181 and any study of the
+contribution made by law reporters to the development of our law would do well
+to include it. The defendant had assigned to a purchaser the lease of a bakery
+in Holborn for five years and had entered into a bond with him not to trade as
+a baker elsewhere in Holborn for that period. Lord Macclesfield held</a></p><a name="para25">
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at p 192 that all
+restraints of trade were presumed to be bad but that the presumption was rebuttable;</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at p 193 that Judge
+Hull’s vehemence towards them had been excusable but not his manner of
+expressing it;</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at p 191 that a
+restraint of trade throughout England would always be bad (“for what does it
+signify to a tradesman in London what another does at Newcastle?”); but</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at p 197 that this
+baker’s bond, limited to Holborn and to the five years of the assignment, was
+reasonable and should be enforced.</p>
+
+<p class="ParaNoNumber">Thus was the concept of reasonableness authoritatively
+grafted on to the doctrine by way of modification of it.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Based as it is on public policy, the doctrine has regularly had to
+adjust to social change. The need for adjustment is well exemplified by the
+decision of the appellate committee of the House of Lords in the <i>Nordenfelt</i>
+case cited in para 24 above. The appellant, who had been a manufacturer of guns
+and ammunition, had covenanted with the respondent, which had taken over his
+business, not to engage in manufacture of them anywhere in the world for 25
+years. The committee held that, notwithstanding its width, the covenant was
+reasonable and so enforceable against him. Lord Herschell, the Lord Chancellor,
+explained at p 547 that changed conditions of commerce and of the means of
+communication meant that Lord Macclesfield’s reference to the irrelevance to a
+London trader of similar trade in Newcastle was out of date; and that what
+would once have been “merely a burden on the covenantor may now be essential if
+there is to be reasonable protection to the covenantee”. Lord Watson observed at
+p 555 that there had been a protracted struggle between the principle of
+freedom of contract and the doctrine and that the latter had had the worse of
+the encounter, particularly in courts of equity. Lord Macnaghten held at p 565
+that there was a general rule that restraints of trade were void but that there
+was an exception to the rule where the restriction was reasonable by reference
+to the interests of both parties and of the public. You cannot, so he observed
+at p 572 in relation to a vendor’s covenant, sell the cow and sup the milk.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Herbert Morris Ltd v Saxelby</i> [1916] 1 AC 688 the members of
+the appellate committee all stressed that different considerations applied to
+restraints on a vendor of a business from those which applied to restraints on
+an ex-employee; that, as Lord Atkinson said at p 701, the purchaser of a
+business had paid for its goodwill, including for the vendor’s covenant which
+protected and enhanced it; that, as Lord Shaw of Dunfermline said at p 714, an
+employer was entitled to reasonable protection against dissemination of his
+trade secrets or solicitation of his customers, in other words against misuse
+of his property, but not directly against the employee’s use of his skill and
+his manual or mental ability, which were the employee’s own property; and that,
+as Lord Shaw added at p 716, a delicate balance was always required between
+freedom of trade and freedom of contract.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>During the last century questions arose about the width of the doctrine,
+in particular whether it extended beyond contracts of employment and for sale
+of a business. Did it apply to a contract in which I agree to buy specified
+goods only from you? Or to sell specified goods only to you? Or to sell to
+others specified goods bought only from you? An early example was <i>Servais
+Bouchard v The Prince’s-Hall Restaurant (Ltd)</i> (1904) 20 TLR 574. A
+restaurant in Piccadilly had contracted with a supplier of burgundy not to sell
+burgundy to its customers other than such as it had purchased from the
+supplier. The restaurant broke the contract and the Court of Appeal held that
+the supplier was entitled to enforce it. Sir Richard Henn Collins, the Master
+of the Rolls, held that the contract fell outside the doctrine; the other
+members of the court apparently held instead that, albeit within the doctrine,
+the restraint was reasonable. Later decisions demonstrated a similar slide into
+a verdict in relation to reasonableness in preference to an attempt to discern
+the boundaries of the doctrine: <i>Dickson v</i> <i>Pharmaceutical Society of
+Great Britain</i> [1970] AC 403, 431.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The outer reaches of the doctrine were, however, more fully explored,
+albeit with obvious difficulty, by the appellate committee in <i>Esso Petroleum
+Co Ltd v Harper’s Garage (Stourport) Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1967/1.html">[1968] AC 269</a>. The garage company
+had entered into “solus” agreements with Esso to sell petrol bought only from
+Esso at two of its filling-stations and to do so at one of them for in effect
+five years and at the other for 21 years. The committee held that, on balance,
+both contracts fell within the doctrine and that, while the agreement for the shorter
+period was reasonable and enforceable against the garage, the other was
+unreasonable and unenforceable. Lord Reid noted at p 294 that a contract under
+which a person agreed to work exclusively for another fell outside the doctrine
+although it detracted from his freedom to work as he pleased; and at p 298 that
+a restrictive covenant upon land which prohibited its use for trading fell
+outside the doctrine because the purchaser of the land who became subject to it
+was not surrendering any freedom to trade there which he had previously
+enjoyed. Lord Pearce observed at p 325 that, for the same reason, a contract
+under which a publican took a lease from a brewer of a tied public house fell
+outside the doctrine; but that the garage company, by contrast, already ran the
+filling-stations when it accepted Esso’s restrictions. He added at p 328 that
+it was “the sterilising of a man’s capacity for work and not its absorption
+that underlay the objection to restraint of trade”; and he cited <i>Warner
+Brothers Pictures, Inc v Nelson</i> [1937] 1 KB 209, in which the contract by
+which Miss Bette Davis had agreed not to work otherwise than for the claimant
+for one year was enforced against her. Lord Wilberforce, at pp 333 to 335,
+favoured a pragmatic analysis under which restrictive covenants on land and
+tied public houses, having long been accepted to fall outside the doctrine,
+must for that reason be taken to have satisfied the demands of public policy on
+which the doctrine rested.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my view the resolution of Issue (A) does not require any closer study
+of the boundaries of the doctrine. For the contract in the present case is of
+the classic type between employer and employee and, as is agreed, it does
+provide for a restraint of trade which falls within the doctrine and which is
+therefore void unless reasonable. The only question under Issue (A) is whether
+an assumed prohibition against holding shares forms part of the restraint. In
+this regard assistance is to be derived from the decision of the Court of
+Appeal in <i>Proactive Sports Management Ltd v Rooney </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2011/1444.html">[2011] EWCA Civ 1444</a>,
+[2012] IRLR 241. Wayne Rooney set up a company to which he assigned his image
+rights, in other words his rights to exploit his image by, for example, his
+indorsement of sports products and by other forms of promotion and sponsorship.
+His company contracted with the claimant to act as its agent in negotiating
+contracts for the exploitation of his image. His company breached the contract
+and, when sued by the claimant, it contended that the contract fell within the
+doctrine. The claimant disputed that it did so but accepted the trial judge’s
+conclusion that, if it did so, its terms were in unreasonable restraint of
+trade and unenforceable, albeit that it was entitled to a restitutionary
+remedy. At para 67 my lady, then Arden LJ, recorded the claimant’s submission
+that Wayne Rooney’s “trade” was as a footballer and that exploitation of his
+image rights formed no part of it. She held however at paras 92 and 93 that,
+although his business of exploiting his image rights was ancillary to, and
+indeed dependent on, his primary occupation of playing football, it fell within
+the doctrine. The other members of the court agreed. Gross LJ added at para 153
+that Wayne Rooney’s activities on-field and, in exploiting his image rights,
+off-field were both part of a single trade; and at para 155 that the court
+should adopt a “broad, practical, rule of reason approach” to determining the
+applicability of the doctrine. It is an approach which this court should also
+adopt.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In Issue (A) the company contends that the word “interested” in the
+non-competition covenant falls outside the doctrine but concedes that the
+remainder of the covenant falls within it. It is a curious proposition, namely
+that the restraints provided in the rest of the covenant are valid only if
+reasonable but that the restraint provided by that word is valid although
+unreasonable. The company cites no authority in which a particular word in a
+covenant which substantially falls within the doctrine has been held to fall
+outside it. The covenant was cast in terms which, no doubt on advice, the
+company considered that it could justify as reasonable for the purposes of the
+doctrine; and among these terms was one which, for the purposes of Issue (A),
+we are to construe as prohibiting Ms Tillman from holding any shares in the
+specified businesses.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By clause 13.3 Ms Tillman acknowledged “that the provisions of this
+clause 13 are fair and reasonable”. The acknowledgement is hard to explain
+unless the law required them - all of them - to be fair and reasonable. A
+similar conclusion is to be derived, even more clearly, from clause 13.4, set
+out in para 9 above. It provided that, were any restriction in clause 13 to be
+held invalid as exceeding what was reasonable for the protection of the
+company’s interest, it should be severed and the balance of the restriction
+should remain enforceable. Subclause (4) represents a clear acknowledgement
+that all the restraints in subclauses (1) and (2) fall within the doctrine.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nor is it in any way surprising that, in seeking to protect itself
+against competing activity on the part of Ms Tillman in the immediate aftermath
+of her employment, the company should have aspired to prohibit her from holding
+shares in the potentially competitive businesses specified in the non-competition
+covenant. Any controlling shareholding on her part would, by definition, enable
+her to direct the competitor’s operations. But even a minority shareholding,
+say a 25% shareholding in a company started up with three others, would enable
+her to influence its operations. And, even more obviously, the employment of a
+top executive such as Ms Tillman is frequently subject to conditions that she
+should hold shares in her employer or be remunerated partly in its shares or in
+options to purchase them. Indeed, as explained in para 5 above, it was a
+condition of her becoming a partner in the company in 2009 that she should hold
+shares in the holding company. In substance as well as in form the restraint on
+shareholding is part of the restraint on Ms Tillman’s ability to work in the
+immediate aftermath of her employment.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The proper determination of Issue (A) is that, on the assumption that
+the word “interested” purports to restrain Ms Tillman from holding shares in
+the specified businesses, it falls within the doctrine.</a></p><a name="para34">
+
+<p class="ParaHeading">Issue (B): Construction</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The company’s argument here is that, when properly construed, the word
+“interested” in the non-competition covenant does not prohibit Ms Tillman from
+holding shares in the businesses there specified; and that accordingly in this
+respect Mann J was right and the Court of Appeal was wrong.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The company concedes that in some contexts a person holding shares in a
+company will properly be described as being “interested” in it. But it
+contends, uncontroversially, that the meaning of the word is informed by its
+context in the agreement as a whole: <i>Wood v Capita Insurance Services Ltd</i>
+</a><a title="Link to BAILII version" href="/uk/cases/UKSC/2017/24.html">[2017] UKSC 24</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/24.html">[2017] AC 1173</a>, para 10. It argues that the word “interested”,
+when considered in the context of its agreement with Ms Tillman as a whole,
+does not cover a shareholding; and that in particular it fails to cover a
+shareholding once the validity principle, as explained below, has been applied
+so as to identify its meaning.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>One might expect the company to have aspired, and reasonably to have
+aspired, to prohibit Ms Tillman from, for example, having a controlling
+interest as a shareholder in a competing company even if she was not working in
+it. But, in relation to this issue, the company cannot have it both ways: it cannot
+sensibly argue that the word “interested” covers a large shareholding but not a
+small shareholding. It is all or nothing. The company contends for nothing.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Better considered without reference to its original formulation in Latin,
+which nowadays few people understand, the validity principle proceeds on the
+premise that the parties to a contract or other instrument will have intended
+it to be valid. It therefore provides that, in circumstances in which a clause
+in their contract is (at this stage to use a word intended only in a general
+sense) capable of having two meanings, one which would result in its being void
+and the other which would result in its being valid, the latter should be
+preferred. In the present appeal, however, the parties are at odds about the
+specific circumstances in which the principle is engaged. Is it engaged only
+when the two meanings are equally plausible or is it also engaged even when the
+meaning which would result in validity is to some extent less plausible?</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>In re Baden’s Deed Trusts</i> [1969] 2 Ch 388 the Court of Appeal,
+by a majority, determined the meaning of a deed of settlement by reference to
+the validity principle. Harman LJ said at p 400:</a></p><a name="para39">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the court is at liberty, if the
+considerations on both sides seem <i>evenly balanced</i>, to lean towards that
+which may effectuate rather than frustrate the settlor’s intentions … I by no
+means hold that the court may take this course by flying in the teeth of the
+provisions of the deed, so that the weaker view may prevail because it is
+likely to have an effectual result, but where the terms of the deed produced a
+balance so even as the present I am of opinion that the doctrine may be called
+in aid.” (italics supplied)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To say that rival meanings are evenly balanced is to say that they are
+equally plausible. Thus, in The Interpretation of Contracts, 6th ed, 2015, Sir
+Kim Lewison offers the following proposition at the head of chapter 7, section
+16:</a></p><a name="para40">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Where two interpretations of an
+instrument are <i>equally plausible</i>, upon one of which the instrument is
+valid, and upon the other of which it is invalid, the court should lean towards
+that interpretation which validates the instrument.” (italics supplied)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Others, however, have taken a wider view of the circumstances in which
+the principle is engaged. In the text of section 16 Sir Kim quotes an
+observation made by my Lady, then Arden LJ, in <i>Anglo Continental Educational
+Group (GB) Ltd v Capital Homes (Southern) Ltd</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2009/218.html">[2009] EWCA Civ 218</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2009/218.html">[2009] CP Rep 30</a>, para 13, that “if the agreement is <i>susceptible</i> of an
+interpretation which will make it enforceable and effective, the court will
+prefer that interpretation to any interpretation which would result in its
+being void” (italics supplied). And in <i>TFS Derivatives Ltd v Morgan</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2004/3181.html">[2004] EWHC 3181 (QB)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2004/3181.html">[2005] IRLR 246</a>, Cox J suggested at para 43 that the
+principle applied if there was an<i> element of ambiguity</i> about the meaning
+of a covenant. It was her approach which, in the present case, Mann J adopted
+at paras 32 and 43.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my view the point at which the validity principle is engaged lies
+between these various descriptions of it. To require a measure of equal
+plausibility of the rival meanings is to make unnecessary demands on the court
+and to set access to the principle too narrowly; but, on the other hand, to
+apply it whenever an element of ambiguity exists is to countenance too great a
+departure from the otherwise probable meaning. In <i>Inland Revenue Comrs v
+Williams</i> [1969] 1 WLR 1197, which related to the meaning of a clause in a
+deed of appointment, Megarry J adverted at p 1201 to the reference by Harman LJ
+in the <i>Baden’s Deed Trusts</i> case to the need for an even balance and
+added:</a></p><a name="para42">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is possible that the same
+approach might be adopted where the scales are tilted only slightly to one side
+or the other; but plainly it cannot apply where, apart from the effect of the
+rule against perpetuities or some other sources of invalidity, the court
+reaches the conclusion that one construction is clearly preferable to the other
+… the right view may well be that, before the doctrine can apply, the court
+must be left in a state of real and persistent uncertainty of mind.”</p>
+
+</a><p class="ParaNoNumber"><a name="para42">In <i>Great Estates Group Ltd v Digby</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2011/1120.html">[2011] EWCA Civ 1120</a>, [2012] 2 All ER (Comm) 361, Toulson LJ explained that, if the contract
+was “capable” of being read in two ways, the meaning which would result in
+validity might be upheld “even if it is the less natural construction”. And in <i>Tindall
+Cobham 1 Ltd v Adda Hotels</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/1215.html">[2014] EWCA Civ 1215</a>, [2015] 1 P &amp; CR 5,
+Patten LJ, with whom the other members of the court agreed, observed at para 32
+that the search was for a “realistic” alternative construction which might
+engage the principle. In my view Megarry J, Toulson LJ and Patten LJ were
+identifying the point at which the principle is engaged in much the same place.
+Let us work with Patten LJ’s adjective: let us require the alternative
+construction to be realistic.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In its need to set up a realistic construction of the word “interested”,
+alternative to a construction which relates it to a shareholding, the company
+adverts to three features of the context of the word in the agreement as a
+whole.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first is the content of clause 4.5, set out in para 10 above. For
+the duration of her employment, it expressly prohibited Ms Tillman from holding
+shares in specified businesses except for a holding of up to 5% of issued
+shares in a publicly quoted company. So the company argues that, when in their
+agreement it and Ms Tillman wanted to address her holding of shares, they did
+so expressly; and that it would be anomalous that, having acknowledged her
+freedom to hold a limited number and type of shares in specified businesses
+during her employment, they should have agreed that she should be prohibited
+from doing so in the immediate aftermath of her employment by their use of the
+word “interested”, which of course stands unqualified in the non-competition
+covenant. This argument found favour with Mann J, who held that it would be
+right to adopt a construction which did not give rise to this anomaly.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second feature relates to the introductory words of clause 13.2, set
+out in para 7 above. There the company and Ms Tillman set out the different
+types of status in which she was to be subject to the restraints which
+followed, namely “as principal, manager, employee, contractor, consultant,
+agent or otherwise howsoever”. Notwithstanding (says the company) the catch-all
+words at the end, the significance of the list is that it could so easily have
+included the word “shareholder” if the restraint in the non-competition
+covenant had been intended to prohibit Ms Tillman from holding shares.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third feature relates to the direct link in the non-competition
+covenant between the word “interested” and the words “in any business”.
+Interest in a <i>business</i>, submits the company, connotes active interest in
+it and is to be contrasted with the passive interest of a shareholder in a <i>company</i>.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the first and third features the company claims to derive
+valuable support from the decision of Foskett J in <i>Tradition Financial
+Services Ltd v Gamberoni</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2017/768.html">[2017] EWHC 768 (QB)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2017/768.html">[2017] IRLR 698</a>. There the
+post-employment restrictions on the employee were in somewhat similar terms to
+those in the present case and included a covenant on his part not for six
+months to “undertake, carry on or be employed, engaged or interested in any
+capacity in … any business activity” of a specified character. Among the
+employee’s various contentions that the restrictions were in unreasonable
+restraint of trade was a contention, identical to that reflected in Issue (B),
+that the word “interested” disabled him from holding even a small quantity of
+shares in companies of the specified character.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48">48.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In response the employer in the <i>Tradition Financial Services</i> case
+adverted to two features of the contract, identical to the first and third
+features to which the company adverts in the present case. Thus, as Foskett J
+explained in para 127 of his judgment, the employer relied on an earlier clause
+of the contract under which during his employment the employee had been
+permitted to hold small amounts of shares, even apparently in competing
+companies. This was the foundation of the employer’s primary argument, which
+the judge described as follows and which he accepted:</a></p><a name="para48">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“it cannot sensibly have been
+intended that [the employee] should be subject to a more onerous restriction as
+to shareholdings after his employment had terminated than whilst still an
+employee, particularly if it is suggested that the more onerous obligation is
+created by a clause that makes no express reference to shareholdings at all. In
+other words, whatever ‘interested in any capacity ... in any business activity’
+means, it cannot be a reference to a shareholding.”</p>
+
+<p class="ParaNoNumber">Indeed, as Foskett J explained in para 128, the employer
+also relied on the fact that the covenant prohibited the employee from being
+interested in a “business activity” and it argued that passive investment by
+way of a minority shareholding was not a “business activity”. The judge
+explained that he gave less weight to this argument but that, when added to the
+employer’s primary argument, it supported his conclusion that the word
+“interested” did not cover a shareholding.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The trouble is that, without expressly acknowledging it, Foskett J,
+whose opinion is on any view entitled to considerable respect, was there
+departing from the obvious natural meaning of the word “interested”, such as
+had been recognised in our law for more than a century without dissent.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Smith v Hancock</i> </a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1894/62.html">[1894] 2 Ch 377</a> the defendant sold his grocery
+business near Stoke-on-Trent to the claimant and agreed not for the following
+ten years to carry on or be “in any wise interested” in any similar business
+operating within five miles of it. The defendant’s wife set up a grocery within
+those parameters. In the Court of Appeal Lindley LJ held at p 386 that the word
+“interested” meant a proprietary or pecuniary interest and that it did not
+extend to the “indirect interest which every man has in the happiness and
+welfare of his wife”. He and A L Smith LJ both reluctantly held that, on the
+judge’s findings, the defendant was not “interested” in his wife’s business. In
+<i>Gophir Diamond Co v Wood</i> <a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1902/80.html">[1902] 1 Ch 950</a> the ex-employee of a jewellery
+shop in Regent Street had become a salaried employee of a rival shop in the
+same street. Swinfen Eady J noted at p 952 that his covenant had only been not
+to be “interested” in a similar business; and the judge added, intriguingly for
+present purposes, that in that regard the covenant had materially departed from
+the common form in the then current edition of Palmer’s Company Precedents that
+the covenantor should not be “engaged or concerned or interested” in a similar
+business. He held that, since his remuneration had in no way depended on the
+profits of the rival shop, the ex-employee was not in breach of his covenant.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51">51.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It does seem that the phrase “engaged or concerned or interested”,
+adopted in the non-competition covenant in the present case, has been included
+in standard precedents for the drafting of non-competition covenants throughout
+the last century. It has popped up frequently in the reported cases, including
+in <i>CEF Holdings Ltd v Mundey</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2012/1524.html">[2012] EWHC 1524 (QB)</a>, [2012] IRLR 912.
+Silber J there held that for various reasons the non-competition covenant was
+in unreasonable restraint of trade. One of his reasons, set out in para 65(i),
+was that “[i]ts width is so great that it prevents any employees from having
+‘any interest’ in [a competing] company, such as even owning one share in a
+publicly-quoted company”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52">52.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The company’s alternative construction of the word “interested” needs to
+be realistic. What is its proposed construction? At the hearing Lady Hale
+inquired about it. Even Mr Laddie QC on behalf of the company struggled to find
+an answer. He suggested that the word might be casual surplusage. Is that good
+enough? What was the construction placed on the word by Foskett J in the <i>Tradition
+Financial Services </i>case? As set out in para 48 above, he did no more than
+to adopt the employer’s submission that, whatever it meant, it did not refer to
+shareholding. Was that good enough?</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The proper determination of Issue (B) is that the natural construction
+of the word “interested”, consistent with long-standing authority, is that it
+covers a shareholding; that the three features of the present agreement on
+which the company relies are insufficient to require a different construction
+to be placed on the word, when found in clause 13.2.3; that the company fails
+to establish even a realistic alternative construction of it which would engage
+the validation principle; that the word “interested” in the non-competition
+covenant in the present case therefore covers a shareholding, whether large or
+small, and on that basis is, as is conceded, in unreasonable restraint of
+trade; and that, unless it can be severed and removed from the rest of the
+clause, the Court of Appeal was right to set aside the injunction granted
+against Ms Tillman.</a></p><a name="para53">
+
+<p class="ParaHeading">Issue (C): Severance</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Where part of a contract is unenforceable, the enforceability of the
+remainder represents an issue which arises far more widely than in contracts of
+employment. In <i>Carney v Herbert</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1984/1984_43.html">[1985] AC 301</a> the problem was that the
+security for payment of the price, for which a contract for the sale of shares
+had provided, was not only a guarantee but also mortgages which were
+statutorily illegal. The Privy Council indorsed a decision of the Supreme Court
+of New South Wales that the provision for mortgages could be severed and
+removed from the contract, with the result that the guarantee should be
+enforced. Lord Brightman, who delivered the judgment of the Board, observed at
+p 309 that tests for determining severability in certain types of case were not
+always applied satisfactorily in others. But then, with hesitation, he
+suggested at p 317</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“that, as a general rule, where
+parties enter into a lawful contract … and there is an ancillary provision
+which is illegal but exists for the exclusive benefit of the plaintiff, the
+court may and probably will, if the justice of the case so requires, and there
+is no public policy objection, permit the plaintiff … to enforce the contract
+without the illegal provision.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55">55.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear that considerations of public policy drove the evolution of
+the doctrine under common law that post-employment restraints of trade were,
+unless reasonable, void: see paras 23 to 25 above. It is less clear that, until
+the early years of the last century, considerations of public policy also drove
+a more restrictive approach to severance in post-employment restraints of trade
+than was adopted in other areas. Take, for example, <i>Chesman v Nainby</i>
+(1726) 2 Ld Raym 1456. Miss Nainby traded as a draper from her home in Drury
+Lane. Prior to her marriage Mrs Chesman became apprenticed to Miss Nainby. Mrs
+Chesman entered into a bond that, after leaving Miss Nainby’s service, she
+would not trade as a draper, nor assist anyone else to do so, within half a mile
+of Miss Nainby’s home in Drury Lane or of “any other house that [Miss Nainby]
+shall think proper to remove to” and that, in the event of breach, she would
+pay Miss Nainby £100. After leaving Miss Nainby’s service Mrs Chesman assisted
+her husband to trade as a draper elsewhere up Drury Lane. It was held in the
+Court of Common Pleas, and upheld on appeal first by the Court of King’s Bench
+and then by the House of Lords itself in accordance with the opinion of its
+judicial members, that Mrs Chesman owed Miss Nainby £100. Applying the recent
+decision in <i>Mitchel v Reynolds</i> addressed in para 25 above, the court
+accepted that it was unreasonable to seek to restrict Mrs Chesman from trading,
+or continuing to trade, within half a mile of any other house to which Miss
+Nainby might at any stage move, even “in the remotest part of the kingdom”.
+Nevertheless at p 1459 it upheld Miss Nainby’s submission</a></p><a name="para55">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“that if a bond is given, with
+condition to do several things, and some are agreeable to law, and some against
+the common law; the bond shall be good as to the doing the things agreeable to
+law, and only void as to those that are against the law.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Early in the last century, however, a much more restrictive view was
+suddenly taken of the availability of severance in post-employment covenants.
+The reasons of public policy which drove a conclusion that, unless reasonable,
+they were void were adopted and expanded to suggest a further conclusion that,
+where parts of them were unreasonable, not even the reasonable parts should
+usually be enforced.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This further conclusion was most vividly expressed in unlikely
+circumstances. In <i>Mason v Provident Clothing and Supply Co Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1913/37.html">[1913] AC 724</a> the employee had covenanted not to work for any of the employer’s
+competitors “within 25 miles of London”. The appellate committee held that the
+employer had failed to establish that the extension of the restraint to the
+area thus specified was reasonably necessary for its protection and concluded
+that it was therefore void. It is hard to see how on any view the offending
+words could have been severed; and, although the employer apparently argued in
+the alternative for severance, it must have done so briefly for there is no
+mention of it in the report of its counsel’s argument. At all events, at the
+end of his speech, with which no other member of the committee expressed
+agreement, Lord Moulton, at p 745, added the following:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It was suggested in the argument
+that even if the covenant was, as a whole, too wide, the court might enforce
+restrictions which it might consider reasonable (even though they were not
+expressed in the covenant), provided they were within its ambit. My Lords, I do
+not doubt that the court may, and in some cases will, enforce a part of a
+covenant in restraint of trade, even though taken as a whole the covenant
+exceeds what is reasonable. But, in my opinion, that ought only to be done in
+cases where the part so enforceable is clearly severable, and even so only in
+cases where the excess is of trivial importance, or merely technical, and not a
+part of the main purport and substance of the clause. It would in my opinion be
+pessimi exempli if, when an employer had exacted a covenant deliberately framed
+in unreasonably wide terms, the Courts were to come to his assistance and, by applying
+their ingenuity and knowledge of the law, carve out of this void covenant the
+maximum of what he might validly have required. It must be remembered that the
+real sanction at the back of these covenants is the terror and expense of
+litigation, in which the servant is usually at a great disadvantage, in view of
+the longer purse of his master.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58">58.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These passing observations of Lord Moulton were to have an electric
+effect on the law.</a></p><a name="para58">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Within six months of their publication Sargant J was seeking to explain
+part of them away. In <i>SV Nevanas &amp; Co v Walker and Foreman</i> </a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1913/140.html">[1914] 1 Ch 413</a> an employer admitted that the second part of a post-employment covenant
+was void but contended that the first part was valid and, following severance,
+should be enforced. Sargant J held that the first part was also void and so
+dismissed the claim. He was however at pains to say that, had the first part
+been valid, the second part could have been severed and removed from it. He
+said at p 422 that he wished to</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“clear the ground at once from a
+suggestion that, in view of certain remarks of Lord Moulton in the recent case
+of [<i>Mason</i>], this part of the covenant is invalidated, because the
+succeeding part of the covenant … is, admittedly, too wide. I do not think that
+those remarks were intended to be applicable to cases where the two parts of a
+covenant are expressed in such a way as to amount to a clear severance by the
+parties themselves, and as to be substantially equivalent to two separate
+covenants. No question of the kind was involved in the case before the House of
+Lords, and I think that Lord Moulton was not intending to deal with the
+numerous cases of high authority in which the good part of such a covenant was
+held to be enforceable, notwithstanding its collocation with a bad part …”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60">60.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Several months later, however, Lord Moulton’s observations attracted
+outspoken support from Neville J in <i>Goldsoll v Goldman</i> [1914] 2 Ch 608.
+In the event the judge applied the principle of severance to a non-competition
+agreement made between two jewellers in Bond Street; and, later to be
+substantially upheld by the Court of Appeal [1915] 1 Ch 292, he enforced the
+valid part of it by injunction. At the outset of his judgment, however, at pp
+611-612, he had railed against the long-standing modification of the doctrine
+against restraint of trade which rescued a restraint to the extent that it was
+reasonable; indeed he called it a blot on the jurisprudence. Then at p 613 he
+had added:</a></p><a name="para60">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Again I think that the
+application of the doctrine of severability of the terms of a contract in
+restraint of trade has proved mischievous. It seems to me to be in accordance
+both with principle and justice that if a man seeks to restrain another from
+exercising his lawful calling to an extent which the law, even as it now stands,
+deems unreasonable, the contract by which he does so, whether grammatically
+severable or not, should be held to be void in toto. To hold otherwise seems to
+me to expose the covenantor to the almost inevitable risk of litigation which
+in nine cases out of ten he is very ill able to afford …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus was the stage set for the decisions in <i>Attwood v Lamont</i>,
+first of the Divisional Court of the King’s Bench Division, [1920] 2 KB 146,
+and then of the Court of Appeal, [1920] 3 KB 571. The claimant, who carried on
+business in Kidderminster as a draper, tailor and general outfitter, employed
+the defendant as a cutter in the tailoring department. The defendant covenanted
+not at any time thereafter to trade as “a tailor, dressmaker, general draper,
+milliner, hatter, haberdasher, gentlemen’s, ladies’ or children’s outfitter”
+within ten miles of Kidderminster. The defendant left the claimant’s employment
+and set up business as a tailor; and, although he based it more than ten miles
+away, he returned to Kidderminster to obtain and execute tailoring orders
+there, including from the claimant’s former customers.</a></p><a name="para61">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Divisional Court, on appeal from the county court, agreed that the
+list of prohibited trades was too wide but held that the covenant should be
+severed so as to enable the reference to all trades other than that of a tailor
+to be removed and that the defendant should be enjoined from trading as a
+tailor within ten miles of the town. Bailhache J at p 156 held that the
+covenant was clearly severable. He noted that in the <i>Mason</i> case, in
+which on any view the covenant had not been severable, Lord Moulton had added
+that, even if clearly severable, a covenant should not be severed unless the
+excess was trivial or technical. But he, Bailhache J, expressed himself
+satisfied that Lord Moulton’s addition was contrary to authority. Sankey J at
+pp 158-159 made similar remarks.</a></p><a name="para62">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal, reversing the order of the Divisional Court, held
+that the covenant was not severable. But, although its conclusion was
+unanimous, the route taken to it was different. Lord Sterndale MR gave the
+first judgment; but the binding authority of the decision attached to the
+judgment of Younger LJ because it was with his judgment that, without adding
+anything, Atkin LJ agreed.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Sterndale observed at p 577 that the tendency of recent decisions
+had been to limit severability more than previously but that in his view it
+remained the law that severance was available if the parts proposed to be
+severed were independent and if it did not affect the meaning of what was
+proposed to remain. At p 578 he quoted with approval what Sargant J had said in
+the <i>SV Nevanas</i> case, set out in para 59 above; and he suggested that, if
+severance of one part were to leave the remainder of the covenant with a
+meaning different in kind and not only in extent from its previous meaning, the
+parts of the covenant could not be said to be “substantially equivalent” to
+separate covenants. At p 580 he concluded, however, that severance of the list
+of trades would entirely alter the scope and intention of the agreement and so
+failed Sargant J’s test.</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Younger LJ</a></p><a name="para65">
+
+<p class="ParaLevel2">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stated at p 581 that recent decisions of the
+House of Lords had wrought a fundamental change in the approach of the law to
+post-employment restrictions, which were peculiarly susceptible to current
+views of public policy;</p>
+
+<p class="ParaLevel2">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; observed there that the principle of freedom of
+contract still remained operative in contracts between the vendor and purchaser
+of a business;</p>
+
+<p class="ParaNoNumber" style="margin-left:35.45pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; suggested at p 593
+that severance of a covenant was available only where it was “not really a
+single covenant but [was] in effect a combination of several distinct
+covenants”;</p>
+
+<p class="ParaNoNumber" style="margin-left:35.45pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; held there that the
+list of prohibited trades was in effect contained in one covenant because (so
+he reasoned) the claimant himself had only one trade and not several trades;</p>
+
+<p class="ParaNoNumber" style="margin-left:35.45pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; noted there that,
+even if he was wrong to regard the list of trades as contained in one covenant,
+the court should nevertheless decline to sever it;</p>
+
+<p class="ParaNoNumber" style="margin-left:35.45pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; quoted with
+approval at pp 594-595 the observations first of Lord Moulton that severance
+should be confined to the trivial and the technical and then of Neville J in
+the <i>Goldsoll</i> case that a partly unreasonable restraint should make it
+entirely void, even if grammatically severable; and</p>
+
+<p class="ParaNoNumber" style="margin-left:35.45pt">(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; concluded at p 595
+that severance should not generally be allowed.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although, as I will suggest in para 82 below, there were, and remain,
+good reasons of public policy for the law to take a cautious approach to the
+severance of a post-employment restraint, the decision of the majority in the <i>Attwood</i>
+case, founded, as it was, upon the passing observations of Lord Moulton and on
+the hostile approach of Neville J to the whole concept, suddenly made the
+common law fiercely restrictive of it. How easy would it be for courts to apply
+the <i>first</i> requirement, that the covenant should in effect be a
+combination of different covenants? And what would they make of the <i>second</i>
+requirement, that the part proposed to be removed should be no more than
+trivial or technical?</a></p><a name="para66">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Putsman v Taylor</i> [1927] 1 KB 637 the claimant employed the
+defendant as manager of his tailoring business at 49 Snow Hill in Birmingham.
+The defendant covenanted that, following the end of his employment, he would
+not be employed by a tailor (a) anywhere else on Snow Hill nor (b) within half
+a mile of Aston Cross nor (c) within half a mile of the Bristol Road. He became
+employed by a tailor at 73 Snow Hill. The Divisional Court of the King’s Bench
+Division severed the covenant, removed (b) and (c) as too wide and enforced (a)
+against the defendant by way of injunction. Salter J suggested at pp 640-641
+that in the <i>Attwood</i> case it had been Lord Sterndale who had articulated
+a definite test, namely whether severance would render the covenant different
+in kind and not only in extent; and he held that removal of (b) and (c)
+affected only the extent of the covenant. Talbot J observed at p 643 that the
+law relating to the severability of illegal contracts was as fully applicable
+to those in restraint of trade as to those illegal in any other respect; and at
+p 645 that Lord Moulton’s observations in the <i>Mason</i> case referred to the
+inability of the court to substitute terms which had not been expressed for
+terms which were unreasonably wide. Neither judge addressed the second requirement
+identified in the <i>Attwood </i>case.</a></p><a name="para67">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para67"></a><a name="para68">68.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Scorer v Seymour Jones</i> [1966] 1 WLR 1419 the Court of Appeal
+took a similar approach to that taken by the Divisional Court in the <i>Putsman
+</i>case. The claimant, an estate agent in Dartmouth, opened a branch in
+Kingsbridge and employed the defendant to manage it. The defendant’s
+post-employment covenant was not to set up as an estate agent within five miles
+either of Kingsbridge or of Dartmouth. He set up as an estate agent within five
+miles of Kingsbridge. The court severed the covenant, removed the reference to
+Dartmouth as too wide and enforced the remainder. Although the <i>Attwood</i>
+case was cited to them, none of the judges expressly referred to either of its
+requirements.</a></p><a name="para68">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para68"></a><a name="para69">69.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>T Lucas &amp; Co Ltd v Mitchell</i> [1974] 1 Ch 129 the claimant,
+which manufactured foodstuffs, employed the defendant as a salesman in
+Manchester. His post-employment covenant was not to deal in goods similar to
+those manufactured by the claimant nor to solicit orders from, nor to supply,
+any of its recent customers. Following termination of his employment, he
+solicited orders from a number of its recent customers. The Court of Appeal
+held that the claimant’s legitimate interests justified the covenants against
+solicitation and supply but that the covenant against dealing was unreasonable.
+It held, however, that the latter should be removed following severance and the
+former enforced. By a judgment delivered on its behalf by Russell LJ, it held
+at p 135 that the latter could be removed “without altering the nature of the
+contract” and that its removal would not confer on the former “a meaning and
+effect different in kind and extent”. Then, at p 136, the court addressed the
+further “step” apparently required by the <i>Attwood</i> case; and, although it
+did so in slightly ambiguous terms, a careful reading of the report impels the
+conclusion that it was referring to what I have described as the <i>second</i>
+requirement in the <i>Attwood</i> case, namely that the part proposed to be
+removed should be no more than trivial or technical. The court declared that it
+looked askance at this requirement, which, it added, “much strains our loyalty
+to precedent” and with which a decision of equal stature, namely that of the
+Court of Appeal in the <i>Scorer</i> case, was wholly inconsistent.</a></p><a name="para69">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para69"></a><a name="para70">70.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The post-employment covenant in <i>Sadler v Imperial Life Assurance Co
+of Canada Ltd</i> [1988] IRLR 388 arose in circumstances significantly
+different from those addressed above. The defendant employed the claimant as an
+insurance agent on commission, to be calculated by reference to premiums paid
+to the defendant for the first ten years under any policy which he had
+procured. A clause of the contract stated that, if in certain circumstances he
+left the defendant’s employment, it would, subject to a proviso, continue to
+pay him commission in respect of premiums thereafter paid to it for the first
+ten years under any policy which he had procured. The proviso was that this
+post-employment commission would cease if he began to work for another
+insurance company. The claimant left the defendant’s employment and began to
+work for another insurance company. The defendant refused to pay him further
+commission. In his claim for payment of it he contended that the proviso was in
+unreasonable restraint of trade and thus void and that it should be severed and
+removed from the remainder of the clause, which should continue to entitle him
+to the commission. Mr Peter Crawford QC, sitting as a deputy judge of the
+Queen’s Bench Division, upheld his claim. He rejected the defendant’s
+contention that if, which it had denied, the doctrine against restraint of trade
+applied at all, the whole clause, including for the payment of further
+commission, was void. Following a survey of the authorities, the deputy judge
+concluded at para 19 that the proviso could be removed from the remainder of
+the clause since (1) there was no need to add to or modify the wording of the
+remainder, (2) the remainder continued to be supported by adequate
+consideration and (3) the removal did not “so change the character of the
+contract that it becomes ‘not the sort of contract that the parties entered
+into at all’”.</a></p><a name="para70">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para70"></a><a name="para71">71.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Save for one complicating feature, the circumstances in <i>Marshall v NM
+Financial Management Ltd</i> [1995] 1 WLR 1461 were similar to those in the <i>Sadler</i>
+case. The claimant’s remuneration from the company was again linked to premiums
+paid over many years under policies issued by the company which he had
+procured. Again the contract included a clause that in specified circumstances
+such remuneration should continue to be paid notwithstanding termination of his
+agency; but in this case payment was subject to two provisos. The first was
+that in the immediately following year he should not work for a competitor.
+Within that year the claimant, then aged 40, did work for a competitor. Mr
+Jonathan Sumption QC, sitting as a deputy judge of the Chancery Division, chose
+to apply the three criteria for severance which had been identified in the <i>Sadler</i>
+case; but he suggested a fourth, namely that severance should be consistent
+with the public policy underlying avoidance of the offending part. He said at p
+1466 that application of the third criterion, which called for inquiry into
+change in the character of the contract, was</a></p><a name="para71">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“altogether more satisfactory than
+the more traditional and question-begging statement of the test: whether there
+is one obligation or more than one.”</p>
+
+<p class="ParaNoNumber">The complicating feature was the second proviso, which
+identified an alternative route to entitlement to post-employment commission,
+namely that on termination the agent should have attained the age of 65. This
+second proviso was not even arguably in restraint of trade but, if the first
+proviso were alone to be removed, the second would survive to preclude payment
+of the commission to the claimant. In the event the deputy judge regarded both
+provisos as linked and removed them both.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para71"></a><a name="para72">72.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the <i>Marshall</i> case the Court of Appeal, </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1997/1237.html">[1997] 1 WLR 1527</a>,
+dismissed the company’s appeal against the deputy judge’s decision. Millett LJ
+observed at p 1531:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Although the question is
+described as one of severance it is important to bear in mind that we are not
+concerned to decide how much of an offending restriction should be struck down.
+In such a case the question is to what extent can the party who imposed the
+restriction enforce those parts of it which are not in unreasonable restraint
+of trade. We are concerned with a very different question, namely, whether the
+party who has been freed from an invalid restraint of trade can enforce the
+remainder of the contract without it.”</p>
+
+<p class="ParaNoNumber">As Millett LJ observed, it was the employee (or agent)
+who was seeking severance in the <i>Sadler</i> and <i>Marshall</i> cases; and
+therefore there was no relevance in the public policy reasons for restricting
+severance when sought by overbearing employers who had required their employees
+to subscribe to extravagant restraints.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para73">73.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Beckett Investment Management Group Ltd v Hall </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2007/613.html">[2007] EWCA Civ 613</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2007/613.html">[2007] ICR 1539</a>, the defendants, who had been employed by the claimant as
+independent financial advisers, covenanted that, for the year immediately
+following termination of their employment, they would not deal with any of the
+claimant’s clients with whom they had dealt in the preceding year; and that, if
+they had then dealt with agents of its clients, the agents should be deemed to
+be its clients for this purpose. The Court of Appeal held that the deeming of
+agents as clients was unreasonable; that the covenant should be severed and the
+deeming provision removed; and that the remainder of the restraint should be
+enforced against the defendants. In a judgment with which Sir Anthony Clarke MR
+and Carnwath LJ agreed, Maurice Kay LJ</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; observed at para 34
+that “[a]t one stage” there had been an assumption in the authorities, such as
+the <i>Mason</i> case, that courts should be reluctant to sever a covenant in
+restraint of trade in favour of an employer;</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; declared at paras
+35-37 that the appropriate starting-point was what Lord Sterndale and Younger
+LJ had said in the <i>Attwood</i> case;</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; noted at para 38 that
+in the <i>T Lucas</i> case, cited in para 69 above, the court had
+authoritatively rejected the second prerequisite of severance which Younger LJ
+had identified;</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; addressed at para 40
+the three criteria identified in the <i>Sadler</i> case and noted that it had
+been applied both in the <i>Marshall</i> case and in the <i>TFS Derivatives</i>
+case cited in para 41 above;</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rejected at paras 41
+and 42 the suggestion that those three criteria applied only to claims by
+employees to post-employment commission and likened the third criterion to the
+reference in the <i>T Lucas</i> case to the availability of severance if
+achievable “without altering the nature of the contract”;</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; suggested at para 43
+that “the threefold test … is a useful way of approaching these cases and
+should be adopted”; and</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; concluded at para 44
+that application of those three criteria rendered the deeming provision
+removable.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74">74.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following the decision in 2007 in the <i>Beckett</i> case, there have
+been a number of decisions at first instance in which issues of severability of
+post-employment restraints have been determined by reference to those three
+criteria, sometimes with the addition of the fourth criterion suggested in the <i>Marshall</i>
+case.</a></p><a name="para74">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74"></a><a name="para75">75.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For example, in <i>East England Schools CIC v Palmer</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2013/4138.html">[2013] EWHC 4138 (QB)</a>, [2014] IRLR 191, the claimant’s business was that of an agency which
+sought to find teachers for schools with teaching vacancies. Among the
+post-employment restraints included in the first defendant’s contract with the
+claimant was a provision that, whether as shareholder or otherwise, she should
+not be “concerned with the supply … of Services” to any school or teacher with
+whom she had had recent dealings. Mr Richard Salter QC, sitting as a deputy
+judge of the Queen’s Bench Division held at para 77 that this provision, which
+specifically extended to her status as a shareholder, was unreasonably wide
+because it would even prevent her from having a minority shareholding in a competing
+company which supplied such services. But, by reference to the three criteria
+and the additional criterion, he proceeded to declare that the provision should
+be severed and removed from the remainder of the restraints, which were
+enforceable. He had therefore asked himself at para 86 whether severance would
+change the underlying character of the contract. He had not asked himself
+whether the unreasonable provision in effect formed a separate covenant.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para76">76.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>UK Power Reserve Ltd v Read</i> [2014] EWHC 66 (Ch) there was
+focus, yet again, on whether the effect of the words “concerned or interested”
+in a post-employment restraint was to preclude the ex-employee from having no
+more than a passive minority shareholding in a competitor, because, if so, they
+were unreasonably wide. Mr Jeremy Cousins QC, sitting as a deputy judge of the
+Chancery Division, held that, in the light of a proviso, such was not the
+effect of the words. But in paras 87 to 93 he observed in passing that, had
+such been their effect, he would have severed the covenant and removed them
+from the remainder in accordance with the four criteria first identified in the
+<i>Sadler</i> and <i>Marshall</i> cases. He referred in para 87 to the strong
+body of recent authority which suggested that the law had developed so as to
+require them to be applied.</a></p><a name="para76">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para76"></a><a name="para77">77.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Freshasia Foods Ltd v Lu</i> </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2019/3644.html">[2018] EWHC 3644 (Ch)</a> Mr Daniel Alexander QC, sitting as a deputy judge of the Chancery Division, recently
+granted an interlocutory injunction by way of enforcement of parts of an
+employee’s non-solicitation post-employment covenant. Treating the inquiry as
+purely interlocutory, he made only provisional determinations. These were that
+three aspects of the covenant were unreasonably wide but that, following
+severance, they should be removed from the remainder. Prompted in part, so it
+would seem, by the Court of Appeal’s decision against which this present appeal
+is brought, he conducted a wide-ranging survey of the law of severance of
+post-employment restraints in which he made a number of valuable observations.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78">78.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Even more recently, following a full hearing, Arnold J delivered a
+judgment in the <i>Freshasia Foods</i> case, </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2019/638.html">[2019] EWHC 638 (Ch)</a>, in which he
+ruled at para 144 that the employer had failed to establish legitimate
+interests which required the protection of the covenant. He therefore declined
+to continue the injunction; and, apart from adverting to the difficulty of
+reconciling the decision in the <i>Beckett</i> case with the decision under
+present appeal, he explained at para 148 that he had no need to address the
+issues relating to severance. This final disposal of the application does not
+however detract from the value of the deputy judge’s observations. In
+particular he</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; observed that the
+deeming provision in the <i>Beckett</i> case could not be regarded as a
+separate covenant but had nevertheless been severed (para 37);</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; inferred from the <i>Beckett</i>
+case that the historical reluctance to sever, exemplified in the <i>Mason</i>
+and <i>Attwood</i> cases, was something of a relic (para 41);</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognised on the one
+hand that an employer had legitimate interests worthy of protection in the
+public interest; that they might easily be prejudiced when an important
+employee left; and that they should not be frustrated by too narrow an approach
+to severability (para 48);</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognised on the
+other hand that Lord Moulton’s concerns in the <i>Mason</i> case remained
+valid; and that the law should not allow an employer first to extract an
+unreasonably wide restraining covenant, inhibiting the employee from leaving to
+work elsewhere and even from threatening to do so in order to obtain fairer
+terms from him, and then, if challenged in court, too easily to secure its
+removal and the enforcement of the remainder (paras 49 and 50);</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; questioned whether
+Lord Moulton’s concerns were best addressed by a rule which denies severance of
+a term within a single covenant, even if insignificant (paras 51 and 52); and</p>
+
+<p class="ParaLevel1" style="margin-left:36.0pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; concluded that it
+might be preferable to address substance rather than form and thus to permit
+the removal of relatively minor terms if it would not materially change the
+nature of the contract (para 53).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para79">79.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A survey of the development in England and Wales of the severance
+principle, when applied to post-employment restraints of trade, would be
+deficient if it failed to note the current standing of the principle in other
+common law jurisdictions. In <i>Shafron v KRG Insurance Brokers (Western) Inc</i>
+[2009] 1 RCS 157 the Supreme Court of Canada, by a judgment delivered by
+Rothstein J, firmly adhered at para 36 to the historical approach directed by
+the <i>Attwood</i> case from the foot of the observations of Lord Moulton; and
+it even rejected the move in the <i>T Lucas</i> case to shed the second
+requirement of triviality or technicality. By contrast, in <i>Lee Gwee Noi v
+Humming Flowers and Gifts Pte Ltd</i> [2014] SGHC 64, a magisterial survey of
+the standing of the principle in Singapore, albeit conducted at first instance,
+concluded that its application there was subject to the three criteria approved
+in the <i>Beckett</i> case: paras 155 and 172. In New Zealand the legislature
+has relieved the courts altogether from the shackles of the severance principle
+by conferring on them a discretion actively to rewrite an unreasonable covenant
+in restraint of trade: see section 83(1)(b) of the Contract and Commercial Law
+Act 2017.</a></p><a name="para79">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para79"></a><a name="para80">80.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Now, at last, it becomes appropriate to address the reasoning of the
+Court of Appeal in refusing to sever the words “or interested” from the
+remainder of Ms Tillman’s non-competition covenant. In paras 29 and 30 Longmore
+LJ cited the <i>Attwood</i> case for the proposition that parts of a single
+covenant could not be severed; and he observed that, in that it prevented Ms
+Tillman from engaging or being concerned or interested in a competing business
+in any one of several capacities, the non-competition covenant had to be read
+as a whole and could not be severed. In para 33 he rejected the company’s
+submission that the three criteria approved in the <i>Beckett</i> case had
+replaced the requirement for separate covenants. He explained that:</a></p><a name="para80">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The requirement is reflected in
+the third of the three tests … because it must always be doubtful whether parts
+of a single covenant can be deleted without the contract becoming ‘not the sort
+of contract that the parties entered into at all’.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para80"></a><a name="para81">81.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We in this court have had the benefit of fuller argument and greater
+opportunity for reflection than had the Court of Appeal. At all events it is
+clear that, even were the <i>Attwood</i> case still to be regarded as
+authoritative, that court took a narrow view of its effect in appearing to
+discern a single covenant by reference to nothing other than the form of its
+words. More importantly, however, the time has come to determine whether the <i>Attwood</i>
+case should remain authoritative.</a></p><a name="para81">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para81"></a><a name="para82">82.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>High-ranking employees can do particular damage to the legitimate
+interests of their employers following termination of their employment; and it
+may be that, when they enter into their post-employment covenants, they are
+able to negotiate with their employers on nearly an equal footing. As Denning
+LJ said in <i>M &amp; S Drapers v Reynolds</i> [1957] 1 WLR 9, 19, “A managing
+director can look after himself”; and so, arguably, could Ms Tillman. But then
+he added: “A traveller is not so well placed to do so. The law must protect
+him”. It is clearly common practice for an employer to present a prospective
+employee with a substantial written contract, many terms of which, including
+those imposing post-employment restraints, are derived from books of precedent.
+It is as valid in 2019 as it was in 1913 to infer that most prospective
+employees will not be able, even if minded, to decline to accept such terms,
+still less, following the end of their employment, to defend a claim that they
+are in breach of them. The courts must continue to adopt a cautious approach to
+the severance of post-employment restraints.</a></p><a name="para82">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para82"></a><a name="para83">83.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nevertheless both of the requirements which were shoe-horned into the
+law by the <i>Attwood</i> case were, as we have seen, to prove both instantly
+controversial and ultimately unsatisfactory. An inquiry whether the covenant
+proposed to be severed was indeed one covenant or whether in effect it was more
+than one covenant proved to be of elusive application, largely dependent on the
+eye of the beholder. Why was the list of prohibited trades in the <i>Attwood</i>
+case one covenant but the list of prohibited areas in each of the <i>Putsman</i>
+and <i>Scorer</i> cases in effect more than one covenant? And, being a question
+noted in para 78(e) above, why should an unreasonable restraint of
+insignificant proportions fail to qualify for severance just because of its
+place in a single covenant? The second requirement - of triviality or
+technicality - reflected an attempt to sideline application of the entire
+severance principle to post-employment restraints. It is far from clear that,
+even in 1913 and 1920, public policy demanded it; and in 1972 in the <i>T Lucas</i>
+case, it was rightly criticised in the strongest possible terms, following
+which it fell away.</a></p><a name="para83">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para83"></a><a name="para84">84.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It therefore becomes appropriate to analyse the effect of each of the
+three criteria indorsed in the <i>Beckett</i> case.</a></p><a name="para84">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para84"></a><a name="para85">85.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first is that “the unenforceable provision is capable of being
+removed without the necessity of adding to or modifying the wording of what
+remains”. This is the so-called “blue pencil” test. Unfortunately it can work
+capriciously and, if the aspiration of our judgments today had been to discern
+in the common law a principle which can always be applied so as to produce a
+sensible outcome, we would have laboured in vain. In his judgment in the
+Divisional Court in the <i>Attwood</i> case, cited in para 61 above, Bailhache
+J said at p 155:</a></p><a name="para85">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the courts will sever in a
+proper case where the severance can be performed by a blue pencil but not
+otherwise. To give an illustration, a covenant ‘not to carry on business in
+Birmingham or within 100 miles’ may be severed so as to reduce the area to
+Birmingham, but a covenant ‘not to carry on business within 100 miles of
+Birmingham’ will not be severed so as to read ‘will not carry on business in
+Birmingham’. The distinction seems artificial, but is I think settled.”</p>
+
+<p class="ParaNoNumber">The distinction is indeed settled. It is inherent in the
+word “severance” itself, which means cutting things up and does not extend to
+adding things in. The “blue pencil” criterion is a significant brake on
+application of the principle; and, although it can work arbitrarily, it is in
+my view an appropriate brake on the ability of employers to secure severance of
+an unreasonable restraint customarily devised by themselves. Were it ever to be
+thought appropriate to confer on the court a power to rewrite a restraint so as
+to make it reasonable, it would surely have to be achieved by legislation along
+the lines of that in New Zealand which has been noticed in para 79 above.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para85"></a><a name="para86">86.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second criterion is that “the remaining terms continue to be
+supported by adequate consideration”. It goes without saying that an employer
+who sues on a covenant made otherwise than under seal must show that he
+provided consideration for it. But why is it said to be a prerequisite of his
+ability to sever? The answer is surely to be found in the unusual circumstances
+of the <i>Sadler</i> and <i>Marshall</i> cases, which generated the criteria
+adopted in the <i>Beckett</i> case. In those two cases it was the claimant
+employee who secured severance of unreasonable obligations cast by the contract
+upon himself. In that situation the court needed to satisfy itself (and in each
+case it did so) that, were his unreasonable obligation to be removed, there
+would nevertheless remain consideration passing from him under the contract
+such as would support the obligation which he was seeking to enforce. In the
+usual post-employment situation, however, the need to do so does not arise. A
+claimant employer who asks the court to sever and remove part of a covenant
+made by the defendant employee is in no way proposing to diminish the
+consideration passing from himself under the contract such as is necessary to
+support the obligation which he seeks to enforce. In the usual situation the
+second requirement can be ignored.</a></p><a name="para86">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para86"></a><a name="para87">87.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third criterion is that “the removal of the unenforceable provision
+does not so change the character of the contract that it becomes ‘not the sort
+of contract that the parties entered into at all’”. This is the crucial
+criterion and I find it impossible to equate it with the <i>Attwood</i>
+requirement, as suggested by the Court of Appeal. In my view this third criterion
+was rightly imported into the general jurisprudence by the <i>Beckett</i> case
+and has rightly been applied by our courts ever since then, otherwise than in
+the decision under appeal. But I suggest, with respect, that the criterion
+would better be expressed as being whether removal of the provision would not
+generate any major change in the overall effect of all the post-employment
+restraints in the contract. It is for the employer to establish that its
+removal would not do so. The focus is on the legal effect of the restraints,
+which will remain constant, not on their perhaps changing significance for the
+parties and in particular for the employee.</a></p><a name="para87">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para87"></a><a name="para88">88.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Application of the severance principle to Ms Tillman’s restraint
+covenants now becomes straightforward. First, the words “or interested” are
+capable of being removed from the non-competition covenant without the need to
+add to or modify the wording of the remainder. And, second, removal of the
+prohibition against her being “interested” would not generate any major change
+in the overall effect of the restraints. So those words should be severed and
+removed.</a></p><a name="para88">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para88"></a><a name="para89">89.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Another of the Court of Appeal’s objections to removing the words “or
+interested” from Ms Tillman’s non-competition covenant was that removal would
+be idle in that the remainder would continue unlawfully to oblige her not to
+hold any shares in companies of the character there specified. For the covenant
+would then become that she would not “directly or indirectly engage or be
+concerned … in any business”; and, so the Court of Appeal considered, any
+holding of shares in a company would mean that she was “indirectly … concerned”
+in it.</a></p><a name="para89">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para89"></a><a name="para90">90.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The company expressly accepts, at any rate in this court, that, if
+necessary, it would be content for the words “or be concerned” also to be
+removed from Ms Tillman’s covenant; and my view is that, had the Court of
+Appeal’s construction of the word “concerned” been correct, it would, by
+reference to the criteria identified above, have been appropriate also to
+remove them. But are you, as no more than a shareholder in a company,
+“concerned” in it? In <i>Ashcourt Rowan Financial Planning Ltd v Hall</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2013/1185.html">[2013] EWHC 1185 (QB)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2013/1185.html">[2013] IRLR 637</a>, the defendant’s non-competition
+covenant prohibited him from being “engaged or concerned in any business”. It
+did not include the words “or interested”. Andrew Smith J concluded at para 39,
+that the word “concerned” denoted working for the business or having some other
+active involvement in it and so did not extend to a proprietary interest, such
+as a shareholding, in it. But a conclusion which there was clearly borderline
+becomes stronger in the present case. For Ms Tillman covenanted that she would
+not “engage or be concerned or interested …”; and there was no specific
+reference to her doing so as a shareholder, as there was in the <i>East England
+Schools</i> case. Conventional principles of construction require value to be
+attributed, if possible, to each word of an agreement. But, were the word
+“concerned” to be construed so as to cover passive interest in a business such
+as that enjoyed by a shareholder, what value would be left to be attributed to
+the word “interested”? Nor is such an exercise in construing the word
+“concerned” undermined by the fact that the words “or interested” are to be
+severed and removed. The meaning which the words of an agreement carry at its
+inception is not changed by later events. In <i>British Reinforced Concrete
+Engineering Co Ltd v Schelff</i> [1921] 2 Ch 563, 573, Younger LJ (no less)
+said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Now the effect of severing by
+striking out with a blue pencil the obnoxious part of a covenant is not to
+alter or affect the construction of what is left. That must be construed as if
+the portion struck out still remained …”</p>
+
+<p class="ParaHeading">Conclusion</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para91">91.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I therefore propose that the court should set aside the Court of Appeal’s
+order and should overrule the decision in the <i>Attwood</i> case; and that,
+although the contractual period of the restraints has expired long ago, it
+should formally restore the injunction granted by Mann J, subject only to the
+removal of the words “or interested”.</a></p><a name="para91">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para91"></a><a name="para92">92.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court should also invite submissions on the proper orders in respect
+of the costs incurred in each of the three courts. In para 104 of his judgment
+on the interim inquiry into the <i>Freshasia Foods </i>case the deputy judge
+described as “legal litter” the unreasonable parts of post-employment
+restrictions to which employers extract the agreement of prospective employees;
+and he added that they “cast an unfair burden on others to clear them up”. It
+is a neat metaphor. In my view the company should win … but there might be a
+sting in the tail.</a></p><a name="para92">
+
+</a></div><a name="para92">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/32.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

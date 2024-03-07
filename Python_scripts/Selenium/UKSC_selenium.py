@@ -1,0 +1,28 @@
+import urllib.request
+import requests
+from selenium import webdriver
+import csv
+
+# OBJECTIVE: Extract HTML data from all UKSC cases, downloading a file for each case.
+# INPUT: UKSC_cases.csv
+# OUTPUT: A set of files in the folder ../../Intermediate_files/UKSC_downloads, one file for each case.
+
+# Import list_of_urls from the UKSC CSV. If a different date range is to be used, the CSV should be updated, and the changes will be reflected here. 
+with open('Input_files/UKSC_Cases.csv', 'r') as file:
+    reader = csv.reader(file)
+    next(reader)  # Skip the header row
+
+    # Create a list of URLs
+    list_of_urls = []
+    for row in reader:
+        list_of_urls.append(row[2])
+   
+case_ID = 0
+for url in list_of_urls: # Go through url list
+	case_ID += 1
+	driver = webdriver.Chrome()  # Opens chrome browser
+	driver.get(url) # Opens url in chrome browser
+	html = driver.page_source # Gets the page source after it has fully loaded
+	with open("Intermediate_files/UKSC_downloads/" + str(case_ID) + "UKSC_original.txt", 'w') as f:
+ 		print(html, file=f) # Write the html data to the opened file
+	driver.quit()  # Close the browser

@@ -1,0 +1,873 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Gordon &amp; Ors (Trustees of the Inter Vivos Trust) v Campbell Riddell Breeze Paterson LLP (Scotland) [2017] UKSC 75 (15 November 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Gordon &amp; Ors (Trustees of the Inter Vivos Trust) v Campbell Riddell Breeze Paterson LLP (Scotland) [2017] UKSC 75 (15 November 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/75.html</i>
+<br>Cite as: 
+2017 SLT 1287,
+
+[2017] UKSC 75,
+
+2018 SCLR 129,
+
+2017 GWD 37-572
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/75.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/75.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 75</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2016/[2016]CSIH16.html">[2016] CSIH 16</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Gordon and others, as the Trustees of the Inter Vivos
+Trust of the late William Strathdee Gordon (Appellants) <i>v</i> Campbell
+Riddell Breeze Paterson LLP (Respondent) (Scotland)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">15 November 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 19 July 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:71.25pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Robert Howie QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Robert Sutherland</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Drummond Miller LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">David Johnston QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Adam McKinlay</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Brodies LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD HODGE: <span style="text-transform:none">(with whom
+Lord Neuberger, Lord Mance, Lord Sumption and Lord Reed agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>When the law extinguishes obligations as a result of the effluxion of
+time it is important that there is certainty as to when the clock is started.
+Yet many within the legal profession in Scotland have been unsure about this
+important matter. This is another appeal about the meaning of the provisions of
+the Prescription and Limitation (Scotland) Act 1973 (“the 1973 Act”) concerning
+the short negative prescription. Counsel for the appellants informed the court
+that several cases have been sisted in the Court of Session to await the
+outcome of this appeal.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal proceeds on facts which the parties have agreed solely for
+the purpose of determining the question of prescription and which may be
+summarised briefly. The appellants (“the trustees”) are the trustees of the
+inter vivos trust of the late William Strathdee Gordon (“the trust”). The trust
+owns farmland, comprising three fields near the village of Killearn, which the
+trustees acquired because of its long-term potential for residential
+development. The three fields are a grazing field, a field of about 40 acres and
+a field of about 50 acres.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The grazing field was originally let out by the trust by a series of
+seasonal grazing lets to a farming partnership of Messrs A &amp; J C Craig
+(“the farming partnership”) which had two partners. This lease continued by
+tacit relocation from about 1983. The 40-acre and 50-acre fields were let out
+to the farming partnership under separate leases in 1981 and 1983 respectively.
+After the expiry of the original terms of let of those fields the trust entered
+into various minutes of agreement, which were prepared by their solicitors, who
+were the predecessor firm to the respondents in this appeal. Those minutes of
+agreement purported to continue the original leases of those fields. In about
+August 1992 the solicitors became aware that Mr Andrew Craig, one of the two
+partners, had retired from the farming partnership. Notwithstanding that
+knowledge, the minutes of agreement in 1992 and 1998 described the tenant as
+the farming partnership and John Campbell Craig the sole proprietor and trustee
+for the firm. Under the 1998 agreements the ish (expiry date) of the lease of
+each of the two fields was 10 November 2003.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is a matter of agreement that by 2003 the leases for all three fields
+were agricultural holdings for the purposes of the Agricultural Holdings
+(Scotland) Act 1991 (“the 1991 Act”).</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2003 the trustees instructed Mr McGill, who was both a trustee of the
+trust and a partner in the firm of solicitors, to serve on the tenant notices
+to quit the three fields at the term of 10 November 2003. The tenant served
+counter notices under the 1991 Act. After receiving advice from counsel that
+the notices to quit the 40-acre field and 50-acre field were ineffective as
+they did not give the period of notice which the 1991 Act required, the solicitors
+served further notices to quit in respect of the three fields dated 8 November
+2004 requiring the tenant to remove on 10 November 2005. In each of those
+notices to quit the tenant was identified as “the firm of Messrs A &amp; J C
+Craig and John C Craig, sole proprietor of and trustee for said firm”. The
+notice to quit the 40-acre field described it as being subject to a lease dated
+22 September and 7 and 8 October 1981 as amended by subsequent agreements. Similarly
+the notice to quit the 50-acre field described it as being subject to a lease
+dated 5 January and 14 February 1983 as so amended.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 1 December 2004 Mr Richard Leggett, a partner of the solicitors,
+wrote a long letter to Mr William Gordon, one of the trustees, in which he
+explained that the solicitors had to withdraw from acting for the trust because
+of a conflict of interest caused by difficulties which might result from a
+failure to terminate the leases of the fields before their expiry dates which
+had allowed the tenant to continue to occupy the fields by tacit relocation. The
+solicitors suggested that those difficulties might require the payment of money
+to Mr John Craig to get him to cede possession of the fields. In response, the
+trustees did not require the solicitors to cease acting for them and continued
+to instruct them. But, after the tenant did not cede possession of the fields
+on 10 November 2005, the solicitors wrote to the trustees on the same day to
+withdraw from acting for the trust in relation to the leases at Killearn, again
+citing the difficulties which they foresaw would arise from their earlier
+failure to prevent tacit relocation. Thereafter Mr McGill resigned as a
+trustee.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The trustees then instructed Anderson Strathern LLP, who on 9 February
+2006 applied to the Scottish Land Court seeking the removal of the tenant from
+each of the three fields. It is an agreed fact that by 17 February 2006, at the
+latest, the trustees had incurred material expense in instructing Anderson
+Strathern to pursue those applications. The tenant defended the applications. In
+a decision dated 24 July 2008 the Scottish Land Court gave effect to the notice
+to quit in relation to the grazing field but refused to give effect to the
+notices to quit relating to the other two fields, because the notices were
+inaccurate in their description of both the tenant and the relevant lease. As a
+result, the 40-acre field and the 50-acre field remain subject to leases that
+are agricultural holdings, thus preventing the trustees from developing them.</a></p><a name="para7">
+
+<p class="ParaHeading">The legislation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As is well known, section 6 of the 1973 Act, when read with sections 9
+and 10 of that Act, creates the short negative prescription by providing that
+if an obligation has subsisted for a continuous period of five years after “the
+appropriate date” without the creditor or someone on his behalf having made a
+relevant claim or the debtor or someone on his behalf having relevantly
+acknowledged the subsistence of the obligation, the obligation is extinguished
+at the expiration of that period. Section 6(3) provides that the appropriate
+date in relation to an obligation arising from a breach of contract is a
+reference to the date when the obligation became enforceable.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal is concerned with section 11 of the 1973 Act, which defines
+when an obligation to make reparation becomes enforceable. It provides:</a></p><a name="para9">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Subject to subsections
+(2) and (3) below, any obligation (whether arising from any enactment, or from
+any rule of law or from, or by reason of any breach of, contract or promise) to
+make reparation for <u>loss, injury or damage</u> caused by an act, neglect or
+default shall be regarded for the purposes of section 6 of this Act as having
+become enforceable on the date when the <u>loss, injury or damage</u> occurred.”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where as a result of a
+continuing act, neglect or default <u>loss, injury or damage</u> has occurred
+before the cessation of the act, neglect or default the <u>loss, injury or
+damage</u> shall be deemed for the purposes of subsection (1) above to have
+occurred on the date when the act, neglect or default ceased.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In relation to a case
+where on the date referred to in subsection (1) above (or as the case may be,
+that subsection as modified by subsection (2) above) the creditor was not
+aware, and could not with reasonable diligence have been aware, that <u>loss,
+injury or damage</u> caused as aforesaid had occurred, the said subsection (1)
+shall have effect as if for the reference therein to that date there were
+substituted a reference to the date when the creditor first became, or could
+with reasonable diligence have become, so aware.”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(Emphasis added)</p>
+
+<p class="ParaHeading">The court proceedings</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 17 May 2012 the trustees commenced a legal action against the
+respondents by serving on them a summons seeking damages for breach of an
+implied term of the contract between the trustees and the solicitors, that the
+latter would exercise the degree of knowledge, skill and care expected of a
+reasonably competent solicitor. The breach which the trustees allege is that
+the solicitors failed to identify correctly both the tenant and the applicable
+lease in the notices to quit dated 8 November 2004 relating to the 40-acre
+field and the 50-acre field. Among the sums claimed by the trustees in this
+action are the fees and outlays paid to the solicitors and to Anderson
+Strathern relating to the attempt to obtain vacant possession of the two fields
+and damages for the enhanced value of the land and the opportunity for the
+trust to exploit the fields’ potential for development both of which were lost
+through the failure to recover possession of them.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondents pleaded that any obligation on them to make reparation
+had prescribed because the trustees had not raised the action within five years
+of the date when they had suffered loss, which, the respondents submitted, was
+when the solicitors served the defective notice to quit in November 2004 or in
+any event when the tenant failed to remove from the fields on 10 November 2005.
+They submitted that the trustees had had knowledge of having suffered loss when
+they learned that the tenant would not voluntarily cede possession of the
+fields. After hearing evidence in a preliminary proof on prescription at which
+the parties had agreed that the averments of breach of contract and loss were
+to be treated as proven, Lord Jones upheld the plea of prescription in an opinion
+dated 25 March 2015 (</a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2015/[2015]CSOH31.html">[2015] CSOH 31</a>). In so doing, he rejected the trustees’
+argument that the prescriptive period did not begin until the Scottish Land
+Court issued its decision (ie 24 July 2008), which, according to the trustees,
+was the date on which they first knew that they had suffered loss. He held that
+the prescriptive period began when the trustees knowingly became liable for
+legal fees and outlays in pursuit of vacant possession of the fields. As it was
+agreed that the trustees had incurred material expense in relation to the
+Scottish Land Court application by 17 February 2006, the five-year prescriptive
+period had run its course before they commenced the legal proceedings against
+the respondents (on 17 May 2012). Lord Jones therefore absolved the respondents
+from the trustees’ claims.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 8 March 2016 an Extra Division of the Inner House (Lady Paton, Lord
+Bracadale and Lord Malcolm) refused the trustees’ appeal. Lord Malcolm wrote
+the leading opinion and the other judges wrote concurring opinions (</a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2016/[2016]CSIH16.html">[2016] CSIH 16</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/scot/cases/ScotCS/2016/[2016]CSIH16.html">2016 SC 548</a>). In his opinion, Lord Malcolm analysed the judgment of the
+Supreme Court in <i>David T Morrison &amp; Co Ltd (t/a Gael Home Interiors) v
+ICL Plastics Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/48.html">2014 SC (UKSC) 222</a>; <a title="Link to BAILII version" href="/uk/cases/UKSC/2014/48.html">[2014] UKSC 48</a> (“<i>Morrison v ICL</i>”)
+which I discuss below. He concluded that section 11(3) of the 1973 Act
+postponed the start of the prescriptive period only when the damage was latent
+by requiring that the creditor should have actual or constructive knowledge of
+the occurrence of damage or expenditure, which was viewed as an objective fact.
+He held that the prescriptive period ran from the time the trustees incurred
+liability for legal fees notwithstanding that they did not then know that their
+application to the Scottish Land Court would fail. In a short judgment with
+which Lord Bracadale agreed, Lady Paton added that the trustees had gained
+sufficient knowledge that they had suffered loss when they received the
+solicitors’ letter of 10 November 2005.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The trustees appeal to this court with the permission of the Inner
+House, which it granted on 1 June 2016.</a></p><a name="para13">
+
+<p class="ParaHeading">Discussion</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The legislation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear from the opening phrase of section 11(1) - (“Subject to
+subsections (2) and (3) below”) - that that subsection sets out the general
+rule that an obligation to make reparation becomes enforceable when the loss,
+injury or damage occurred. Subsections (2) and (3) modify the general rule in
+the circumstances in which they apply. It is also clear that in each of the
+subsections Parliament has chosen to use the same words - “loss, injury or
+damage” - to describe the detriment suffered by the creditor.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The House of Lords and this court have considered those words in their
+statutory context in ascertaining the appropriate date for the commencement of
+the five-year prescription in two cases.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, in <i>Dunlop v McGowans</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1980/1980_SC_HL_73.html">1980 SC (HL) 73</a>, which concerned the
+failure by solicitors timeously to serve a notice to quit on a tenant, Lord
+Keith of Kinkel in the leading speech (p 81) explained that the obligation to
+make reparation for loss, injury or damage is a single and indivisible
+obligation and that that obligation arose as soon as there was the concurrence
+of a legal wrong and loss resulting from that wrong. In that case the
+obligation to make reparation became enforceable on the date when, but for the
+solicitor’s omission, the client landlord would have obtained vacant possession
+of his premises. The prescriptive period under section 11(1) of the 1973 Act
+began to run then although the landlord’s losses, which resulted from the failure
+to get vacant possession, could only be estimated at that date.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, in <i>Morrison v ICL</i>, which concerned observable physical
+damage to Morrison’s shop caused by an explosion in the neighbouring business
+premises of ICL, this court held that, for the prescriptive period to begin
+under section 11(3) of the 1973 Act, the creditor needed to be aware (actually
+or constructively, if the creditor could with reasonable diligence have been
+aware) only of the occurrence of the loss or damage and not of its cause. In
+other words, section 11(3) applies in the case of latent damage, by postponing
+the start of the prescriptive period until the creditor is aware of the
+physical damage to his property. The focus of the court’s judgment in that case
+was on the words “caused as aforesaid” in subsection (3). They are a reference
+back to subsection (1) which speaks of loss, injury or damage “caused by an
+act, neglect or default”. The phrase “caused as aforesaid” thus connects the
+loss to the cause of action. But the phrase is adjectival; it does not require
+additional knowledge on the part of the creditor. The subsection falls to be
+read as if it said: “the creditor was not aware … that loss, injury and damage,
+which had been caused as aforesaid, had occurred”; thus it, like subsections
+(1) and (2), focuses on the occurrence and timing of loss (viz Lord Reed paras
+16 and 25, Lord Neuberger para 47).</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Morrison v ICL</i> this court did not have to address the question
+which this appeal raises, namely whether in section 11(3) the creditor must be
+able to recognise that he has suffered some form of detriment before the
+prescriptive period begins. In <i>Morrison v ICL</i> the property damage was
+manifest on the date of the explosion. But where a client of a professional
+adviser suffers financial loss by incurring expenditure in reliance on
+negligent professional advice, the client, when spending the money, will often
+be unaware that that expenditure amounts to loss or damage because of
+circumstances, existing at the date he or she spends the money, of which the
+client has no knowledge. A question which the current appeal raises is whether
+section 11(3) starts the prescriptive clock when the creditor of the obligation
+is aware that he or she has spent money but does not know that that expenditure
+will be ineffective.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The answer to that question lies in interpreting the words “loss, injury
+or damage” in subsection (3) in the context of section 11 as a whole. In
+section 11(1) the phrase “loss, injury or damage”, which I have emphasised in para
+9 above, is a reference to the existence of physical damage or financial loss
+as an objective fact. Thus if a person’s building is damaged in an explosion,
+or a garden wall is damaged as a result of subsidence, there is physical damage
+which is enough to start the clock under that subsection, unless either or both
+of subsections (2) or (3) apply. No question arises under subsection (1) as to
+the creditor’s knowledge of that objective fact. As Lord Keith stated in<i>
+Dunlop v McGowans </i>(p 81):</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The words ‘loss, injury or
+damage’ in the last line of the subsection refer back to the same words in the
+earlier part and indicate nothing more than the subject-matter of the single
+and indivisible obligation to make reparation.”</p>
+
+<p class="ParaLevel1">Thus if, as a result of a breach of contract, a person
+purchases defective goods, incurs expenditure or fails to regain possession of
+his property when he or she wished to do so, the section 11(1) clock starts
+when the person acquires the goods, the expenditure is incurred or when the
+person fails to obtain vacant possession of the property.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 11(3), which postpones the start of the prescriptive period, is
+concerned with the awareness of the creditor. But that which the creditor must
+actually or constructively be aware of before the prescriptive period begins is
+the same “loss, injury or damage” of which section 11(1) speaks, because
+subsection (3) uses the same language and also refers back to subsection (1)
+when it speaks of “loss, injury or damage caused as aforesaid”. The phrase
+“loss, injury or damage” must have the same meaning in each of the subsections
+of section 11. There is therefore no scope for reading any additional meaning
+into those words in subsection (3).</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows that section 11(3) does not postpone the start of the prescriptive
+period until a creditor of an obligation is aware actually or constructively
+that he or she has suffered a detriment in the sense that something has gone
+awry rendering the creditor poorer or otherwise at a disadvantage. The creditor
+does not have to know that he or she has a head of loss. It is sufficient that
+a creditor is aware that he or she has not obtained something which the
+creditor had sought or that he or she has incurred expenditure.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This approach is harsh on the creditor of the obligation, where the
+creditor has incurred expenditure which turns out to be wasted or fails to
+achieve its purpose, because the circumstances when the prescriptive period
+begins may not prompt an enquiry into the existence or likelihood of such loss.
+Thus a person may begin a legal action and incur expenditure on legal fees on
+the basis of negligent legal advice or he or she may purchase a house at an
+over-value as a result of the negligent advice of a surveyor. In each case the
+person may be aware of the expenditure but not that it entails the loss. But it
+offers certainty, at least with the benefit of hindsight. The trustees’
+formulation by contrast would create uncertainty. If it were necessary in order
+for the prescriptive period to begin that the creditor be aware that something
+had gone awry and that he or she has suffered a detriment in the form of wasted
+expenditure, would an adverse judgment at first instance be sufficient to
+establish such an awareness of detriment if there were strong grounds for an appeal?
+The result might be prolonged uncertainty. Further, a requirement that there be
+an awareness of a head of loss would involve knowledge of the factual cause of
+the loss, which is an interpretation that this court has rejected in <i>Morrison
+v ICL</i>.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is not clear that the interpretation set out in para 21 above is what
+the Scottish Law Commission envisaged in its Report on the Reform of the Law
+Relating to Prescription and Limitation of Actions (1970) (Scot Law Com No 15, </a><a title="Link to BAILII version" href="/scot/other/SLC/Report/1970/15.html">[1970] SLC 15</a>),
+which led to the 1973 Act and in which it recommended (para 97) that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“the [prescriptive] period should
+commence … (c) if the fact that pecuniary loss or damage to property has been
+caused by the delict or quasi-delict is not immediately ascertainable, from the
+date when the fact that the aggrieved party has suffered pecuniary loss or
+damage is, or could with reasonable diligence have been, ascertained by him.”</p>
+
+<p class="ParaLevel1">In its Report on Prescription and Limitation of Actions
+(Latent Damage and Other Related Issues) (1989) (Scot Law Com No 122, <a title="Link to BAILII version" href="/scot/other/SLC/Report/1989/122.html">[1989] SLC 122</a>) the Commission
+at para 2.7 described its policy in the 1970 Report as being that “the starting
+point for the running of prescription should be the date when that damage is or
+could with reasonable diligence have been discovered by the claimant”. This
+court’s decision in <i>Morrison v ICL</i> is consistent with that policy
+because the physical damage to property was manifest but it is questionable
+whether section 11(3) is so consistent in circumstances where the claimant
+suffers financial loss rather than observable damage to his physical property.
+As I state in para 25 below, the Commission has revisited the topic since this
+court decided <i>Morrison v ICL</i> and has made further recommendations for
+reform.</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application to the
+facts</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am not able to accept the submission of Mr Howie QC, who appears for
+the trustees, that time did not begin to run against the trustees until they
+received the decision of the Scottish Land Court which demonstrated both that
+the sums which they had spent on pursuing the application to gain vacant
+possession of the 40-acre field and the 50-acre field could not be recovered
+from the tenant and that they had lost the opportunity to develop those fields.
+Before they received that decision, the trustees may have regarded the tenant’s
+refusal to remove from those fields on 10 November 2005 as unjustified and may
+have pursued the application to the Scottish Land Court to remove him in the
+belief that it was likely to succeed. They may, as a result, have believed that
+the expenditure on legal fees and outlays, which they incurred in so doing,
+would ultimately be recovered from the tenant in large measure when their
+application succeeded. But any such understanding on their part is irrelevant.
+On an objective assessment, the trustees suffered loss on 10 November 2005 when
+they did not obtain vacant possession of those fields and therefore could not
+realise their development value. It does not matter whether the loss resulted
+from the tenant’s intransigence, as the trustees may have believed, or from someone
+else’s acts or omissions. It was also possible that the defects in the notices
+to quit would not have caused loss if the tenant had later waived his right to
+challenge them or had otherwise surrendered possession of the fields. But he
+did neither, and with the benefit of hindsight the failure to obtain vacant
+possession on 10 November 2005 can be seen as having caused loss to the
+trustees. At that moment, as in <i>Dunlop v McGowans</i>, the prescriptive
+period began to run under section 11(1), unless it was postponed by subsection
+(3). But there was no postponement under the latter subsection: the trustees
+were aware on 10 November 2005 that they had not obtained vacant possession of
+those fields. That was a detriment. They were in any event actually or constructively
+aware by 17 February 2006 that they had incurred expense in legal proceedings
+to obtain such possession. As the trustees did not commence legal proceedings
+against the respondents until 17 May 2012, it follows that the respondents’
+obligation to make reparation to them has prescribed.</a></p><a name="para24">
+
+<p class="ParaHeading" style="margin-left:36.0pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp; The future</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This conclusion, as Lord Malcolm recognised in the concluding paragraph
+of his opinion, may suggest that hard cases may be more common than it was
+previously thought. But there are live proposals for law reform. The Scottish
+Law Commission has published its Report on Prescription (Scot Law Com No 247, </a><a title="Link to BAILII version" href="/scot/other/SLC/Report/2017/247.html">[2017] SLC 247</a>)
+in July 2017, following its Discussion Paper (No 160, <a title="Link to BAILII version" href="/scot/other/SLC/DP/2016/160.html">[2016] SLC 160 (DP)</a> ) in which it invited views
+on, among other things, the discoverability test in section 11(3) of the 1973
+Act in the light of <i>Morrison v ICL</i> decision. In its report the
+Commission recommends (para 3.21) that in relation to the obligation to pay
+damages section 11(3) should be amended so that, before the five-year
+prescriptive period begins to run, the creditor must be aware, as a matter of fact,
+(i) that loss, injury or damage has occurred, (ii) that the loss, injury or
+damage was caused by a person’s act or omission, and (iii) of the identity of
+that person. Whether the creditor is aware that the act or omission that caused
+the loss, injury or damage is actionable in law should be irrelevant. This
+formula is included in the draft Bill annexed to the Report in section 5(1),
+(4) and (5). As the Commission has observed, it is an approach which is well
+represented in both civil law and common law jurisdictions (Discussion Paper No
+160, <a title="Link to BAILII version" href="/scot/other/SLC/DP/2016/160.html">[2016] SLC 160 (DP)</a>, para 4.8). The First Minister has announced on 5 September 2017 that the
+Scottish Government intends to bring forward a Bill to reform the law of
+prescription as part of its legislative programme. It will be the task of the
+Members of the Scottish Parliament to decide whether they agree with the
+Scottish Law Commission’s recommendation for the reform of the discoverability
+test achieves a fair balance between the interests of the creditor and the
+debtor in the obligation to make reparation.</p>
+
+<p class="ParaLevel1"><i>Conclusion</i></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would dismiss the appeal.</a></p><a name="para26">
+
+</a></div><a name="para26">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/75.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

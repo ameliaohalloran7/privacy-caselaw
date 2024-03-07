@@ -1,0 +1,430 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Hastings v Finsbury Orthopaedics Ltd &amp; Anor (Scotland) [2022] UKSC 19 (29 June 2022)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Gisha;} @font-face  {font-family:"Univers \(W1\)";}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.Paraheading3, li.Paraheading3, div.Paraheading3  {mso-style-name:"Paraheading 3";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  text-decoration:underline;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.Paraheading5, li.Paraheading5, div.Paraheading5  {mso-style-name:"Paraheading 5";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Hastings v Finsbury Orthopaedics Ltd &amp; Anor (Scotland) [2022] UKSC 19 (29 June 2022)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/19.html</i>
+<br>Cite as: 
+[2022] ECC 27,
+
+2022 SCLR 326,
+
+[2023] 1 All ER 885,
+
+2022 GWD 22-304,
+
+2022 SLT 771,
+
+[2022] UKSC 19,
+
+(2022) 188 BMLR 1,
+
+2022 SC (UKSC) 43
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2022/19.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2022/19.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2022/19.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b>Trinity Term</b></a></p>  
+<p class="JudgmentReferences" style="margin:0cm"><b>[2022] UKSC 19</b></p>  
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2021/2021_CSIH_6.html">[2021] CSIH 6</a></i></p>  
+<p class="JudgmentTitle">JUDGMENT</p>  
+<p class="JudgmentDetail1">Hastings (Appellant) </p>  
+<p class="JudgmentDetail1"><i>V</i></p>  
+<p class="JudgmentDetail1">Finsbury Orthopaedics Ltd and another (Respondents) (Scotland)</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Reed, President</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Kitchin</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Stephens</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lady Rose</p>  
+<p class="JudgmentJudges">Lord Lloyd-Jones</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">29 June 2022</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+<p class="JudgmentJudges">Heard on 28 April 2022</p>  
+<p class="JudgmentDetail1" align="left" style="text-align:left">&nbsp;</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>Appellant</i></a></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Robert Weir QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Robert Milligan QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Clare Connelly</p>  
+<p class="JudgmentAppRespInt">(Instructed by Thompsons Solicitors (Scotland) (Glasgow))</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondents (Finsbury Orthopaedics Ltd and Stryker UK Ltd)</i></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Kenny McBrearty QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Alexander Antelme QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">David Myhill</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Ewen Campbell</p>  
+<p class="JudgmentAppRespInt">(Instructed by Kennedys Law LLP (London))</p>  
+<p class="JudgmentAppRespInt" align="left" style="text-align:left"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3"><ol>  
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">LORD LLOYD-JONES: (</a><span style="text-transform:none">with whom Lord Reed, Lord Kitchin, Lord Stephens and Lady Rose agree)</span></p>  
+<li value="1"><a name="para1"> In 2009 the appellant, Mr John Hastings, underwent a metal-on-metal (“MoM”) total hip replacement (“THR”). The prosthetic hip used (“the MITCH–Accolade product”) was manufactured by the respondents, each making separate parts. In 2012 the appellant underwent revision of the hip implant in his left hip.
+</a></li>
+<p> </p>  
+<li value="2"><a name="para2"> The appellant claims that the replacement hip used in 2009 was defective and seeks damages under section 2 of the Consumer Protection Act 1987 (“the CPA”). The issues in the present case were limited at first instance to the question of whether certain propensities and risks inherent in MoM prosthetic hips rendered the particular combination of components used in the appellant’s operation defective within the meaning of section 3 of the CPA.
+</a></li>
+<p> </p>  
+<li value="3"><a name="para3"> In the Outer House the Lord Ordinary (Lord Tyre) held after a preliminary proof that the appellant had failed to prove that the particular product was defective. The Inner House (Lord President (Lord Carloway), Lord Menzies and Lord Woolman) refused the appellant’s reclaiming motion. The appellant now appeals against the First Division’s decision refusing the reclaiming motion. In the event that the appeal is successful the appellant seeks remission of the case to the Lord Ordinary to deal with any remaining issues of liability, causation and quantum.
+</a></li>
+<p> </p>  
+<p class="Paraheading3"><span style="color:black">The Directive and the CPA</span></p>  
+<li value="4"><a name="para4"> The CPA implemented the Directive of the Council of the European Communities, dated 25 July 1985 (No 85/374/EEC) on the approximation of the laws, regulations and administrative provisions of the member states concerning liability for defective products (the “Directive”).
+</a></li>
+<p> </p>  
+<li value="5"><a name="para5"> The preambles to the </a><a name="_Hlk103349857">Directive </a>provided in relevant part:
+</li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“… Whereas approximation of the laws of the member states concerning the liability of the producer for damage caused by the defectiveness of his products is necessary because the existing divergences may distort competition and affect the movement of goods within the common market and entail a differing degree of protection of the consumer against damage caused by a defective product to his health or property;</span></p>  
+<p class="MsoQuote"><span style="color:black">Whereas liability without fault on the part of the producer is the sole means of adequately solving the problem, peculiar to our age of increasing technicality, of a fair apportionment of the risks inherent in modern technological production; …</span></p>  
+<p class="MsoQuote"><span style="color:black">Whereas, to protect the physical well-being and property of the consumer, the defectiveness of the product should be determined by reference not to its fitness for use but to the lack of the safety which the public at large is entitled to expect; whereas the safety is assessed by excluding any misuse of the product not reasonable under the circumstances;</span></p>  
+<p class="MsoQuote"><span style="color:black">Whereas a fair apportionment of risk between the injured person and the producer implies that the producer should be able to free himself from liability if he furnishes proof as to the existence of certain exonerating circumstances; …”</span></p>  
+<li value="6"><a name="para6"> Article 1 provided:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“The producer shall be liable for damage caused by a defect in his product.”</span></p>  
+<li value="7"><a name="para7"> Article 4 provided:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“The injured person shall be required to prove the damage, the defect and the causal relationship between defect and damage.”</span></p>  
+<li value="8"><a name="para8"> Article 6.1 provided:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“A product is defective when it does not provide the safety which a person is entitled to expect, taking all circumstances into account, including:</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the presentation of the product;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the use to which it could reasonably be expected that the product would be put;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the time when the product was put into circulation.”</span></p>  
+<li value="9"><a name="para9"> Article 7 provided statutory defences which it was for the producer to prove including:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the state of scientific and technical knowledge at the time when he put the product into circulation was not such as to enable the existence of the defect to be discovered; …”</span></p>  
+<li value="10"><a name="para10"> The CPA, as at the relevant date in 2009, provided in relevant part:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“1(1)&nbsp;&nbsp; This Part shall have effect for the purpose of making such provision as is necessary in order to comply with the product liability Directive and shall be construed accordingly.”</span></p>  
+<p class="MsoQuote"><span style="color:black">“2(1)&nbsp;&nbsp; Subject to the following provisions of this Part, where any damage is caused wholly or partly by a defect in a product, every person to whom subsection (2) below applies shall be liable for the damage.”</span></p>  
+<li value="11"><a name="para11"> It is common ground that the respondents, as producers of the MITCH-Accolade product within section 2(2)(a), are persons within section 2(1).
+</a></li>
+<p> </p>  
+<li value="12"><a name="para12"> Section 3 defines “defect” as follows:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to the following provisions of this section, there is a defect in a product for the purposes of this Part if the safety of the product is not such as persons generally are entitled to expect; and for those purposes ‘<i>safety</i>’, in relation to a product, shall include safety with respect to products comprised in that product and safety in the context of risks of damage to property, as well as in the context of risks of death or personal injury.</span></p>  
+<p class="MsoQuote"><span style="color:black">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In determining for the purposes of subsection (1) above what persons generally are entitled to expect in relation to a product all the circumstances shall be taken into account, including -</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the manner in which, and purposes for which, the product has been marketed, its get-up, the use of any mark in relation to the product and any instructions for, or warnings with respect to, doing or refraining from doing anything with or in relation to the product;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; what might reasonably be expected to be done with or in relation to the product; and</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the time when the product was supplied by its producer to another;</span></p>  
+<p class="MsoQuote"><span style="color:black">and nothing in this section shall require a defect to be inferred from the fact alone that the safety of a product which is supplied after that time is greater than the safety of the product in question.”</span></p>  
+<li value="13"><a name="para13"> Section 4 provides for defences and states in relevant part:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In any civil proceedings by virtue of this Part against any person (‘the person proceeded against’) in respect of a defect in a product it shall be a defence for him to show -</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">…</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the state of scientific and technical knowledge at the relevant time was not such that a producer of products of the same description as the product in question might be expected to have discovered the defect if it had existed in his products while they were under his control; …”</span></p>  
+<li value="14"><a name="para14"> In advance of the preliminary proof, the parties agreed the following question for the court:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“Does the admitted inherent propensity of metal on metal hip prostheses to shed metal debris through wear in use (including trunnion wear), and the admitted risk that some patients may suffer an adverse reaction to such metal debris that may necessitate early revision, render the product less safe than persons generally were entitled to expect and thus defective within the meaning of the [CPA], taking account of all the circumstances, including the following particular circumstances relied upon by the pursuer:</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The knowledge reasonably to be expected of the body of orthopaedic surgeons responsible for advising patients as to the choice of prosthesis, pre and post supply;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The sufficiency of disclosure of the likelihood and severity of such risks of the product within the literature supplied in relation to the product, including the Instructions for Use; in particular having regard to point 1;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advice and warnings issued by the relevant regulatory authorities post supply;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advice and warnings issued by the manufacturers and suppliers post supply;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The combination of a titanium alloy stem and a cobalt chromium head;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The date of supply of the product;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fact that the product is no longer supplied?”</span></p>  
+<p class="Paraheading3"><span style="color:black">The application of the CPA</span></p>  
+<li value="15"><a name="para15"> This appeal is unusual in that the legal issues concerning the application of the CPA are largely agreed. The basic principles may be summarised as follows:
+</a></li>
+<p> </p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Directive and the CPA have introduced a system of no-fault liability. The concept of “defect”, introduced by the Directive and implemented by the CPA, is an autonomous one, defined in terms of failure of the product to meet an objective standard of safety that the court must evaluate.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The test of whether a product is defective is whether the safety of the product is not such as persons generally are entitled to expect. The test is not what is expected but one of entitled expectation. The test is an objective one. The standard of safety is measured by what the public at large is entitled to expect.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>What persons generally are entitled to expect is assessed having regard to all the circumstances which are factually or legally relevant to the evaluation of safety, including the matters identified in section 3(2). This must be evaluated at the time when the product was supplied by its producer to another. The assessment of risks associated with a product, which might inform entitled expectations as to its safety, must be done at the time the product is supplied and not with the benefit of hindsight.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In determining whether a product met the level of safety persons generally were entitled to expect, the court is entitled to have regard to everything now known about it that is relevant to that enquiry, irrespective of whether that information was available at the time it was put on the market or has come to light subsequently.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(v)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The burden of proof is on the consumer to establish a defect and a causal link to the injury. The standard and means of proof are matters for national law, subject to the principle of effectiveness.</p>  
+<p class="ParaNoNumber"><span style="color:black">(See <i>Wilkes v DePuy International Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2016/3096.html">[2016] EWHC 3096 (QB)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2016/3096.html">[2018] QB 627</a>, paras 66, 76, 96 per Hickinbottom J; <i>Gee v DePuy International Ltd, The DePuy Pinnacle Metal on Metal Hip Litigation</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2018/1208.html">[2018] EWHC 1208 (QB)</a>, paras 84-86, 98, 139-141 per Andrews J; <i>W v Sanofi Pasteur</i> <i>MSD SNC</i> (Case C-621/15) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2017/C62115.html">[2017] 4 WLR 171</a> at paras 29, 37-38.)</span></p>  
+<p class="Paraheading3"><span style="color:black">The basis of the appellant’s case at proof</span></p>  
+<li value="16"><a name="para16"> At proof, it was common ground that the statistical evidence presented to the court was not sufficient of itself to enable the court to conclude that the product was defective. As a result, the appellant presented his case on two main bases.
+</a></li>
+<p> </p>  
+<li value="17"><a name="para17"> First, he sought to prove that the MITCH-Accolade product was defective by demonstrating design flaws. In this regard, he maintained (a) that the metal debris created by the MITCH-Accolade product gave rise to a greater risk of an adverse effect on the patient and so a greater risk of early failure, in comparison with debris produced by non-metal-on-metal (“non-MoM”) prostheses, (b) that design features of the product created a greater risk of early failure than with non-MoM prostheses, and (c) that the outcome after revision was worse with the MITCH-Accolade product. Both parties relied upon expert evidence in four fields: orthopaedics, biomechanics, immunology/toxicology and histopathology. Under each head the Lord Ordinary rejected the appellant’s case: see paras 135, 146, 162. On appeal, there has been no challenge to these conclusions.
+</a></li>
+<p> </p>  
+<li value="18"><a name="para18"> The second basis on which the appellant put his case at proof was to rely on matters which were said to constitute prima facie evidence that the MITCH-Accolade product was defective. Here the appellant relied in particular on (a) expressions of professional concern by the orthopaedic community, (b) the conduct of the respondents in withdrawing the MITCH-Accolade product from the market and (c) the notices and alerts issued by regulators and by the respondents. The appellant maintained that these matters established that the MITCH-Accolade product was defective for the purposes of the CPA. The Lord Ordinary considered these matters in the light of the expert evidence including the evidence of Professor Platt and concluded that they did not establish a defect. The central question which arises on this appeal is, as formulated by the Lord President in the Inner House (at para 71), whether the Lord Ordinary was, after a further consideration of the evidence entitled to reach a conclusion that, notwithstanding the prima facie evidence, the pursuer had failed to overcome the burden of proof.
+</a></li>
+<p> </p>  
+<p class="Paraheading3"><span style="color:black">Entitled expectation</span></p>  
+<li value="19"><a name="para19"> In this case the nature of the product is such that there can be no entitlement to an absolute level of safety. It is natural for a prosthesis of this sort to wear and to shed metal debris that can cause soft tissue damage, so this of itself cannot be a defect: see <i>Gee</i> at para 117 per Andrews J. The test of entitled expectation was agreed by the parties and held by the Lord Ordinary (at para 119) to be whether, subject to <i>de minimis</i> considerations, the level of safety of the MITCH-Accolade product would not be worse, when measured by appropriate criteria, than existing non-MoM products that would otherwise have been used.
+</a></li>
+<p> </p>  
+<li value="20"><a name="para20"> The Lord Ordinary adopted two criteria of entitled expectation. First, he adopted the time to revision (also referred to as survivorship of the implant) which was considered by the expert witnesses to be a very important measure of implant performance. Secondly, he considered that he should also have regard to the prospects of success of revision surgery as a relevant consideration in assessing whether there was a failure to meet entitled expectation. With regard to the second criterion, the Lord Ordinary concluded that the appellant had not proved that metal debris from MoM THRs created a risk that revision surgery would be less likely to lead to a satisfactory outcome than with other prostheses. On appeal, therefore, the sole criterion of entitled expectation has been time to revision.
+</a></li>
+<p> </p>  
+<li value="21"><a name="para21"> The judge emphasised that the proof was concerned with the MITCH-Accolade product and not with MoM THRs in general. Accordingly, any findings he made had to be based upon evidence relating directly or by necessary implication to the MITCH-Accolade product. He noted that because of the short period during which the product was on the market, such evidence was not in abundant supply.
+</a></li>
+<p> </p>  
+<p class="Paraheading3"><span style="color:black">The statistical evidence: the evidence of Professor Platt</span></p>  
+<li value="22"><a name="para22"> At proof, the respondents relied upon evidence of biostatistics from Professor Robert Platt, Professor of Pharmacoepidemiology at McGill University, Canada. The appellant agreed that Professor Platt’s evidence was unchallenged and his attendance for cross-examination was not required. The appellant did not seek to call his own expert evidence on statistics. Furthermore, the parties were agreed that Professor Platt’s evidence demonstrated that there was no reliable statistical evidence that the revision rate of the MITCH-Accolade product was out of line with the relevant benchmarks.
+</a></li>
+<p> </p>  
+<li value="23"><a name="para23"> The Guidance issued in 2000 by the National Institute for Health and Clinical Excellence (“NICE”) stated that the best prostheses had a revision rate of 10% or less at ten years and that this should be regarded as the benchmark in the selection of prostheses for primary THR. A product would satisfy this benchmark if the 95% confidence interval of the Kaplan-Meier cumulative revision rates estimate for the relevant product included the benchmark revision rate. The UK Orthopaedic Data Evaluation Panel (“ODEP”) considered ten year outcome data to be the relevant minimum benchmark, and to characterise a THR product as “Class A”, ODEP required a revision rate of 3% or less at three years, 5% or less at five years, 7% or less at seven years and 10% or less at ten years. Again, under the ODEP approach, a product satisfied the NICE Guidance if the 95% confidence interval of the Kaplan-Meier cumulative revision rate estimate for the product included the benchmark revision rate.
+</a></li>
+<p> </p>  
+<li value="24"><a name="para24"> The Medical Device Alert (“MDA”) issued in April 2012 in respect of the MITCH-Accolade product had stated a revision rate of 10.7% at four years. Professor Platt provided an analysis based on data recorded in the UK National Joint Registry (the “NJR”) which showed a revision probability for the MITCH-Accolade product of 23.2% (95% CI 18.4-28.9%) at ten years, which was significantly worse than those for other prostheses. However, Professor Platt concluded that the use of the NJR data as a measure of survivorship would create a misleading impression for a number of reasons.
+</a></li>
+<p> </p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The NJR data were incomplete. The omission of a patient from the data could increase or decrease the estimated survivorship but the direction of bias was unknown.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Data on the MITCH-Accolade product suffered from small sample sizes which gave rise to wide confidence intervals and low certainty and limited the methodology available to detect outlier surgeons.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>There were few sources of survivorship estimates specific to the MITCH-Accolade product.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Survivorship estimates were only available for ten to 12 years of follow-up time which made it difficult to predict how survivorship estimates would evolve in the longer term. Only a few implants informed the estimates for longer follow-up times.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(v)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Survivorship estimates based on observational data could reflect confounding (ie selection bias) in that patients’ selection of implant devices might be related to characteristics that also influenced expected survivorship. As a result, estimated differences in survivorship across implants or over time might reflect differences in patient or doctor characteristics rather than differences in implant design. In the case of the MITCH-Accolade product, which was developed for young and/or active patients, the patients’ activity levels were of particular importance but data on this was missing. As a result it was not possible directly to assess the effect of activity levels on implant survivorship, nor to differentiate between the effects of activity levels and implant design when comparing survivorship across devices. Similarly, high body mass index had been found to reduce implant survivorship and might also influence the choice of hip implant device but the recording of such data was sparse. In addition to biasing the comparisons of survivorship across devices, variation in patient characteristics might also make it difficult to project future survivorship.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(vi)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A lower threshold for revision would, for reasons unrelated to device design, decrease the observed survivorship of MoM implants. Furthermore, follow-up guidelines, which could vary from country to country and could influence revision rates, further compounded comparisons of the survivorship of MoM hip implants with benchmarks.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(vii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>There might be reasons why revision risk was higher among younger patients.</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(viii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Patient gender was another potentially important predictor of survivorship. Most studies reported an increased risk of revision for men and the MITCH-Accolade population had a higher proportion of males than the general THR population.</p>  
+<li value="25"><a name="para25"> For these reasons, Professor Platt considered that inferences drawn from a simple comparison of MITCH-Accolade and overall THR revision rates would be biased by differences in the underlying patient populations. Unless such a comparison were appropriately adjusted for confounding factors including age, gender, health status and possibly other factors such as activity level and body mass index, they would not provide the basis for meaningful conclusions.
+</a></li>
+<p> </p>  
+<li value="26"><a name="para26"> Professor Platt also addressed the possible effect on the NJR figures of outliers - ie surgeons whose revision rates differed significantly from the normal range. (Both parties accepted in answer to questions at the hearing that outliers would have been removed from the NJR figures on which the benchmarks were based.) Professor Platt identified one surgeon (who had carried out 18 MITCH-Accolade implants of which ten were revised) as a potential outlier and a second surgeon (who had carried out 77 MITCH-Accolade implants of which 25 were revised) as a borderline outlier. The patients implanted by the latter surgeon tended to have characteristics generally associated with lower, not higher risk of revision. When the revision rates of these two surgeons were excluded, the ten year cumulative probability revision estimate for the MITCH-Accolade product fell from 23.2% (95% CI 18.4-28.9%) to 14.3% (95% CI 9.8-20.7%). Applying the ODEP’s principle that a device fell within NICE guidance if the 95% confidence interval of its Kaplan-Meier cumulative revision rate included the benchmark revision rate, with the removal of the two outlier surgeons the MITCH-Accolade product met NICE guidance.
+</a></li>
+<p> </p>  
+<li value="27"><a name="para27"> Professor Platt concluded (at para 161):
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“161.&nbsp;&nbsp; My examination of available data on revisions of the MITCH-Accolade product indicates that there are limited data available to reliably estimate the survivorship of the MITCH-Accolade and to compare its survivorship to other THR prostheses. When taking into consideration (1) the small sample sizes for MITCH-Accolade prostheses and the correspondingly large uncertainty in survivorship estimates, (2) the substantial variation in revision rates across surgeons, (3) the notable differences in the characteristics of patients implanted with the MITCH-Accolade versus other hip implant products, and (4) the potential biases created by such differences (as well as by differences in characteristics not recorded in the data), I find no reliable evidence that the survivorship of the MITCH-Accolade is out of line with benchmarks as of the time the product was introduced to the market, as of the time the Pursuer’s hips were implanted, and as of today.”</span></p>  
+<p class="Paraheading3"><span style="color:black">The analysis by the Lord Ordinary</span></p>  
+<li value="28"><a name="para28"> The Lord Ordinary accepted that expression of serious professional concerns, followed by the issuing of an official alert and the withdrawal from the market of an entire range of products constituted powerful prima facie evidence that those products were not performing in accordance with expectation. However, he considered that that was not necessarily the same as not performing in accordance with entitled expectation. He correctly considered that, in assessing whether the latter had been established, he was entitled to proceed with the benefit of hindsight and to have regard to material that was available at proof which was not available in 2012 when the MoM THRs ceased to be used.
+</a></li>
+<p> </p>  
+<li value="29"><a name="para29"> In the course of his very careful opinion, the Lord Ordinary identified two criteria of entitled expectation in relation to the MITCH-Accolade product: time to revision (survivorship) and prospects of success of revision surgery. So far as the latter was concerned, following a detailed examination of the evidence the Lord Ordinary concluded that the appellant had not established on the balance of probabilities that metal debris produced by MoM THRs such as the MITCH-Accolade product created a risk that revision surgery following failure of the primary implant would be less likely to lead to a satisfactory outcome than revision surgery following failure of a primary implant made of other materials. No point has been taken on this conclusion on appeal. As a result, we are concerned solely with the judge’s analysis of whether time to revision gave rise to a breach of an entitled expectation.
+</a></li>
+<p> </p>  
+<li value="30"><a name="para30"> Observing that the proof was concerned with the MITCH-Accolade product and not with MoM THRs in general, the Lord Ordinary observed that any finding must be based upon evidence relating directly or by necessary implication to the MITCH-Accolade product. He noted that of the expert witnesses Professor Pandit (the respondents’ orthopaedic expert) had never used the product, Professor Breusch (the appellant’s orthopaedic expert) had never implanted any MoM device and Dr McCarthy (the respondents’ histopathology expert) was also unfamiliar with this kind of MoM THR. Furthermore, he had not been referred to any article specific to the MITCH-Accolade product and it had not been suggested that any such article existed. As a result, he considered that it was necessary to make what he could of published data in relation to the product, properly interpreted. In his view the evidence of Professor Platt was accordingly of importance.
+</a></li>
+<p> </p>  
+<li value="31"><a name="para31"> The Lord Ordinary referred to the NICE benchmark (that the best prostheses demonstrate a revision rate of 10% or less at ten years) and to the ODEP criteria for categorising a THR product as Class A in relation to the NICE benchmark (revision rates of 3% at three years, 5% at five years, 7% at seven years and 10% at ten years subject to a 95% confidence interval). He noted that the MDA issued in April 2012 in relation to the MITCH-Accolade product referred to a revision rate of 10.7% at four years based on 271 patients recorded by the NJR. Professor Platt provided an analysis based on the NJR supplier feedback data of the cumulative revision probability of the MITCH-Accolade product, disclosing a figure of 23.2% (95% confidence interval 18.4%, 28.9%) at ten years. The figure for four years in the same table was 10.5% (95% CI 7.3%, 14.8%). The Lord Ordinary observed that, so far as they went, the data from 2012 which informed the Medicines and Healthcare Products Regulatory Agency (“MHRA”) alert and the (latest available) data from 2018 were consistent in showing, prima facie, a revision rate for MoM THRs significantly worse than rates for available alternatives.
+</a></li>
+<p> </p>  
+<li value="32"><a name="para32"> However, the Lord Ordinary observed that the thrust of Professor Platt’s report was to demonstrate that use of these figures as a measure of survivorship would create a misleading impression. He then summarised the reasons given by Professor Platt why registry data ought not to be used to measure current or to predict future survivorship of hip implants. (These are set out at paras 24-27 above). The Lord Ordinary found some of Professor Platt’s objections more persuasive than others. He observed that this may be a manifestation of the difference between proof to scientific standard and the civil legal standard of proof on balance of probabilities. He would not dismiss use of the NJR data merely on the ground that the NJR register was incomplete, unless there was evidence that the omissions created bias one way or the other. Nor would he regard difficulties in predicting future revision rates as a reason to refrain from reaching a view on survivorship on the basis of the evidence currently available. In addition, one or two of Professor Platt’s reasons could be viewed as double-edged: in relation to higher risk to younger patients receiving the MITCH-Accolade implant, there might be argument about which was the cause and which the effect. He was, however, convinced by Professor Platt’s other reasons why the available evidence in relation to revision rates of the product was not sufficient to establish that it had a materially lower survivorship than other available products or national standards. In the first place, he was satisfied that without adjustment of the 2012 NJR revision rate to take account of the two identified outlier surgeons, it could not provide a foundation for a conclusion that the revision rate for the MITCH-Accolade product was worse than that of alternative devices then available. Furthermore, the confounding factors identified by Professor Platt rendered it unsafe to draw a conclusion from the bare NJR data that the revision rate of the device was below the entitled expectation of those who received it. He found, in particular, that the MITCH-Accolade product was to a significant degree implanted in the younger and/or more active patients and that they were predominantly male. On the balance of probabilities those factors were likely to have lowered the average survivorship of the MITCH-Accolade product, for reasons unconnected with the implant itself.
+</a></li>
+<p> </p>  
+<li value="33"><a name="para33"> The Lord Ordinary also accepted that revision rates for the MITCH-Accolade product were likely to have been affected by the publicity accorded to MoM THRs generally by the MDAs and wider media coverage. In his evidence Professor Breusch had acknowledged that there was a lowering of the threshold for revision surgery because of clinicians’ fears that they would otherwise have a complication that had developed into something they could not satisfactorily deal with, and that this may have had an effect on revision rates. Professor Pandit had considered that the only explanation for the dramatic rise in revision rates between 2009 and 2016 was a lowering of the threshold for revision surgery. This was the result of a combination of concerns that all MoM implants were likely to have a poor outcome and reports in the wider media (not to date established as well-founded) that metal debris from MoM implants could have broader systemic consequences. The Lord Ordinary accepted that it was likely, on the balance of probabilities, that these factors would have had the effect of increasing the revision rate in relation to the MITCH-Accolade product for reasons other than the performance of the product itself. They constituted a further reason not to treat the NJR data as a reliable indicator of the “success” of the product.
+</a></li>
+<p> </p>  
+<li value="34"><a name="para34"> The Lord Ordinary stated his conclusion in the following terms (at para 163):
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“In my opinion, for the reasons set out in the preceding paragraphs, the pursuer has not proved, on balance of probabilities, at the time his prostheses were supplied, either</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that survivorship was worse for the Mitch/Accolade product than for existing alternative products that could have been implanted instead; or</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="color:black">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that use of the Mitch/Accolade product gave rise to an increased risk that revision surgery, in the event of its failure, would be unlikely to achieve as satisfactory an outcome as if the primary implant had been one of the existing alternatives.</span></p>  
+<p class="MsoQuote"><span style="color:black">I therefore find that the pursuer has not proved, on balance of probabilities, that the entitled expectation in relation to the Mitch/Accolade product at the time of its supply to the pursuer was not met. It follows that he has not proved, on balance of probabilities, that there was a defect in the product so as to give rise to liability on the part of the defenders under the 1987 Act.”</span></p>  
+<p class="Paraheading3"><span style="color:black">The reasoning of the Inner House</span></p>  
+<li value="35"><a name="para35"> The Lord President, delivering the opinion of the First Division of the Inner House, proceeded on the basis that the CPA was a measure intended to improve consumer protection, whatever the wider purposes of the Directive in terms of competition and the free movement of goods might be. The liability for a defective product was strict but a pursuer had to prove the existence of a defect as defined by the CPA. There was considerable force in the contention that the court should not impose excessively exacting standards on pursuers. It should not expect the ordinary citizen to be able to mount an in-depth challenge which requires a detailed examination of a defender’s manufacturing processes and subsequent product safety analysis of the type which might be seen in commercial litigation between multinationals. However, there was no evidence that the Lord Ordinary had placed any insurmountable or excessive obstacles in the way of the appellant. Having identified the entitled expectation, the Lord Ordinary sought to ascertain whether the expectation had been met on the balance of probabilities. The appellant did not appear to have experienced any particular difficulty in securing expert witnesses or in producing relevant data. He was prepared to agree the views stated by Professor Platt.
+</a></li>
+<p> </p>  
+<li value="36"><a name="para36"> The Lord Ordinary had decided the case on the basis that the appellant had failed to discharge the burden of proof to demonstrate the existence of a defect. The fundamental question was whether the Lord Ordinary was entitled to reach a conclusion that, despite the prima facie evidence, the appellant had failed to overcome the burden of proof. The Lord President concluded that it was a course open to the Lord Ordinary and which he had justified by reference to the material, some of it agreed, which was before him. The Lord Ordinary had concluded, as a matter of fact, that whatever may have been the state of knowledge at the time of the concerns, alerts and safety notices in the years 2010 to 2013, an analysis of the material now available did not demonstrate that they were soundly based. The Lord Ordinary’s reasoning explained and justified his ultimate decision that the inferences from the data did not demonstrate a defect. The Lord Ordinary had been entitled to hold that, when the up to date information was considered, the concerns, alerts and warnings lacked a sound underlying scientific or statistical base.
+</a></li>
+<p> </p>  
+<p class="Paraheading3"><span style="color:black">The case for the appellant</span></p>  
+<li value="37"><a name="para37"> On behalf of the appellant it is submitted that, notwithstanding the evidence of Professor Platt, it was open to the appellant to prove his case by reference to evidence which established a prima facie case that the product did not meet entitled expectation. That evidence, the appellant submits, comprises the response of the orthopaedic community, the response of the national regulator and the response of the respondents themselves leading to their withdrawing the product from the market. The appellant submits that the respondents do not have evidence to counter this prima facie case. In particular, it is said that the evidence of Professor Platt does not assist the respondents in this regard; it is neutral because no reliable statistical assessment of long-term survivorship can be made. Accordingly, it is submitted, the prima facie case is maintained and the most plausible explanation for the failure of the appellant’s prosthesis is that the product is defective.
+</a></li>
+<p> </p>  
+<li value="38"><a name="para38"> In support of this submission the appellant relies in particular on three further matters. First, the appellant relies on the principle of effectiveness in EU law. This principle “requires, in terms of the detailed procedural rules governing actions for safeguarding rights which individuals derive directly from EU law, that those rules do not render practically impossible or excessively difficult the exercise of rights conferred by EU law” (<i>Sanofi Pasteur</i>, para 26; <i>Amministrazione delle Finanze dello Stato v SpA San Giorgio</i> (Case C-199/82) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1983/R19982.html">[1983] ECR 3595</a>). The appellant submits that the approach taken by the Lord Ordinary has made it excessively difficult for the appellant to prove his case. He submits that the medical research neither confirms nor rules out that the product is defective. Requiring the appellant to prove his case by statistics, without recourse to the other evidence on which the appellant relies, undermines the effectiveness of the Directive. The appellant is shut out of proving his case other than by scientific evidence that, on account of the respondents’ actions, is not available to him. He submits that the correct approach is to recognise that the appellant has put forward sufficiently serious, specific and consistent evidence that the product was defective to constitute a powerful prima facie case that it did not meet entitled expectation and which the respondents do not have the evidence to counter. In particular, the evidence of Professor Platt is neutral because no reliable statistical assessment of long-term survivorship can be made.
+</li>
+<p> </p>  
+<li value="39"><a name="para39"> Secondly, the appellant relies on the objective of consumer protection under the Directive. Relying on <i>Boston Scientific Medizintechnik GmbH v AOK Sachsen-Anhalt - Die Gesundheitskasse</i> (Joined Cases C-503/13 and C-504/13) [2015] 3 CMLR 6, he submits that the provision of the Directive must be interpreted so far as possible in favour of the party to whom protection is intended to be given, namely the consumer. He submits that the reference to a “fair” apportionment of the risks under recitals (2) and (7) of the Directive is of a piece with the objective of enhancing consumer protection and that this led the Court of Justice in that case to provide a broad interpretation of the rights granted to consumers. He submits that when considering the fair apportionment of risk between consumer and producer, it is not unfair on the respondents for the court to draw an inference from their voluntary decision to withdraw their product from the market or to preclude them from taking advantage of their withdrawal.
+</a></li>
+<p> </p>  
+<li value="40"><a name="para40"> Thirdly, the appellant submits that he has been set an impossible task, that of proving his case by statistics that are not available to him on account of the producer’s actions in withdrawing the product from the market. Such circumstances, it is submitted, call for a benevolent application of the provisions of the CPA. He submits that the domestic principle of fairness entitles the court to draw an inference that the product was defective and that it should do so, as a matter of common sense and fairness, unless there is further evidence before the court such that it considers it inappropriate to do so.
+</a></li>
+<p> </p>  
+<p class="Paraheading3"><span style="color:black">Discussion</span></p>  
+<li value="41"><a name="para41"> The appellant failed to establish his case on a statistical basis. The question which arises for consideration is whether the rejection by the Lord Ordinary of the statistical evidence nevertheless leaves prima facie evidence on which the appellant can rely to prove his case. In my view it does not. The three matters relied upon as prima facie evidence will be addressed in turn.
+</a></li>
+<p> </p>  
+<p class="Paraheading5"><span style="color:black">Serious professional concern</span></p>  
+<li value="42"><a name="para42"> The respondents accept that serious professional concerns came to be expressed among orthopaedic surgeons in relation to high revision rates and potential difficulties in carrying out revision operations in cases of MoM prostheses. The Lord Ordinary referred in his judgment to one of the first papers, published in July 2008 by a team at the Nuffield Orthopaedic Centre, Oxford, which reported an incidence of soft-tissue mass, described as a pseudotumour, in a group of patients experiencing problems after MoM hip resurfacing, as opposed to THR. The estimated incidence was approximately 1% of MoM resurfacing patients at five years. Further investigation was recommended. The Lord Ordinary noted that these observations were initially greeted with surprise and scepticism by the orthopaedic community. In 2009 the Nuffield team published a further paper reporting that revision surgery in a group of MoM resurfacing patients with symptomatic pseudotumours had a poor outcome because of the associated soft tissue destruction. A third paper by the Nuffield team described necrosis and inflammation in periprosthetic soft tissues in failed second generation MoM resurfacing arthroplasties, in response to the deposition of cobalt chromium wear particles. Adverse reaction to metal debris was first reported at a national orthopaedic conference in 2008-2009 and awareness of it increased during the next two to five years as a consequence of the publication of scientific papers in peer reviewed journals. An expert committee set up by the </a><a name="_Hlk103701387">MHRA</a> in April 2010 further developed awareness among clinicians, patients and others. The Lord Ordinary also noted that public concern regarding the safety of MoM implants was increased by the broadcasting of the results of an investigation by the British Medical Journal and BBC Newsnight.
+</li>
+<p> </p>  
+<li value="43"><a name="para43"> This evidence and these expressions of concern related, however, to the performance of MoM prostheses in general. It is not in dispute that the reported revision rates of MoM prostheses varied from product to product. The Lord Ordinary emphasised this in his opinion. He noted that there was “huge variation in the reported revision rates amongst different brands of MoM Hips”. He was at pains to emphasise that the proof was concerned only with the MITCH-Accolade prosthesis and did not seek to review MoM prostheses as an entire class or to analyse the performance of other MoM prostheses. Given the wide range of revision rates in the case of MoM prostheses generally and the fact that the revision rates for MoM prostheses were typically higher than those for non-MoM prostheses, the generalised expressions of professional concern do not assist the appellant in establishing that the MITCH-Accolade product was defective.
+</a></li>
+<p> </p>  
+<p class="Paraheading5"><span style="color:black">Withdrawal of the MITCH-Accolade product</span></p>  
+<li value="44"><a name="para44"> On behalf of the appellant it is submitted that “the respondents’ calculated action” in withdrawing the product from the market prevented the appellant from proving his case by reference to statistical analysis. The question whether the withdrawal of the product had this effect is considered below. To the extent that it may be suggested that this was a deliberate tactic on the part of the respondents it lacks any foundation. Contrary to the submission on behalf of the appellant, it is not open to the court to draw an adverse inference from the decision of the respondents to withdraw the MITCH-Accolade product.
+</a></li>
+<p> </p>  
+<li value="45"><a name="para45"> The Lord Ordinary made findings as to the reasons for the withdrawal of the product. He found that the product became commercially available in the United Kingdom in 2006. Its level of sales was never high in comparison with rival products. Sales figures for the MITCH-Accolade product show that 973 were sold in 2008, 468 in 2009, 212 in 2010, and 29 in 2011. It had been suggested in evidence that this was due to the fact that the second respondent (“Stryker”) had come late to the market, after other products had become well established. The Lord Ordinary found that after the first respondent (“Finsbury”) was acquired by DePuy International Ltd (“DePuy”) in 2009 it continued for a time to perform its contractual obligations to Stryker. The supply agreement was due to terminate in 2011 and was not renewed. There was evidence that this was because DePuy had no desire to renew an agreement to manufacture and supply a product to a commercial competitor. The Lord Ordinary accepted that this was part of the reason why the manufacture and supply of the MITCH-Accolade product ceased in about 2011 but considered that the predominant consideration was that sales of MoM THRs generally had sharply declined by the end of the decade.
+</a></li>
+<p> </p>  
+<li value="46"><a name="para46"> In addition, it should be noted that the product was withdrawn from the market in 2011 and this was before any MDA was issued in relation to the MITCH-Accolade product specifically, as opposed to MoM prostheses generally. The MDA relating to the MITCH-Accolade product specifically was issued on 2 April 2012 and the urgent Field Safety Notice (“FSN”) was issued by DePuy and Stryker on 26 April 2012. An FSN is a communication from the manufacturer identifying that a product may not be performing as intended by the manufacturer and explaining the actions to be taken by customers to reduce the specified risks.
+</a></li>
+<p> </p>  
+<li value="47"><a name="para47"> The Lord Ordinary found, and was clearly entitled to find, that the withdrawal of the MITCH-Accolade product was brought about by commercial considerations. As a result, the circumstances and reasons for the withdrawal of the product from the market do not provide any support for the appellant’s case that the product was defective.
+</a></li>
+<p> </p>  
+<p class="Paraheading5"><span style="color:black">Notices issued in relation to the MITCH-Accolade product</span></p>  
+<li value="48"><a name="para48"> The third category of evidence on which the appellant relies in support of his prima facie case comprises the notices issued in relation to the MITCH-Accolade product. I gratefully adopt the following summary of the relevant notices from the opinion of the Lord Ordinary.
+</a></li>
+<p> </p>  
+<li value="49"><a name="para49"> The first MDA in relation to MoM hip replacements was issued by the MHRA in April 2010. Under the heading “Problem” it stated that “the majority of patients implanted with MoM hip replacements have well-functioning hips and are thought to be at a low risk of developing serious problems”. However, it stated that a “small number of patients implanted with these hips may, however, develop progressive soft tissue reactions to the wear debris associated with MoM articulations”. The debris could cause “soft tissue necrosis and adversely affect the results of revision surgery”. The MDA further stated that “early revision of poorly performing MoM hip replacements should give a better revision outcome”. The action required of orthopaedic professionals by the MDA alert was to “put systems in place for the follow-up of patients implanted with MoM hip replacements including, where appropriate, blood metal ion measurements and cross sectional imaging”.
+</a></li>
+<p> </p>  
+<li value="50"><a name="para50"> Revised MDAs were issued on 2 April 2012 (for the MITCH-Accolade product in particular) and on 25 June 2012 (for all MoM hip replacements). The problem identified by the April MDA was the same. The action required in the June MDA differed depending upon whether the hip replacement had been a resurfacing, a THR with an acetabular head diameter of less than 36 mm, or a THR with a head diameter of 36 mm or more. Within the latter category, the action required depended upon whether or not the patient was symptomatic, but one recommendation common to both symptomatic and asymptomatic patients was for an annual follow-up for the life of the implant.
+</a></li>
+<p> </p>  
+<li value="51"><a name="para51"> On 26 April 2012 an urgent FSN was issued by DePuy and Stryker regarding the product. The problem identified was that review of post-market surveillance data suggested a higher than expected revision rate for the product. The action to be taken was not to implant the MITCH-Accolade product.
+</a></li>
+<p> </p>  
+<li value="52"><a name="para52"> The Lord Ordinary considered that a useful summary of the thinking of orthopaedic professionals as at 2013 is provided in a review article by Mellon, Liddle and Pandit which observed in relation to MoM hip replacements:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“Metal-on-metal (MoM) hip replacement became very popular in the middle part of the last decade. It promised to be a low wearing bearing surface, with the added distinction of allowing hip resurfacing, where, rather than cutting the femoral neck and inserting a stem into the femur, the femoral head is resurfaced with a metal cap. Metal-on-metal hip resurfacing arthroplasty (MoMHRA) promised improved mechanical performance, less bone resection and, if necessary, easier revision surgery.</span></p>  
+<p class="MsoQuote"><span style="color:black">However, whilst there is evidence that MoMHRA works well in young active men, the failure rates of MoMHRA in women and of metal-on-metal THR in both sexes are significantly higher than expected. Average failure rates at seven years are 11.8% for MoMHRA and 13.6% for metal-on-metal THR, although failure rates vary with the brand used (one brand of MoM THR was reported to have a failure rate of 22% at five years). This compares with rates of 3.3% - 4.9% for hip implants made of other materials. This high failure rate appears to be due to the pro-inflammatory effects of submicron wear particles; the effects of long-term exposure to these particles is largely unknown. In addition to the high failure rate, the mode of failure is a major concern. These failures typically involve soft tissue and bone disruption which can be massive, leading to severe functional impairment and extremely challenging revision surgery. These reactions have been referred to by a number of terms such as adverse reaction to metal debris (ARMD), aseptic lymphocytic vasculitis associated lesions (ALVAL), adverse local tissue reaction (ALTR) and pseudotumour.”</span></p>  
+<li value="53"><a name="para53"> The Lord Ordinary noted that since 2012 the implantation of MoM THRs had stopped altogether, although some MoM hip resurfacings continue to be performed.
+</a></li>
+<p> </p>  
+<li value="54"><a name="para54"> The respondents accept that, on their face, these notices appear to provide powerful evidence in support of the appellant’s case that the MITCH-Accolade product was defective. However, they submit that it is necessary to examine the basis on which they were issued.
+</a></li>
+<p> </p>  
+<li value="55"><a name="para55"> The MDA issued on 2 April 2012 states under the heading “Problem”:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“The MITCH TRH System is a metal-on-metal hip replacement system consisting of components that can be used in different combinations to carry out either hip resurfacing arthroplasty or total hip replacement. The system was manufactured by Finsbury Orthopaedics and was distributed in the UK by Stryker Orthopaedics between May 2006 and October 2011.</span></p>  
+<p class="MsoQuote"><span style="color:black">Analysis of data from the England and Wales National Joint Registry (NJR) up to 10 March 2012 has shown that the cumulative revision rate for MITCH TRH System used in hip resurfacing arthroplasty (revision rate of 3.1 % at four years based on 769 patients recorded by the NJR) is in line with relevant guidance from the National Institute for Health and Clinical Excellence (NICE) guidance, but that the cumulative revision rate for MITCH TRH System total hip replacements (revision rate of 8.8% at four years based on 445 patients recorded by the NJR) is higher than indicated as acceptable by NICE.</span></p>  
+<p class="MsoQuote"><span style="color:black">MITCH TRH total hip replacements consist of MITCH TRH acetabular cups used with MITCH TRH modular femoral heads and also an appropriate Stryker femoral stem with a V40 taper including Exeter V40 or uncemented Accolade or ABG II.</span></p>  
+<p class="MsoQuote"><span style="color:black">Further analysis of NJR data by DePuy has now determined that the cumulative revision rate of MITCH TRH System total hip replacements varies considerably depending upon which femoral stem is used:</span></p>  
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt"><span style="font-family:Wingdings;color:black">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="color:black">MITCH TRH with Exeter V40 - revision rate of 3.7% at four years based on 120 patients recorded by the NJR</span></p>  
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt"><span style="font-family:Wingdings;color:black">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="color:black">MITCH TRH with uncemented Accolade - revision rate of 10.7% at four years based on 271 patients recorded by the NJR</span></p>  
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt"><span style="font-family:Wingdings;color:black">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="color:black">MITCH TRH with ABG II - rate of usage too low to estimate revision rate.”</span></p>  
+<li value="56"><a name="para56"> It is clear that the reason for the MDA and the basis on which it was issued was the statistic that in the case of the MITCH-Accolade product the revision rate was 10.7% at four years.
+</a></li>
+<p> </p>  
+<li value="57"><a name="para57"> Similarly, the FSN issued by the respondents on 26 April 2012 includes the following summary:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“Review of post-market surveillance data suggests a higher than expected revision rate for the Mitch TRH Acetabular Cup/Mitch TRH Modular Head (Finsbury Orthopaedics Ltd) when implanted with uncemented Accolade femoral stem (Stryker Orthopaedics). The Mitch TRH System was manufactured by Finsbury Orthopaedics Ltd and was exclusively distributed by Stryker Orthopaedics between May 2006 and October 2011.”</span></p>  
+<li value="58"><a name="para58"> This is followed by a statement of the required actions which includes the instruction:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“Do not implant the Mitch TRH Acetabular Cup/Mitch TRH Modular Head with the uncemented Accolade femoral stem.”</span></p>  
+<li value="59"><a name="para59"> The following explanation is then provided:
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="color:black">“MITCH TRH total hip replacements consist of MITCH TRH acetabular cups used with MITCH TRH modular femoral heads and also an appropriate Stryker femoral stem with a V40 taper including Exeter V40 or uncemented Accolade or ABG II.</span></p>  
+<p class="MsoQuote"><span style="color:black">Unpublished UK NJR-NJR linked data as of 10 March 2012 shows that the combination of Mitch TRH Acetabular Cup /Mitch TRH Modular Head with the uncemented Accolade stem exhibit a 10.67% cumulative failure rate at four years. This is based on a cohort of 271 implantations.</span></p>  
+<p class="MsoQuote"><span style="color:black">The cumulative revision rate of MITCH TRH System total hip replacements varies considerably depending upon which femoral stem is used. Unpublished UK NJR-NJR linked data as of 10 March 2012 demonstrate the cumulative percent revision rate of Mitch THR modular primary total conventional hip replacement by femoral stem as follows:</span></p>  
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt"><span style="font-family:Wingdings;color:black">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="color:black">MITCH TRH with Exeter V40 - revision rate of 3.7% at four years based on 120 patients.</span></p>  
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt"><span style="font-family:Wingdings;color:black">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="color:black">MITCH TRH with uncemented Accolade - revision rate of 10.67% at four years based on 271 patients.</span></p>  
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt"><span style="font-family:Wingdings;color:black">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="color:black">MITCH TRH with ABG II - rate of usage too low to estimate revision rate.”</span></p>  
+<li value="60"><a name="para60"> Once again it is clear that the reason for the FSN and the basis on which it was issued was the statistic that in the case of the MITCH-Accolade product the revision rate was 10.67% at four years.
+</a></li>
+<p> </p>  
+<li value="61"><a name="para61"> On their face, these notices and the statistics on which they were based appear to support the existence of a failure to meet the standard of the applicable entitled expectation. As matters stood in 2012 it was clearly necessary for the MHRA and the respondents to issue these notices. In the case of the respondents, it was also a commercially prudent step to issue the FSN, notwithstanding the fact that the MITCH-Accolade product was no longer being marketed. However, these notices and statistics cannot of themselves be determinative of the issue whether there was a breach of an entitled expectation. In assessing whether there has been compliance with an entitled expectation the court is entitled and required to have regard to material available at the time of proof which was not available in 2012 when the notices were issued. By the time of proof in 2019 there was in evidence before the Outer House a statistical analysis by Professor Platt which was not contested by the appellant. The prima facie evidence provided by the notices must now be examined in the light of such of the conclusions of Professor Platt as were accepted by the Lord Ordinary.
+</a></li>
+<p> </p>  
+<li value="62"><a name="para62"> The reasoning, summarised earlier in this judgment, which led Professor Platt to the conclusion that the appellant’s case of a breach of entitled expectation was not made out on a statistical basis, applies equally to this category of prima facie evidence. Contrary to the submission on behalf of the appellant, the Lord Ordinary’s conclusions on the statistical evidence are not neutral. They contradict the appellant’s case founded on statistics and, for the same reasons, contradict the information then available which formed the basis of the concerns, alerts and safety notices in the years 2010 to 2013. Professor Platt’s evidence does not leave this category of prima facie evidence unchallenged; on the contrary it undermines it.
+</a></li>
+<p> </p>  
+<li value="63"><a name="para63"> On behalf of the appellant, Mr Weir seeks to circumvent this obstacle in his path by relying on Professor Platt’s conclusion that because available data on revisions are limited in respect of the MITCH-Accolade product, there is a large amount of uncertainty in survivorship estimates and that this uncertainty implies that the true survivorship rates of the MITCH-Accolade product could be considerably different from the survivorship estimates based on the data that are available. (Here, Professor Platt pointed in particular to the small number of MITCH-Accolade products that were implanted during the time they were available on the market in countries with joint registries and that the NJR Supplier Feedback Data, the primary source of the MITCH-Accolade product revision data, did not capture all the relevant information that would allow one to reliably estimate and compare the survivorship of the MITCH-Accolade product to that of other implants.) However, as we have seen, the Lord Ordinary did not accept Professor Platt’s evidence on this point. In particular, he rejected the view that he should dismiss use of the NJR data simply on the ground that the register was incomplete, unless there was evidence that the omissions created bias one way or the other. Similarly, he did not regard difficulties in predicting future revision rates as a reason to refrain from reaching a view on survivorship on the basis of the evidence available to him. The Lord Ordinary came to his conclusions for other reasons which undermined the appellant’s case founded on the prima facie evidence.
+</a></li>
+<p> </p>  
+<li value="64"><a name="para64"> As we have seen, the Lord Ordinary in expressing his conclusion on entitled expectation, considered that “the pursuer has not proved, on balance of probabilities” his case in relation to survivorship or an increased risk of an unsatisfactory outcome of revision surgery (Opinion of the Lord Ordinary at para 163). I agree with the Lord President (Opinion of the Inner House at para 69) that the fact that the Lord Ordinary expressed his conclusion in terms of the burden of proof does not invalidate his reasoning. It was open to him to come to this conclusion on the basis of the burden of proof. The short point is that the appellant failed to prove the existence of a defect.
+</a></li>
+<p> </p>  
+<li value="65"><a name="para65"> Ultimately, this appeal is no more than an attempt to appeal against the Lord Ordinary’s findings of fact. As the Lord President observed in his opinion (at para 73), in order to reverse a determination of fact, the appellate court must be satisfied that the Lord Ordinary erred in law, made a finding without any basis in the evidence or demonstrably misunderstood, or failed to consider, relevant evidence. Otherwise, it can only interfere with the findings of fact if it concluded that the Lord Ordinary was plainly wrong, in the sense of his decision not being capable of being reasonably explained or justified. None of these requirements is satisfied in the present case and, accordingly, it is not open to this court to interfere with the Lord Ordinary’s findings. In these circumstances there is no scope for the application of the principle of effectiveness in EU law, any principle of EU law which might require greater weight to be attached to considerations of consumer protection, or any domestic law principle of fairness which might require a benevolent application of the CPA.
+</a></li>
+<p> </p>  
+<li value="66"><a name="para66"> For these reasons I would dismiss this appeal.
+</a></li>
+<p> </p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/19.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

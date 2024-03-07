@@ -1,0 +1,747 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>O’Brien v Ministry of Justice [2017] UKSC 46 (12 July 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Warnock Pro";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.Default, li.Default, div.Default
+	{mso-style-name:Default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Warnock Pro",serif;
+	color:black;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      O’Brien v Ministry of Justice [2017] UKSC 46 (12 July 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/46.html</i>
+<br>Cite as: 
+[2017] WLR(D) 478,
+
+[2017] ICR 1101,
+
+[2017] UKSC 46,
+
+[2017] IRLR 939
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/46.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+478">[2017] WLR(D) 478</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011209124/casereport_66fc505d-f7d5-4beb-8eb5-0b35be199a00/html">[2017] ICR 1101</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/46.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 46</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1000.html">[2015] EWCA Civ 1000</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">O’Brien (Appellant) <i>v</i> Ministry of Justice
+(Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">12 July 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 7 July 2016, 8
+and 9 March 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:96.6pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Robin Allen QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Rachel Crasnow QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Tamar Burton</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Browne Jacobson LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">John Cavanagh QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Charles Bourne QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Rachel Kamm</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD REED: (<span style="text-transform:none">with whom Lady
+Hale, Lord Kerr, Lord Carnwath and Lord Hughes agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal raises a question relating to the temporal scope of Council
+Directive 97/81/EC of 15 December 1997, 1998 OJ L14/9, concerning the Framework
+Agreement on part-time work (“the directive”) as extended to the United Kingdom
+by Council Directive 98/23/EC of 7 April 1998, 1998 OJ L131/10, and the general
+principles of EU law governing the non-retroactivity of legislation.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question arises in the context of proceedings between Mr Dermod
+O’Brien QC and the Ministry of Justice concerning the pension to which Mr
+O’Brien is entitled by reason of his part-time service in a judicial office.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In essence, the question is whether, where a part-time worker retires
+after the entry into force of the directive and is entitled under the
+directive, taken together with national law, to an occupational pension based
+on his length of service, periods of service which were completed before the
+directive entered into force should be taken into account.</a></p><a name="para3">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The material facts are as follows. Mr O’Brien is a retired self-employed
+barrister who also held part-time judicial office as a recorder (a part-time
+judge of the Crown Court) between 1 March 1978 and 31 March 2005, when he
+retired at the age of 65. Recorders were not salaried but were paid fees on a
+per diem basis. There was no provision for the payment of a judicial pension on
+retirement.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In June 2005 Mr O’Brien wrote to the Ministry, requiring that he be paid
+a retirement pension on the same basis, adjusted pro rata temporis, as that
+paid to former full-time judges who had been engaged on the same or similar
+work. He was informed by the Ministry that he fell outside the categories of
+judicial office-holder to whom a judicial pension was payable. In September
+2005 he began proceedings in the Employment Tribunal, in which he claimed that
+he was entitled to a judicial pension by virtue of the directive and the regulations
+transposing it into domestic law.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 28 July 2010 the Supreme Court referred two questions to the Court of
+Justice for a preliminary ruling under article 267 TFEU:</a></p><a name="para6">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Is it for national law to
+determine whether or not judges as a whole are ‘workers who have an employment
+contract or employment relationship’ within the meaning of clause 2.1 of the
+Framework Agreement, or is there a Community norm by which this matter must be
+determined?</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If judges as a whole are
+workers who have an employment contract or employment relationship within the
+meaning of clause 2.1 of the Framework Agreement, is it permissible for
+national law to discriminate (a) between full-time and part-time judges, or (b)
+between different kinds of part-time judges in the provision of pensions?”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 1 March 2012 the Second Chamber of the Court of Justice, having
+received the opinion of the Advocate General (Kokott) on 17 November 2011, gave
+judgment: <i>O’Brien </i>(Case C-393/10) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2012/C39310.html">[2012] 2 CMLR 25</a>. It answered the
+questions as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; European Union law must
+be interpreted as meaning that it is for the member states to define the
+concept of ‘workers who have an employment contract or an employment
+relationship’ in clause 2.1 of the Framework Agreement … and in particular, to
+determine whether judges fall within that concept, subject to the condition
+that that does not lead to the arbitrary exclusion of that category of persons
+from the protection offered by Directive 97/81, as amended by Directive 98/23,
+and that agreement. An exclusion from that protection may be allowed only if
+the relationship between judges and the Ministry of Justice is, by its nature,
+substantially different from that between employers and their employees
+falling, according to national law, under the category of workers.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Framework Agreement
+... must be interpreted as meaning that it precludes, for the purpose of access
+to the retirement pension scheme, national law from establishing a distinction
+between full-time judges and part-time judges remunerated on a daily fee-paid
+basis, unless such a difference in treatment is justified by objective reasons,
+which is a matter for the referring court to determine.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following that ruling, the Supreme Court held that Mr O’Brien was at the
+material time a part-time worker within the meaning of clause 2.1 of the
+Framework Agreement, and that no objective justification had been shown for
+departing from the principle of remunerating fee-paid part-time judges on the
+same basis as full-time judges, subject to adjustment pro rata temporis. Mr
+O’Brien was therefore entitled to a pension on terms equivalent to a circuit
+judge (a comparable full-time judge): </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/6.html">[2013] UKSC 6</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/6.html">[2013] 1 WLR 522</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The case was remitted to the Employment Tribunal for determination of
+the amount of the pension to which Mr O’Brien was entitled. The question which
+then arose was whether, in calculating the amount of his pension, account
+should be taken of the whole of his service since the beginning of his
+appointment on 1 March 1978 (a period of 27 years), or only his service since
+the deadline for transposing the directive expired (a period of less than five
+years). The Employment Tribunal held that the calculation should take into
+account the whole of his service, but the Employment Appeal Tribunal held the
+contrary: </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/2014/0466_13_0403.html">[2014] ICR 773</a>. The Court of Appeal upheld the decision of the
+Employment Appeal Tribunal: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1000.html">[2015] EWCA Civ 1000</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1000.html">[2016] 1 CMLR 28</a>. Mr O’Brien
+now appeals to the Supreme Court.</p>
+
+<p class="ParaHeading">The legal context</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National law</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Domestic legislation provides for the payment of judicial pensions under
+two statutes, the Judicial Pensions Act 1981 and the Judicial Pensions and
+Retirement Act 1993. The 1981 Act applies to persons appointed prior to 31
+March 1995, unless they elect to have their pension paid under the 1993 Act.
+The 1993 Act applies to persons appointed on or after 31 March 1995. Under the
+Acts, a pension is payable to any person retiring from “qualifying judicial
+office”, subject to their having attained the age of 65 and, under the 1993
+Act, subject also to their having completed at least five years’ service in
+such office. At the material time, full-time judges and salaried part-time
+judges held a qualifying judicial office, but fee-paid part-time judges, such
+as recorders, did not. Under both schemes, the amount of pension payable to a
+full-time judge is based on his or her final year’s salary and on his or her
+number of years’ service in a qualifying judicial office by the date of
+retirement. Under the 1981 Act, circuit judges must have served for 15 years in
+order to qualify for a full pension of one half of their last annual salary.
+The corresponding period under the 1993 Act is 20 years. Under both schemes,
+judges who have served for shorter periods receive a proportion of the full
+pension corresponding to the length of their service. There is also a lump sum
+payable on retirement, the sum being based on the amount of the annual pension.
+Judicial pensions were at the material time non-contributory. Since 2012,
+judges have had to pay a contribution.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The United Kingdom gave effect to the directive by the Part-Time Workers
+(Prevention of Less Favourable Treatment) Regulations 2000 (SI 2000/1551),
+which came into force on 1 July 2000. The Regulations provide that a part-time
+worker has the right not to be treated by his employer less favourably than the
+employer treats a comparable full-time worker. In determining whether a
+part-time worker has been treated less favourably than a comparable full-time
+worker, the pro rata principle is to be applied unless it is inappropriate. The
+Regulations expressly do not apply to fee-paid part-time judges.</a></p><a name="para11">
+
+<p class="ParaHeading" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant EU law</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>European Commission v Moravia Gas Storage AS </i>(Case C-596/13 P)
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2015/C59613.html">[2015] 3 CMLR 17</a>, para 32, the Court of Justice stated:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“A new rule of law applies from
+the entry into force of the act introducing it, and, while it does not apply to
+legal situations that have arisen and become definitive under the old law, it
+does apply to their future effects, and to new legal situations. It is
+otherwise, subject to the principle of the non-retroactivity of legal acts,
+only if the new rule is accompanied by special provisions which specifically
+lay down its conditions of temporal application.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court applied that principle in the context of the directive in <i>Istituto
+Nazionale della Previdenza Sociale (INPS) v Bruno </i>(Joined Cases C-395/08
+and C-396/08) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C39508.html">[2010] ECR I-5119</a>, where the question arose whether service prior
+to the entry into force of the directive counted towards the service required
+to qualify for a retirement pension. The Court cited the principle that “new
+rules apply, unless otherwise specifically provided, immediately to the future
+effects of a situation which arose under the old rule” (para 53), and
+concluded:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Accordingly, the calculation of the
+period of service required to qualify for a retirement pension such as the
+pensions at issue in the main proceedings is governed by Directive 97/81,
+including periods of employment before the directive entered into force.” (para
+55)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court cited that judgment when rejecting an objection to the
+admissibility of the first preliminary reference in the present proceedings. In
+<i>O’Brien </i>(Case C-393/10) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2012/C39310.html">[2012] ICR 955</a>, the Court stated:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“24.&nbsp;&nbsp;&nbsp;&nbsp; The Latvian Government
+doubts whether the reference for a preliminary ruling is admissible. It is
+contrary to the principle of the protection of legitimate expectations and the
+principle of legal certainty to hold that Directive 97/81 may apply to facts
+which took place before the entry into force of that directive in the United
+Kingdom and which continued for a short time after its entry into force, even
+if the right to a retirement pension claimed by Mr O’Brien arose after the
+expiry of the time-limit for transposing Directive 97/81.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Court has already
+declared, as regards the applicability ratione temporis of that directive that
+new rules apply, unless otherwise specifically provided, immediately to the
+future effects of a situation which arose under the old rule. Thus the Court
+concluded that the calculation of the period of service required to qualify for
+a retirement pension is governed by Directive 97/81, including periods of
+employment before the directive entered into force (Joined Cases C-395/08 and
+C-396/08 <i>Bruno </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C39508.html">[2010] ECR I-5119</a>, paras 53 to 55).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequently, the
+reference for a preliminary ruling must be declared admissible.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court has treated occupational pensions as a form of pay, the
+entitlement to which accrues over the length of the employee’s service. In <i>Ten
+Oever v Stichting Bedrijfspensionenfonds voor her Glazenwassers en
+Schoonmaakbedrijf </i>(Case C-109/91) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1993/C10991.html">[1993] ECR I-4879</a>, the Court stated, in
+relation to its <i>Barber v Guardian Royal Exchange Assurance Group </i>judgment
+(Case C-262/88) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/R26288.html">[1990] ECR I-1889</a>:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“17.&nbsp;&nbsp;&nbsp;&nbsp; The Court’s ruling took
+account of the fact that it is a characteristic of this form of pay [scil,
+benefits provided for by private occupational pension schemes] that there is a
+time-lag between the accrual of entitlement to the pension, which occurs
+gradually throughout the employee’s working life, and its actual payment, which
+is deferred until a particular age.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Given the reasons
+explained in para 44 of the <i>Barber </i>judgment for limiting its effects in
+time, it must be made clear that equality of treatment in the matter of
+occupational pensions may be claimed only in relation to benefits payable in
+respect of periods of employment subsequent to 17 May 1990, the date of the <i>Barber</i>
+judgment ...”</p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summary of arguments
+of parties</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fundamental difference between the parties is as to whether Mr
+O’Brien’s entitlement to a pension in respect of his service prior to 7 April
+2000 (the final date for transposition of the directive) should be regarded as
+a legal situation which arose and became definitive under the law then in
+force, or should be regarded as one of the future effects of a legal situation
+which arose under the old law, to which the directive therefore applies.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr O’Brien argues that the reasoning in the <i>Bruno </i>and <i>O’Brien </i>judgments
+implies that periods of employment before the directive entered into force are
+to be taken into account when applying the directive in situations which arise
+after it should have been transposed. In particular, they are relevant not only
+to qualification for a retirement pension (which the Ministry does not dispute),
+but also to the quantification of that pension, where its quantification is
+based on the employee’s length of service.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Ministry argue that since, following <i>Ten Oever,</i> a pension
+payable under an occupational pension scheme constitutes deferred pay for past
+work, and the worker’s entitlement to pension accrues at the time of the work
+for which it constitutes pay, it follows from the non-retroactivity principle
+that the accrued right cannot be affected retrospectively by a change in the
+law. The entitlement is permanently fixed at the time when the right accrues,
+rather than being determined when the person retires and the pension becomes
+payable. On that basis, it is argued that Mr O’Brien’s non-entitlement to
+pension in respect of his first 22 years of service was definitively
+established before the directive entered into force.</a></p><a name="para18">
+
+<p class="ParaHeading" style="margin-left:36.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The view of the
+national court</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The majority of the court are inclined to think that the effect of
+Directive 97/81 is that it is unlawful to discriminate against part-time
+workers when a retirement pension falls due for payment. The directive applies
+ratione temporis where the pension falls due for payment after the directive
+has entered into force. In so far as part of the period of service took place
+prior to the directive’s entry into force, the directive applies to the future
+effects of that situation.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, the Court of Justice has not as yet considered the argument
+that if, following the <i>Ten Oever </i>line of authority, an occupational
+pension is treated as deferred pay, the right to which is acquired at the time
+of the work to which the pay relates, then it follows from the general
+principle of non-retroactivity that the directive does not alter or affect
+rights acquired (or, in Mr O’Brien’s case, not acquired) before it was brought
+into force, there being no provision in the directive which overrides that
+general principle. Although the majority of the court are inclined to think
+that <i>Ten Oever </i>was concerned with the exceptional <i>Barber </i>limitation,
+which does not arise in the present context, the correct approach does not
+appear to the Supreme Court to be acte clair.</a></p><a name="para20">
+
+<p class="ParaHeading">The question referred</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Supreme Court has therefore concluded that it is necessary to refer
+the following question to the Court of Justice:</a></p><a name="para21">
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">Does Directive 97/81, and in
+particular clause 4 of the Framework Agreement annexed thereto concerning the
+principle of non-discrimination, require that periods of service prior to the
+deadline for transposing the Directive should be taken into account when
+calculating the amount of the retirement pension of a part-time worker, if they
+would be taken into account when calculating the pension of a comparable
+full-time worker?</p>
+
+</a></div><a name="para21">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/46.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

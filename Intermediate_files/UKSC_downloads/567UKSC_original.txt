@@ -1,0 +1,743 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Tiuta International Ltd (in liquidation) v De Villiers Surveyors Ltd [2017] UKSC 77 (29 November 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Tiuta International Ltd (in liquidation) v De Villiers Surveyors Ltd [2017] UKSC 77 (29 November 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/77.html</i>
+<br>Cite as: 
+[2018] 1 BCLC 179,
+
+[2018] 2 All ER 203,
+
+[2017] 1 WLR 4627,
+
+[2017] UKSC 77,
+
+[2017] WLR 4627
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/77.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+1+WLR+4627">[2017] 1 WLR 4627</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/77.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 77</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/661.html">[2016] EWCA Civ 661</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Tiuta International Limited (in liquidation)
+(Respondent) <i>v</i> De Villiers Surveyors Limited (Appellant)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">29 November 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 6 November 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:82.8pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Alexander Hickey QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Robert Scrivener</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Reed
+  Smith LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:82.8pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Joanna Smith QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Edwin Peel</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Niranjan Venkatesan</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Rosling King LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD SUMPTION: (<span style="text-transform:none">with whom
+Lady Hale, Lord Kerr, Lord Lloyd-Jones and Lord Briggs agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The claimant, Tiuta International, was a specialist lender of short-term
+business finance, until it went into administration on 5 July 2012. These
+proceedings were brought by Tiuta in support of a claim against the defendant
+surveyors for negligently valuing a partially completed residential development
+over which it proposed to take a charge to secure a loan. The present appeal
+raises a question of principle concerning the quantum of damages. Since it
+arises out of an application for summary judgment, it has to be determined on
+facts some of which are admitted but others of which must be assumed for the
+purposes of the appeal. They are as follows.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 4 April 2011, Tiuta entered into a loan facility agreement with Mr
+Richard Wawman in the sum of £2,475,000 for a term of nine months from initial
+drawdown, in connection with a development in Sunningdale by a company called
+Drummond House Construction and Developments Ltd, with which Mr Wawman was
+associated. Advances under the facility were to be secured by a legal charge
+over the development. The facility agreement was made on the basis of a
+valuation of the development by De Villiers. They had reported that the
+development was worth £2,300,000 in its current state and that if completed in
+accordance with all current consents and to a standard commensurate with its
+location it would be worth about £4,500,000. The initial advance was drawn down
+on 8 April 2011 as soon as the charge had been executed. Other advances under
+the facility followed.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 19 December 2011, shortly before the facility was due to expire,
+Tiuta entered into a second facility agreement with Mr Wawman in the sum of
+£3,088,252 for a term of six months in connection with the same development. Of
+this sum, £2,799,252 was for the refinancing of the indebtedness under the
+first facility and £289,000 was new money advanced for the completion of the
+development. A fresh charge was taken over the development to secure sums due
+under the second facility agreement. On 19 January 2012, Tiuta advanced
+£2,560,268.45, which was paid into Mr Wawman’s existing loan account, thereby
+discharging the whole of the outstanding indebtedness under the first facility.
+Between that date and 8 June 2012 further sums were drawn down under the second
+facility amounting to £281,590 and presumably spent on the development. The
+advances under the second facility were made on the basis of a further
+valuation of the development by De Villiers. There were three iterations of the
+further valuation. On 8 November 2011, De Villiers had valued the development
+in its current state at £3,250,000 and upon completion at £4,900,000. The
+current state valuation was subsequently revised on 22 December 2011 to £3,400,000
+and on 23 December 2011 to £3,500,000. The second facility agreement expired on
+19 July 2012, a few weeks after Tiuta went into administration. None of the
+indebtedness outstanding under it has been repaid.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is common ground that there can be no liability in damages in respect
+of the advances made under the first facility. This is because (i) there is no
+allegation of negligence in the making of the valuation on which the first
+facility agreement was based; and (ii) even if there had been, the advances
+made under that facility were discharged out of the advances under the second
+facility, leaving the lender with no recoverable loss. This last point is based
+on the decisions of the Court of Appeal in <i>Preferred Mortgages Ltd v
+Bradford &amp; Bingley Estate Agencies Ltd </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2002/336.html">[2002] EWCA Civ 336</a> and of this
+court in <i>Swynson Ltd v Lowick Rose LLP (in liquidation)</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/32.html">[2017] 2 WLR 1161</a>. It is not challenged on this appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The present claim is concerned only with the liabilities arising out of
+the valuation which De Villiers made for the purposes of the second facility.
+It is alleged, and for present purposes must be assumed, that the valuations
+given for the purposes of the second facility were negligent, and that but for
+that negligence the advances under the second facility would not have been
+made. In those circumstances, the valuers contend that the most that they can
+be liable for by way of damages is the new money advanced under the second
+facility. They cannot, they say, be liable for that part of the loss which
+arises from the advance made under the second facility and applied in discharge
+of the indebtedness under the first. If (as has to be assumed) Tiuta would not
+have made the advances under the second facility but for the valuers’
+negligence, the advances under the first facility would have remained
+outstanding and would have remained unpaid. That part of their loss would
+therefore have been suffered in any event, irrespective of the care, or lack of
+it, which went into the valuations prepared for the purposes of the second
+facility. On that ground, the valuers applied for a summary order dismissing
+that part of the claim which arose out of the refinancing element of the
+advances under the second facility.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my opinion the result of the facts as I have set them out is
+perfectly straightforward and turns on ordinary principles of the law of
+damages. The basic measure of damages is that which is required to restore the
+claimant as nearly as possible to the position that he would have been in if he
+had not sustained the wrong. This principle is qualified by a number of others
+which serve to limit the recoverable losses to those which bear a sufficiently
+close causal relationship to the wrong, could not have been avoided by reasonable
+steps in mitigation, were reasonably foreseeable by the wrongdoer and are
+within the scope of the latter’s duty. In the present case, we are concerned
+only with the basic measure. In a case of negligent valuation where but for the
+negligence the lender would not have lent, this involves what Lord Nicholls in <i>Nykredit
+Mortgage Bank plc v Edward Erdman Group Ltd (No 2)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1997/53.html">[1997] 1 WLR 1627</a>, 1631
+called the “basic comparison”:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is axiomatic that in assessing
+loss caused by the defendant’s negligence the basic measure is the comparison
+between (a) what the plaintiff’s position would have been if the defendant had
+fulfilled his duty of care and (b) the plaintiff’s actual position. Frequently,
+but not always, the plaintiff would not have entered into the relevant
+transaction had the defendant fulfilled his duty of care and advised the
+plaintiff, for instance, of the true value of the property. When this is so, a
+professional negligence claim calls for a comparison between the plaintiff’s
+position had he not entered into the transaction in question and his position
+under the transaction. That is the basic comparison. Thus, typically in the
+case of a negligent valuation of an intended loan security, the basic
+comparison called for is between (a) the amount of money lent by the plaintiff,
+which he would still have had in the absence of the loan transaction, plus
+interest at a proper rate, and (b) the value of the rights acquired, namely the
+borrower’s covenant and the true value of the overvalued property.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If the valuers had not been negligent in reporting the value of the
+property for the purpose of the second facility, the lenders would not have
+entered into the second facility, but they would still have entered into the
+first. On that hypothesis, therefore, the lenders would have been better off in
+two respects. First, they would not have lost the new money lent under the
+second facility, but would still have lost the original loans made under the
+first. Secondly, the loans made under the first facility would not have been
+discharged with the money advanced under the second facility, so that if&nbsp; the
+valuation prepared for the first facility had been negligent, the irrecoverable
+loans made under that facility would in principle have been recoverable as
+damages. There being no allegation of negligence in relation to the first
+facility, this last point does not arise. Accordingly, the lender’s loss is
+limited to the new money advanced under the second facility.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is what Timothy Fancourt QC, sitting as a Deputy High Court Judge, held.
+But the Court of Appeal disagreed. By a majority (Moore-Bick and King LJJ,
+McCombe LJ dissenting), they allowed the appeal. The leading judgment was
+delivered by Moore-Bick LJ. He criticised the deputy judge’s reasoning on the
+ground that it failed to take into account the fact that the second facility
+was structured as a refinancing so that the advance was used to pay off the
+pre-existing debt, thereby releasing the valuers from “any potential liability
+in respect of the first valuation.” From this, he concluded that the advance
+under the second facility “stands apart from the first and the basic comparison
+for ascertaining the appellant’s loss is between the amount of that second loan
+and the value of the security.” He explained this as follows:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The appellant entered into the
+second transaction in reliance on the respondent’s valuation. If the valuation
+had not been negligent, the appellant would not have entered into the second
+transaction, and would have suffered no loss on that transaction as a result.
+It would have been left with the first loan and the security for it, together
+with any claim it might have had against the valuer. However, that is of no
+relevance to the respondent in its capacity as valuer for the purposes of the
+second loan. The loss which the appellant sustained as a result of entering
+into the second transaction was the advance of the second loan, less the
+developer’s covenant and the true value of the security. If the value of the
+property was negligently overstated, the respondent will be liable to the
+extent that the appellant's loss was caused by its over-valuation.”</p>
+
+<p class="ParaNoNumber">Moore-Bick LJ went on to say that his conclusion would
+have been the same even if a different valuer had prepared the original
+valuation on which the first facility was based. This was because the valuer</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“valued the property itself in the
+expectation that the appellant would advance funds up to its full reported
+value in reliance on its valuation. There is nothing unfair in holding the
+respondent liable in accordance with its own valuation for the purposes of the
+second transaction.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I regret that I cannot agree. It does not follow from the fact that the
+advance under the second facility was applied in discharge of the advances
+under the first, that the court is obliged to ignore the fact that the lender
+would have lost the advances under the first facility in any event. Lord Nicholls’
+statement in <i>Nykredit</i> assumes, as he points out in the passage that I
+have quoted, that but for the negligent valuation, he would still have had the
+money which it induced him to lend. In the present case, Tiuta would not still
+have had it, because it had already lent it under the first facility.
+Moore-Bick LJ appears to have thought that this was irrelevant because the
+effect was to release the valuer from any potential liability in respect of the
+first facility. I would agree that if the valuers had incurred a liability in
+respect of the first facility, the lenders’ loss in relation to the second
+facility might at least arguably include the loss attributable to the
+extinction of that liability which resulted from the refinancing of the
+existing indebtedness. But the premise on which this matter comes before the
+court is that there was no potential liability in respect of the first facility
+because that was entered into on the basis of another valuation which is not
+said to have been negligent.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Moore-Bick LJ’s view appears to have been that none of this mattered
+because the valuer would have contemplated that he might be liable for the full
+amount of the advances under the second facility, so that it was a windfall for
+him that part of the advances was used to repay a pre-existing debt rather than
+to fund the development. A similar argument was advanced before us. The
+difficulty about it is that while the reasonable contemplation of the valuer
+might be relevant in determining what responsibility he assumed or what loss
+might be regarded as foreseeable, it cannot be relevant to Lord Nicholls’
+“basic comparison”. That involves asking by how much the lender would have been
+better off if he had not lent the money which he was negligently induced to
+lend. This is a purely factual inquiry. There are, as I have pointed out, legal
+filters which may result in the valuer being liable for less than the
+difference. For example, part of it may be too remote or is not within the
+scope of the relevant duty. But the valuer cannot be liable for more than the
+difference which his negligence has made, simply because he contemplated that
+on hypothetical facts different from those which actually obtained, he might
+have been. There are many cases in which the internal arrangements of a claimant
+mean that his financial loss is smaller than it might have been. That may be
+fortunate for the defendant, but it cannot make him liable for more than the
+claimant’s actual financial loss.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Joanna Smith QC, who appeared for the lenders, was realistic enough
+to perceive these difficulties, and adopted a rather different approach. She
+submitted that the court should disregard the fact that the advance under the
+second facility was applied in discharge of the outstanding indebtedness under
+the first, because that application of the funds was a collateral benefit to
+the lender, which they were not obliged to take into account in computing their
+loss. The argument is that if the discharge of the outstanding indebtedness
+under the first facility is disregarded, damages can be assessed as if the
+whole of the loan under the second facility was an additional advance. Since
+that additional advance would not have been made or lost but for the negligent
+valuations of November and December 2011 the whole of it is recoverable as
+damages.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am not persuaded that this was what the Court of Appeal had in mind,
+but her point is none the worse for that. The real objection to it is more
+fundamental. This court has recently had to deal with collateral benefits in a
+context not far removed from the present one. The general rule is that where
+the claimant has received some benefit attributable to the events which caused his
+loss, it must be taken into account in assessing damages, unless it is
+collateral. In <i>Swynson Ltd v Lowick Rose LLP (in liquidation)</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/32.html">[2017] 2 WLR 1161</a>, para 11, it was held that as a general rule “collateral benefits are
+those whose receipt arose independently of the circumstances giving rise to the
+loss.” Leaving aside purely benevolent benefits, the paradigm cases are
+benefits under distinct agreements for which the claimant has given
+consideration independent of the relevant legal relationship with the defendant,
+for example insurance receipts or disability benefits under contributory pension
+schemes. These are not necessarily the only circumstances in which a benefit
+arising from a breach of duty will be treated as collateral, for there may be
+analogous cases which do not exactly fit into the traditional categories. But
+they are a valuable guide to the kind of benefits that may properly be left out
+of account on this basis.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The discharge of the existing indebtedness out of the advance made under
+the second facility was plainly not a collateral benefit in this sense. In the
+first place, it did not confer a benefit on the lenders and so no question
+arises of either taking it into account or leaving it out of account. Lord
+Nicholls’ “basic comparison” requires one to look at the whole of the
+transaction which was caused by the negligent valuation. In this case, that
+means that one must have regard to the fact that the refinancing element of the
+second facility both (i) increased the lender’s exposure and ultimate loss
+under the second facility by £2,560,268.45, and (ii) reduced its loss under the
+first facility by the same amount. Its net effect on the lender’s exposure and
+ultimate loss was therefore neutral. Only the new money advanced under the
+second facility made a difference. It is true that the refinancing element
+might not have been neutral if the discharge of the indebtedness under the
+first facility had also extinguished a liability of the valuers under the first
+facility. But on the assumptions that we must make on this appeal there was no
+such liability. Secondly, even on the footing that there was such a liability,
+the benefit arising from the discharge of the indebtedness under the first
+facility was not collateral because it was required by the terms of the second
+facility. The lenders did not intend to advance the whole of the second
+facility in addition to the whole of the first, something which would have
+involved lending a total amount substantially in excess of any of the
+successive valuations. They never intended to lend more than £289,000 of new
+money. The concept of collateral benefits is concerned with collateral matters.
+It cannot be deployed so as to deem the very transaction which gave rise to the
+loss to be other than it was.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is why the decision of Toulson J in <i>Komercni Banka AS v Stone
+and Rolls Ltd</i> [2003] 1 Lloyd’s Rep 383, which was pressed on us as an
+analogy, was ultimately unhelpful. Toulson J was concerned with a complex series
+of frauds against a bank under which part of the proceeds of one fraud found
+its way back to the bank via a third party to serve as pump priming for
+distinct, further frauds. He declined to reduce the damages by the amount of
+these circular payments, because they were not an intrinsic part of the relevant
+venture or transaction but were simply “the result of [the fraudster’s]
+independent choice how to use the opportunity created by his fraud” (para 171).
+I doubt whether much is to be gained by analogies with other cases decided on
+their own peculiar facts, but <i>Komercni Banka</i> does not even offer a
+relevant analogy.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"><span style="color:#231F20"></span></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, which correspond to those given by the Deputy
+Judge and by McCombe LJ in his dissenting judgment, I would allow the appeal. The
+reasons are of course sensitive to the facts, including those facts which are
+disputed and have been assumed for the purposes of this appeal. In particular,
+different considerations might arise were it to be alleged that the valuers
+were negligent in relation to both facilities. The Deputy Judge’s order was
+carefully drawn so as to address the point of principle while leaving these matters
+open. Subject to any submissions that may be made about the exact form of relief,
+I would restore his order.</a></p><a name="para15">
+
+</a></div><a name="para15">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/77.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

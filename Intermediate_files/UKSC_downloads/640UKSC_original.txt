@@ -1,0 +1,458 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Williams v The Trustees of Swansea University Pension &amp; Assurance Scheme &amp; Anor   [2018] UKSC 65  (17 December 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Williams v The Trustees of Swansea University Pension &amp; Assurance Scheme &amp; Anor   [2018] UKSC 65  (17 December 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/65.html</i>
+<br>Cite as: 
+[2019] 1 WLR 93,
+
+[2018] IRLR 306,
+
+[2018] ICR 584,
+
+[2019] WLR 93,
+
+[2019] Pens LR 11,
+
+[2018] WLR(D) 771,
+
+[2019] ICR 230,
+
+[2018] UKSC 65,
+
+[2019] IRLR 306,
+
+[2019] 2 All ER 1031
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/65.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2011213485/casereport_8309a587-7de2-4a24-b849-587ee9fd1c66/html">[2018] WLR(D) 771</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011213485/casereport_794cbd13-399e-4543-bb66-df60967ef499/html">[2019] 1 WLR 93</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+ <p></p><center><a href="/uk/cases/UKSC/2018/65.image.pdf"><h2>Summary</h2></a></center><p></p>
+<div class="WordSection1">
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <a name="Text12"> <b>Michaelmas Term </b> </a></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <b>[2018] UKSC 65 </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/1008.html">[2017] EWCA Civ 1008</a> </i></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:20.0pt">JUDGMENT </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b>&nbsp; </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b>&nbsp; </b></p> <div align="center"> <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="border-collapse:collapse"> <tbody><tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="Title1" style="margin-left:4.0pt"> <span style="font-size:20.0pt">Williams (Appellant) <i>v </i>The Trustees of Swansea University Pension &amp; Assurance Scheme and another (Respondents) </span></p>
+ <p class="MsoNormal"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="MsoNormal"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:14.0pt">before </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Kerr </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Carnwath </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Hodge </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lady Black </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Kitchin </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">JUDGMENT GIVEN ON </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">17 December 2018 </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center; text-indent:-288.0pt"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" style="text-align:justify"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:15.0pt">Heard on 16 October 2018 </span> </b></p> </td> </tr> </tbody></table> </div> </div> <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> <br clear="all" style="page-break-before:always"> </span>
+ <div class="WordSection2">
+ <p class="MsoNormal">&nbsp; </p> <div align="center"> <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> <tbody><tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Appellant </i></p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Respondents </i></p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Rachel Crasnow QC </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Keith Bryant QC </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Olivia-Faith Dobbie </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Saul Margo </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Didlaw Ltd) </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Blake Morgan LLP (Cardiff)) </p> </td> </tr> </tbody></table> </div>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal"> <b> <span style="font-size:15.0pt">&nbsp; </span> </b></p> </div> <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> <br clear="all" style="page-break-before:always"> </span>
+ <div class="WordSection3">
+ <p class="NewSpeech">LORD CARNWATH: ( <span style="text-transform:none">with whom Lord Kerr, Lord Hodge, Lady Black and Lord Kitchin agree) </span></p>
+ <p class="ParaHeading"> <b> <span style="font-style:normal">Introduction </span> </b></p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 15(1) of the Equality Act 2010 (“the 2010 Act”) provides that - </a></p><a name="para1">
+ <p class="MsoQuote" style="margin-left:72.0pt">“A person (A) discriminates against a disabled person (B) if - </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A treats B unfavourably because of something arising in consequence of B’s disability, and </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A cannot show that the treatment is a proportionate means of achieving a legitimate aim.” </p>
+ <p class="ParaNoNumber">The central issue in this appeal is the meaning of the expression “treats … unfavourably”. </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The facts can be shortly stated by reference to the agreed statement. Mr Williams was employed by the second respondent (“the University”) from 12 June 2000 until he retired for ill-health reasons with effect from 30 June 2013, at the age of 38. He suffers from Tourette’s syndrome and other conditions which satisfy the definition of “disability” under section 6 of the 2010 Act. He had been an active member of the second respondent’s pension scheme (“the Scheme”) throughout his employment, and had over 13 years’ pensionable service at the date of termination. </a></p><a name="para2">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For the first ten years of his employment, he had worked full time (35 hours per week). Thereafter, he worked anything from 17.5-26 hours per week when he was fit to work. By June 2013 his agreed working hours were half of his full-time hours (17.5 hours per week) and had been so for nearly two years, even though he was not at work for approximately 11 months. It is agreed that each reduction in hours of working arose from his disabilities. The variations in his working hours were made at his request as a “reasonable adjustment”, with the University’s agreement. </a></p><a name="para3">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Between June 2012 and April 2013, he took unpaid leave so that he could undergo specialist brain surgery, which took place in late November 2012. He commenced a phased return to work in late April 2013. However, in May 2013 he applied for ill-health early retirement (“IHR”) under the Scheme, and his application was successful, the agreed medical view being that he was likely to be permanently incapable of efficiently discharging the duties of his post with the University or in relation to any comparable post. He retired with effect from 30 June 2013. </a></p><a name="para4">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Scheme provided for accrual of benefits on a final salary basis up until 1 August 2009, from which time the Scheme was amended so that accrual of benefits on and after that date was on the basis of Career Average Revalued Earnings (“CARE”). Under the IHR provisions of the Scheme, Mr Williams is and was entitled to, and received, the following: </a></p><a name="para5">
+ <p class="ParaLevel2" style="text-indent:0cm">i) <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A lump sum and annuity, payable immediately, based on his accrued benefits without any actuarial reduction for early receipt. The annuity and lump sum were calculated on the basis of his actual salary at the relevant times, whether full time or part time; </p>
+ <p class="ParaLevel2" style="text-indent:0cm">ii) <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>An enhancement to both his lump sum and annuity (the “enhanced element”), again payable immediately and without any actuarial reduction for early receipt. The enhanced element was calculated on the basis of his actual salary at date of retirement and a period of deemed pensionable service, as though he had continued to be employed in active service to his Normal Pension Date (“NPD”) under the Scheme (age 67). </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The dispute relates solely to the enhanced element. Mr Williams contends that the reduced figure, resulting from its calculation by reference to his part-time rather than full-time salary, constitutes “unfavourable” treatment because of “something arising in consequence of his disabilities”, that is his inability to work full time. It therefore involves discrimination within the meaning of section 15(1)(a), unless shown under section 15(1)(b) to be a proportionate means of achieving a legitimate aim, or in other words justified. </a></p><a name="para6">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This contention was upheld by the Employment Tribunal, but rejected on appeal by the Employment Appeal Tribunal (Langstaff J) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/2015/0415_14_2107.html">[2015] ICR 1197</a> and by the Court of Appeal (Arden, Briggs and Bean LJJ) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/1008.html">[2018] ICR 233</a>. It is common ground that if the appeal succeeds, the appeal will have to be remitted to the Employment Tribunal to consider the issue of justification under section 15(1)(b). </p>
+ <p class="ParaHeading"> <b>Comparison with the previous law </b></p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is accepted by both sides that section 15 needs to be considered in the context of the previous law, as interpreted by the House of Lords in </a><a name="_Hlk528805047"> <i>Lewisham London Borough Council v Malcolm </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2008/43.html">[2008] UKHL 43</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2008/43.html">[2008] 1 AC 1399</a> . We have been referred to the words of the Solicitor General in a Public Bill Committee on what was then clause 14 of the Equality Bill (Hansard (HC Debates), 16 June 2009, col 275): </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“Like the provision in the 1995 Act, clause 14 is intended to provide that the disabled person demonstrates that they have been subjected to detrimental treatment because of something connected with their disability and, secondly, that the duty holder should be able to justify that treatment. However, we have revised the wording from the 1995 Act because we cannot simply carry it forward as the finding in the courts said that we did not achieve the protection that we intended. We therefore dropped the requirement for a comparator.” </p>
+ <p class="ParaNoNumber">Similarly, the Explanatory Note to section 15 of the Act states: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“This section is a new provision. The Disability Discrimination Act 1995 provided protection from disability-related discrimination but, following the judgment of the House of Lords in the case of <i>London Borough of Lewisham v Malcolm </i><a title="Link to BAILII version" href="/uk/cases/UKHL/2008/43.html">[2008] UKHL 43</a>, those provisions no longer provided the degree of protection from disability-related discrimination that is intended for disabled people. This section is aimed at re-establishing an appropriate balance between enabling a disabled person to make out a case of experiencing a detriment which arises because of his or her disability, and providing an opportunity for an employer or other person to defend the treatment.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The direct predecessor of section 15 was section 3A of the Disability Discrimination Act 1995: </a></p><a name="para9">
+ <p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of this Part, a person discriminates against a disabled person if - </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for a reason which relates to the disabled person’s disability, he treats him less favourably than he treats or would treat others to whom that reason does not or would not apply, and </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he cannot show that the treatment in question is justified.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> <i>Malcolm </i>itself had been concerned with section 22 of the 1995 Act, directed at disability-related discrimination in the management of property, including in that case by eviction. Section 24(1) defined discrimination for that purpose in similar terms to section 15. It required consideration of whether, on the assumption that the eviction was for a reason related to a person’s disability, it involved treating him “less favourably than … others to whom that reason does not or would not apply”. In <i>Malcolm </i>a council tenant who suffered from schizophrenia had sublet his flat in breach of the tenancy agreement. When the council sought to determine the tenancy, he argued that the reason for his action related to his illness and that the eviction constituted discrimination contrary to section 22. </a></p><a name="para10">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is convenient to refer to the helpful summary of the background and substance of the decision by Elias LJ in <i>Griffiths v Secretary of State for Work and Pensions </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1265.html">[2015] EWCA Civ 1265</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1265.html">[2017] ICR 160</a> (a case directly concerned with “reasonable adjustments” under section 20 of the 2010 Act). As he explained (paras 52-54), one of the issues for the House was how the relevant comparison should be made: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“Who were the ‘others to whom that reason does not or would not apply’? This had been considered in detail by Mummery LJ giving judgment in the Court of Appeal in <i>Clark v Novacold Ltd </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1999/1091.html">[1999] ICR 951</a>. He illustrated the two competing constructions by taking the example of a blind man who wished to take his guide dog into a restaurant which had a ‘no dogs’ rule. Should the comparison be with an able bodied man who wished to take his dog into the restaurant? If so, there would be no less favourable treatment because all are treated the same. The able bodied man too would be refused entry for the same reason, namely that he wished to take his dog into the restaurant. Or should the comparison be with an able bodied man who did not need to take a dog into the restaurant and would not therefore be excluded? In that case there would be unfavourable treatment. In the context of <i>Malcolm </i>the first approach would require the comparison with an able bodied man who had sublet, and the second with someone who had not sublet. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">The problem with the first analysis was that it effectively rendered disability-related discrimination a dead letter and equated it for practical purposes with direct disability discrimination as Lord Brown of Eaton-under-Heywood recognised in terms. … The problem with the second analysis was that it effectively did away with the comparison exercise altogether, as all their Lordships accepted. It requires a comparison with persons to whom the reason for the treatment does not apply; logically the claimant will always be treated less favourably than such persons. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">The Court of Appeal in <i>Clark v Novacold Ltd </i>had preferred the latter approach on the grounds that it was what Parliament had intended, but in <i>Malcolm </i>their Lordships held, by a majority on this point … that the former was the proper comparison. So, in the view of the majority, the comparison is a like for like exercise; the comparator must be similarly placed to the disabled claimant in all relevant respects save for the disability. This is precisely what is required in direct discrimination cases.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Although it is not in dispute that the wording of section 15 was intended in broad terms to reverse the ruling in <i>Malcolm </i>, our task is not to try to re-construct the pre- <i>Malcom </i>law. It is to the section itself, interpreted in accordance with ordinary principles, that we must look for the applicable tests in the present case. The most obvious feature, in line with the Solicitor General’s explanation, is the removal of any element of comparison. Instead, section 15 appears to raise two simple questions of fact: what was the relevant treatment and was it unfavourable to the claimant? </a></p><a name="para12">
+ <p class="ParaHeading"> <b>The judgments below </b></p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Employment Tribunal (para 32) accepted as correct the case as presented on behalf of Mr Williams. Its essence appears from the passage quoted by the tribunal at para 23 of their judgment. It was argued that, in line with previous authority on the equivalent term “detriment”, the expression “unfavourable treatment” should be given a broad meaning, including “any financial or economic disadvantage”. The submission continued: </a></p><a name="para13">
+ <p class="MsoQuote" style="margin-left:72.0pt">“A simple reasonable and logical analysis of the pension rules leads to the inevitable realisation that a person who retires suddenly following a heart attack or stroke would receive their deemed years of service at their full-time salary whilst a disabled employee who before retiring is forced to work part-time due [to] an increasing disability only receives their deemed years of service at their part-time salary. The disabled employee is consequently at a substantial financial disadvantage.” (para 23) </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On its face, that formulation appeared to re-introduce a form of comparison which the new section was intended to eliminate, but this time by reference to a hypothetical comparison with the treatment of someone with a different form of disability. In the EAT Langstaff J (President) held that in this respect the tribunal had been in error (para 30). I do not understand that aspect of his reasoning to be under challenge before us. As Ms Crasnow QC says (in her “speaking note” for Mr Williams): “Comparing Mr W to others who have different medical histories (stroke/heart attack) is the wrong approach.” </a></p><a name="para14">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the beginning of Langstaff J’s judgment, he had commented on the effect of the scheme for Mr Williams, which he described as “immensely favourable”: </a></p><a name="para15">
+ <p class="MsoQuote" style="margin-left:72.0pt">“Under the rules of the pension scheme applicable to him employees were entitled to a pension on retirement at age 67, but not earlier, unless retiring when their ill-health was such that they were plainly incapable of continuing in work. In the latter case, employees would be entitled not only to the immediate payment of pension - without actuarial reduction - in respect of the work they had already done (accrued pension) but also to an enhanced pension. This was also paid without actuarial reduction for early receipt as if they had continued working until normal retirement age (in the claimant’s case 67) continuing to receive the salary they had been receiving when they retired. This was plainly an immensely favourable arrangement for anyone eligible for it. Those eligible for it were necessarily disabled (within the meaning of the Equality Act 2010). Any other 38-year-old who left the service of the university at that age would have no prospect of receiving the payment of any accrued pension entitlement until they reached what would have been their normal retirement age, nor any prospect of receiving any enhanced pension.” (para 1) </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In a section under the heading “Unfavourably”, he gave his own view of the meaning of the term (paras 27-29). He did not think the word could be equated with the word “detriment” used elsewhere in the Act; nor, as was agreed, did it require a comparison with an identifiable comparator, actual or hypothetical. It was to be measured “against an objective sense of that which is adverse as compared with that which is beneficial”. He noted that the same word was used elsewhere in the Act, in provisions “which have a longer pedigree”, in relation to discrimination on the grounds of pregnancy (section 18(2)). In that context it had the sense of “placing a hurdle in front of, or creating a particular difficulty for, or disadvantaging a person …”. It was likely to be intended to have “much the same” sense in section 15. </a></p><a name="para16">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It was “for a tribunal to recognise when an individual has been treated unfavourably”, and it was not possible to be prescriptive. However, in his view - </a></p><a name="para17">
+ <p class="MsoQuote" style="margin-top:0cm;margin-right:32.55pt;margin-bottom: 26.0pt;margin-left:72.0pt">“… treatment which is advantageous cannot be said to be ‘unfavourable’ merely because it is thought it could have been more advantageous, or, put the other way round, because it is insufficiently advantageous. The determination of that which is unfavourable involves an assessment in which a broad view is to be taken and which is to be judged by broad experience of life. Persons may be said to have been treated unfavourably if they are not in as good a position as others generally would be.” </p>
+ <p class="ParaNoNumber">He cited <i>Malcolm </i>as an “obvious” example of “a life event which would generally be regarded as adverse”. </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>He also disagreed with the tribunal’s reasons for rejecting the respondents’ case on justification (paras 40ff). However, he was unable to say that there was necessarily only one result to which a properly directed tribunal could come. Accordingly he ordered that the appeal should be remitted to a different panel for a full rehearing (paras 50-51). </a></p><a name="para18">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the Court of Appeal, the leading judgment was given by Bean LJ. He adopted a similar approach to that of Langstaff J, although he also considered the application of the competing interpretations to different hypothetical examples. For the substance of his reasoning it is sufficient to refer to two passages. In the first (paras 42-43) he distinguished decided cases, including <i>Malcolm </i>, in which there had been an act which in itself caused disadvantage: </a></p><a name="para19">
+ </a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para19"> </a><a name="para42">“ </a>In the leading cases cited to us the ‘treatment’ complained of has been an act which itself disadvantages the claimant in some way. In <i>Clark v Novacold Ltd </i>the claimant was dismissed. In the <i>Lewisham London Borough Council </i>case Mr Malcolm was evicted. In <i>Shamoon v Chief Constable of the Royal Ulster Constabulary </i> <a href="http://www.bailii.org/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2003/11.html" title="Link to BAILII version"> <span style="color:windowtext;text-decoration: none"></span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2003/11.html">[2003] ICR 337</a>  the claimant chief inspector had part of her duties as a manager (the appraisal of subordinates) removed. The House of Lords held that it was not necessary for her to show financial loss in order to establish a detriment; it was enough that she might reasonably feel demeaned by this decision in the eyes of those over whom she had authority. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt"> <a name="para43">Ms Casserley [counsel for Mr Williams] placed the <i>Shamoon </i>case at the forefront of her argument, but I do not consider that it assists her. Mr Williams’ case does not turn on a question of reasonable perception. His pension is undoubtedly less advantageous or less favourable than that of a hypothetical comparator suddenly disabled by a heart attack or stroke. But it is far more advantageous or favourable than it would be if he had not become permanently incapacitated from his job. The <i>Shamoon </i>case is not authority for saying that a disabled person has been subjected to unfavourable treatment within the meaning of section 15 simply because he thinks he should have been treated better.” </a></p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the second (paras 48-49) he rejected what he saw as counsel’s implicit comparison with the treatment of different disability: </a></p><a name="para20">
+ <p class="MsoQuote" style="margin-left:72.0pt">“Ms Casserley’s argument begins by treating ‘unfavourable’ as not requiring any comparator but in reality it does depend on a comparator, namely another disabled member of the scheme with a different medical history. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">No authority was cited to us to support the view that a disabled person who is treated advantageously in consequence of his disability, but not as advantageously as a person with a different disability or different medical history would have been treated, has a valid claim for discrimination under section 15 subject only to the defence that the treatment was a proportionate means of achieving a legitimate aim. If such a claim were valid it would call into question the terms of pension schemes or insurance contracts which confer increased benefits in respect of disability caused by injuries sustained at work, or which make special provision for disability caused by one type of disease (for example cancer). The critical question can be put in this way: whether treatment which confers advantages on a disabled person, but would have conferred greater advantages had his disability arisen more suddenly, amounts to ‘unfavourable treatment’ within section 15. In agreement with the President of the Employment Appeal Tribunal I would hold that it does not.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>He differed from Langstaff J only in respect of the disposal of the appeal, having taken the view, shared as he thought with the EAT, that “the undisputed facts of this case cannot amount to unfavourable treatment within section 15” (para 52), the issue of justification did not arise, and accordingly he saw no purpose in remitting to the tribunal. Accordingly the court substituted an order simply dismissing Mr Williams’ claims. </a></p><a name="para21">
+ <p class="ParaHeading"> <b>The submissions in this court </b></p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For Mr Williams, Ms Crasnow’s submissions, as I understood them, had a somewhat different emphasis from the case below. I have already noted her rejection of the comparison (drawn before the tribunal) with a person with a different disability. Although her case was developed at considerable length, both in the appellant’s written case and in a speaking note presented to the court, her central submission can be shortly stated. In the words of her speaking note, it was “unfavourable” to calculate the enhanced element of his pension using his final salary (that is, the lower part-time salary) given that he had been working part-time: </a></p><a name="para22">
+ <p class="MsoQuote" style="margin-left:72.0pt">“… <i>only </i>because of his disabilities. Had he not been disabled he would have continued to work full-time.” </p>
+ <p class="ParaNoNumber">The same point was expressed slightly more fully in the written case (para 51): </p>
+ <p class="MsoQuote" style="margin-top:0cm;margin-right:11.3pt;margin-bottom:26.0pt; margin-left:72.0pt">“It is submitted that if the Court of Appeal had correctly understood the meaning of ‘unfavourable’, as advocated by the appellant, it would have been bound to find that Mr Williams was treated unfavourably, suffering detriment. The ‘unfavourable treatment’ was the adoption of his part-time salary as the multiplier when calculating the enhanced element of his pension, when at all times he was on a full-time contract and his hours had been reduced solely as a temporary reasonable adjustment by way of a phased return. The ‘detriment’ was that he was unable to achieve the full payment under that scheme. The two concepts are very similar and here one is an inevitable consequence of the other.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Her supporting submissions took issue with various aspects of the reasoning of the EAT and the Court of Appeal, including the suggestion of Langstaff J that the word “unfavourably” must be taken to have a different meaning from the word “detriment” as used elsewhere in the Act. She referred to the guidance given in the Equality and Human Rights Commission’s Code of Practice (2011), which she said adopts a more flexible approach. Under the heading “What is ‘unfavourable treatment’?”, the Code states: </a></p><a name="para23">
+ <p class="MsoQuote" style="margin-left:72.0pt">“5.7&nbsp;&nbsp;&nbsp;&nbsp; For discrimination arising from disability to occur, a disabled person must have been treated ‘unfavourably’. This means that he or she must have been put at a disadvantage. Often, the disadvantage will be obvious and it will be clear that the treatment has been unfavourable; for example, a person may have been refused a job, denied a work opportunity or dismissed from their employment. But sometimes unfavourable treatment may be less obvious. Even if an employer thinks that they are acting in the best interests of a disabled person, they may still treat that person unfavourably.” </p>
+ <p class="ParaNoNumber">The reference in that passage to “disadvantage” took her to an earlier passage dealing with the word “disadvantage” as it appears elsewhere in the statute (section 19): </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“4.9&nbsp;&nbsp;&nbsp;&nbsp; ‘Disadvantage’ is not defined by the Act. It could include denial of an opportunity or choice, deterrence, rejection or exclusion. The courts have found that ‘detriment’, a similar concept, is something that a reasonable person would complain about - so an unjustified sense of grievance would not qualify. A disadvantage does not have to be quantifiable and the worker does not have to experience actual loss (economic or otherwise). It is enough that the worker can reasonably say that they would have preferred to be treated differently.” </p>
+ <p class="ParaNoNumber">Those passages, Ms Crasnow submitted, show that words such as unfavourably, disadvantage, and detriment are similar in effect. The last sentence also supports a test which is not purely objective; regard may be had to what is reasonably seen as unfavourable by the person affected. In this connection she relied also on the UN Convention on the Rights of Persons with Disabilities, which was said to require a broad interpretation of discrimination, and in particular to support the need to have regard to “the subjective experience” of the person concerned, “albeit tempered by a reasonableness test”. </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For the respondents, Mr Bryant QC generally supported the reasoning of the EAT and the Court of Appeal. In particular he adopted Langstaff J’s interpretation (paras 28-29) of the word “unfavourably”: </a></p><a name="para24">
+ <p class="MsoQuote" style="margin-left:72.0pt">“… it has the sense of placing a hurdle in front of, or creating a particular difficulty for, or disadvantaging a person … The determination of that which is unfavourable involves an assessment in which a broad view is to be taken and which is to be judged by broad experience of life.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This “objective” test, he submitted, was to be contrasted with “the mixed subjective/objective test” held to apply when determining whether an individual has been subjected to a “detriment” under section 39 of the Act, that is whether the treatment is “of such a kind that a reasonable worker would or might take the view that in all the circumstances it was to his detriment?” (per Lord Hope in <i>Shamoon v Chief Constable of the Royal Ulster Constabulary </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2003/11.html">[2003] UKHL 11</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2003/11.html">[2003] ICR 337</a>, para 35). </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>However, as he submitted, whichever test is adopted the conclusion is the same. Mr Williams had not been treated unfavourably. He had not received a lower or lesser pension than would otherwise have been available to him if he had not been disabled. If he had not been disabled, and had been able to work full time, the consequence would not have been calculation of his pension on a more favourable basis, but loss of entitlement to any pension at all until his normal retirement date. </a></p><a name="para26">
+ <p class="ParaHeading"> <b>Discussion </b></p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Since I am substantially in agreement with the reasoning of the Court of Appeal, I can express my conclusions shortly, without I hope disrespect to Ms Crasnow’s carefully developed submissions. I agree with her that in most cases (including the present) little is likely to be gained by seeking to draw narrow distinctions between the word “unfavourably” in section 15 and analogous concepts such as “disadvantage” or “detriment” found in other provisions, nor between an objective and a “subjective/objective” approach. While the passages in the Code of Practice to which she draws attention cannot replace the statutory words, they do in my view provide helpful advice as to the relatively low threshold of disadvantage which is sufficient to trigger the requirement to justify under this section. It is unnecessary to refer to more remote sources such as the United Nations Conventions. Nor do I find it useful to speculate about the application of the section or the Code in hypothetical cases which are not before the court. </a></p><a name="para27">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On the other hand, I do not think that the passages in the Code do anything to overcome the central objection to Mr Williams’ case as now formulated, which can be shortly stated. It is necessary first to identify the relevant “treatment” to which the section is to be applied. In this case it was the award of a pension. There was nothing intrinsically “unfavourable” or disadvantageous about that. By contrast in <i>Malcolm </i>, <i> </i>as Bean LJ pointed out (para 42), there was no doubt as to the nature of the disadvantage suffered by the claimant. No one would dispute that eviction is “unfavourable”. Ms Crasnow’s formulation, to my mind, depends on an artificial separation between the method of calculation and the award to which it gave rise. The only basis on which Mr Williams was entitled to any award at that time was by reason of his disabilities. As Mr Bryant says, had he been able to work full time, the consequence would have been, not an enhanced entitlement, but no immediate right to a pension at all. It is unnecessary to say whether or not the award of the pension of that amount and in those circumstances was “immensely favourable” (in Langstaff J’s words). It is enough that it was not in any sense “unfavourable”, nor (applying the approach of the Code) could it reasonably have been so regarded. </a></p><a name="para28">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For these reasons I would dismiss the appeal. </a></p><a name="para29"> </a></div><a name="para29"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/65.html</i>
+</small>
+<p></p>
+
+ 
+
+
+</body></html>

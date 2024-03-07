@@ -1,0 +1,471 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Wang &amp; Anor, R (on the application of) v Secretary of State for the Home Department [2023] UKSC 21 (21 June 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:Gisha;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Garamond;  panose-1:2 2 4 4 3 3 1 1 8 3;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoCommentText, li.MsoCommentText, div.MsoCommentText  {mso-style-link:"Comment Text Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject  {mso-style-link:"Comment Subject Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.MsoRMPane, li.MsoRMPane, div.MsoRMPane  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} p.Caveat, li.Caveat, div.Caveat  {mso-style-name:Caveat;  margin:0cm;  text-align:justify;  border:none;  padding:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:18.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.Paraheading2, li.Paraheading2, div.Paraheading2  {mso-style-name:"Paraheading 2";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.Paraheading3, li.Paraheading3, div.Paraheading3  {mso-style-name:"Paraheading 3";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  text-decoration:underline;} p.Embargo, li.Embargo, div.Embargo  {mso-style-name:Embargo;  margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:0cm;  text-align:justify;  line-height:107%;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.Bulletpara, li.Bulletpara, div.Bulletpara  {mso-style-name:"Bullet para";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.Paraheading4, li.Paraheading4, div.Paraheading4  {mso-style-name:"Paraheading 4";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.Paraheading5, li.Paraheading5, div.Paraheading5  {mso-style-name:"Paraheading 5";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.Paraheading6, li.Paraheading6, div.Paraheading6  {mso-style-name:"Paraheading 6";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.CourtOrder, li.CourtOrder, div.CourtOrder  {mso-style-name:"Court Order";  margin:0cm;  line-height:107%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  color:#C00000;  font-weight:bold;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaSubHeading2, li.ParaSubHeading2, div.ParaSubHeading2  {mso-style-name:ParaSubHeading2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.ParaSubHeading3, li.ParaSubHeading3, div.ParaSubHeading3  {mso-style-name:ParaSubHeading3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaNoNumberApproved, li.ParaNoNumberApproved, div.ParaNoNumberApproved  {mso-style-name:ParaNoNumberApproved;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.CommentTextChar  {mso-style-name:"Comment Text Char";  mso-style-link:"Comment Text";  font-family:"Calibri",sans-serif;} span.CommentSubjectChar  {mso-style-name:"Comment Subject Char";  mso-style-link:"Comment Subject";  font-family:"Calibri",sans-serif;  font-weight:bold;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Wang &amp; Anor, R (on the application of) v Secretary of State for the Home Department [2023] UKSC 21 (21 June 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/21.html</i>
+<br>Cite as: 
+[2023] 1 WLR 2125,
+
+[2023] WLR 2125,
+
+[2023] UKSC 21
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/21.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2019006657/casereport_698103f6-7ebb-44d3-9e5f-9ba647f28a17/html">[2023] 1 WLR 2125</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/21.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/21.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b>Trinity Term</b></a></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>[2023] UKSC 21</b></p>  
+
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/679.html">[2021] EWCA Civ 679</a></i></p>  
+
+<p class="JudgmentTitle">JUDGMENT</p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">R (on the application of Wang and another) (Respondents)</span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">&nbsp;v </span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">Secretary of State for the Home Department (Appellant)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Briggs</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Kitchin</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Burrows</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lady Rose</p>  
+
+<p class="JudgmentJudges">Sir Declan Morgan</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">21 June 2023</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges">Heard on 4 May 2023</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="MsoNormal" align="center" style="text-align:center"><a name="_Hlk521913256"><i>Appellant</i></a></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Sir James Eadie KC</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Tom Cleaver</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Government Legal Department (Immigration))</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Garamond&quot;,serif">&nbsp;</span></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Rupert D’Cruz KC</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Ramby de Mello</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">Alexander Bryant</p>  
+
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Jackson &amp; Lyon LLP)</p>  
+
+<p class="JudgmentAppRespInt"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">Lord Briggs (</a><span style="text-transform:none">with whom </span><span style="text-transform:none">Lord Kitchin, Lord Burrows, Lady Rose and Sir Declan Morgan agree</span>): </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Introduction</span></p><ol>  
+
+<li value="1"><a name="para1"> This appeal concerns the eligibility for leave to remain under the Tier 1 (Investor) Migrant regime. In particular it relates to an individual who (among over 100 others) has subscribed to a scheme designed to ensure qualification for leave to remain as a Tier 1 (Investor) Migrant in return for a payment of £200,000. However, the Secretary of State has refused leave to remain on the basis that she did not consider that the individual's participation in the scheme qualified her for leave to remain. 
+</a></li>
+<p> </p>  
+
+<li value="2"><a name="para2"> The principal issue on this appeal is the meaning of the phrase “money under his control” in the context of its use in paragraph (b)(ii) of box 1 in Table 8B in Appendix A to the Immigration Rules (as in force on 22 December 2017), and the application of that meaning to the facts as found by the courts below. In <i>Rossendale Borough Council v Hurstwood Properties (A) Ltd</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2021/16.html">[2021] UKSC 16</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2021/16.html">[2022] AC 690</a>, para 13, (“<i>Rossendale</i>”) this court approved as a general principle of statutory construction the following dictum of Ribeiro PJ in <i>Collector of Stamp Revenue v Arrowtown Assets Ltd</i> <a title="Link to BAILII version" href="https://www.hklii.org/eng/hk/cases/hkcfa/2003/52.html">[2003] HKCFA 52</a> <a title="Link to BAILII version" href="https://www.hklii.org/eng/hk/cases/hkcfa/2003/52.html">(2003) 6 ITLR 454</a>, para 35:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“the driving principle in the Ramsay line of cases continues to involve a general rule of statutory construction and an unblinkered approach to the analysis of the facts. The ultimate question is whether the relevant statutory provisions, construed purposively, were intended to apply to the transaction, viewed realistically.”</p>  
+
+<li value="3"><a name="para3"> At para 14 of <i>Rossendale </i>this court went on to observe that, although Ribeiro PJ spoke of a transaction, his dictum was equally applicable to other fact sets to which the relevant statutory provision referred. In the present case the phrase “money under his control” has to be applied to money loaned to the Respondent, Ms Jie Wang, under a scheme designed to secure for her a right to remain in the UK under the Immigration Rules. 
+</a></li>
+<p> </p>  
+
+<li value="4"><a name="para4"> A first threshold question on this appeal is whether that general principle of statutory construction applies also to the Immigration Rules which, although dependent upon Parliamentary approval by the negative resolution procedure, are in substance a statement of policies by the Secretary of State for the Home Department (the Appellant) as to the conditions which she will apply in the determination of applications for (inter alia) leave to remain.
+</a></li>
+<p> </p>  
+
+<li value="5"><a name="para5"> In the context of tax avoidance schemes which depend upon a series of steps planned in advance the same general requirement to take an unblinkered and realistic approach to the analysis of the facts requires that the scheme be considered as a whole, rather than just to consider each step individually: see again <i>Rossendale</i> at paragraph 12 and the cases there cited. 
+</a></li>
+<p> </p>  
+
+<li value="6"><a name="para6"> A second threshold question on this appeal is whether that “in the round” appraisal of the scheme is required or even permitted when applying the points-based system of qualification for leave to remain, available to Tier 1 (Investor) Migrants, as the Respondent claims to be. She submits that such an “in the round” approach is irreconcilable with what she calls the “tick-box” structure of this part of the Immigration Rules, designed as they were to bring transparency and predictability to this part of the immigration regime, and to be capable of being operated quickly and reliably by junior Home Office officials without having to conduct a complex investigation into the surrounding facts.
+</a></li>
+<p> </p>  
+
+<li value="7"><a name="para7"> For the reasons which follow I consider that both those threshold questions should be answered in the affirmative. When therefore those principles are applied to Ms Wang’s case they lead me to the clear conclusion that the terms and realistic operation of the scheme by which she sought to qualify as a Tier 1 (Investor) Migrant did not have the result that the £1m lent to her pursuant to the scheme was “money in [her] control”, so that she failed to obtain the 30 points she needed under box 1 of Table 8B.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">The Tier 1 (Investor) Migrant regime</span></p>  
+
+<li value="8"><a name="para8"> The applicable Immigration Rules contain a concise statement of the general policy or purpose behind the Tier 1 (Investor) Migrant regime. Rule 245E, headed “Purpose” states that:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“This route is for high net worth individuals making a substantial financial investment to the UK”</p>  
+
+<li value="9"><a name="para9"> Rule 245ED, headed “Requirements for leave to remain” states:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“To qualify for leave to remain as a Tier 1 (Investor) Migrant, an applicant must meet the requirements listed below. If the applicant meets these requirements, leave to remain will be granted. If the applicant does not meet these requirements, the application will be refused.”</p>  
+
+<li value="10"><a name="para10"> There then follow a list of requirements, of which the following are relevant:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“(b) The applicant must have a minimum of 75 points under paragraphs 54 to 65-SD of Appendix A.</p>  
+
+<p class="MsoQuote">[…] (e) The applicant must be at least 18 years old and the assets and investment he is claiming points for must be wholly under his control.”</p>  
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt; margin-left:36.0pt;text-indent:36.0pt;line-height:107%">&nbsp;</p>  
+
+<li value="11"><a name="para11"> In Appendix A, under the heading “Attributes for Tier 1 (Investor) Migrants” the text in paragraphs 54 to 57 guides the reader to Tables 7, 8A or 8B, depending upon the dates when the applicant made the relevant applications. In Ms Wang’s case it is Table 8B which is applicable. It provides as follows, so far as is relevant:
+</a></li>
+<p> </p>  
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt; margin-left:36.0pt;line-height:107%">&nbsp;</p>  <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="margin-left:36.0pt;border-collapse:collapse;border:none">  <tbody><tr>   <td width="453" valign="top" style="width:339.4pt;border:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="line-height:107%"><b><span style="font-size:13.0pt;   line-height:107%">Money and Investment</span></b></p>   </td>   <td width="113" valign="top" style="width:3.0cm;border:solid windowtext 1.0pt;   border-left:none;padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="line-height:107%"><b><span style="font-size:13.0pt;   line-height:107%">Points </span></b></p>   </td>  </tr>  <tr>   <td width="453" valign="top" style="width:339.4pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="line-height:107%"><span style="font-size:13.0pt;   line-height:107%">The applicant:</span></p>   
+
+<p class="MsoListParagraphCxSpFirst" style="margin-left:54.0pt;text-indent:   -18.0pt"><span style="font-size:13.0pt;line-height:107%">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span><span style="font-size:13.0pt;line-height:107%">has money of his own under his   control in the UK amounting to not less than £1 million, or</span></p>   
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-left:54.0pt"><span style="font-size:13.0pt;line-height:107%">&nbsp;</span></p>   
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-left:54.0pt;text-indent:   -18.0pt"><span style="font-size:13.0pt;line-height:107%">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span><span style="font-size:13.0pt;line-height:107%">(i) owns personal assets which,   taking into account any liabilities to which they are subject, have a value   of not less than £2 million, and</span></p>   
+
+<p class="MsoListParagraphCxSpMiddle"><span style="font-size:13.0pt;line-height:   107%">&nbsp;</span></p>   
+
+<p class="MsoListParagraphCxSpLast" style="margin-left:54.0pt"><span style="font-size:13.0pt;line-height:107%">(ii) has money under his control   and disposable in the UK amounting to not less than £1 million which has been   loaned to him by a UK regulated financial institution.</span></p>   </td>   <td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="margin-bottom:8.0pt;margin-top:0cm;line-height:   107%"><span style="font-size:13.0pt;line-height:107%">30</span></p>   </td>  </tr>  <tr>   <td width="453" valign="top" style="width:339.4pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="line-height:107%"><span style="font-size:13.0pt;   line-height:107%">The applicant has invested not less than £750,000 of his   capital in the UK by way of UK Government bonds, share capital or loan   capital in active and trading UK registered companies, subject to the   restrictions set out in paragraph 65 below and has invested the remaining   balance of £1,000,000 in the UK by the purchase of assets or by maintaining   the money on deposit in a UK regulated financial institution.</span></p>   </td>   <td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="line-height:107%"><span style="font-size:13.0pt;   line-height:107%">30</span></p>   </td>  </tr>  <tr>   <td width="453" valign="top" style="width:339.4pt;border:solid windowtext 1.0pt;   border-top:none;padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="line-height:107%"><span style="font-size:13.0pt;   line-height:107%">The investment referred to above was made:</span></p>   
+
+<p class="MsoListParagraphCxSpFirst" style="margin-left:54.0pt;text-indent:   -18.0pt"><span style="font-size:13.0pt;line-height:107%">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span><span style="font-size:13.0pt;line-height:107%">within 3 months of the applicant’s   entry to the UK, if he was granted entry clearance as a Tier 1 (Investor)   Migrant and there is evidence to establish his date of entry to the UK,   unless there are exceptionally compelling reasons for the delay in investing,   or</span></p>   
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-left:54.0pt"><span style="font-size:13.0pt;line-height:107%">&nbsp;</span></p>   
+
+<p class="MsoListParagraphCxSpLast" style="margin-left:54.0pt;text-indent:-18.0pt"><span style="font-size:13.0pt;line-height:107%">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;   </span></span><span style="font-size:13.0pt;line-height:107%">[…]</span></p>   </td>   <td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;   padding:0cm 5.4pt 0cm 5.4pt">   
+
+<p class="MsoNormal" style="margin-bottom:8.0pt;margin-top:0cm;line-height:   107%"><span style="font-size:13.0pt;line-height:107%">15</span></p>   </td>  </tr> </tbody></table>  
+
+<p class="MsoNormal" style="line-height:107%">&nbsp;</p>  
+
+<li value="12"><a name="para12"> As is apparent, an applicant under this part of the regime has to score the full points under all three boxes to qualify for leave to remain.
+</a></li>
+<p> </p>  
+
+<li value="13"><a name="para13"> There are two relevant qualifications. The first is in paragraph 61A:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“In Tables 7 to 9B, ‘money of his own under his control’ and ‘money under his control’ exclude money that a loan has been secured against, where another party would have a claim on the money if loan repayments were not met, except where: […]”</p>  
+
+<li value="14"><a name="para14"> The second is in paragraph 65:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Investment excludes investment by the applicant by way of:</p>  
+
+<p class="MsoQuote">(a) […]</p>  
+
+<p class="MsoQuote">(b) Open-ended investment companies, investment trust companies, investment syndicate companies or pooled investment vehicles.”</p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">The Maxwell Scheme</span></p>  
+
+<li value="15"><a name="para15"> Standing back, Table 8B offers an applicant two types of financial route to qualification as a high net worth individual. The first is having “money of his own” in the UK of not less than £1m. The second is having offshore net assets of not less than £2m, plus loaned money in the UK of not less than £1m. In both cases the money must be under the applicant’s control, and the assets must be wholly under the applicant’s control. There is an issue whether “assets” in rule 245ED(e) also includes money, but in my view, as I shall explain, nothing turns on that. 
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> Ms Wang chose the second of those two routes. It is to be assumed (in the sense that the Secretary of State has not challenged it) that Ms Wang satisfied the offshore net worth requirement in paragraph (b)(i) of box 1 in Table 8B. She sought to satisfy the onshore loaned money requirement in paragraph (b)(ii) by paying £200,000 for entry into the Maxwell Scheme. She was one of over 100 aspiring Tier 1 (Investor) Migrants to do so. The scheme involved her making agreements (in standard non-negotiable form) with three companies, all wholly owned and controlled by two Russian nationals, Dimitry Petrovich Kirpichenko (“DK”) and his wife Nika Kirpichenko (“NK”). The three companies were to be, respectively, the lender, service provider and investee under the Maxwell Scheme. The first was Maxwell Asset Management Ltd (“MAM”), a UK-registered company regulated by the FCA and which qualified as a UK regulated financial institution under paragraph (b)(ii) in box 1 of Table 8B. The second was Maxwell Holding Ltd (“Holdings”) a Jersey-registered company which was MAM’s parent company. The third was Eclectic Capital Ltd, (“Eclectic”). 
+</a></li>
+<p> </p>  
+
+<li value="17"><a name="para17"> The first agreement (“the MAM Loan Agreement”) was made between MAM and Ms Wang on 23 October 2013. It provided for a £1m facility for a term of 5 years at a fixed interest rate of 3% per annum. The purpose of the facility was described as being “to enable the Borrower to meet the requirements of the UKBA Visa Tier 1 (Investor)” and to be used “for AID” (or “Authorised Investment Destination”), which was a defined term meaning “investments in share capital or loan capital in active and trading UK registered companies”. AID Company was defined as a “company for the purposes of AID”.
+</a></li>
+<p> </p>  
+
+<li value="18"><a name="para18"> The drawdown date was to be at the discretion of MAM, but under a formula designed to comply with the Tier1 (Investor) Migrant regime, and could only occur after Ms Wang had signed a loan or share purchase agreement with the AID Company. As with every one of the over 100 subscribers to the scheme, that was Eclectic. 
+</a></li>
+<p> </p>  
+
+<li value="19"><a name="para19"> The date of repayment was also to be in MAM’s discretion “considering symmetric repayment from the AID Company to the Borrower”. The agreement also provided for termination in the event that Ms Wang failed to achieve Tier 1 (Investor) Migrant status. Her rights and obligations under the agreement were non-transferable.
+</a></li>
+<p> </p>  
+
+<li value="20"><a name="para20"> The second agreement (“the Services Agreement”) was made on the same date, between Holdings and Ms Wang. Its provisions were slightly amended by an additional agreement made between the same parties on 20 June 2014. Taken together the Services Agreement and the additional agreement provided for Ms Wang to pay £200,000 up front for the specified services, repayable if she did not obtain Tier 1 (Investor) Migrant status. The services included negotiation with MAM (described as “the Manager”), advising on the Tier 1 requirements, ensuring that MAM invested the loan monies in “the Authorised investments” (defined as “share capital or loan capital in active and trading UK registered companies”), acting for Ms Wang under a power of attorney (although she says that she did not execute it), making all interest payments to MAM at no expense to her and guaranteeing to MAM her repayments of the loan to MAM. 
+</a></li>
+<p> </p>  
+
+<li value="21"><a name="para21"> &nbsp;Clause 3.7.4 of the Services Agreement gave Holdings discretion to choose specific investments on behalf of Ms Wang. On one reading this was limited to a monitoring role, designed to ensure that at no time did she have less than £1m invested in qualifying investments. On another view it gave Holdings discretion over investment of the whole of the loan monies coming from MAM, from start to finish. It is unnecessary to decide which is the better construction, because of an inference of fact made by the Upper Tribunal and by the Court of Appeal (at para 40 of the judgment of Popplewell LJ) that, in any event, the whole of the £1m loaned by MAM was pre-destined to go to Eclectic before Ms Wang acquired any right to receive it from MAM. For the reasons given by Popplewell LJ I consider that this inference was correctly made.
+</a></li>
+<p> </p>  
+
+<li value="22"><a name="para22"> The third agreement (“the Eclectic Loan Agreement”) was made between Ms Wang and Eclectic on 20 January 2014. It provided for Ms Wang to make a 5-year loan of £1 million to Eclectic at a fixed interest rate of 3.05% per annum. Eclectic had the right to convert the loan into preference shares of an equivalent nominal amount. Eclectic’s Articles specified that the preference shares were to carry a fixed coupon of 2%, deferred until the earlier of redemption or six years. Eclectic could redeem them at any time but Ms Wang only after six years. Meanwhile they were non-transferable by her and carried no voting rights. 
+</a></li>
+<p> </p>  
+
+<li value="23"><a name="para23"> Following the making of the Eclectic Loan Agreement, MAM duly transferred £1m to Eclectic, which invested it (like the MAM loans from all the other subscribers to the Maxwell Scheme) almost exclusively in Russian companies. In due course Eclectic exercised its right to convert Ms Wang’s loan into preference shares.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">The Decision and subsequent litigation</span></p>  
+
+<li value="24"><a name="para24"> Ms Wang was refused leave to remain by the Secretary of State on 22 December 2017 (“the Decision”). Two main grounds were relied on. The first was that, under the Maxwell Scheme as subscribed to by her, Ms Wang did not have the requisite control over the loan money from MAM, because she had no choice about its transmission on to Eclectic as investee. The second was that Eclectic was an excluded investee under paragraph 65(b) of Appendix A, although the Decision did not specify within which of the four types of excluded investee Eclectic fell. That decision was upheld upon administrative review in February 2018.
+</a></li>
+<p> </p>  
+
+<li value="25"><a name="para25"> Ms Wang applied for judicial review of the Decision, but lost before the Upper Tribunal (UT Judges Rimington and Jackson) in October 2019: [2019] UKHT 393 (IAC). They took the view that Ms Wang did not have a free choice whether to invest the proceeds of the MAM loan in Eclectic, so that it was rational and lawful for the Secretary of State to conclude that she failed the control requirement in paragraph (b)(ii) of box 1 of Table 8B. They also upheld the Secretary of State’s conclusion that Eclectic was an excluded investee under paragraph 65(b).
+</a></li>
+<p> </p>  
+
+<li value="26"><a name="para26"> The Court of Appeal (Underhill VP, Popplewell and Nugee LJJ) reversed the Upper Tribunal on both points: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/679.html">[2021] EWCA Civ 679</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2021/679.html">[2021] 4 WLR 70</a>. In a leading judgment by Popplewell LJ, with which both his colleagues agreed, they concluded that DK and NK retained control of the £1m MAM loan at all times, and that in practice Ms Wang had no choice as to the destination of the funds loaned (para 40). At para 42 they concluded that the MAM Loan Agreement coupled with the Services Agreement did not represent the whole of the arrangement agreed with Ms Wang and the other participants in the Maxwell Scheme, and that the Secretary of State had been entitled to conclude that Ms Wang had no choice but to have invested in Eclectic.
+</li>
+<p> </p>  
+
+<li value="27"><a name="para27"> Nonetheless the Court of Appeal concluded that Ms Wang did have the requisite degree of control of the MAM loan money for the purposes of paragraph (b)(ii) of box 1 of Table 8B. Their reasoning may be summarised in this way: First, the purpose of that control requirement was only to give sufficient assurance that the loan entitlement was personally available to the applicant for the making of an investment in a qualifying UK-registered company (paras 51 to 52). Secondly, provided that restrictions upon the applicant’s use of the loan money did not prevent its investment in a qualifying UK company, it mattered not if the restrictions compelled the applicant to invest in only one such company, provided that it qualified under box 2 of Table 8B (paras 56 to 58). 
+</a></li>
+<p> </p>  
+
+<li value="28"><a name="para28"> As to the second issue, the Court of Appeal concluded that it had not been shown that Eclectic was an excluded investee under paragraph 65(b). This was because it had been conceded by the Secretary of State that her case was not that Eclectic was one (or more) of the four types of entity specifically described in paragraph 65(b). Rather her case was that Eclectic shared the distinguishing features of the types expressly described, so that it should be treated as a member of the excluded class. The Court of Appeal concluded that the four types expressly described were exhaustive of the exclusion, so that the concession was fatal. The result was that the Decision was quashed.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">The Threshold Questions - principles for the interpretation of the Immigration Rules in general and the Points-Based System (“PBS”) in particular.</span></p>  
+
+<li value="29"><a name="para29"> It was common ground between counsel that the leading authority on the general principles to be applied in interpreting the Immigration Rules is <i>Mahad v Entry Clearance Officer</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2009/16.html">[2009] UKSC 16</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2009/16.html">[2010] 1 WLR 48</a> and, in particular, the following two passages in the judgment of Lord Brown of Eaton-under-Heywood. The first is his citation at para 10 from Lord Hoffmann’s judgment in <i>MO (Nigeria) v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2009/25.html">[2009] UKHL 25</a> <a title="Link to BAILII version" href="/uk/cases/UKHL/2009/25.html">[2009] 1WLR 1230</a>, para 4:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“Like any other question of construction, this [whether a rule change applies to all undetermined applications or only to subsequent applications] depends upon the language of the rule, construed against the relevant background. That involves a consideration of the immigration rules as a whole and the function which they serve in the administration of immigration policy.” </p>  
+
+<li value="30"><a name="para30"> The second is Lord Brown’s own contribution, later in paragraph 10:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“Essentially it comes to this. The Rules are not to be construed with all the strictness applicable to the construction of a statute or a statutory instrument but, instead, sensibly according to the natural and ordinary meaning of the words used, recognising that they are statements of the Secretary of State’s administrative policy.”</p>  
+
+<li value="31"><a name="para31"> Neither of these dicta suggest that, apart possibly from a relaxation of strictness, the interpretation of the Immigration Rules involves any significant departure from the general principles of statutory construction. Lord Hoffmann’s dictum states in terms that general principles of construction apply, so that interpretation should be contextual and purposive. Lord Brown’s encouragement to apply sensibly rather than strictly the natural and ordinary meaning of the words is simply the consequence of keeping in mind the context and purpose of the Immigration Rules. More to the point, neither dictum is inconsistent with the principle enunciated by Ribeiro PJ and approved in <i>Rossendale</i>, which requires a purposive approach to construction and a realistic and unblinkered approach to the application of the relevant provisions to the facts.
+</a></li>
+<p> </p>  
+
+<li value="32"><a name="para32"> Mr D’Cruz KC for Ms Wang sought to persuade us that the approach to the interpretation of this PBS regime for Tier 1 (Investor) Migrants should nonetheless be one that prioritised simplicity and predictability over sophistication so that, for example, it would be illegitimate to look at a scheme (like the Maxwell Scheme) in the round, if steps in the scheme appeared on their face, viewed individually, to comply with what he called the required elements in the “tick-box” scoring system. He easily demonstrated by reference to the 2006 White Paper “A Points-Based System: Making Migration Work for Britain” (Cm 6741) that efficiency, transparency and objectivity were objectives of the PBS, and that where possible the investigation of subjective intent and the exercise of unpredictable discretion were to be avoided. He pointed to dicta to the same effect about the PBS regime once implemented in <i>Alam v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/960.html">[2012] EWCA Civ 960</a> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2012/960.html">[2012] Imm AR 974</a>, CA at paras 35 and 45, in <i>Mudiyanselage v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/65.html">[2018] 4 WLR 55</a> at paragraphs 35 to 46 and in <i>EK (Ivory Coast) v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/1517.html">[2014] EWCA Civ 1517</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2014/1517.html">[2015] Imm AR 367</a>, paras 28 to 29 and 59. 
+</li>
+<p> </p>  
+
+<li value="33"><a name="para33"> As those cases demonstrate, the PBS does deliberately sacrifice discretion and (occasionally) perfect fairness or equity in the pursuit of a migration regime which is efficient, transparent and predictable, and as far as possible capable of being operated reasonably quickly and reliably by quite junior officials. But none of those aims comes near to displacing the need to take an unblinkered and realistic view of the facts to which the PBS regime is to be applied, for the purpose of deciding whether the requirements for achieving the specified scores are met. And where those facts include the use of a pre-ordained multi-step scheme, like the Maxwell Scheme, nothing in the Immigration Rules or in those cases requires the adjudicator (or the court on appeal or application for judicial review) to blinker itself to the reality revealed by appraising such a scheme in the round.
+</a></li>
+<p> </p>  
+
+<li value="34"><a name="para34"> I do not by that mean that where an applicant does tick all the relevant boxes under this or any PBS regime, the adjudicator or the court may nonetheless decide that the applicant fails to qualify because for other reasons he or she, or the scheme to which they have subscribed, appears to fall outside the general suitability for migration which the Secretary of State might be supposed to have intended. Just as the hard-edged elements in a PBS regime may fail to achieve perfect fairness and thereby exclude apparently deserving applicants (for example because of failure to comply with some time limit which there is no discretion to extend), so also it may qualify some applicants whose credentials, viewed in the round, may be far removed from that which the Immigration Rules were intended to admit. Notwithstanding their frequent amendment the Immigration Rules are far from being perfect, and both applicants and the Secretary of State, who makes the Immigration Rules, have to take the rough with the smooth in their operation: see per Jackson LJ in <i>Pokhriyal v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2013/1568.html">[2013] EWCA Civ 1568</a> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/1568.html">[2014] Imm AR 711</a>, para 43.
+</li>
+<p> </p>  
+
+<li value="35"><a name="para35"> But the present question is whether it is legitimate to look at this scheme in the round to see whether two particular “tick-box” conditions have been satisfied in fact. The condition principally in issue is whether Ms Wang had the MAM loan money under her control. A positive answer to that question cannot sensibly be garnered from looking at one aspect of the Maxwell Scheme in isolation from the rest. Nor can Ms Wang rely on a perception that her strict legal rights under the written terms of agreements constituting the scheme might appear to give her that control if the practical reality, as between her, the companies involved and their owners DK and NK was that the MAM loan moneys were under their exclusive control throughout, rather than under hers.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">The meaning of “control” in paragraph (b)(ii) of box 1 in Table 8B</span></p>  
+
+<li value="36"><a name="para36"> In approaching this question of interpretation it is necessary first to clear away some preliminaries. The first is that it is plain that box 1 of Table 8B is not using “control” as a synonym for ownership. For that purpose the drafter has used the phrase “of his own” in paragraph (a), which it is common ground is intended to distinguish owned money from money borrowed. Even then it is additionally required that the owned money referred to in paragraph (a) is to be under the applicant’s control. Furthermore the owned personal assets referred to in paragraph (b)(i) must also as a separate condition be “wholly” under the applicant’s control: see rule 245ED(e).
+</a></li>
+<p> </p>  
+
+<li value="37"><a name="para37"> The second is that, although paragraph b(ii) speaks of loaned money, it is common ground that the control test is capable of being satisfied in respect of money that the applicant is entitled to direct to be paid from the lender directly to the investee, without the money needing to pass through the hands of the applicant. 
+</a></li>
+<p> </p>  
+
+<li value="38"><a name="para38"> The third is that the requirement for control is not just the opposite of the circumstances described in paragraph 61A of Appendix A; i.e. money over which another party holds security. That paragraph is plainly drafted as a separate exclusion relating to money which is otherwise under the applicant’s control. Put the other way round, the requirement for control demands more than just a demonstration that the money is unencumbered by third party security rights.
+</a></li>
+<p> </p>  
+
+<li value="39"><a name="para39"> The fourth is that the phrase “money under his control” is not meant to apply to the rights of the applicant over the money once it has been invested so as to earn the second tranche of 30 points under box 2. The disjunctive use of money and investment in Table 8B must mean that it is not a requirement that the applicant retains some ongoing control over the money invested, after the investment has taken place. Rather, the applicant must wholly control the investment itself, ie the shares or other securities obtained in exchange for the money invested: see rule 245ED(e). This is also common ground: see para 47 of the judgment of Popplewell LJ in the Court of Appeal. Thus it is necessary in a case where the applicant has already invested loan money to earn the necessary 75 points to read “has money under his control” in paragraph (b)(ii) of box 1 as meaning “had, before investing it, money under his control”. Putting it another way, the applicant must have satisfied the control of loaned money test prior to making the qualifying investment of it.
+</a></li>
+<p> </p>  
+
+<li value="40"><a name="para40"> The final preliminary is the question whether the requirement in rule 245ED(e) that the assets and investment which the applicant is claiming points for must be “wholly” under his control applies to loan money under paragraph (b)(ii) of box 1 in Table 8B. If it does that may be regarded as a firm indication to adopt a broad rather than limited interpretation of control. There are persuasive arguments both ways on this issue. In favour of its application to money is the fact that an applicant for 30 points under box 1 is in substance “claiming points for” loan money. Table 8B is headed “Money and Investment”. But money is in two places in Table 8B expressly subjected to its own control requirement, so it seems rather duplicative to apply rule 245ED(e) to it as well. In the end, as will appear, I have concluded that Ms Wang fails the control test in paragraph (b)(ii) whether or not reinforced by “wholly” in rule 245ED(e), so that this particular point need not be decided. I shall assume in what follows that rule 245ED(e) does not apply to money. 
+</a></li>
+<p> </p>  
+
+<li value="41"><a name="para41"> Having dealt with those preliminaries it is possible to approach the meaning of the phrase “under his control” directly. Once divorced from being a synonym for ownership, I consider that in the context of Table 8B the natural and ordinary meaning of control is that it describes an applicant with real choice about the use and therefore the destination of the loan money. Real choice need not be unfettered. Indeed it would be perhaps unusual if an applicant with no substantial assets in the UK (which is what paragraph (b) is all about) could just borrow £1m from a UK-regulated financial institution with no strings attached at all as to the use of the money, unless perhaps by providing good security over their offshore assets, without falling foul of paragraph 61A. I would not regard the control requirement as failed merely because the lender offered the applicant a restricted choice of investments, or required the applicant’s choice to be submitted to the lender for approval, not to be unreasonably withheld. It may even be (although I would prefer to leave this for decision in a future case) that an applicant could demonstrate the necessary control by going to a lender with a proposal to invest in an entity of the applicant’s genuine choice, where the lender then made investment in that chosen entity a term of the loan agreement. In all those cases the applicant would have a real choice as to the investment to be made with the loan money.
+</a></li>
+<p> </p>  
+
+<li value="42"><a name="para42"> Having concluded that in reality Ms Wang had no choice at any stage over the investment of the MAM loan, the Court of Appeal nonetheless concluded that she satisfied the control test in paragraph (b)(ii). It was enough that (i) the money had in fact been invested in a qualifying investee and (ii) that the loan entitlement was available to her personally, rather than just as a nominee for someone else: see in particular per Popplewell LJ at paras 51 to 52. While I acknowledge that this was the result of a studiously purposive attempt at construction, I have been unable to follow the Court of Appeal down that road. They asked themselves what need there was of a control test at all in paragraph (b)(ii) if the application could only be made after investment under box 2, within the time limit in box 3. Their conclusion was that it was only to protect the Tier 1 (Investor) Migrant regime from being invaded by nominees, rather than beneficial owners of the invested funds: see paras 50 to 51 in the judgment of Popplewell LJ.
+</a></li>
+<p> </p>  
+
+<li value="43"><a name="para43"> There are a number of problems with that very limited analysis of the purpose behind the control test in paragraph (b)(ii). First, it breaks down when applied to the same question in paragraph (a) of box 1 of Table 8B, which imposes a control test in identical terms. There the money must be both “of his own” and under his control. “Of his own” would surely be sufficient to exclude a nominee. On the Court of Appeal’s analysis this would render the requirement for control of the money in paragraph (a) redundant. 
+</a></li>
+<p> </p>  
+
+<li value="44"><a name="para44"> Secondly, it treats control as a badge of beneficial ownership, whereas, throughout the Tier 1 (Investor) Migrant regime, ownership and control are treated as separate concepts and requirements, even if, usually, control is indeed an attribute of ownership. Critically the regime recognises the risk that ownership does not always bring control, as the Maxwell Scheme graphically demonstrates.
+</a></li>
+<p> </p>  
+
+<li value="45"><a name="para45"> Thirdly, limiting the perceived purpose of the control requirement in the way that the Court of Appeal did had the effect of emasculating the control requirement altogether, in its ordinary and natural meaning. It led to the strange conclusion that Ms Wang, who the Court of Appeal held had no choice at any time about the use or investment of the MAM loan, nonetheless had control of it.
+</a></li>
+<p> </p>  
+
+<li value="46"><a name="para46"> Where an attempted purposive construction leads to the emasculation of an apparently deliberately included provision in a legislative scheme or set of rules, that may be a warning that something has gone wrong with the identification of the underlying purpose. In my view this happened in the Court of Appeal. I would start by looking for the common purpose of all the control requirements in the Tier 1 (Investor) Migrant regime. Taken together they require applicants to be individuals who are in control of their assets, their investments, their own money and their borrowed money, or at least the specified amounts of each. They are to be persons who make their own decisions about their property and financial affairs rather than, for example, beneficial owners whose assets, investments and money are looked after by trustees or others. Trustees and nominees are separately excluded because they are not owners in the natural and ordinary sense, although trustees may well have the requisite control. Minors are expressly excluded by rule 245ED(e).
+</a></li>
+<p> </p>  
+
+<li value="47"><a name="para47"> The interpretation of control as having its natural and ordinary meaning, and therefore as requiring that applicants have a real choice about the use and disposition of the relevant money, assets and investments sensibly fulfils the purpose which I have described. That is the interpretation of control adopted by the Secretary of State in the Decision and by the Upper Tribunal. In my judgment they were correct to do so.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Did the Maxwell Scheme confer upon Ms Wang the requisite control? </span></p>  
+
+<li value="48"><a name="para48"> Once the control requirement in paragraph (b)(ii) of box 1 in Table 8B has been correctly interpreted, the question is whether it was lawfully applied by the Secretary of State to the facts about Ms Wang’s application. This depends, on this application for judicial review, essentially upon whether it was rational. Looking at the Maxwell Scheme in the round, the Secretary of State, the Upper Tribunal and the Court of Appeal all decided that Ms Wang did not at any relevant time have a real choice about the use and investment of the MAM loan. Rather that choice (if that is the right word) lay at all times with DK, NK and their three companies MAM, Holdings and Eclectic. More precisely the use and investment of any loan from MAM under the Maxwell Scheme was pre-ordained by the architecture of the scheme itself.
+</a></li>
+<p> </p>  
+
+<li value="49"><a name="para49"> That was a conclusion reached by looking at the scheme in the round, both as to its terms, its underlying commercial rationale and its operation in practice for over 100 subscribers. For the reasons already given, they were entitled, indeed obliged, to look at the Maxwell Scheme in the round. I would, like the court and tribunal below, come to the same conclusion about the absence of any real choice given to a participant in the scheme, other than to have the MAM loan invested in Eclectic or, at the widest, some other available company owned and controlled by DK and NK and selected by them.
+</a></li>
+<p> </p>  
+
+<li value="50"><a name="para50"> Mr D’Cruz KC pressed us hard with the submission that, on its true construction, the Services Agreement gave Ms Wang rather than Holdings at least the initial choice of authorised investment, reserving only a monitoring discretion to Holdings thereafter. That submission was firmly rejected by the Upper Tribunal. It was repeated in the Court of Appeal, who appear to have thought it unnecessary to decide the question, having regard to their view of the effect of the scheme, viewed in the round. I would accept that clause 3.7.4 of the Services Agreement can be read either way. If it conferred discretion on Holdings generally in relation to investment of the MAM loan, then it supports the Secretary of State’s case that Ms Wang had no control over the MAM loan. If it falls short of that, it fails to represent the reality of what must have been agreed informally, for the reasons given in para 40 of Popplewell LJ’s judgment, with which I agree. 
+</a></li>
+<p> </p>  
+
+<li value="51"><a name="para51"> The same conclusion arises both from looking at the scheme from the DK/NK perspective and from that of Ms Wang. It is inconceivable that DK and NK would have allowed MAM to lend £1m unsecured to Ms Wang without ensuring that the money would end up with Eclectic or some other company under their control. As the Upper Tribunal observed at para 98, it is equally inconceivable that a person in Ms Wang’s position would have freely chosen to invest a 5-year loan from MAM at 3% interest in Eclectic, which had the right to convert the incoming loan to preference shares paying a dividend of only 2%, payable only after 6 years.
+</a></li>
+<p> </p>  
+
+<li value="52"><a name="para52"> I would therefore allow the appeal on the first issue, about control. Paragraph (b)(ii) of box 1 of Table 8B required Ms Wang to show that she had a real choice as to the use and investment of the MAM loan once it became available to her. Looking at the Maxwell Scheme in the round, neither she or any other participants in it had such a choice.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">Was Eclectic an excluded investee under paragraph 65(b) of Appendix A?</span></p>  
+
+<li value="53"><a name="para53"> The court was presented with a new argument, not run below, by Sir James Eadie KC on behalf of the Secretary of State. It was that Eclectic was in fact a “pooled investment vehicle” within the express terms of paragraph 65(b) of Appendix A, so that Ms Wang failed to gain the additional 45 points attributable to a timely investment under boxes 2 and 3 of Table 8B. This required him to seek the court’s permission to withdraw the concession made in the Court of Appeal that the Secretary of State’s case did not involve an attribution to Eclectic of any particular one or more of the four excluded types of investee listed in paragraph 65(b).
+</a></li>
+<p> </p>  
+
+<li value="54"><a name="para54"> I find it unnecessary to resolve either the application to withdraw the concession or the issue about the meaning of pooled investment vehicle which that withdrawal would open up. Ms Wang has in any event failed to accumulate the 75 points necessary to qualify for leave to remain, because she has failed to accumulate the 30 points required from box 1. It also follows that it is unnecessary to address the question whether, if otherwise well founded, Ms Wang’s application for judicial review should be refused as a matter of discretion under section 15(5A) of the Tribunals, Courts and Enforcement Act 2007, on the basis that any errors in the decision were immaterial.
+</a></li>
+<p> </p>  
+
+<li value="55"><a name="para55"> I would therefore allow the appeal, and restore the Decision.
+</a></li>
+<p> </p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/21.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

@@ -1,0 +1,1025 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Lane &amp; Anor, R. v  [2018] UKSC 36 (11 July 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Lane &amp; Anor, R. v  [2018] UKSC 36 (11 July 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/36.html</i>
+<br>Cite as: 
+[2019] Crim LR 178,
+
+[2019] 1 All ER 299,
+
+[2018] WLR(D) 442,
+
+[2018] 1 WLR 3647,
+
+[2018] WLR 3647,
+
+[2018] Lloyd's Rep FC 438,
+
+[2018] 2 Cr App R 35,
+
+[2018] UKSC 36
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/36.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2018003853/casereport_f7ef70e1-efdd-43e2-98d3-a53d4182c395/html">[2018] WLR(D) 442</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2018003853/casereport_6b98301b-3dfe-4cd7-ac12-ffd8be7da32b/html">[2018] 1 WLR 3647</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<center><a href="/uk/cases/UKSC/2018/36.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><u><span style="color:red"><a href="/uk/cases/UKSC/2018/36.image2.pdf">REPORTING RESTRICTIONS APPLY TO THIS CASE</a></span></u></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 36</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: [2017]
+EWCA Crim 129</i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">R <i>v</i> Sally Lane and John Letts (AB and CD) (Appellants)</span></b></p>
+  <p class="MsoNormal"><b><span style="font-size:20.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">before</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Burnett</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">11 July 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">Heard on 19 April 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Tim Moloney QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Louis Mably QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Richard Thomas</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Alison Morgan</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by ITN Solicitors)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by CPS
+  Appeals and Review Unit)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD HUGHES: (<span style="text-transform:none">with whom
+Lady Hale, Lord Mance, Lord Hodge and Lord Burnett agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The ruling under challenge in this case was made by the Crown Court
+judge at a preparatory hearing, held in anticipation of a criminal trial. That
+means that as yet no evidence has been heard and it cannot be known what the
+facts of the case may turn out to be. Such rulings are occasionally necessary
+in order to establish the basis on which the trial will be conducted. But it
+needs to be remembered that a point raised at that early stage may turn out to
+be at the centre of the trial, or to be merely peripheral, or indeed sometimes
+not to arise at all, depending on what evidence emerges, and which parts of it
+are in dispute. For this reason, reporting restrictions apply to this hearing:
+see para 26 below.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The two appellants are charged with the offence of entering into funding
+arrangements connected with terrorism, contrary to section 17 of the Terrorism
+Act 2000 (“the Act”). Because it is not yet known what course the trial will
+take, as little as possible should be said now about the allegations, which may
+or may not be proved. It is enough to say that the appellants are charged with
+sending money overseas, or arranging to do so, when they knew or had reasonable
+cause to suspect that it would, or might, be used for the purposes of terrorism.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The section of the Act which creates this offence says as follows:</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<b>17.&nbsp;&nbsp;&nbsp;&nbsp; Funding arrangements.</b></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">A person commits an offence if -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he enters into or
+becomes concerned in an arrangement as a result of which money or other
+property is made available or is to be made available to another, and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he knows or has
+reasonable cause to suspect that it will or may be used for the purposes of
+terrorism.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question which arises on this appeal concerns the correct meaning of
+the expression “has reasonable cause to suspect” in section 17(b). Does it mean
+that the accused must actually suspect, and for reasonable cause, that the
+money may be used for the purposes of terrorism? Or is it sufficient that on
+the information known to him there exists, assessed objectively, reasonable
+cause to suspect that that may be the use to which it is put?</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Of course, it may well be that at any trial under this section it will
+be the Crown case that a defendant actually did suspect, and for reasonable
+cause, that the money might be used in this way, and it may well be that an
+important issue at the trial will be whether that allegation is proved or not. But
+the judge in the present case addressed the question posed in the previous
+paragraph in case it were to arise at the trial.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question posed above has been addressed by counsel on both sides
+with commendable accuracy and lucidity. Both the trial judge and the Court of
+Appeal (Criminal Division) concluded that the correct answer was that the words
+used in the statute plainly mean that it is sufficient that on the information
+known to the accused, there exists, assessed objectively, reasonable cause to
+suspect that the money may be used for the purposes of terrorism.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants contend that this conclusion is wrong. They say that:</a></p><a name="para7">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the words used are capable of either meaning;</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>given that, the well-established presumption that an offence-creating
+provision ought to be construed as requiring an element of a guilty mind (“mens
+rea”) operates to accord to the section the meaning that an accused must
+actually suspect that the money may be put to terrorist use;</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>this is particularly so since the offence here created is a serious one,
+to be contrasted with the kind of regulatory contexts where a legislative
+intention to create an offence of strict liability may more easily be divined;</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the Court of Appeal erred in starting by asking the natural meaning of
+the words, and then whether that meaning had been displaced; it is said that it
+ought to have begun with the presumption of mens rea and asked whether that
+presumption had been displaced by the words of the section; and</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(v)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the Court of Appeal erred in giving too much emphasis to the fact that
+the statute was designed to protect the public against the grave threat of
+terrorism; whilst this is so, it is not a reason to dilute the presumption.</p>
+
+<p class="ParaHeading">The presumption as to mens rea</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The presumption on which the appellants rely is indeed well-established
+and has often been applied to the construction of statutes creating offences
+where the meaning is in doubt. The conventionally authoritative statement of
+the presumption is found in the speech of Lord Reid in <i>Sweet v Parsley</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1969/1.html">[1970] AC 132</a>, 148, 149:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“our first duty is to consider the
+words of the Act: if they show a clear intention to create an absolute offence
+that is an end of the matter. But such cases are very rare. Sometimes the words
+of the section which creates a particular offence make it clear that mens rea
+is required in one form or another. Such cases are quite frequent. But in a
+very large number of cases there is no clear indication either way. In such
+cases there has for centuries been a presumption that Parliament did not intend
+to make criminals of persons who were in no way blameworthy in what they did. That
+means that whenever a section is silent as to mens rea there is a presumption
+that, in order to give effect to the will of Parliament, we must read in words
+appropriate to require mens rea.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">… it is firmly established by a
+host of authorities that mens rea is an essential ingredient of every offence
+unless some reason can be found for holding that that is not necessary.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">It is also firmly established that
+the fact that other sections of the Act expressly require mens rea, for example
+because they contain the word ‘knowingly’ is not in itself sufficient to
+justify a decision that a section which is silent as to mens rea creates an
+absolute offence. In the absence of a clear indication in the Act that an
+offence is intended to be an absolute offence, it is necessary to go outside
+the Act and examine all relevant circumstances in order to establish that this
+must have been the intention of Parliament. I say ‘must have been’ because it
+is a universal principle that if a penal provision is reasonably capable of two
+interpretations, that interpretation which is most favourable to the accused
+must be adopted.”</p>
+
+<p class="ParaNoNumber">This statement of the principle was described by Lord
+Nicholls in <i>B (A minor) v Director of Public Prosecutions </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2000/13.html">[2000] 2 AC 428</a>, 460 as “magisterial”. It has often been applied, and it is unnecessary to
+multiply examples. They include recent cases in this court, such as <i>R v
+Brown (Richard)</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2013/43.html">[2013] UKSC 43</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/43.html">[2013] 4 All ER 860</a>, <i>R v Hughes
+(Michael)</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2013/56.html">[2013] UKSC 56</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/56.html">[2013] 1 WLR 2461</a>, and <i>R v Taylor (Jack) </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/5.html">[2016] UKSC 5</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/5.html">[2016] 1 WLR 500</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Whilst the principle is not in doubt, and is of great importance in the
+approach to the construction of criminal statutes, it remains a principle of
+statutory construction. Its importance lies in ensuring that a need for mens
+rea is not inadvertently, silently, or ambiguously removed from the ingredients
+of a statutory offence. But it is not a power in the court to substitute for
+the plain words used by Parliament a different provision, on the grounds that
+it would, if itself drafting the definition of the offence, have done so
+differently by providing for an element, or a greater element, of mens rea. The
+principle of Parliamentary sovereignty demands no less. Lord Reid was at pains
+to observe that the presumption applies where the statute is silent as to mens
+rea, and that the first duty of the court is to consider the words of the
+statute.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Hughes (Michael) </i>and <i>Taylor (Jack)</i>, mentioned above,
+concerned offences of causing death by driving. They were cases where the
+language of the statutes was ambiguous and the presumption assisted the court
+to reach the conclusion that they imported an element of fault (although not
+necessarily of subjective mens rea rather than of error of driving). The words
+used by Parliament were words of causation of death. This court construed those
+words as importing an element of fault, principally because there were ample
+unambiguous alternative expressions which could and would have been used if the
+intention had been to create an offence of homicide which could be committed
+simply by being present on the road to be run into by someone else.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By contrast, <i>Brown (Richard)</i> was a case in which this court had
+no doubt that the statutory offence of unlawful carnal knowledge of a girl
+under 14 did not contain a requirement that the accused know that the girl was
+under age. This conclusion was mandated despite the fact that the
+offence-creating section was silent as to whether such knowledge was required
+or not. It was a conclusion compelled by the prior common law and statutory
+context, against which the offence had been created, by other provisions in the
+legislation, which had to be construed as a whole, and by the social mischief
+which the Act had been passed to meet.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus these three recent cases are good illustrations of the truism that
+the presumption on which the appellants here rely is a principle of statutory
+construction, which must give way to either the plain meaning of the words, or
+to other relevant pointers to meaning which clearly demonstrate what was
+intended. It follows that the Court of Appeal in the present case did not fall
+into the error suggested, of wrongly starting with the words of the Act. On the
+contrary, that is the inevitable first port of call for any issue of
+construction, as Lord Reid’s statement of the principle in <i>Sweet v Parsley</i>
+expressly stated.</a></p><a name="para12">
+
+<p class="ParaHeading">The language of the statute</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Moloney QC, for the appellants, was characteristically realistic, and
+correct, to recognise that the words of section 17(b) are such as, at first sight,
+suggest an objective test. The section makes it an offence where the defendant
+either “knows” or “has reasonable cause to suspect”. It does not say what one
+would expect it to say if it meant that the defendant must be proved actually
+to have suspected, that is:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“if … he knows or suspects …”</p>
+
+<p class="ParaNoNumber">Nor, for that matter, does it say:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“if … he knows or reasonably
+suspects …”</p>
+
+<p class="ParaNoNumber">It is thus very difficult to see this statutory provision
+as one of the kind which Lord Reid was describing in <i>Sweet v Parsley</i>,
+that is to say one which is silent as to the state of mind required for
+commission of the offence.</p>
+
+<p class="ParaHeading">Saik and O’Hara</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellants nevertheless contend that, if not silent, the provision
+is ambiguous, and thus that the presumption should operate to resolve the doubt
+in favour of the construction which favours an accused by requiring a greater
+degree of mens rea. This argument is founded largely upon the House of Lords
+decision in <i>R v Saik</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2006/18.html">[2006] UKHL 18</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2006/18.html">[2007] 1 AC 18</a> and particularly on
+some passages in the speech of Lord Hope in that case and in <i>O’Hara v Chief
+Constable of the Royal Ulster Constabulary</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1996/6.html">[1997] AC 286</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Saik </i>the substantive offence under consideration was one of
+the now repealed offences of money-laundering contained in section 93A-C of the
+Criminal Justice Act 1988. The relevant one was section 93C(2):</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(2)&nbsp;&nbsp;&nbsp;&nbsp; A person is guilty of an
+offence if, knowing or having reasonable grounds to suspect that any property
+is, or in whole or in part directly or indirectly represents, another person’s
+proceeds of criminal conduct, he -</p>
+
+<p class="ParaLevel4">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>conceals or disguises that property; or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; converts or transfers
+that property or removes it from the jurisdiction,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">for the purpose of assisting any
+person to avoid prosecution for an offence to which this Part of this Act
+applies or the making or enforcement in his case of a confiscation order.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is certainly true that in <i>Saik</i> the House of Lords concluded
+that this section imported a requirement that the defendant actually suspect,
+as well as that he did so on reasonable grounds. Whilst the section under
+discussion in the present case speaks not of reasonable “grounds” but of
+reasonable “cause” for suspicion, it is not necessary to contemplate any
+distinction between the two for the purposes of the present argument. The
+appellants rely particularly on what Lord Hope said at paras 51-53, where he
+concluded that to stipulate for reasonable grounds for suspicion assumed the existence
+of actual suspicion. Lord Hope drew an analogy with statutory powers of arrest,
+including that considered in <i>O’Hara </i>which was section 12(1) of the
+Prevention of Terrorism (Temporary Provisions) Act 1984. There a constable was
+given powers to arrest without a warrant if he had reason to suspect the person
+arrested was concerned in terrorism. As Lord Hope remarked in both cases, such
+a power of arrest plainly <i>assumes</i> an actual suspicion and adds the
+requirement that it be held on reasonable grounds. It plainly does not
+contemplate a constable arresting someone whom he might have grounds to
+suspect, but of whom he has no suspicion, still less someone about whom he has
+not thought at all, but of whom it could be said that objectively there existed
+reasonable grounds to suspect him.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The existence or otherwise of reasonable grounds for suspicion was not
+an issue in <i>Saik</i>. The defendant there concerned had made no bones about
+admitting that he suspected that the property which he had dealt with was the
+proceeds of crime; his contention was that he suspected but did not know. The
+charge he faced was not brought under section 93C(2). It was a charge of
+conspiracy to commit that statutory offence, and the point at issue related to
+the terms of section 1(2) of the Criminal Law Act 1977 which mandates proof of
+knowledge or intent when conspiracy is charged, even if the substantive offence
+is one which can be committed without such a state of mind. Accordingly, the
+construction of section 93C(2) arose only en route to the real question, which
+was the meaning of the requirement for knowledge if the charge is conspiracy. As
+all their Lordships, including Lord Hope at para 51, made clear, section 93C(2)
+contained within its own terms the answer to any issue about its construction. Since
+the statutory offence which it created could be committed only if the defendant
+acted with the purpose of assisting someone else to avoid either prosecution or
+a confiscation order, the section necessarily meant, or assumed, that the
+defendant had actual suspicion. As Lady Hale succinctly put it at para 102:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Without that actual suspicion, he
+cannot act with the purpose required.”</p>
+
+<p class="ParaNoNumber">For these reasons it is not possible to read either <i>Saik</i>
+or <i>O’Hara</i> as laying down a universal proposition that if a statute
+speaks of a person having “reasonable cause to suspect”, that will always
+assume that he has to have actual suspicion.</p>
+
+<p class="ParaHeading">The statutory context</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>An offence of providing funding towards terrorism first appeared in the
+Prevention of Terrorism (Temporary Provisions) Act 1976. Section 10(2) of that
+Act provided:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If any person gives, lends or
+otherwise makes available to any other person, whether for consideration or
+not, any money or other property, <b>knowing or suspecting</b> that the money
+or other property will or may be applied or used for or in connection with the
+commission, preparation or institution of acts of terrorism to which this
+section applies, he shall be guilty of an offence.” [Emphasis supplied]</p>
+
+<p class="ParaNoNumber">That subsection was re-enacted in essentially identical
+form in section 10(2) of the replacement statute, the Prevention of Terrorism
+(Temporary Provisions) Act 1984. These sections thus provided for an offence
+which required proof either of knowledge or of actual suspicion.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, when the 1984 Act was in turn replaced by the Prevention of Terrorism
+Act 1989 a change was made. Section 9(2) said:</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(2)&nbsp;&nbsp;&nbsp;&nbsp; A person is guilty of an
+offence if he -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; gives, lends or
+otherwise makes available to any other person,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether for
+consideration or not, any money or other property; or</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">enters into or is otherwise
+concerned in an arrangement whereby money or other property is or is to be made
+available to another person, <b>knowing or having reasonable cause to suspect</b>
+that it will or maybe applied or used as mentioned in subsection (1) above.” [Emphasis
+supplied]</p>
+
+<p class="ParaNoNumber">A similar formulation (“intending … or having reasonable
+cause to suspect”) was applied by the 1989 Act to the related offence contrary
+to section 9(1) of soliciting or receiving contributions; this offence had, in
+previous statutes, required proof of intention rather than of any form of
+suspicion. These changes can only have been deliberate. They are inexplicable
+unless it was the Parliamentary intention to widen the scope of the offences to
+include those who had, objectively assessed, reasonable cause to suspect that
+the money might be put to terrorist use, as well as those who intended that it
+should be, or knew that it would be. In particular, the change in the
+definition of the offence which is now section 17 of the Terrorism Act 2000,
+and here under question, is a change from “knows or suspects” to “knows or has
+reasonable cause to suspect”. That change can only have been intended to remove
+the requirement for proof of actual suspicion. It is not open to the court to
+ignore this kind of clear Parliamentary decision.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That inevitable conclusion is reinforced by the presence in the 2000 Act
+of section 19. This creates an offence for specified groups of people of
+failing to disclose to a police officer a belief or suspicion, which has come
+to their attention in the course of their work, that another person has
+committed one of a number of specified terrorist offences. The offence is
+committed, according to section 19, where a person</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“believes or suspects …”</p>
+
+<p class="ParaNoNumber">Thus the 2000 Act, here in question, demonstrates the
+currency, in the context of terrorist offences, of a reference to actual
+suspicion, at the same time as turning its back on such a reference section 17,
+with which this court is now concerned. The contrast is clearly a relevant
+pointer to the meaning of section 17.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Similarly, section 18 of the same Act creates an offence of money
+laundering in relation to terrorist property. The offence contains no
+requirement of a mental element as a definition of the offence. Rather, by
+subsection (2), it provides that it is a defence for a person charged to prove
+that “he did not know and had no reasonable cause to suspect” that he was
+dealing with terrorist property. Thus the mental element provided for is
+consistent with that in the adjacent section 17, namely objectively assessed
+reasonable cause to suspect, although the onus of proof is reversed. This
+section also compellingly reinforces the construction of section 17 arrived at
+by the judge and the Court of Appeal. The contention of the appellants that
+section 18 can be read as providing a defence to a defendant who shows that he
+did not in fact suspect the terrorist nature of the property with which he was
+dealing is simply not consistent with the words used. If that is what had been
+the intention, section 18 would no doubt have provided a defence for an accused
+who “did not know or suspect”, using the juxtaposition of knowledge and
+suspicion which appears in the next following section 19.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although it is derived from a subsequent legislative amendment, section
+21A is perhaps a further indication, if one were required, that the difference
+between actual suspicion and objectively assessed reasonable cause for
+suspicion remains one which is observed by Parliament. Section 21A (inserted
+into the Act by the Anti-terrorism, Crime and Security Act 2001) creates an
+offence, for those operating within the regulated sector, of non-disclosure of
+information suggesting an offence by another. By subsection (2) the first
+element of the definition of this offence is in the alternative:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(2)&nbsp;&nbsp;&nbsp;&nbsp; The first condition is
+that he -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; knows or suspects, or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; has reasonable grounds
+for knowing or suspecting,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">that another person has committed
+or attempted to commit an offence under any of sections 15 to 18.”</p>
+
+<p class="ParaNoNumber">In that section, or any other similarly constructed, it
+is plain beyond argument that the expression “has reasonable grounds for
+suspicion” cannot mean “actually suspects”.</p>
+
+<p class="ParaHeading">Strict liability?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The presumption of which Lord Reid spoke in <i>Sweet v Parsley</i>, and
+which has been invoked since where consistent with the principles of statutory
+construction, is a presumption that Parliament “did not intend to make
+criminals of persons who were in no way blameworthy in what they did”: see para
+8 above. The magistrates had found specifically that Miss Sweet, who did not
+live in the house which she owned but let out “had no knowledge whatever that
+the house was being used” by her tenants for the purpose of consuming
+prohibited drugs. The question posed for the House of Lords by the Divisional
+Court was whether the relevant section of the Dangerous Drugs Act created “an
+absolute offence”. Lord Reid adverted at p 150B to the fact that Parliament
+could have dealt with the social problem involved either by inverting the onus
+of proof so as to require an accused to demonstrate lack of knowledge, or by
+providing that the offence could be committed by negligence. It had not, however,
+in that case done so.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case it would be an error to suppose that the form of
+offence-creating words adopted by Parliament result in an offence of strict
+liability. It is certainly true that because objectively-assessed reasonable
+cause for suspicion is sufficient, an accused can commit this offence without
+knowledge or actual suspicion that the money might be used for terrorist
+purposes. But the accused’s state of mind is not, as it is in offences which
+are truly of strict liability, irrelevant. The requirement that there exist
+objectively assessed cause for suspicion focuses attention on what information
+the accused had. As the Crown agreed before this court, that requirement is
+satisfied when, on the information available to the accused, a reasonable
+person <u>would</u> (not might or could) suspect that the money might be used
+for terrorism. The state of mind of such a person is, whilst clearly less
+culpable than that of a person who knows that the money may be used for that
+purpose, not accurately described as in no way blameworthy. It was for
+Parliament to decide whether the gravity of the threat of terrorism justified
+attaching criminal responsibility to such a person, but it was clearly entitled
+to conclude that it did. It is normal, not unusual, for a single offence to be
+committed by persons exhibiting different levels of culpability. The difference
+in culpability can, absent other aggravating features of the case, be expected
+to be reflected in any sentence imposed if conviction results.</a></p><a name="para24">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons it is clear that the conclusions arrived at by the
+trial judge and the Court of Appeal were correct. The appeal must be dismissed.</a></p><a name="para25">
+
+<p class="ParaHeading">Reporting restrictions</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 37 of the Criminal Procedure and Investigations Act 1996 imposes
+statutory reporting restrictions in relation to the hearing of interlocutory
+appeals such as the present. The objective is to ensure that the jury’s
+consideration of the evidence and issues put before it is not at risk of being
+affected by prior reporting, for example of the details of the allegations or
+of discussion of possible issues. Those restrictions apply to the hearing of
+this appeal. Until the conclusion of the trial, nothing may be reported <u>except</u>
+the following:</a></p><a name="para26">
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the identity of the
+court(s) and the name of the judge(s);</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the names, ages,
+home addresses and occupations of the accused and witnesses;</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the offences
+charged, as summarised in this judgment;</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the names of counsel
+and solicitors engaged in the appeal;</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether for the
+purposes of the appeal representation was provided to either of the accused
+under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
+and</p>
+
+<p class="ParaNoNumber" style="margin-left:36.0pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this judgment.</p>
+
+</a></div><a name="para26">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/36.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

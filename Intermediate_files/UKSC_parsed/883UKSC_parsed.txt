@@ -1,0 +1,313 @@
+
+ Value Added Tax (‘VAT’) is paid on all services supplied for consideration by a taxable person and its application is governed by Council Directive 2006/112/EC (the ‘Principal VAT Directive’ or ‘PVD’). The PVD exempts specified supplies from VAT and under article 135(1)(d) this includes various financial transactions. The issue on this appeal is whether loan administration services provided by the appellant (‘Target’) fall within that exemption.
+
+ 
+ Shawbrook Bank Limited (‘Shawbrook’) is a provider of mortgages and loans. Target administers loans made by Shawbrook, including by operating individual loan accounts and instigating and processing payments due from borrowers.
+
+ 
+ The article 135(1)(d) exemption applies to “transactions, … concerning …payments, transfers, debts, … but excluding debt collection”. Target contends that the services it provides fall within this provision and so are exempt from VAT. In particular, it relies on the fact that it procures payments from borrowers’ bank accounts to Shawbrook’s bank accounts by giving instructions for payment which are then automatically and inevitably carried out through the BACS system (BACS is the acronym for Bankers’ Automated Clearing System).
+
+ 
+ The respondent (‘HMRC’) contends that the exemption does not apply because the case law of the Court of Justice of the European Union (‘CJEU’) makes it clear that the exemption only applies to the execution of an order for transfer or payment and giving instructions for payment is a prior step to execution rather than part of the process of execution. The Court of Appeal (and the Upper Tribunal) upheld HMRC’s case and Target now appeals against that decision. 
+
+ 
+2 The legislative framework
+ Article 135(1) of the PVD lists a series of transactions which are exempt from VAT. These include:
+
+ 
+“…
+(b) the granting and the negotiation of credit and the management of credit by the person granting it;
+…
+(d) transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection; …”
+ Prior to the PVD coming into force, the two exemptions above were in article 13B(d)(1) and (3) respectively of the Sixth Directive (77/388/EEC). Since 1 January 1991, the exemption for “management of credit” has been restricted to management undertaken by the grantor only.
+
+ 
+ These exemptions are reflected in national law by Items 1, 2, 2A and 8 of Group 5 of Schedule 9 to Value Added Tax Act 1994. Nothing in this appeal turns on the precise wording of the UK statute.
+
+ 
+ The interpretation of the PVD is a matter of EU law, as retained pursuant to sections 2, 5(2) and 6 of European Union (Withdrawal) Act 2018.
+
+ 
+3 The factual background
+ In their decisions the First Tier Tribunal (‘FTT’) made findings about the services provided by Target to Shawbrook at paras 29 to 57 which were summarised by the Upper Tribunal (‘UT’) at paras 18 to 23 as follows:
+
+ 
+“18. The loan accounts maintained by Target are the sole record of the financial relationship between Shawbrook and its borrowers. They are effectively ledgers which evidence the level of indebtedness, capture repayments and record other financial information including fees and interest charged. Target credits and debits the loan accounts with all relevant amounts (payments, fees and interest etc).
+19. Target operates bank accounts on behalf of Shawbrook. Target is responsible for matching payments to individual loan accounts and identifying missing payments. The vast majority of payments are made by direct debit. Target is responsible for generating the instructions for direct debit payments, in the form of a BACS file produced by Target’s systems which contains electronic payment instructions to banks operating the borrowers’ bank accounts, which BACS processes automatically. Target also accepts payments otherwise than by direct debit, eg by debit card payments and cheques.
+20. As well as regular payments, Target processes irregular payments, for example where a borrower is in arrears and is seeking to pay amounts towards clearing the arrears, makes an overpayment or is paying off a loan early. Target reconciles and credits the payments to the loan accounts. Target has authority to transfer funds paid by borrowers into an incorrect account to the correct account. It uses both the BACS and CHAPS payment systems, which process instructions issued by Target (on behalf of Shawbrook), to move funds between Shawbrook’s bank accounts where required, or to repay sums to the borrower where an overpayment has been made.
+21. Target is also responsible for calculating the amounts of interest and principal repayments due, and for calculating and applying any fees. Where Shawbrook makes an additional advance to a borrower, Target follows the same processes as for a new loan with the new outstanding loan amount replacing the previous balance. Where a borrower wishes to repay a loan early, Target is responsible for providing an early settlement quote. It also handles the entire process for any loan repayment, including discharge of security (using Shawbrook’s approved panel of solicitors) and closure of the account.
+22. Target also deals with missed payments and arrears. For any default, a letter is produced in Shawbrook’s name providing formal notification to the borrower and advising them of the fee that will be applied. Target is provided with a certain level of authority by Shawbrook to negotiate how missed payments will be made up, with any longer-term forbearance being referred to Shawbrook. Any changes to the terms of a loan, eg an extension to the loan period, are also a matter for Shawbrook. If an account remains in arrears, the decision whether to take legal action or write off a loan is solely a matter for Shawbrook. If Shawbrook decides to take legal action, Target will work with a firm of solicitors on a Shawbrook approved panel, providing information, keeping records and continuing to handle contacts with the borrower.
+23. Target also deals with any overpayments. Generally, borrowers can overpay a certain percentage of the balance, eg 10%, in any year without incurring an early repayment charge. Target amends the loan balance and term as appropriate and issues a letter confirming the overpayment. Alternatively, borrowers may be eligible for a refund if they overpay which Target will process. As mentioned above at [13], Target has authority to process refunds of less than £300 without reference to Shawbrook.”
+4 The Issues
+ The principal issue on this appeal is whether Target carried out “transactions…concerning” “payments” and/or “transfers” and/or “debts” within the meaning of article 135(1)(d).
+
+ 
+ Target contends that it did so on two bases:
+
+ 
+(1)       By giving instructions which automatically and inevitably resulted in payment from the borrowers’ bank accounts to Shawbrook’s bank accounts via BACS (‘the payments/transfers issue’); and/or
+(2)       By the inputting of entries into the borrowers’ loan accounts with Shawbrook (‘the loan accounts issue’).
+ If Target succeeds in its appeal on this principal issue a further issue arises, namely whether its services are nevertheless excluded from exemption because they comprise a single composite supply which amounts to “debt collection” (the exclusion from the exemption under article 135(1)(d)) and/or “the management of credit” by a person other than the person granting it (ie Shawbrook), a supply which is specifically not exempted under article 135(1)(b).
+
+ 
+5 The decisions below
+  The FTT (Judge Sarah Falk) promulgated its decision on 20 April 2018 [2018] UKFTT 226 (TC). Before the FTT HMRC put Target to proof that its supply fell to be treated as transactions concerning payments or transfers, but did not positively dispute this. Their primary case was that the supply was excluded as being debt collection. The FTT found that Target’s supply included transactions concerning payments or transfers within article 135(1)(d) but that the predominant nature of the supply was debt collection and therefore taxable because it was excluded from the exemption.
+
+ 
+ HMRC appealed to the UT. Between the FTT decision and the hearing before the UT the CJEU gave its decision in HMRC v DPAS Ltd (Case C-5/17) [2018] STC 1615 (25 July 2018) (‘DPAS’). In the light of that decision HMRC disputed whether Target’s supply did include transactions concerning payment or transfer. The UT (Zacaroli J and Judge Greg Sinfield) promulgated its decision on 15 November 2019 [2019] UKUT 340 (TCC), [2020] STC 1. It held that:
+
+ 
+“74. The decision of the CJEU in DPAS is, in our judgement, clear and unambiguous. Where the relevant service at issue involves the giving of an instruction to a financial institution to effect a payment, it does not constitute an exempt supply even though it may be a necessary step in order for the payment to be made.”
+ The UT further held that the role carried out by Target in processing payments was indistinguishable from that of the taxpayer in DPAS and that it did not therefore fall within the article 135(1)(d) exemption. It also held that Target’s inputting of accounting entries in the loan accounts did not fall within the exemption as it did not change any party’s legal and financial position. It therefore concluded that the services supplied by Target to Shawbrook were not exempt under article 135(1)(d) but were standard rated supplies for VAT purposes. In those circumstances it was not necessary for the UT to decide whether Target’s services would be excluded from the exemption as debt collection and so it did not address that issue.
+
+ 
+ Target appealed to the Court of Appeal. In its decision of 12 July 2021 the Court of Appeal (Underhill VP, Henderson and Simler LJJ) dismissed the appeal [2021] EWCA Civ 1043. The lead judgment was given by Simler LJ, with whom Underhill VP and Henderson LJ agreed. In a thorough and fully reasoned judgment the Court of Appeal upheld the conclusion of the UT on the principal issue. In those circumstances the Court of Appeal similarly did not find it necessary to address the debt collection issue.
+
+ 
+6 The interpretation of VAT exemptions
+ The following points are of relevance (see the Court of Appeal judgment at paras 17, 19 and 20):
+
+ 
+(1)       The exemptions contained in the PVD (and formerly the Sixth Directive) are independent concepts of EU law.
+(2)       The terms used in the PVD to specify exemptions must be interpreted strictly because they constitute exceptions to the general rule that VAT is to be levied on all services supplied for consideration by a taxable person.
+(3)       Where there is a specific exemption (here for the management of credit but only by the grantor of that credit), a broader exemption (here, article 135(1)(d)) should not be interpreted so widely as to undermine the deliberate legislative choice made in restricting other exemptions. 
+(4)       Conversely, the phrase “debt collection” in article 135(1)(d) must be construed broadly because it is an exception to the exemption.
+ What is meant by a strict interpretation was explained by Chadwick LJ in Expert Witness Institute v Customs and Excise Comrs [2001] EWCA Civ 1882, [2002] 1 WLR 1674, [2002] STC 42 as follows:
+
+ 
+“17. … A ‘strict’ construction is not to be equated, in this context, with a restricted construction. The court must recognise that it is for a supplier, whose supplies would otherwise be taxable, to establish that it comes within the exemption; so that, if the court is left in doubt whether a fair interpretation of the words of the exemption cover the supplies in question, the claim to the exemption must be rejected. But the court is not required to reject a claim which does come within a fair interpretation of the words of the exemption because there is another, more restricted, meaning of the words which would exclude the supplies in question.”
+ The purpose of the financial services exemptions, including article 135(1)(b) and (d), has been stated to be to alleviate the difficulties of determining the consideration for such services and therefore the tax base for VAT liability and also to avoid an increase in the cost of consumer credit - see, for example, Velvet & Steel Immobilien und Handels GmbH v Finanzamt Hamburg-Eimsbüttel  (Case C-455/05) [2008] STC 922 at para 24.
+
+ 
+ 7 The relevant case law
+ The proper interpretation of the case law of the CJEU (which acronym will also be used to refer to the decisions made by the then named European Court of Justice) is critical to the resolution of the payments/transfers issue. Target contends that the relevant principles were set out in the CJEU decision in Sparekassernes Datacenter (SDC) v Skatteministeriet (Case C-2/95) [1997] ECR I-3017, [1997] STC 932 (‘SDC’). Target submits that that decision was correctly interpreted by the Court of Appeal in Customs and Excise Comrs v FDR Limited [2000] STC 672 (‘FDR’). In that case it was held that services which involve giving instructions which will automatically and inevitably result in a payment being made fall within the article 135(1)(d) exemption. Later CJEU case law, including DPAS, has re-affirmed the correctness of the long-established principles set out in SDC. The Court of Appeal was wrong to interpret DPAS as departing from the law set out in SDC, as interpreted in FDR, and thereby to disturb the settled state of the law. 
+
+ 
+ To address this case it will be necessary to analyse the case law in some detail. This will be done chronologically. The following analysis has been considerably assisted by that carried out by the Court of Appeal at paras 30 to 71 and the admirably clear and succinct written and oral submissions of Ms Hui Ling McCarthy KC for HMRC.
+
+ 
+SDC
+ SDC was the first case to consider the scope of the article 135(1)(d) exemption (then article 13B(d)(3) of the Sixth Directive).
+
+ 
+ SDC was a Danish association, most of whose members were savings banks, which provided to members and customers connected to its data-handling network various services, including the execution of transfers, the provision of advice on and trade in securities, and the management of deposits, purchase contracts and loans. SDC claimed to be within the exemption and various questions were referred by the Danish court to the CJEU.
+
+ 
+ A number of principles relevant to the interpretation of the exemption were set out by the CJEU in its judgment. These include:
+
+ 
+(1)       The transactions exempted depend on the nature of the services provided rather than the identity of the person or type of person supplying or receiving those services (para 32).
+(2)       The manner in which the service is performed, whether electronically, automatically or manually, does not affect the application of the exemption (para 37).
+(3)       Linguistic differences in terminology regarding the phrase “transactions…concerning” mean that its scope “cannot be determined on the basis of an interpretation which is exclusively textual” and reference must therefore be made to the context in which the phrase occurs and the structure of the Directive (para 22).
+(4)       The exemption is not restricted to services which a financial institution provides to an end customer but includes services provided by operators other than banks to persons other than their end customers (paras 56 and 57).
+ The core reasoning of the judgment is set out in paras 53 and 66 of the judgment. Para 53 provides:
+
+ 
+“…it must be noted first of all that a transfer is a transaction consisting of the execution of an order for the transfer of a sum of money from one bank account to another. It is characterised in particular by the fact that it involves a change in the legal and financial situation existing between the person giving the order and the recipient and between those parties and their respective banks and, in some cases, between the banks. Moreover, the transaction which produces this change is solely the transfer of funds between accounts, irrespective of its cause. Thus, a transfer being only a means of transmitting funds, the functional aspects are decisive for the purpose of determining whether a transaction constitutes a transfer for the purposes of the Sixth Directive.”
+ This establishes that:
+
+ 
+(1)       A transaction concerning a transfer means “the execution of an order for the transfer of a sum of money from one bank account to another”.
+(2)       The execution of such an order requires a “change in the legal and financial situation” of the relevant parties.
+(3)       That means a change in the legal and financial situation as between the payer and the payee and/or the payer and its bank or the payee and its bank and/or between the banks involved in the transfer.
+ Para 66 of SDC provides:
+
+ 
+“In order to be characterised as exempt transactions for the purposes of points (3) and (5) of article 13B, the services provided by a data-handling centre must, viewed broadly, form a distinct whole, fulfilling in effect the specific, essential functions of a service described in those two points. For 'a transaction concerning transfers', the services provided must therefore have the effect of transferring funds and entail changes in the legal and financial situation. A service exempt under the directive must be distinguished from a mere physical or technical supply, such as making a data-handling system available to a bank. In this regard, the national court must examine in particular the extent of the data-handling centre's responsibility vis-à-vis the banks, in particular the question whether its responsibility is restricted to technical aspects or whether it extends to the specific, essential aspects of the transactions.”
+ This emphasises that, “viewed broadly” and as “a distinct whole”, to be exempt the services must (i) have the effect of transferring funds and (ii) change the legal and financial situation (in the manner set out in para 53). What remained arguably unclear was whether the services must in themselves have that effect and make that change (‘the narrow interpretation’) or whether it was sufficient for them to have that causal effect (‘the wider interpretation’).
+
+ 
+ It is to be noted, however, that the CJEU specifically rejected SDC’s argument that it was sufficient for the service provided to be a necessary element of a complete service (para 63). As stated in para 65:
+
+ 
+“…since point (3) of article 13B(d) of the Sixth Directive must be interpreted strictly, the mere fact that a constituent element is essential for completing an exempt transaction does not warrant the conclusion that the service which that element represents is exempt. The interpretation put forward by SDC cannot therefore be accepted.”
+FDR
+ FDR was a decision of the Court of Appeal. FDR provided credit card services to banks. Its clients were either issuers (banks who issued credit cards to cardholders) or acquirers (banks who paid merchants, normally retailers, in exchange for vouchers accepted by those merchants in payment for goods and services) or both. FDR’s services enabled the movement of monies between banks, including by instructing BACS to make transfers following debit and credit card transactions by debiting the account of the acquirer and crediting the account of the merchant customer. For present purposes the key issue is whether the transfers effected through BACS were transactions falling within the exemption.
+
+ 
+ HMRC argued that the transfers were not within the exemption because, following SDC, a transaction concerning a transfer required the execution of the transfer rather than merely an instruction to do so - ie the narrow interpretation. The Court of Appeal rejected this argument. It held that it was sufficient if the services had the automatic and inevitable effect of executing a transfer. They did not in themselves have to do so - ie the wider interpretation. Laws LJ gave the leading judgment (with which Ward LJ and Bell J agreed). He held as follows:
+
+ 
+“42. …it is in my judgment of the first importance to recognise that BACS for its own part exercises no judgment or discretion whatever. Once the relevant tape is prepared (and that is admittedly done by FDR) and delivered to BACS, the process is, as I have said, automatic. Moreover the inevitable outcome is a redistribution of the rights and obligations of payor and payee--a 'change in the legal and financial situation'-the very circumstances which in my judgment constitute a transfer of funds for the purposes of article 13B(d)(3). As far as I can see that result would only not be arrived at if the BACS hardware or software were to break down, or if (assuming this were possible) FDR were to countermand its instructions during the BACS payment cycle. In those circumstances BACS is in my judgment merely the agency by which FDR effects transfers, in the four situations I have identified. Any other conclusion would be contrary to the good sense of the general law: Qui facit per alium facit per se [he who does a thing through another does it himself]. And I cannot in this see the least affront to the reasoning in SDC: quite the contrary: it is a conclusion which conforms to the letter and spirit of article 13B(d) as it was explained in that case.”
+ As a matter of domestic law FDR established that to qualify as a transaction concerning a transfer it was sufficient if the services had the automatic and inevitable effect of transferring funds and entailing changes in the legal and financial situation of the parties. That was a question of causation. This approach was followed by the Court of Appeal in Customs and Excise Comrs v Electronic Data Systems Ltd [2003] EWCA Civ 492, [2003] STC 688 (‘EDS’) and in Bookit Ltd v Revenue and Customers Comrs [2006] EWCA Civ 550, [2006] STC 1367 (‘Bookit I’) and by Henderson J in Revenue and Customs Comrs v Axa UK plc [2008] EWHC 1137 (Ch), [2008] STC 2091 (‘Axa UK’).
+
+ 
+ By the time of the hearing of the appeal in Axa UK in April 2009 it is apparent that doubt had arisen as to whether this was the correct interpretation of SDC because a reference to the CJEU was made which included a question as to “the characteristics of an exempt service that has ‘the effect of transferring funds and entail[s] changes in the legal and financial situation’”. This reference led to the CJEU decision in Revenue and Customs Comrs  v Axa UK plc (Case C-175/09) [2010] ECR I-10701, [2010] STC 2825 (‘AXA CJEU’).
+
+ 
+Axa CJEU
+ This case concerned dental payment plans under which patients agreed with their dentist to pay monthly amounts in return for a certain level of dental care each year. Denplan agreed with the dentist to collect these payments and transfer them to the dentist and to provide associated services. It was argued that these services were exempt.
+
+ 
+ The CJEU held that the services were taxable on the basis of the exception of “debt collection”. Although the questions referred in relation to whether the services would have fallen within the exemption were it not for the exclusion of debt collection were not addressed by the court, it appeared to consider that they would, stating briefly as follows at para 28:
+
+ 
+“28. As regards the service in question in the main proceedings, it is appropriate to point out that its purpose is to benefit Denplan’s clients, namely dentists, by the payment of the sums of money due to them from their patients. Denplan is, in return for remuneration, responsible for the recovery of those debts and provides a service of managing those debts for the account of those entitled to them. Therefore, as a matter of principle, that service constitutes a transaction concerning payments which is exempt under article 13B(d)(3) of the Sixth Directive, unless it is ‘debt collection or factoring’, a service which that provision, by its final words, expressly excludes from the list.”
+Nordea Pankki  Proceedings brought by Nordea Pankki Suomi Oyj (Case C-350/10) [2011] STC 1956 (‘Nordea Pankki’) 
+ Nordea Pankki concerned SWIFT services which comprised electronic messaging services by means of which payment orders were transmitted from one financial institution to another. It was held that these services were not exempt as they simply transmitted information. Even though they may be an essential part of the payment or transfer, they did not themselves perform the function of effecting the transfer of funds. In particular, the legal and financial changes necessary for exemption “result only from the transfer of ownership, actual or potential, in funds or securities” (para 33) and, although orders for transfers had to be transmitted via computer systems approved by SWIFT, “ownership rights as regards those funds or, as the case may be, those securities is transferred only by the financial institutions themselves in the context of legal relations with their own clients” (para 32). 
+
+ 
+Bookit II and NEC Bookit Ltd v Revenue and Customs Comrs (Case C-607/14) EU:C:2016:355 (26 May 2016) (‘Bookit II’); National Exhibition Centre Ltd v Revenue and Customs Comrs (Case C-130/15) [2016] STC 2132 (26 May 2016) (‘NEC’).
+ In both these references from English courts to the CJEU, the taxpayer was responsible for providing card handling services for a fee. These services included collecting the customer’s card details and relaying that to a merchant bank acquirer which in turn relayed that information to the cardholder’s bank thereby leading to payment. Bookit II concerned the sale of (Odeon) cinema tickets to customers. NEC concerned the sale of tickets on behalf of promoters who staged exhibitions and events at NEC venues. In both cases the taxpayer sent a settlement file at the end of each day which contained details of all card transactions during that day and this would trigger the payment or transfer.
+
+ 
+ Although the Court of Appeal in Bookit I had held on essentially the same facts that the services provided were exempt, in light of the CJEU’s decision in Nordea Pankki the FTT in Bookit II had sufficient doubt about the law relating to the scope of the exemption to make a further reference to the CJEU. The reference was made in December 2014 and raised similar questions to those previously asked in Axa CJEU. In March 2015 the UT in NEC made a reference raising similar issues. On 26 May 2016 the CJEU (with the same constitution) gave judgment in both cases. 
+
+ 
+ In its judgment in Bookit II the CJEU stated at para 41 that the test of whether a transaction has the effect of transferring funds and bringing about changes in the legal and financial situation is:
+
+ 
+“…whether the transaction under consideration causes the actual or potential transfer of ownership of the funds concerned, or fulfils in effect the specific, essential functions of such a transfer”.
+ On the facts the CJEU noted at para 44 that the service provided had “the effect of leading to the execution of a payment or a transfer”, that it “may be regarded as being essential to that execution”, and that the transmission of the end of day settlement file “triggers the process of payment or transfer of the sums concerned”. It was nevertheless held that the service was not exempt. Its principal reasons for so concluding were as follows:
+
+ 
+(1)       As article 135(1)(d) must be interpreted strictly, the mere fact that a service is essential to the completion of an exempt transaction does not warrant the conclusion that that service is exempted (para 45 - citing SDC para 65).
+(2)       The service provided cannot be regarded as performing a specific and essential function of a payment or transfer transaction as the provider “does not itself directly debit or credit the accounts concerned”, “does not act by accounting entries”, and “does not even instruct such debit or credit, since it is the purchaser who, by using his or her payment card to make a purchase, decides that his or her account will be debited in favour of a third party” (para 47).
+(3)       The transmission of the end of day settlement files is a “request to receive a payment electronically” and informs “the payment system concerned that a previously authorised sale has in fact been made” but cannot “be regarded as executing the payment or the transfer concerned or as fulfilling in effect the specific and essential functions” (para 48).
+ The CJEU concluded that the service provided consisted in essence of an exchange of information between a trader and its merchant acquirer with a view to receiving payment for a product or service, that this was no more than the provision of “technical and administrative assistance”, and that “the fact that the transmission of the settlement file entails the automatic triggering of the payments or transfers under consideration, cannot alter the nature of the service provided” (paras 51-53).
+
+ 
+ The CJEU judgment in NEC was to similar effect. At para 49 the CJEU observed as follows:
+
+ 
+“49. …such a service cannot be considered to be, by its nature, a financial transaction within the meaning of article 13B(d) of the Sixth Directive, unless the view were taken that any trader who takes the steps necessary to receive a payment by debit or credit card carries out a financial transaction within the meaning of that provision, which would render that concept meaningless and would be contrary to the requirement that VAT exemptions be strictly interpreted.” 
+DPAS
+ DPAS concerned a similar dental plan to that considered in Axa CJEU save that the contracts had been restructured so as to make the supplies to patients rather than to dentists, no doubt with the aim of sidestepping the debt collection exception. The services provided included payment administration services. Patients made monthly direct debit payments from their bank accounts to that of DPAS. DPAS then paid the dentists the aggregate monthly amount due to them in respect of all of their patients less an amount for DPAS’s services. 
+
+ 
+ The FTT, following Axa CJEU, held that the service involved a transaction concerning payments which was exempt from VAT. It also held that it did not involve debt collection, as the service was provided to the debtor and not to the creditor: [2013] UKFTT 676 (TC). On appeal the UT observed that Axa CJEU supported the FTT’s conclusion on the scope of the exemption but that the CJEU decisions in Bookit II and NEC indicated otherwise: [2015] UKUT 585 (TCC), [2016] STC 857. It therefore made a reference seeking guidance as to how these decisions were to be reconciled. The first question referred was framed as follows (the second related to the debt collection issue):
+
+ 
+“(1) … do the decisions [of Bookit II and NEC ] lead to the conclusion that the exemption from VAT in article 135(l)(d) is not applicable to a service, such as that performed by the taxpayer in the present case, which does not involve the taxpayer itself debiting or crediting any accounts over which it has control but which, where a transfer of funds results, is essential to that transfer? Or does the decision [of AXA UK] lead to the contrary conclusion?”
+ The CJEU (with the same constitution as in Bookit II and NEC) held that the service performed was not exempt, in accordance with the Advocate General’s opinion. 
+
+ 
+ At para 24 the CJEU summarised HMRC’s case as being that the services supplied were no different from those in issue in Bookit II and NEC and that a taxpayer who uses other financial service providers for transfers between accounts does not carry out transactions concerning transfers. 
+
+ 
+ At para 33 the CJEU re-iterated that a transfer is a transaction consisting of the execution of an order for the transfer of a sum of money from one bank account to another which is characterised by the fact that it involves a change in the legal and financial situation. Citing SDC para 53, it then stated:
+
+ 
+“…the transaction which produces that change is solely the transfer of funds between accounts, irrespective of its cause. Thus, a transfer being only a means of transmitting funds, the functional aspects are decisive for the purpose of determining whether a transaction constitutes a transfer within the meaning of article 135(1)(d) of the VAT Directive”.
+ At para 38, endorsing the observations of the Advocate General, the CJEU held that a transaction concerning transfers or payments will “only” be exempt where:
+
+ 
+“…it has the effect of making the legal and financial changes which are characteristic of the transfer of a sum of money. By contrast, the supply of a mere physical, technical or administrative service not effecting such changes will not come within that concept ...”
+ At para 39 the CJEU described the service being provided as follows:
+
+ 
+“…first, in requesting from the financial institution of the patient who entered into a dental plan pursuant to a direct debit mandate that a predetermined sum of money be transferred from that patient’s bank account to DPAS’s account and, second, in subsequently requesting the financial institution with which it holds its account to transfer that sum from that account to the respective bank accounts of the dentist and the patient’s insurer…”
+ The CJEU concluded that this was not an exempt supply for the following principal reasons:
+
+ 
+(1)       “Such a supply of services does not, as such, effect the legal and financial changes which characterise the transfer of a sum of money within the meaning of the case law referred to…but is administrative in nature” (para 40).
+(2)       The supplier “does not itself carry out the transfers or the materialisation in the relevant bank accounts of the sums of money agreed…but asks the relevant financial institutions to carry out those transfers” (para 41). 
+(3)       Such a supply is comparable to that in issue in Bookit II and NEC (para 41-42).
+(4)       It is “a preparatory stage to carrying out transactions concerning payments and transfers” (para 41) and “merely a step prior to” those transactions (para 42).
+(5)       Although the services were essential to the making of the payments, since article 135(1)(d) must be construed strictly that did not warrant the conclusion that the supply was to be exempted (para 43, citing Bookit II para 45 which in turn cites SDC para 65).
+(6)       Article 135(1)(d) is concerned with “financial transactions”, albeit that they do not necessarily have to be carried out by a bank or financial institution (para 45).
+(7)       The article 135(1)(d) exemption seeks to alleviate difficulties with determining the taxable amount but no such difficulty arises in this case (para 46).
+ Reasons (1), (2) and (4) reflect the Advocate General’s opinion. He stated as follows: 
+
+ 
+“44. In the context of that supply, DPAS does not carry out the transfer of the sums of money agreed in the context of the dental plans at issue in the dispute in the main proceedings itself, but asks the relevant financial institutions to do so. Accordingly, DPAS’s involvement is prior to the transfer transactions carried out by those institutions, with the latter, however, falling within the scope of the exemption provided for in article 135(1)(d) of the VAT Directive.
+45. Likewise, a patient who makes a transfer order to his dentist does not carry out the transfer of the sum of money agreed himself, but asks his bank to do so. The fact that DPAS obtained the authority to request the transfer of a sum of money in the name and on behalf of the patient, from the patient’s bank, cannot have the effect of transforming that preliminary step into a ‘transaction concerning payments or transfers’ within the meaning of the provision cited above.
+46. In other words, DPAS provides administrative management services the formal recipients of which are the patients, following the restructuring of the contractual arrangements initiated by DPAS, and it is the relevant financial institutions which carry out the financial transactions falling within the exemption provided for in article 135(1)(d) of the VAT Directive…”
+ Finally, the CJEU clarified that Axa CJEU was a decision on the debt collection exception but not one on the scope of the exemption, which it “did not examine”. Endorsing the Advocate General’s opinion at paras 59 to 63, the CJEU explained as follows:
+
+ 
+“48      …in that judgment, the court did not examine whether the supply of services at issue in the case which gave rise to it met the criterion established by the court’s previous case law for the purpose of identifying a transaction concerning payments and transfers, from which it was already clear that the relevant criterion in that regard was whether the supply of services at issue had the effect of making the legal and financial changes which are characteristic of the transfer of a sum of money (see judgments of 5 June 1997, SDC, C-2/95, EU:C:1997:278, paras 53 and 66, and of 13 December 2001, CSC Financial Services, C-235/00, EU:C:2001:696, paras 26 to 28), but focused its analysis on the question of whether that supply of services was covered by the concept of ‘debt collection’ within the meaning of article 13B(d)(3) of the Sixth Directive, now article 135(1)(d) of the VAT Directive”.
+ It is to be noted that the CJEU here confirms that the law remains as stated in paras 53 and 66 of SDC. At para 49 it stated that the court had not wished to broaden its previous case law in Axa CJEU. In substance, although not in terms, the CJEU therefore answered the question referred by holding that the decisions in Bookit II and NEC did lead to the conclusion that the exemption was not applicable to the services performed by DPAS and that Axa CJEU did not support a contrary conclusion.
+
+ 
+Conclusion on the case law
+ The law is as stated in SDC, as clarified in later CJEU case law and in particular DPAS, as explained above. 
+
+ 
+ Given the generalised terms in which the judgment in SDC was expressed, it is understandable that there should have been some doubt as to whether the law as there stated was to be interpreted according to the narrow interpretation, or the wider interpretation adopted in FDR. Later CJEU case law, and in particular Bookit II, NEC and especially DPAS, have made it absolutely clear that the narrow interpretation is the correct one. This is consistent with the need to interpret the exemption strictly, the fact that its subject matter is financial transactions and its rationale of covering cases where it is not possible to identify the tax base.
+
+ 
+ The narrow interpretation means that the services must in themselves have the effect of transferring funds and changing the legal and financial situation. It is not enough to give instructions to do so thereby triggering a transfer or payment. It is not enough to perform a service which is essential to the carrying out of the transfer or payment, nor one which automatically and inevitably leads to transfer or payment. It is necessary to be involved in the carrying out or execution of the transfer or payment - its “materialisation”. This requires functional participation and performance. Causation is insufficient, however inevitable the consequences.
+
+ 
+ As the Court of Appeal stated in the instant case at para 86:
+
+ 
+“…actual execution is necessary to qualify as a transaction concerning transfer or payment, and the mere giving of an instruction is not sufficient in itself, even if the instruction or order is indispensable to the transaction taking effect, and even if the instruction triggers an entirely automatic process leading to payment: electronic messaging services in a payment chain, that merely transmit information or instructions but do not themselves perform any of the functions of transmitting funds to constitute a transfer, do not fall within the exemption.”
+ In many cases this will mean that it is only the services provided by a bank or similar financial institution which will be exempt, but that is not necessarily so, as is illustrated by the case (discussed below) of ATP PensionService A/S v Skatteministeriet (Case C-464), [2014] STC 2145 (‘ATP’).
+
+ 
+ Mr Roderick Cordara KC for Target argued valiantly that SDC was correctly interpreted in FDR and that there is a tension between the law as stated in SDC and DPAS which should be resolved in favour of the former, given in particular the frequent citation of SDC with approval by the CJEU. There is no such tension. There was initially some uncertainty as to the law as stated in SDC, in particular as between the narrow and the wider interpretation, but it is now clear that the narrow interpretation is to be followed. The law remains as stated in SDC (in particular at paras 53 and 66) but those statements of the law are to be interpreted as clearly laid down in later CJEU case law, culminating in DPAS. 
+
+ 
+ Mr Cordara further submitted that a distinction is to be drawn between cases such as SDC and the present case, where the taxpayer supplies payment related services to a bank or financial institution and is acting “in the sphere of financial transactions”, and cases such as Bookit II, NEC and DPAS which concerned general services being provided to retailers of taxable goods and services (such as cinema tickets, exhibition tickets and dental services). There is, however, no suggestion of any such distinction being drawn in the CJEU case law. All the later cases cite and purport to apply the law as stated in SDC. Further, the functional approach adopted by the CJEU is inconsistent with the identity of the recipient of the services being a material consideration. Nor, as was faintly suggested, is there any hint that tax avoidance considerations played any part in the decisions concerning retail operations. Finally, it should be noted that although Shawbrook is a bank, Target does not carry out banking payment services on its behalf. Its role relates to Shawbrook’s mortgage and loan business - ie Shawbrook acting as a supplier of credit rather than as a supplier of payment and transfer services. 
+
+ 
+ Mr Cordara argued that “transactions, including negotiation, concerning” simply means transactions (including making arrangements) relating to “payments, transfers, debts” - they do not have to be them. He relied on the wide ordinary meaning of the word “concerning” and described this as “the epicentre of the debate”. The CJEU have, however, made it clear that a textual approach of this kind is inappropriate (see SDC para 22) and that the transaction must functionally effect or execute the payment or transfer.
+
+ 
+ Mr Cordara submitted that the consequence of the narrow interpretation is that it prevents the exemption from applying in cases where multiple parties are involved in the execution of an order for payment. This is not, however, the case. The exemption can apply to payments effected by multiple financial institutions, as borne out, for example, by the range of changes in the legal and financial situation of different parties which is referred to at para 53 of SDC. 
+
+ 
+ Mr Cordara also submitted that HMRC recognised that a messaging based service provider may fall within the exemption by its treatment of BACS services as being exempt, since, he submitted, that is the essential nature of its services. Ms McCarthy explained, however, that HMRC’s understanding of BACS services is that it aggregates transactions from various banks and then performs a netting-off function, thus altering the legal and financial relationship between them. If so, it is understandable that its services should be treated as exempt. 
+
+ 
+ For all these reasons, I reject Mr Cordara’s ingenious attempts to rely on the law as stated in FDR notwithstanding the subsequent CJEU case law and in particular the decision of the CJEU in DPAS. It is now apparent that domestic law took a wrong turn in FDR and the Court of Appeal’s conclusion as set out in para 42 of its judgment in that case must be overruled.
+
+ 
+8 The payments/transfers issue
+ This issue is answered by CJEU case law, as analysed above. This establishes that the narrow interpretation of SDC is correct and that the wider interpretation adopted in FDR is to be overruled. The giving of instructions is not enough even if that inevitably results in a payment or transfer. It follows that giving instructions which automatically and inevitably resulted in payment from the borrowers’ bank accounts to Shawbrook’s bank accounts via BACS is insufficient to fall within the exemption. 
+
+ 
+ Further, as both the UT and the Court of Appeal held, the services provided by Target are functionally indistinguishable from those provided in DPAS. As explained by the Upper Tribunal at para 75:
+
+ 
+“…Target’s role is limited to passing the necessary information to BACS to enable it to give the relevant instructions to the borrower’s bank and Shawbrook’s bank so that the transfer of funds can take place. That is indistinguishable from the role played by Denplan - so far as payments made by the patients are concerned - in giving the relevant instruction to the patient’s bank pursuant to the direct debit mandate in order for patient’s bank to cause the payment to be made to Denplan’s bank.”
+As the Court of Appeal held at para 91, the fact that the payments were made to the dentists via DPAS’s own bank account rather than directly makes no difference.
+ I would also endorse the four main reasons given by the Court of Appeal at paras 98 to 101 for rejecting Target’s case on this issue. In summary these are:
+
+ 
+(1)       “Target does not provide loan origination services to Shawbrook…Instead, it provides an outsourced business process service that starts with the creation of a loan account once the loan is made, and includes the day-to-day operation of the loan account, and Shawbrook’s bank accounts, and dealing with the borrower to the point of final repayment” (para 98).
+(2)       “The functions delegated to Target are limited to passing the necessary information to BACS to enable it to give the relevant instructions to the borrower's bank and Shawbrook's bank so that the transfer of funds can take place; and do not include the necessary steps ordinarily undertaken in effecting the transfer of funds or payments themselves” (para 99).
+(3)       “Target generates instructions or requests for payment by direct debit, in the form of a BACS file containing electronic payment instructions to banks operating the borrower bank accounts, which are then processed automatically by BACS. In other words, Target triggers the chain of steps leading to a transfer, but does not itself execute or effect the legal and financial changes which are characteristic of the transfer of money” (para 100).
+(4)       “Target does not assume responsibility or liability for achieving a transfer or payment in the services it provides… The service performed by Target does not go beyond an exchange of information or request for payment to somebody else to make the transfer or payment. That third party, and not Target, would be responsible for the failure or cancellation of, for example, a direct debit mandate. Target’s role is a prior step…” (para 101).
+9 The loan accounts issue
+ In relation to this issue Mr Cordara placed greater emphasis on “transactions… concerning…debts”. He submitted that the making of accounting entries is the standard modern means of effecting movements of value. Further, as a matter of EU law and English law unilateral accounting entries may be sufficient to effect a transfer or payment. In the present case Target’s role included the authorised debiting and crediting of the borrower loan accounts with Shawbrook and this involved making changes to the legal and financial situation of the parties and so falls within the article 135(1)(d) exemption. 
+
+ 
+ In terms of EU law, Mr Cordara relied upon the CJEU decision in ATP. ATP provided various services to pension funds. These included operating a pension fund account. Employers would pay aggregate sums into the pension fund account representing contributions owed under occupational pension schemes on behalf of their employees. ATP would then open a pension account for each individual employee and credit to the account the notional contribution (as a share of the aggregate payment in) made for that employee by making an entry in the ATP system. This would create a right in the employee to that part of the fund. As held by the CJEU:
+
+ 
+“70. …It appears prima facie that some of those services are not of a purely technical nature; rather, through the opening of accounts in the pension funds system and the crediting to those accounts of the contributions paid, they establish the rights of pension customers vis-à-vis the pension funds. The transactions by which contributions are credited to pension customers’ accounts appear to have the effect of transforming the claim held by a worker vis-à-vis his employer into a claim that the worker holds vis-à-vis the pension fund.”
+ If that analysis of the facts was correct (which was ultimately a matter for the national court) the CJEU held that those services would fall within the exemption as they would “establish the rights of pension customers vis-à-vis pension funds by transforming the claim held by a worker vis-à-vis his employer into a claim held by that worker vis-à-vis the pension fund of which he is a member” (para 82). As such, this would satisfy the test of effecting a transfer which involves a change in the legal and financial situation as set out in para 53 of SDC (which was cited at para 79).
+
+ 
+ The CJEU pointed out at para 80 that this test “does not presuppose any particular method for effecting transfers, which may be done using accounting entries”. It then gave as examples, “transfers between customers of a single bank, or between accounts of a single individual who acts as both the person giving the order and the recipient”.
+
+ 
+ In terms of English law, Mr Cordara relied upon Momm v Barclays Bank International Ltd [1977] QB 790. In that case a German bank, H, had agreed to transfer £120,000 to another German bank. Both banks had accounts at the London branch of Barclays. H instructed Barclays to make the transfer which it did by debiting H’s account and crediting the other bank’s account on the stated value date. Later that day it was announced that H had ceased trading and was going into liquidation. It was held by Kerr J that the transfer was not a conditional transfer and that it was completed at the close of working hours on the day when the accounting entries were made in accordance with H’s instructions and was not affected by its purported reversal the following day. 
+
+ 
+ The resolution of how these cases apply in the context of Target’s services for Shawbrook depends upon the findings made by the FTT in relation to the loan account. The FTT found as follows:
+
+ 
+“42. …The loan accounts are the sole record of the financial relationship between Shawbrook and its borrowers. They are effectively ledgers which evidence the level of indebtedness, capture repayments and record other financial information including fees and interest charged. Target credits and debits the loan accounts with all relevant amounts (payments, fees and interest etc). It applies various calculations to work out expected payments. Loan accounts are used as a basis of reporting to Shawbrook as well as for the production of statements for borrowers…
+…
+50. Target is also responsible for calculating the amounts of interest and principal repayments due, and for calculating and applying any fees. Because of the way payment processes operate, expected payments are initially assumed to be made by applying credits to the relevant loan accounts. Where it transpires that payment was not made, these entries are reversed by adding the relevant amount to the outstanding balance (split between interest and principal, assuming the missed payment related to both), together where appropriate with a fee…” (emphasis added)
+ It is apparent from those findings that the entries made are of “expected” payments which are “assumed” to be made. On any view such an entry cannot effect a payment or transfer or result in a change in the legal position of the parties. Further, consistently with the assumptions inherent in applying credits made by reference to “expected” payments, these entries are reversable.
+
+ 
+ As the Upper Tribunal held at para 80, “the loan account was no more than a ledger, recording the effect of payments made by customers to Shawbrook but not effecting such payments”. As the Court of Appeal held at para 104, it follows from the FTT’s findings that “an entry in the ledger or on the loan account by Target did not itself transfer ownership of any funds or commute the rights of any party”. As the Court of Appeal further stated at para 102:
+
+ 
+“The debits and credits to loan accounts made by Target did not effect any payment or transfer, and did not result in a change in the legal and financial position of the parties, but simply recorded the consequence of transfers effected by others.”
+ ATP provides a useful illustration of how the exemption may apply to non-financial institutions, but it is clearly distinguishable from the present case. On the CJEU’s analysis, the account entries made in that case did change the legal and financial situation by transforming a right held by a worker against his employer into one held in relation to a pension fund. In this case the ledger entries in relation to “expected” payments could not and did not legally change anything.
+
+ 
+ The Momm case also does not assist. That case is an illustration of what may occur in one of the example cases cited by the CJEU at para 80 of its judgment in ATP, namely where there are “transfers between customers of a single bank”. It is not analogous to either the relationship of the parties or the account entries made in this case.
+
+ 
+9 Conclusion
+  For the reasons set out above I would dismiss Target’s appeal on the principal issue. In those circumstances it is not necessary to address the further issues which would otherwise have arisen and, in particular, the debt collection point. I would accordingly dismiss the appeal.
+
+  

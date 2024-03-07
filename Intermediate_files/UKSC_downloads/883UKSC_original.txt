@@ -1,0 +1,640 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Target Group Ltd v Revenue and Customs [2023] UKSC 35 (11 October 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gisha;} @font-face  {font-family:Consolas;  panose-1:2 11 6 9 2 2 4 3 2 4;} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:TimesNewRoman;  panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:WarnockPro-Regular;  panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"\@WarnockPro-Regular";  panose-1:0 0 0 0 0 0 0 0 0 0;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoCommentText, li.MsoCommentText, div.MsoCommentText  {mso-style-link:"Comment Text Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoPlainText, li.MsoPlainText, div.MsoPlainText  {mso-style-link:"Plain Text Char";  margin:0cm;  font-size:10.5pt;  font-family:Consolas;} p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject  {mso-style-link:"Comment Subject Char";  margin:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.MsoRMPane, li.MsoRMPane, div.MsoRMPane  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle  {margin-top:0cm;  margin-right:0cm;  margin-bottom:0cm;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast  {margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:36.0pt;  line-height:107%;  font-size:11.0pt;  font-family:"Calibri",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} p.Caveat, li.Caveat, div.Caveat  {mso-style-name:Caveat;  margin:0cm;  text-align:justify;  border:none;  padding:0cm;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.Paraheading2, li.Paraheading2, div.Paraheading2  {mso-style-name:"Paraheading 2";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.Paraheading3, li.Paraheading3, div.Paraheading3  {mso-style-name:"Paraheading 3";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  text-decoration:underline;} p.Embargo, li.Embargo, div.Embargo  {mso-style-name:Embargo;  margin-top:0cm;  margin-right:0cm;  margin-bottom:8.0pt;  margin-left:0cm;  text-align:justify;  line-height:107%;  font-size:10.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.Bulletpara, li.Bulletpara, div.Bulletpara  {mso-style-name:"Bullet para";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:-18.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.Paraheading4, li.Paraheading4, div.Paraheading4  {mso-style-name:"Paraheading 4";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.Paraheading5, li.Paraheading5, div.Paraheading5  {mso-style-name:"Paraheading 5";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.Paraheading6, li.Paraheading6, div.Paraheading6  {mso-style-name:"Paraheading 6";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.CourtOrder, li.CourtOrder, div.CourtOrder  {mso-style-name:"Court Order";  margin:0cm;  line-height:107%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  color:#C00000;  font-weight:bold;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaSubHeading2, li.ParaSubHeading2, div.ParaSubHeading2  {mso-style-name:ParaSubHeading2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;  text-decoration:underline;} p.ParaSubHeading3, li.ParaSubHeading3, div.ParaSubHeading3  {mso-style-name:ParaSubHeading3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaNoNumberApproved, li.ParaNoNumberApproved, div.ParaNoNumberApproved  {mso-style-name:ParaNoNumberApproved;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.PlainTextChar  {mso-style-name:"Plain Text Char";  mso-style-link:"Plain Text";  font-family:Consolas;} span.CommentTextChar  {mso-style-name:"Comment Text Char";  mso-style-link:"Comment Text";  font-family:"Calibri",sans-serif;} span.CommentSubjectChar  {mso-style-name:"Comment Subject Char";  mso-style-link:"Comment Subject";  font-family:"Calibri",sans-serif;  font-weight:bold;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Target Group Ltd v Revenue and Customs [2023] UKSC 35 (11 October 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/35.html</i>
+<br>Cite as: 
+[2023] WLR(D) 421,
+
+[2023] 1 WLR 3621,
+
+[2023] UKSC 35,
+
+[2023] WLR 3621
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/35.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="https://www.iclr.co.uk/document/2019005485/casereport_35a2e8cb-96ed-4ea4-9bc0-680ffc9c2c53/html">[2023] WLR(D) 421</a>]
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2019005485/casereport_391db8b1-70bb-464d-9dd2-d1fd042dc5de/html">[2023] 1 WLR 3621</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/35.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/35.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b><span style="font-family:&quot;Times New Roman&quot;,serif">Michaelmas Term</span></b></a></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b><span style="font-family: &quot;Times New Roman&quot;,serif">[2023] UKSC 35</span></b></p>  
+
+<p class="JudgmentReferences"><i><span style="font-family:&quot;Times New Roman&quot;,serif">On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/1043.html">[2021] EWCA Civ 1043</a></span></i></p>  
+
+<p class="JudgmentTitle"><span style="font-family:&quot;Times New Roman&quot;,serif">JUDGMENT</span></p>  
+
+<p class="JudgmentDetail1"><span style="font-family:&quot;Times New Roman&quot;,serif">Target Group Ltd (Appellant)</span></p>  
+
+<p class="JudgmentDetail1"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;<i>v</i> </span></p>  
+
+<p class="JudgmentDetail1"><span style="font-family:&quot;Times New Roman&quot;,serif">Commissioners for His Majesty's Revenue and Customs (Respondent)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif;font-weight:normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-family:&quot;Times New Roman&quot;,serif;font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Reed, President</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Lloyd-Jones</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Sales</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Hamblen</span></p>  
+
+<p class="JudgmentJudges"><span style="font-family:&quot;Times New Roman&quot;,serif">Lady Rose</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">JUDGMENT GIVEN ON</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">11 October 2023</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">&nbsp;</span></p>  
+
+<p class="JudgmentJudges"><span style="font-family:&quot;Times New Roman&quot;,serif">Heard on 12 and 13 July 2023</span></p>    <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i><span style="font-family:&quot;Times New Roman&quot;,serif">Appellant</span></i></a></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Roderick Cordara KC</span></p>  
+
+<p class="JudgmentAppRespInt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Instructed by </span><span style="font-family:&quot;Times New Roman&quot;,serif">PricewaterhouseCoopers LLP (Embankment)</span><span style="font-family:&quot;Times New Roman&quot;,serif">)</span></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i><span style="font-family:&quot;Times New Roman&quot;,serif">Respondent</span></i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Hui Ling McCarthy KC</span></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Michael Ripley</span></p>  
+
+<p class="JudgmentAppRespInt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Instructed by </span><span style="font-family:&quot;Times New Roman&quot;,serif">HMRC Solicitor’s Office (Stratford)</span><span style="font-family:&quot;Times New Roman&quot;,serif">)</span></p>  
+
+<p class="MsoNormal">&nbsp;</p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280"><span style="font-family:&quot;Times New Roman&quot;,serif">Lord Hamblen (</span></a><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">with whom Lord Reed, Lord Lloyd-Jones, Lord Sales and Lady Rose agree</span><span style="font-family:&quot;Times New Roman&quot;,serif">): </span></p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">1 Introduction</span></p><ol>  
+
+<li value="1"><a name="para1"> <span style="font-family:&quot;Times New Roman&quot;,serif">Value Added Tax (‘VAT’) is paid on all services supplied for consideration by a taxable person and its application is governed by Council Directive 2006/112/EC (the ‘Principal VAT Directive’ or ‘PVD’). The PVD exempts specified supplies from VAT and under article 135(1)(d) this includes various financial transactions. The issue on this appeal is whether loan administration services provided by the appellant (‘Target’) fall within that exemption.</span>
+</a></li>
+<p> </p>  
+
+<li value="2"><a name="para2"> <span style="font-family:&quot;Times New Roman&quot;,serif">Shawbrook Bank Limited (‘Shawbrook’) is a provider of mortgages and loans. Target administers loans made by Shawbrook, including by operating individual loan accounts and instigating and processing payments due from borrowers.</span>
+</a></li>
+<p> </p>  
+
+<li value="3"><a name="para3"> <span style="font-family:&quot;Times New Roman&quot;,serif">The article 135(1)(d) exemption applies to “transactions, … concerning …payments, transfers, debts, … but excluding debt collection”. Target contends that the services it provides fall within this provision and so are exempt from VAT. In particular, it relies on the fact that it procures payments from borrowers’ bank accounts to Shawbrook’s bank accounts by giving instructions for payment which are then automatically and inevitably carried out through the BACS system (BACS is the acronym for Bankers’ Automated Clearing System).</span>
+</a></li>
+<p> </p>  
+
+<li value="4"><a name="para4"> <span style="font-family:&quot;Times New Roman&quot;,serif">The respondent (‘HMRC’) contends that the exemption does not apply because the case law of the Court of Justice of the European Union (‘CJEU’) makes it clear that the exemption only applies to the execution of an order for transfer or payment and giving instructions for payment is a prior step to execution rather than part of the process of execution. The Court of Appeal (and the Upper Tribunal) upheld HMRC’s case and Target now appeals against that decision. </span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">2 The legislative framework</span></p>  
+
+<li value="5"><a name="para5"> <span style="font-family:&quot;Times New Roman&quot;,serif">Article 135(1) of the PVD lists a series of transactions which are exempt from VAT. These include:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(b) the granting and the negotiation of credit and the management of credit by the person granting it;</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">…</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(d) transactions, including negotiation, concerning deposit and current accounts, payments, transfers, debts, cheques and other negotiable instruments, but excluding debt collection; …”</span></p>  
+
+<li value="6"><a name="para6"> <span style="font-family:&quot;Times New Roman&quot;,serif">Prior to the PVD coming into force, the two exemptions above were in article 13B(d)(1) and (3) respectively of the Sixth Directive (77/388/EEC). Since 1 January 1991, the exemption for “management of credit” has been restricted to management undertaken by the grantor only.</span>
+</a></li>
+<p> </p>  
+
+<li value="7"><a name="para7"> <span style="font-family:&quot;Times New Roman&quot;,serif">These exemptions are reflected in national law by Items 1, 2, 2A and 8 of Group 5 of Schedule 9 to Value Added Tax Act 1994. Nothing in this appeal turns on the precise wording of the UK statute.</span>
+</a></li>
+<p> </p>  
+
+<li value="8"><a name="para8"> <span style="font-family:&quot;Times New Roman&quot;,serif">The interpretation of the PVD is a matter of EU law, as retained pursuant to sections 2, 5(2) and 6 of European Union (Withdrawal) Act 2018.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">3 The factual background</span></p>  
+
+<li value="9"><a name="para9"> <span style="font-family:&quot;Times New Roman&quot;,serif">In their decisions the First Tier Tribunal (‘FTT’) made findings about the services provided by Target to Shawbrook at paras 29 to 57 which were summarised by the Upper Tribunal (‘UT’) at paras 18 to 23 as follows:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“18. The loan accounts maintained by Target are the sole record of the financial relationship between Shawbrook and its borrowers. They are effectively ledgers which evidence the level of indebtedness, capture repayments and record other financial information including fees and interest charged. Target credits and debits the loan accounts with all relevant amounts (payments, fees and interest etc).</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">19. Target operates bank accounts on behalf of Shawbrook. Target is responsible for matching payments to individual loan accounts and identifying missing payments. The vast majority of payments are made by direct debit. Target is responsible for generating the instructions for direct debit payments, in the form of a BACS file produced by Target’s systems which contains electronic payment instructions to banks operating the borrowers’ bank accounts, which BACS processes automatically. Target also accepts payments otherwise than by direct debit, eg by debit card payments and cheques.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">20. As well as regular payments, Target processes irregular payments, for example where a borrower is in arrears and is seeking to pay amounts towards clearing the arrears, makes an overpayment or is paying off a loan early. Target reconciles and credits the payments to the loan accounts. Target has authority to transfer funds paid by borrowers into an incorrect account to the correct account. It uses both the BACS and CHAPS payment systems, which process instructions issued by Target (on behalf of Shawbrook), to move funds between Shawbrook’s bank accounts where required, or to repay sums to the borrower where an overpayment has been made.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">21. Target is also responsible for calculating the amounts of interest and principal repayments due, and for calculating and applying any fees. Where Shawbrook makes an additional advance to a borrower, Target follows the same processes as for a new loan with the new outstanding loan amount replacing the previous balance. Where a borrower wishes to repay a loan early, Target is responsible for providing an early settlement quote. It also handles the entire process for any loan repayment, including discharge of security (using Shawbrook’s approved panel of solicitors) and closure of the account.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">22. Target also deals with missed payments and arrears. For any default, a letter is produced in Shawbrook’s name providing formal notification to the borrower and advising them of the fee that will be applied. Target is provided with a certain level of authority by Shawbrook to negotiate how missed payments will be made up, with any longer-term forbearance being referred to Shawbrook. Any changes to the terms of a loan, eg an extension to the loan period, are also a matter for Shawbrook. If an account remains in arrears, the decision whether to take legal action or write off a loan is solely a matter for Shawbrook. If Shawbrook decides to take legal action, Target will work with a firm of solicitors on a Shawbrook approved panel, providing information, keeping records and continuing to handle contacts with the borrower.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">23. Target also deals with any overpayments. Generally, borrowers can overpay a certain percentage of the balance, eg 10%, in any year without incurring an early repayment charge. Target amends the loan balance and term as appropriate and issues a letter confirming the overpayment. Alternatively, borrowers may be eligible for a refund if they overpay which Target will process. As mentioned above at [13], Target has authority to process refunds of less than £300 without reference to Shawbrook.”</span></p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">4 The Issues</span></p>  
+
+<li value="10"><a name="para10"> <span style="font-family:&quot;Times New Roman&quot;,serif">The principal issue on this appeal is whether Target carried out “transactions…concerning” “payments” and/or “transfers” and/or “debts” within the meaning of article 135(1)(d).</span>
+</a></li>
+<p> </p>  
+
+<li value="11"><a name="para11"> <span style="font-family:&quot;Times New Roman&quot;,serif">Target contends that it did so on two bases:</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By giving instructions which automatically and inevitably resulted in payment from the borrowers’ bank accounts to Shawbrook’s bank accounts via BACS (‘the payments/transfers issue’); and/or</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By the inputting of entries into the borrowers’ loan accounts with Shawbrook (‘the loan accounts issue’).</span></p>  
+
+<li value="12"><a name="para12"> <span style="font-family:&quot;Times New Roman&quot;,serif">If Target succeeds in its appeal on this principal issue a further issue arises, namely whether its services are nevertheless excluded from exemption because they comprise a single composite supply which amounts to “debt collection” (the exclusion from the exemption under article 135(1)(d)) and/or “the management of credit” by a person other than the person granting it (ie Shawbrook), a supply which is specifically not exempted under article 135(1)(b).</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif">5 </span><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">The decisions below</span></p>  
+
+<li value="13"><a name="para13"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The FTT (Judge Sarah Falk) promulgated its decision on 20 April 2018 </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2018/TC06459.html">[2018] UKFTT 226 (TC)</a>. Before the FTT HMRC put Target to proof that its supply fell to be treated as transactions concerning payments or transfers, but did not positively dispute this. Their primary case was that the supply was excluded as being debt collection. The FTT found that Target’s supply included transactions concerning payments or transfers within article 135(1)(d) but that the predominant nature of the supply was debt collection and therefore taxable because it was excluded from the exemption.
+</li>
+<p> </p>  
+
+<li value="14"><a name="para14"> <span style="font-family:&quot;Times New Roman&quot;,serif">HMRC appealed to the UT. Between the FTT decision and the hearing before the UT the CJEU gave its decision in <i>HMRC v DPAS Ltd</i> (Case C-5/17) </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2018/C517.html">[2018] STC 1615</a> (25 July 2018) (‘DPAS’). In the light of that decision HMRC disputed whether Target’s supply did include transactions concerning payment or transfer. The UT (Zacaroli J and Judge Greg Sinfield) promulgated its decision on 15 November 2019 <a title="Link to BAILII version" href="/uk/cases/UKUT/TCC/2019/340.html">[2019] UKUT 340 (TCC)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2019/340.html">[2020] STC 1</a>. It held that:
+</li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“74. The decision of the CJEU in <i>DPAS </i>is, in our judgement, clear and unambiguous. Where the relevant service at issue involves the giving of an instruction to a financial institution to effect a payment, it does not constitute an exempt supply even though it may be a necessary step in order for the payment to be made.”</span></p>  
+
+<li value="15"><a name="para15"> <span style="font-family:&quot;Times New Roman&quot;,serif">The UT further held that the role carried out by Target in processing payments was indistinguishable from that of the taxpayer in <i>DPAS</i> and that it did not therefore fall within the article 135(1)(d) exemption. It also held that Target’s inputting of accounting entries in the loan accounts did not fall within the exemption as it did not change any party’s legal and financial position. It therefore concluded that the services supplied by Target to Shawbrook were not exempt under article 135(1)(d) but were standard rated supplies for VAT purposes. In those circumstances it was not necessary for the UT to decide whether Target’s services would be excluded from the exemption as debt collection and so it did not address that issue.</span>
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> <span style="font-family:&quot;Times New Roman&quot;,serif">Target appealed to the Court of Appeal. In its decision of 12 July 2021 the Court of Appeal (Underhill VP, Henderson and Simler LJJ) dismissed the appeal </span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/1043.html">[2021] EWCA Civ 1043</a>. The lead judgment was given by Simler LJ, with whom Underhill VP and Henderson LJ agreed. In a thorough and fully reasoned judgment the Court of Appeal upheld the conclusion of the UT on the principal issue. In those circumstances the Court of Appeal similarly did not find it necessary to address the debt collection issue.
+</li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">6 The interpretation of VAT exemptions</span></p>  
+
+<li value="17"><a name="para17"> <span style="font-family:&quot;Times New Roman&quot;,serif">The following points are of relevance (see the Court of Appeal judgment at paras 17, 19 and 20):</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The exemptions contained in the PVD (and formerly the Sixth Directive) are independent concepts of EU law.</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The terms used in the PVD to specify exemptions must be interpreted strictly because they constitute exceptions to the general rule that VAT is to be levied on all services supplied for consideration by a taxable person.</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where there is a specific exemption (here for the management of credit but only by the grantor of that credit), a broader exemption (here, article 135(1)(d)) should not be interpreted so widely as to undermine the deliberate legislative choice made in restricting other exemptions. </span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conversely, the phrase “debt collection” in article 135(1)(d) must be construed broadly because it is an exception to the exemption.</span></p>  
+
+<li value="18"><a name="para18"> <span style="font-family:&quot;Times New Roman&quot;,serif">What is meant by a strict interpretation was explained by Chadwick LJ in <i>Expert Witness Institute v Customs and Excise Comrs</i> </span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2001/1882.html">[2001] EWCA Civ 1882</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/1882.html">[2002] 1 WLR 1674</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/1882.html">[2002] STC 42</a> as follows:
+</li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“17. … A ‘strict’ construction is not to be equated, in this context, with a restricted construction. The court must recognise that it is for a supplier, whose supplies would otherwise be taxable, to establish that it comes within the exemption; so that, if the court is left in doubt whether a fair interpretation of the words of the exemption cover the supplies in question, the claim to the exemption must be rejected. But the court is not required to reject a claim which does come within a fair interpretation of the words of the exemption because there is another, more restricted, meaning of the words which would exclude the supplies in question.”</span></p>  
+
+<li value="19"><a name="para19"> <span style="font-family:&quot;Times New Roman&quot;,serif">The purpose of the financial services exemptions, including article 135(1)(b) and (d), has been stated to be to alleviate the difficulties of determining the consideration for such services and therefore the tax base for VAT liability and also to avoid an increase in the cost of consumer credit - see, for example, </span><i><span style="font-family:&quot;Times New Roman&quot;,serif">Velvet &amp; Steel Immobilien und Handels GmbH v Finanzamt Hamburg-Eimsbüttel </span></i><span style="font-family: &quot;Times New Roman&quot;,serif">&nbsp;(Case C-455/05) </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2007/C45505.html">[2008] STC 922</a> at para 24.
+</li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;7 </span><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">The relevant case law</span></p>  
+
+<li value="20"><a name="para20"> <span style="font-family:&quot;Times New Roman&quot;,serif">The proper interpretation of the case law of the CJEU (which acronym will also be used to refer to the decisions made by the then named European Court of Justice) is critical to the resolution of the payments/transfers issue. Target contends that the relevant principles were set out in the CJEU decision in </span><i><span style="font-family:&quot;Times New Roman&quot;,serif">Sparekassernes Datacenter (SDC) v Skatteministeriet </span></i><span style="font-family:&quot;Times New Roman&quot;,serif">(Case C-2/95) </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1997/C295.html">[1997] ECR I-3017</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1997/C295.html">[1997] STC 932</a> (‘<i><span style="font-family: &quot;Times New Roman&quot;,serif">SDC</span></i><span style="font-family:&quot;Times New Roman&quot;,serif">’). Target submits that that decision was correctly interpreted by the Court of Appeal in </span><i><span style="font-family:&quot;Times New Roman&quot;,serif">Customs and Excise Comrs v FDR Limited</span></i><span style="font-family:&quot;Times New Roman&quot;,serif"> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2000/216.html">[2000] STC 672</a> (‘</span><i><span style="font-family:&quot;Times New Roman&quot;,serif">FDR</span></i><span style="font-family:&quot;Times New Roman&quot;,serif">’). In that case it was held that services which involve giving instructions which will automatically and inevitably result in a payment being made fall within the article 135(1)(d) exemption. Later CJEU case law, including <i>DPAS, </i>has re-affirmed the correctness of the long-established principles set out in <i>SDC. </i>The Court of Appeal was wrong to interpret <i>DPAS </i>as departing from the law set out in <i>SDC, </i>as interpreted in <i>FDR</i>, and thereby to disturb the settled state of the law. </span>
+</li>
+<p> </p>  
+
+<li value="21"><a name="para21"> <span style="font-family:&quot;Times New Roman&quot;,serif">To address this case it will be necessary to analyse the case law in some detail. This will be done chronologically. The following analysis has been considerably assisted by that carried out by the Court of Appeal at paras 30 to 71 and the admirably clear and succinct written and oral submissions of Ms Hui Ling McCarthy KC for HMRC.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">SDC</span></p>  
+
+<li value="22"><a name="para22"> <i><span style="font-family:&quot;Times New Roman&quot;,serif">SDC</span></i><span style="font-family:&quot;Times New Roman&quot;,serif"> was the first case to consider the scope of the article 135(1)(d) exemption (then article 13B(d)(3) of the Sixth Directive).</span>
+</a></li>
+<p> </p>  
+
+<li value="23"><a name="para23"> <span style="font-family:&quot;Times New Roman&quot;,serif">SDC was a Danish association, most of whose members were savings banks, which provided to members and customers connected to its data-handling network various services, including the execution of transfers, the provision of advice on and trade in securities, and the management of deposits, purchase contracts and loans. SDC claimed to be within the exemption and various questions were referred by the Danish court to the CJEU.</span>
+</a></li>
+<p> </p>  
+
+<li value="24"><a name="para24"> <span style="font-family:&quot;Times New Roman&quot;,serif">A number of principles relevant to the interpretation of the exemption were set out by the CJEU in its judgment. These include:</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The transactions exempted depend on the nature of the services provided rather than the identity of the person or type of person supplying or receiving those services (para 32).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The manner in which the service is performed, whether electronically, automatically or manually, does not affect the application of the exemption (para 37).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linguistic differences in terminology regarding the phrase “transactions…concerning” mean that its scope “cannot be determined on the basis of an interpretation which is exclusively textual” and reference must therefore be made to the context in which the phrase occurs and the structure of the Directive (para 22).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The exemption is not restricted to services which a financial institution provides to an end customer but includes services provided by operators other than banks to persons other than their end customers (paras 56 and 57).</span></p>  
+
+<li value="25"><a name="para25"> <span style="font-family:&quot;Times New Roman&quot;,serif">The core reasoning of the judgment is set out in paras 53 and 66 of the judgment. Para 53 provides:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…it must be noted first of all that a transfer is a transaction consisting of the execution of an order for the transfer of a sum of money from one bank account to another. It is characterised in particular by the fact that it involves a change in the legal and financial situation existing between the person giving the order and the recipient and between those parties and their respective banks and, in some cases, between the banks. Moreover, the transaction which produces this change is solely the transfer of funds between accounts, irrespective of its cause. Thus, a transfer being only a means of transmitting funds, the functional aspects are decisive for the purpose of determining whether a transaction constitutes a transfer for the purposes of the Sixth Directive.”</span></p>  
+
+<li value="26"><a name="para26"> <span style="font-family:&quot;Times New Roman&quot;,serif">This establishes that:</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A transaction concerning a transfer means “the execution of an order for the transfer of a sum of money from one bank account to another”.</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The execution of such an order requires a “change in the legal and financial situation” of the relevant parties.</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; That means a change in the legal and financial situation as between the payer and the payee and/or the payer and its bank or the payee and its bank and/or between the banks involved in the transfer.</span></p>  
+
+<li value="27"><a name="para27"> <span style="font-family:&quot;Times New Roman&quot;,serif">Para 66 of <i>SDC </i>provides:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“In order to be characterised as exempt transactions for the purposes of points (3) and (5) of article 13B, the services provided by a data-handling centre must, viewed broadly, form a distinct whole, fulfilling in effect the specific, essential functions of a service described in those two points. For 'a transaction concerning transfers', the services provided must therefore have the effect of transferring funds and entail changes in the legal and financial situation. A service exempt under the directive must be distinguished from a mere physical or technical supply, such as making a data-handling system available to a bank. In this regard, the national court must examine in particular the extent of the data-handling centre's responsibility vis-à-vis the banks, in particular the question whether its responsibility is restricted to technical aspects or whether it extends to the specific, essential aspects of the transactions.”</span></p>  
+
+<li value="28"><a name="para28"> <span style="font-family:&quot;Times New Roman&quot;,serif">This emphasises that, “viewed broadly” and as “a distinct whole”, to be exempt the services must (i) have the effect of transferring funds and (ii) change the legal and financial situation (in the manner set out in para 53). What remained arguably unclear was whether the services must in themselves have that effect and make that change (‘the narrow interpretation’) or whether it was sufficient for them to have that causal effect (‘the wider interpretation’).</span>
+</a></li>
+<p> </p>  
+
+<li value="29"><a name="para29"> <span style="font-family:&quot;Times New Roman&quot;,serif">It is to be noted, however, that the CJEU specifically rejected SDC’s argument that it was sufficient for the service provided to be a necessary element of a complete service (para 63). As stated in para 65:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…since point (3) of article 13B(d) of the Sixth Directive must be interpreted strictly, the mere fact that a constituent element is essential for completing an exempt transaction does not warrant the conclusion that the service which that element represents is exempt. The interpretation put forward by SDC cannot therefore be accepted.”</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">FDR</span></p>  
+
+<li value="30"><a name="para30"> <i><span style="font-family:&quot;Times New Roman&quot;,serif">FDR</span></i><span style="font-family:&quot;Times New Roman&quot;,serif"> was a decision of the Court of Appeal. FDR provided credit card services to banks. Its clients were either issuers (banks who issued credit cards to cardholders) or acquirers (banks who paid merchants, normally retailers, in exchange for vouchers accepted by those merchants in payment for goods and services) or both. FDR’s services enabled the movement of monies between banks, including by instructing BACS to make transfers following debit and credit card transactions by debiting the account of the acquirer and crediting the account of the merchant customer. For present purposes the key issue is whether the transfers effected through BACS were transactions falling within the exemption.</span>
+</a></li>
+<p> </p>  
+
+<li value="31"><a name="para31"> <span style="font-family:&quot;Times New Roman&quot;,serif">HMRC argued that the transfers were not within the exemption because, following <i>SDC, </i>a transaction concerning a transfer<i> </i>required the execution of the transfer rather than merely an instruction to do so - ie the narrow interpretation. The Court of Appeal rejected this argument. It held that it was sufficient if the services had the automatic and inevitable effect of executing a transfer. They did not in themselves have to do so - ie the wider interpretation. Laws LJ gave the leading judgment (with which Ward LJ and Bell J agreed). He held as follows:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“42. …it is in my judgment of the first importance to recognise that BACS for its own part exercises no judgment or discretion whatever. Once the relevant tape is prepared (and that is admittedly done by FDR) and delivered to BACS, the process is, as I have said, automatic. Moreover the inevitable outcome is a redistribution of the rights and obligations of payor and<i> </i>payee--a 'change in the legal and financial situation'-the very circumstances which in my judgment constitute a transfer of funds for the purposes of article 13B(d)(3). As far as I can see that result would only <i>not </i>be arrived at if the BACS hardware or software were to break down, or if (assuming this were possible) FDR were to countermand its instructions during the BACS payment cycle. In those circumstances BACS is in my judgment merely the agency by which FDR effects transfers, in the four situations I have identified. Any other conclusion would be contrary to the good sense of the general law: Qui facit per alium facit per se [he who does a thing through another does it himself]. And I cannot in this see the least affront to the reasoning in SDC: quite the contrary: it is a conclusion which conforms to the letter and spirit of article 13B(d) as it was explained in that case.”</span></p>  
+
+<li value="32"><a name="para32"> <span style="font-family:&quot;Times New Roman&quot;,serif">As a matter of domestic law <i>FDR </i>established that to qualify as a transaction concerning a transfer it was sufficient if the services had the automatic and inevitable effect of transferring funds and entailing changes in the legal and financial situation of the parties. That was a question of causation. This approach was followed by the Court of Appeal in <i>Customs and Excise Comrs</i> v </span><i><span style="font-family:&quot;Times New Roman&quot;,serif">Electronic Data Systems Ltd </span></i><span style="font-family:&quot;Times New Roman&quot;,serif"></span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2003/492.html">[2003] EWCA Civ 492</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2003/492.html">[2003] STC 688</a> (‘<i><span style="font-family:&quot;Times New Roman&quot;,serif">EDS</span></i><span style="font-family:&quot;Times New Roman&quot;,serif">’) and in <i>Bookit Ltd v Revenue and Customers Comrs </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2006/550.html">[2006] EWCA Civ 550</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2006/550.html">[2006] STC 1367</a> (‘<i>Bookit I</i>’) and by Henderson J in <i>Revenue and Customs Comrs v Axa UK plc </i><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2008/1137.html">[2008] EWHC 1137 (Ch)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Ch/2008/1137.html">[2008] STC 2091</a> (‘<i>Axa UK’</i>).</span>
+</li>
+<p> </p>  
+
+<li value="33"><a name="para33"> <span style="font-family:&quot;Times New Roman&quot;,serif">By the time of the hearing of the appeal in <i>Axa UK </i>in April 2009 it is apparent that doubt had arisen as to whether this was the correct interpretation of <i>SDC </i>because a reference to the CJEU was made which included a question as to “the characteristics of an exempt service that has ‘the effect of transferring funds and entail[s] changes in the legal and financial situation’”. This reference led to the CJEU decision in <i>Revenue and Customs Comrs &nbsp;v Axa UK plc </i>(Case C-175/09)<i> </i></span><span style="font-family:&quot;Times New Roman&quot;,serif"></span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C17509.html">[2010] ECR I-10701</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2010/C17509.html">[2010] STC 2825</a> <span style="font-family:&quot;Times New Roman&quot;,serif">(<i>‘AXA CJEU’</i>).</span>
+</li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Axa CJEU</span></p>  
+
+<li value="34"><a name="para34"> <span style="font-family:&quot;Times New Roman&quot;,serif">This case concerned dental payment plans under which patients agreed with their dentist to pay monthly amounts in return for a certain level of dental care each year. Denplan agreed with the dentist to collect these payments and transfer them to the dentist and to provide associated services. It was argued that these services were exempt.</span>
+</a></li>
+<p> </p>  
+
+<li value="35"><a name="para35"> <span style="font-family:&quot;Times New Roman&quot;,serif">The CJEU held that the services were taxable on the basis of the exception of “debt collection”. Although the questions referred in relation to whether the services would have fallen within the exemption were it not for the exclusion of debt collection were not addressed by the court, it appeared to consider that they would, stating briefly as follows at para 28:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“28. As regards the service in question in the main proceedings, it is appropriate to point out that its purpose is to benefit Denplan’s clients, namely dentists, by the payment of the sums of money due to them from their patients. Denplan is, in return for remuneration, responsible for the recovery of those debts and provides a service of managing those debts for the account of those entitled to them. Therefore, as a matter of principle, that service constitutes a transaction concerning payments which is exempt under article 13B(d)(3) of the Sixth Directive, unless it is ‘debt collection or factoring’, a service which that provision, by its final words, expressly excludes from the list.”</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Nordea Pankki <br> </span><span style="font-family:&quot;Times New Roman&quot;,serif;font-weight:normal">Proceedings brought by Nordea Pankki Suomi Oyj </span><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal;font-style:normal">(Case C-350/10) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C35010.html">[2011] STC 1956</a></span><span style="font-family:&quot;Times New Roman&quot;,serif;font-weight:normal"> (‘Nordea Pankki’) </span></p>  
+
+<li value="36"><a name="para36"> <i><span style="font-family:&quot;Times New Roman&quot;,serif">Nordea Pankki </span></i><span style="font-family:&quot;Times New Roman&quot;,serif">concerned SWIFT services which comprised electronic messaging services by means of which payment orders were transmitted from one financial institution to another. It was held that these services were not exempt as they simply transmitted information. Even though they may be an essential part of the payment or transfer, they did not themselves perform the function of effecting the transfer of funds. In particular, the legal and financial changes necessary for exemption “result only from the transfer of ownership, actual or potential, in funds or securities” (para 33) and, although orders for transfers had to be transmitted via computer systems approved by SWIFT, “ownership rights as regards those funds or, as the case may be, those securities is transferred only by the financial institutions themselves in the context of legal relations with their own clients” (para 32). </span>
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Bookit II and NEC<br> Bookit Ltd v Revenue and Customs Comrs </span><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal;font-style:normal">(Case</span><span style="font-family: &quot;Times New Roman&quot;,serif;font-weight:normal"> </span><span style="font-family: &quot;Times New Roman&quot;,serif;font-weight:normal;font-style:normal">C-607/14)</span><span style="font-family:&quot;Times New Roman&quot;,serif;font-weight:normal"> </span><span style="font-family:&quot;Times New Roman&quot;,serif;font-weight:normal;font-style:normal"><a title="Link to BAILII version" href="/eu/cases/EUECJ/2016/C60714.html">EU:C:2016:355</a> (26 May 2016)</span><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal"> (‘</span><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Bookit II</span><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">’); </span><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">National Exhibition Centre Ltd </span><span style="font-family:&quot;Times New Roman&quot;,serif;font-weight:normal">v </span><span style="font-family:&quot;Times New Roman&quot;,serif;font-weight:normal">Revenue and Customs Comrs </span><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal;font-style:normal">(Case C-130/15) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2016/C13015.html">[2016] STC 2132</a> (26 May 2016)</span><span style="font-family:&quot;Times New Roman&quot;,serif;font-weight:normal"> (‘NEC’).</span></p>  
+
+<li value="37"><a name="para37"> <span style="font-family:&quot;Times New Roman&quot;,serif">In both these references from English courts to the CJEU, the taxpayer was responsible for providing card handling services for a fee. These services included collecting the customer’s card details and relaying that to a merchant bank acquirer which in turn relayed that information to the cardholder’s bank thereby leading to payment. <i>Bookit II</i> concerned the sale of (Odeon) cinema tickets to customers. <i>NEC</i> concerned the sale of tickets on behalf of promoters who staged exhibitions and events at NEC venues. In both cases the taxpayer sent a settlement file at the end of each day which contained details of all card transactions during that day and this would trigger the payment or transfer.</span>
+</a></li>
+<p> </p>  
+
+<li value="38"><a name="para38"> <span style="font-family:&quot;Times New Roman&quot;,serif">Although the Court of Appeal in <i>Bookit I </i>had held on essentially the same facts that the services provided were exempt, in light of the CJEU’s decision in <i>Nordea Pankki</i> the FTT in <i>Bookit II </i>had sufficient doubt about the law relating to the scope of the exemption to make a further reference to the CJEU. The reference was made in December 2014 and raised similar questions to those previously asked in <i>Axa CJEU. </i>In March 2015 the UT in <i>NEC </i>made a reference raising similar issues. On 26 May 2016 the CJEU (with the same constitution) gave judgment in both cases. </span>
+</a></li>
+<p> </p>  
+
+<li value="39"><a name="para39"> <span style="font-family:&quot;Times New Roman&quot;,serif">In its judgment in <i>Bookit II </i>the CJEU stated at para 41 that the test of whether a transaction has the effect of transferring funds and bringing about changes in the legal and financial situation is:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…whether the transaction under consideration causes the actual or potential transfer of ownership of the funds concerned, or fulfils in effect the specific, essential functions of such a transfer”.</span></p>  
+
+<li value="40"><a name="para40"> <span style="font-family:&quot;Times New Roman&quot;,serif">On the facts the CJEU noted at para 44 that the service provided had “the effect of leading to the execution of a payment or a transfer”, that it “may be regarded as being essential to that execution”, and that the transmission of the end of day settlement file “triggers the process of payment or transfer of the sums concerned”. It was nevertheless held that the service was not exempt. Its principal reasons for so concluding were as follows:</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As article 135(1)(d) must be interpreted strictly, the mere fact that a service is essential to the completion of an exempt transaction does not warrant the conclusion that that service is exempted (para 45 - citing <i>SDC </i>para 65).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The service provided cannot be regarded as performing a specific and essential function of a payment or transfer transaction as </span><span style="font-family: &quot;Times New Roman&quot;,serif;color:#1A171C">the provider “does not itself directly debit or credit the accounts concerned”, “does not act by accounting entries”, and “does not even instruct such debit or credit, since it is the purchaser who, by using his or her payment card to make a purchase, decides that his or her account will be debited in favour of a third party” (para 47).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The transmission of the end of day settlement files is a “request to receive a payment electronically” and informs “the payment system concerned that a previously authorised sale has in fact been made” but cannot “</span><span style="font-family:&quot;Times New Roman&quot;,serif;color:#1A171C">be regarded as executing the payment or the transfer concerned or as fulfilling in effect the specific and essential functions” (para 48).</span></p>  
+
+<li value="41"><a name="para41"> <span style="font-family:&quot;Times New Roman&quot;,serif">The CJEU concluded that the service provided consisted in essence of an exchange of information between a trader and its merchant acquirer with a view to receiving payment for a product or service, that this was no more than the provision of “technical and administrative assistance”, and that “</span><span style="font-family:&quot;Times New Roman&quot;,serif;color:#1A171C">the fact that the transmission of the settlement file entails the automatic triggering of the payments or transfers under consideration, cannot alter the nature of the service provided” (paras 51-53).</span>
+</a></li>
+<p> </p>  
+
+<li value="42"><a name="para42"> <span style="font-family:&quot;Times New Roman&quot;,serif">The CJEU judgment in <i>NEC </i>was to similar effect. At para 49 the CJEU observed as follows:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“49. …such a service cannot be considered to be, by its nature, a financial transaction within the meaning of article 13B(d) of the Sixth Directive, unless the view were taken that any trader who takes the steps necessary to receive a payment by debit or credit card carries out a financial transaction within the meaning of that provision, which would render that concept meaningless and would be contrary to the requirement that VAT exemptions be strictly interpreted.”</span><span style="font-family:&quot;Times New Roman&quot;,serif"> </span></p>  
+
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">DPAS</span></p>  
+
+<li value="43"><a name="para43"> <i><span style="font-family:&quot;Times New Roman&quot;,serif">DPAS </span></i><span style="font-family:&quot;Times New Roman&quot;,serif">concerned a similar dental plan to that considered in <i>Axa CJEU </i>save that the contracts had been restructured so as to make the supplies to patients rather than to dentists, no doubt with the aim of sidestepping the debt collection exception. The services provided included payment administration services. Patients made monthly direct debit payments from their bank accounts to that of DPAS. DPAS then paid the dentists the aggregate monthly amount due to them in respect of all of their patients less an amount for DPAS’s services. </span>
+</a></li>
+<p> </p>  
+
+<li value="44"><a name="para44"> <span style="font-family:&quot;Times New Roman&quot;,serif">The FTT, following <i>Axa CJEU, </i>held that the service involved a transaction concerning payments which was exempt from VAT. It also held that it did not involve debt collection, as the service was provided to the debtor and not to the creditor: </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2013/TC03058.html">[2013] UKFTT 676 (TC)</a>. On appeal the UT observed that <i>Axa CJEU </i>supported the FTT’s conclusion on the scope of the exemption but that the CJEU decisions in <i>Bookit II </i>and <i>NEC </i>indicated otherwise: <a title="Link to BAILII version" href="/uk/cases/UKUT/TCC/2015/585.html">[2015] UKUT 585 (TCC)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2015/585.html">[2016] STC 857</a>. It therefore made a reference seeking guidance as to how these decisions were to be reconciled. The first question referred was framed as follows (the second related to the debt collection issue):
+</li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“(1) … do the decisions [of <i>Bookit II </i>and <i>NEC </i>] lead to the conclusion that the exemption from VAT in article 135(l)(d) is not applicable to a service, such as that performed by the taxpayer in the present case, which does not involve the taxpayer itself debiting or crediting any accounts over which it has control but which, where a transfer of funds results, is essential to that transfer? Or does the decision [of <i>AXA UK</i>] lead to the contrary conclusion?”</span></p>  
+
+<li value="45"><a name="para45"> <span style="font-family:&quot;Times New Roman&quot;,serif">The CJEU (with the same constitution as in <i>Bookit II </i>and <i>NEC</i>)<i> </i>held that the service performed was not exempt, in accordance with the Advocate General’s opinion. </span>
+</a></li>
+<p> </p>  
+
+<li value="46"><a name="para46"> <span style="font-family:&quot;Times New Roman&quot;,serif">At para 24 the CJEU summarised HMRC’s case as being that the services supplied were no different from those in issue in <i>Bookit II </i>and<i> NEC</i> and that a taxpayer who uses other financial service providers for transfers between accounts does not carry out transactions concerning transfers. </span>
+</a></li>
+<p> </p>  
+
+<li value="47"><a name="para47"> <span style="font-family:&quot;Times New Roman&quot;,serif">At para 33 the CJEU re-iterated that a transfer is a transaction consisting of the execution of an order for the transfer of a sum of money from one bank account to another which is characterised by the fact that it involves a change in the legal and financial situation. Citing <i>SDC </i>para 53, it then stated:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…the transaction which produces that change is solely the transfer of funds between accounts, irrespective of its cause. Thus, a transfer being only a means of transmitting funds, the functional aspects are decisive for the purpose of determining whether a transaction constitutes a transfer within the meaning of article 135(1)(d) of the VAT Directive”.</span></p>  
+
+<li value="48"><a name="para48"> <span style="font-family:&quot;Times New Roman&quot;,serif">At para 38, endorsing the observations of the Advocate General, the CJEU held that a transaction concerning transfers or payments will “only” be exempt where:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…it has the effect of making the legal and financial changes which are characteristic of the transfer of a sum of money. By contrast, the supply of a mere physical, technical or administrative service not effecting such changes will not come within that concept ...”</span></p>  
+
+<li value="49"><a name="para49"> <span style="font-family:&quot;Times New Roman&quot;,serif">At para 39 the CJEU described the service being provided as follows:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…first, in requesting from the financial institution of the patient who entered into a dental plan pursuant to a direct debit mandate that a predetermined sum of money be transferred from that patient’s bank account to DPAS’s account and, second, in subsequently requesting the financial institution with which it holds its account to transfer that sum from that account to the respective bank accounts of the dentist and the patient’s insurer…”</span></p>  
+
+<li value="50"><a name="para50"> <span style="font-family:&quot;Times New Roman&quot;,serif">The CJEU concluded that this was not an exempt supply for the following principal reasons:</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Such a supply of services does not, as such, effect the legal and financial changes which characterise the transfer of a sum of money within the meaning of the case law referred to…but is administrative in nature” (para 40).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The supplier “does not itself carry out the transfers or the materialisation in the relevant bank accounts of the sums of money agreed…but asks the relevant financial institutions to carry out those transfers” (para 41). </span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Such a supply is comparable to that in issue in <i>Bookit II </i>and <i>NEC </i>(para 41-42)<i>.</i></span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is “a preparatory stage to carrying out transactions concerning payments and transfers” (para 41) and “merely a step prior to” those transactions (para 42).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Although the services were essential to the making of the payments, since article 135(1)(d) must be construed strictly that did not warrant the conclusion that the supply was to be exempted (para 43, citing <i>Bookit II </i>para 45 which in turn cites <i>SDC </i>para 65).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Article 135(1)(d) is concerned with “financial transactions”, albeit that they do not necessarily have to be carried out by a bank or financial institution (para 45).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The article 135(1)(d) exemption seeks to alleviate difficulties with determining the taxable amount but no such difficulty arises in this case (para 46).</span></p>  
+
+<li value="51"><a name="para51"> <span style="font-family:&quot;Times New Roman&quot;,serif">Reasons (1), (2) and (4) reflect the Advocate General’s opinion. He stated as follows: </span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“44. In the context of that supply, DPAS does not carry out the transfer of the sums of money agreed in the context of the dental plans at issue in the dispute in the main proceedings itself, but asks the relevant financial institutions to do so. Accordingly, DPAS’s involvement is prior to the transfer transactions carried out by those institutions, with the latter, however, falling within the scope of the exemption provided for in article 135(1)(d) of the VAT Directive.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">45. Likewise, a patient who makes a transfer order to his dentist does not carry out the transfer of the sum of money agreed himself, but asks his bank to do so. The fact that DPAS obtained the authority to request the transfer of a sum of money in the name and on behalf of the patient, from the patient’s bank, cannot have the effect of transforming that preliminary step into a ‘transaction concerning payments or transfers’ within the meaning of the provision cited above.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">46. In other words, DPAS provides administrative management services the formal recipients of which are the patients, following the restructuring of the contractual arrangements initiated by DPAS, and it is the relevant financial institutions which carry out the financial transactions falling within the exemption provided for in article 135(1)(d) of the VAT Directive…”</span></p>  
+
+<li value="52"><a name="para52"> <span style="font-family:&quot;Times New Roman&quot;,serif">Finally, the CJEU clarified that <i>Axa CJEU </i>was a decision on the debt collection exception but not one on the scope of the exemption, which it “did not examine”. Endorsing the Advocate General’s opinion at paras 59 to 63, the CJEU explained as follows:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“48&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; …</span><span style="font-family:&quot;Times New Roman&quot;,serif">in that judgment, the court did not examine whether the supply of services at issue in the case which gave rise to it met the criterion established by the court’s previous case law for the purpose of identifying a transaction concerning payments and transfers, from which it was already clear that the relevant criterion in that regard was whether the supply of services at issue had the effect of making the legal and financial changes which are characteristic of the transfer of a sum of money (see judgments of 5 June 1997, <i>SDC</i>, C-2/95, <a title="Link to BAILII version" href="/eu/cases/EUECJ/1997/C295.html">EU:C:1997:278</a>, paras 53 and 66, and of 13 December 2001, <i>CSC Financial Services</i>, C-235/00, <a title="Link to BAILII version" href="/eu/cases/EUECJ/2001/C23500.html">EU:C:2001:696</a>, paras 26 to 28), but focused its analysis on the question of whether that supply of services was covered by the concept of ‘debt collection’ within the meaning of article 13B(d)(3) of the Sixth Directive, now article 135(1)(d) of the VAT Directive”.</span></p>  
+
+<li value="53"><a name="para53"> <span style="font-family:&quot;Times New Roman&quot;,serif">It is to be noted that the CJEU here confirms that the law remains as stated in paras 53 and 66 of <i>SDC. </i>At para 49 it stated that the court had not wished to broaden its previous case law in <i>Axa CJEU. </i>In substance, although not in terms, the CJEU therefore answered the question referred by holding that the decisions in <i>Bookit II </i>and <i>NEC </i>did lead to the conclusion that the exemption was not applicable to the services performed by DPAS and that <i>Axa CJEU </i>did not support a contrary conclusion.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Conclusion on the case law</span></p>  
+
+<li value="54"><a name="para54"> <span style="font-family:&quot;Times New Roman&quot;,serif">The law is as stated in <i>SDC, </i>as clarified in later CJEU case law and in particular <i>DPAS, </i>as explained above<i>. </i></span>
+</a></li>
+<p> </p>  
+
+<li value="55"><a name="para55"> <span style="font-family:&quot;Times New Roman&quot;,serif">Given the generalised terms in which the judgment in <i>SDC </i>was expressed, it is understandable that there should have been some doubt as to whether the law as there stated was to be interpreted according to the narrow interpretation, or the wider interpretation adopted in <i>FDR</i>. Later CJEU case law, and in particular <i>Bookit II, NEC </i>and especially <i>DPAS, </i>have made it absolutely clear that the narrow interpretation is the correct one. This is consistent with the need to interpret the exemption strictly, the fact that its subject matter is financial transactions and its rationale of covering cases where it is not possible to identify the tax base.</span>
+</a></li>
+<p> </p>  
+
+<li value="56"><a name="para56"> <span style="font-family:&quot;Times New Roman&quot;,serif">The narrow interpretation means that the services must in themselves have the effect of transferring funds and changing the legal and financial situation. It is not enough to give instructions to do so thereby triggering a transfer or payment. It is not enough to perform a service which is essential to the carrying out of the transfer or payment, nor one which automatically and inevitably leads to transfer or payment. It is necessary to be involved in the carrying out or execution of the transfer or payment - its “materialisation”. This requires functional participation and performance. Causation is insufficient, however inevitable the consequences.</span>
+</a></li>
+<p> </p>  
+
+<li value="57"><a name="para57"> <span style="font-family:&quot;Times New Roman&quot;,serif">As the Court of Appeal stated in the instant case at para 86:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…actual execution is necessary to qualify as a transaction concerning transfer or payment, and the mere giving of an instruction is not sufficient in itself, even if the instruction or order is indispensable to the transaction taking effect, and even if the instruction triggers an entirely automatic process leading to payment: electronic messaging services in a payment chain, that merely transmit information or instructions but do not themselves perform any of the functions of transmitting funds to constitute a transfer, do not fall within the exemption.”</span></p>  
+
+<li value="58"><a name="para58"> <span style="font-family:&quot;Times New Roman&quot;,serif">In many cases this will mean that it is only the services provided by a bank or similar financial institution which will be exempt, but that is not necessarily so, as is illustrated by the case (discussed below) of <i>ATP PensionService A/S v Skatteministeriet</i></span><span style="font-family:&quot;Times New Roman&quot;,serif"> (Case C-464), </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2013/C46412_O.html">[2014] STC 2145</a> (‘<i><span style="font-family:&quot;Times New Roman&quot;,serif">ATP</span></i><span style="font-family:&quot;Times New Roman&quot;,serif">’).</span>
+</li>
+<p> </p>  
+
+<li value="59"><a name="para59"> <span style="font-family:&quot;Times New Roman&quot;,serif">Mr Roderick Cordara KC for Target argued valiantly that <i>SDC</i> was correctly interpreted in <i>FDR </i>and that there is a tension between the law as stated in <i>SDC </i>and <i>DPAS </i>which should be resolved in favour of the former, given in particular the frequent citation of <i>SDC </i>with approval by the CJEU. There is no such tension. There was initially some uncertainty as to the law as stated in <i>SDC, </i>in particular as between the narrow and the wider interpretation, but it is now clear that the narrow interpretation is to be followed. The law remains as stated in <i>SDC</i> (in particular at paras 53 and 66) but those statements of the law are to be interpreted as clearly laid down in later CJEU case law, culminating in <i>DPAS. </i></span>
+</a></li>
+<p> </p>  
+
+<li value="60"><a name="para60"> <span style="font-family:&quot;Times New Roman&quot;,serif">Mr Cordara further submitted that a distinction is to be drawn between cases such as <i>SDC </i>and the present case<i>, </i>where the taxpayer supplies payment related services to a bank or financial institution and is acting “in the sphere of financial transactions”, and cases such as <i>Bookit II, NEC </i>and <i>DPAS </i>which concerned general services being provided to retailers of taxable goods and services (such as cinema tickets, exhibition tickets and dental services). There is, however, no suggestion of any such distinction being drawn in the CJEU case law. All the later cases cite and purport to apply the law as stated in <i>SDC. </i>Further, the functional approach adopted by the CJEU is inconsistent with the identity of the recipient of the services being a material consideration. Nor, as was faintly suggested, is there any hint that tax avoidance considerations played any part in the decisions concerning retail operations. Finally, it should be noted that although Shawbrook is a bank, Target does not carry out banking payment services on its behalf. Its role relates to Shawbrook’s mortgage and loan business - ie Shawbrook acting as a supplier of credit rather than as a supplier of payment and transfer services. </span>
+</a></li>
+<p> </p>  
+
+<li value="61"><a name="para61"> <span style="font-family:&quot;Times New Roman&quot;,serif">Mr Cordara argued that “transactions, including negotiation, concerning” </span><span style="font-family:&quot;Times New Roman&quot;,serif">simply means transactions (including making arrangements) relating to </span><span style="font-family: &quot;Times New Roman&quot;,serif">“payments, transfers, debts” - </span><span style="font-family:&quot;Times New Roman&quot;,serif">they do not have to </span><span style="font-family:&quot;Times New Roman&quot;,serif">be </span><span style="font-family: &quot;Times New Roman&quot;,serif">them. He relied on the wide ordinary meaning of the word “concerning” and described this as “the epicentre of the debate”. The CJEU have, however, made it clear that a textual approach of this kind is inappropriate (see <i>SDC </i>para 22) and that the transaction must functionally effect or execute the payment or transfer.</span>
+</a></li>
+<p> </p>  
+
+<li value="62"><a name="para62"> <span style="font-family:&quot;Times New Roman&quot;,serif">Mr Cordara submitted that the consequence of the narrow interpretation is that it prevents the exemption from applying in cases where multiple parties are involved in the execution of an order for payment. This is not, however, the case. The exemption can apply to payments effected by multiple financial institutions, as borne out, for example, by the range of changes in the legal and financial situation of different parties which is referred to at para 53 of <i>SDC. </i></span>
+</a></li>
+<p> </p>  
+
+<li value="63"><a name="para63"> <span style="font-family:&quot;Times New Roman&quot;,serif">Mr Cordara also submitted that HMRC recognised that a messaging based service provider may fall within the exemption by its treatment of BACS services as being exempt, since, he submitted, that is the essential nature of its services. Ms McCarthy explained, however, that HMRC’s understanding of BACS services is that it aggregates transactions from various banks and then performs a netting-off function, thus altering the legal and financial relationship between them. If so, it is understandable that its services should be treated as exempt. </span>
+</a></li>
+<p> </p>  
+
+<li value="64"><a name="para64"> <span style="font-family:&quot;Times New Roman&quot;,serif">For all these reasons, I reject Mr Cordara’s ingenious attempts to rely on the law as stated in <i>FDR </i>notwithstanding the subsequent CJEU case law and in particular the decision of the CJEU in <i>DPAS</i>. It is now apparent that domestic law took a wrong turn in <i>FDR </i>and the Court of Appeal’s conclusion as set out in para 42 of its judgment in that case must be overruled.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif">8 T</span><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">he payments/transfers issue</span></p>  
+
+<li value="65"><a name="para65"> <span style="font-family:&quot;Times New Roman&quot;,serif">This issue is answered by CJEU case law, as analysed above. This establishes that the narrow interpretation of <i>SDC</i> is correct and that the wider interpretation adopted in <i>FDR </i>is to be overruled. The giving of instructions is not enough even if that inevitably results in a payment or transfer. It follows that giving instructions which automatically and inevitably resulted in payment from the borrowers’ bank accounts to Shawbrook’s bank accounts via BACS is insufficient to fall within the exemption. </span>
+</a></li>
+<p> </p>  
+
+<li value="66"><a name="para66"> <span style="font-family:&quot;Times New Roman&quot;,serif">Further, as both the UT and the Court of Appeal held, the services provided by Target are functionally indistinguishable from those provided in <i>DPAS</i>. As explained by the Upper Tribunal at para 75:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“…</span><span style="font-family:&quot;Times New Roman&quot;,serif">Target’s role is limited to passing the necessary information to BACS to enable it to give the relevant instructions to the borrower’s bank and Shawbrook’s bank so that the transfer of funds can take place. That is indistinguishable from the role played by Denplan - so far as payments made by the patients are concerned - in giving the relevant instruction to the patient’s bank pursuant to the direct debit mandate in order for patient’s bank to cause the payment to be made to</span><span style="font-family:&quot;Times New Roman&quot;,serif"> </span><span style="font-family: &quot;Times New Roman&quot;,serif">Denplan’s bank.”</span></p>  
+
+<p class="ParaNoNumber"><span style="font-family:&quot;Times New Roman&quot;,serif">As the Court of Appeal held at para 91, the fact that the payments were made to the dentists via DPAS’s own bank account rather than directly makes no difference.</span></p>  
+
+<li value="67"><a name="para67"> <span style="font-family:&quot;Times New Roman&quot;,serif">I would also endorse the four main reasons given by the Court of Appeal at paras 98 to 101 for rejecting Target’s case on this issue. In summary these are:</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Target does not provide loan origination services to Shawbrook…Instead, it provides an outsourced business process service that starts with the creation of a loan account once the loan is made, and includes the day-to-day operation of the loan account, and Shawbrook’s bank accounts, and dealing with the borrower to the point of final repayment” (para 98).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “The functions delegated to Target are limited to passing the necessary information to BACS to enable it to give the relevant instructions to the borrower's bank and Shawbrook's bank so that the transfer of funds can take place; and do not include the necessary steps ordinarily undertaken in effecting the transfer of funds or payments themselves” (para 99).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Target generates instructions or requests for payment by direct debit, in the form of a BACS file containing electronic payment instructions to banks operating the borrower bank accounts, which are then processed automatically by BACS. In other words, Target triggers the chain of steps leading to a transfer, but does not itself execute or effect the legal and financial changes which are characteristic of the transfer of money” (para 100).</span></p>  
+
+<p class="ParaApprovedLevel2"><span style="font-family:&quot;Times New Roman&quot;,serif">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Target does not assume responsibility or liability for achieving a transfer or payment in the services it provides… The service performed by Target does not go beyond an exchange of information or request for payment to somebody else to make the transfer or payment. That third party, and not Target, would be responsible for the failure or cancellation of, for example, a direct debit mandate. Target’s role is a prior step…” (para 101).</span></p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif">9 </span><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">The loan accounts issue</span></p>  
+
+<li value="68"><a name="para68"> <span style="font-family:&quot;Times New Roman&quot;,serif">In relation to this issue Mr Cordara placed greater emphasis on “transactions… concerning…debts”. He submitted that the making of accounting entries is the standard modern means of effecting movements of value. Further, as a matter of EU law and English law unilateral accounting entries may be sufficient to effect a transfer or payment. In the present case Target’s role included the authorised debiting and crediting of the borrower loan accounts with Shawbrook and this involved making changes to the legal and financial situation of the parties and so falls within the article 135(1)(d) exemption. </span>
+</a></li>
+<p> </p>  
+
+<li value="69"><a name="para69"> <span style="font-family:&quot;Times New Roman&quot;,serif">In terms of EU law, Mr Cordara relied upon the CJEU decision in <i>ATP.</i> ATP provided various services to pension funds. These included operating a pension fund account. Employers would pay aggregate sums into the pension fund account representing contributions owed under occupational pension schemes on behalf of their employees. ATP would then open a pension account for each individual employee and credit to the account the notional contribution (as a share of the aggregate payment in) made for that employee by making an entry in the ATP system. This would create a right in the employee to that part of the fund. As held by the CJEU:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“70. …It appears <i>prima facie </i>that some of those services are not of a purely technical nature; rather, through the opening of accounts in the pension funds system and the crediting to those accounts of the contributions paid, they establish the rights of pension customers vis-à-vis the pension funds. The transactions by which contributions are credited to pension customers’ accounts appear to have the effect of transforming the claim held by a worker vis-à-vis his employer into a claim that the worker holds vis-à-vis the pension fund.”</span></p>  
+
+<li value="70"><a name="para70"> <span style="font-family:&quot;Times New Roman&quot;,serif">If that analysis of the facts was correct (which was ultimately a matter for the national court) the CJEU held that those services would fall within the exemption as they would “</span><span style="font-family:&quot;Times New Roman&quot;,serif">establish the rights of pension customers vis-à-vis pension funds by transforming the claim held by a worker vis-à-vis his employer into a claim</span><span style="font-family:&quot;Times New Roman&quot;,serif"> </span><span style="font-family: &quot;Times New Roman&quot;,serif">held by that worker vis-à-vis the pension fund of which he is a member” (para 82). As such, this would satisfy the test of effecting a transfer which involves a change in the legal and financial situation as set out in para 53 of <i>SDC</i> (which was cited at para 79).</span>
+</a></li>
+<p> </p>  
+
+<li value="71"><a name="para71"> <span style="font-family:&quot;Times New Roman&quot;,serif">The CJEU pointed out at para 80 that this test “does not presuppose any particular method for</span><span style="font-family:&quot;Times New Roman&quot;,serif"> </span><span style="font-family:&quot;Times New Roman&quot;,serif">effecting transfers, which may be done using accounting entries”. It then gave as examples, “transfers between customers of a single bank, or between accounts of a single individual who acts as both the person giving the order and the</span><span style="font-family: &quot;Times New Roman&quot;,serif"> </span><span style="font-family:&quot;Times New Roman&quot;,serif">recipient”.</span>
+</a></li>
+<p> </p>  
+
+<li value="72"><a name="para72"> <span style="font-family:&quot;Times New Roman&quot;,serif">In terms of English law, Mr Cordara relied upon <i>Momm v Barclays Bank International Ltd</i> [1977] QB 790. In that case a German bank, H, had agreed to transfer £120,000 to another German bank. Both banks had accounts at the London branch of Barclays. H instructed Barclays to make the transfer which it did by debiting H’s account and crediting the other bank’s account on the stated value date. Later that day it was announced that H had ceased trading and was going into liquidation. It was held by Kerr J that the transfer was not a conditional transfer and that it was completed at the close of working hours on the day when the accounting entries were made in accordance with H’s instructions and was not affected by its purported reversal the following day. </span>
+</a></li>
+<p> </p>  
+
+<li value="73"><a name="para73"> <span style="font-family:&quot;Times New Roman&quot;,serif">The resolution of how these cases apply in the context of Target’s services for Shawbrook depends upon the findings made by the FTT in relation to the loan account. The FTT found as follows:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“42. …The loan accounts are the sole record of the financial relationship between Shawbrook and its borrowers. They are effectively ledgers which evidence the level of indebtedness, capture repayments and record other financial information including fees and interest charged. Target credits and debits the loan accounts with all relevant amounts (payments, fees and interest etc). It applies various calculations to work out <i>expected</i> payments. Loan accounts are used as a basis of reporting to Shawbrook as well as for the production of statements for borrowers…</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">…</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">50. Target is also responsible for calculating the amounts of interest and principal repayments due, and for calculating and applying any fees. Because of the way payment processes operate, <i>expected</i> payments are initially <i>assumed to be made</i> by applying credits to the relevant loan accounts. Where it transpires that payment was not made, these entries are reversed by adding the relevant amount to the outstanding balance (split between interest and principal, assuming the missed payment related to both), together where appropriate with a fee…” (emphasis added)</span></p>  
+
+<li value="74"><a name="para74"> <span style="font-family:&quot;Times New Roman&quot;,serif">It is apparent from those findings that the entries made are of “expected” payments which are “assumed” to be made. On any view such an entry cannot effect a payment or transfer or result in a change in the legal position of the parties. Further, consistently with the assumptions inherent in applying credits made by reference to “expected” payments, these entries are reversable.</span>
+</a></li>
+<p> </p>  
+
+<li value="75"><a name="para75"> <span style="font-family:&quot;Times New Roman&quot;,serif">As the Upper Tribunal held at para 80, “the loan account was no more than a ledger, recording the effect of payments made by customers to Shawbrook but not effecting such payments”. As the Court of Appeal held at para 104, it follows from the FTT’s findings that “an entry in the ledger or on the loan account by Target did not itself transfer ownership of any funds or commute the rights of any party”. As the Court of Appeal further stated at para 102:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“The debits and credits to loan accounts made by Target did not effect any payment or transfer, and did not result in a change in the legal and financial position of the parties, but simply recorded the consequence of transfers effected by others.”</span></p>  
+
+<li value="76"><a name="para76"> <i><span style="font-family:&quot;Times New Roman&quot;,serif">ATP </span></i><span style="font-family:&quot;Times New Roman&quot;,serif">provides a useful illustration of how the exemption may apply to non-financial institutions, but it is clearly distinguishable from the present case. On the CJEU’s analysis, the account entries made in that case did change the legal and financial situation by transforming a right held by a worker against his employer into one held in relation to a pension fund. In this case the ledger entries in relation to “expected” payments could not and did not legally change anything.</span>
+</a></li>
+<p> </p>  
+
+<li value="77"><a name="para77"> <span style="font-family:&quot;Times New Roman&quot;,serif">The <i>Momm </i>case also does not assist. That case is an illustration of what may occur in one of the example cases cited by the CJEU at para 80 of its judgment in <i>ATP</i>, namely where there are </span><span style="font-family:&quot;Times New Roman&quot;,serif">“transfers between customers of a single bank”. It is not analogous to either the relationship of the parties or the account entries made in this case.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">9 Conclusion</span></p>  
+
+<li value="78"><a name="para78"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;For the reasons set out above I would dismiss Target’s appeal on the principal issue. In those circumstances it is not necessary to address the further issues which would otherwise have arisen and, in particular, the debt collection point. I would accordingly dismiss the appeal.</span>
+</a></li>
+<p> </p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/35.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

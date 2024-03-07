@@ -1,0 +1,1058 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Reilly v Sandwell Metropolitan Borough Council [2018] UKSC 16 (14 March 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Reilly v Sandwell Metropolitan Borough Council [2018] UKSC 16 (14 March 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/16.html</i>
+<br>Cite as: 
+[2018] WLR(D) 181,
+
+[2018] ICR 705,
+
+[2018] UKSC 16,
+
+[2018] ELR 435,
+
+[2018] 3 All ER 477,
+
+[2018] IRLR 558
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/16.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2018000478/casereport_49d0d03b-97f9-4738-bbe8-3508e8c5c5df/html">[2018] WLR(D) 181</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2018000478/casereport_c79866f2-fc6b-4762-942c-7d5e0be43118/html">[2018] ICR 705</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<div class="WordSection1">
+<center>
+<p class="MsoNormal" style="text-align:justify"><b><span style="color:red">THE
+COURT ORDERED that no one shall in connection with these proceedings publish or
+reveal the name and address of the school with which this appeal was concerned
+or of the Governing Body of that school.</span></b></p>
+</center>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center><a href="/uk/cases/UKSC/2018/16.image.pdf">Summary</a></center>
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>&nbsp;</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>Hilary Term</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 16</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/766.html">[2016] EWCA Civ 766</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Reilly
+  (Appellant) <i>v</i> Sandwell Metropolitan Borough Council (Respondent)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">14 March 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 12 December 2017</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Martin Palmer</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Sarah Hannett</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Anna Bicarregui</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Spencer
+  Shaw Solicitors)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Sandwell
+  MBC Legal Services)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LORD WILSON: (<span style="text-transform:none">with whom Lord
+Carnwath, Lord Hughes and Lord Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Reilly, the head teacher of a primary school, is in a close
+relationship with Mr Selwood but it is not sexual and they do not live
+together. Mr Selwood is convicted of making indecent images of children. Ms
+Reilly has previously been unaware of his criminal activities. She fails to
+inform the school’s governing body of his conviction with the result that, when
+it learns of it, her employer summarily dismisses her. The Employment Tribunal
+(“the tribunal”) decides that, save in an irrelevant procedural respect, her
+dismissal has not been unfair. Should the tribunal’s decision stand?</a></p><a name="para1">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para1"><span style="font-size:
+13.0pt"></span></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The school is now an academy but
+at the relevant time it was maintained by Sandwell Metropolitan District
+Council (“Sandwell”), which is the respondent to Ms Reilly’s appeal to this
+court. Before the tribunal the school’s governing body was a second respondent
+to her claim but, when it became an academy, the governing body ceased to exist
+and its liabilities were transferred to Sandwell. This court orders an end to
+its ghostly presence as a second respondent to the appeal.</span></a></p><a name="para2">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para2"><span style="font-size:
+13.0pt"></span></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Ms Reilly appeals against an order
+of the Court of Appeal dated 19 July 2016, </span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/766.html">[2016] EWCA Civ 766</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/766.html">[2016] IRLR 779</a>,
+in which she was referred to as “A” and Sandwell was referred to as “B local
+authority”. By a majority (Black and Floyd LJJ, the dissentient being Elias
+LJ), the court dismissed Ms Reilly’s appeal against an order of the Employment
+Appeal Tribunal (“the EAT”) dated 20 February 2014. The EAT (Wilkie J
+presiding) had dismissed Ms Reilly’s appeal against the order of the tribunal disseminated
+on 2 November 2012 that, save in the irrelevant procedural respect, her
+dismissal had not been unfair.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para4"><span style="font-size:13.0pt">Ms Reilly qualified as a teacher
+in 1987 and, prior to becoming the head teacher of the school, she had been a
+deputy head teacher in two other primary schools and an acting head teacher in
+two others. Her disciplinary record was exemplary.</span></a></p><a name="para4">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para4"><span style="font-size:
+13.0pt"></span></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Ms Reilly met Mr Selwood in 1998 and
+they became close friends. In 2003 they bought a property as an investment in
+their joint names and set up a joint bank account out of which to pay the
+mortgage instalments. Mr Selwood lived there without making any payment to Ms
+Reilly. She never lived there with him but she sometimes stayed there
+overnight. One such night was 24 February 2009. Thus it was that, early the
+following morning, she was witness to the arrival at the property of the
+police, to their search of it and to their arrest of Mr Selwood on suspicion of
+having downloaded indecent images of children online.</span></a></p><a name="para5">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para5"><span style="font-size:
+13.0pt"></span></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">One month previously Ms Reilly had
+applied for the post of head teacher at the school. During the progress of her
+application in the following months Ms Reilly never disclosed Mr Selwood’s
+arrest to Sandwell. It is possible that at first she considered him to be
+innocent of the allegations against him. But there clearly came a time, not
+identified in the evidence, when she realised that he was guilty and likely to
+be convicted; and nothing turns on when that time came.</span></a></p><a name="para6">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para6"><span style="font-size:
+13.0pt"></span></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Ms Reilly was duly appointed to be
+head teacher of the school and she took up the position on 1 September 2009.</span></a></p><a name="para7">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para7"><span style="font-size:
+13.0pt"></span></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">On 1 February 2010 Mr Selwood was
+convicted of making indecent images of children by downloading them onto his
+computer. On a rating system under which level 5 is the maximum, the images
+were graded at levels 1 to 4. He was made the subject of a three-year community
+order; and of a sexual offences prevention order, which included a prohibition
+on his having unsupervised access to minors and a requirement to participate in
+a sex offender programme.</span></a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Reilly became immediately aware of Mr Selwood’s conviction but in the
+following months she decided not to disclose it to the governing body of the
+school or indeed to Sandwell. Her close friendship with him continued. In April
+2010 they went on holiday together. He named her as an authorised driver on his
+motor insurance policy.</a></p><a name="para9">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para9"><span style="font-size:
+13.0pt"></span></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">In June 2010 Sandwell learnt of Mr
+Selwood’s conviction and of Ms Reilly’s close relationship with him. It
+suspended her on full pay and in due course it summoned her to attend a
+disciplinary hearing to answer an allegation that, in having failed to disclose
+her relationship with a man convicted of sexual offences towards children, she
+had committed a serious breach of an implied term of her contract of
+employment, which amounted to gross misconduct.</span></a></p><a name="para10">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para10"><span style="font-size:
+13.0pt"></span></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">In May 2011 the disciplinary
+hearing took place. The panel consisted of the chair of the governors of
+another primary school and two governors of the school. Ms Reilly was
+represented by a solicitor. The panel upheld the allegation to which I have
+referred and, particularly in the light of her continuing refusal to accept
+that her relationship with Mr Selwood might pose a risk to pupils at the school
+and that her failure to disclose it had been wrong, it decided that she should
+be summarily dismissed. On 11 May 2011 Sandwell confirmed her dismissal with
+immediate effect. She appealed to an appeal panel which, in July 2011,
+dismissed her appeal.</span></a></p><a name="para11">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para11"><span style="font-size:
+13.0pt"></span></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">In August 2011 Ms Reilly presented
+a claim to the tribunal that her dismissal had been unfair. The substantive
+hearing of her claim took place over four days in September 2012, at which Ms
+Reilly had the benefit (which she has continued to have) of representation by
+Mr Palmer.</span></a></p><a name="para12">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para12"><span style="font-size:
+13.0pt"></span></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">In its written judgment the
+tribunal analysed with care the evidence placed before the disciplinary panel. It
+noted that in her written statement to the panel Ms Reilly had said that in
+2009 and 2010 she had asked numerous people, including a police officer,
+probation officers and officers of other local authorities, whether she had a
+duty to disclose her relationship with Mr Selwood to the governing body and
+that their answer had been that she had no duty to do so. The tribunal found,
+however, that her evidence to it in this regard had been unclear; it noted that
+two of the probation officers identified in her statement had given statements
+in which they had denied that their advice to her had been as she had alleged;
+and it observed that, shortly after Mr Selwood’s conviction, a third probation
+officer had, by letter, advised her that it would be wise to disclose her
+relationship with him.</span></a></p><a name="para13">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para13"><span style="font-size:
+13.0pt"></span></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The tribunal found</span></a></p><a name="para14">
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify"><span style="font-size:13.0pt">a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that
+the reason for Sandwell’s dismissal of Ms Reilly was that she had failed to
+disclose her relationship with a convicted sex offender;</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify"><span style="font-size:13.0pt">b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that
+Sandwell genuinely believed that the non-disclosure amounted to misconduct;</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify"><span style="font-size:13.0pt">c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that
+there were reasonable grounds for Sandwell’s belief in that it was “obvious
+that for a head teacher to have failed to disclose such information to her
+governing body whether it is expressed in her contract of employment or not is
+a matter of misconduct”; and</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:35.45pt;text-align:justify"><span style="font-size:13.0pt">d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that,
+notwithstanding Ms Reilly’s exemplary disciplinary record but in the light,
+among other things, of her continuing refusal to accept that her non-disclosure
+had been wrong, her dismissal had been within the range of reasonable responses
+open to Sandwell.</span></p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para14"><span style="font-size:
+13.0pt"></span></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Nevertheless the tribunal proceeded
+to find that the hearing of Ms Reilly’s appeal by the appeal panel had been so
+unsatisfactory as to render her dismissal procedurally unfair. In the light,
+however, of its conclusion that, even had the hearing been satisfactory, there
+was a 90% chance that her appeal would still have been dismissed, it directed
+that her compensation be reduced by 90% in accordance with the approach
+indorsed in <i>Polkey v A E Dayton Services Ltd</i> </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1987/8.html">[1988] 1 AC 344</a>. But the
+tribunal went further: pursuant to section 123(6) of the Employment Rights Act
+1996 (“the Act”), it also concluded that she had contributed to her dismissal
+by blameworthy conduct and it assessed her contribution at 100%. Although,
+including in her appeal to this court, she has challenged the tribunal’s
+conclusions in both these respects, Ms Reilly accepts that the challenge would
+become live only if the court were to set aside the tribunal’s decision that,
+substantively, her dismissal was not unfair.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para16"><span style="font-size:13.0pt">A tribunal’s inquiry into whether
+a dismissal is unfair is governed by section 98 of the Act. The first part of
+the inquiry, governed by subsections (1) to (3), is whether the employer has
+shown both the reason for the dismissal and that the reason relates to the
+employee’s conduct or falls within another part of subsection (2) or otherwise
+justifies dismissal. In this case the employer showed the reason for the
+dismissal, namely the non-disclosure, and that it related to Ms Reilly’s
+conduct.</span></a></p><a name="para16">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para16"><span style="font-size:
+13.0pt"></span></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The case turns on the second part
+of the inquiry, governed by subsection (4) of section 98 of the Act. It
+provides that the tribunal’s determination of whether a dismissal is unfair</span></a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; depends on whether in the
+circumstances … the employer acted reasonably or unreasonably in treating [the
+reason shown by it] as a sufficient reason for dismissing the employee, and (b)
+shall be determined in accordance with equity and the substantial merits of the
+case.”</p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para17"><span style="font-size:
+13.0pt"></span></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">A tribunal’s inquiry into whether
+the employer acted unreasonably in treating the reason as sufficient for
+dismissal seems simple enough in principle, albeit no doubt often difficult in
+application. The later reference to a determination in accordance with the
+merits of the case might have suggested that the tribunal somehow had a more
+direct function in appraising the dismissal; but any such suggestion was
+dispelled in the judgments of the Court of Appeal in <i>Orr v Milton Keynes
+Council</i> </span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2011/62.html">[2011] EWCA Civ 62</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2011/62.html">[2011] ICR 704</a>, at paras 62 to 64 and 91 to 98.
+At all events the proper approach to the inquiry under subsection (4) is now
+firmly established at the level of the Court of Appeal; and the parties to this
+appeal do not invite this court to review it.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para19"><span style="font-size:13.0pt">The proper approach to the inquiry
+under what is now subsection (4) has long been regarded to have been set out in
+the judgment of the EAT (Arnold J presiding) in <i>British Home Stores Ltd v
+Burchell (Note)</i> </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/1978/108_78_2007.html">[1980] ICR 303</a>. In the present case Elias LJ described it
+as the “classic formulation of the employer’s obligation in misconduct cases”. In
+the passage of the judgment at p 304 frequently cited, the EAT, through Arnold
+J, held that the tribunal had to be satisfied first that the employer believed
+that the employee was guilty of misconduct; second that it had reasonable grounds
+to sustain its belief; and third that, prior to forming its belief, it had
+carried out a reasonable amount of investigation into the matter.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para20"><span style="font-size:13.0pt">It is at once apparent that the
+three requirements identified by Arnold J do not well fit the inquiry mandated
+by what is now section 98(4). It is indeed clear that, on the contrary, they
+were directed to the first part of the inquiry under what is now section 98(1)
+to (3). Unlike in the present case, in which the conduct - the non-disclosure -
+is an agreed fact, the employee’s alleged conduct is often disputed. So it was
+in the <i>British Home Stores</i> case. The issue there was whether, which she
+denied, the employee in the store had dishonestly abused her right to buy its
+goods at a discount. To the tribunal’s resolution of that disputed issue
+relating to her conduct, Arnold J’s three requirements, which all related to
+belief in the employee’s guilt, fitted perfectly. Applying them, the EAT held
+that the store had reasonable grounds for its belief that the employee had conducted
+herself dishonestly and - which was not separately considered because it
+followed so obviously - that therefore, under a precursor to section 98(4), it
+had been reasonable for the store to treat her conduct as a sufficient reason
+for her dismissal.</span></a></p><a name="para20">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para20"><span style="font-size:
+13.0pt"></span></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">But, although the judgment of
+Arnold J on behalf of the EAT in the <i>British Home Stores</i> case did not
+relate to the inquiry mandated by what is now section 98(4) of the Act, the
+Court of Appeal has for long applied it to that inquiry. Thus, in <i>Foley v
+Post Office </i></span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2000/3030.html">[2000] ICR 1283</a> Mummery LJ, with whom the other members of the
+court agreed, stated at 1287-1288 that the tripartite approach there explained
+by Arnold J governed not only the reason for a dismissal but its reasonableness
+or unreasonableness. Since then the Court of Appeal has consistently adopted
+the same view of the breadth of Arnold J’s judgment: see for example <i>Turner
+v East Midlands Trains Ltd</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/1470.html">[2012] EWCA Civ 1470</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2012/1470.html">[2013] ICR 525</a>, para 1.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para22"><span style="font-size:13.0pt">Nevertheless, so far as I can see
+albeit in the absence of full argument, no harm has been done by the
+extravagant view taken of the reach of the judgment of Arnold J in the <i>British
+Home Stores</i> case. In effect it has been considered only to require the
+tribunal to inquire whether the dismissal was within a range of reasonable
+responses to the reason shown for it and whether it had been preceded by a
+reasonable amount of investigation. Such requirements seem to me to be entirely
+consonant with the obligation under section 98(4) to determine whether, in
+dismissing the employee, the employer acted reasonably or unreasonably.</span></a></p><a name="para22">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para22"><span style="font-size:
+13.0pt"></span></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">On any view it is clear that the
+tribunal is at one remove from answering the direct question: was the dismissal
+unfair? Instead it must answer the question: was the dismissal within the range
+of reasonable responses to the reason shown for it by the employer? Indeed all
+appellate bodies, namely the EAT and, in this case, also the Court of Appeal
+and this court, are at two removes from answering the direct question. For,
+under section 21(1) of the Employment Tribunals Act 1996, an appeal against the
+tribunal’s decision lies only on a point of law and therefore, in the absence
+of procedural error, can succeed only if for some reason the tribunal’s
+decision was not open to it or, in other words, only if the tribunal had not
+been entitled to reach it. Thus, in the present case, the EAT correctly
+identified the question to be whether the tribunal had been “entitled to
+conclude that … this was a case in which dismissal did fall within the range of
+reasonable responses”. The exercise required of an appellate body is not always
+easy. It might, for example, be an intellectual struggle for it to conclude:
+“left to ourselves, we would not have considered that the dismissal fell within
+the range of reasonable responses but the tribunal was entitled to conclude
+that it did so.” But those of us required to determine these appeals must
+conduct the exercise as best we can.</span></a></p><a name="para23">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para23"><span style="font-size:
+13.0pt"></span></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Ms Reilly’s challenge to the
+tribunal’s decision rests primarily upon a challenge to its acceptance of the
+panel’s conclusion that she was under a duty to disclose her relationship with
+Mr Selwood. Sandwell responds that the tribunal was correct to accept that she
+was under that duty. It seems that an employee’s “conduct” within the meaning
+of section 98(2)(b) of the Act can precipitate a fair dismissal even if it does
+not constitute a breach of her contract of employment: see the observation of
+Phillips J on behalf of the EAT in <i>Redbridge London Borough Council v
+Fishman</i> [1978] ICR 569, 574, adopted by the EAT in <i>Weston Recovery
+Services v Fisher</i> UKEAT/0062/10/ZT, </span></a><a title="Link to BAILII version" href="/uk/cases/UKEAT/2010/0062_10_0710.html">[2010] UKEAT 0062_10_0710</a> at para 13. But in the present case Sandwell
+contends that the duty of disclosure did arise under Ms Reilly’s contract of employment.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para25"><span style="font-size:13.0pt">Section 175(2) of the Education
+Act 2002 provides:</span></a></p><a name="para25">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The governing body of a
+maintained school shall make arrangements for ensuring that their functions
+relating to the conduct of the school are exercised with a view to safeguarding
+and promoting the welfare of children who are pupils at the school.”</p>
+
+<p class="MsoNormal" style="margin-bottom:26.0pt;text-align:justify"><span style="font-size:13.0pt">Ms Reilly’s job description included a requirement to
+“advise, assist and inform the Governing Body in the fulfilment of its
+responsibilities” and to “be accountable to the Governing Body for the maintenance
+of … the … safety of all … pupils”. She was therefore, as she accepts, under a
+contractual duty to assist the governing body in discharging its duty to
+exercise its functions with a view to safeguarding the pupils. Indeed the
+disciplinary provisions in her contract of employment identified a failure to
+report something which it was her duty to report as being an example of conduct
+which might lead to disciplinary action.</span></p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para25"><span style="font-size:
+13.0pt"></span></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">But (asks Ms Reilly) where was the
+evidence which suggested that her particular relationship with Mr Selwood
+engaged the governing body’s safeguarding functions? The panel proceeded on the
+basis that the evidence existed. The tribunal observed that it was “obvious”
+that her relationship engaged its functions. The EAT held that the tribunal’s
+view was open to it, as did Black and Floyd LJJ. Elias LJ, on the other hand,
+held that the answer to Ms Reilly’s question was that there was no such
+evidence.</span></a></p><a name="para26">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para26"><span style="font-size:
+13.0pt"></span></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">As it happens, Parliament has
+itself recognised that sexual offenders towards children can represent a danger
+to children not only directly but indirectly by operating through those with
+whom they associate. The Childcare Act 2006 and regulations made under it
+contain a good example, albeit not cited to the tribunal. Sections 34(1) and
+53(1) require those providing childcare in specified circumstances for children
+aged under eight to be registered. Regulation 4 of the Children
+(Disqualification) Regulations 2009 (SI 2009/1547), made under section 75(2) of
+that Act, would, subject to waiver, disqualify Mr Selwood from registration. But
+what is significant for present purposes is regulation 9, which disqualifies
+from registration a person who lives in the same household as a disqualified
+person or in a household in which a disqualified person is employed. Although
+the registration provisions do not apply to maintained schools and, even if
+they did apply, would not have led to the disqualification of Ms Reilly, who
+did not live in the same household as Mr Selwood, they illumine the democratic
+judgement about the danger posed to children by such an offender in operating
+through his close associates. Although no doubt in some cases the offender can
+persuade his associates consciously to assist him to gain access to children,
+they can, as in her judgment Black LJ observed, be quite unaware of the use
+which he makes of them in order to gain access. The particular case of Ms
+Reilly is that of a head teacher, likely to know more than any other member of
+staff about the pupils, their circumstances at home, their personalities, their
+routines at school and their whereabouts from day to day; and indeed likely to
+be more able than any other member of staff to authorise visitors freely to
+enter school premises.</span></a></p><a name="para27">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para27"><span style="font-size:
+13.0pt"></span></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The tribunal found that Ms Reilly
+“herself knew that she was subject to a duty to disclose because she would not
+otherwise have made enquiries as to the circumstances in which disclosure was
+triggered”. The proposition is, with respect, illogical. Nevertheless her
+wide-ranging inquiries show how near to the border-line even she, with
+understandable reluctance, recognised her case to be. The objective
+decision-makers on the panel, all school governors, ruled that the case fell on
+the side of the line which required disclosure. Mr Selwood was the subject of a
+serious, recent conviction. The basis of his sentence was that he represented a
+danger to children. His relationship with the head of the school created, to
+put it at its lowest, a potential risk to the children. The risk required assessment.
+It was not for Ms Reilly to conduct the assessment; it was a function of the
+governors. As head teacher, she represented, as Ms Hannett on behalf of Sandwell
+submits, the eyes and ears of the governors in the school. Had she disclosed
+her relationship to them, it is highly unlikely that she would have been
+dismissed, still less that the tribunal would have upheld any dismissal as
+fair. Far more likely would have been the extraction by the governors of
+promises by Ms Reilly that she would not allow Mr Selwood to enter the school
+premises and perhaps, for example, that outside the school she would not leave
+information about pupils, for example stored electronically, in places where he
+might be able to gain access to it.</span></a></p><a name="para28">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para28"><span style="font-size:
+13.0pt"></span></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">In my opinion the tribunal was
+entitled to conclude that it was a reasonable response for the panel to have
+concluded that Ms Reilly’s non-disclosure not only amounted to a breach of duty
+but also merited her dismissal. For her refusal to accept that she had been in
+breach of duty suggested a continuing lack of insight which, as it was
+reasonable to conclude, rendered it inappropriate for her to continue to run
+the school.</span></a></p><a name="para29">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para29"><span style="font-size:
+13.0pt"></span></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">So I would dismiss the appeal.</span></a></p><a name="para30">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LADY HALE:</span></b></p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para30"><span style="font-size:
+13.0pt"></span></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">I agree entirely, for the reasons
+given by Lord Wilson, that Ms Reilly was in breach of her contract of
+employment by not informing her employers of her connection with Mr Selwood. Ms
+Reilly had a duty to “advise, assist and inform” the Governing Body in the
+fulfilment of its safeguarding responsibilities towards the school’s pupils.
+Those who are guilty of sexual offences against children pose a risk to the
+safety of other children both directly and indirectly. There are many ways in
+which Mr Selwood, should he choose to do so, might have used his friendship
+with Ms Reilly to gain access to the school’s pupils: not only through being
+allowed to visit the school but also through finding out information about the
+pupils. Reporting the connection would have enabled a serious discussion to
+take place about how those risks might be avoided. There is no reason to think
+that it would have been a resigning matter. Issues could have been identified
+and solutions found. It is the absence of that full and frank disclosure and
+discussion which was the cause for serious concern. And it is the absence of
+any acknowledgement of what she should have done which makes the decision to
+dismiss her reasonable, indeed some might think it inevitable.</span></a></p><a name="para31">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para31"><span style="font-size:
+13.0pt"></span></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The case might have presented an
+opportunity for this court to consider two points of law of general public
+importance which have not been raised at this level before. The first is
+whether a dismissal based on an employee’s “conduct” can ever be fair if that
+conduct is not in breach of the employee’s contract of employment. Can there be
+“conduct” within the meaning of section 98(2)(b) which is not contractual
+misconduct? Can conduct which is not contractual misconduct be “some other
+substantial reason of a kind such as to justify the dismissal” within the
+meaning of section 98(1)(b)? It is not difficult to think of arguments on
+either side of this question but we have not heard them - we were only asked to
+decide whether there was a duty to disclose and there clearly was.</span></a></p><a name="para32">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para32"><span style="font-size:
+13.0pt"></span></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Nor have we heard any argument on
+whether the approach to be taken by a tribunal to an employer’s decisions, both
+as to the facts under section 98(1) to (3) of the Employment Rights Act 1996
+and as to whether the decision to dismiss was reasonable or unreasonable under
+section 98(4), first laid down by the Employment Appeal Tribunal in <i>British
+Homes Stores Ltd v Burchell (Note)</i> [1978] ICR 303 and definitively endorsed
+by the Court of Appeal in <i>Foley v Post Office </i></span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2000/3030.html">[2000] ICR 1283</a>, is
+correct. As Lord Wilson points out, in para 20 above, the three requirements
+set out in <i>Burchell</i> are directed to the first part of the inquiry, under
+section 98(1) to (3), and do not fit well into the inquiry mandated by section
+98(4). The meaning of section 98(4) was rightly described by Sedley LJ, in <i>Orr
+v Milton Keynes Council </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2011/62.html">[2011] ICR 704</a>, at para 11, as “both problematical
+and contentious”. He referred to the “cogently reasoned” decision of the
+Employment Appeal Tribunal (Morison J presiding) in <i>Haddon v Van den Burgh
+Foods </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/1999/1160_98_2909.html">[1999] ICR 1150</a>, which was overruled by the Court of Appeal in <i>Foley</i>.
+Even in relation to the first part of the inquiry, as to the reason for the
+dismissal, the <i>Burchell </i>approach can lead to dismissals which were in
+fact fair being treated as unfair and dismissals which were in fact unfair
+being treated as fair. Once again, it is not difficult to think of arguments on
+either side of this question but we have not heard them.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para34"><span style="font-size:13.0pt">There may be very good reasons why
+no-one has challenged the <i>Burchell </i>test before us. First, it has been
+applied by Employment Tribunals, in the thousands of cases which come before
+them, for 40 years now. It remains binding upon them and on the Employment
+Appeal Tribunal and Court of Appeal. Destabilising the position without a very
+good reason would be irresponsible. Second, Parliament has had the opportunity
+to clarify the approach which is intended, should it consider that <i>Burchell </i>is
+wrong, and it has not done so. Third, those who are experienced in the field,
+whether acting for employees or employers, may consider that the approach is
+correct and does not lead to injustice in practice.</span></a></p><a name="para34">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para34"><span style="font-size:
+13.0pt"></span></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">It follows that the law remains as
+it has been for the last 40 years and I express no view about whether that is
+correct.</span></a></p><a name="para35">
+
+</a></div><a name="para35">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/16.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

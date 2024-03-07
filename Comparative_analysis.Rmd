@@ -1,0 +1,265 @@
+---
+title: "Comparative_analysis"
+author: "Amelia O'Halloran"
+date: "2024-03-05"
+output: html_document
+---
+
+# Introduction
+
+The objective of this analysis is to explore the comparisons between privacy-related cases in the US and the UK highest courts. 
+Time period analyzed: Jan 1997 - Dec 2023.
+Court systems: US Supreme Court; UK House of Lords (Jan 1997 - July 2009); UK Supreme Court (July 2009 - Dec 2023)
+
+Outputs:
+Figure 1 shows the keywords that are more highly correlated with US cases with at least one instance of the word "privacy" versus UK cases with at least one instance of the word "privacy."
+Figure 2 shows the keywords that are more highly correlated with US cases with at least ten instances of the word "privacy" versus UK cases with at least ten instances of the word "privacy."
+Figure 3 shows the keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in US cases versus keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in UK cases
+Figure 4 shows the frequency of privacy-included cases (cases with at least one instance of "privacy") and privacy-focused cases (cases with at least ten instances of "privacy") over the years.
+
+NOTE: The threshold of 10 was chosen to distinguish between "privacy-included" and "privacy-focused" from performing close reading on a set of at least 3 cases for each decile of frequency of the word "privacy." For each close reading, a subjective opinion was given on whether the case was truly privacy-focused. For cases with fewer than 10 instances of the word "privacy," the percentage of privacy-focused categorizations were relatively consistent at \~40%. For cases with greater than 10 instances of the word "privacy," each sample case was categorized as privacy-focused. Thus, the subjective threshold of 10 was determined for this step.
+
+
+# Step 0. Package installation
+
+```{r, message=FALSE}
+library(tidyverse)
+library(quanteda)
+library(quanteda.textmodels)
+library(quanteda.textplots)
+library(quanteda.textstats)
+library(ggplot2)
+library(readtext)
+library(tidyr)
+library(stringr)
+library(dplyr)
+```
+
+# Step 1. File inputs
+
+Objective: Gathering data and storing data into tibbles for easy analysis.
+
+1a. First, the filepaths to input files are saved as strings.
+```{r}
+US_folder <- "Case_downloads/US"
+UKHL_folder <- "Case_downloads/UKHL"
+UKSC_folder <- "Case_downloads/UKSC"
+```
+
+1b. Next, a list of file names are generated from the folders saved in step 1a.
+```{r}
+US_files_list <- list.files(US_folder, full.names = T, pattern = "txt")
+UKHL_files_list <- list.files(UKHL_folder, full.names = T, pattern = "txt")
+UKSC_files_list <- list.files(UKSC_folder, full.names = T, pattern = "txt")
+```
+
+# Step 2. Reading inputs into tibbles
+
+Objective. Transform the list of files from Step 1 into tibbles that can be utilized in R. 
+
+2a. Three tibbles are created, one for each list of files from step 1b. Each tibble contains the file name, the text in each file, the country of each file, and the count of the number of instances of the word "privacy" in the file. Additionally, the text is cleaned by replacing multiple spaces in a row with a single space.
+```{r}
+US_corpus <- readtext(US_files_list, encoding = "UTF-8") %>%
+  mutate(text = gsub("\\s+"," ", text))  %>%
+  mutate(country = "US") %>%
+  mutate(privacy_count = str_count(tolower(text), "(?i)privacy")) %>%
+  as_tibble() 
+
+UKHL_corpus <- readtext(UKHL_files_list, encoding = "UTF-8") %>%
+  mutate(text = gsub("\\s+"," ", text))  %>%
+  mutate(country = "UK") %>%
+  mutate(privacy_count = str_count(tolower(text), "(?i)privacy")) %>%
+  as_tibble() 
+
+UKSC_corpus <- readtext(UKSC_files_list, encoding = "UTF-8") %>%
+  mutate(text = gsub("\\s+"," ", text))  %>%
+  mutate(country = "UK") %>%
+  mutate(privacy_count = str_count(tolower(text), "(?i)privacy")) %>%
+  as_tibble() 
+```
+
+2b. A single combined tibble is created, joining the three created in step 2a.
+```{r}
+combined_tibble <- bind_rows(US_corpus, UKHL_corpus, UKSC_corpus)
+```
+
+# Step 3. Analysis of whole-file keyword comparisons in cases with at least 1 instance of privacy
+
+Objective: Understand which keywords are more highly correlated with US cases with at least one instance of "privacy" versus UK cases with at least one instance of "privacy."
+
+3a. The combined tibble is filtered on privacy_count \> 0
+```{r}
+privacy_tibble <- combined_tibble %>%
+  filter(privacy_count > 0)
+```
+
+3b. A privacy corpus is created by using corpus() function on the filtered tibble
+```{r}
+privacy_corpus <- quanteda::corpus(privacy_tibble,
+                                   docid_field = "doc_id",
+                                   text_field = "text",
+                                   meta = c("country", "privacy_count"))
+```
+3c. The privacy corpus is tokenized into word-based tokens using the tokens() function, which removes punctuation and splits the text into word-based tokens. Stopwords are then removed. The additional words that were removed were based on running this R code and seeing that the below words appeared and were not meaningful for our analysis.
+```{r}
+tokenized_privacy_corpus <- tokens(privacy_corpus, remove_punct = TRUE) %>%
+  tokens_remove(stopwords("english")) %>%
+  tokens_remove(c("ac", "lj", "e.g", "c", "f", "n", "u", "s", "_", "___", "__", "____", "see")) 
+```
+
+3d. The tokenized corpus is then converted into a dfm (document-feature matrix), which stores the frequency of each word and allows for analysis of word frequencies and other textual analysis. The grouping by country allows for frequency to be compared across countries.
+```{r}
+grouped_tokenized_privacy_corpus <- tokenized_privacy_corpus %>% tokens_group(groups = country)
+privacy_tokens_dfm <- dfm(grouped_tokenized_privacy_corpus)
+```
+
+3e. Next, the keyness of each word in the document-feature matrix is calculated, which measures the importance of individual words in a text. After the keyness is calculated, it is plotted on a graph that shows the most important words in the text, highlighting the differences between the most important words in the two countries.
+```{r}
+privacy_result_keyness <- textstat_keyness(privacy_tokens_dfm)
+```
+
+**FIGURE 1**
+```{r}
+textplot_keyness(privacy_result_keyness) 
+```
+
+
+# Step 4. Analysis of whole-file keyword comparisons in cases with at least 10 instances of privacy.
+
+Objective: Understand which keywords are more highly correlated with US cases with at least ten instances of "privacy" versus UK cases with at least ten instances of "privacy." This is intended to provide better insights than Step 3, since it reduces the "noise" of cases with a miscellaneous reference to privacy while it isn't the core focus of the case. 
+
+4a. The combined tibble is filtered on privacy_count \>= 10
+```{r}
+privacy_10_tibble <- combined_tibble %>%
+  filter(privacy_count >= 10)
+```
+
+4b. A privacy\>=10 corpus is created by using corpus() function on the filtered tibble.
+```{r}
+privacy_10_corpus <- quanteda::corpus(privacy_10_tibble,
+                                   docid_field = "doc_id",
+                                   text_field = "text",
+                                   meta = c("country", "privacy_count"))
+```
+
+4c. The privacy corpus is tokenized into word-based tokens using the tokens() function, which removes punctuation and splits the text into word-based tokens. Stopwords are then removed. The additional words that were removed were based on running this R code and seeing that the below words appeared and were not meaningful for our analysis.
+```{r}
+tokenized_privacy_10_corpus <- tokens(privacy_10_corpus, remove_punct = TRUE) %>%
+  tokens_remove(stopwords("english")) %>%
+  tokens_remove(c("ac", "lj", "e.g", "c", "f", "n", "u", "s", "_", "___", "__", "____", "see")) %>%
+  tokens_group(groups = country)
+```
+
+4d. The tokenized corpus is then converted into a dfm (document-feature matrix), which stores the frequency of each word and allows for analysis of word frequencies and other textual analysis. The grouping by country allows for frequency to be compared across countries.
+```{r}
+privacy_10_tokens_dfm <- dfm(tokenized_privacy_10_corpus)
+```
+
+4e. The keyness of each word in the filtered document-feature matrix is calculated, which shows the keywords most highly correlated with US cases with at least ten instances of privacy versus the keywords most highly correlated with UK cases with at least ten instances of privacy.
+```{r}
+privacy_10_result_keyness <- textstat_keyness(privacy_10_tokens_dfm)
+```
+
+**FIGURE 2**
+```{r}
+textplot_keyness(privacy_10_result_keyness) 
+```
+
+# Step 5. Analysis of paragraph-based keyword comparisons of words surrounding privacy.
+
+Objective: Understand which keywords are most highly associated with being "close" in proximity to the word "privacy" in the US versus in the UK.
+
+5a. A keyword in context test was performed, which provides data on each instance of the word "privacy" by providing the 10 words before and after each instance of the word "privacy" in each case. The kwic() function was performed on the tokenized privacy corpus from Step 3c.
+```{r}
+privacy_kwic <- as_tibble(kwic(tokenized_privacy_corpus, pattern = "privacy", window = 10))
+```
+
+5b. Country categorization was added to the keyword in context data.
+```{r}
+privacy_kwic_with_data <- as_tibble(left_join(privacy_kwic, combined_tibble, by = c('docname' = 'doc_id')))
+```
+
+5c. The "text" column is replaced with the full "paragraph" surrounding each instance of the word "privacy" -- meaning the concatenation of the 10 words before "privacy" + "privacy" + the 10 words after "privacy." 
+```{r}
+privacy_kwic_with_data <- privacy_kwic_with_data %>%
+  unite(text, pre, keyword, post, sep = " ", remove=FALSE)
+```
+
+5d. A unique ID was added for analysis (required for the dfm() function in step 5f).
+```{r}
+privacy_kwic_with_data <- privacy_kwic_with_data %>%
+  mutate(doc_id = row_number())
+```
+
+5e. The tibble was turned into a corpus and tokenized (See steps 3b and 3c for further details). 
+```{r}
+privacy_kwic_corpus <- quanteda::corpus(privacy_kwic_with_data,
+                            docid_field = "doc_id",
+                            text_field = "text",
+                            meta = "country")
+
+tokenized_privacy_kwic_corpus <- tokens(privacy_kwic_corpus, remove_punct = TRUE) %>%
+  tokens_remove(stopwords("english")) %>%
+  tokens_remove(c("ac", "lj", "e.g", "c", "f", "n", "u", "s", "_", "___", "__", "____", "see", "bailii", "t", "pp", "e", "said", "l")) %>%
+  tokens_group(groups = country)
+```
+
+5f. The tokenized corpus is then converted into a dfm (document-feature matrix), which stores the frequency of each word and allows for analysis of word frequencies and other textual analysis. The grouping by country allows for frequency to be compared across countries.
+```{r}
+privacy_kwic_dfm <- dfm(tokenized_privacy_kwic_corpus)
+```
+
+5g. The keyness of each word in the filtered document-feature matrix is calculated, which shows the keywords most highly correlated with paragraphs around each instance of "privacy" in US cases versus the keywords most highly correlated with paragraphs around each instance of "privacy" in UK cases.
+```{r}
+privacy_paragraph_result_keyness <- textstat_keyness(privacy_kwic_dfm)
+```
+
+**FIGURE 3**
+```{r}
+textplot_keyness(privacy_paragraph_result_keyness, n=20L, labelsize = 2) 
+```
+
+# Step 6. Frequency analysis
+
+Objective: Determine the frequency distribution of privacy-included cases (cases with at least one instance of "privacy") and privacy-focused cases (cases with at least ten instances of "privacy") from 1997 to 2023. 
+
+6a. Read in data from input files, including dates of each case
+```{r}
+US_date_csv <- read_csv("Input_files/US_Cases.csv", col_names = TRUE, col_types="cDc")
+UKSC_date_csv <- read_csv("Input_files/UKSC_Cases.csv", col_names = TRUE, col_types="cDc")
+UKHL_date_csv <- read_csv("Input_files/UKHL_Cases.csv", col_names = TRUE, col_types="cDc")
+```
+
+6b. Add dates to original corpora from step 2a
+```{r}
+US_tibble_with_date <- left_join(US_corpus, US_date_csv, by = "doc_id")
+UKHL_tibble_with_date <- left_join(UKHL_corpus, UKHL_date_csv, by = "doc_id")
+UKSC_tibble_with_date <- left_join(UKSC_corpus, UKSC_date_csv, by = "doc_id")
+
+combined_tibble_with_date <- bind_rows(US_tibble_with_date, UKHL_tibble_with_date, UKSC_tibble_with_date)
+
+privacy_tibble_with_date <- combined_tibble_with_date %>%
+  filter(privacy_count > 0)
+```
+
+6c. Create a bar graph representing the number of cases in each category to see frequency distribution
+```{r, message=FALSE}
+# BAR GRAPH 
+intermed <- privacy_tibble_with_date %>%
+  mutate(year = lubridate::year(Date))
+intermed <- intermed %>%
+  mutate(category = case_when(
+    privacy_count < 10 & privacy_count > 0 ~ "0 < Privacy < 10",
+    privacy_count >= 10 ~ "Privacy = 10+"
+  ))
+grouped <- group_by(intermed, year, category, country) %>%
+  summarise(count = length(doc_id))
+```
+
+6d. Plot the bar graph using ggplot
+**FIGURE 4**
+```{r}
+ggplot(grouped, aes(x = year, y = count, fill = category)) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~ country)
+```

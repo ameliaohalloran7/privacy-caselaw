@@ -1,0 +1,1251 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Campbell v Gordon (Scotland) (Rev 1) [2016] UKSC 38 (6 July 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Campbell v Gordon (Scotland) (Rev 1) [2016] UKSC 38 (6 July 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/38.html</i>
+<br>Cite as: 
+[2016] 2 BCLC 287,
+
+[2016] PIQR P15,
+
+[2016] WLR(D) 376,
+
+[2017] 2 All ER 161,
+
+[2016] ICR 862,
+
+2017 SC (UKSC) 13,
+
+2016 SCLR 434,
+
+[2016] UKSC 38,
+
+2016 GWD 21-380,
+
+[2016] Lloyd's Rep IR 591,
+
+2016 SLT 887,
+
+[2016] 3 WLR 294,
+
+[2016] AC 1513
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/38.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+3+WLR+294">[2016] 3 WLR 294</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+ICR+862">[2016] ICR 862</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+376">[2016] WLR(D) 376</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+AC+1513">[2016] AC 1513</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/38(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 38</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2015/2015CSIH11.html">[2015] CSIH 11</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">Campbell (Appellant) <i>v</i> Gordon (Respondent)
+(Scotland)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">6 July 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 12 April 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:69.0pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew Smith QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Craig Murray</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Lefevre Litigation)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Roddy Dunlop QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Richard Pugh</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Harper MacLeod LLP)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD CARNWATH: (<span style="text-transform:none">with whom Lord
+Mance and Lord Reed agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant, Mr Campbell, was employed by the company (the first
+respondent) as an apprentice joiner. The second respondent, Mr Gordon, was the
+sole director of the company and responsible for its day to day operation. On
+28 June 2006 the appellant suffered an injury whilst working with an electric
+circular saw. Although the company had employers’ liability insurance policy,
+the policy (surprisingly for a business of this kind) excluded claims arising from
+the use of “woodworking machinery” powered by electricity. It therefore
+excluded any claim arising out of Mr Campbell’s accident. The company’s failure
+to have in place appropriate insurance was a breach of its obligations under
+section 1(1) of the Employers’ Liability (Compulsory Insurance) Act 1969.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The company itself went into liquidation in 2009. Mr Campbell now seeks
+to hold Mr Gordon, as director, liable in damages for the company’s failure to
+provide adequate insurance cover. Mr Gordon himself is recently bankrupt. We
+were told by Mr Smith QC, appearing for Mr Campbell, that there are discussions
+with him with a view to obtaining an assignation of any rights he may have
+against the broker who arranged the inadequate insurance. However, the sole issue
+for us is whether civil liability attaches to Mr Gordon for that failure.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The claim was upheld by the Lord Ordinary, but dismissed by the Inner
+House by a majority (Lord Brodie and Lord Malcolm, Lord Drummond Young
+dissenting). In this respect they arrived at the same conclusion, albeit not by
+identical reasoning, as the English Court of Appeal in <i>Richardson v Pitt-Stanley</i>
+[1995] QB 123 (Russell and Stuart-Smith LJJ, Sir John Megaw dissenting).</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The foundation of the claim has to be found in the 1969 Act. The primary
+duty to insure is placed on the employer by section 1, which provides:</a></p><a name="para4">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Insurance against
+liability for employees.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">Except as otherwise provided by
+this Act, every employer carrying on any business in Great Britain shall
+insure, and maintain insurance, under one or more approved policies with an
+authorised insurer or insurers against liability for bodily injury or disease
+sustained by his employees, and arising out of and in the course of their
+employment in Great Britain in that business …”</p>
+
+<p class="ParaLevel1">Section 4 provides for regulations governing the issue of
+certificates of insurance and their display for the information of employees
+and production on demand to inspectors duly authorised by the Secretary of
+State. These also are obligations placed on the employer.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 5 which is at the heart of the appeal provides, as amended:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Penalty for failure to
+insure.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">An employer who on any day is not
+insured in accordance with this Act when required to be so shall be guilty of
+an offence and shall be liable on summary conviction to a fine not exceeding
+level 4 on the standard scale; and where an offence under this section
+committed by a corporation <i>has been committed with the consent or connivance
+of, or facilitated by any neglect on the part of, any director, manager,
+secretary or other officer of the corporation,</i> he, as well as the
+corporation shall <i>be deemed to be guilty of that offence</i> and shall be
+liable to be proceeded against and punished accordingly.” (emphasis added)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On its face that is an unpromising basis for Mr Campbell’s present
+claim. This provision does not in terms impose any duty to insure on a director
+or other officer as such, let alone any civil liability for failure to do so.
+The duty rests on the corporate employer. The veil of incorporation is pierced
+for a limited purpose. It arises only where an offence is committed by the
+company, and then in defined circumstances imposes equivalent criminal
+liability on the director or other officer on the basis, not that he is
+directly responsible, but that he is “deemed to be guilty” of the offence
+committed by the company.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the appellant Mr Smith relies on well-established principles
+governing civil liability in respect of statutory obligations. He accepts that
+as a general rule, where a statute imposes an obligation and imposes a criminal
+penalty for failure to comply, there is no civil liability; but that is subject
+to exceptions, including -</a></p><a name="para7">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“where upon the true construction
+of the Act it is apparent that the obligation or prohibition was imposed for
+the benefit or protection of a particular class of individuals, as in the case
+of the Factories Acts and similar legislation” (per Lord Diplock, <i>Lonrho Ltd
+v Shell Petroleum Co Ltd (No 2)</i> [1982] AC 173, at 185)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are many examples of this exception in practice, dating back more
+than 100 years, for example (in England) to <i>Groves v Lord Wimborne</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpKQB/1898/138.html">[1898] 2 QB 402</a>, relating to the Factory and Workshop Act 1878, and in Scotland
+in <i>Black v Fife Coal Co Ltd</i>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1911/74.html">1912 SC (HL) 33</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1911/74.html">[1912] AC 149</a>, concerning
+the Coal Mines Regulation Act 1887. In the latter case, Lord Kinnear said (pp
+45 and 165-166):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“We are to consider the scope and
+purpose of the statute, and in particular for whose benefit it is intended. Now
+the object of the present statute is plain. It was intended to compel mine owners
+to make due provision for the safety of the men working in their mines, and the
+persons for whose benefit all these rules are to be enforced are the persons
+exposed to danger. But when a duty of this kind is imposed for the benefit of
+particular persons, there arises at common law a correlative right in those
+persons who may be injured by its contravention. Therefore I think it is quite
+impossible to hold that the penalty clause detracts in any way from the prima
+facie right of the persons for whose benefit the statutory enactment has been
+passed to enforce the civil liability.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The same principle was applied to a failure to insure, in the context of
+motor insurance, in <i>Monk v Warbey</i> [1935] 1KB 75. Section 35 of the Road
+Traffic Act 1930 made it illegal to use or to cause or permit any other person
+to use a motor vehicle on a road unless there was in force in relation to the
+user of the vehicle a policy of insurance against third party risks that
+complied with the requirements of the Act. It was held by the Court of Appeal
+that, where the owner of a car permitted its use by a person uninsured against
+third party risks and injury to a third party was caused by the negligent
+driving of that person, the owner was liable in damages to that third party for
+breach of his statutory duty to insure. That was followed in Scotland in <i>Houston
+v Buchanan</i>, 1940 SC (HL) 17, [1940] 2 All ER 17.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Smith submits that Lord Diplock’s words are directly applicable to
+this case. The duty in question was imposed for the protection of employees
+such as Mr Campbell, and the context is identical to that of the Factories
+Acts. In its application to the duty to insure, he submits, the case is
+indistinguishable from <i>Monk v Warbey. </i>As a “cross-check” of the
+appropriateness of such liability, he relies on the tri-partite test set out by
+Lord Bridge in <i>Caparo Industries plc v Dickman </i>[1990] AC 605, 617-618
+for a duty of care in negligence, including foreseeability, proximity and
+fairness. He relies also on the statement of Lord Bingham in <i>Fairchild v
+Glenhaven Funeral Services Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/22.html">[2003] 1 AC 32</a>, 67, referring to the “strong
+policy argument in favour of compensating those who have suffered grave harm,
+at the expense of their employers who owed them a duty to protect them against
+that very harm and failed to do so.” Mr Smith submits that the contrary
+conclusion arrived at by the English Court of Appeal in <i>Richardson </i>was
+based on a flawed analysis, not least the view of Stuart Smith LJ (p 131E-H)
+that the duty to insure was for the benefit of the employer rather than the
+employee. He relies on the detailed criticism of that decision by Lord Drummond
+Young in the Inner House.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the court below, and in argument before this court, there was some
+discussion whether Lord Diplock’s statement of the exception represented the
+modern law. Lord Brodie thought that it needed to be seen in the light of more
+recent judicial statements of high authority, which he read as placing less
+emphasis on definitive presumptions, and more on the need to ascertain the
+intention of Parliament in enacting the particular provision (paras 10, 20). He
+referred in particular to statements by Lord Rodger in <i>Morrison Sports Ltd v
+Scottish Power UK Plc</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/37.html">2011 SC (UKSC) 1</a> (at paras 28-29, 41), citing in turn
+the judgment of Lord Browne-Wilkinson in <i>X (Minors) v Bedfordshire County
+Council</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1995/9.html">[1995] 2 AC 633</a>, 731-732; and by Lord Jauncey in <i>R v Deputy Governor
+of Parkhurst, Ex p Hague</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1990/8.html">[1992] 1 AC 58</a>, 170H-171A. This view finds some
+academic support in Professor Stanton’s work on Statutory Torts (2003), paras
+2-019-2-020.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For my part I find it unnecessary in this appeal to engage in discussion
+of the extent to which Lord Diplock’s formulation has been modified by later
+authorities. I would only observe that the statements of Lord Browne-Wilkinson
+and Lord Jauncey referred to by Lord Brodie were made in the context of cases
+concerning liability of public authorities, which may raise rather different
+issues. I am content to assume (without deciding) that Lord Diplock’s words
+remain a reliable guide at least in relation to statutory duties imposed for
+the benefit of employees. I would also proceed on the basis (agreeing in this
+respect with Sir John Megaw in the <i>Richardson </i>case: p 135C-D) that the
+duty of the employer under section 1 of the 1969 Act was imposed for the
+benefit of the employees, in the sense indicated by Lord Diplock.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This however is not enough for the appellant. The essential starting
+point for Lord Diplock’s formulation is an obligation created by statute,
+binding in law on the person sought to be made liable. There is no suggestion
+in that or any other authority that a person can be made indirectly liable for
+breach of an obligation imposed by statute on someone else. It is no different
+where the obligation is imposed on a company. There is no basis in the case law
+for looking through the corporate veil to the directors or other individuals through
+whom the company acts. That can only be done if expressly or impliedly
+justified by the statute.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Comparison with <i>Monk v Warbey </i>is instructive. The statute in that
+case (Road Traffic Act 1930, section 35) provided by subsection (1) that it was
+not lawful for any person “to use, or to cause or permit any other person to
+use” a motor vehicle on the road unless insured; and by subsection (2) imposed
+a criminal penalty on “any person” acting in contravention of the section. It
+was held that civil liability was not excluded by the separate provision
+creating a criminal offence. Far from supporting Mr Smith’s arguments, this
+analogy points in the opposite direction. In that case Parliament dealt
+specifically with both the user, and any person causing or permitting the use,
+and determined to impose direct responsibility on each. The 1969 Act imposes
+direct responsibility only on the employer. The equivalent issue would be
+whether that is to be treated as giving rise to civil liability on the employer
+for failure to insure, notwithstanding the criminal liability imposed on him by
+section 5. That issue (on which there were differences in the courts below)
+does not arise in this appeal. However, there is no analogy with the position
+of a director or officer. Parliament has recognised that a director or officer
+may bear some responsibility for the failure to insure, but has dealt with it,
+not by imposing direct responsibility equivalent to that of the company, but by
+a specific and closely defined criminal penalty, itself linked to the criminal
+liability of the company.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would accept that the adoption of a particular statutory model is not
+necessarily critical. Lord Brodie (para 12) referred to the decision of the
+Court of Appeal in <i>Rickless v United Artists Corpn </i>[1988] QB 40, in
+which it was held that a provision which on its face “did no more than classify
+a specified act as a criminal offence did indeed create civil liability”. The
+relevant provision was section 2 of the Dramatic and Musical Performers’ Protection
+Act 1958, by which “if a person knowingly … makes a cinematograph film … from …
+a dramatic or musical work without the consent in writing of the performers …
+he shall be guilty of an offence …” Giving the leading judgment Sir Nicholas
+Browne-Wilkinson V-C accepted that the form of the provision pointed against
+civil liability:</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“although this point is far from
+decisive, it is easier to spell out a civil right if Parliament has expressly
+stated the act is generally unlawful rather than merely classified it as a
+criminal offence.” (p 51G-H)</p>
+
+<p class="ParaLevel1">However, he held that other factors showed an intention to
+create civil liability, including the clear purpose of providing protection for
+performers, and the need to comply with this country’s obligations under the
+relevant international conventions (p 53A). This accordingly was a somewhat
+special case. But there was no suggestion that civil liability could be imposed
+other than on those made directly responsible by statute for compliance with
+the primary obligation.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Drummond Young gave a number of reasons for extending civil
+liability to the directors. A corporate employer could only act through its
+officers who accordingly had a duty to ensure so far as possible that the
+company fulfils its statutory duties. In that way he thought “it is apparent
+that section 1, by itself, has the effect of imposing a duty on the directors”
+(para 43). He relied also on the common law rules governing liability of
+directors for acts of the company, citing for example the “relevant principle”
+as stated by Atkin LJ in <i>Performing Right Society Ltd v Ciryl Theatrical
+Syndicate</i> [1924] 1 KB 1, pp 14-15:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Prima facie a managing director
+is not liable for tortious acts done by servants of the company unless he
+himself is privy to the acts, that is to say unless he ordered or procured the
+acts to be done. … I conceive that express direction is not necessary. If the
+directors themselves directed or procured the commission of the [wrongful] act
+they would be liable in whatever sense they did so, whether expressly or
+impliedly.” (Emphasis added)</p>
+
+<p class="ParaLevel1">“Consent, connivance and facilitation through neglect” were
+the criteria for the imposition of criminal liability under section 5 of the
+Act; “on general common law principles they are also sufficient to render the
+director civilly liable for the company’s breach of section 1” (paras 44-45).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He saw nothing unfair in imposing such liability, given that the
+director may have “ignored or deliberately disregarded” the existence of the
+statutory duty and so incurred personal liability, and that, if he has relied
+on professional advice from an insurance broker, he will have a right of
+recourse against the broker (para 46). He criticised the majority for an
+approach which frustrated the policy of the Act “through an over-literal
+construction” and “an excessively conceptual approach”. In his opinion, the
+objectives of the Act demanded that a director who has consented to or who has
+been complicit in a breach of the duty to obtain insurance, or who has
+facilitated such a breach through neglect, should incur civil liability. “This
+substantive point should prevail over structural niceties.” (para 47)</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>With respect to him, I do not find these observations helpful in
+resolving the issue before us, which depends not on general questions of
+fairness, but on the interpretation of a particular statutory scheme in its
+context. The fact that the company can only act through its officers tells one
+nothing about their potential liability to third parties for its acts or
+failures. The judgment of Atkin LJ to which he refers affirms the rule
+(supported by reference to a statement of Lord Buckmaster in <i>Rainham
+Chemical Works v Belvedere Guano Co </i>[1921] 2 AC 465, 476) that directors
+are not in general liable for the tortious actions of the company. The scope of
+a potential common law claim against a director for ordering or procuring such
+a tortious act is not in issue in this case, which turns entirely on alleged
+liability under the statute. This requires the court to pay due respect to the
+language and structure used by Parliament, rather than to preconceptions of
+what its objectives could or should have been.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>My view of the provisions is reinforced by a factor which was not
+addressed in the courts below or the written cases, but was drawn to our
+attention by Mr Dunlop QC for the respondent in the course of oral submissions.
+This concerned the statutory background of the wording of section 5. It seems
+that provisions in similar form, imposing criminal liability on directors and
+other officers for offences by their companies, have a long history. We were
+told that a Westlaw search (looking for statutory provisions using all three of
+the words “consent”, “connivance” and “neglect”) had disclosed more than 900
+examples of this type of formula, all apparently in the context of corporate
+offences (although, as Mr Smith pointed out, examples of precisely the same
+wording are much rarer). This general picture has been confirmed by a similar
+exercise carried out by legal assistants for the court. We have received
+nothing from the appellant since the hearing to suggest otherwise.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A typical example is found in the Companies Act 2006 itself. Section
+1255 (repeating a provision first introduced in this form in 1981) provides:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Where an offence under this
+Part committed by a body corporate is proved <i>to have been committed with the
+consent or connivance of, or to be attributable to any neglect on the part of</i>,
+an officer of the body, or a person purporting to act in any such capacity, he
+as well as the body corporate is guilty of the offence and liable to be
+proceeded against and punished accordingly.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A much earlier example to which Mr Dunlop referred us (dating from
+before the 1969 Act) comes from the Interpretation Act (Northern Ireland) 1954.
+This is of general application to all corporate offences created by subsequent
+statutes in Northern Ireland. Section 20(2) provides:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Where an offence under any
+enactment passed after the commencement of this Act has been committed by a
+body corporate the liability of whose members is limited, then notwithstanding
+and without prejudice to the liability of that body, any person who at the time
+of such commission was a director, general manager, secretary or other similar
+officer of that body or was purporting to act in any such capacity shall,
+subject to sub-section (3), be liable to be prosecuted as if he had personally
+committed that offence and shall, if on such prosecution it is proved to the
+satisfaction of the court that <i>he consented to, or connived at, or did not
+exercise all such reasonable diligence as he ought in the circumstances to have
+exercised to prevent the offence</i>, having regard to the nature of his
+functions in that capacity and to all the circumstances, be liable to the like
+conviction and punishment <i>as if he had personally been guilty</i> of that
+offence.” (emphasis added)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are differences of wording between the three statutes. The 1954
+statute talks not of “neglect”, as in the 1969 Act and the Companies Act, but
+of failure to “exercise reasonable diligence”. On the other hand the reference
+to liability “as if he had personally been guilty” seems to anticipate the
+language of “deemed” criminal liability in the 1969 Act, but is not replicated
+in the Companies Act. However, the general pattern is the same in these and in
+the other examples to which we have been referred. In spite of the apparent
+frequency of the use of this formula, the researches of counsel and our own
+legal assistants have not disclosed any reported authority in which its
+significance or meaning has been considered, nor any previous suggestion that
+it might be treated as giving rise to civil liability.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would be reluctant to attach too much weight to a point which has
+emerged so late in the day. Without more substantial research it is impossible
+to know to what extent this formula has been used in comparable contexts
+involving protection of employees. However, to my mind it tends to confirm the
+view that the language of section 5 was deliberately chosen and is intended to
+mean what it says. The formula is specifically directed at criminal liability,
+and as far as we know has always been used in that context. Where Parliament
+has used such a well-established formula, it is particularly difficult to infer
+an intention to impose by implication a more general liability of which there
+is no hint in its actual language.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For all these reasons, I would agree with the conclusion reached by the
+majority of the Inner House and dismiss the appeal.</a></p><a name="para24">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LORD TOULSON:
+(dissenting) (with whom Lady Hale agrees)</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue before the court is a) whether Mr Gordon breached a statutory
+provision intended for the protection of a particular class including Mr
+Campbell and b) if so, whether Mr Gordon should be held liable for Mr
+Campbell’s resulting loss.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Carnwath has set out sections 1 and 5 of the 1969 Act. The object
+of the Act is that a company’s employees should have the protection, in the
+event of suffering an illness or injury arising out of their employment for
+which the company is liable, of the liability being covered by insurance up to
+a specified sum. Failure by the company to arrange and maintain such insurance
+carries a penal sanction. But the pool of those bearing legal responsibility
+for seeing that such protection is in place is not confined to the company
+itself. It extends to the company’s relevant officer or officers. In order to
+bring such persons within the pool, the drafter has used the device of a
+“deeming” provision. The <i>form </i>of the drafting device is that a director,
+manager, secretary or other officer of the company who consents to, connives at
+or by neglect facilitates, a failure to maintain the requisite insurance is
+“deemed” to be guilty of the same offence as the company. The effect in <i>substance
+</i>is to place on such an officer a legal obligation not to cause or permit
+the company to be without the required insurance by consent, connivance or
+neglect, on pain of a criminal penalty. To say that the imposition of criminal
+responsibility for a specified act (or omission) carries with it a legal
+obligation not to act (or omit to act) in such a way is to state the obvious.
+The two are opposite sides of the same coin.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The language of deeming involves artificiality. In addressing sub-issue
+a), the court has a choice whether to adopt a formalistic approach or to look
+through the artificiality and consider the function, substance and effect of
+the provision in real terms. The answer to the question “What does it really
+do?” is that the provision is a concise means of extending statutory
+responsibility for seeing that the company is properly insured to the company’s
+appropriate officer(s), backed by a penal sanction.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As an alternative, the drafter might have used words such as “It shall
+be illegal for any director, manager, secretary or other officer of a
+corporation which is an employer carrying on business in the United Kingdom to
+consent to, connive at or by neglect facilitate a failure by the corporation to
+insure (etc), and any such person shall be liable on summary conviction (etc)”.
+This would have been longer but the practical result would have been the same:
+the director or officer would have been liable to a criminal penalty for his
+wrongful act or omission, imposed for the protection of employees.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his dissenting judgment in <i>Richardson v Pitt-Stanley</i> [1995] QB
+123, 135, Sir John Megaw made a similar point. He said:</a></p><a name="para29">
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:29.3pt;margin-bottom:26.0pt;
+margin-left:72.0pt">“With great respect, I find it difficult to believe that
+the parliamentary draftsman would have intended to make provision that there
+should be no civil right or remedy by using the formula of section 1 of the
+Employers’ Liability (Compulsory Insurance) Act 1969, ‘shall insure’, followed
+by section 5 ‘shall be guilty of an offence’; as contrasted with the formula of
+declaring an act or omission to be unlawful and then separately providing a
+criminal penalty for the breach.”</p>
+
+<p class="ParaLevel1">I agree.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The approach which commends itself to the majority concentrates on the
+form of the language. It is argued that the structure of the Act is such that
+the only duty created by it is explicitly placed on the company by section
+1(1), and that the mechanism by which a director or other officer of the
+company is deemed to be guilty of a breach of that duty is consistent with and
+supports that proposition. I have set out the alternative approach, which looks
+at the function and substantive effect of the deeming provision in real terms.
+The choice between a formal approach and a functional approach in the
+interpretation and application of statutory language is an aspect of the choice
+between formalism and realism which has been a fruitful subject since as long
+ago as the publication of Holmes’s The Common Law in 1881. In deciding which
+approach is preferable, the context matters. The present context is legislation
+for the protection of a vulnerable group, a company’s employees. In that
+context I regard the functional approach as more appropriate. I cannot improve
+on Lord Drummond Young’s pithy statement, in his dissenting opinion in this
+case, that in the context of legislation aimed at employee protection the
+formalist approach is “excessively conceptual; it focuses on differences of
+structure that do not reflect the basic objectives of the statute” (para 47).</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If, however, a formalist approach is preferred, there should be no half
+measure about it. On the formalist approach, the director in the eyes of the
+law is himself guilty of committing an offence under sections 1 and 5. The
+language of the Act does not impose an accessory liability on the director. It
+would be unnecessary for that purpose. Rather, it explicitly deems him to be
+himself guilty of the offence of failing to insure and maintain insurance, etc.
+As a matter of insurance law, it is of course the insurer who insures and
+someone else (usually the insured) who procures the insurance, but the meaning
+of “shall insure, and maintain insurance” in section 1 is clear enough. The
+effect of the deeming provision is that in the eye of the law the director is
+guilty as a principal of failing to insure and maintain the necessary
+insurance. Logic and justice would not permit the director to say that his
+criminal liability is in substance and reality a form of accessory liability,
+if one is living in formality land, for, as I have stressed, on the formalist’s
+approach the director is in law guilty as a principal of failing to insure.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On either approach Mr Gordon breached a statutory provision intended for
+the protection of a particular class, employees, of which Mr Campbell was a
+member, but I prefer the former approach for the reasons which I have given.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to sub-issue b), legislation for the protection of employees began in
+the Victorian age. From the outset the courts have consistently held that
+breaches of provisions in that class of legislation are actionable at the suit
+of an employee who suffers from the breach. This was established in <i>Groves v
+Lord Wimborne</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpKQB/1898/138.html">[1898] 2 QB 402</a>, a case under the Factory and Workshop Act
+1878. Rigby LJ said at pp 414-415:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The provisions of section 5 are
+intended for the protection from injury of a particular class of persons, who
+come within the mischief of the Act. The plaintiff is one of those persons, the
+possibility of injury to whom through neglect to fence machinery the section
+contemplates. That being so, the only question seems to be whether the provisions
+of the Act with regard to the imposition of fines for neglect of the duty
+created by the section reasonably lead to the conclusion that the Legislature
+intended that such fines should be the only remedy for breach of that duty. I
+think that, when those provisions are examined, it is impossible to arrive at
+that conclusion. The maximum fine that can be imposed in any case, however
+serious the injury may be, is one of £100. It seems monstrous to suppose that
+it was intended that in the case of death or severe mutilation arising through
+a breach of the statutory duty, the compensation to the workman or his family
+should never exceed £100. Again, section 82 does not provide that the fine
+imposed under it shall necessarily go to the workman if he be injured, or to
+his family if he be killed; but only that the Secretary of State may, if he
+thinks fit, order that the fine or part of it shall do so.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Looking at the purview of the
+whole Act, I cannot think it reasonable to suppose that the Legislature
+intended the penalty imposed by section 82 to be the only remedy for injury
+occasioned by breach of the absolute statutory duty created by the Act.”</p>
+
+<p class="ParaLevel1">The reference to the “purview of the whole Act” came from
+the speech of Lord Cairns LC in <i>Atkinson v Newcastle and Gateshead
+Waterworks Co</i> (1877) 2 Ex D 441, 448. The maximum fine for an offence under
+the 1969 Act was originally £200. An offence is committed on any day that a
+company is not insured in accordance with the Act.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Groves v Lord Wimborne</i> was approved by the House of Lords in <i>Butler
+(or Black) v Fife Coal Co Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1911/74.html">[1912] AC 149</a>. Lord Kinnear said at 165-166:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“We are to consider the scope and
+purpose of the statute and in particular for whose benefit it is intended. Now
+the object of the present statute is plain. It was intended to compel mine
+owners to make due provision for the safety of the men working in their mines,
+and the persons for whose benefit all these rules are to be enforced are the
+persons exposed to danger. But when a duty of this kind is imposed for the
+benefit of particular persons, there arises at common law a correlative right
+in those persons who may be injured by its contravention. Therefore I think it
+is quite impossible to hold that the penalty clause detracts in any way from
+the prima facie right of the persons for whose benefit the statutory enactment
+has been passed to enforce the civil liability.”</p>
+
+<p class="ParaLevel1">This passage was cited as a statement of general principle
+by Lord Simonds and Lord Normand in <i>Cutler v Wandsworth Stadium Ltd</i>
+[1949] AC 398, 407-408, 413-414, and by Lord Diplock in <i>Lonrho Ltd v Shell
+Petroleum Co Ltd (No 2)</i> [1982] AC 173, 185.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As Lord Kinnear’s statement indicates, the cause of action is at common
+law (except in cases where a statute expressly creates a civil right of
+action). The cause of action which was held to exist in <i>Groves v Lord
+Wimborne</i> was created by the court. It was founded on a statute but it was
+the court that determined that breach of the provisions of the Act should be
+actionable at the suit of the injured party for whose protection the provisions
+were intended. The conventional jurisprudence is that the court’s function is
+to ascertain as a matter of interpretation whether Parliament intended that
+there should be civil liability, but that understates the role of the courts in
+cases where the legislation is silent on the point. In such cases “the judges
+face hieroglyphs without a Rosetta Stone”, to borrow a metaphor of Judge
+Richard Posner writing extra-judicially (Divergent Paths - The Academy and the
+Judiciary, Harvard University Press, 2016, p 172). Judge Posner candidly and
+correctly states that the judges’ role in such cases is the active role of
+filling gaps left by the legislature.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The courts use a combination of methods for this purpose. They examine
+the whole purview of the legislation and they employ default rules, with which
+parliamentary drafters may be taken to be familiar. Lord Du Parcq spelt this
+out in <i>Cutler v Wandsworth Stadium Ltd</i> [1949] AC 410-411. After a plea
+that Parliament should reveal its intention in plain words, he said:</a></p><a name="para36">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… Parliament must be taken to
+have known that if it preferred to avoid the crudity of a blunt statement and
+to leave its intention in that regard to be inferred by the courts, the
+‘general rule’ would prevail unless the ‘scope and language’ of the Act
+established the exception. It cannot be supposed that the draftsman is blind to
+the principles which the courts have laid down for their own guidance when it
+becomes necessary for them to fill in such gaps as Parliament may choose to
+leave in its enactments.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The default rules were summarised by Lord Diplock in <i>Lonrho Ltd v
+Shell Petroleum Co Ltd (No 2)</i> [1982] AC 173, 185:</a></p><a name="para37">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para37">“The sanctions Order thus creates
+a statutory prohibition upon the doing of certain classes of acts and provides
+the means of enforcing the prohibition by prosecution for a criminal offence
+which is subject to heavy penalties including imprisonment. So one starts with
+the presumption laid down originally by Lord Tenterden CJ in <i>Doe d Murray v
+Bridges</i> </a><a href="http://www.worldlii.org/int/cases/EngR/1831/57.pdf">(1831) 1 B &amp; Ad 847</a>, 859, where he spoke of the ‘general rule’
+that ‘where an Act creates an obligation, and enforces the performance in a
+specified manner … that performance cannot be enforced in any other manner’ - a
+statement that has frequently been cited with approval ever since, including on
+several occasions in speeches in this House. Where the only manner of enforcing
+performance for which the Act provides is prosecution for the criminal offence
+of failure to perform the statutory obligation or for contravening the
+statutory prohibition which the Act creates, there are two classes of exception
+to this general rule.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The first is where upon the true
+construction of the Act it is apparent that the obligation or prohibition was
+imposed for the benefit or protection of a particular class of individuals, as
+in the case of the Factories Acts and similar legislation. As Lord Kinnear put
+it in <i>Butler (or Black) v Fife Coal Co Ltd</i> …” (I have cited the passage
+which followed.)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his opinion in the present case Lord Brodie said (at para 10) that
+statements of Lord Kinnear and Lord Diplock are “not the modern law”. For this
+(to my mind startling) proposition, Lord Brodie relied on the speech of Lord
+Jauncey in <i>R v Deputy Governor of Parkhurst, Ex p Hague</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1990/8.html">[1992 1 AC 58</a>,
+170-171, and a passage in the speech of Lord Browne-Wilkinson in <i>X (Minors)
+v Bedfordshire County Council</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1995/9.html">[1995] 2 AC 633</a>, 731, cited by Lord Rodger in
+<i>Morrison Sports Ltd v Scottish Power UK plc</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/37.html">2011 SC (UKSC) 1</a>, para 28,
+in a judgment with which the other members of the court (including Lady Hale)
+agreed.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Those three cases were far removed from the area of legislation for the
+protection of employees. In the passage from <i>X (Minors) v Bedfordshire
+County Council</i>, cited in <i>Morrison Sports Ltd v Scottish Power UK plc</i>,
+by Lord Rodger, Lord Browne-Wilkinson began by describing the principles for
+determining whether a statutory breach gives rise to a cause of action as well
+established. He went on to refer to the trilogy of <i>Groves v Lord Wimborne</i>,
+<i>Cutler v Wandsworth Stadium Ltd</i> and <i>Lonrho Ltd v Shell Petroleum Co
+Ltd (No 2). </i>He did not suggest that he considered those cases to be “not
+the modern law”; quite the opposite. Had he intended to depart from long
+standing authority, including decisions of the House of Lords, there can be no
+doubt that he would have said so. Lord Brown-Wilkinson referred to <i>R v
+Deputy Governor of Parkhurst Prison, Ex p Hague</i>, but only to give it as an
+example of legislation which was treated not as being passed for the benefit of a
+particular class of persons (those serving prison sentences), but for the
+benefit of society in general. It provides an illustration of the need for a
+purview of the whole legislation in question in order to determine whether it
+is to be regarded as passed for the intended benefit of a particular class.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Brodie and Lord Malcolm each cited Lord Jauncey’s statement in the <i>Parkhurst
+</i>case, at pp 170-171, that “The fact that a particular provision was
+intended to protect certain individuals is not of itself sufficient to confer
+private law rights of action upon them, something more is required to show that
+the legislature intended such conferment.” But that sentence should not be
+taken in isolation. It needs to be understood in its context. The claim in that
+case was brought by a prisoner who had been deprived for a time of rights of
+association, by an order of the deputy governor which was held to be in breach
+of rules under the Prison Act 1952. In addressing the question whether the
+breach entitled the claimant to damages, the House of Lords held that it was
+necessary to consider not only the benefit of the rule to the claimant, but the
+wider purpose of the legislative scheme. In the paragraph immediately following
+the words quoted above, Lord Jauncey described the objects of the legislation
+as “far removed from those of legislation such as the factories and coal mines
+Acts <i>whose prime concern is to protect the health and safety of those who
+work therein” </i>(emphasis added). In the present case the Act has no purpose
+other than the protection of employees.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principles summarised by Lord Diplock in <i>Lonrho Ltd v Shell
+Petroleum Co Ltd (No 2)</i> are no more than general principles or default
+rules, but they have stood the test of time and I would hold that they continue
+to be the law unless and until the Supreme Court makes a conscious decision
+otherwise. In particular, where legislation is passed for the protection of
+employees, in accordance with Lord Diplock’s first exception, a breach will
+ordinarily give rise to a potential cause of action, unless the language of the
+legislation points clearly in the opposite direction.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this case the legislation was plainly intended for the protection of
+employees and I do not consider that the form of the language employed by the
+drafter takes the case in relation to Mr Gordon outside Lord Diplock’s first
+exception. I would allow the appeal.</a></p><a name="para42">
+
+<p class="ParaNoNumber"><b>LADY HALE:</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question for this court is whether in 1969, when Parliament passed
+the sections 1 and 5 of the Employers’ Liability (Compulsory Insurance) Act, it
+was intended that breach of those sections should give rise, not only to
+criminal liability, but also to civil liability towards an employee who had
+been injured by the employer’s breach of duty towards him and who, because of
+the failure to insure, would otherwise not receive the compensation for his
+injuries to which he was entitled. In my view, it is absolutely plain that
+Parliament <i>did</i> intend there to be such civil liability.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Parliament is presumed to legislate in the knowledge of the current
+state of the law when it is doing so. In 1969, the law had been clearly laid
+down in <i>Groves v Lord Wimborne </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpKQB/1898/138.html">[1898] 2 QB 402</a>, approved by the House of
+Lords in <i>Butler (or Black) v Fife Coal Co Ltd </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1911/74.html">[1912] AC 149</a>, and again
+in <i>Cutler v Wandsworth Stadium Ltd </i>[1949] AC 398. Statutory duties
+imposed upon employers for the benefit of employees who suffer injury as a
+result of their breach give rise to civil as well as criminal liability, absent
+a clear statutory intent to the contrary. That is still the law. Parliament
+understood this when it passed the Health and Safety at Work etc Act 1974, section
+47 of which made clear which breaches did not give rise to civil liability, and
+amended it in 2013, further to restrict the extent of civil liability.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Quite apart from the fact that we are concerned with the Parliamentary
+intention in 1969, it is quite wrong to suggest (as the majority in the lower
+House did) that a “trilogy” of more recent cases have changed the law as it has
+long been understood to be. The traditional understanding was reaffirmed in the
+House of Lords by Lord Diplock in <i>Lonrho Ltd v Shell Petroleum Co Ltd (No 2)
+</i>[1982] AC 173, 185. It was reaffirmed yet again in the House of Lords by
+Lord Browne-Wilkinson in <i>X (Minors) v Bedfordshire County Council </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1995/9.html">[1995] 2 AC 633</a>, 732 one of the “trilogy”. The other two are <i>R v Deputy Governor of
+Parkhurst Prison, Ex p Hague </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1990/8.html">[1992] 1 AC 58</a> and <i>Morrison Sports Ltd v
+Scottish Power UK plc </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2010/37.html">2011 SC (UKSC) 1</a>, <a title="Link to BAILII version" href="/uk/cases/UKSC/2010/37.html">[2010] UKSC 37 </a> In none of the three is there any
+suggestion that the approach of the courts to deciding whether the breach of a
+statutory duty gives rise to civil liability in damages has changed. In <i>X v
+Bedfordshire</i>, the principles applicable were said to be “well-established”,
+albeit difficult to apply (p 731).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Those difficulties arise in novel situations rather than in
+well-established situations like this. In <i>X v Bedfordshire</i>, Lord
+Browne-Wilkinson stressed that in no previous case “had [it] been held that
+statutory provisions establishing a regulatory system or a scheme of social
+welfare for the benefit of the public at large” gave rise to a right of action
+for damages (p 731). Although individuals might in fact be protected, the
+legislation was for the benefit of society in general and not just a particular
+class. The cases where civil liability had been imposed were very limited and
+specific “as opposed to general administrative functions imposed on public
+bodies and involving the exercise of administrative discretions” (p 732). <i>Cutler</i>,
+being concerned with the regulation of betting at dog races, was an example of
+such a scheme, which did not give rise to civil liability. <i>Hague</i>, being
+concerned with the management of prisons, was another.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Something more should be said about <i>Morrisons Sports</i>, as it is a
+recent decision of this court, to which I was a party. It was concerned with
+whether there was civil liability for breach of the Electricity Supply
+Regulations, made in 1988 but to be treated as if made under the power in
+section 29 of the Electricity Act 1989. Section 29(3) provided that the
+Regulations might impose criminal penalties for their contravention; but it also
+provided that “nothing in this subsection shall affect any liability of any
+such person to pay compensation in respect of any damage or injury which may
+have been caused by the contravention”. Much of the judgment is devoted to
+explaining why the view of the Inner House that this wording was apt to impose
+civil liability, as opposed to acknowledging it if it existed, was untenable.
+When Lord Rodger (with whom the other members of the court agreed) turned to
+whether the regulations did indeed impose civil liability for breach, he cited
+the above passage from the speech of Lord Browne Wilkinson in <i>X v
+Bedfordshire</i>, which referred to, and cast no doubt upon, the law on
+employers’ liability as decided in <i>Groves v Lord Wimborne</i>. There is no
+suggestion in <i>Morrisons Sports</i> that that is no longer the law. The
+judgment goes on to look at the overall legislative scheme for regulating the
+supply of electricity. While this clearly contemplated that there might be
+civil liability, it did not expressly provide for it. “Looked at as a whole …
+the scheme of the legislation, with its carefully worked-out provisions for
+various forms of enforcement on behalf of the public, points against
+individuals having a private right of action for damages …” (para 37). It was
+also difficult to identify any limited class of the public for whose protection
+the Regulations were intended (para 38). In short, this was a general
+regulatory scheme intended for the benefit of the whole population.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The difference between that case and this could hardly be greater. This
+is a very specific statutory duty imposed upon employers, and also imposed upon
+specified officers where the employer is a limited company. There can be no
+difference in substance between imposing criminal liability for failing to do
+something and imposing a duty to do it. The purpose was to protect a very
+specific class of people, namely employees who might be injured by the
+employer’s breach of duty (whether arising by statute or at common law). The
+protection intended was that they should be compensated for their injuries even
+if, for whatever reason, the employer was unable to do so. Failure to insure
+means that the employee is denied the very thing that the legislation is
+intended to provide for him.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, as well as for the fuller reasons given by Lord
+Toulson, I would allow this appeal and let the case go to proof.</a></p><a name="para49">
+
+</a></div><a name="para49">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/38.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

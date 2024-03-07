@@ -1,0 +1,980 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Mills v Mills [2018] UKSC 38 (18 July 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Mills v Mills [2018] UKSC 38 (18 July 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/38.html</i>
+<br>Cite as: 
+[2018] 3 FCR 428,
+
+[2018] 2 FLR 1388,
+
+[2018] 4 All ER 612,
+
+[2018] UKSC 38
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/38.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<center><a href="/uk/cases/UKSC/2018/38.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>&nbsp;</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>Trinity Term</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 38</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/129.html">[2017] EWCA Civ 129</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Mills
+  (Appellant) <i>v</i> Mills (Respondent)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">18 July 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 6 June 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+<center>
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Philip Cayford QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Frank Feehan QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Sassa-Ann Amaouche</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Katherine Dunseath</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Lodders
+  Solicitors LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Osbornes
+  Solicitors LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LORD WILSON: (<span style="text-transform:none">with whom
+Lady Hale, Lord Carnwath, Lord Hughes and Lord Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In circumstances in which at the time of a divorce a spouse, say a wife,
+is awarded capital which enables her to purchase a home but later she exhausts
+the capital by entry into a series of unwise transactions and so develops a
+need to pay rent, is the court entitled to decline to increase the order for
+the husband to make periodical payments to her so as to fund payment of all (or
+perhaps even any) of her rent even if he could afford to do so?</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Mills (whom it will be convenient to describe as “the husband”
+notwithstanding his divorce from Mrs Mills, “the wife”, in 2002) appeals
+against an order for upwards variation of an order for periodical payments against
+him in favour of the wife. The order for variation was made by the Court of
+Appeal (Longmore LJ and Sir Ernest Ryder, Senior President of Tribunals) on 1
+February 2017: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/129.html">[2017] EWCA Civ 129</a>. By that order, the Court of Appeal allowed
+the wife’s appeal against the dismissal of her application to vary the order
+for periodical payments by Judge Everall QC (“the judge”) in the Central Family
+Court in London on 9 June 2015.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The husband and wife are each aged 52. They were married in 1987. The
+wife is a qualified beauty therapist. In the early years of the marriage she
+worked, self-employed, in that capacity. The husband built up a surveying
+business within two companies which he and the wife owned in equal shares. They
+had one child, a son, now adult. In 1996 the wife unfortunately suffered a late
+miscarriage, which precipitated a long period of painful gynaecological
+difficulties for her. In 2000 the husband left the home in Guildford.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 7 June 2002, in the ensuing divorce proceedings, financial issues
+were resolved within a consent order. In addition to provision for their son,
+who was to continue to make his home with the wife and have contact with the
+husband, the order provided that:</a></p><a name="para4">
+
+<p class="ParaLevel2" style="text-indent:0cm">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the home, vested in the joint names of the parties, should be sold;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>its net proceeds should be divided in accordance with a formula which in
+the event yielded £230,000 for the wife in settlement of all her capital claims
+against the husband and £23,000 for him;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the wife should transfer to the husband her interest in policies worth
+£23,000 and her shares in the surveying companies; and</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the husband should make periodical payments to her at the annual rate of
+£13,200 (not index-linked) on the open-ended basis, namely during their joint
+lives until her remarriage or further order in the interim.</p>
+
+<p class="ParaNoNumber">The wife therefore received the vast preponderance of the
+parties’ liquid capital. The value of the two companies was not identified.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the time of making the consent order the wife had represented that
+ill-health was disabling her from working and that she would need £350,000 with
+which to purchase a suitable home for herself and their son. The husband had
+conceded that she then had no capacity to raise a mortgage but had suggested,
+by contrast, that she could purchase a suitable home for £230,000 or less, in
+other words free of mortgage. In the event, later in 2002, she proceeded to
+purchase a house in Weybridge for £345,000 by deploying in effect her entire
+share of the proceeds of the home and by raising the balance of £125,000 on
+mortgage.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>When he learnt of the wife’s purchase, the husband, by solicitors,
+expressed surprise at its high cost and concern about her ability to service a
+mortgage, let alone one of such size. By solicitors, she replied only that she
+had not been able to secure reasonably priced accommodation in an area in which
+it would in her opinion be best for their son to grow up.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear that, by the time of her purchase of the house in Weybridge,
+the wife had begun to work again as a beauty therapist, but part-time.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2006 the wife sold the house in Weybridge at the price for which she
+had bought it, namely £345,000. But the sum owing on mortgage had risen by
+£93,000 to £218,000. Having received written and oral evidence from the wife,
+the judge found that she had been unable satisfactorily to explain why the sum
+owing had increased or in what way the increase had been spent.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Upon the sale of the house in Weybridge the wife bought a flat in
+Wimbledon for £323,000, with a deposit of £48,000 and a mortgage of £275,000. The
+judge therefore calculated that, net of collateral costs of the transactions,
+about £62,000 of the proceeds of sale had not been used in the purchase of the
+flat; but he noted that the wife had refurbished it to some extent.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2007 the wife sold the flat in Wimbledon for £435,000. The sum then
+owing on mortgage had risen only marginally, namely to £277,000. Instead she
+bought a flat in Battersea for £520,000, with a deposit of £78,000 and a
+mortgage of £442,000. The judge therefore calculated that, net of the
+collateral costs, about £44,000 of the proceeds of sale had not been used in
+the purchase of the second flat. It is unclear from his judgment how the wife
+was able to secure, and then to service, a borrowing as high as £442,000.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2009 the wife sold the flat in Battersea for £580,000 and began to
+rent accommodation. The judge calculated that, after repaying the mortgage of
+£442,000 and meeting the collateral costs, the wife received about £120,000
+from the proceeds of sale.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Between 2009 and 2015 the wife rented six successive properties in
+London and Surrey.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By April 2015, when the judge heard the case, the wife had no capital. On
+the contrary, she had overdrafts of £4,000, credit card liabilities of £18,000
+and a tax liability of about £20,000.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before the judge were cross-applications. The husband had applied for
+discharge of the order for periodical payments on his payment to the wife of a
+modest capital sum, say of £26,000; or for a fixed period to be set on her
+continued receipt of periodical payments and/or for a downwards variation of
+their amount. The wife had cross-applied for an upwards variation of their
+amount. Both applications were made under section 31(1) of the Matrimonial
+Causes Act 1973 (“the Act”). Section 31(7) provides:</a></p><a name="para14">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In exercising the powers
+conferred by this section the court shall have regard to all the circumstances
+of the case, … [which] shall include any change in any of the matters to which
+the court was required to have regard when making the order to which the
+application relates, and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the case of a
+periodical payments ... order made on or after the grant of a decree of divorce
+..., the court shall consider whether in all the circumstances and after having
+regard to any such change it would be appropriate to vary the order so that
+payments under the order are required to be made … only for such further period
+as will in the opinion of the court be sufficient … to enable the party in
+whose favour the order was made to adjust without undue hardship to the
+termination of those payments;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt;text-indent:36.0pt">…”</p>
+
+<p class="ParaLevel1">The “matters to which the court was required to have regard
+when making the order” in 2002, even though it was made by consent, were those
+set out in section 25(2) of the Act.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his judgment, which was reserved, the judge described the wife’s oral
+evidence as not fully satisfactory. He explained that she had been unable to
+give him a clear picture of her financial circumstances in the years since 2002;
+that, apart from her failure to explain the dramatic increase in the size of
+the mortgage on the house in Weybridge, she had been unable to identify the
+size of her income from her part-time work in the earlier years, first as a
+beauty therapist and then for an estate agent. He accepted that between 2004
+and 2010 she had undergone no less than seven surgical procedures referable to
+her gynaecological difficulties and that they had affected her earning capacity
+at that time. He found, however, that she had exaggerated the continuing
+impact, five years later, of those difficulties upon her earning capacity. In
+2010 she had reverted to work as a beauty therapist. Her accounts for the last
+available year, namely to April 2014, disclosed an annual income net of tax of
+about £18,500. She had then been working about three days each week. The judge
+rejected her contention that ill-health precluded her from working for a fourth
+day but accepted that she might not be able to attract the extra clients to occupy
+it. He therefore ascribed to her annual net earnings of only £18,500. The
+husband contends that it was a somewhat conservative figure; but it is
+appropriate for an appellate court to adopt it without qualification.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge found that the husband, by contrast, gave reliable and truthful
+evidence in all respects. He had remarried and was living with his second wife,
+their nine-year-old son and an adult step-daughter in a house in Guildford in
+which, subject to a substantial mortgage, he had a half interest. As in 2002 he
+had little liquid capital. The judge studied his earned income from the
+surveying companies. They had suffered a reverse in 2012 but had slowly
+recovered since then and, as the husband frankly conceded at the hearing, they
+were likely to be thriving by 2025. The judge ascribed to the husband an
+existing net annual income of £55,000 inclusive of a small salary which one of
+the companies chose to pay to his current wife. It may again have been a
+somewhat conservative figure; but it is again appropriate for an appellate
+court to adopt it without qualification.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the hearing the wife’s then counsel put before the judge a breakdown
+of what he suggested to be the amount of her necessary annual expenditure. The
+judge accepted it as “very modest”. Exclusive of figures referable to the adult
+son, the annual total was £35,792, of which £10,200 was for rent. Following
+deduction of her earnings of £18,500, the wife’s annual need was therefore for
+£17,292.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the judge’s decision was not to vary, whether upwards or downwards,
+the existing order for periodical payments in the annual sum of £13,200. In
+other words he countenanced a shortfall of £4,092 between the wife’s annual
+need and the husband’s obligation to meet it. Why?</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The answer lies in the judge’s analysis of the wife’s loss of the
+capital sum which had been awarded to her in 2002.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge found that:</a></p><a name="para20">
+
+<p class="ParaLevel2" style="text-indent:0cm">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the award in 2002 would then have enabled the wife to buy a home free of
+mortgage;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>it had however been reasonable for her to be ambitious and to secure a mortgage
+for the purchase of the house in Weybridge;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>thereafter she had not managed her finances wisely;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>like others at that time, she had committed herself to borrowings which
+were too high;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">v)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>it would be wrong to describe her approach to finances as profligate or
+wanton;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">vi)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>but her needs had been augmented by reason of the choices which she had
+made.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the light of those findings the judge decided to reject the husband’s
+submission that the wife’s need to pay rent of £10,200 should be entirely
+eliminated from the total annual need which it would be appropriate for him to
+meet. Nevertheless it was</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“fair that the husband’s
+contribution to the wife’s needs should not include a full contribution to her
+housing costs.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If, however arbitrarily, one omits to ascribe any part of the wife’s
+earnings to the payment of rent of £10,200 and treats the rent as entirely
+subsumed within her residual annual need of £17,292, it is easy to see that the
+effect of the judge’s decision to countenance a shortfall from that figure of £4,092
+was to oblige the husband to pay £6,108 towards the rent, or 60% of it.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the judge had described the wife’s schedule of annual needs
+totalling £35,792 as “very modest” and indeed as “basic”, he said that the
+husband’s contribution should do no more than to enable her to meet her “bare
+minimum needs”, which, so he therefore implied, were properly to be reflected
+in an even lower figure. “The wife”, he said, “will have to adjust her
+expenditure to live within her means.”</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge found on clear evidence that the husband could afford to
+continue to make periodical payments in the annual sum of £13,200. Indeed,
+although there was no cause for him to make a finding to this effect, it also
+seems reasonably clear that the husband could have afforded to pay the extra
+annual sum of £4,092 if it had been otherwise appropriate to order him to do
+so; it was certainly no part of the judge’s reasoning that the husband could
+not have afforded to pay it.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In accordance with his duty the judge then turned to consider the
+husband’s application for him to set a fixed period upon the wife’s continued
+receipt of the periodical payments. But, applying section 31(7)(a) set out in
+para 14 above, the judge concluded, unsurprisingly, that he could not identify
+any fixed period as being sufficient to enable the wife to adjust without undue
+hardship to their termination. It followed that the order should continue to
+require them to be paid on the open-ended basis, namely during their joint
+lives until her remarriage or further order in the interim. Although the
+open-ended basis does not specify a fixed term for the life of the order, the
+circumstances which it identifies as bringing it to an end, in particular the
+potential for a further order ending it at any time, show how misleading
+(indeed, as the husband himself says, how unattractive) it is for some
+non-lawyers to describe such an order as a meal-ticket for life.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Inevitably the judge also concluded that any appropriate capitalisation
+of periodical payments in that continuing sum and on that continuing basis
+appeared to be beyond the husband’s means.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So the judge dismissed both the husband’s application and the wife’s
+cross-application.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both the husband and the wife sought permission from the Court of Appeal
+to appeal against the respective dismissals of their applications. The wife
+secured permission to do so but, in circumstances which rendered him aggrieved
+but are no longer relevant, the husband’s application for permission was not
+granted likewise but was listed to be heard by the court at the time when it
+was to hear the wife’s substantive appeal.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the conclusion of the hearing on 1 February 2017 Sir Ernest Ryder
+gave an impromptu judgment, with which Longmore LJ agreed.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his judgment Sir Ernest said that</a></p><a name="para30">
+
+<p class="ParaLevel2" style="text-indent:0cm">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>the judge “did not give any reason why any part of the trimmed budget,
+that is the wife’s basic needs budget, should be cut in explanation of why that
+shortfall should not be met”;</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>he “did not explain … why she should live below the basic needs budget
+that he, the judge, had accepted in evidence”; and</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>his decision that “she would have to adjust her expenditure to reduce
+those needs” was “a conclusion [which] required reasoning that is not in the
+judgment”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So the Court of Appeal allowed the wife’s appeal by varying the order
+for periodical payments upwards from the annual sum of £13,200 to that of
+£17,292, backdated to the date of the judge’s judgment. It refused the
+husband’s application for permission to appeal to it on the ground that his
+proposed appeal had no prospect of success.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The husband filed a notice of appeal to this court. He challenged the
+increase in the order for periodical payments directed by the Court of Appeal.
+But he also purported to challenge its refusal to discharge the order for
+periodical payments; and, alternatively, its refusal to set a fixed period on
+the wife’s continued receipt of them and/or to vary the amount of them
+downwards. In these respects he was, however, purporting to challenge the Court
+of Appeal’s refusal to permit him to appeal to itself on these grounds and, by
+section 54(4) of the Access to Justice Act 1999, no appeal can be brought
+against a refusal of permission. So the order of this court was to limit its
+permission for him to appeal to the single ground whether, in light of the fact
+that provision had already been made for the wife’s housing needs in the
+capital settlement, the Court of Appeal had been entitled to interfere with the
+judge’s determination not to make full allowance for her need to pay rent in
+the continuing order for periodical payments. Unfortunately the husband’s
+advisers considered that the terms of the limited grant of permission could in
+some way prove broad enough to enable them to make submissions at the hearing
+along the wider lines of his impermissible challenge to the Court of Appeal’s
+refusal to grant him permission to appeal to it. So at an early stage of the
+hearing the court had to re-emphasise the limited ambit of its inquiry in this
+particular case.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>With the greatest of respect to the Court of Appeal, and with (I
+believe) a full appreciation of the heavy work-load under which it currently
+labours, it erred in saying that the judge had given no reason for declining to
+increase the order for periodical payments so as to enable the wife to meet all
+her basic needs. The judge gave a clear reason which is summarised in paras 20
+and 21 above.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So the question which the Court of Appeal should have addressed, and
+which this court should now address, is the question set out in para 1 above.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In addressing the question, the court must consider three earlier
+decisions of the Court of Appeal.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, <i>Pearce v Pearce</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2003/1054.html">[2003] EWCA Civ 1054</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2003/1054.html">[2004] 1 WLR 68</a>. At
+the time of the original order in 1997 the wife had owned a flat in Chelsea
+free of mortgage. Later she sold the flat; depleted the proceeds by an
+unfortunate speculation in Ireland; and, upon returning to live in London,
+could only afford to buy a flat in Fulham subject to mortgage. The original
+order had also provided for the husband to make periodical payments to the
+wife; and the subsequent order under appeal in 2003 was to capitalise her
+entitlement to periodical payments, ie to discharge the order for them upon
+payment to her by the husband of a lump sum in lieu of them pursuant to section
+31(7A) and (7B) of the Act. The major significance of the decision of the Court
+of Appeal lies in its approach to the exercise of capitalising an order for
+periodical payments. For present purposes, however, its significance lies in
+its removal of the wife’s mortgage repayments from its calculation of the
+amount of the periodical payments to which, in the absence of capitalisation,
+she would then have been entitled and therefore of the amount of the lump sum
+to be paid by the husband in lieu of them. Thorpe LJ said at para 36 that the
+judge</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… should not have allowed the
+wife to discharge her mortgage at the husband’s expense. Such an indemnity
+violates the principle that capital claims compromised in 1997 could not be
+revisited in 2003. There is simply no power or discretion to embark on further
+adjustment of capital to reflect the outcome of unwise or unfortunate
+investment on one side or prudent or lucky investment on the other.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Second, <i>North v North</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2007/760.html">[2007] EWCA Civ 760</a>, [2007] All ER (D) 386
+(Jul). In 1981 an order by consent had provided the wife with ownership of a
+mortgage-free house in Sheffield and of ground rents which generated a
+comfortable income for her. The order had also included provision for the
+husband to make periodical payments to her in a nominal sum. In 2000 the wife
+sold her assets in England and moved to Sydney with “relatively disastrous”
+financial consequences, which led her to apply for an upwards variation of the
+order for periodical payments. The Court of Appeal set aside an order
+capitalising her entitlement to them in the sum of £202,000 and, although not
+visible in the transcript or in the report, apparently substituted a
+substantially lower figure. Thorpe LJ said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“32.&nbsp;&nbsp;&nbsp;&nbsp; … In any application
+under section 31 the Applicant’s needs are likely to be the dominant or
+magnetic factor. But it does not follow that the respondent is inevitably
+responsible financially for any established needs. He is not an insurer against
+all hazards nor, when fairness is the measure, is he necessarily liable for
+needs created by the applicant’s financial mismanagement, extravagance or
+irresponsibility …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">33.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thus in the present case
+the wife’s failure to utilise her earning potential, her subsequent abandonment
+of the secure financial future provided for her by the husband, her choice of a
+more hazardous future in Australia, together with her lifestyle choices in
+Australia, were all productive of needs which she had generated and for which
+the husband should not as a matter of fairness be held responsible in law.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>And third, <i>Yates v Yates</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/532.html">[2012] EWCA Civ 532</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2012/532.html">[2013] 2 FLR 1070</a>.
+Under a consent order the wife had received a substantial lump sum on the basis
+that she would use half of it in discharging a mortgage on her home. In the
+event she had repaid only part of the mortgage debt and had invested in a
+non-income-bearing bond the sum which she had thus elected not to apply to full
+clearance of the mortgage. When, later, a judge came to capitalise her right to
+continuing periodical payments, he included in his calculation of her need the
+amount of interest payable by her in respect of the residual mortgage debt. The
+Court of Appeal held that the inclusion had been wrong. Thorpe LJ said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“12.&nbsp;&nbsp;&nbsp;&nbsp; … It seems to me little
+more than common sense that if a recipient of a lump sum twice the size of the
+mortgage on the final matrimonial home elects to hold back capital made
+available for the mortgage discharge in order to invest in a bond that bears no
+income, she cannot look to the payer thereafter for indemnity or contribution
+to the continuing mortgage interest payments. That seems to me to be an
+absolutely self-evident point.”</p>
+
+<p class="ParaLevel1">Lewison LJ said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“21.&nbsp;&nbsp;&nbsp;&nbsp; … the need to pay the
+mortgage at all arose from her own choice not to apply … the lump sum in
+discharging the existing mortgage … The financial consequences of her
+investment choice are her responsibility. It is wrong in principle for the
+husband to have to continue to fund the mortgage.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Feehan QC, who, like Ms Dunseath, nobly appears for the wife without
+fee, seeks to distinguish the mortgage instalments disallowed in the cases of <i>Pearce</i>
+and <i>Yates</i> from payments of rent. I see no relevant distinction. He also
+submits that, unlike the present case, all three of the decisions concerned the
+capitalisation of an entitlement to periodical payments and that what was there
+rightly disallowed was the insinuation into the lump sum thus payable of a sum
+more reflective of an impermissible second claim for capital provision than of
+a permissible claim for conversion into capital of an income entitlement. Mr
+Feehan relies in particular on the statement of Thorpe LJ in the <i>Pearce</i>
+case, quoted at para 36 above. I reject the submission. As the Court of Appeal
+valuably established in that case, the first step in the exercise of
+capitalisation is a calculation of the amount of periodical payments to which,
+in the absence of capitalisation, the payee would then have been entitled. It
+was in the course of making this calculation that in the three decisions the
+objectionable elements of the claim were disallowed. Even had there been no
+capitalisation of the entitlement to periodical payments, those elements would
+therefore have been disallowed in quantifying the amount of the ongoing order
+for periodical payments.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The cases of <i>Pearce</i>, <i>North</i> and <i>Yates</i> were correctly
+decided. The answer to the question posed in para 1 above is yes. By its terms
+that question asks only whether a court would be “entitled”, rather than
+obliged, in the circumstances there identified to decline to require the
+husband to fund payment of the rent. Its reference to the court’s entitlement
+to do so serves to respect the wide discretion conferred upon it by section
+31(1) and (7) of the Act in determining an application for variation of an
+order for periodical payments. But, in the passages quoted above, the Court of
+Appeal has expressed itself in forceful terms; and a court would need to give very
+good reasons for requiring a spouse to fund payment of the other spouse’s rent
+in the circumstances identified by the question. A spouse may well have an
+obligation to make provision for the other; but an obligation to duplicate it
+in such circumstances is most improbable.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge was clearly entitled to decline to vary the order for
+periodical payments so as to require the husband to pay all of the wife’s rent.
+The order of the Court of Appeal should be set aside and his order restored.</a></p><a name="para41">
+
+</a></div><a name="para41">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/38.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

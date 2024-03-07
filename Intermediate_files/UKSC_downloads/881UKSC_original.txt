@@ -1,0 +1,370 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Revenue and Customs v Vermilion Holdings Ltd (Scotland) [2023] UKSC 37 (25 October 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:Gisha;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Revenue and Customs v Vermilion Holdings Ltd (Scotland) [2023] UKSC 37 (25 October 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/37.html</i>
+<br>Cite as: 
+[2023] STI 1478,
+
+[2023] WLR 3908,
+
+[2023] 1 WLR 3908,
+
+2023 SLT 1089,
+
+2023 GWD 42-349,
+
+[2023] UKSC 37,
+
+[2023] STC 37
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/37.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2020004856/casereport_bcd9f7c8-f37b-4980-af4d-23e968f00ddb/html">[2023] 1 WLR 3908</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/37.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/37.image1.pdf">Issues &amp; Facts</a></span></b></p>  <div class="WordSection1">  
+
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b><span style="font-family:&quot;Times New Roman&quot;,serif">Michaelmas Term</span></b></a></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b><span style="font-family: &quot;Times New Roman&quot;,serif">[2023] UKSC 37</span></b></p>  
+
+<p class="JudgmentReferences"><i><span style="font-family:&quot;Times New Roman&quot;,serif">On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2021/2021_CSIH_45.html">[2021] CSIH 45</a></span></i></p>  
+
+<p class="JudgmentTitle"><span style="font-family:&quot;Times New Roman&quot;,serif">JUDGMENT</span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">Commissioners for His Majesty's Revenue and Customs (Appellants)</span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;<i>v</i> </span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">Vermilion Holdings Ltd (Respondent) (Scotland)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif;font-weight:normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-family:&quot;Times New Roman&quot;,serif;font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Hodge, Deputy President</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Lloyd-Jones</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Leggatt</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Burrows</span></p>  
+
+<p class="JudgmentJudges"><span style="font-family:&quot;Times New Roman&quot;,serif">Lady Rose</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">JUDGMENT GIVEN ON</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">25 October 2023</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">&nbsp;</span></p>  
+
+<p class="JudgmentJudges"><span style="font-family:&quot;Times New Roman&quot;,serif">Heard on 7 February 2023</span></p>  </div>  <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i><span style="font-family:&quot;Times New Roman&quot;,serif">Appellants</span></i></a></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Julian Ghosh KC</span></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Roddy MacLeod</span></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Laura Ruxandu</span></p>  
+
+<p class="JudgmentAppRespInt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Instructed by </span><span style="font-family:&quot;Times New Roman&quot;,serif">the Office of the Advocate General (Scotland)</span><span style="font-family:&quot;Times New Roman&quot;,serif">)</span></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i><span style="font-family:&quot;Times New Roman&quot;,serif">Respondent</span></i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Philip Simpson KC</span></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">David Pett</span></p>  
+
+<p class="JudgmentAppRespInt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Instructed by </span><span style="font-family:&quot;Times New Roman&quot;,serif">Gilson Gray LLP (Edinburgh)</span><span style="font-family:&quot;Times New Roman&quot;,serif">)</span></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280"><span style="font-family:&quot;Times New Roman&quot;,serif">LORD HODGE (</span></a><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">with whom Lord Lloyd-Jones, Lord Leggatt, Lord Burrows and Lady Rose agree</span><span style="font-family:&quot;Times New Roman&quot;,serif">): </span></p> <ol> 
+
+<li value="1"><a name="para1"> <span style="font-family:&quot;Times New Roman&quot;,serif">This appeal is concerned with the correct interpretation of section 471 of the Income Tax (Earnings and Pensions) Act 2003 (“ITEPA”). This section, with its related sections, imposes a liability to income tax as employment income in relation to gains made on the exercise of a share option if it is treated as an employment-related securities option. </span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">(1) The factual background</span></p>  
+
+<li value="2"><a name="para2"> <span style="font-family:&quot;Times New Roman&quot;,serif">I can state the background facts briefly as their detail is not relevant to the outcome of this appeal. I make this summary from the uncontested findings of fact of Dr Heidi Poon in the First-tier Tribunal (“</span></a><a href="http://www.bailii.org/uk/cases/UKFTT/TC/2019/TC07077.html">FTT</a>”). There were two witnesses, Mr Marcus Noble, a corporate adviser and mergers and acquisition specialist, and Mr Kevan McDonald, who was, before his retirement, a partner in the corporate law firm of Dickson Minto WS. The FTT found both witnesses to be credible and reliable. Thus, I take it that, unless the context were to suggest otherwise, when the FTT summarised or quoted what a witness said, it was finding as a fact the content of that statement.
+</li>
+<p> </p>  
+
+<li value="3"><a name="para3"> <span style="font-family:&quot;Times New Roman&quot;,serif">Vermilion Software Ltd was incorporated in 2003 principally to market a software product for the fund management sector and provide support and servicing of the product. In 2006 the business arranged further equity funding from new investors. This exercise involved the creation of a holding company, Vermilion Holdings Ltd (“Vermilion”), which is the entity that HM Revenue and Customs Commissioners (“HMRC”) found liable to pay tax in connection with a further fund-raising exercise in 2007 as explained below. Vermilion was the appellant before the FTT.</span>
+</a></li>
+<p> </p>  
+
+<li value="4"><a name="para4"> <span style="font-family:&quot;Times New Roman&quot;,serif">The 2006 funding exercise involved the carrying out of due diligence on Vermilion Software Ltd and approaching credible investors. Quest Advantage Ltd (“Quest”), a company owned by Mr Noble and Mr Scott Carnegie, a chartered accountant and business adviser, was brought in to produce a business plan and financial projection and Dickson Minto was recruited as legal adviser for the 2006 exercise. As the costs of the 2006 exercise exceeded its budget, Vermilion granted a “supplier option” to each of Quest and 22 Nominees Ltd (Dickson Minto’s nominee) to acquire ordinary shares in Vermilion representing up to 2.5 per cent of that company’s share capital. The contract between Vermilion and Quest provided for the option to be exercised within ten years of the date of the agreement.</span>
+</a></li>
+<p> </p>  
+
+<li value="5"><a name="para5"> <span style="font-family:&quot;Times New Roman&quot;,serif">Unfortunately, by the end of 2006 it was clear that the business was underperforming. By January 2007 income was not coming in and Vermilion was running out of working capital. Mr Noble’s assessment was that Vermilion “was going to go bust”, that in any rescue the management and administration would all “take a bath” and that everyone, including the option holders, was “to get diluted”. &nbsp;In other words, there had to be what the FTT described as a “rescue funding exercise” which would reduce the entitlements of existing stakeholders. In February 2007 an outline plan to refinance Vermilion was prepared, which involved among other things Quest and Dickson Minto amending their supplier options to reduce their entitlements.</span>
+</a></li>
+<p> </p>  
+
+<li value="6"><a name="para6"> <span style="font-family:&quot;Times New Roman&quot;,serif">The rescue funding exercise involved as preconditions the departure of the managing director, and the reduction of the entitlements of the existing shareholder directors. The directors’ A Shares were to be replaced by non-voting shares, their equity interest would be diluted by the new investment of share capital, and their remuneration would be reduced. It was also a precondition of the further investment of funds that Mr Noble be appointed as executive chairman of Vermilion. It was another precondition of the further investment of funds that the supplier options were to be varied by reducing the amount of equity which would be available under the options. Dickson Minto and Quest conceded this as their options would have become worthless if the rescue funding exercise did not proceed. </span>
+</a></li>
+<p> </p>  
+
+<li value="7"><a name="para7"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;In the event, agreements to vary the supplier options were not prepared and, instead, new option agreements were executed. The option agreement between Vermilion and Quest, which was executed on 2 July 2007, gave Quest an option to subscribe for a new class of shares - F ordinary shares - in such numbers as would represent up to a maximum of 1.5 per cent of Vermilion’s issued equity share capital. &nbsp;No consideration was paid for Vermilion’s grant of the option, but it was provided that the 2006 option agreement would lapse from the time the new option agreement was executed.</span>
+</a></li>
+<p> </p>  
+
+<li value="8"><a name="para8"> <span style="font-family:&quot;Times New Roman&quot;,serif">Moving on nine years, in June 2016, in the context of a proposed sale of Vermilion’s shares to another company, a novation agreement was entered into whereby Quest was replaced by Mr Noble as the holder of the 2007 option. Mr Noble exercised the option. In November 2016 Mr Noble and Vermilion submitted a non-statutory clearance request to HMRC seeking their agreement that the gain in the sum of £636,238 on the exercise of the 2007 option by Mr Noble was liable to Capital Gains Tax. On 14 December 2016 HMRC gave their decision that the 2007 option was an employment-related securities option. The decision was that the exercise of the option was a chargeable event and the taxable amount of the gain on acquiring the securities counted as employment income of Mr Noble in the relevant tax year.</span>
+</a></li>
+<p> </p>  
+
+<li value="9"><a name="para9"> <span style="font-family:&quot;Times New Roman&quot;,serif">HMRC assessed Vermilion in the tax year 2016-17 in the sum of £285,148.76 under Regulation 80 of the Income Tax (Pay as You Earn) Regulations 2003 (SI 2003/2682) and for National Insurance Contributions in the sum of £100,709.98 under section 8 of the Social Security Contributions (Transfer of Functions, etc) Act 1999. Vermilion appealed those assessments. As the FTT recorded in its decision, Vermilion has an indemnity from Mr Noble for any tax consequences arising from the exercise of the option. Vermilion is the appellant, but Mr Noble has the economic interest in the outcome of Vermilion’s appeal.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">(2) The relevant statutory provisions</span></p>  
+
+<li value="10"><a name="para10"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;Part 7 of ITEPA is headed “Employment Income: Income and Exemptions Relating to Securities”. Chapter 5 of that Part relates to securities options. The critical section for this appeal in that chapter is section 471 which provides (so far as relevant):</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“Options to which this Chapter applies</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(1) This Chapter applies to a securities option acquired by a person where the right or opportunity to acquire the securities option is available by reason of an employment of that person or any other person.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(2) For the purposes of subsection (1) ‘employment’ includes a former or prospective employment.</span></p>  
+
+<p class="MsoQuote"><span class="QuoteChar"><span style="font-family:&quot;Times New Roman&quot;,serif">(3) A right or opportunity to acquire a securities option</span></span><span style="font-family:&quot;Times New Roman&quot;,serif"> <span class="QuoteChar"><i><span style="font-family:&quot;Times New Roman&quot;,serif">made available by a person’s employer,</span></i></span> <span class="QuoteChar"><span style="font-family: &quot;Times New Roman&quot;,serif">or a person connected with a person’s employer,</span></span> <span class="QuoteChar"><i><span style="font-family:&quot;Times New Roman&quot;,serif">is to be regarded for the purposes of subsection (1) as available by reason of an employment of that person unless - </span></i></span></span></p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the person by whom the right or opportunity is made available is an individual, and </span></p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the right or opportunity is made available in the normal course of the domestic, family or personal relationships of that person. (Emphasis added)</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(4) …</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(5) In this Chapter –</span></p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">‘the acquisition’, in relation to an employment-related securities option, means the acquisition of the employment-related securities option pursuant to the right or opportunity available by reason of the employment.</span></p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">‘the employment’ means the employment by reason of which the right or opportunity to acquire the employment-related securities option is available (‘the employee’ and ‘the employer’ being construed accordingly), and</span></p>  
+
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">‘employment-related securities option’ means a securities option to which this Chapter applies.” </span></p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif">(3) </span><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">The relevant case law on section 471</span></p>  
+
+<li value="11"><a name="para11"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;&nbsp;Section 471(1) asks whether a securities option is available “by reason of an employment of that person …”. This raises a question of causation which the Court of Appeal of England and Wales discussed in relation to analogous statutory provisions in <i>Wicks v Firth </i>[1982] Ch 355: see Lord Denning MR at p 363 and Oliver LJ at pp 370-371. That case concerned the taxation of university scholarships which ICI provided by means of a discretionary trust to children of its employees or certain of its subsidiaries’ employees. The relevant statutory provision was section 61(1) of the Finance Act 1976, which taxed fringe benefits of higher-paid employees. Lord Denning stated that the fact of employment must be one of the causes of the benefit being provided: “It is sufficient if the employment was an operative cause - in the sense that it was a condition of the benefit being granted.” Oliver LJ stated (p 371):</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“One is directed to see whether the benefit is provided by reason of the employment and in the context of these provisions that, in my judgment, involves no more than asking the question ‘what is it that enables the person concerned to enjoy the benefit?’ without the necessity for too sophisticated an analysis of the operative reasons why that person may have been prompted to apply for the benefit or to avail himself of it.”</span></p>  
+
+<p class="ParaNoNumber"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;As the decisions of the tribunals and opinions of the Inner House in this appeal demonstrate, ascertaining the reason why a right or opportunity to acquire a securities option has been made available can give rise to disagreement. In the House of Lords (<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1982/TC_56_318.html">[1983] 2 AC 214</a>) the relevant point in <i>Wicks v Firth</i> was decided on the deeming provision in section 72(3) of the 1976 Act, which provided that, where an employer made provision for an employee or members of his family, that provision was deemed to be paid or made by reason of his employment. This provision is analogous to section 471(3) of ITEPA. The House did not therefore address the meaning of “by reason of” in section 61(1) of that Act, which is analogous to section 471(1) of ITEPA: see the speech of Lord Templeman p 234E-G.</span></p>  
+
+<li value="12"><a name="para12"> <span style="font-family:&quot;Times New Roman&quot;,serif">Later case law has generally favoured Oliver LJ’s approach to the meaning of “by reason of”. See <i>Mairs v Haughey</i> [1992] STC 495, Sir Brian Hutton LCJ at p 525; <i>Wilcock v Eve</i> [1995] STC 18, Carnwath J at p 29; and <i>Charman v Revenue and Customs Comrs</i> </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2021/167.html">[2022] 1 WLR 2277</a>, Arnold LJ at para 47.
+</li>
+<p> </p>  
+
+<li value="13"><a name="para13"> <span style="font-family:&quot;Times New Roman&quot;,serif">As explained below, I do not think that it is necessary in this case to dwell on the meaning of “by reason of” in section 471(1) of ITEPA as the appeal turns on the application of the deeming provision in section 471(3).</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">(4) The decisions of the tribunals and the Inner House</span></p>  
+
+<li value="14"><a name="para14"> <span style="font-family:&quot;Times New Roman&quot;,serif">The FTT held that the 2007 option was not an employment-related securities option for the purposes of section 471 of ITEPA. </span>
+</a></li>
+<p> </p>  
+
+<li value="15"><a name="para15"> <span style="font-family:&quot;Times New Roman&quot;,serif">Before the FTT HMRC mounted a case based on the deeming provision in section 471(3), arguing that because Vermilion employed Mr Noble as a director and provided his nominee, Quest, with the right to acquire an option by granting him the 2007 Option, the right so conferred was to be regarded for the purposes of section 471(1) as available by reason of Mr Noble’s employment. HMRC did not at this stage advance a separate argument under section 471(1) bereft of the deeming provision of section 471(3).</span>
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> <span style="font-family:&quot;Times New Roman&quot;,serif">The FTT, after considering the proper approach to statutory interpretation, stated correctly (in para 96) that the critical issue on the appeal was the interpretation of the deeming provision in section 471(3). The FTT started by looking at the meaning of “by reason of an employment” which appears in section 471(1) and (3). Dr Poon quoted from the judgment of Lord Denning MR in <i>Wicks v Firth</i>, at p 363, to the effect that it was sufficient that the fact of employment was the “but for” cause of the receipt of the benefit; in other words, the employee would not have received the option unless he had been an employee. She found that the reason Quest received the option was not that Mr Noble was an employee but that the right to acquire the 2007 option emanated from the right which had existed under the 2006 option. Having made that determination, the FTT then addressed the question whether the deeming provision applied to the facts of the case. At para 127 the FTT summarised the legal propositions derived from an analysis of the case law to the effect that Parliament was presumed not to intend injustice or absurdity to result from a deeming provision, and, if a literal interpretation of a deeming provision gave rise to such injustice or absurdity, the court should, if the language of the deeming provision permitted it, interpret the provision in a manner which avoided such a result. Dr Poon referred to <i>Harding v Revenue and Customs Comrs</i> </span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2008/1164.html">[2008] EWCA Civ 1164</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2008/1164.html">[2008] STC 3499</a>, Lawrence Collins LJ at para 51; <i>Marshall v Kerr</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1994/TC_67_56.html">[1995] 1 AC 148</a>, Lord Browne-Wilkinson at pp 164, 170; and <i>Jenks v Dickinson</i> [1997] STC 853, Neuberger J at pp 878-879, in support of those propositions.
+</li>
+<p> </p>  
+
+<li value="17"><a name="para17"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The FTT attached significance to the fact that the deeming provision (subsection (3)) was separate from subsection (1), and accepted the submission of Vermilion’s counsel, Mr Philip Simpson KC, that subsection (3) was subordinate to subsection (1) (paras 129, 136 and 137). I set out in full the two paragraphs in which the FTT set out its conclusions as I will return to them in my analysis: </span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“140. The ambit of the deeming provision should be limited where the artificial assumption from deeming is at variance with the factual reason that gave rise to the right to acquire the option. As I have stated earlier, the 2007 Option was not made available by reason of Mr Noble’s ‘employment’ (directorship) in Vermilion.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">141. In the alternative, the deeming effect of subsection (3) can be limited by adopting Mr Simpson’s submissions in relation to the interpretation of who (or what) had ‘made available’ the right or opportunity for Mr Noble to acquire the 2007 Option. The analysis of the underlying causes that led to the grant of the 2007 Option, and the economic mechanism whereby the 2007 Option came to be granted, when viewed realistically, meant that Mr Noble’s right to acquire the 2007 Option was not ‘made available’ by Vermilion as his ‘employer’.”</span></p>  
+
+<li value="18"><a name="para18"> <span style="font-family:&quot;Times New Roman&quot;,serif">In the Upper Tribunal HMRC received permission to argue their case under section 471(1) as well as 471(3), although they had relied exclusively on the latter provision before the FTT. The Upper Tribunal (Lord Ericht and Judge Dean) decided the appeal solely on the question of section 471(1), holding that the FTT had erred in law and that it was a condition of the grant of the 2007 Option that Mr Noble was employed as a director. The Upper Tribunal (para 86) did not address the deeming provision in section 471(3). As in my view this appeal is to be determined by reference to the deeming provision, it is not necessary to consider the Upper Tribunal’s judgment further.</span>
+</a></li>
+<p> </p>  
+
+<li value="19"><a name="para19"> <span style="font-family:&quot;Times New Roman&quot;,serif">The Inner House of the Court of Session allowed Vermilion’s appeal by majority. The majority (Lord Malcolm and Lord Doherty) decided that, on a realistic view of the facts, the reason that Mr Noble, through Quest, received the 2007 option was that he had agreed to give up part of his entitlement under the 2006 option. Lord Malcolm agreed (para 55) with the FTT’s summary of the case law on deeming provisions which was consistent with the later guidance of this court in <i>Fowler v Revenue and Customs Comrs</i> </span></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2020/22.html">[2020] UKSC 22</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2020/22.html">[2020] 1 WLR 2227</a>, para 27. At para 58 of his judgment, Lord Malcolm agreed with the FTT’s reasoning at para 140 which I have set out above. He stated (para 58) that he considered it “an error to categorise subsection (3) as a separate and distinct route to taxation which is available even if it has been established that subsection (1) has no application.” Secondly, Lord Malcolm considered that subsection (3) did not apply because no right or opportunity had been conferred by the 2007 option; instead, there had been a diminution of his entitlement. Thirdly, Lord Malcolm saw force in para 141 of the FTT’s reasoning which I set out above. Lord Doherty substantially agreed with Lord Malcolm, holding that the FTT was entitled to conclude that the 2007 option had been granted in return for the 2006 option being given up. He rejected the application of the deeming provision on the basis that it would be “anomalous, absurd and unjust” to treat the 2007 option as having been made available to Mr Noble by his employer (para 66).
+</li>
+<p> </p>  
+
+<li value="20"><a name="para20"> <span style="font-family:&quot;Times New Roman&quot;,serif">The Lord President, Lord Carloway, dissented. He addressed, first, the deeming provision in section 471(3). He referred to the guidance on deeming provisions in the judgment of this court in <i>Fowler v Revenue and Customs Comrs</i>, which I set out below. The purpose of the deeming provision was to avoid disputes as to whether the right to acquire an option was available “by reason of an employment”. The 2007 option was granted by Vermilion after Mr Noble had become its employee. Vermilion made available the option to him: that was how the 2007 option was structured. This involved no absurdity or anomaly. In relation to the analysis of causation under section 471(1), the Lord President observed that the 2006 option was worthless unless the refinancing of Vermilion went ahead and was therefore “of peripheral significance” (para 46). He agreed with the Upper Tribunal that one reason for the 2007 option was Mr Noble’s agreement to a package of measures which included his employment. The Lord President would have refused the appeal.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">(5)&nbsp; The correct approach to the deeming provision in section 471(3)</span></p>  
+
+<li value="21"><a name="para21"> <span style="font-family:&quot;Times New Roman&quot;,serif">The purpose of section 471 is to define the circumstances in which the exercise of a securities option is brought within the charge to income tax instead of being subjected to capital gains tax. The section does so by two methods. First, it provides in subsection (1) a causal test, asking whether the right or opportunity to acquire the securities option “is available by reason of an employment of that person or another person”. Secondly, in subsection (3), it avoids such questions as to causation where a person’s employer makes a right or opportunity to acquire a securities option available to him or her. This appeal can be determined by the application of the deeming provision in subsection (3). In this regard I agree with the Lord President.</span>
+</a></li>
+<p> </p>  
+
+<li value="22"><a name="para22"> <span style="font-family:&quot;Times New Roman&quot;,serif">The judgment of the Court of Appeal of England and Wales in <i>Wicks v Firth </i>vouches the causal nature of the subsection (1) test. See para 11 above. Application of the test set out in that case to particular facts can involve difficult judgments and judges may reasonably differ in their assessments as this appeal discloses. It is against that background that Parliament enacted the deeming provision in section 471(3). It is consistent with the approach of the House of Lords in <i>Wicks v Firth</i> that it is only if that deeming provision does not apply that one has to carry out the assessment of causation under section 471(1). </span>
+</a></li>
+<p> </p>  
+
+<li value="23"><a name="para23"> <span style="font-family:&quot;Times New Roman&quot;,serif">In the first case conducted remotely in the pandemic, <i>Fowler v Revenue and Customs Comrs</i>, this court, in a judgment of Lord Briggs with whom the other Justices agreed, gave guidance on the interpretation and application of deeming provisions. Lord Briggs summarised the guidance in para 27 of his judgment, which I consider to be a correct statement of the law. He stated:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“(1) The extent of the fiction created by a deeming provision is primarily a matter of construction of the statute in which it appears.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(2) For that purpose the court should ascertain, if it can, the purposes for which and the persons between whom the statutory fiction is to be resorted to, and then apply the deeming provision that far, but not where it would produce effects clearly outside those purposes.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(3) But those purposes may be difficult to ascertain, and Parliament may not find it easy to prescribe with precision the intended limits of the artificial assumption which the deeming provision requires to be made.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(4) A deeming provision should not be applied so far as to produce unjust, absurd or anomalous results, unless the court is compelled to do so by clear language.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(5) But the court should not shrink from applying the fiction created by the deeming provision to the consequences which would inevitably flow from the fiction being real. …”.</span></p>  
+
+<li value="24"><a name="para24"> <span style="font-family:&quot;Times New Roman&quot;,serif">It is not difficult to ascertain the purpose of the deeming provision in section 471(3). The causation questions which can arise under section 471(1) may be difficult and may give rise to disagreement among judges as has occurred in this case. To avoid such difficult questions, subsection (3) creates a bright line rule: if a person’s employer (or a person connected to that person’s employer) provides the employee the right or opportunity to acquire a securities option, that right or opportunity is conclusively treated as having been made available by reason of the employment of that person (unless subsections (a) and (b) apply). This involves a straightforward examination of the agreement or transaction to ascertain <i>who</i> conferred the right or opportunity. The question is not concerned with the reason why the employer conferred the right or opportunity. In this case the correct question was: did Vermilion confer the 2007 option on Mr Noble’s nominee while Mr Noble was its employee? The answer is that it did. In my view, the Lord President was correct to state that the first question to be addressed is whether section 471(3) applies, precisely because it circumvents the potentially more difficult questions of causation to which section 471(1) may give rise. What Parliament has done in enacting section 471(3) is to make clear that if an employer makes available, in this case confers by contract, a securities option, that option is treated as being an employment-related securities option.</span>
+</a></li>
+<p> </p>  
+
+<li value="25"><a name="para25"> <span style="font-family:&quot;Times New Roman&quot;,serif">That is what has occurred in this case. The 2006 option was cancelled, not varied. Vermilion conferred a new option, over a different and new class of shares, on Quest. In so doing Vermilion fell within the deeming provision. </span>
+</a></li>
+<p> </p>  
+
+<li value="26"><a name="para26"> <span style="font-family:&quot;Times New Roman&quot;,serif">Both the FTT and the majority of the Inner House considered that the application of the deeming provision produced an absurd, anomalous, or unjust result. I disagree. At para 140 of its judgment (para 17 above) the FTT stated that it was appropriate to limit the effect of the deeming provision because its application yielded a result which contradicted the conclusion which the FTT had reached on the causation question raised by section 471(1). This was an error of law. It put the cart before the horse: the purpose of the deeming provision is to avoid the decision-maker having to carry out the section 471(1) assessment. There is no anomaly here.</span>
+</a></li>
+<p> </p>  
+
+<li value="27"><a name="para27"> <span style="font-family:&quot;Times New Roman&quot;,serif">Similarly, in para 141 (para 17 above) the FTT erred in law in giving effect to Mr Simpson’s submission that the employer did not make the 2007 option available to Mr Noble because it was made available by Mr Noble’s surrender of his 2006 option, which had been granted for his prior services as an external adviser. The submission addressed a question of causation and not the question as to who conferred the 2007 option. The FTT sought to apply to the interpretation of the deeming provision under subsection (3) the questions of causation which are relevant to the exercise under subsection (1). This is an error as it denudes the deeming provision of any substance.</span>
+</a></li>
+<p> </p>  
+
+<li value="28"><a name="para28"> <span style="font-family:&quot;Times New Roman&quot;,serif">This defect is clear also in Lord Malcolm’s reasoning in the Inner House (para 19 above). In my view, the error lies in the reasoning that subsection (3) is not a separate route to the conclusion that an option is an employment-related securities option even where analysis of causation in a section 471(1) would lead to the opposite conclusion. This approach robs the deeming provision of its substance. As I have said, the purpose of the deeming provision is to avoid the inquiry into causation. It is not open to the taxpayer to defend a demand for tax from HMRC by carrying out the subsection (1) exercise in order to disapply the subsection (3) deeming provision.</span>
+</a></li>
+<p> </p>  
+
+<li value="29"><a name="para29"> <span style="font-family:&quot;Times New Roman&quot;,serif">Lord Malcolm’s reasoning on the interpretation of subsection (3), in para 59 of his judgment, that the employer, Vermilion, did not bestow any right or opportunity on Mr Noble by giving him the 2007 option because that right amounted to a diminution of his prior entitlement under the 2006 option suffers from the same defect. It is essentially the same argument as that which the FTT set out in para 141 of its judgment.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</a></li>
+<p> </p>  
+
+<li value="30"><a name="para30"> <span style="font-family:&quot;Times New Roman&quot;,serif">The FTT and Lord Doherty in the Inner House appear to have been influenced by the reasoning of Judge Hellier in <i>Price v Revenue and Customs Comrs</i> </span></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2013/TC02703.html">[2013] UKFTT 297 (TC)</a>. That appeal concerned a tax avoidance scheme to create a loss to offset against taxable income by the acquisition and exercise of securities options and the sale of the shares so acquired at an apparent loss. So far as relevant to this appeal, the question for the FTT in that case was whether, where A's employer has made available to him a securities option and A assigns the option to B, B has had the right made available to him by reason of A’s employment. The FTT in that case first addressed section 471(1) and concluded that the reason the opportunity was granted to A was the tax scheme and not A’s directorship of the company which employed him. Turning to subsection (3) at paras 83-84, Judge Hellier stated:
+</li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“83. We now turn to the effect of subsection (3). It seems to us that subsection (3) is intended to have a wide effect. It is intended to avoid having to ask the factual question ‘did this come from the employment’ when an employee gets something made available by his or her employer. The carve out for individuals providing domestic benefits (such as a birthday present for a son working in his mother’s business) shows how wide the deeming is intended to be.</span></p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">84. But it does seem to us that some constraint on a wholly literal construction is intended. For example: A large bank will have employees. If that bank made available to a customer an option, it would on a literal construction of (3) make that option available by reason of any of its employees’ employment - since it is made available ‘by a person’s employer’. If that is the case the customer’s acquisition of the option would fall within (1) even though there is no real link to employment and the customer’s exercise of the option would be taxable under section 476. If subsection (3) is read in this way then the effect of (1) and (3) could be achieved simply by saying that the Chapter applies if an option is made available to anyone by a person who employs someone. That is plainly not their purpose.” &nbsp;</span></p>  
+
+<li value="31"><a name="para31"> <span style="font-family:&quot;Times New Roman&quot;,serif">Lord Doherty (at para 66) appears to have tentatively accepted the submissions of Vermilion’s counsel that these statements meant that, where an option was made available to all the bank’s customers and some of those customers happened also to be employees of the bank, it could not be said that the right or opportunity had been made available to them by their employer in terms of section 471(3). But that is not what Judge Hellier was discussing. He was addressing in this hypothetical example the question whether customers, who were not employees, were caught by section 471 because the bank was an employer of others. He was addressing the meaning of the words “<i>a </i>person’s employer” in section 471(3), and recognising that although the hypothetical bank did employ people that was not enough to engage the deeming provision; see the last two sentences of para 84 of his judgment. Judge Hellier was not addressing the proposition that customers, who were employees, would be caught by section 471(3) as is clear from his analysis of the purpose of subsection (3) in the following paragraph:</span>
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">“85. That purpose seems to us to be the provision of an automatic link to employment if the recipient of the opportunity is an employee, and in other cases the requiring of an investigation as to whether or not there is in fact a link between the employment and the opportunity. As a result we regard (3) as limited to the making available of an opportunity to an employee by that employee’s employer (or person connected with that employer).”</span></p>  
+
+<li value="32"><a name="para32"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Judge Hellier concluded (paras 86-88) that the opportunity which A gave B to acquire the options was not the same as the opportunity which had been made available to A by his employer and as a result B’s opportunity was not made available by reason of A’s employment. In consequence chapter 5 of Part 7 of ITEPA did not apply to the options in B’s hands. The decision gives no support to Vermilion. On the contrary, the discussion of section 471(1) and (3) in paras 83-85 of that decision supports HMRC’s case on subsection (3).</span>
+</a></li>
+<p> </p>  
+
+<li value="33"><a name="para33"> <span style="font-family:&quot;Times New Roman&quot;,serif">There is to my mind no anomaly, absurdity or injustice in giving effect to the deeming provision of section 471(3) in this case. As I have said, the purpose of section 471(3) is to circumvent the difficult issues that can arise in the application of section 471(1). The statutory provision makes clear that if an employer makes available to an employee a securities option, that option will be treated in the employee’s hands as an employment-related securities option and taxed accordingly. Vermilion, which at the relevant time was Mr Noble’s employer, made available to his nominee such an option. Vermilion’s reason for so doing is irrelevant when section 471(3) applies.</span>
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif">(6) </span><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">Conclusion</span></p>  
+
+<li value="34"><a name="para34"> <span style="font-family:&quot;Times New Roman&quot;,serif">I would allow the appeal. </span>
+</a></li>
+<p> </p>  </ol></div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/37.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

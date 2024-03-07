@@ -1,0 +1,1076 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>P  v Commissioner of Police of the Metropolis [2017] UKSC 65 (25 October 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      P  v Commissioner of Police of the Metropolis [2017] UKSC 65 (25 October 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/65.html</i>
+<br>Cite as: 
+[2017] WLR(D) 696,
+
+[2018] IRLR 66,
+
+[2017] UKSC 65,
+
+[2018] 1 All ER 1011,
+
+[2018] ICR 560,
+
+[2018] 2 CMLR 4
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/65.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2016000501/casereport_01b97aaf-2c41-43da-8f6e-9e116fa9d718/html">[2017] WLR(D) 696</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2016000501/casereport_269eeff0-582d-48b8-ab49-3863c7e1a614/html">[2018] ICR 560</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/65.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 65</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/2.html">[2016] EWCA Civ 2</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">P (Appellant) <i>v</i> Commissioner of Police of the
+Metropolis (Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">25 October 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 3 and 4 May 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:99.75pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Karon Monaghan QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Edward Kemp</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Slater &amp; Gordon (UK) LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Thomas Linden QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jesse Crozier</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Metropolitan Police Service, Directorate of Legal Services)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:71.25pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener (1st)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Paul Bowen QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Equality and Human Rights Commission)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr style="height:57.0pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:57.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:57.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:57.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Interveners (2<sup>nd</sup>)
+  (written submissions only)</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">D Peter Herbert OBE</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Equality and Human Rights Commission</p>
+
+<p class="MsoNormal">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Society of Black Lawyers, Operation Black
+Vote</p>
+
+<p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Association of Muslim Lawyers,</p>
+
+<p class="MsoNormal" style="text-indent:36.0pt">NHS BME Network,</p>
+
+<p class="MsoNormal" style="margin-left:36.0pt">BARAC,</p>
+
+<p class="MsoNormal" style="margin-left:36.0pt">BLAKSOX,</p>
+
+<p class="MsoNormal" style="margin-left:36.0pt">The Runneymede Charitable Trust
+and</p>
+
+<p class="MsoNormal" style="margin-left:36.0pt">The National Black Police
+Association</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD REED: (<span style="text-transform:none">with whom Lady
+Hale, Lord Kerr, Lord Wilson and Lord Hughes agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the directly effective right of police officers
+under EU law to have the principle of equal treatment applied to them. The
+question raised is whether the enforcement of that right by means of
+proceedings in the Employment Tribunal is barred by the principle of judicial
+immunity, where the allegedly discriminatory conduct is that of persons
+conducting a misconduct hearing.</a></p><a name="para1">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The material facts are in short compass. The appellant was assaulted in
+2010, while serving as a police officer, and subsequently suffered
+post-traumatic stress disorder (“PTSD”). In 2011, she was involved in an
+incident which led to her arrest. She asserted that her behaviour on that
+occasion was related to her PTSD. After investigation, she was made the subject
+of a disciplinary charge before a misconduct hearing constituted under the Police
+(Conduct) Regulations 2008 (SI 2008/2864) (“the 2008 Regulations”). There,
+apart from one issue of fact which was resolved in her favour, she accepted
+that she had been guilty of the misconduct alleged. She relied on her good
+record as a police officer and her PTSD in mitigation. On 12 November 2012, the
+persons conducting the hearing (“the panel”) imposed the sanction of dismissal
+without notice.</a></p><a name="para2">
+
+<p class="ParaHeading">The proceedings below</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant appealed against her dismissal to the Police Appeals
+Tribunal, which could allow her appeal if it considered the disciplinary action
+taken to be unreasonable. She also instituted proceedings against the
+Commissioner of Police of the Metropolis (“the Commissioner”) in an Employment
+Tribunal under the Equality Act 2010 (“the 2010 Act”), in which she claimed
+that the decision to dismiss her constituted discrimination arising from
+disability and disability-related harassment, and was consequential upon a
+failure to make reasonable adjustments. In response, the Commissioner contended
+that the decision, and acts done by the panel in the course of the proceedings,
+were protected from challenge by the principle of judicial immunity. The appellant
+indicated her intention to seek a stay of her claim before the Employment
+Tribunal, pending the outcome of her appeal to the Police Appeals Tribunal,
+subject to the outcome of a pre-hearing review. In the event, a final
+determination was made by the Police Appeals Tribunal on 11 June 2013 that the
+appeal would not proceed.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following a pre-hearing review, the Employment Tribunal struck out the
+appellant’s claim on the basis that the panel was a judicial body, and that
+since the appellant’s claim was to the effect that its decision and the process
+by which it was reached were unlawfully discriminatory, the claim was barred by
+judicial immunity. An appeal against that decision was dismissed by the
+Employment Appeal Tribunal, applying the decision of the Court of Appeal in <i>Heath
+v Commissioner of Police of the Metropolis </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2004/943.html">[2004] EWCA Civ 943</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2004/943.html">[2005] ICR 329</a>. A further appeal was dismissed by the Court of Appeal on the basis that
+the present case was indistinguishable from <i>Heath</i>: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/2.html">[2016] EWCA Civ 2</a>;
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/2.html">[2016] IRLR 301</a>. Laws LJ, giving a judgment with which the other members of the
+court agreed, remarked:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“However I have been troubled by a
+particular feature of the case. If I am right, it would appear that claims of
+discriminatory dismissal brought by police officers, where the effective dismissing
+agent is a disciplinary panel such as was convened here, will not be viable in
+the Employment Tribunals; yet Parliament has legislated to allow such claims to
+be made.” (para 24)</p>
+
+<p class="ParaHeading">The EU dimension</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rights on which the appellant relies are directly effective rights
+under EU law. Council Directive 2000/78/EC (“the Framework Directive”) provides
+in article 1 that its purpose is to lay down a general framework for combating
+discrimination on the grounds of religion or belief, disability, age or sexual
+orientation as regards employment and occupation, with a view to putting into
+effect in the member states the principle of equal treatment.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That principle is defined in article 2(1) as meaning that there shall be
+no direct or indirect discrimination whatsoever on any of the grounds referred
+to in article 1. Article 2(2) defines direct and indirect discrimination.
+Article 2(3) provides that harassment shall be deemed to be a form of
+discrimination. Article 2(5) provides that the Directive shall be without
+prejudice to measures laid down by national law which, in a democratic society,
+are necessary for public security, for the maintenance of public order and the
+prevention of criminal offences, for the protection of health and for the
+protection of the rights and freedoms of others. It has not been suggested that
+article 2(5) has any relevance in the present context. Article 5 provides that
+compliance with the principle of equal treatment also requires reasonable
+accommodation to be provided in relation to persons with disabilities.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the scope of the Directive, article 3(1) provides that,
+within the limits of the areas of competence conferred on the Community, the Directive
+shall apply to “all persons, as regards both the public and private sectors,
+including public bodies”, in relation to a variety of matters relating to
+employment and occupations, including “employment and working conditions,
+including dismissals”. Article 3(4) permits member states to exclude their armed
+forces from the application of the Directive, in so far as it relates to
+discrimination on the grounds of disability and age. There is no corresponding
+provision in relation to police forces.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to remedies and enforcement, article 9(1) requires member
+states to “ensure that judicial and/or administrative procedures ... for the
+enforcement of obligations under this Directive are available to all persons
+who consider themselves wronged by failure to apply the principle of equal
+treatment to them”. Article 17 requires member states to lay down the rules on
+sanctions applicable to infringements of the national provisions adopted
+pursuant to the Directive, and to take all measures necessary to ensure that
+they are applied. The sanctions may comprise the payment of compensation to the
+victim, and must be “effective, proportionate and dissuasive”.</a></p><a name="para8">
+
+<p class="ParaHeading">The Equality Act 2010</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Framework Directive is currently implemented in domestic law by the
+2010 Act. In Part 2 of the Act, section 4 identifies protected characteristics,
+including disability as defined by section 6. Section 13 defines discrimination
+as including the less favourable treatment of a person because of a protected
+characteristic. Sections 15 and 19 make further provision in relation to
+discrimination against disabled persons. Sections 20 to 22 make provision in
+relation to the duty to make reasonable adjustments for disabled persons.
+Section 26 makes provision in relation to harassment related to a protected
+characteristic.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In Part 5 of the Act, section 39 provides that an employer (A) must not
+discriminate against a person (B) in a variety of ways, including by dismissing
+B. It also provides that a duty to make reasonable adjustments applies to an
+employer. Section 40 provides that an employer (A) must not, in relation to
+employment by A, harass a person (B) who is an employee of A’s.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Special provision is made in relation to police officers by sections 42
+and 43. In particular, section 42(1) provides that, for the purposes of Part 5
+of the Act, holding the office of constable is to be treated as employment by
+the chief officer in respect of any act done by the chief officer in relation
+to a constable, and as employment by the responsible authority in respect of
+any act done by the authority in relation to a constable. That provision is
+necessary because, at common law, a police officer is not an employee but the
+holder of an office. The expressions “chief officer” and “responsible authority”
+are defined by section 43(2) and (3) respectively. In relation to officers in
+the Metropolitan Police, the former expression refers to the Commissioner, and
+the latter expression refers to the Mayor’s Office for Policing and Crime.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is relevant to note that section 42(1) is in substance a re-enactment
+of section 64A of the Disability Discrimination Act 1995, which was introduced
+by regulation 25 of the Disability Discrimination Act 1995 (Amendment)
+Regulations 2003 (SI 2003/1673). Those Regulations were made under the European
+Communities Act 1972 (“the 1972 Act”), in order to implement the Framework
+Directive.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ancillary provisions are set out in Part 8 of the 2010 Act. Section 109
+is concerned with the liability of employers and principals. Subsection (1)
+provides that anything done by a person (A) in the course of A’s employment
+must be treated as also done by the employer. Subsection (2) provides that
+anything done by an agent for a principal, with the authority of the principal,
+must be treated as also done by the principal.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 120 confers jurisdiction on an Employment Tribunal to determine
+complaints relating to contraventions of Part 5. Where a tribunal finds a
+contravention, it can make a declaration, order the payment of compensation, or
+make appropriate recommendations: section 124(2). It can thus provide a remedy,
+in cases of dismissal or other disciplinary action, without necessarily
+affecting the dismissal or other action itself.</a></p><a name="para14">
+
+<p class="ParaHeading">Police misconduct panels</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Police misconduct panels are established under regulations made by the
+Secretary of State in the exercise of powers conferred by the Police Act 1996.
+The Regulations which were in force at the time when section 64A of the
+Disability Discrimination Act 1995 was introduced left the final decision in
+cases of dismissal to the chief officer or the police authority. That position
+was altered by the 2008 Regulations, which were in force at the time of the
+appellant’s dismissal. Those Regulations were themselves revoked and replaced
+by the Police (Conduct) Regulations 2012 (SI 2012/2632) (“the 2012 Regulations”).
+The latter Regulations, as amended by the Police (Conduct) (Amendment)
+Regulations 2015 (SI 2015/626), are broadly (but not entirely) in similar
+terms.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Schedule to the 2008 Regulations sets out the standards of
+professional behaviour expected of police officers. Regulation 3(1) defines
+misconduct as a breach of the standards set out in Schedule 1, and gross
+misconduct as a breach so serious that dismissal would be justified. By
+regulation 5, the Regulations apply where an allegation comes to the attention
+of an appropriate authority which indicates that the conduct of a police
+officer may amount to misconduct or gross misconduct. In terms of regulation
+3(1), the “appropriate authority”, where the officer concerned is a senior
+officer (defined as meaning an officer holding a rank above that of chief
+superintendent) is the police authority, and in any other case is the chief
+officer. In the present case, the appropriate authority was the chief officer.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ignoring immaterial details, the procedure after an allegation comes to
+the attention of the appropriate authority can be summarised as follows. The
+appropriate authority is required by regulation 12(1) to assess whether the
+conduct alleged, if proved, would amount to misconduct or gross misconduct. If,
+as in the present case, the appropriate authority determines that it would
+amount to gross misconduct, the matter then has to be investigated: regulation
+12(4). The next stage is for the appropriate authority to appoint an
+investigator in accordance with regulation 13, and for an investigation to be
+carried out in accordance with regulations 14 to 18. The next stage is for the
+appropriate authority, on receipt of the investigator’s report, to determine
+whether the officer concerned has a case to answer in respect of misconduct or
+gross misconduct, in accordance with regulation 19. Where, as in the present
+case, the appropriate authority determines that there is a case to answer in
+respect of gross misconduct, it is required under regulation 19(4) to refer the
+case to a misconduct hearing, defined by regulation 3(1) as a hearing at which
+the officer may be dealt with by disciplinary action up to and including
+dismissal. Under regulation 21, the officer is then entitled to be provided by
+the appropriate authority with written notice of the conduct that is the
+subject matter of the case, and how that conduct is alleged to amount to gross
+misconduct. Subject to the “harm test” explained in regulation 4, the officer
+is also entitled to a copy of the investigator’s report, or such parts of it as
+refer to him, together with any document referred to in the report which
+relates to him. Under regulation 22, the officer is required to provide to the
+appropriate authority written notice of any allegations which he disputes and
+any arguments on points of law which he wishes to be considered by the persons
+conducting the misconduct hearing, together with a copy of any document relied
+on. Lists of proposed witnesses also have to be exchanged: regulation 22(4).</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The form of the misconduct hearing depends on the rank of the officer
+concerned. Where, as in the present case, the officer is not a senior officer,
+regulation 25(4) requires the hearing to be conducted by a panel of three
+persons appointed by the appropriate authority, one of whom is to be a police
+officer, another of whom is to be a human resources professional, and the third
+of whom is to be selected from a list of candidates maintained by the
+authority. One of the three (either a senior police officer or a senior human
+resources professional) is to chair the hearing.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both the officer concerned and the appropriate authority have the right
+to be legally represented at the hearing: regulation 7(1) and (4). The person
+chairing the hearing has to determine which, if any, of the proposed witnesses
+should attend the hearing and should give evidence at it: regulation 23(2) and
+(3). He or she has no power to compel the attendance of witnesses, although he
+or she can cause a witness who is a police officer to be ordered to attend:
+regulation 23(3). Nor can he or she administer an oath. Under regulation 28,
+the members of the panel are to be provided with copies of the documents
+provided to or by the officer under regulations 21 and 22 respectively, and
+also, where the officer disputes any part of the case against him, any other
+documents which, in the opinion of the appropriate authority, should be
+considered. Copies of documents in the latter category have also to be provided
+to the officer. Subject to specified exceptions, the hearing is to be in
+private: regulation 32(1).</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Subject to specified requirements, the procedure at the hearing is to be
+determined by the person chairing it: regulation 34(1). The person representing
+the officer is entitled to address the hearing and to put questions to
+witnesses, subject to the right of the person chairing the hearing to determine
+whether any question should or should not be put.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the conclusion of the hearing, the persons conducting the hearing
+have to decide whether the officer’s conduct amounts to misconduct, gross
+misconduct or neither: regulation 34(13). Where, as in the present case, they
+find that the conduct amounts to gross misconduct, they may impose any of the
+disciplinary actions specified in regulation 35(2)(b), ranging from management
+advice to dismissal without notice. Where, as in the present case, there is a
+finding of gross misconduct and the persons conducting the hearing decide that
+the officer should be dismissed, regulation 35(9) directs that the dismissal
+shall be without notice.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>An officer other than a senior officer has a right of appeal to the
+Police Appeals Tribunal against the panel’s finding of misconduct or gross
+misconduct, or against the disciplinary action taken by the panel: regulation
+36(2) of the 2008 Regulations, read together with regulation 4 of the Police
+Appeals Tribunals Rules 2008 (SI 2008/2863) (“the 2008 Rules”), subsequently
+replaced by the broadly similar Police Appeals Tribunals Rules 2012 (SI
+2012/2630). The grounds of appeal were specified at the material time in
+regulation 4(4) of the 2008 Rules. Put shortly, they are unreasonableness,
+fresh evidence, and breach of the statutory procedures or other unfairness.
+Although it is conceded that it might be possible to bring a complaint of
+discriminatory behaviour under the last of these headings, the tribunal does
+not possess either the same expertise in relation to equal treatment, or the
+same powers, as an Employment Tribunal. In particular, it has no power to make
+declarations, order the payment of compensation, or make appropriate
+recommendations. Its only power is either to allow or dismiss the appeal
+against the panel’s finding or the disciplinary action taken. Neither of those
+forms of relief will necessarily be an appropriate remedy in all cases of
+discrimination.</a></p><a name="para22">
+
+<p class="ParaHeading">Heath v Commissioner of Police of the Metropolis</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The case of <i>Heath </i>concerned events pre-dating the Framework
+Directive. A civilian employee of a police force brought a claim in an
+Employment Tribunal under the Sex Discrimination Act 1975 in relation to the
+conduct of members of a disciplinary board constituted under the Police
+(Discipline) Regulations 1985 (SI 1985/518). She complained that, as a witness
+in proceedings before the board, she had been treated by its members in a
+manner which amounted to sex discrimination. The tribunal held that it had no
+jurisdiction, on the basis that the members of the board enjoyed judicial
+immunity. The proceedings before the tribunal and the Employment Appeal
+Tribunal appear to have been conducted without any reference to EU law, but
+before the Court of Appeal reliance was placed on article 6 of the Equal
+Treatment Directive, Council Directive 76/207/EEC.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal accepted that the members of the disciplinary board
+enjoyed judicial immunity at common law. It is unnecessary for this court to
+consider the correctness or otherwise of that conclusion, or to consider the
+issue which divided the Court of Appeal, namely whether the immunity extended
+to the Commissioner’s selection of the membership of the board.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issues arising in relation to EU law were considered by Auld LJ in a
+judgment with which, in relation to this issue, the other members of the court
+agreed. He noted that article 1 of the Equal Treatment Directive required
+member states to take measures to implement the principle of equal treatment
+for men and women in relation to various stages of employment, including
+working conditions. Article 5 provided that application of the principle of
+equal treatment with regard to working conditions meant that men and women
+should be guaranteed the same conditions. Article 5 also required member states
+to take the measures necessary to ensure that any laws, regulations and
+administrative provisions contrary to the principle of equal treatment should
+be abolished. Article 6 required member states to introduce measures enabling
+the principle of equal treatment to be relied on before national courts.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Auld LJ did not address the question whether the discrimination alleged
+fell within the scope of the Directive, but identified the first matter as
+being whether and to what extent the common law rule of judicial immunity
+should be governed by the Directive in respect of claims made under the 1975
+Act. In that regard, Auld LJ considered it important not to confuse procedural
+or jurisdictional qualifications, such as judicial immunity, with domestic
+provisions which operated to deprive a successful claimant in respect of an EU
+right of his or her full and appropriate remedy, such as the cap on
+compensation considered in <i>Marshall v Southampton and South West Hampshire
+Health Authority (Teaching) (No 2) </i>(Case C-271/91) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1993/C27191.html">[1994] QB 126</a>. If the Directive
+were to displace judicial immunity, it would follow, so it was said, that it
+should operate so as to disapply other similar rules, such as sovereign
+immunity, res judicata, abuse of process, compromise of claims and estoppels.
+This was regarded as an extravagant proposition. In Auld LJ’s view, the terms
+of the Directive allowed of qualification where member states, within the
+margin of their appreciation, considered it necessary. The eradication of
+unlawful discrimination was not of such overriding importance that it should
+hold sway over other fundamental norms of our law.</p>
+
+<p class="ParaHeading">Analysis</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In a case where directly effective EU rights are in issue, EU law must
+be the starting point of the analysis. It may also be the finishing point,
+since it takes priority over domestic law in accordance with the provisions of
+the European Communities Act 1972.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Framework Directive confers on all persons, including police
+officers, a directly effective right to be treated in accordance with the
+principle of equal treatment in relation to employment and working conditions,
+including dismissals: article 3(1)(c). That right is subject to specified
+exceptions and qualifications, none of which is applicable to the present case.
+The United Kingdom is obliged, under article 9(1), to ensure that judicial and/or
+administrative procedures are available to all persons who consider themselves
+wronged by failure to apply the principle of equal treatment to them. Under
+article 17, sanctions which are effective, proportionate and dissuasive must be
+applied. The procedures under national law must also comply with the general principles
+of effectiveness and equivalence, and with the right to an effective remedy
+under article 47 of the </a><a title="Link to BAILII version" href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12012P/TXT">Charter of Fundamental Rights of the European Union</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principle of equivalence entails that police officers must have the
+right to bring claims of treatment contrary to the Directive before Employment
+Tribunals, since those tribunals are the specialist forum for analogous claims
+of discriminatory treatment under our domestic law. They are expert in the
+assessment of claims of discriminatory treatment, and have the power to award a
+range of remedies including the payment of compensation, even in cases where
+the dismissal or other disciplinary action itself stands. They therefore fulfil
+the requirements of the principle of effectiveness. To leave police officers
+with only a right of appeal to the Police Appeals Tribunal would not comply
+either with the principle of equivalence, since analogous complaints under
+domestic law can be made to an Employment Tribunal, nor with the principle of
+effectiveness, since (for example) the Police Appeals Tribunal cannot grant any
+remedy in cases where the discriminatory conduct is not such as to vitiate the
+decision of the misconduct panel.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There can be no question of the United Kingdom being entitled to deny
+police officers an effective and equivalent remedy, where their rights under
+the Directive have been infringed, as a matter falling within a national margin
+of appreciation. Nor, indeed, is it suggested that there could be. On the
+contrary, the right not to be discriminated against on grounds including
+disability is a fundamental right in EU law, protected by article 21(1) of the
+Charter. It follows that, even if it is designed to protect the officer under
+investigation, the creation of a statutory process which entrusts disciplinary
+functions in relation to police officers to persons whose conduct might
+arguably attract judicial immunity under domestic law cannot have the effect of
+barring complaints by the officers to an Employment Tribunal that they have
+been treated by those persons in a manner which is contrary to the Directive.
+National rules in relation to judicial immunity, like other national rules, can
+be applied in accordance with EU law only in so far as they are consistent with
+EU law: see, for example, <i>Köbler v Austria </i>(Case C-224/01)<i> </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2003/C22401.html">[2004] QB 848</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2003/C22401.html">[2003] ECR I-10239</a>, and <i>Commission v Italy </i>(Case C-379/10)
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C37910.html">[2011] ECR I-180</a>. The reasoning of the Court of Appeal in <i>Heath, </i>in
+relation to EU law, cannot therefore be regarded as correct.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the 2010 Act, Parliament sought to implement the Directive
+specifically in relation to police officers, as Laws LJ noted in the Court of
+Appeal. As explained earlier, section 42(1) deems a constable to be the
+employee of the chief officer for the purposes of Part 5 of the Act, in
+relation to any act done by the chief officer, and the employee of the
+responsible authority, in relation to any act done by that authority. Section
+120 confers jurisdiction on an Employment Tribunal to determine any complaints
+relating to contraventions of Part 5. Those provisions plainly confer on police
+constables the right to bring proceedings before employment tribunals in order
+to challenge discrimination by chief officers and responsible authorities in
+relation to employment and working conditions, including dismissals. It was
+presumably envisaged by Parliament that the exercise of disciplinary functions
+in relation to police officers would fall within the scope of those provisions.
+That is indeed the case in relation to senior officers, under regulation 34(1)
+of the 2012 Regulations, and probationary constables, under regulation 13 of
+the Police Regulations 2003 (SI 2003/527).</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The problem is that the disciplinary functions in relation to police
+officers who have completed their period of probation, other than senior
+officers, are entrusted under secondary legislation to panels; and the exercise
+of those functions by a panel is not an act done by either the chief officer or
+the responsible authority. Nor can the exercise of those functions generally be
+regarded as something done by an employee of the chief officer or of the
+responsible authority in the course of his employment, within the meaning of
+section 109(1), bearing in mind that the panel exercises its most significant
+functions collectively, and that, at least, those of its members who are police
+officers will not be employees. Nor can the panel be regarded as exercising its
+disciplinary functions as the agent of the chief officer or the responsible
+authority, within the meaning of section 109(2): under the 2008 Regulations,
+the relevant powers are conferred directly on the panel in its own right. The
+consequence is that, if section 42(1) is read literally, it is deprived of much
+of its practical utility, and it fails fully to implement the Directive,
+contrary to its purpose.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The way to resolve the problem is to interpret section 42(1) of the 2010
+Act as applying to the exercise of disciplinary functions by misconduct panels
+in relation to police constables. This runs with the grain of the legislation,
+and is warranted under EU law, as given domestic effect by the 1972 Act, in
+accordance with such cases as <i>Marleasing SA v La Comercial Internacional de
+Alimentacion SA </i>(Case C-106/89) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/C10689.html">[1990] ECR I-4135</a><i>. </i>In particular,
+section 42(1) can be interpreted conformably with the Directive if it is read
+as if certain additional words (italicised in the following version) were
+present:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of this
+Part, holding the office of constable is to be treated as employment -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by the chief officer,
+in respect of any act done by the chief officer <i>or </i><i>(so far as such
+acts fall within the scope of the Framework Directive) by persons conducting a
+misconduct meeting or misconduct hearing</i> in relation to a constable or
+appointment to the office of constable;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by the responsible
+authority, in respect of any act done by the authority in relation to a
+constable or appointment to the office of constable.”</p>
+
+<p class="ParaNoNumber">So interpreted, the Act overrides, by force of statute,
+any bar to the bringing of complaints under the Directive against the chief
+officer which might otherwise arise by reason of any judicial immunity
+attaching to the panel under the common law.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It should be emphasised that this conforming interpretation has to be
+understood broadly: the court is not amending the legislation, and the
+italicised words are not to be treated as though they had been enacted. The
+expressions “misconduct meeting” and “misconduct hearing”, for example, have
+not been defined by reference to the relevant regulations. Nor is the use of
+those expressions intended to exclude the adoption of a similar approach in
+relation to other types of panel if that is necessary in order to comply with
+the Directive. The italicised words are merely intended to indicate how section
+42(1) should be interpreted in a case such as the present, in order to avoid a
+violation of EU law.</a></p><a name="para34">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, I would hold that the reasoning in <i>Heath v
+Commissioner of Police of the Metropolis </i>in relation to EU law was unsound,
+allow the appeal, and remit the appellant’s case to the Employment Tribunal.</a></p><a name="para35">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LORD HUGHES:</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For my part I agree with the judgment of Lord Reed.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I add only that the principle of judicial immunity serves a legitimate
+end and generally achieves a proportionate and useful purpose. It exists for
+the protection not only of tribunal members, but also of witnesses, against
+further litigation inspired by what may well be deep disappointment on the part
+of those who have not been successful in contested proceedings before the
+tribunal. It also prevents most collateral challenges to the decisions of
+tribunals which have been set up, usually by legislation, with the task of
+making a final decision. The proliferation of litigation is not generally in
+the public interest, which is best served by a single, final, decision after
+due process, appealable in the event of demonstrated error of law or principle.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the reasons so clearly explained by Lord Reed, section 42 of the
+Equality Act (like its predecessor), conformably with the Framework Directive,
+is plainly meant to provide police constables with the right to complain to an
+Employment Tribunal of discrimination, and must be construed in the manner
+which he has set out. It remains the consequence that in relation to
+discrimination there exists considerable potential for parallel or collateral
+proceedings in an Employment Tribunal and the statutory Police Appeals
+Tribunal. The former can grant relief relating to discrimination, but cannot
+direct an alteration to the outcome of the disciplinary proceedings. The latter
+cannot grant discrimination-related relief, and does not have the expertise of
+an Employment Tribunal in that area, although it can and should consider any
+suggested discrimination when hearing an appeal against that outcome. The inconvenience
+is well illustrated by the present case, in which P’s complaint of
+discrimination was explicitly limited by her to the outcome of the disciplinary
+proceedings. Her case, as set out in her witness statement supporting her
+Employment Tribunal application, was expressly that her mitigation had not, in
+breach of the duty to avoid discrimination, been accepted when it should have
+been. She said this:</a></p><a name="para38">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I am not complaining about
+anything which was said or done during the course of the disciplinary hearing
+in November 2012; I am simply complaining that the wrong decision was reached
+by the MPS at the end of that hearing.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the reasons which Lord Reed explains, this division of
+justiciability is, in the present state of the legislation, unavoidable. It
+might, however, usefully be considered in the event of any review of the
+overall structure.</a></p><a name="para39">
+
+</a></div><a name="para39">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/65.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</div></body></html>

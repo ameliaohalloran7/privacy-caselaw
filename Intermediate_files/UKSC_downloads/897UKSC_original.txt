@@ -1,0 +1,494 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Thaler v Comptroller-General of Patents, Designs and Trade Marks [2023] UKSC 49 (20 December 2023)</title> 
+<style> <!-- /* Font Definitions */ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Times New Roman; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:Gisha;} @font-face {font-family:"Univers \(W1\)";} @font-face {font-family:TimesNewRomanPSMT; panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face {font-family:TimesNewRomanPS-ItalicMT; panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face {font-family:Gadugi; panose-1:2 11 5 2 4 2 4 2 2 3;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm; font-size:12.0pt; font-family:"Times New Roman",sans-serif;} p.MsoCommentText, li.MsoCommentText, div.MsoCommentText {mso-style-link:"Comment Text Char"; margin:0cm; font-size:10.0pt; font-family:"Times New Roman",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader {mso-style-link:"Header Char"; margin:0cm; font-size:12.0pt; font-family:"Times New Roman",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter {mso-style-link:"Footer Char"; margin:0cm; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject {mso-style-link:"Comment Subject Char"; margin:0cm; font-size:10.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold;} p.MsoRMPane, li.MsoRMPane, div.MsoRMPane {margin:0cm; font-size:12.0pt; font-family:"Times New Roman",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; line-height:107%; font-size:11.0pt; font-family:"Times New Roman",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; line-height:107%; font-size:11.0pt; font-family:"Times New Roman",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; line-height:107%; font-size:11.0pt; font-family:"Times New Roman",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; line-height:107%; font-size:11.0pt; font-family:"Times New Roman",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote {mso-style-link:"Quote Char"; margin-top:0cm; margin-right:62.65pt; margin-bottom:26.0pt; margin-left:72.0pt; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} span.FooterChar {mso-style-name:"Footer Char"; mso-style-link:Footer; font-family:"Univers (W1)",sans-serif;} p.Caveat, li.Caveat, div.Caveat {mso-style-name:Caveat; margin:0cm; text-align:justify; border:none; padding:0cm; font-size:10.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold;} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1 {mso-style-name:"ParaHeading 1"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman",sans-serif; text-transform:uppercase; font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber {mso-style-name:ParaNoNumber; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1 {mso-style-name:ParaLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2 {mso-style-name:ParaLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:36.0pt; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} span.QuoteChar {mso-style-name:"Quote Char"; mso-style-link:Quote; font-family:"Times New Roman",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech {mso-style-name:NewSpeech; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; text-transform:uppercase; font-weight:bold;} p.Paraheading2, li.Paraheading2, div.Paraheading2 {mso-style-name:"Paraheading 2"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:12.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold;} p.Paraheading3, li.Paraheading3, div.Paraheading3 {mso-style-name:"Paraheading 3"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold; text-decoration:underline;} p.Embargo, li.Embargo, div.Embargo {mso-style-name:Embargo; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; text-align:justify; line-height:107%; font-size:10.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences {mso-style-name:JudgmentReferences; margin-top:26.0pt; margin-right:0cm; margin-bottom:36.0pt; margin-left:0cm; text-align:right; font-size:12.0pt; font-family:"Times New Roman",sans-serif;} p.Bulletpara, li.Bulletpara, div.Bulletpara {mso-style-name:"Bullet para"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:36.0pt; text-indent:-18.0pt; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} p.Paraheading4, li.Paraheading4, div.Paraheading4 {mso-style-name:"Paraheading 4"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold; font-style:italic;} p.Paraheading5, li.Paraheading5, div.Paraheading5 {mso-style-name:"Paraheading 5"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; font-style:italic; text-decoration:underline;} p.Paraheading6, li.Paraheading6, div.Paraheading6 {mso-style-name:"Paraheading 6"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; font-style:italic;} p.CourtOrder, li.CourtOrder, div.CourtOrder {mso-style-name:"Court Order"; margin:0cm; line-height:107%; font-size:13.0pt; font-family:"Times New Roman",sans-serif; color:#C00000; font-weight:bold;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle {mso-style-name:JudgmentTitle; margin-top:0cm; margin-right:0cm; margin-bottom:12.0pt; margin-left:0cm; text-align:center; line-height:107%; font-size:20.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1 {mso-style-name:JudgmentDetail1; margin-top:18.0pt; margin-right:0cm; margin-bottom:18.0pt; margin-left:0cm; text-align:center; line-height:107%; font-size:20.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1 {mso-style-name:ParaSubHeading1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold; font-style:italic;} p.ParaSubHeading2, li.ParaSubHeading2, div.ParaSubHeading2 {mso-style-name:ParaSubHeading2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; font-style:italic; text-decoration:underline;} p.ParaSubHeading3, li.ParaSubHeading3, div.ParaSubHeading3 {mso-style-name:ParaSubHeading3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif; font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1 {mso-style-name:ParaApprovedLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2 {mso-style-name:ParaApprovedLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:36.0pt; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} p.ParaNoNumberApproved, li.ParaNoNumberApproved, div.ParaNoNumberApproved {mso-style-name:ParaNoNumberApproved; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges {mso-style-name:JudgmentJudges; margin-top:0cm; margin-right:0cm; margin-bottom:30.0pt; margin-left:0cm; text-align:center; font-size:17.0pt; font-family:"Times New Roman",sans-serif; font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt {mso-style-name:JudgmentAppRespInt; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:center; font-size:12.0pt; font-family:"Times New Roman",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3 {mso-style-name:ParaLevel3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:70.55pt; text-indent:.35pt; line-height:200%; font-size:13.0pt; font-family:"Times New Roman",sans-serif;} span.fontstyle01 {mso-style-name:fontstyle01; font-family:"TimesNewRomanPSMT",serif; color:black; font-weight:normal; font-style:normal;} span.fontstyle21 {mso-style-name:fontstyle21; font-family:"TimesNewRomanPS-ItalicMT",serif; color:#231F20; font-weight:normal; font-style:italic;} span.CommentTextChar {mso-style-name:"Comment Text Char"; mso-style-link:"Comment Text"; font-family:"Times New Roman",sans-serif;} span.CommentSubjectChar {mso-style-name:"Comment Subject Char"; mso-style-link:"Comment Subject"; font-family:"Times New Roman",sans-serif; font-weight:bold;} .MsoChpDefault {font-family:"Times New Roman",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:107%;} /* Page Definitions */ @page WordSection1 {size:595.45pt 841.7pt; margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1 {page:WordSection1;} @page WordSection2 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2 {page:WordSection2;} @page WordSection3 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3 {page:WordSection3;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> </style> 
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head> 
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Thaler v Comptroller-General of Patents, Designs and Trade Marks [2023] UKSC 49 (20 December 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/49.html</i>
+<br>Cite as: 
+[2023] UKSC 49,
+
+[2024] Bus LR 47
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/49.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2020006448/casereport_23b94bfc-f597-4eee-980f-48c04c0333ac/html">[2024] Bus LR 47</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/49.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/49.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+<p class="JudgmentReferences" style="margin:0cm"><a name="_Hlk72690073"><b><span style="font-family:&quot;Times New Roman&quot;,serif">Michaelmas Term</span></b></a></p>  
+<p class="JudgmentReferences" style="margin:0cm"><b><span style="font-family: &quot;Times New Roman&quot;,serif">[2023] UKSC 49</span></b></p>  
+<p class="JudgmentReferences"><i><span style="font-family:&quot;Times New Roman&quot;,serif">On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/1374.html">[2021] EWCA Civ 1374</a></span></i></p>  
+<p class="JudgmentTitle"><span style="font-family:&quot;Times New Roman&quot;,serif">JUDGMENT</span></p>  
+<p class="JudgmentJudges"><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">Thaler (Appellant)</span></p>  
+<p class="JudgmentJudges"><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;<i>v</i> </span></p>  
+<p class="JudgmentJudges"><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">Comptroller-General of Patents, Designs and Trade Marks (Respondent)</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif;font-weight:normal">before</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-family:&quot;Times New Roman&quot;,serif;font-weight:normal">&nbsp;</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Hodge, Deputy President</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Kitchin</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Hamblen</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Lord Leggatt</span></p>  
+<p class="JudgmentJudges"><span style="font-family:&quot;Times New Roman&quot;,serif">Lord Richards</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">JUDGMENT GIVEN ON</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">20 December 2023</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">&nbsp;</span></p>  
+<p class="JudgmentJudges"><span style="font-family:&quot;Times New Roman&quot;,serif">Heard on 2 March 2023</span></p>  <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i><span style="font-family:&quot;Times New Roman&quot;,serif">Appellant</span></i></a></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Robert Jehan</span></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Professor Ryan Abbott</span></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Jacob Turner</span></p>  
+<p class="JudgmentAppRespInt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Instructed by </span><span style="font-family:&quot;Times New Roman&quot;,serif">Williams Powell</span><span style="font-family:&quot;Times New Roman&quot;,serif">)</span></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i><span style="font-family:&quot;Times New Roman&quot;,serif">Respondent</span></i></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">Stuart Baran</span></p>  
+<p class="JudgmentAppRespInt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Instructed by </span><span style="font-family:&quot;Times New Roman&quot;,serif">Government Legal Department</span><span style="font-family:&quot;Times New Roman&quot;,serif">)</span></p>  
+<p class="JudgmentAppRespInt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p>  
+<p class="JudgmentAppRespInt"><b><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></b></p> </div> <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280"><span style="font-family:&quot;Times New Roman&quot;,serif">lord kitchin (</span></a><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">with whom Lord Hodge, Lord Hamblen, Lord Leggatt and Lord Richards agree</span><span style="font-family:&quot;Times New Roman&quot;,serif">): </span></p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">Introduction</span></p><ol>  
+<li value="1"><a name="para1"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;This appeal concerns two applications made under the Patents Act 1977 ("the 1977 Act") for the grant of patents for products and processes which are said (and are accepted for present purposes) to be new and not obvious developments of anything known before. One unusual feature of the applications is that any inventions they disclose and describe are said to have been generated by a machine acting autonomously and powered by artificial intelligence ("AI"). Another is that the appellant, Dr Stephen Thaler, maintains that he is entitled to make and pursue the applications on the basis that he is the owner of that machine.</span>
+</a></li>
+<p> </p>  
+<li value="2"><a name="para2"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The Hearing Officer for the Comptroller-General of Patents ("the Comptroller") found that the applications must be taken to have been withdrawn, essentially for the following reasons: first, on Dr Thaler's own case, the machine made the inventions, but the machine did not qualify as an inventor within the meaning of the 1977 Act; secondly, Dr Thaler was not entitled to apply for patents for any inventions described in the applications given that, on his case, they were made autonomously by the machine; and thirdly, in these circumstances, the applications were defective because Dr Thaler had failed to identify any person or persons whom he believed to be the inventor or inventors, and he had failed properly to indicate how he derived the right to be granted the patents. An appeal by Dr Thaler to the High Court was unsuccessful. On further appeal by Dr Thaler to the Court of Appeal, a majority (Arnold LJ and Elisabeth Laing LJ) agreed with the Hearing Officer and the judge that the applications must be taken to have been withdrawn. Birss LJ, dissenting, would have allowed the appeal and permitted the applications to proceed. </span>
+</a></li>
+<p> </p>  
+<li value="3"><a name="para3"> <span style="font-family:&quot;Times New Roman&quot;,serif">These two applications are part of a project involving parallel applications by Dr Thaler to patent offices around the world. As the Court of Appeal explained, Dr Thaler and his collaborators seek to establish that AI systems can make inventions and that the owners of such systems can apply for and secure the grant of patents for those inventions. This is therefore one of a number of test cases, and it raises issues of some importance. </span>
+</a></li>
+<p> </p>  
+<li value="4"><a name="para4"> <span style="font-family:&quot;Times New Roman&quot;,serif">It has also been drawn to our attention that this is a project in which Dr Thaler and his collaborators have achieved only limited success although, for my part, I do not consider that to be a point which provides the Comptroller with any assistance in relation to the issues arising in this appeal, for its outcome depends on the meaning and application of the relevant sections of the 1977 Act. </span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">The factual background </span></p>  
+<li value="5"><a name="para5"> <span style="font-family:&quot;Times New Roman&quot;,serif">On 17 October 2018, Dr Thaler filed an application for the grant of a patent for what was said to be an invention for a new kind of food or beverage container (United Kingdom patent application GB1816909.4). On 7 November 2018, Dr Thaler filed another application for the grant of a patent for what was said to be an invention for a new kind of light beacon and a new way of attracting attention in an emergency (United Kingdom patent application GB1818161.0).</span>
+</a></li>
+<p> </p>  
+<li value="6"><a name="para6"> <span style="font-family:&quot;Times New Roman&quot;,serif">Dr Thaler made both applications under the 1977 Act. Neither application designated a human inventor, and no separate document designating a human inventor was ever filed. Instead, the request for grant forms accompanying the applications stated that Dr Thaler was <i>not</i> an inventor of the inventions described in the applications.</span>
+</a></li>
+<p> </p>  
+<li value="7"><a name="para7"> <span style="font-family:&quot;Times New Roman&quot;,serif">It is not uncommon for a person who is not an inventor to apply for a patent for an invention, and to do so entirely properly. Such a person may take this course for one of a number of different reasons. For example, an employer may make an application for a patent for an invention on the basis that an employee made the invention in the course of his employment. Or it may be because the applicant is the successor in title to the inventor or a person who was at the time of the making of the invention entitled to the property in it. </span>
+</a></li>
+<p> </p>  
+<li value="8"><a name="para8"> <span style="font-family:&quot;Times New Roman&quot;,serif">In such a case, an indication of how the applicant has derived the right to be granted a patent will usually emerge at an early stage from the nature of the application, or from the applicant's replies to inquiries made by the United Kingdom Intellectual Property Office (the "UKIPO").</span>
+</a></li>
+<p> </p>  
+<li value="9"><a name="para9"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The UKIPO responded to Dr Thaler's applications by letters dated 19 November 2018 and 27 November 2018, respectively, seeking further information, as it was required to do. In each case it notified Dr Thaler that he would need to file a statement of inventorship, that is to say, a statement identifying the person or persons whom he believed to be the inventor or inventors of each of these inventions and where, as here, Dr Thaler maintained that he was not an inventor, indicating how he derived the right to be granted the patent for which he was applying. He was told he would need to file these statements within sixteen months of the filing date in accordance with section 13 of the 1977 Act and rule 10(3) of the Patent Rules 2007 (SI 2007/3291) (the "rules"), to which I will come. </span>
+</a></li>
+<p> </p>  
+<li value="10"><a name="para10"> <span style="font-family:&quot;Times New Roman&quot;,serif">Dr Thaler filed what he considered to be statements of inventorship, one for each application, on 23 July 2019. He filed them, as required by the rules, on separate forms (Form 7s). These forms and the letters which accompanied them reported Dr Thaler's belief that each of these inventions was created by the AI of a machine called DABUS and that he had acquired the right to the grant of the patents for which he had applied because he owned that machine.</span>
+</a></li>
+<p> </p>  
+<li value="11"><a name="para11"> <span style="font-family:&quot;Times New Roman&quot;,serif">The UKIPO replied to these communications on 8 August 2019, informing Dr Thaler that he had not complied with the requirements of the 1977 Act in respect of either application because he had failed to identify a person whom he believed to be the inventor of the invention described in the application, and had failed to explain how he derived the right to apply for a patent from that person. </span>
+</a></li>
+<p> </p>  
+<li value="12"><a name="para12"> <span style="font-family:&quot;Times New Roman&quot;,serif">Dr Thaler was therefore asked by the UKIPO to file replacement forms which did comply with the requirements of the 1977 Act and made good the deficiencies it had identified. Dr Thaler was warned that if he failed to do so within the prescribed period, the applications would be taken to be withdrawn.</span>
+</a></li>
+<p> </p>  
+<li value="13"><a name="para13"> <span style="font-family:&quot;Times New Roman&quot;,serif">Dr Thaler's response to these requests was set out in a letter from his patent attorney, Mr Robert Jehan, a partner in the firm of Williams Powell, dated 28 August 2019. Mr Jehan maintained that the Form 7 had been filed correctly in respect of each application and that the requirements of the 1977 Act and the rules had been met. He argued that the mention of the inventor was a procedural requirement and it had been satisfied. Nevertheless and, as he put it, for the avoidance of doubt, he enclosed with the response an amended Form 7 with an accompanying statement making it clear that Dr Thaler identified no <i>person </i>whom he believed to be an inventor because the invention was "entirely and solely conceived by DABUS". It followed, said Mr Jehan, that DABUS must be named as inventor. He concluded with a request for a hearing if the objection was maintained.</span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">The proceedings</span><span style="font-family:&quot;Times New Roman&quot;,serif"> </span></p>  
+<li value="14"><a name="para14"> <span style="font-family:&quot;Times New Roman&quot;,serif">The objection was indeed maintained, and a hearing took place by telephone on 14 November 2019. It was taken by Mr Huw Jones, the Deputy Director and Hearing Officer for the Comptroller. Mr Jehan appeared on behalf of Dr Thaler with Professor Ryan Abbott from the University of Surrey. </span>
+</a></li>
+<p> </p>  
+<li value="15"><a name="para15"> <span style="font-family:&quot;Times New Roman&quot;,serif">On 4 December 2019, the Hearing Officer issued his decision on behalf of the Comptroller (BL O/741/19). He explained that DABUS was not a person as envisaged by section 7 or section 13 of the 1977 Act and so was not an inventor (decision, paras 18-20). It followed that DABUS had no rights that could be transferred. Further and in any event, DABUS did not have any power to transfer anything that it might have owned (decision, para 21). Yet further, Dr Thaler was not entitled to the grant of a patent on the basis that he owned DABUS (decision, para 23). The Hearing Officer held that the applications would be taken to be withdrawn at the expiry of the sixteen-month period specified by rule 10(3) (decision, para 30). </span>
+</a></li>
+<p> </p>  
+<li value="16"><a name="para16"> <span style="font-family:&quot;Times New Roman&quot;,serif">Dr Thaler's appeal to a judge of the High Court against the Comptroller's decision was dismissed by Marcus Smith J on 21 September 2020: </span></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Patents/2020/2412.html">[2020] EWHC 2412 (Pat)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Patents/2020/2412.html">[2020] Bus LR 2146</a>. The judge found that section 13 of the 1977 Act had to be read in context and unless an applicant fell within the parameters of section 7, the Comptroller was justified in finding (indeed obliged to find) that the application was deficient. Here Dr Thaler, the applicant, was a person but, on his own case, was not the inventor of any invention described in either application. Further, his contention that he was entitled to the grant of the patents for some other reason was hopeless and bound to fail (judgment, para 49). 
+</li>
+<p> </p>  
+<li value="17"><a name="para17"> <span style="font-family:&quot;Times New Roman&quot;,serif">A further appeal by Dr Thaler to the Court of Appeal was dismissed on 21 September 2021 (</span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/1374.html">[2021] EWCA Civ 1374</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2021/1374.html">[2022] Bus LR 375</a>). That court held by a majority (Arnold LJ and Elisabeth Laing LJ) that DABUS did not qualify as an inventor within the meaning of the 1977 Act because such an inventor was required to be a person; that there was no general rule of law that any intangible property (including an invention) created by a machine was the property of the machine or the owner of the machine; and that the Comptroller had been right to find the applications would be taken to be withdrawn because Dr Thaler had not identified the person or persons whom he believed to be the inventor or inventors; nor had he identified any proper basis for deriving a right to be granted the patents when he simply asserted, wrongly in law, that it was sufficient that he owned DABUS.
+</li>
+<p> </p>  
+<li value="18"><a name="para18"> <span style="font-family:&quot;Times New Roman&quot;,serif">Birss LJ agreed with the majority that an inventor within the meaning of the 1977 Act must be the person who devised the invention. Further, a machine is not a person. It followed that DABUS was not and could never be an inventor. In his view, that was not determinative, however. </span>
+</a></li>
+<p> </p>  
+<li value="19"><a name="para19"> <span style="font-family:&quot;Times New Roman&quot;,serif">Birss LJ turned next to the requirements imposed by the 1977 Act on an applicant for a patent. He found that Dr Thaler had complied with these requirements because (in summary):</span>
+</a></li>
+<p> </p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">he (Dr Thaler) had identified the person whom he <i>believed </i>to be the inventor (DABUS) and how he<i> claimed </i>to have derived the right to be granted a patent (because he owned DABUS);</span></p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">it was no part of the Comptroller's function to find that a patent application must be deemed to have been withdrawn because the applicant's statement did not identify a<i> person</i> who was the inventor; it was enough that the statement that the inventor was DABUS reflected Dr Thaler's honest belief; and</span></p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">the Comptroller did not need to be satisfied that Dr Thaler's claim to be granted the patents was a good and sound one.</span></p>  
+<li value="20"><a name="para20"> <span style="font-family:&quot;Times New Roman&quot;,serif">It followed, Birss LJ continued, that the fact that the creator of the invention was a machine was no impediment to the grant of a patent to Dr Thaler. He would therefore have allowed the appeal and declared that Dr Thaler had satisfied the relevant requirements of the Act in respect of both applications, and there was no basis for a finding that the applications were to be taken to have been withdrawn. </span>
+</a></li>
+<p> </p>  
+<li value="21"><a name="para21"> <span style="font-family:&quot;Times New Roman&quot;,serif">I will consider aspects of the reasoning of the various judges who have addressed these applications and appeals in more detail when I deal with the grounds of appeal to this court and the various issues to which they give rise. First, however, I must outline some essential parts of the statutory scheme which governs the right to apply for and secure the grant of a patent for an invention under the 1977 Act. </span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">Sections 7 and 13 of the 1977 Act </span></p>  
+<li value="22"><a name="para22"> <span style="font-family:&quot;Times New Roman&quot;,serif">The 1977 Act introduced significant changes to our domestic patent system and law. Part I enacted a code of domestic patent law which embodied many of those changes and was intended to assimilate much of that law to that of the European Patent system established by the European Patent Convention and in some ways to that of the Community Patent Convention and the Patent Co-operation Treaty. The provisions intended to have that effect are listed in section 130(7) of the 1977 Act. Rather strikingly, however, the key provisions of the new domestic law for present purposes, that is to say, sections 7 and 13 of the 1977 Act, are not so identified. </span>
+</a></li>
+<p> </p>  
+<li value="23"><a name="para23"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;It is nevertheless of some interest that the equivalent application made by Dr Thaler to the European Patent Office (the "EPO") was also refused by the Receiving Section of the EPO by decision of 27 January 2020. On appeal, the Legal Board of Appeal issued a preliminary opinion affirming the decision of the Receiving Section and then, on 21 December 2021, rendered its decision (J8/20) dismissing the appeal. A request to refer questions to the Enlarged Board of Appeal was refused. </span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Section 7 - the right to apply for and obtain a patent </span></p>  
+<li value="24"><a name="para24"> <span style="font-family:&quot;Times New Roman&quot;,serif">Section 7 of the 1977 Act deals with the right to apply for and obtain a patent:</span>
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">"7 Right to apply for and obtain a patent.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;(</span><span style="font-family:&quot;Times New Roman&quot;,serif">1) Any person may make an application for a patent either alone or jointly with another.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(2) A patent for an invention may be granted—</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(a) primarily to the inventor or joint inventors;</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(b) in preference to the foregoing, to any person or persons who, by virtue of any enactment or rule of law, or any foreign law or treaty or international convention, or by virtue of an enforceable term of any agreement entered into with the inventor before the making of the invention, was or were at the time of the making of the invention entitled to the whole of the property in it (other than equitable interests) in the United Kingdom; </span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(c) in any event, to the successor or successors in title of any person or persons mentioned in paragraph (a) or (b) above or any person so mentioned and the successor or successors in title of another person so mentioned; </span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">and to no other person.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(3) In this Act 'inventor' in relation to an invention means the actual deviser of the invention and 'joint inventor' shall be construed accordingly.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(4) Except so far as the contrary is established, a person who makes an application for a patent shall be taken to be the person who is entitled under subsection (2) above to be granted a patent and two or more persons who make such an application jointly shall be taken to be the persons so entitled."</span></p>  
+<li value="25"><a name="para25"> <span style="font-family:&quot;Times New Roman&quot;,serif">This section fits into a larger scheme, as I will explain. But some preliminary observations may be helpful at this stage on three particular issues: the meaning of the term <i>inventor</i> in this context; who may make an application for a patent for an invention; and to whom a patent may be<i> </i>granted.</span>
+</a></li>
+<p> </p>  
+<li value="26"><a name="para26"> <span style="font-family:&quot;Times New Roman&quot;,serif">First, section 7(3) identifies the <i>inventor</i> as the actual deviser of the invention. Sometimes two or more persons may devise an invention together and in such a case they will be joint inventors.</span>
+</a></li>
+<p> </p>  
+<li value="27"><a name="para27"> <span style="font-family:&quot;Times New Roman&quot;,serif">Secondly, section 7(1) provides that any person may make an application for a patent and may do so either alone or jointly with another person. This includes a conventional case in which the application is made by a natural person or by one natural person jointly with another. But it is not so limited. The words of the subsection are clear: <i>any person</i> may make an <i>application</i> for a patent. This is necessary for reasons to which I will come.</span>
+</a></li>
+<p> </p>  
+<li value="28"><a name="para28"> <span style="font-family:&quot;Times New Roman&quot;,serif">Thirdly, the section provides a hierarchy of groups of those persons to whom a patent for an invention may be <i>granted</i>. The first group consists of the inventor or the joint inventors of that invention. The Act says that a patent for an invention may be granted <i>primarily</i> to the inventor or joint inventors (section 7(2)(a)). </span>
+</a></li>
+<p> </p>  
+<li value="29"><a name="para29"> <span style="font-family:&quot;Times New Roman&quot;,serif">Nevertheless, by operation of section 7(2)(b), in<i> preference</i> to the inventor or inventors, the patent may be granted to any person or persons who, by operation of law, or foreign law, or treaty or international convention, or by virtue of any enforceable term of an agreement entered into with the inventor or inventors before the invention was made, was or were at the time of the making of the invention entitled to the whole of the property in it (other than an equitable interest). As I have foreshadowed, this is a familiar provision to those used to dealing with, for example, inventions made by employees in the course of their normal duties or in the course of specifically assigned duties, and where the circumstances in either case were such that an invention might reasonably be expected to result from carrying them out. In these cases, section 39 of the 1977 Act provides that an invention made by an employee is to be taken to belong to the employer.</span>
+</a></li>
+<p> </p>  
+<li value="30"><a name="para30"> <span style="font-family:&quot;Times New Roman&quot;,serif">The last group is addressed in section 7(2)(c) which provides that a patent may be granted to the successor or successors in title of any person so mentioned earlier in section 7(2). </span>
+</a></li>
+<p> </p>  
+<li value="31"><a name="para31"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Section 7(2) and the definition in section 7(3) in this way provide an exhaustive code for determining who is entitled to the <i>grant</i> of a patent. As Lord Hoffmann explained in <i>Rhone-Poulenc Rorer International Holdings Inc v Yeda Research and Development Co Ltd </i></span></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2007/43.html">[2007] UKHL 43</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/43.html">[2007] Bus LR 1796</a>, para 18, this is made clear by the words "and to no other person". This is a matter to which I will return in addressing the issues upon which the outcome of this appeal depends. 
+</li>
+<p> </p>  
+<li value="32"><a name="para32"> <span style="font-family:&quot;Times New Roman&quot;,serif">Further, in saying that the patent may be granted primarily to the inventor, section 7(2) emphasises that a patent may only be granted to the inventor or someone claiming <i>through</i> the inventor. The claim through the inventor may take place under one of the rules in paragraph (b), or under paragraph (c), as successor in title to an inventor or someone entitled under one of the rules in paragraph (b). Again, this is a matter to which I must return. </span>
+</a></li>
+<p> </p>  
+<li value="33"><a name="para33"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Finally, I must mention section 7(4) which applies another presumption: in this case and s</span><span style="font-family:&quot;Times New Roman&quot;,serif">ave so far as the contrary is established, a person who makes an application for a patent shall be taken to be the person who is entitled under section 7(2) to be granted a patent and two or more persons who make such an application jointly shall be taken to be the persons jointly so entitled. Again, this reinforces the overall scheme in that the default position, unless the contrary is shown to be the case, is that a natural person making an application for a patent will be taken to be the inventor of the invention described in that application and entitled to be granted a patent for that invention.</span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Section 13: the right to be mentioned as inventor, and the provision of information by the applicant </span></p>  
+<li value="34"><a name="para34"> <span style="font-family:&quot;Times New Roman&quot;,serif">Any applicant for a patent under the 1977 Act must also satisfy the requirements of section 13. This addresses the right of the inventor to be mentioned as inventor in any patent granted for that invention, and imposes an obligation on an applicant for a patent under the Act to provide certain information to the UKIPO: </span>
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">"13 Mention of inventor.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(1) The inventor or joint inventors of an invention shall have a right to be mentioned as such in any patent granted for the invention and shall also have a right to be so mentioned if possible in any published application for a patent for the invention and, if not so mentioned, a right to be so mentioned in accordance with rules in a prescribed document.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(2) Unless he has already given the Patent Office the information hereinafter mentioned, an applicant for a patent shall within the prescribed period file with the Patent Office a statement—</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(a) identifying the person or persons whom he believes to be the inventor or inventors; and</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(b) where the applicant is not the sole inventor or the applicants are not the joint inventors, indicating the derivation of his or their right to be granted the patent; and, if he fails to do so, the application shall be taken to be withdrawn.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(3) Where a person has been mentioned as sole or joint inventor in pursuance of this section, any other person who alleges that the former ought not to have been so mentioned may at any time apply to the comptroller for a certificate to that effect, and the comptroller may issue such a certificate; and if he does so, he shall accordingly rectify any undistributed copies of the patent and of any documents prescribed for the purposes of subsection (1) above."</span></p>  
+<li value="35"><a name="para35"> <span style="font-family:&quot;Times New Roman&quot;,serif">This is another important part of the statutory scheme. The starting point is subsection (1) which recognises the central position of an inventor and confers on that person the right to be recognised as inventor in any published application for a patent and in any patent which may be granted on that application.</span>
+</a></li>
+<p> </p>  
+<li value="36"><a name="para36"> <span style="font-family:&quot;Times New Roman&quot;,serif">Of course, the applicant may and often will not be the inventor but may nevertheless make and pursue the application for a perfectly good and proper reason, as I have explained. There may be other circumstances too in which, entirely properly, the applicant may not be the inventor but may pursue the application and secure the grant of the patent. But in all cases, and unless the applicant has already given the UKIPO the information, the applicant is required: </span>
+</a></li>
+<p> </p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">to identify the person or persons whom he believes to be the inventor or inventors; <i>and </i></span></p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">to indicate the derivation of his right to be granted the patent; </span></p>  
+<p class="ParaNoNumber"><span style="font-family:&quot;Times New Roman&quot;,serif">and if he fails to do so the application shall be taken to be withdrawn.</span></p>  
+<li value="37"><a name="para37"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;These requirements are not absolute. Any applicant, if not an inventor, is required to identify the person or persons whom he<i> believes to be </i>(rather than who <i>is </i>or <i>are</i>) the inventor or inventors; and where the applicant is not the sole inventor and, in the case of two or more applicants, they are not the joint inventors, to indicate the derivation of his or their right to be granted the patent. Here too, any applicant (not being the inventor) is required simply to<i> indicate</i> rather than <i>establish</i> the derivation of that right. </span>
+</a></li>
+<p> </p>  
+<li value="38"><a name="para38"> <span style="font-family:&quot;Times New Roman&quot;,serif">The bar is therefore set relatively low and deliberately so, for the Comptroller does not have the resources to investigate every claim made by an applicant. The requirements are important, nonetheless. That is amply demonstrated by the penalty imposed on failure to provide the necessary information in a statement within the prescribed period - in such a case, the application "shall be taken to be withdrawn"<i> </i>(section 13(2), closing words). </span>
+</a></li>
+<p> </p>  
+<li value="39"><a name="para39"> <span style="font-family:&quot;Times New Roman&quot;,serif">Some further indication as to just where the bar is set may be gained from the purpose of these qualified requirements. That purpose is in large measure to ensure that genuine errors made by the applicant in purporting to identify the inventor or explain the way the applicant has derived the right to make the application should not prevent the applicant from being granted a patent; nor should it prejudice the validity of the application or any patent that may be granted upon it.</span>
+</a></li>
+<p> </p>  
+<li value="40"><a name="para40"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;On the other hand, the information must not be so general as to be uninformative and of no practical use. Hence in <i>Nippon Piston Ring Co Ltd's Applications</i> [1987] RPC 120, the applicant was obviously not the inventor but failed to indicate how it derived title to the invention. The Hearing Officer for the Comptroller held that section 13(2)(b) was not satisfied because the applicant had failed to indicate which of the section 7(2) categories (b) or (c) it fell under. Whitford J, a judge with great practical experience in this field, agreed. </span>
+</a></li>
+<p> </p>  
+<li value="41"><a name="para41"> <span style="font-family:&quot;Times New Roman&quot;,serif">Similarly, it is not good enough to refer to an evidently incomplete chain of title (for example, "by virtue of an assignment from A to B" when the applicant is C). After all, the information will be made available on the public record and in that way disclose and proclaim to the world who is said to be the inventor in respect of the invention. Further, if the application is not proceeding in the name of the inventor, it must give some reasonable indication as to how the applicant claims to have derived title. All of this information allows the Comptroller to consider whether the application is genuine, and it allows a third party to decide whether to raise an objection under, for example, section 8 of the 1977 Act, to which I will come. </span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">The Patent Rules 2007 </span></p>  
+<li value="42"><a name="para42"> <span style="font-family:&quot;Times New Roman&quot;,serif">The rules made under the Act also deal with various matters relevant to this appeal. First, rule 10 deals with the mention of the inventor and provides in rule 10(1) that an inventor, if not mentioned in any published application for a patent, or in any patent granted, for the invention, must be mentioned in an addendum or erratum to the application or patent. Further (under rule 10(2)) a person who contends that any person ought to have been so mentioned may apply to the Comptroller for that person to be mentioned in any patent granted for the invention and, if possible, in any published application for a patent for the invention, once again, if necessary, in an addendum or erratum. Subject to various other rules, the period prescribed for the purpose of section 13(2) is sixteen months from the date of filing of the application or the declared priority date if there is one (rule 10(3)).</span>
+</a></li>
+<p> </p>  
+<li value="43"><a name="para43"> <span style="font-family:&quot;Times New Roman&quot;,serif">It is convenient to mention one other matter here: under rule 11 an inventor may, before preparations for the application's publication have been completed by the UKIPO, and subject to making an application, giving reasons and the Comptroller accepting those reasons, waive his right to have his name and address mentioned as that of the inventor. This emphasises that the right of the inventor to be named as such is one which the<i> inventor</i> can waive, subject to the Comptroller's consent. It is not a right conferred on the applicant for the patent so far as that person may not be an inventor. </span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">This further appeal </span></p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">The rival arguments in outline</span></p>  
+<li value="44"><a name="para44"> <span style="font-family:&quot;Times New Roman&quot;,serif">On this further appeal, pursued with permission given by this court, Mr Jehan and Professor Abbott have focused their arguments on behalf of Dr Thaler into these propositions:</span>
+</a></li>
+<p> </p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Dr Thaler is entitled to apply for and secure the grant of patents for inventions created by DABUS and, more generally, that the owner of a machine which embodies an AI system is entitled to inventions created or generated by the machine, and to apply for and secure the grant of patents for those inventions if they meet the other statutory requirements for patentability set out in the 1977 Act;</span></p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">an applicant for such a patent is not required to name a natural person as an inventor to meet the requirements of the 1977 Act;</span></p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">Dr Thaler has satisfied the provisions of section 13(2) of the 1977 Act; and </span></p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm"><span style="font-family: &quot;Times New Roman&quot;,serif">(iv)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Times New Roman&quot;,serif">in any event the Comptroller had no proper basis under the Act for refusing these applications in the manner and for the reasons he did. </span></p>  
+<li value="45"><a name="para45"> <span style="font-family:&quot;Times New Roman&quot;,serif">The Comptroller, represented by Mr Stuart Baran, supports the decision of the majority of the Court of Appeal. The Comptroller's position is that for the purposes of the 1977 Act an inventor must be a person; that Dr Thaler did not comply with section 13(2)(a) of the 1977 Act because he did not identify a person whom he believed to be an inventor, and so the two applications were properly and correctly taken to be withdrawn. </span>
+</a></li>
+<p> </p>  
+<li value="46"><a name="para46"> <span style="font-family:&quot;Times New Roman&quot;,serif">That, submits Mr Baran, is the end of the matter, and that is enough to dismiss this appeal. Mr Baran also submits, however, that Dr Thaler did not fall into one of the classes of persons to whom a patent for any invention disclosed in the applications could be granted, and that the Hearing Officer, the judge and the Court of Appeal (by a majority) were right so to find. Mr Baran contends that Dr Thaler's appeal must fail for this further reason too. </span>
+</a></li>
+<p> </p>  
+<li value="47"><a name="para47"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;I will return to these rival cases in a moment. But before I do so I must say a little about the factual assumptions on which this appeal must be decided and the context in which the applications in issue in this appeal have been made. I would also acknowledge the assistance we have received from submissions made by the Chartered Institute of Patent Attorneys in an intervention of 22 December 2021 which are aligned with and supportive of the reasoning and conclusion reached by Birss LJ. </span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">The basis on which the appeal must be decided </span></p>  
+<li value="48"><a name="para48"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The Comptroller has emphasised, correctly in my view, that this appeal is not concerned with the broader question whether technical advances generated by machines acting autonomously and powered by AI should be patentable. Nor is it concerned with the question whether the meaning of the term "inventor" ought to be expanded, so far as necessary, to include machines powered by AI which generate new and non-obvious products and processes which may be thought to offer benefits over products and processes which are already known. </span>
+</a></li>
+<p> </p>  
+<li value="49"><a name="para49"> <span style="font-family:&quot;Times New Roman&quot;,serif">These questions raise policy issues about the purpose of a patent system, the need to incentivise technical innovation and the provision of an appropriate monopoly in return for the making available to the public of new and non-obvious technical advances, and an explanation of how to put them into practice across the range of the monopoly sought. It may be thought that the rapid advances in AI technology in recent times render these questions even more important than they were when these applications were made.</span>
+</a></li>
+<p> </p>  
+<li value="50"><a name="para50"> <span style="font-family:&quot;Times New Roman&quot;,serif">This appeal is concerned instead with the much more focused question of the correct interpretation and application of the relevant provisions of the 1977 Act to the applications made by Dr Thaler. This was the approach taken by the Comptroller, the High Court and the Court of Appeal, and rightly so. </span>
+</a></li>
+<p> </p>  
+<li value="51"><a name="para51"> <span style="font-family:&quot;Times New Roman&quot;,serif">Here Dr Thaler has made clear that he does not claim to be and indeed is not the inventor of any inventions described or disclosed in the applications; that it was and remains his belief and case that the inventions were made by DABUS, a machine powered by AI; and that DABUS ought therefore to be named and recognised as inventor. I would also emphasise, as has the Comptroller, that the UKIPO did not and could not go behind those assertions, so far as they constituted assertions of fact, in dealing with these applications. The question whether DABUS in fact created and generated the inventions described in the applications has therefore never been investigated. The applications have been considered and assessed (and the appeals have been decided) on the basis that the factual assertions made by Dr Thaler are correct.</span>
+</a></li>
+<p> </p>  
+<li value="52"><a name="para52"> <span style="font-family:&quot;Times New Roman&quot;,serif">It follows but is important to reiterate nonetheless that, in this jurisdiction, it is not and has never been Dr Thaler's case that he was the inventor and used DABUS as a highly sophisticated tool. Had he done so, the outcome of these proceedings might well have been different. </span>
+</a></li>
+<p> </p>  
+<li value="53"><a name="para53"> <span style="font-family:&quot;Times New Roman&quot;,serif">In my opinion the outcome of this appeal therefore turns on three issues which I will address in turn. I should also say that I have had well in mind the observations of Birss LJ that the history of legislation such as this can be a helpful guide to its interpretation. As it is, however, I have not found it necessary to refer to the detail of that history because I have not found anything in it which leads me to question what I believe to be the correct interpretation of sections 7 and 13 of the 1977 Act. </span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">Issue 1: The scope and meaning of </span><span style="font-family:&quot;Times New Roman&quot;,serif">"</span><span style="font-family: &quot;Times New Roman&quot;,serif;text-transform:none">inventor</span><span style="font-family:&quot;Times New Roman&quot;,serif">"</span><span style="font-family: &quot;Times New Roman&quot;,serif;text-transform:none"> in the 1977 Act</span></p>  
+<li value="54"><a name="para54"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The first issue concerns the scope and meaning of the term "inventor" in the 1977 Act and whether it extends to a machine such as DABUS. </span>
+</a></li>
+<p> </p>  
+<li value="55"><a name="para55"> <span style="font-family:&quot;Times New Roman&quot;,serif">I should say straight away that this issue has been decided against Dr Thaler at every level in these proceedings and by every judge who has considered it. Dr Thaler has argued throughout that the technical advances and the new products described and disclosed in the applications were devised by DABUS, and that DABUS was their inventor. As I have indicated, the Comptroller accepts for the purposes of these proceedings the substance of the factual case advanced by Dr Thaler, namely that DABUS created or generated the technical advances described and disclosed in the applications and did so autonomously using AI, but the Comptroller has never accepted (and disputes any suggestion) that this renders DABUS an inventor within the meaning of the 1977 Act.</span>
+</a></li>
+<p> </p>  
+<li value="56"><a name="para56"> <span style="font-family:&quot;Times New Roman&quot;,serif">In my judgment, the position taken by the Comptroller on this issue is entirely correct. The structure and content of sections 7 and 13 of the Act, on their own and in the context of the Act as a whole, permit only one interpretation: an inventor within the meaning of the 1977 Act must be a natural person, and DABUS is not a person at all, let alone a natural person: it is a machine and on the factual assumption underpinning these proceedings, created or generated the technical advances disclosed in the applications on its own. Here I use the term "technical advance" rather than "invention", and the terms "create" or "generate" rather than "devise" or "invent" deliberately to avoid prejudging the first issue we have to decide. But it is indisputable that DABUS is a machine, not a person (whether natural or legal), and I do not understand Dr Thaler to suggest otherwise. </span>
+</a></li>
+<p> </p>  
+<li value="57"><a name="para57"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Section 130 of the 1977 Act provides that the term "inventor" has the meaning ascribed to it by section 7. As we have seen, section 7(3) provides that "inventor" in relation to an invention means the actual deviser of the invention. There is no suggestion that "deviser" here has anything other than its ordinary meaning, that is to say, a<i> person</i> who devises a new and non-obvious product or process (the invention) which is capable of industrial application and may be protected under the patent system. </span>
+</a></li>
+<p> </p>  
+<li value="58"><a name="para58"> <span style="font-family:&quot;Times New Roman&quot;,serif">This interpretation is also consistent with the scheme of section 7 to which I have already referred. Hence an application for a patent may be made by any <i>person </i>(section 7(1)). And there is a rebuttable presumption that the<i> person</i> making the application is entitled to be granted the patent (section 7(4)).</span>
+</a></li>
+<p> </p>  
+<li value="59"><a name="para59"> <span style="font-family:&quot;Times New Roman&quot;,serif">A patent may be granted only to a person falling in one of the three categories of persons set out in section 7(2), however. The primary person to whom a patent may be granted is the inventor (section 7(2)(a)). But in preference to the inventor, it may be granted to a person or persons mentioned in section 7(2)(b), or to the successor or successors in title of any person mentioned in paragraph (a) or (b) (section 7(2)(c)) - again being persons with legal personality, although not necessarily natural persons - for they may include, for example, a corporate employer.</span>
+</a></li>
+<p> </p>  
+<li value="60"><a name="para60"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Confirmation that this interpretation is correct may be found in the decision of the House of Lords in the <i>Yeda</i> <i>Research </i>case to which I have referred<i>.</i> This was a dispute over entitlement and as Lord Hoffmann explained, at para 19, the first step in such a dispute is to decide who was the inventor or inventors of the claimed invention. Only when that question has been decided can one consider whether the patent may be granted in preference to the inventor to someone else under paragraphs (b) or (c) of section 7(2) of the 1977 Act. </span>
+</a></li>
+<p> </p>  
+<li value="61"><a name="para61"> <span style="font-family:&quot;Times New Roman&quot;,serif">Lord Hoffmann continued, at para 20, that the inventor, as defined in section 7(3), is the <i>natural person</i> who came up with the inventive concept (approving the statement to this effect of Laddie J in <i>University of Southampton's Applications</i> </span></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Patents/2004/2107.html">[2004] EWHC 2107 (Pat)</a>, [2005] RPC 220, 234), and observed that deciding upon inventorship will involve assessing the evidence adduced by the parties as to the nature of the inventive concept and who contributed to it.
+</li>
+<p> </p>  
+<li value="62"><a name="para62"> <span style="font-family:&quot;Times New Roman&quot;,serif">Lord Hoffmann also explained, at para 18, that section 7(2) and the definition in section 7(3) provide an exhaustive code for deciding who is entitled to the grant of a patent. As I have said, that is made clear by the words "and to no other person". Lord Hoffmann continued:</span>
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">"In saying that the patent may be granted 'primarily" to the inventor, section 7(2) emphasises that a patent may be granted only to the inventor or someone claiming through him. The claim through an inventor may be made under one of the rules mentioned in paragraph (b), by which someone may be entitled to patent an invention which has been made by someone else (the right of an employer under section 39 is the most obvious example) or the claim may be made under paragraph (c) as successor in title to an inventor or to someone entitled under paragraph (b)." </span></p>  
+<li value="63"><a name="para63"> <span style="font-family:&quot;Times New Roman&quot;,serif">This is another important point. Lord Hoffmann reiterated here that the inventor must be a natural person and that any other person to whom a patent may be granted must claim through the inventor, for example as employer or as a person who, by virtue of, for example, an enactment or rule of law, or by virtue of an enforceable term of an agreement was at the time of making the invention entitled to the whole of the property in it. </span>
+</a></li>
+<p> </p>  
+<li value="64"><a name="para64"> <span style="font-family:&quot;Times New Roman&quot;,serif">The presumption arising from section 7(4) is entirely consistent with this approach. It says that a <i>person </i>who makes an application for a patent shall be taken to be the person who is entitled under subsection (2) to be granted a patent. Of course, that presumption can be rebutted, but only if it is shown that some other<i> person</i> is entitled to it. A machine is not a person and so cannot qualify under section 7(4) or section 7(2). </span>
+</a></li>
+<p> </p>  
+<li value="65"><a name="para65"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Yet further confirmation that an inventor must be a person is to be found in the terms of section 13. I must return to this in addressing the other issues arising on this appeal. But for the moment it is enough to refer to section 13(1) which confers on the inventor the right to be mentioned, and section 13(2) which requires the applicant to file the statement identifying the person or persons whom he believes to be the inventor or inventors. There is no suggestion in any of these provisions that an inventor may be a machine. </span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">The broader context within the 1977 Act</span></p>  
+<li value="66"><a name="para66"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The broader context is entirely consistent with this understanding. Here some important aspects of the 1977 Act are: first, the protection it confers against prior publication in breach of confidence (section 2(4)); secondly, the power conferred on the Comptroller by section 8 to decide questions of entitlement before a patent has been granted (see for example, section 8(1) and (6)); and thirdly, section 37 which deals with the case in which a dispute about entitlement arises in relation to a patent which has been granted. </span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Disregarding prior disclosures - section 2(4)</span></p>  
+<li value="67"><a name="para67"> <span style="font-family:&quot;Times New Roman&quot;,serif">It is a fundamental requirement of patentability that the product or process said to constitute the invention is new. But section 2(4) of the 1977 Act provides, among other things, that prior disclosures of matter constituting an invention shall be disregarded in the case of a patent or application for a patent if occurring later than the beginning of the period of six months immediately preceding the date of filing of the application for the patent and either:</span>
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">"... (a) the disclosure was due to, or made in consequence of, the matter having been obtained unlawfully or in breach of confidence by any person- </span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(i) from the inventor or from any other person to whom the matter was made available in confidence by the inventor or who obtained it from the inventor because he or the inventor believed that he was entitled to obtain it; or </span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;(ii) from any other person to whom the matter was made available in confidence by any person mentioned in sub-paragraph (i) above or in this sub-paragraph or who obtained it from any person so mentioned because he or the person from whom he obtained it believed that he was entitled to obtain it; </span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">[or] </span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(b) the disclosure was made in breach of confidence by any person who obtained the matter in confidence from the inventor or from any other person to whom it was made available, or who obtained it, from the inventor; ...."</span></p>  
+<li value="68"><a name="para68"> <span style="font-family:&quot;Times New Roman&quot;,serif">Again, this section contemplates that the inventor is a natural person and further, that the person to whom the disclosure was made had legal personality. I should add two further points here. There is also a saving if the disclosure was due to or made in consequence of the inventor displaying the invention at an international exhibition provided certain other requirements are fulfilled. Secondly, the section says in terms that in it references to the inventor include references to any proprietor of the invention for the time being. But none of that detracts from the points I have made. </span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Section 8: determination before grant </span></p>  
+<li value="69"><a name="para69"> <span style="font-family:&quot;Times New Roman&quot;,serif">Next and having regard to section 7 of the 1977 Act, it is helpful to have in mind the terms of section 8 of the 1977 Act which permit the determination before grant of questions about whether a person is entitled to be granted a patent for the invention in respect of which an application is made, or has or would have any right in or under any patent so granted or any application for such a patent.</span>
+</a></li>
+<p> </p>  
+<li value="70"><a name="para70"> <span style="font-family:&quot;Times New Roman&quot;,serif">Here section 8 provides in relevant part:</span>
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">"</span><span style="font-family:&quot;Times New Roman&quot;,serif">8(1) </span><span style="font-family: &quot;Times New Roman&quot;,serif">At any time before a patent has been granted for an invention (whether or not an application has been made for it)—</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(a) any person may refer to the comptroller the question whether he is entitled to be granted (alone or with any other persons) a patent for that invention or has or would have any right in or under any patent so granted or any application for such a patent; or</span></p>  
+<p class="MsoQuote" style="margin-left:108.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(b) any of two or more co-proprietors of an application for a patent for that invention may so refer the question whether any right in or under the application should be transferred or granted to any other person;</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">and the comptroller shall determine the question and may make such order as he thinks fit to give effect to the determination.</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">...</span></p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">(6) Where on a reference under this section it is alleged that, by virtue of any transaction, instrument or event relating to an invention or an application for a patent, any person other than the inventor or the applicant for the patent has become entitled to be granted (whether alone or with any other persons) a patent for the invention or has or would have any right in or under any patent so granted or any application for any such patent, an order shall not be made under subsection (2)(a), (b) or (d) above on the reference unless notice of the reference is given to the applicant and any such person, except any of them who is a party to the reference."</span></p>  
+<li value="71"><a name="para71"> <span style="font-family:&quot;Times New Roman&quot;,serif">Two points emerge from this section: first, before grant, any person may refer to the Comptroller the question whether he is entitled to be granted a patent for the invention; and secondly, only persons with legal personality can be granted a patent, not machines. </span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">Section 37 - determination after grant </span></p>  
+<li value="72"><a name="para72"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Section 37 of the 1977 Act, the provision of particular relevance in the <i>Yeda Research </i>case, deals with the position after grant and provides the machinery for a person having or claiming a proprietary interest in or under a patent to refer to the Comptroller the question who is or are the true proprietor or proprietors of the patent; whether the patent should have been granted to the person or persons to whom it was granted; and whether any right in or under the patent should be granted or transferred to any other person or persons. The Comptroller may refer any question of this kind to the court or may decide it. This machinery is again consistent with the proposition that rights are derived through the inventor and that patents are only granted or transferred to persons with legal personality.</span>
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; font-weight:normal">DABUS is not an inventor </span></p>  
+<li value="73"><a name="para73"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;In all these circumstances the Comptroller was right to decide that DABUS is not and was not an inventor of any new product or process described in the patent applications. It is not a person, let alone a natural person and it did not devise any relevant invention. Accordingly, it is not and never was an "inventor" for the purposes of section 7 or 13 of the 1977 Act. </span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">Issue 2</span><span style="font-family:&quot;Times New Roman&quot;,serif">: </span><span style="font-family:&quot;Times New Roman&quot;,serif;text-transform:none">Was Dr Thaler nevertheless the owner of any invention in any</span><span style="font-family:&quot;Times New Roman&quot;,serif"> </span><span style="font-family: &quot;Times New Roman&quot;,serif;text-transform:none">technical advance made by DABUS and entitled to apply for and obtain a patent in respect of it</span><span style="font-family:&quot;Times New Roman&quot;,serif">? </span></p>  
+<li value="74"><a name="para74"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;The next question is whether Dr Thaler was nevertheless entitled to apply for and obtain a patent in respect of any technical advance made by DABUS and described in the patent applications.</span>
+</a></li>
+<p> </p>  
+<li value="75"><a name="para75"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Here Dr Thaler faces two formidable difficulties. The first is that DABUS, a machine with no legal personality, is not and has never been an inventor within the meaning of the 1977 Act. This is more than a formal objection. It goes to the heart of the system for granting a monopoly for an invention. The second is that Dr Thaler, on his own case, has no independent right to obtain a patent in respect of any such technical advance. </span>
+</a></li>
+<p> </p>  
+<li value="76"><a name="para76"> <span style="font-family:&quot;Times New Roman&quot;,serif">Notwithstanding these difficulties, Dr Thaler contends that he was entitled to file applications for and obtain the grant of patents for what he characterises as the inventions described and disclosed in each of these applications on the basis of his ownership of DABUS. </span>
+</a></li>
+<p> </p>  
+<li value="77"><a name="para77"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;In my view this argument is without merit and fails to face up to and address any of the following problems. First, as we have seen, section 7 of the 1977 Act confers the right to apply for and obtain a patent and it provides a complete code for that purpose. As a starting point, under section 7(2)(a), there must be an inventor, and that inventor must be a person. DABUS was not and is not a person. </span>
+</a></li>
+<p> </p>  
+<li value="78"><a name="para78"> <span style="font-family:&quot;Times New Roman&quot;,serif">Secondly, the applicant, if not the inventor, must be a person falling within one of the limbs of section 7(2)(b) such that, in preference to the inventor, this person was, at the time of the making of the invention, entitled to the whole of the property in it (other than any equitable interest) in the United Kingdom. Alternatively, under section 7(2)(c), this person must be the successor in title to any person mentioned in paragraph (a) or (b).</span>
+</a></li>
+<p> </p>  
+<li value="79"><a name="para79"> <span style="font-family:&quot;Times New Roman&quot;,serif">In my opinion, Dr Thaler does not satisfy any part of this carefully structured code. Section 7 does not confer on any person a right to obtain a patent for any new product or process created or generated autonomously by a machine, such as DABUS, let alone a person who claims that right purely on the basis of ownership of the machine. This fundamental premise of the 1977 Act is made explicit in section 7(2)(b) on which Dr Thaler relies, as the references to "the invention" are necessarily references to an invention devised by a person. Put another way, I agree with Elisabeth Laing LJ who said, at para 103 of the judgment of the Court of Appeal: </span>
+</a></li>
+<p> </p>  
+<p class="MsoQuote"><span style="font-family:&quot;Times New Roman&quot;,serif">"Whether or not thinking machines were capable of devising inventions in 1977, it is clear to me that that Parliament did not have them in mind when enacting this scheme. If patents are to be granted in respect of inventions made by machines, the 1977 Act will have to be amended." </span></p>  
+<li value="80"><a name="para80"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;Nevertheless, it is argued on behalf of Dr Thaler that this analysis is incomplete because the 1977 Act recognises that there is property in an invention as such at the time the invention is made; and further, that an invention is not simply information (confidential or otherwise) because the property right in the invention permits the holder of that right to apply for and obtain a patent for the invention. The argument continues that this is clear from many provisions of the 1977 Act, including section 7(2), and sections 39 to 42. It is also submitted that this property right (and with it the right to apply for and obtain a patent) is transferable. </span>
+</a></li>
+<p> </p>  
+<li value="81"><a name="para81"> <span style="font-family:&quot;Times New Roman&quot;,serif">Focusing on section 39, by way of illustration, Dr Thaler contends that this is consistent with his submission and indeed provides further confirmation that an invention (as distinct from a patent or patent application) is a kind of property and, as between the employee and the employer, an invention made in any of the particular circumstances described in section 39(1) shall be taken to belong to the employer, but if made in other circumstances shall be taken to belong to the employee. What is more, where it is to be taken as belonging to the employee, the right is transferable by the employee. </span>
+</a></li>
+<p> </p>  
+<li value="82"><a name="para82"> <span style="font-family:&quot;Times New Roman&quot;,serif">Turning to the particular circumstances of these applications, Dr Thaler recognises that there is no employment relationship between him and DABUS. He contends, however, that, as the owner of DABUS and by analogy with or upon application of the doctrine of accession, he derived the right to apply for and be granted patents for the inventions described and disclosed in the applications, and that the operation of section 7(2) does not depend on that doctrine being spelled out in the Act. </span>
+</a></li>
+<p> </p>  
+<li value="83"><a name="para83"> <span style="font-family:&quot;Times New Roman&quot;,serif">The DABUS inventions are, he says, the fruits of (in the sense they were produced by) the DABUS machine that he owns and further, that DABUS was designed to make inventions and so these fruits were by no means unexpected. He also contends that he was and remains the first person to possess the inventions and this provides a proper basis for their ownership. In short, he contends that he derived title by operation of a rule of law (the doctrine of accession) that satisfied the terms of section 7(2)(b) of the Act and conferred on him the right to apply for and secure the grant of patent protection for any inventions made by DABUS.</span>
+</a></li>
+<p> </p>  
+<li value="84"><a name="para84"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;In my view there are two fundamental problems with these submissions. The first is that they assume that DABUS can itself be an inventor within the meaning of the 1977 Act. But that assumption is not correct for the reasons I have given. DABUS is a machine and not a person. That was reason enough for the Hearing Officer for the Comptroller to reach the conclusion he did. Indeed, it was itself fatal to the applications. There was no inventor through whom Dr Thaler could claim the right to obtain a patent for any technical advance described in those applications.</span>
+</a></li>
+<p> </p>  
+<li value="85"><a name="para85"> <span style="font-family:&quot;Times New Roman&quot;,serif">The second is that it mischaracterises an invention as being or amounting to tangible property such that title to it can pass, as a matter of law, to the owner of the machine which, on this assumption, generated it. I accept, of course, that the 1977 Act refers at times to the property in an invention. As we have seen, it does so in, most importantly, section 7(2)(b), and this is the provision on which Dr Thaler places particular reliance. The 1977 Act also contemplates in, for example, section 39, that an invention may be taken as "belonging" to a person, such as an employee or an employer. </span>
+</a></li>
+<p> </p>  
+<li value="86"><a name="para86"> <span style="font-family:&quot;Times New Roman&quot;,serif">One must be careful to understand what this means, however. The right we are concerned with, as conferred by the 1977 Act, is a right to apply for a patent for what is said to be an invention and, if it is patentable and satisfies the other requirements of the Act, to secure the grant of a patent on that application. But I am satisfied that Dr Thaler has not identified any basis in law on which he acquired such a right through his ownership of DABUS. </span>
+</a></li>
+<p> </p>  
+<li value="87"><a name="para87"> <span style="font-family:&quot;Times New Roman&quot;,serif">&nbsp;In particular, Dr Thaler's reliance on the doctrine of accession in this context is misguided. The doctrine concerns new tangible property produced by existing tangible property. Dr Thaler contends that, upon the application of this doctrine, the owner of the existing property also owns the new property. In this way, the farmer owns the cow and the calf. By analogy, Dr Thaler continues, he, as owner of DABUS, is the owner of all rights in all developments made by DABUS. </span>
+</a></li>
+<p> </p>  
+<li value="88"><a name="para88"> <span style="font-family:&quot;Times New Roman&quot;,serif">We are not concerned here with a new item of tangible property produced by an existing item of tangible property, however. We are concerned with what appear (and which for present purposes we must assume) to be concepts for new and non-obvious devices and methods, and descriptions of ways to put them to into practice, all of which, so Dr Thaler maintains, have been generated autonomously by DABUS. There is no principled basis for applying the doctrine of accession in these circumstances.</span>
+</a></li>
+<p> </p>  
+<li value="89"><a name="para89"> <span style="font-family:&quot;Times New Roman&quot;,serif">For these reasons and those given by the Court of Appeal, I am satisfied that the doctrine upon which Dr Thaler relies here, that of accession, does not, as a matter of law, operate to confer on him the property in or the right to apply for and obtain a patent for any technical development made by DABUS.</span>
+</a></li>
+<p> </p>  
+<li value="90"><a name="para90"> <span style="font-family:&quot;Times New Roman&quot;,serif">It follows that, on the factual assumptions upon which this appeal is proceeding, Dr Thaler has never had any right to secure the grant to himself of patents under the 1977 Act in respect of anything described in the applications.</span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">Issue 3: Was the Hearing Officer</span><span style="font-family:&quot;Times New Roman&quot;,serif"> </span><span style="font-family: &quot;Times New Roman&quot;,serif;text-transform:none">entitled to hold that the applications would be taken to be withdrawn?</span></p>  
+<li value="91"><a name="para91"> <span style="font-family:&quot;Times New Roman&quot;,serif">The third question is whether the Hearing Officer for the Comptroller was entitled to hold that the applications would be taken to be withdrawn for failure to satisfy section 13 of the Act. In my view he plainly was. In light of my reasoning thus far I can take this quite shortly. The question must be approached, much as it was by at least the majority of the Court of Appeal, on the basis first, that DABUS is legally incapable of being an inventor within the meaning of the 1977 Act and secondly, that Dr Thaler has not established or indeed provided any plausible basis for his contention that he was entitled to apply for and obtain patents for the technical developments made by DABUS simply as a result of his ownership of that machine. </span>
+</a></li>
+<p> </p>  
+<li value="92"><a name="para92"> <span style="font-family:&quot;Times New Roman&quot;,serif">I have set out the terms of section 13 at para 34 above. I would also emphasise that it is no part of the function of the Comptroller to examine the correctness of genuine and plausible statements of inventorship and entitlement under section 13(2) and rule 10.</span>
+</a></li>
+<p> </p>  
+<li value="93"><a name="para93"> <span style="font-family:&quot;Times New Roman&quot;,serif">Nevertheless, section 13 contains several requirements of relevance in a case such as this and Dr Thaler has not satisfied any of them. First, Dr Thaler failed to identify any person or persons whom he believed to be the inventor or inventors of the inventions described in each of the applications. Indeed, he did not identify in general or specific terms any person or persons at all. This is not a case where Dr Thaler was unable to identify the actual inventor or made a genuine mistake as to that person's identity. To the contrary, he was never in any doubt as to how the invention was devised; nor has he made any mistake as to the facts. </span>
+</a></li>
+<p> </p>  
+<li value="94"><a name="para94"> <span style="font-family:&quot;Times New Roman&quot;,serif">Instead, Dr Thaler has chosen to proceed on the basis that the inventions for which he seeks protection were made by DABUS powered by AI and acting autonomously; and that it is in principle permissible to apply for and secure the grant of a patent for an invention made by DABUS, and that he, as the owner of the machine, is entitled to the grant of the patent. But DABUS is not a person or persons and, for the reasons I have given, it is not a tenable interpretation of the 1977 Act that a machine can be an inventor. In my view, therefore, Dr Thaler has failed to satisfy section 13(2)(a) of the 1977 Act and the Hearing Officer was right so to hold. </span>
+</a></li>
+<p> </p>  
+<li value="95"><a name="para95"> <span style="font-family:&quot;Times New Roman&quot;,serif">I turn next to consider whether Dr Thaler also failed to satisfy section 13(2)(b) of the 1977 Act. In so far as Dr Thaler was relying on DABUS as the inventor - a proposition which was flawed and legally impossible - he was required to indicate the derivation of his right to be granted the patent. Again, in my view, this was something he failed to do. Before setting out my reasons for arriving at this conclusion, it may be helpful to get a few matters out of the way.</span>
+</a></li>
+<p> </p>  
+<li value="96"><a name="para96"> <span style="font-family:&quot;Times New Roman&quot;,serif">As I have explained, it is not the function of the UKIPO to investigate the correctness of an apparently genuine statement of fact by the applicant which indicates the derivation of his right to be granted the patent for which the application is made. But that does not mean to say that the UKIPO is powerless to intervene where that indication is obviously defective or insufficient. That would be to disregard the requirement imposed by section 13(2)(b) of the 1977 Act. So, for example, in the <i>Nippon Piston Ring</i> case, there had been a failure to identify whether the applicant relied on section 7(2)(b) or (c) of the 1977 Act. That was not permissible. Nor would it have been permissible simply to rely on an assignment from A to B when the application was made by C.</span>
+</a></li>
+<p> </p>  
+<li value="97"><a name="para97"> <span style="font-family:&quot;Times New Roman&quot;,serif">Again, it seems to me that the Hearing Officer came to the right conclusion in respect of this second limb of section 13(2). Dr Thaler asserted that it was enough that he owned DABUS. For the reasons I have given, that was not correct. Here too there was nothing to investigate because the key assertion of fact made by Dr Thaler, namely that he owned DABUS at all relevant times, was assumed to be true. The question then was one of law: did this, of itself, provide a proper basis for accepting the application? The answer was that it did not.</span>
+</a></li>
+<p> </p>  
+<li value="98"><a name="para98"> <span style="font-family:&quot;Times New Roman&quot;,serif">Accordingly, Dr Thaler did not satisfy either of the requirements in section 13(2), and it necessarily follows that I do not agree with the reasoning of Birss LJ so far as it led him to a different conclusion. The inevitable consequence was and remains that the applications must now be taken to have been withdrawn. This is not to impose an additional requirement for patentability; nor does it introduce a new ground for refusing patent applications. It is the consequence prescribed by section 13(2) if the applicant fails within the relevant period to file with the UKIPO a statement identifying the person or persons whom he believes to be the inventor or inventors; and where, as here, the applicant is not the inventor, indicating the derivation of his right to be granted the patent.</span>
+</a></li>
+<p> </p>  
+<p class="ParaHeading1"><span style="font-family:&quot;Times New Roman&quot;,serif; text-transform:none">Overall conclusion </span></p>  
+<li value="99"><a name="para99"> <span style="font-family:&quot;Times New Roman&quot;,serif">For all of these reasons, I am satisfied the Comptroller was right to find the applications would be taken to be withdrawn at the expiry of the sixteen-month period specified by rule 10(3). The judge and the majority of the Court of Appeal made no error in affirming that decision and in finding that the applications are now deemed to have been withdrawn. I would dismiss this appeal. </span>
+</a></li>
+<p> </p> </ol></div> 
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/49.html</i>
+</small>
+<p></p>
+
+ 
+ 
+
+
+</body></html>

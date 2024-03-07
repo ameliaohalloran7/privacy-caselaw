@@ -1,0 +1,460 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Crown Prosecution Service v Aquila Advisory Ltd [2021] UKSC 49 (03 November 2021)</title> 
+<style> <!-- /* Font Definitions */ @font-face {font-family:Helvetica; panose-1:2 11 6 4 2 2 2 2 2 4;} @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:"Arial Unicode MS"; panose-1:2 11 6 4 2 2 2 2 2 4;} @font-face {font-family:"Univers \(W1\)";} @font-face {font-family:Gadugi; panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face {font-family:Gisha;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm; font-size:12.0pt; font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader {mso-style-link:"Header Char"; margin:0cm; font-size:12.0pt; font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter {mso-style-link:"Footer Char"; margin:0cm; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote {mso-style-link:"Quote Char"; margin-top:0cm; margin-right:62.65pt; margin-bottom:26.0pt; margin-left:72.0pt; font-size:13.0pt; font-family:"Calibri",sans-serif;} span.FooterChar {mso-style-name:"Footer Char"; mso-style-link:Footer; font-family:"Univers (W1)",sans-serif;} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Times New Roman",serif;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber {mso-style-name:ParaNoNumber; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1 {mso-style-name:ParaLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-indent:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2 {mso-style-name:ParaLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:36.0pt; text-indent:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif;} span.QuoteChar {mso-style-name:"Quote Char"; mso-style-link:Quote; font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech {mso-style-name:NewSpeech; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif; text-transform:uppercase; font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences {mso-style-name:JudgmentReferences; margin-top:26.0pt; margin-right:0cm; margin-bottom:36.0pt; margin-left:0cm; text-align:right; font-size:12.0pt; font-family:"Calibri",sans-serif;} p.Paraheading6, li.Paraheading6, div.Paraheading6 {mso-style-name:"Paraheading 6"; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif; font-style:italic;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle {mso-style-name:JudgmentTitle; margin-top:0cm; margin-right:0cm; margin-bottom:12.0pt; margin-left:0cm; text-align:center; line-height:107%; font-size:20.0pt; font-family:"Calibri",sans-serif; font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1 {mso-style-name:JudgmentDetail1; margin-top:18.0pt; margin-right:0cm; margin-bottom:18.0pt; margin-left:0cm; text-align:center; line-height:107%; font-size:20.0pt; font-family:"Calibri",sans-serif; font-weight:bold;} p.ParaSubHeading3, li.ParaSubHeading3, div.ParaSubHeading3 {mso-style-name:ParaSubHeading3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif; font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1 {mso-style-name:ParaApprovedLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-indent:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2 {mso-style-name:ParaApprovedLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:36.0pt; text-indent:0cm; font-size:13.0pt; font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges {mso-style-name:JudgmentJudges; margin-top:0cm; margin-right:0cm; margin-bottom:30.0pt; margin-left:0cm; text-align:center; font-size:17.0pt; font-family:"Calibri",sans-serif; font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt {mso-style-name:JudgmentAppRespInt; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:center; font-size:12.0pt; font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3 {mso-style-name:ParaLevel3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:70.55pt; text-indent:.35pt; line-height:200%; font-size:13.0pt; font-family:"Calibri",sans-serif;} span.legds {mso-style-name:legds;} .MsoChpDefault {font-family:"Calibri",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:107%;} /* Page Definitions */ @page WordSection1 {size:595.45pt 841.7pt; margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1 {page:WordSection1;} @page WordSection2 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2 {page:WordSection2;} @page WordSection3 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3 {page:WordSection3;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> </style> 
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head> 
+<body lang="EN-GB" link="blue" vlink="#954F72" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Crown Prosecution Service v Aquila Advisory Ltd [2021] UKSC 49 (03 November 2021)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2021/49.html</i>
+<br>Cite as: 
+[2022] BCC 137,
+
+24 ITELR 978,
+
+[2021] UKSC 49,
+
+[2021] WLR 5666,
+
+[2021] 1 WLR 5666,
+
+[2022] 2 All ER 864,
+
+[2022] 1 BCLC 1
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2021/49.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2018000647/casereport_fa6450fa-f0cf-48d1-b61e-8ad333a35913/html">[2021] 1 WLR 5666</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+ 
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2021/49.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2021/49.image1.pdf">Issues &amp; Facts</a></span></b></p>
+ 
+<p class="JudgmentReferences"><a name="_Hlk72690073"><b>Michaelmas Term</b><br> <b>[2021] UKSC 49<br> </b><i>On appeal from: </i></a><i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2019/588.html">[2019] EWCA Civ 588</a></i></p> 
+<p class="JudgmentTitle">JUDGMENT</p> 
+<p class="JudgmentDetail1">Crown Prosecution Service (Appellant) <i>v</i> Aquila Advisory Ltd (Respondent)</p> 
+<p class="JudgmentJudges"><span style="font-weight:normal">before</span><span style="font-weight:normal"><br> </span><span style="font-size:10.0pt;font-weight:normal"><br> </span>Lord Lloyd-Jones<br> Lord Sales<br> Lord Burrows<br> Lord Stephens<br> Lady Rose</p> 
+<p class="JudgmentJudges">JUDGMENT GIVEN ON<br> 3 November 2021<br> <br> Heard on 27 April 2021</p>  <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span> 
+<div class="WordSection2"> 
+<p class="JudgmentAppRespInt"><a name="_Hlk521913256"><i>Appellant<br> </i>Andrew Sutcliffe QC<br> Julian Christopher QC<br> Anne Jeavons<br> </a>(Instructed by CPS National Proceeds of Crime Unit)</p> 
+<p class="JudgmentAppRespInt"><i>Respondent</i><br> Stuart Ritchie QC<br> Martin Evans QC<br> Sam Neaman<br> (Instructed by Kingsley Napley LLP)</p> 
+<p class="JudgmentAppRespInt" align="left" style="text-align:left"><b>&nbsp;</b></p> </div> <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span> 
+<div class="WordSection3">  <ol>
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">LORD STEPHENS: (</a><span style="text-transform:none">with whom Lord Lloyd-Jones, Lord Sales, Lord Burrows and Lady Rose agree)</span></p> 
+<p class="Paraheading6">Introduction and overview</p> 
+<li value="1"><a name="para1"> Mr Robert Faichney and Mr David Perrin exploited their position as directors of Vantis Tax Ltd (“VTL”), in breach of fiduciary duty, to make a secret profit of £4.55m. Aquila Advisory Ltd (“Aquila”), which has acquired the proprietary rights (including choses in action) of VTL, relies, in particular, on the judgment of this court in <i>FHR European Ventures LLP v Mankarious</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2014/45.html">[2014] UKSC 45</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/45.html">[2015] AC 250</a> <span style="color:black">(“<i>FHR</i>”)</span>, to assert that Mr Faichney and Mr Perrin are to be treated as having acquired the benefit of that secret profit on behalf of their principal, VTL. The result, Aquila argues, is that the secret profit was beneficially owned by VTL under a constructive trust, the beneficial interest in which has now passed to Aquila.
+</li>
+<p> </p> 
+<li value="2"><a name="para2"> The amount of £4.55m was also the benefit obtained by Mr Faichney and Mr Perrin from the crime of cheating the public revenue by dishonestly facilitating and inducing others to submit false claims for tax relief. Those crimes were committed by Mr Faichney and Mr Perrin in relation to four tax avoidance schemes. Following their criminal convictions, the Crown Prosecution Service (the “CPS”) sought confiscation orders under the Proceeds of Crime Act 2002 (“POCA”) against Mr Faichney and Mr Perrin. The judge in the criminal trial found that Mr Perrin’s benefit from the offence was £4.55m but that the available amount was £809,692. An order was made requiring Mr Perrin to pay that amount. Subsequently, an order was made requiring Mr Faichney to pay £648,000, which was the available amount in his case. However, Aquila asserts that as it has a proprietary claim to the secret profit of £4.55m (from which secret profit all the property assets of Mr Faichney and Mr Perrin were obtained) it has priority over the confiscation orders, as those orders do not give the CPS any form of proprietary interest in the assets of either Mr Faichney or Mr Perrin. If that is correct, then Aquila will be entitled to all of Mr Faichney’s and Mr Perrin’s assets leaving nothing to satisfy the confiscation orders.
+</a></li>
+<p> </p> 
+<li value="3"><a name="para3"> There were a number of parties to these civil proceedings but by the date of the trial before Mann J and by virtue of two settlement agreements, the only parties participating in the trial were Aquila and the CPS. The issue between them, as defined by the judge (at para 1) was, in essence, whether the proprietary rights to which Aquila would otherwise be entitled against Mr Faichney and Mr Perrin could be asserted “in the face of” the confiscation orders obtained by the CPS against Mr Perrin and Mr Faichney under POCA, which were obtained by the CPS after the convictions of Mr Faichney and Mr Perrin. <span style="color:black">Mann J decided that Aquila, which had acquired the proprietary rights of VTL, was entitled to assert a proprietary claim to the funds in dispute in priority to the claim of the CPS: see </span></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2018/565.html">[2018] EWHC 565 (Ch)</a>; [2018] Lloyd’s Rep FC 345. The judge granted a declaration to the effect that the moneys totalling £4.55m were held by 
+<span class="legds"><span lang="EN-US">Mr Faichney and Mr Perrin (in fact, by the latter’s estate, as Mr Perrin had died in October 2017) and their wives, (who had been joined as defendants, see para 42 below), </span></span>from the time of their receipt on constructive trust for VTL, whose rights had been assigned to Aquila. The declaration also provided, in accordance with an agreement between the parties (see para 44(c) below) that the CPS was obliged to instruct the receiver to transfer to Aquila the net proceeds realised from all the assets listed in the confiscation orders.
+</li>
+<p> </p> 
+<li value="4"><a name="para4"> The CPS appealed to the Court of Appeal </a>on the ground that the judge should have attributed the actions of the directors to VTL and therefore treated VTL’s claim to recover the proceeds of the crime as barred by the principles of illegality. Following a hearing on 13 March 2019, the Court of Appeal (Patten, Hamblen and Holroyde LJJ) handed down judgment on 9 April 2019; see <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2019/588.html">[2019] EWCA Civ 588</a>. Patten LJ delivered the lead judgment, with which the other members of the court agreed. He recast the issue (at para 1), at its simplest, as being whether the CPS had a claim under the confiscation orders which it could enforce in priority to the proprietary claim of Aquila. Patten LJ recorded (at para 13) that the CPS accepted that what the directors did amounted to a breach of the fiduciary duty which they owed to VTL and that the consequence of that breach of duty was that VTL had a proprietary claim to the £4.55m based on a constructive trust in accordance with the decision in <i>FHR</i>. He also recorded (at para 14) that the CPS accepted that the confiscation orders under POCA did not give it any form of proprietary interest in the available assets of either Mr Faichney or Mr Perrin or any priority over other claims and interests in those assets, so that (as explained at para 20), unless the constructive trust is rendered unenforceable by <i>attributing</i> to VTL the fraud of its directors and thereby neutralising VTL’s assertion of its proprietary claim by the application of the defence of illegality, the CPS has no claim to the £4.55m, which belongs in equity to Aquila.
+</li>
+<p> </p> 
+<li value="5"><a name="para5"> In relation to the submission that the fraud of the directors should be attributed to VTL, Patten LJ, relying on the judgment of this court in <i>Bilta (UK) Ltd v Nazir </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/23.html">[2015] UKSC 23</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/23.html">[2016] AC 1</a> (“<i>Bilta</i>”), held (at para 24) that “a director sued by a company for loss caused by a breach of fiduciary duty cannot rely on the principles of attribution to defeat the claim even if the scheme involved the company in the fraud or illegality.” Furthermore, Patten LJ held (at para 25) that it was not open to the Court of Appeal to fashion some exception to the decision in <i>Bilta</i> to accommodate the facts of this case. His overall conclusion (at para 28) was that the Court of Appeal could not “attribute the actions of Mr Faichney and Mr Perrin to VTL so as to defeat the company’s equitable title to the £4.55m” so that the appeal was dismissed.
+</li>
+<p> </p> 
+<li value="6"><a name="para6"> On 3 December 2019, a panel of the Supreme Court (Lord Kerr, Lord Hodge and Lady Arden) granted the CPS permission to appeal.</a>
+</li>
+<p> </p> 
+<li value="7"><a name="para7"> In broad outline the CPS argues that (a) the fraud of its former directors should be attributed to VTL in circumstances where, it is suggested, VTL has suffered no loss but rather stood to profit from the illegal acts of its former directors by obtaining a proprietary interest in the proceeds of the crime which those directors committed; and (b) the regime established by POCA should not permit VTL to benefit from the profits generated by the criminal activities of its former directors.
+</a></li>
+<p> </p> 
+<li value="8"><a name="para8"> The parties to the appeal are the CPS as appellant and Aquila as respondent.
+</a></li>
+<p> </p> 
+<p class="Paraheading6">The facts</p> 
+<li value="9"><a name="para9"> VTL, which was incorporated in Jersey on 22 December 2003, was intended to offer consultancy, and in particular tax planning, services to external clients. It was a part of the Vantis Group of companies which offered accountancy services.
+</a></li>
+<p> </p> 
+<li value="10"><a name="para10"> Mr Faichney and Mr Perrin were recruited by the Vantis Group in 2003. They were both former Inland Revenue Officers. They became statutory directors of VTL upon its incorporation.
+</a></li>
+<p> </p> 
+<li value="11"><a name="para11"> Mr Faichney was appointed Managing Director of VTL in February 2004, and Mr Perrin Deputy Managing Director in May 2004. <span style="color:black">They both had minority shareholdings in VTL. </span>Mr Perrin was the director with principal day to day responsibility for the initial tax avoidance scheme and for the three further schemes involved in this appeal.
+</a></li>
+<p> </p> 
+<li value="12"><a name="para12"> In June 2004 Mr Faichney submitted a business plan to VTL for a software product, called “Taxcracker”. Its purpose was to enable financial advisers to identify high net worth individuals who might benefit from tax planning services offered by the Vantis Group. It operated on the basis of an (at that time) sophisticated question and answer structure.
+</a></li>
+<p> </p> 
+<li value="13"><a name="para13"> In August 2004 VTL commissioned a software writing company called NETbuilder Ltd to write and develop the code for the product. The underlying concept became known as “Qaria”. All original intellectual property rights in the software technology (“the IP”) vested in and continued, at all material times, to reside with VTL.
+</a></li>
+<p> </p> 
+<li value="14"><a name="para14"> The provisions of section 587B of the Income and Corporation Taxes Act 1988 allowed an individual taxpayer to claim relief in respect of the value of shares in a trading company on a recognised stock exchange which were given to charity. If an individual taxpayer purchased shares for a small consideration and those shares, having substantially increased in value, were subsequently given to charity, the taxpayer could obtain tax relief in excess of the amount which the taxpayer had expended on the purchase of the shares. The obtaining of tax relief in such circumstances was legitimate provided, of course, that the increase in the value of the shares was genuine.
+</a></li>
+<p> </p> 
+<li value="15"><a name="para15"> Mr Faichney and Mr Perrin devised and promoted (through VTL) a scheme which utilised the provisions of section 587B. The scheme involved the formation of a company (“the tax avoidance company”) in which taxpayer subscribers (who were clients of VTL) could subscribe for shares at a small price per share. The company would then purportedly acquire assets which would increase its share price, at which point the shares would be given to charity at a higher valuation than their subscription price. The value of the donation would be allowed to the taxpayer as a relief, which would, on this basis, be much higher than the amount paid for the shares.
+</a></li>
+<p> </p> 
+<li value="16"><a name="para16"> Mr Faichney and Mr Perrin realised that the IP could ostensibly be acquired by the tax avoidance company to (purportedly) boost the value of its assets (and therefore of the company) so as to give the relief which the scheme was designed to confer.
+</a></li>
+<p> </p> 
+<li value="17"><a name="para17"> The first version of the scheme made use of Clerkenwell Medical Research Plc (“CMR”), which was a company set up for the purpose of avoiding tax in that way. CMR was incorporated in Jersey in September 2004. Its purpose was said to be the acquisition and exploitation of the IP. The scheme involved subscribers buying shares in the company, at 3p per share, in an amount of shares equal to the amount in £s of income which they sought to shelter from tax and then, shortly afterwards and on the basis that the shares had by then purportedly increased to a market value of £1 per share, donating the shares to charity. By that time the shares would be listed on the Channel Islands Stock Exchange, and thus would qualify for tax relief in an amount equal to their then market value.
+</a></li>
+<p> </p> 
+<li value="18"><a name="para18"> An initial sum of £1.24m was raised in applications for shares in CMR.
+</a></li>
+<p> </p> 
+<li value="19"><a name="para19"> Mr Faichney and Mr Perrin arranged for the “purchase” of the IP rights by CMR by way of a purported written assignment of the IP from a fictitious trust known as “The Richardson Trust” of which Mrs Perrin (using her maiden name of Barnes) was the purported trustee for the price of £500,000.
+</a></li>
+<p> </p> 
+<li value="20"><a name="para20"> On 2 March 2005, CMR, by way of a cheque signed by Mr Faichney and Mr Perrin, paid £500,000 to Mrs Perrin (in her maiden name of Barnes) purportedly for the IP. The Richardson Trust did not exist. The <span style="color:black">consideration of £500,000 in respect of the purported assignment of the IP rights was applied for the benefit of Mr and Mrs Perrin and Mr and Mrs Faichney</span>.
+</a></li>
+<p> </p> 
+<li value="21"><a name="para21"> On 13 April 2005 VTL wrote to its clients who had subscribed for shares in CMR telling them that the value to be inserted in the transfer forms to the charities was £1 per share, and that the amount to be claimed on their tax returns was to be calculated as £1 per share donated. This valuation was false and dishonest because CMR did not own the IP. There was nothing to justify that share price.
+</a></li>
+<p> </p> 
+<li value="22"><a name="para22"> In ignorance of the true facts, the taxpayers donated the shares to charities at this value, and as the shares were then listed on the Channel Islands Stock Exchange, they made successful claims for tax relief and thereby caused HM Revenue and Customs (“HMRC”) to give them tax credits to which they were not entitled.
+</a></li>
+<p> </p> 
+<li value="23"><a name="para23"> Under VTL’s terms and conditions the clients were obliged to pay fees to VTL equal to 12% of the amount sheltered as a result of their use of the scheme (ie, 12p per share if the £1 valuation was accepted by HMRC); thus, the fees paid to VTL would be four times as much as the taxpayers had paid for the shares.
+</a></li>
+<p> </p> 
+<li value="24"><a name="para24"> The purported rise in value of the shares was fictitious and was sought to be justified by a number of dishonest means, central to which was the apparent purchase by CMR of rights to develop the IP.
+</a></li>
+<p> </p> 
+<li value="25"><a name="para25"> Mr Faichney and Mr Perrin then replicated (through VTL) the CMR scheme on three further occasions using other tax avoidance companies, namely Modia plc, Your Health International plc and Signet Health International plc, each of which had also been set up by them for the purpose of the scheme. Each of those tax avoidance companies purported to purchase from CMR rights in the IP so as to develop the same software in limited fields or geographical areas. The schemes for these latter three companies all involved dishonesty on the part of Mr Faichney and Mr Perrin. They procured inflated valuations for the shares, and therefore for the intended charitable donations of the shares acquired by subscribers, and those valuations were unjustifiable and dishonest. By means of a backdated replacement for the original assignment between the Richardson Trust and CMR, CMR was apparently obliged to pass on to the “Richardson Trust” 90% of the proceeds of onward sale of the IP by CMR to third parties within 12 months, and 75% of the proceeds sold on within 24 months.
+</a></li>
+<p> </p> 
+<li value="26"><a name="para26"> Accordingly, in respect of these three further schemes, CMR made out two further cheques, signed by Mr Faichney and Mr Perrin, to Miss Barnes (ie, Mrs Perrin) of £1.8m and £2.25m (totalling £4.05m), on 22 August 2005 and 31 March 2006 respectively. Accordingly, the total amount paid by CMR to the Richardson Trust amounted to £4.55m, all of which passed into the hands of Mr and Mrs Perrin and Mr and Mrs Faichney. The source of that sum was the subscription fees paid by clients to participate in the tax avoidance scheme.
+</a></li>
+<p> </p> 
+<li value="27"><a name="para27"> The Richardson Trust did not exist and did not own any rights to the software; those rights continued to be owned by VTL. No rights were ever transferred under the assignments, although the tax avoidance companies had use of the IP. The Richardson Trust was merely a vehicle for allowing money to flow through Mrs Perrin, using her maiden name of Miss Barnes, to herself and to Mr Perrin and Mr and Mrs Faichney.
+</a></li>
+<p> </p> 
+<li value="28"><a name="para28"> The values attached to the rights in the various IP assignments did not represent the value of the rights purportedly being assigned, but rather represented the amounts which Mr Faichney and Mr Perrin felt they could take out of the various subscriptions for shares for their ultimate benefit. Mr Faichney and Mr Perrin knew that they had no right to assign the IP, which belonged to VTL, or to receive any proceeds thereof.
+</a></li>
+<p> </p> 
+<li value="29"><a name="para29"> The scheme was fraudulent from the start, and thus the money paid by the clients wishing to take advantage of the scheme (from which the £4.55m can be directly traced) was money obtained as a result of or in connection with the offence of cheating the public revenue. The scheme also amounted to a breach of Mr Faichney’s and Mr Perrin’s fiduciary duty by exploiting the corporate opportunity afforded to them as directors and by pretending to sell VTL’s IP rights to benefit themselves.
+</a></li>
+<p> </p> 
+<li value="30"><a name="para30"> For the purposes of all four tax avoidance schemes Mr Faichney and Mr Perrin were the directing mind and will of VTL.
+</a></li>
+<p> </p> 
+<p class="Paraheading6">The Proceeds of Crime Act 2002</p> 
+<li value="31"><a name="para31"> It is appropriate to consider in some detail the provisions of POCA.
+</a></li>
+<p> </p> 
+<li value="32"><a name="para32"> Part 2 makes provision for confiscation orders. Section 6, under Part 2, requires the Crown Court to make a confiscation order in certain circumstances, with the amount of the order being calculated by reference to the recoverable amount and the available amount. The recoverable amount for the purposes of section 6 is an amount equal to the benefit obtained by the defendant from the conduct concerned. A person “benefits from conduct” if he obtains property as a result of or in connection with the conduct (section 76(4)), and in such a case the person’s “benefit is the value of the property obtained” (section 76(7)). Once the amount of the benefit has been calculated, if the defendant shows that the available amount is less than that benefit, then the recoverable amount is (a) the available amount, or (b) a nominal amount, if the available amount is nil (section 7(2)). The available amount, in so far as relevant to this appeal, is
+<span class="legds"><span style="color:black"> the total of the values (at the time the confiscation order is made) of all the free property then held by the defendant</span></span> (section 9(1)(a)). All property is free property (section 82) unless, for instance, it is the subject of a forfeiture order either under the Misuse of Drugs Act 1971 or the Terrorism Act 2000 or a deprivation order under the Powers of Criminal Courts (Sentencing) Act 2000.
+</a></li>
+<p> </p> 
+<li value="33"><a name="para33"> The overarching principle of POCA is that neither a confiscation order under Part 2, nor a civil recovery order under Part 5, nor the money laundering provisions in Part 7 interfere with existing third-party property rights. For example, section 69(3)(a) (under Part 2) which provides that the powers of a receiver in respect of realisable property to which a confiscation order (or a restraint order) applies “must be exercised with a view to allowing a person other than the defendant or a recipient of a tainted gift to retain or recover the value of any interest held by him.” Similarly, section 281 (under Part 5) provides that in proceedings for a recovery order, a person who claims that any property alleged to be recoverable property belongs to him may apply for a declaration in specified circumstances, and property to which a section 281 declaration applies is not recoverable property. In this respect, POCA reflects the approach of the Drug Trafficking Offences Act 1986 which preceded it, and of which Lord Hobhouse said, in setting out the scheme of that Act in 
+<span class="legds"><i><span lang="EN-US">In re Norris</span></i></span> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2001/34.html">[2001] 1 WLR 1388</a> at paras 12-17, that confiscation orders should not interfere with the property rights of innocent third-parties.
+</li>
+<p> </p> 
+<li value="34"><a name="para34"> Recognition of the property rights of third-parties can also lead to the confiscation order being reduced. If it is determined in these proceedings that all the assets of Mr Faichney and Mr Perrin are subject to a constructive trust in favour of VTL then section 23 enables the confiscation order to be reduced based on the inadequacy of the available amount.
+</a></li>
+<p> </p> 
+<li value="35"><a name="para35"> It is suggested on behalf of the CPS that the determination that the assets of Mr Faichney and Mr Perrin are subject to a constructive trust in favour of VTL is inconsistent with the aim and purpose of POCA. That suggestion contradicts the view that has been set out in para 33 above that POCA does not interfere with third party property rights. In any event, certain provisions in POCA could have been, but were not used by the CPS to deprive VTL of its proprietary rights under the constructive trust or to prevent VTL from dealing with its proprietary rights.
+</a></li>
+<p> </p> 
+<li value="36"><a name="para36"> First, section 6 provides that, where a defendant has been convicted of an offence in proceedings before the Crown Court, the court must (if the prosecutor asks it to proceed under section 6 or the court believes it is appropriate to do so) consider whether to make a confiscation order under section 6(5)(b) requiring the defendant to pay the recoverable amount. The CPS did not bring any criminal charges against VTL. The lack of any conviction accordingly precluded an application against VTL for a confiscation order under section 6 in respect of its proprietary rights under the constructive trust.
+</a></li>
+<p> </p> 
+<li value="37"><a name="para37"> Second, to prevent assets being dissipated before an application for a confiscation order can be determined section 40 provides that where, for instance, a criminal investigation has been started in England and Wales with regard to an offence, and there are reasonable grounds to suspect that the alleged offender has benefited from his criminal conduct then under section 41 the Crown Court may make an order (a restraint order) prohibiting any specified person from dealing with any realisable property held by the alleged offender. The CPS did not apply for, or obtain, a restraint order in relation to VTL in respect of its proprietary rights under the constructive trust.
+</a></li>
+<p> </p> 
+<li value="38"><a name="para38"> Third, Part 5 of POCA (under the rubric of “Civil recovery of the proceeds etc. of unlawful conduct”) has effect for the purpose, for instance, of enabling the enforcement authority to recover property which is, or represents, property obtained through unlawful conduct by bringing civil proceedings before the High Court. The powers conferred in Part 5 are exercisable in relation to any property (including cash) whether or not any proceedings have been brought for an offence in connection with the property. However, section 308(9) provides that “
+<span class="legds"><span style="color:black">Property is not recoverable if it has been taken into account in deciding the amount of a person’s benefit from criminal conduct for the purpose of making a confiscation order” which includes an order under section 6. As the benefit of £4.55m was taken into account in relation to the confiscation order under section 6 in respect of Mr Perrin the CPS is precluded from bringing a civil action under Part 5 for the recovery of the proceeds of unlawful conduct against VTL. </span></span>
+<span class="legds"><span lang="EN-US" style="color:black">But absent the confiscation orders obtained against Mr Perrin, the CPS could, in principle, have brought Part 5 civil recovery proceedings against VTL </span></span>in respect of its proprietary rights under the constructive trust
+<span class="legds"><span lang="EN-US" style="color:black">.</span></span>
+</a></li>
+<p> </p> 
+<li value="39"><a name="para39"> The money laundering provisions are contained in Part 7 of POCA. I will consider those in relation to CPS’s second ground of appeal commencing at para 81 below.
+</a></li>
+<p> </p> 
+<p class="Paraheading6">The criminal and civil proceedings</p> 
+<li value="40"><a name="para40"> The four tax mitigation schemes were implemented by Mr Faichney and Mr Perrin in 2005 and 2006 and the final cheque made out by them to Miss Barnes was dated 31 March 2006. However, by that date HMRC had already commenced a criminal investigation. The fraudulent nature of the schemes subsequently also became apparent to the Vantis Group and to the clients of VTL. This had a number of consequences which I will summarise:
+</a></li>
+<p> </p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>An internal investigation was carried out by the Vantis Group during which Mr Faichney and Mr Perrin resigned their employment and their directorships.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On 26 January 2010 Mr Faichney and Mr Perrin commenced civil proceedings against VTL and its associated companies in the Vantis Group for unpaid salary and alleging wrongful dismissal, which are the original claims underlying these proceedings. This was met with a defence and counterclaim in which VTL alleged that the claimants had acted in breach of fiduciary duty both in equity and under the provisions of section 175 of the Companies Act 2006 when they used VTL’s IP as the basis of the tax avoidance schemes. The £4.55m derived from the four schemes was alleged to be held on constructive trust for VTL as representing the proceeds of the unlawful use of the company's property in a scheme which was a breach of the fiduciary duty owed by directors to VTL and other companies in the Vantis Group.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(c)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On 29 June 2010 VTL was placed in administration.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(d)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On 21 December 2010 VTL, acting through its administrator, assigned its claims in these proceedings against the former directors to Aquila with a view to securing the best possible return for VTL’s creditors. Under the assignment, the VTL creditors will stand to benefit from any recoveries made by Aquila in these proceedings. The effect of the assignment is that if the secret profit obtained by the former directors was beneficially owned by VTL under a constructive trust, then VTL’s proprietary rights have now passed to Aquila.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(e)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In 2011 VTL, along with the rest of the Vantis Group of companies, went into liquidation.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(f)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>VTL faces substantial claims by taxpayer subscribers (who were clients of VTL) and who were investors in the tax avoidance companies. These individuals assert that they have also suffered loss as a result of the fraud perpetrated by Mr Faichney and Mr Perrin.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(g)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the meantime, on 21 September 2009 criminal proceedings were commenced against Mr Faichney and Mr Perrin. In January and October 2012 respectively, Mr Perrin and Mr Faichney were convicted by juries at Blackfriars Crown Court of cheating the public revenue by:</p> 
+<p class="MsoQuote">“dishonestly facilitating and inducing others to submit claims for tax relief under section 587B Income and Corporation Taxes Act 1988, as amended, which falsely stated the values within the relevant accounting periods of charitable donations of shares in Clerkenwell Medical Research Plc, Modia Plc, Your Health International Plc and Signet Health International Plc.”</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(h)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>VTL was never charged, indicted or tried for any offence. The decision not to prosecute VTL was made by the CPS and is to be seen in the context of its view, as summarised in its written submissions, that “On the basis of the (conceded) fact that Mr Faichney and Mr Perrin were the directing mind and will of the company for the purposes of the tax avoidance schemes, attribution for the purpose of criminal liability of VTL would follow.”</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Following Mr Perrin’s conviction and in confiscation proceedings under POCA, the trial judge made a confiscation order against him. Aquila was represented in those proceedings. Mr Perrin unsuccessfully appealed against the confiscation order on the grounds that the £4.55m did not represent a benefit obtained as a result of or in connection with the offence; see [2014] EWCA Crim 1556.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(j)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On 1 August 2014 in confiscation proceedings following Mr Faichney’s conviction, the available amount and hence the recoverable amount was found to be £648,000.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(k)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Each of the tax avoidance companies was dissolved.</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(l)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>HMRC have taken steps to reverse and recover from the taxpayers involved the tax credits obtained under the various schemes (apart from the subscription price itself).</p> 
+<li value="41"><a name="para41"> It is necessary to give some further details in relation to these civil proceedings.
+</a></li>
+<p> </p> 
+<li value="42"><a name="para42"> Aquila obtained an order joining Mrs Faichney and Mrs Perrin as defendants to the counterclaim. It also obtained an interim freezing injunction to restrain Mr and Mrs Faichney and Mr and Mrs Perrin from dealing with the assets said to be subject to a constructive trust; see [2013] EWHC 3953 (QB). The freezing injunction prevented those assets, the proceeds of the £4.55m, being used to satisfy confiscation orders made against Mr Perrin.
+</a></li>
+<p> </p> 
+<li value="43"><a name="para43"> On 12 March 2014 the CPS was granted permission to intervene in the High Court proceedings. In January 2017 the matter was listed for trial in January 2018.
+</a></li>
+<p> </p> 
+<li value="44"><a name="para44"> In January 2018, immediately prior to trial, two settlement agreements were reached under which:
+</a></li>
+<p> </p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>All claims by VTL against Mr and Mrs Faichney and Mrs Perrin and the estate of Mr Perrin were withdrawn on the basis that they took no further part in the proceedings. They disclaimed any interest in the subject matter of Aquila’s claim which was to be litigated between Aquila and the CPS;</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The CPS agreed to apply to the Crown Court for the appointment of an enforcement receiver over all of the assets listed in the relevant confiscation orders (“the confiscation assets”); and</p> 
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(c)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The CPS agreed, if and insofar as the court found that the £4.55m received by the Mr and Mrs Perrin and Mr and Mrs Faichney from CMR was held on constructive trust for VTL, it would instruct the enforcement receiver to transfer to Aquila from the net proceeds realised from the confiscation assets “such sum as represents the amounts so found by the court to have been so held”, save that this would not apply if and to the extent that Aquila’s counterclaim succeeded as a personal (rather than a proprietary) claim.</p> 
+<li value="45"><a name="para45"> As a consequence of the settlement agreements, the only parties participating in the trial before Mann J were the CPS and Aquila.
+</a></li>
+<p> </p> 
+<li value="46"><a name="para46"> It was accepted at trial that the assets of Mr Faichney and Mr Perrin - on the basis of which the Crown Court had determined the available amount, and hence the recoverable amount, for the purposes of the confiscation order - in each case represented part of the £4.55m and were covered by Aquila’s proprietary claim.
+</a></li>
+<p> </p> 
+<p class="Paraheading6">The decisions in FHR and in Bilta</p> 
+<li value="47"><a name="para47"> Prior to considering the issue as to whether the fraud of VTL’s former directors should be attributed to VTL, it is necessary to examine the decisions of this court in <i>FHR </i>and in <i>Bilta</i> in some detail.
+</a></li>
+<p> </p> 
+<li value="48"><a name="para48"> In <i>FHR</i> the agent of the purchaser of an hotel had entered into an agreement with the sellers of the hotel under which the agent was to receive a fixed commission of €10m in the event of the successful completion of the sale. The agent failed to notify the purchaser of that agreement and received the commission when the purchaser bought the hotel. The purchaser sought to recover the €10m from its agent. The issue was whether a bribe or secret commission received by an agent is held by the agent on constructive trust for his principal, or whether the principal merely has a personal remedy for an account of the bribe or secret commission (ie, a personal remedy whereby the agent must account for, and pay over to the principal, the amount of the bribe or secret commission). This personal remedy was loosely and, with respect, somewhat confusingly (as Lord Reed pointed out in <i>AIB Group (UK) Ltd plc v Mark Redler &amp; Co</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2014/58.html">[2014] UKSC 58</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2014/58.html">[2015] AC 1503</a>, para 120) referred to by Lord Neuberger in this court in <i>FHR</i> as “equitable compensation” because, as Lord Neuberger made clear in his judgment at para 7, the remedy is restitutionary, reversing the value of a benefit received, and is not concerned to compensate for a loss. If the bribe or secret commission is held on constructive trust, the principal has a proprietary right to it, whereas the accounting remedy is purely personal. One of the most important practical differences between the constructive trust and the personal accounting remedy (or equitable compensation) is that the constructive trust would give the principal priority in the event of the agent’s insolvency, whereas the personal accounting remedy (or equitable compensation) would not. It has been long established that secret profits made by an agent in breach of fiduciary duty to its principal are held on constructive trust: <i>Keech v Sandford </i>(1726) Sel Cas Ch 61, <a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/1726/J76.html">[1726] EWHC Ch J76</a>;<i> Phipps v Boardman </i>[1964] 1 WLR 993 (Wilberforce J) affirmed by the House of Lords <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1966/2.html">[1967] 2 AC 46</a>; <i>FHR,</i> paras 13-14 and 40. The central question in <i>FHR </i>was whether there should be a difference, so that the principal is entitled only to a personal accounting remedy and not a constructive trust, where one was concerned with a bribe or secret commission, rather than secret profits, being obtained in breach of fiduciary duty. <a name="para21"><span style="color:black">In <i>FHR</i> it was submitted that </span>a constructive trust should not apply to a bribe or secret commission paid to an agent, because it is not a benefit which can properly be said to be the property of the principal. <span style="color:black">Lord Neuberger, delivering the judgment of the court, stated (at para 30) that the rule that a bribe or secret commission is held on constructive trust:</span></a>
+</li>
+<p> </p> 
+<p class="MsoQuote"><span style="color:black">“… is </span>justified on the basis that equity does not permit an agent to rely on his own wrong to justify retaining the benefit: in effect, he must accept that, as he received the benefit as a result of his agency, he acquired it for his principal.”</p> 
+<li value="49"><a name="para49"> Lord Neuberger, having concluded from a review of the authorities at paras 13-28 that there was no clearly right or wrong answer to the question whether a bribe or secret commission was held on constructive trust, turned to the arguments based on principle and practicality. He stated at para 33 that:
+</a></li>
+<p> </p> 
+<p class="MsoQuote">“The agent owes a duty of undivided loyalty to the principal, unless the latter has given his informed consent to some less demanding standard of duty. The principal is thus entitled to the entire benefit of the agent’s acts in the course of his agency. … The agent’s duty is accordingly to deliver up to his principal the benefit which he has obtained, and not simply to pay compensation for having obtained it in excess of his authority. The only way that legal effect can be given to an obligation to deliver up specific property to the principal is by treating the principal as specifically entitled to it.”</p> 
+<p class="ParaNoNumber">Lord Neuberger recognised at para 34 that:</p> 
+<p class="MsoQuote">“there is some force in the notion advanced by the [agent] that the rule should not apply to a bribe or secret commission paid to an agent, as such a benefit is different in quality from a secret profit he makes on a transaction on which he is acting for his principal, or a profit he makes from an otherwise proper transaction which he enters into as a result of some knowledge or opportunity he has as a result of his agency.”</p> 
+<p class="ParaNoNumber">However, (at para 35) the court held that in the absence of any clearly right answer, either as a matter of authority or principle, it should decide, in the interests of promoting simplicity and clarity in the law, that “any benefit acquired by an agent as a result of his agency and in breach of his fiduciary duty is held on trust for the principal” and a bribe or commission should not be excluded from that rule. Lord Neuberger considered (at para 42) that wider policy considerations also supported that approach and (at para 45) that there was further support from other common law jurisdictions.</p> 
+<li value="50"><a name="para50"> It is accordingly clear, since the decision in 
+<span class="legds"><i><span lang="EN-US">FHR</span></i></span>, that as between the principal and his agent, any benefit obtained by the agent in breach of his fiduciary duty is held on trust for his principal, regardless of the circumstances in which it was obtained. Although, as far as secret profits are concerned, this may be said already to have been clear law prior to <i>FHR, </i>I therefore agree with the Court of Appeal (at para 19) that:
+</a></li>
+<p> </p> 
+<p class="MsoQuote">“The decision in <i>FHR</i> therefore prevents a director in the position of Mr Faichney and Mr Perrin from asserting a right to retain the secret profit against VTL based on the fact that it has been obtained by fraud.”</p> 
+<li value="51"><a name="para51"> <span style="color:black">However, in none of the secret profits or bribe cases (including <i>FHR</i>) have the courts had to<i> </i>consider whether the </span>fraud of the agent should be attributed to the principal so as to prevent the principal, by reason of the defence of illegality, from relying on a constructive trust in priority to the claims of unsecured creditors, such as, in this case, the CPS.
+</a></li>
+<p> </p> 
+<li value="52"><a name="para52"> The issue of the attribution of the fraud of an agent to its principal, and the consequent effect on the defence of illegality, did, however, arise in <i>Bilta</i> albeit in the slightly different context of the company seeking damages or equitable compensation for loss (not restitution of profits obtained) for, for example, the tort of conspiracy, breach of fiduciary duty and dishonest assistance of a breach of fiduciary duty. In that case the defendant directors had used a company, Bilta (UK) Ltd, as part of a VAT carousel fraud. This involved transactions under which Bilta (UK) Ltd bought carbon credits from a Swiss company net of VAT, which it then sold on to UK companies inclusive of VAT, such that Bilta (UK) Ltd became obliged to account to HMRC for the VAT. The proceeds of the sales (including the VAT) were paid away to the Swiss, and another offshore company, thereby leaving 
+<span class="legds"><span lang="EN-US">Bilta (UK) Ltd </span></span>insolvent and unable to meet its liabilities to HMRC. 
+<span class="legds"><span lang="EN-US">Bilta (UK) Ltd</span></span> (through its liquidators) alleged that its former directors had acted in breach of their fiduciary duty by removing from the company the means of paying the output tax due and thereby exposing it to liability to HMRC. The Swiss company and its chief executive (the “appellants”) were alleged to have dishonestly assisted the directors’ breaches of fiduciary duty.
+</a></li>
+<p> </p> 
+<li value="53"><a name="para53"> In response, the appellants applied to strike out the liquidator's claim against them on the ground that Bilta (UK) Ltd could not maintain the proceedings in view of the principle ex turpi causa non oritur actio, or, to put it another way, the appellants were bound to defeat the claims against them on the basis of an illegality defence as Bilta (UK) Ltd was, through its directors, a party to the VAT fraud and was therefore precluded from seeking relief from its co-conspirators.
+</a></li>
+<p> </p> 
+<li value="54"><a name="para54"> This court, sitting as a panel of seven justices, held that the wrongful activity of the directors could not be attributed to Bilta (UK) Ltd in those proceedings. Lord Neuberger, (with whom Lord Clarke and Lord Carnwath agreed) set out the following proposition in relation to attribution (at para 7):
+</a></li>
+<p> </p> 
+<p class="MsoQuote">“Where a company has been the victim of wrongdoing by its directors, or of which its directors had notice, then the wrongdoing, or knowledge, of the directors cannot be attributed to the company as a defence to a claim brought against the directors by the company’s liquidator, in the name of the company and/or on behalf of its creditors, for the loss suffered by the company as a result of the wrongdoing, even where the directors were the only directors and shareholders of the company, and even though the wrongdoing or knowledge of the directors may be attributed to the company in many other types of proceedings.”</p> 
+<li value="55"><a name="para55"> Lord Neuberger also agreed (at para 9) with Lord Mance “whether or not it is appropriate to attribute an action by, or a state of mind of, a company director or agent to the company or the agent's principal in relation to a particular claim against the company or the principal must depend on the nature and factual context of the claim in question.”
+</a></li>
+<p> </p> 
+<li value="56"><a name="para56"> In that respect Lord Mance stated (at para 41) that:
+</a></li>
+<p> </p> 
+<p class="MsoQuote">“As Lord Hoffmann made clear in [<i>Meridian Global Funds Management Asia Ltd v Securities Commission</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1995/5.html">[1995] 2 AC 500</a>], the key to any question of attribution is ultimately always to be found in considerations of context and purpose. The question is: whose act or knowledge or state of mind is <i>for the purpose</i> of the relevant rule to count as the act, knowledge or state of mind of the company?” (Emphasis in the original)</p> 
+<p class="ParaNoNumber">The relevant rules in <i>Bilta,</i> as in this case, are the duties owed by an officer to the company which the officer serves. Lord Mance analysed the purpose of those duties in the context of attribution, as follows (at para 42):</p> 
+<p class="MsoQuote">“Where the relevant rule consists in the duties owed by an officer to the company which he or she serves, then, whether such duties are statutory or common law, the acts, knowledge and states of mind of the company must necessarily be separated from those of its officer. <i>The purpose of the rule itself means that the company cannot be identified with its officers.</i> It is self-evidently impossible that the officer should be able to argue that the company either committed or knew about the breach of duty, simply because the officer committed or knew about it. This is so even though the officer is the directing mind and will of the company. The same clearly also applies even if the officer is also the sole shareholder of a company in or facing insolvency. Any other conclusion would ignore the separate legal identity of the company, empty the concept of duty of content and enable the company’s affairs to be conducted in fraud of creditors.” (Emphasis added)</p> 
+<p class="ParaNoNumber">As emphasised, the purpose of the rule itself means that the company cannot be identified with its officers. The wrongful acts of the directors in breach of their directors’ duties cannot, therefore, be attributed to the company.</p> 
+<li value="57"><a name="para57"> Lord Sumption also considered that the case turned on rules of attribution, which he viewed as applying “regardless of the nature of the claim or the parties involved” (para 86). He considered that the acts and state of mind of the directing mind and will of a company will normally be attributed to the company. But he qualified the effect of his analysis by reference to a policy-based “breach of duty exception” in order “to avoid, injustice and absurdity”. For present purposes it is sufficient to observe that Lord Sumption considered (at para 89) that a claim by a company against its directors for breach of their duties, which exist for the protection of the company against the directors, was a paradigmatic case where the directors’ dishonesty should not be attributed to the company, albeit as an exception to a general rule.
+</a></li>
+<p> </p> 
+<li value="58"><a name="para58"> Lord Toulson and Lord Hodge approached the case on the basis that the primary question was “whether [Bilta (UK) Ltd’s] claim against the directors for breach of fiduciary duty [was] barred by the doctrine of illegality” (para 120). They held (at paras 130, 131 and 209) that the defence of illegality was sensitive to context and to competing aspects of public policy. If the defence of illegality were permitted to succeed on the facts in <i>Bilta</i>, such as to enable the directors to escape responsibility for breach of their fiduciary duty, then “the courts would defeat the very object of the rule of law …, and would be acting contrary to the purpose and terms of sections 172(3) and 180(5) of the Companies Act 2006.” Accordingly, on that ground they dismissed the appeal, but they also went on to hold (at para 209) that the rules of attribution would achieve the same result. In that respect, where a company is pursuing a claim against a director or an employee for breach of duty or breach of contract, they considered that:
+</a></li>
+<p> </p> 
+<p class="MsoQuote">“it would defeat the company’s claim and negate the director’s or employee’s duty to the company if the act or the state of mind of the latter were to be attributed to the company and the company were thereby to be estopped from founding on the wrong.”</p> 
+<p class="ParaNoNumber">They concluded that (at para 206):</p> 
+<p class="MsoQuote">“… as the courts have recognised since at least <i>Gluckstein v Barnes </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1900/21.html">[1900] AC 240</a>, it is absurd to attribute knowledge to the company and so defeat its claim.”</p> 
+<li value="59"><a name="para59"> I therefore agree with the Court of Appeal (at para 24) that:
+</a></li>
+<p> </p> 
+<p class="MsoQuote">“<i>Bilta</i> confirms that a director sued by a company for loss caused by a breach of fiduciary duty cannot rely on the principles of attribution to defeat the claim even if the scheme involved the company in the fraud or illegality.”</p> 
+<p class="ParaNoNumber">I also agree with the Court of Appeal (at para 28) that:</p> 
+<p class="MsoQuote">“it is clear from what was said in <i>Bilta</i> that the company’s participation through its directors in criminal conduct is not enough to justify the application of a different rule in relation to the ownership (as between the company and its directors) of the proceeds of the fraud.”</p> 
+<li value="60"><a name="para60"> Accordingly, subject to the issues on this appeal, which are considered below, in civil proceedings brought by a company against its directors for breach of fiduciary duty, claiming that the sums they acquired as a result of the breach are subject to a constructive trust in the company’s favour<span lang="EN-US">, the principles established in </span><i>Bilta </i>prevent the attribution of the dishonesty of those directors to that company. In this way the rules of attribution prevent the directors’ dishonesty from being attributed to the company, with the result that the company is not acting illegally and its claim is not barred by the defence of illegality. Attribution being denied, the illegality defence fails.
+</a></li>
+<p> </p> 
+<li value="61"><a name="para61"> Although the law on illegality has been restated since <i>Bilta </i>by this court in <i>Patel v Mirza</i> [20I6] UKSC 42; </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/42.html">[2017] AC 467</a> (“<i>Patel</i>”)<i>, </i>the reasoning in <i>Bilta, </i>built as it is on the policy of avoiding illegality undermining the purpose of the rule in question, is entirely consistent with <i>Patel </i>and has not been undermined by it. Subsequent to the decision in <i>Patel</i>, this court in <i>Singularis Holdings Ltd (in liquidation) v Daiwa Capital Markets Europe Ltd </i><a title="Link to BAILII version" href="/uk/cases/UKSC/2019/50.html">[2019] UKSC 50</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2019/50.html">[2020] AC 1189</a><i> </i>did not alter, but rather applied, the reasoning in <i>Bilta</i> as to attribution. Lady Hale delivering the judgment of the court, referred (at para 30), and subsequently applied, the reasoning in <i>Bilta </i>that “<span style="color:#3D3D3D">the key to any question of attribution was always to be found in considerations of the context and the purpose for which the attribution was relevant.” </span><i>Bilta </i>remains good law after <i>Patel.</i>
+</li>
+<p> </p> 
+<p class="Paraheading6">The grounds of appeal to this court</p> 
+<li value="62"><a name="para62"> Having set out the background to this appeal, I can now set out the grounds of appeal and the principal arguments, together with my answers to them.
+</a></li>
+<p> </p> 
+<p class="ParaSubHeading3">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ground one</p> 
+<li value="63"><a name="para63"> The CPS argues that the Court of Appeal was wrong to conclude that the facts of the present case fell within the ratio of <i>Bilta</i>, and contends (<i>per</i> the formulation in the statement of facts and issues) that the Court of Appeal “was wrong to hold that, for the purposes of a proprietary claim by a company against its directors to recover proceeds of crime received in breach of fiduciary duty, the illegality of the directors is not attributed to the company notwithstanding that the company itself has suffered no loss and stood to profit from the illegal acts.”
+</a></li>
+<p> </p> 
+<li value="64"><a name="para64"> There were several arguments in support of this ground of appeal but before addressing those arguments I should clarify the standing of the CPS as an intervener.
+</a></li>
+<p> </p> 
+<li value="65"><a name="para65"> The CPS is an unsecured creditor of the former directors under the confiscation orders obtained against them. The orders do not give it any proprietary interest in the former directors’ assets, or any form of priority over any other claims to those assets. As against VTL, the CPS’s rights are dependent on the rights of the former directors. I agree in that respect with the Court of Appeal (at para 25) that “The CPS … has no better rights against VTL than Mr Faichney and Mr Perrin …”. The fact that the CPS is an intervener resisting VTL’s claim rather than a director doing so cannot alter the outcome as to whether the directors’ dishonesty is to be attributed to VTL. 
+<span class="legds"><span lang="EN-US" style="color:black">In short, the CPS’s ability to recover under the confiscation orders depends upon defeating the proprietary claim which Aquila asserts against the former directors of VTL. The CPS can have no better defence to that claim than the former directors would have had.</span></span>
+</a></li>
+<p> </p> 
+<li value="66"><a name="para66"> In essence, the CPS’s overarching submission in support of the first ground is that, properly understood, nothing in 
+<span class="legds"><i><span lang="EN-US">Bilta </span></i></span>permits a principal to profit from its agent’s illegality (and thus approbate its illegal acts) while denying attribution of the illegality (and thus reprobate the illegal acts). 
+<span class="legds"><i><span lang="EN-US">Bilta </span></i></span>therefore
+<span class="legds"><i> </i></span>does not prevent the illegality defence from applying in the present case. There are a number of aspects to this submission which I will consider in turn.
+</a></li>
+<p> </p> 
+<li value="67"><a name="para67"> First, the CPS emphasises that the former directors have dishonestly committed a criminal offence (cheating the revenue) whilst conducting the business of the company as its directing mind and will. I note at the outset, however, that the decision of this court in <i>Bilta </i>means that this, on its own, cannot lead to the attribution of that unlawful conduct to the company in a situation where, as here, the context is one in which the company is pursuing a claim against its directors for breach of duty.
+</a></li>
+<p> </p> 
+<li value="68"><a name="para68"> It is worth stressing, albeit perhaps obvious, that it forms no necessary part of VTL’s claim against its former directors for breach of their fiduciary duties that their conduct also amounted to the criminal offence of cheating the public revenue. That is, the alleged constructive trust rests in civil law on a claim for breach of fiduciary duty and does not rest on any aspect of criminal law. In its pleadings and in both lower courts Aquila advanced the proprietary claim on two bases: (a) the exploitation of the value of the IP rights and (b) the exploitation of the corporate opportunity by virtue of the former directors’ knowledge of VTL’s business and its affairs. Mann J found (at para 54) that: “<span style="color:black">The directors misappropriated for themselves a corporate opportunity” and referring to the IP rights “indulged in a form of misappropriation of assets” which was “a separate wrong vis-à-vis the company”.</span> Accordingly, Mann J found that the breach of fiduciary duties occurred when the directors, with a view to making a secret profit, which they in fact made, exploited their positions as directors by <span style="color:black">taking advantage of the “corporate opportunity” and by</span> pretending to sell VTL’s IP rights. The Court of Appeal upheld those findings (at para 19) stating that “<span style="color:black">The imposition of the constructive trust in favour of the company as principal <i>simply recognises that the agent cannot use his position or the assets of the company to benefit himself</i>” (emphasis added). Indeed, the CPS accepts at para 23 of its written submissions that “… it may be correct to identify as distinct breaches of fiduciary duty the directors’ exploitation of the value of the IP rights on the one hand and taking advantage of the ‘corporate opportunity’ of the tax mitigation arrangements on the other.” Accordingly, there is no issue that it is not a necessary component of VTL’s </span>claim against its former directors that their conduct also amounted to the criminal offence of cheating the public revenue, though that is not to ignore that their conduct also amounted to the commission of that offence.
+</a></li>
+<p> </p> 
+<li value="69"><a name="para69"> Second, the CPS suggests that the former directors obtained the £4.55m as a result of their criminal offending, by cheating the public revenue, rather than by exploiting the IP in breach of their fiduciary duties. On that basis, the CPS submits that any claim for profit generated by the “quasi-misappropriation” of IP rights does not get Aquila to the £4.55m because that breach of duty did not generate the £4.55m of profits. This argument fails on the basis that there has been no factual finding that any part of the £4.55m was only generated by the criminal offence of cheating the public revenue. Indeed, Mann J proceeded on the factual basis that the former directors had also obtained the £4.55m by abusing their position and the assets of the company to benefit themselves in breach of their fiduciary duties.
+</a></li>
+<p> </p> 
+<li value="70"><a name="para70"> Third, the CPS argues that the purpose of not attributing the former directors’ unlawful conduct to the company is to protect the company from losses as a result of the dishonesty of the directors. In support of this argument the CPS assert that the purpose of the rule as to attribution is not to protect a company when a feature of a fraudulent scheme is that the company stands to profit from it. In this case it is suggested that VTL was always intended to benefit from the fraudulent scheme, rather than being the target or intended victim of this fraud, as it would receive fees of around 12% of the total amount claimed as tax deductible. In this way, the CPS argues, attribution should only be denied where the dishonest conduct was targeted against the company so that it was intended to or did in fact sustain a financial loss, but not where the dishonest conduct was intended to or did in fact secure a financial benefit for the company.
+</a></li>
+<p> </p> 
+<li value="71"><a name="para71"> This argument is misconceived. The relevant rule is the duty owed by an officer to the company which the officer serves. The purpose of the rule itself means that the company cannot be identified with its officers. As I have stated at para 56 above, this means that the wrongful acts of the directors in breach of their director’s duties cannot be attributed to the company. I consider that it can make no difference to the reasoning in <i>Bilta</i> whether the claim brought by the company against its directors is for loss suffered by the company or for gains made by the directors or if a part of the director’s scheme was that not only the director would benefit but so also would the company. To my mind the director’s duty to the company would still be negated if there was an exception to the reasoning in <i>Bilta</i> that attributed a director’s wrongdoing to the company in circumstances where the director’s scheme in breach of his fiduciary duty to the company also included an element of actual or intended profit for the company. It simply cannot lie in the mouth of a director to assert that the director should retain a secret profit on the basis that a part of director’s scheme was that the company would also benefit from it. As I have indicated at para 65 above the CPS can have no better defence to the proprietary claim which Aquila asserts against the former directors of VTL than the former directors would have had.
+</a></li>
+<p> </p> 
+<li value="72"><a name="para72"> This argument seeks, in effect, to establish an exception to the reasoning in <i>Bilta</i> as to attribution where the director’s conduct in breach of fiduciary duty was also intended to or did in fact secure a financial benefit for the company. I consider that any such exception would create uncertainty. As Lord Neuberger stated in <i>FHR</i> (at para 35) “<span style="color:#3D3D3D">Clarity and simplicity are highly desirable qualities in the law.” Indeed, in this case it is uncertain as to whether this proposed exception to the rules of attribution in <i>Bilta</i> applies to intended financial profits or only to actual financial profits. However, in either event it is an unwarranted distinction which undermines the clarity and simplicity of the law in relation to attribution</span>. Therefore, for the reasons in the preceding paragraph and in this paragraph, I would dismiss this argument.
+</a></li>
+<p> </p> 
+<li value="73"><a name="para73"> In addition, I consider that this argument has an element of circularity because it seeks to attribute to the company the directors’ intention that substantial fees would be earned by VTL from the scheme in order to establish that other dishonest conduct of the directors should also be attributed to the company, so as to permit the claim of the company against its former directors to be defeated on the basis of illegality. Put shortly, there can be no intent on the part of VTL to benefit from a fraudulent scheme unless the directors’ intent to that effect can be attributed to VTL. On that basis also this argument is misconceived.
+</a></li>
+<p> </p> 
+<li value="74"><a name="para74"> I also reject this argument on the fundamental basis that the constructive trust exists to ensure compliance with, and is imposed in consequence of, the directors’ fiduciary duty to the company. It would fundamentally undermine that fiduciary duty if the director could establish that a constructive trust did not arise purely on the basis that the director also intended that the company should make a financial profit, or on the basis that in fact the company had made a financial profit, so that the director should be able to retain the director’s own unlawful profit. Such a consequence cannot be correct, and the CPS is in no better position in this case than are the former directors, for which see para 65 above.
+</a></li>
+<p> </p> 
+<li value="75"><a name="para75"> Another reason for rejecting this argument is that it undermines the prophylactic way in which the director’s fiduciary duties operate. The fact that a director who breaches a fiduciary duty will be stripped of profit is a powerful means of guarding against the director’s temptation of self-interest. The deterrent effect of the fiduciary duty would be undermined if a constructive trust did not arise where the company was intended to, or did in fact, make a profit. Put shortly, the protective function of the fiduciary duty would be put at risk if a director were permitted to seek to avoid liability by arguing that the impugned transaction was nonetheless in the interests of the company.
+</a></li>
+<p> </p> 
+<li value="76"><a name="para76"> Fourth, the CPS suggests that the bar to attribution under <i>Bilta</i> only applies where the company’s culpability for the illegality is the “very matter” of which complaint is made. It submits that in this case the very matter of which complaint is made is the breach by VTL’s former directors of the no-profit rule, rather than the criminal conduct of cheating the public revenue. On this basis it argues that the directors’ criminal conduct can be attributed to VTL because it is not the “very matter” of which complaint is made by VTL in seeking to establish that the former directors hold the profit of £4.55m on constructive trust. In support of this argument the CPS relies on Lord Sumption’s judgment at para 89 of <i>Bilta </i>which stated that “The company’s culpability [for the illegality] is wholly derived from [the directors], which is the very matter of which complaint is made.”
+</a></li>
+<p> </p> 
+<li value="77"><a name="para77"> However, I do not consider that Lord Sumption was stating that if the culpability of the company can be attributed to some aspect which is not the “very matter” of which complaint is made then that culpability can be attributed to the company. That would elevate the form of the company’s claim over its substance. A claim by a company against its directors is the paradigm case for not attributing the directors’ dishonesty, whatever it may be, to the company. The key point is that reliance would still be placed on the knowledge and acts of the same directors by those same directors, or those claiming through them, to defeat the claim by the company by attributing that knowledge to the company to set up an illegality defence. Accordingly, I consider that it is immaterial whether the dishonesty relied upon relates to the same acts as form the “very matter” of the claim or relates to collateral acts of dishonesty. In either case, reliance is still being placed on the wrongdoing of the same directors who are defendants to the company’s claim to defeat that claim by attributing their own dishonesty to the company. I consider that attribution will not be permitted in those circumstances regardless as to how the dishonesty of the directors is formulated and regardless as to whether the dishonesty is the “very matter” complained of, or whether it is another aspect of that matter.
+</a></li>
+<p> </p> 
+<li value="78"><a name="para78"> Another reason for rejecting this fourth argument is because it envisages that a director could seek to attribute to the company some undisclosed dishonesty, which is collateral to the “very matter” upon which the company relies, in order to deny the company a remedy based on the defence of illegality. However, a facet of the director’s duty to act in good faith in the best interests of the company (see section 172 Companies Act 2006) is an obligation on the director to disclose personal wrongdoing see: <i>Item</i> <i>Software (UK) Ltd v Fassihi </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2004/1244.html">[2004] EWCA Civ 1244</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2004/1244.html">[2005] 2 BCLC 91</a>, pp 109 - 110 per Arden LJ. It would denude this aspect of that duty of its content if the director did not disclose his dishonesty in order to set up an illegality defence to the company’s claim in respect of a collateral breach of duty which was not the “very matter” upon which the company relies.
+</li>
+<p> </p> 
+<li value="79"><a name="para79"> Fifth, the CPS suggests that since the decision in <i>Bilta</i>, the decision of this court in <i>Patel </i>has now fundamentally reshaped the illegality defence. On this basis the CPS argues that had the illegality defence been as now articulated in <i>Patel</i> at the time of <i>Bilta</i>, the illegality defence advanced by the appellants in <i>Bilta</i> would have failed without requiring recourse to arguments of attribution. Mr Sutcliffe, on behalf of the CPS, contends that since the decision in <i>Patel, </i>the rules of attribution cannot be used to control the application of the illegality defence, because the rules of attribution are not the rules of illegality policy. On this basis Mr Sutcliffe suggests that legal coherence as between the decision in <i>Patel </i>and <i>Bilta </i>requires this court to reconsider the rules of attribution. I reject this argument on the ground that the reasoning in <i>Bilta</i> as to attribution remains good law after <i>Patel</i> for the reasons which I have set out at para 61 above. However, I also reject this argument on the basis that the question of attribution is to be addressed first so that a decision is made as to whether the unlawful or dishonest conduct of the directors is to be attributed to the company. Thereafter, if that conduct is to be attributed to the company then consideration is given as to whether it falls within the principles enunciated in <i>Patel </i>such as to found an illegality defence<i>.</i>
+</a></li>
+<p> </p> 
+<li value="80"><a name="para80"> Sixth, the CPS argues that by seeking to establish a constructive trust in respect of the profit of £4.55m Aquila is both reprobating the directors’ illegality and approbating it by adopting that illegality so as to profit from it. I consider that there has been no inconsistent approbation and reprobation in this case. That occurs when the principal takes advantage of the agent’s acts in relation to its affairs while denying liability to third parties for such acts. The principle applies to claims by third parties against a principal for the acts of its agent. It does not apply in the context of this claim, which is a claim by the principal against its agent. Any company which pursues its director for breach of duty for acting in an unauthorised way will have found out about the conduct before bringing the claim. By bringing the claim, and requiring its dishonest or criminal director to account for his gains, the company neither approbates the dishonesty nor the crime, nor does it avoid the consequent liabilities to third parties, if any, for the agent’s dishonesty or criminal activity. The decision in <i>Lloyd v Grace, Smith &amp; Co</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1912/46.html">[1912] AC 716</a> illustrates the principle. A law firm (the principal) which entrusts its affairs to a clerk (the agent), cannot, if the clerk acts dishonestly in the conduct of a client’s retainer, seek to benefit from that agent’s work (approbation) and then to turn to the client and say that the law firm is not liable for the clerk’s unauthorised acts (reprobation).
+</li>
+<p> </p> 
+<li value="81"><a name="para81"> In conclusion in relation to this ground I consider that the reasoning of this court in <i>Bilta</i>, albeit concerned with loss-based claims rather than claims to strip profits, applies with equal force to the breach of fiduciary duty which is the subject of this decision. <i>Bilta </i>is authority for the proposition that the unlawful acts or dishonest state of mind of a director cannot be attributed to the company so as to afford the director an illegality defence to the company’s claim against him for breach of fiduciary duty. The principles of illegality in <i>Patel</i> simply do not arise.
+</a></li>
+<p> </p> 
+<p class="ParaSubHeading3">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ground two</p> 
+<li value="82"><a name="para82"> By its second ground of appeal, the CPS submits that the Court of Appeal’s decision is inconsistent with the regime established by POCA. It argues that POCA is intended to permit innocent third-party purchasers, who have paid market value for criminal property, to keep it, and innocent third-party victims, who have suffered loss as a result of criminal behaviour, to be compensated, in each case in priority to the state, but not to permit third parties otherwise to benefit from the actions of criminals any more than those criminals themselves.
+</a></li>
+<p> </p> 
+<li value="83"><a name="para83"> As explained at para 33 above the scheme of POCA is not to interfere with any property rights (except tainted gifts). POCA protects the property rights of others regardless as to how those rights arise. Furthermore, there are specific provisions in POCA which permit the State to override property rights, but those provisions have not been used by the CPS. I agree with Mann J (at para 67) that:
+</a></li>
+<p> </p> 
+<p class="MsoQuote">“it is therefore POCA which determines whether VTL/Aquila lose the rights which the directors’ acts give them, … If that Act contains provisions which, when properly implemented, have the effect vis-à-vis VTL of depriving it of its proprietary rights, then VTL/Aquila loses those rights. But those rights have to [be] invoked against VTL/Aquila in a proper way.”</p> 
+<p class="ParaNoNumber">I also agree with the Court of Appeal (at para 25) that a “… remedy available to the CPS in a case like this would be to add the company to the indictment and then, if convicted, to seek a confiscation order directly against the company.” The operation of POCA has not been frustrated by the proprietary claim as the CPS had the right to seek to recover the proceeds of crime from VTL in a number of ways (see paras 36-38 above) but did not seek to invoke those rights.</p> 
+<li value="84"><a name="para84"> On behalf of the CPS, it was contended that even if there is a constructive trust in favour of VTL so that the beneficial interest is owned by the company any transfer, use or possession of that beneficial interest would amount to money laundering offences contrary to sections 327 and 329 POCA. The CPS contends that (a) the assignment from VTL to Aquila and (b) the application for a declaration of constructive trust in relation to the amount of £4.55m would result in the commission of those offences.
+</a></li>
+<p> </p> 
+<li value="85"><a name="para85"> The central issue in this appeal concerns the attribution of the former directors’ fraud to VTL. The issues raised under sections 327 and 329 POCA are different as they relate to potential subsequent illegality committed, not by the former directors of VTL, but by the administrator of VTL and by Aquila. It would be a surprising result if VTL or Aquila, in dealing with a beneficial interest that arises under a constructive trust could be said to have committed a money laundering offence given that POCA is not intended to interfere with existing third-party property rights; see para 62 of <i>Bowman v Fels</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2005/226.html">[2005] EWCA Civ 226</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2005/226.html">[2005] 1 WLR 3083</a>.
+</li>
+<p> </p> 
+<li value="86"><a name="para86"> For my part it is not necessary to decide whether such an offence has been or will be committed, as I agree with the observation of Sales LJ giving the judgment of the Court of Appeal in <i>R (Best) v Chief Land Registrar</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/17.html">[2015] EWCA Civ 17</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/17.html">[2016] QB 23</a>, para 95 that “POCA is a separate regime operating according to its own, distinct concepts and with its own, distinct procedures and safeguards, and is not material to the issue before us.” The scheme of POCA contained in Parts 2 and 5, like the scheme of Drug Trafficking Offences Act 1986, is not to interfere with existing third-party property rights. Rather Parts 2 and 5 contain provisions which can be used to override the property rights of VTL by a confiscation order on conviction in the Crown Court or by civil recovery of the proceeds of unlawful conduct. Furthermore, there is provision for a restraint order to prevent VTL from dealing with its proprietary rights before an application for a confiscation order can be determined. These orders under Part 2 or Part 5 are the vehicles for the vindication of the public interest in upholding the criminal law without needing to distort the operation of ordinary principles as to equitable ownership of property under a constructive trust. Accordingly, I agree with Mann J at paras 66 and 67 that:
+</li>
+<p> </p> 
+<p class="MsoQuote">“POCA does not operate through the medium of public policy. It operates through the medium of its provisions. Its provisions determine whether persons are liable to confiscation orders and whether property is liable to be taken by the state. … it is therefore POCA which determines whether VTL/Aquila lose the rights which the directors’ acts give them, not some more generalised considerations of public policy (or illegality). If that Act contains provisions which, when properly implemented, have the effect vis-à-vis VTL of depriving it of its proprietary rights, then VTL/Aquila loses those rights. But those rights have to invoked against VTL/Aquila in a proper way.”</p> 
+<p class="ParaNoNumber">The CPS has not availed itself of remedies under Parts 2 and 5 POCA. It is not permissible to use public policy considerations said to derive from Part 7 to alter the existing property rights under a constructive trust.</p> 
+<li value="87"><a name="para87"> I therefore reject the contention that the Court of Appeal’s decision is inconsistent with the regime established by POCA.
+</a></li>
+<p> </p> 
+<p class="ParaSubHeading3">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ground three: declaratory relief</p> 
+<li value="88"><a name="para88"> The CPS contends that, even if the unlawful conduct of the former directors cannot be attributed to VTL, then Mann J in the proper exercise of his discretion ought not to have granted Aquila any declaratory relief. Aquila contends that the grant of a declaration is not subject to the exercise of discretion relying on <i>Lewin on Trusts</i>, 20th ed (2020), at 45-040 and the judgment of Sir Terence Etherton C in <i>FHR</i> in the Court of Appeal </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2013/17.html">[2013] EWCA Civ 17</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/17.html">[2013] 3 WLR 466</a>, paras 75-76 together with <i>Foskett v McKeown</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2000/29.html">[2001] 1 AC 102</a> at 109B-C. In my view, however, even if there is a discretion, then plainly it was exercised appropriately. As it has often been said, constructive trusts are not remedial but institutional: see <i>FHR </i>at para 47. In other words, in this context, the constructive trust (and the principal’s beneficial ownership of the property) arises automatically at the moment that, in breach of their fiduciary duty, the directors received the secret profits. There was never a moment at which the former directors as fiduciaries owned the profits in equity. The declaration granted by Mann J not only has the effect of recognising this state of affairs but also accords with the terms of the settlement agreements entered into by the CPS.
+</li>
+<p> </p> 
+<p class="Paraheading6">Conclusion</p> 
+<li value="89"><a name="para89"> For all the reasons given above I would dismiss this appeal.
+</a></li>
+<p> </p>  </ol></div> 
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2021/49.html</i>
+</small>
+<p></p>
+
+ 
+ 
+
+
+</body></html>

@@ -1,0 +1,2075 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Telereal Trillium v Hewitt (Valuation Officer) [2019] UKSC 23 (15 May 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:63.8pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Telereal Trillium v Hewitt (Valuation Officer) [2019] UKSC 23 (15 May 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/23.html</i>
+<br>Cite as: 
+[2019] WLR 3262,
+
+[2019] 4 All ER 219,
+
+[2019] RA 315,
+
+[2019] UKSC 23,
+
+[2019] 1 WLR 3262
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/23.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2018000051/casereport_7634e8ca-7712-440e-a0a9-1055fc0e8f41/html">[2019] 1 WLR 3262</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+ <br><center><a href="/uk/cases/UKSC/2019/23.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Easter
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 23</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/26.html">[2018] EWCA Civ 26</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="width:448.6pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Telereal
+  Trillium (Respondent) <i>v</i> Hewitt (Valuation Officer) (Appellant)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">15 May 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 21 February 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Hui Ling McCarthy
+  QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Richard Glover QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Hugh Flanagan</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Cain Ormondroyd</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by HMRC
+  Solicitor’s Office (London))</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by DLA
+  Piper UK LLP (Sheffield))</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LORD CARNWATH: (<span style="text-transform:none">with whom
+Lord Reed and Lord Lloyd-Jones agree)</span></p>
+
+<p class="ParaHeading"><b>Introduction</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue in the appeal is the correct approach to determination of the
+rateable value of an office building (“Mexford House”), in circumstances where
+the evidence showed at the relevant time a general demand in the area for
+comparable office buildings, but no actual tenant willing to pay a positive
+price for the building itself.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I can conveniently take the factual background from Henderson LJ’s
+judgment in the Court of Appeal: </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2018/26.html">[2018] 1 WLR 3463</a>, para 2.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Mexford House is a substantial
+three-storey block of offices in the North Shore area of Blackpool. It was
+purpose-built in 1971, and was occupied continuously as Government offices from
+1972, in part by the Department of Work and Pensions (‘the DWP’) and in part by
+the Commissioners for Her Majesty’s Revenue and Customs (‘HMRC’). By the
+material date, however, the property was vacant. Both HMRC (on 29 February
+2008) and the DWP (on 13 March 2008) had given notice of their intention to
+vacate the property, and it was formally handed back to the lessor on 31 March
+2009. It is uncertain when the process of vacating the premises was finally
+complete, but there is no dispute that the property was empty by 1 April 2010,
+that being the date on which the 2010 non-domestic rating list for the area of
+Blackpool Borough Council first came into force by virtue of section 41(2) of
+the Local Government Finance Act 1988 (‘the 1988 Act’).”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The valuation was made for the purposes of the new rating list, which
+came into force on 1 April 2010 (“the material date”). But the rateable value
+had to be determined by reference to the “antecedent valuation date” (or “AVD”)
+two years earlier, that is 1 April 2008: 1988 Act Schedule 6 paragraph 2(3),
+Rating Lists (Valuation Date) (England) Order 2008 (SI 2008/216) article 2.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rateable value initially entered by the valuation officer with
+effect from 1 April 2010 was £490,000. This reflected his view that there were
+in the area other office buildings of similar age and quality, occupied by
+public sector tenants at rents of the same order. As became common ground in
+the course of the appeal, the most closely comparable was Hesketh House in
+Fleetwood, a building of 8,403 square metres built in 1966. That had been
+assessed for rating purposes at £59 per square metre, which was taken also as
+the basis for the valuation officer’s final valuation before the Upper Tribunal
+at £370,000 (see below).</a></p><a name="para4">
+
+<p class="ParaHeading"><b>Basic principles</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The basis of the valuation is set by paragraph 2 of Schedule 6 to the
+1988 Act, which provided:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1) The rateable value of a
+non-domestic hereditament … shall be taken to be an amount equal to the rent at
+which it is estimated the hereditament might reasonably be expected to let from
+year to year … [on certain assumptions, including] …</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; … that the tenancy
+begins on the day by reference to which the determination is to be made …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the valuation was at the AVD, paragraph 2(5) of Schedule 6
+provided that certain matters, listed in paragraph 2(7), were to be “taken to
+be as they are assumed to be” on the “material date” (1 April 2010). Those
+matters include:</a></p><a name="para6">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(a)&nbsp;&nbsp;&nbsp;&nbsp; matters affecting the
+physical state or physical enjoyment of the hereditament,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the mode or category of
+occupation of the hereditament,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; matters affecting the
+physical state of the locality in which the hereditament is situated or which,
+though not affecting the physical state of the locality, are none the less
+physically manifest there, and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the use or occupation of
+other premises situated in the locality of the hereditament.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The underlying principle is not in doubt. The valuation must be based on
+an estimate of the rent at which the hereditament “might reasonably be expected
+to let from year to year …”. In short, the valuer must imagine a hypothetical
+negotiation between a willing landlord and a willing tenant and arrive at the
+rent which best represents the resulting compromise:</a></p><a name="para7">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“You must assume a landlord
+willing to let, and a tenant willing to take by the year; and having done so,
+you must get in the best way you can at the rent which, under an agreement
+brought about by the compromise of the conflicting interests of the man who
+wants to receive as much as he can and the man who wants to pay as little as he
+can, would be arrived at under such circumstances.” (<i>Smith v The
+Churchwardens and Overseers of the Poor of the Parish of Birmingham</i> (1888)
+22 QBD 211, 219 per Wills J)</p>
+
+<p class="ParaNoNumber">In similar terms in <i>Robinson Bros (Brewers) Ltd v
+Houghton and Chester-le-Street Assessment Committee</i> [1937] KB 445, 470,
+Scott LJ said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The rent to be ascertained is the
+figure at which the hypothetical landlord and tenant would, in the opinion of
+the valuer or the tribunal, come to terms as a result of bargaining for that
+hereditament, in the light of competition or its absence in both demand and
+supply, as a result of ‘the higgling of the market’. I call this the true rent
+because it corresponds to real value.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>More contentious is how to apply those principles in a case where there
+is no evidence of actual demand for the particular property, by which to
+conduct this hypothetical exercise. I shall return to the authorities in more
+detail, having outlined the course of the proceedings below.</a></p><a name="para8">
+
+<p class="ParaHeading"><b><span style="font-style:normal">The proceedings below</span></b></p>
+
+<p class="ParaHeading" style="margin-left:36.0pt"><b>The Upper Tribunal</b></p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">The hearing</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Valuation Tribunal for England having reduced the rateable value to
+£1, the valuation officer appealed to the Upper Tribunal, before which the matter
+was dealt with by way of a full re-hearing on fact and law. Both sides were
+then represented by the same counsel as have since appeared before the Court of
+Appeal and this court: Ms Hui Ling McCarthy QC (as she has since become) for
+the valuation officer, and Mr Richard Glover QC for Telereal. Expert evidence
+was presented to the tribunal in the form of written statements by Mr Hewitt
+himself, and Mr Baldwin for Telereal.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the first day of the hearing (28 April 2016), Mr Hewitt gave evidence
+and was cross-examined. The tribunal summarised his evidence (UT paras 19-30).
+In his view, the building was “not obsolete either in a functional or in a
+locational sense” for reasons he explained. That Telereal had shared that
+opinion, he said, was shown by the fact that in 2002 they had taken a
+reversionary lease to run from September 2014 to March 2018, and that on the
+September 2007 rent review their own surveyor had put the rent at £341,000.
+However, in the course of his cross-examination, as the tribunal recorded, he
+accepted -</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… that as at the AVD he could not
+identify in the real world any person who would put in a bid for a tenancy of
+Mexford House on the statutory terms; that there was no demand for such
+accommodation from the private sector; and that all public sector demands as at
+the AVD were being met by the occupation of other premises which the public
+sector already enjoyed. He accepted the opinion expressed by Mr Baldwin
+[Telereal’s surveyor] in paragraph 11.1 of Mr Baldwin’s first report, namely that
+‘vacant and to let’ at the AVD there would be no demand for Mexford House.” (UT
+para 24)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the other hand, he pointed to the fact that “there did exist at the
+AVD demand for other (occupied) properties which were comparable to Mexford
+House”. He maintained his view that a substantial rateable value was
+appropriate, for reasons he explained:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Leaving aside any detailed
+comparisons (some favourable some unfavourable) between Mexford House on the
+one hand and Hesketh House and the other comparables on the other hand, [Mr
+Hewitt] expressed the view that there was a quantity of broadly comparable
+office accommodation which was in beneficial occupation and for which
+substantial rents were paid at the AVD. He said that the fact that as at the
+AVD there was in the real world no demand for Mexford House (because all the
+demand had been absorbed in the other comparable properties) was not because of
+any intrinsic lack of merit (or obsolescence) in Mexford House as compared with
+these other properties but because Mexford House could be considered as
+‘unlucky’ not to have occupants in beneficial occupation when comparable office
+premises did have occupants in beneficial occupation.” (UT para 29)</p>
+
+<p class="ParaNoNumber">On this basis, his final assessment of the rateable value
+of Mexford House was £370,000.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following the completion of Mr Hewitt’s evidence, counsel for both
+parties informed the tribunal of their view that, in the light of his evidence,
+the issue between them could be decided “as a matter of law upon an agreed
+basis of fact” (UT para 31). No other evidence was heard; in particular, Mr
+Baldwin was not called or cross-examined. Following legal argument the hearing
+concluded, but the tribunal directed that the agreed position should be reduced
+to writing.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Accordingly, on 3 May 2016 the parties lodged an agreed statement (“the
+Joint Position Paper” or “JPP”) in the following terms:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The parties are content
+that the issue can be decided as a point of law.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The respondent
+[Telereal] contends that the correct approach requires the valuer to consider
+whether, had the subject hereditament been on the market at the AVD (1 April
+2008), anybody would have been prepared to occupy the property and pay a
+positive price.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The parties agree that
+had the subject hereditament been on the market at the AVD (1 April 2008),
+nobody in the real world would have been prepared to occupy the property and
+pay a positive price. Thus, if the correct approach under the rating hypothesis
+is as formulated in para 2 above, the appeal should be dismissed and the
+decision of the [VTE] confirmed.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The [Valuation Officer]
+accepts that there was nobody in the real world who would be prepared to pay or
+bid a positive price for Mexford House at 1 April 2008.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If, however, the
+correct approach is, as the [Valuation Officer] contends, that (notwithstanding
+the absence of anybody who would be prepared to pay or bid a positive price for
+Mexford House at 1 April 2008), the rating hypothesis:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; requires the existence
+of a hypothetical tenant to be assumed and;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; requires the rateable
+value to be assessed by reference to the ‘general demand’ as evidenced by the
+occupation of other office properties with similar characteristics,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">then the parties agree that the
+appeal should be allowed and the [rateable value] determined at £370,000.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The respondent accepts
+the proposition at 5(a) but does not accept the proposition at 5(b).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the [Valuation
+Officer] is right, [his rateable value] of £370k is confirmed.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the respondent is
+right, the respondent’s [rateable value] of £1 is confirmed.”</p>
+
+<p class="ParaNoNumber">Footnotes to paragraphs 2 and 3 noted that the factors in
+paragraph 2(7) of Schedule 6 were to be taken as they were at 1 April 2010.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the Court of Appeal observed (paras 25-26), the tribunal seems to
+have gone out of its way to make sure that the basis of the agreement was not
+in doubt. It commented on the state of the evidence at that point:</a></p><a name="para14">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“We have received Mr Hewitt’s
+evidence which has been cross-examined before us. We have received Mr Baldwin’s
+written evidence but he did not give any oral evidence and hence was not
+offered for cross examination. We pointed out that if we proceeded as invited
+we could not properly resolve any dispute of fact in so far as such was
+revealed in the evidence before us. The parties were both content with this
+position and considered that, in the light of the factual agreements contained
+in the Joint Position Paper, there was no need for any such resolution of
+disputed matters save for the point of law which they had identified.” (para
+33)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It also mentioned the kind of factual matters on which (absent
+agreement) it would have expected to be addressed: including “what steps were
+taken when and by whom to let Mexford House upon what terms”; and whether
+Mexford House could have been let at a much lower rent, for example if the DWP
+or HMRC might have chosen to consolidate there “on the hypothetical statutory
+terms at such a very much lower rent”. It was told that these points did not
+need to be investigated, since the valuation officer “did not seek to argue
+that in the real world Mexford House could at the AVD have been let at a
+positive price” (UT paras 34-35). On the other side it was confirmed by Mr
+Glover for Trillium that it was unnecessary to explore differences between the
+comparables and Mexford House since -</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… it was accepted that if, as a
+matter of principle, the rateable value of Mexford House was to be assessed by
+reference to the ‘general demand’ as evidenced by the occupation of other
+office properties with similar characteristics, then the respondent accepted
+that £59 per square metre was correct.” (para 36)</p>
+
+<p class="ParaHeading">The tribunal’s reasoning</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would pay tribute to the tribunal’s judgment, which is a painstaking
+review of the relevant principles, and their application to the present case on
+the limited basis permitted by the JPP. For present purposes it is unnecessary
+to set it out in full. The tribunal had conducted a detailed review of a number
+of authorities, to which I will need to return in more detail later in this
+judgment. It started its “discussion” by stating two propositions derived from
+that review (paras 96-97):</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It must be assumed that a
+hypothetical landlord and a hypothetical tenant will agree terms for such a
+letting. It is not permissible to conclude that no bidder can be found to take
+the tenancy.”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is well established that the
+basic question to ask is: is the occupation (ie the occupation under the
+hypothetical tenancy) such as to be of value? A valuation for rating purposes
+is based upon the concept of the value of the occupation.”</p>
+
+</a><p class="ParaNoNumber"><a name="para16">As indicated by cross-references to earlier paragraphs,
+the latter proposition was derived from various authorities, starting with <i>London
+County Council v Church Wardens and Overseers of the Poor of the Parish of
+Erith in the County of Kent</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1893/52.html">[1893] AC 562</a> (the “<i>Erith case</i>”); the
+former more specifically from <i>Hoare (Valuation Officer) v National Trust</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1998/1525.html">[1998] RA 391</a>, 422 per Sir Richard Scott VC.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The core of the tribunal’s reasoning comes in the following paragraphs:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“102.&nbsp; Having regard to the Joint
+Position Paper we are not concerned with any detailed comparisons between
+Mexford House on the one hand and Hesketh House and other comparables on the
+other hand. We proceed on the basis that as at the AVD there existed several broadly
+comparable office premises which were beneficially occupied and for which
+substantial rents were being paid. There is no reason to conclude that the
+public sector occupants of those comparable premises, if not already
+accommodated in those premises, would have been unable to enjoy beneficial
+occupation of Mexford House and find such occupation of substantial value.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">103.&nbsp;&nbsp;&nbsp; It is necessary to
+consider the hypothetical negotiations for the tenancy on the statutory terms
+between the hypothetical landlord and the hypothetical tenant in circumstances
+where the hereditament was not intrinsically valueless and where comparable
+premises were being beneficially occupied at substantial rents. In such
+circumstances we do not consider a hypothetical landlord and hypothetical
+tenant, each acting prudently and making the best use it could of its
+bargaining position, would agree upon a rent of £1.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">104.&nbsp;&nbsp;&nbsp; We consider the flaw in
+the respondent’s argument to be as follows. The respondent correctly accepts
+that it is not open to it to say that no hypothetical tenant would be prepared
+to take any tenancy at all. The respondent accepts that there has to be a
+tenancy granted on the statutory terms between the hypothetical landlord and
+the hypothetical tenant after negotiations. However, the respondent then
+(incorrectly in our view) attributes to the hypothetical tenant a
+characteristic which is not justified, namely the characteristic of not wanting
+the tenancy at all. The respondent seeks to justify this by saying that in the open
+market as a matter of fact no-one would have been prepared to pay any positive
+price for Mexford House. We consider that it is only permissible to attribute
+this characteristic to the hypothetical tenant where the hereditament is
+intrinsically valueless (struck with sterility) or where the responsibilities
+are such that no beneficial occupation is possible in a commercial sense. It is
+impermissible to attribute this characteristic to the hypothetical tenant when
+the premises are capable of beneficial occupation and where comparable premises
+are beneficially occupied at substantial rents.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">105.&nbsp;&nbsp;&nbsp; Mexford House was capable
+of beneficial occupation as at the AVD. It was in fact still occupied (anyhow
+partially) at that date. The property has its drawbacks having regard to its
+age of construction and parking provision and location but is deemed to be in
+repair in accordance with the statutory provisions. It is necessary to ask the
+question identified in [the <i>Erith </i>case] namely whether the occupation
+(ie occupation under the hypothetical tenancy) be such as to be of value? We
+conclude that the only answer that can be given to that question is: yes, the
+occupation is such as to be of value.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">106.&nbsp;&nbsp;&nbsp; Once that answer is
+reached we conclude it is impossible to find that the yearly tenancy on the
+statutory terms would be granted in return for a nominal rent. Instead we
+conclude that the tenancy would be granted at a rent which was more than a
+nominal rent and which was a rent which represented the value of the
+occupation. This rent would be negotiated between the hypothetical tenant and
+the hypothetical landlord by reference to the ‘general demand’ for such
+properties as evidenced by the occupation of other office properties with
+similar characteristics. Having regard to the Joint Position Paper it is not
+appropriate for us (or indeed open to us) to examine how such negotiations
+would go and whether the hypothetical tenant might be able to agree a rent at
+less than £370,000.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The tribunal accordingly fixed the rateable value at the agreed figure
+of £370,000. Permission to appeal was granted by the tribunal itself on 3
+August 2016 in the following terms:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The appeal raises an issue of
+principle which is likely to recur in connection with substantial vacant
+buildings with significant rateable values. Where the evidence shows that there
+is no demand to occupy a hereditament which is capable of occupation, does the
+rating hypothesis require the valuer to assume demand that does not in reality
+exist?”</p>
+
+<p class="ParaHeading"><b>The Court of Appeal</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Telereal appealed to the Court of Appeal, which allowed the appeal and
+restored the VTE’s assessment. Giving the sole judgment, Henderson LJ reviewed
+the authorities. He cited in particular (at paras 34-35) the judgment of
+Hoffmann LJ in <i>Inland Revenue Comrs v Gray</i> [1994] STC 360, for the
+proposition that “[a]lthough the yearly letting is hypothetical, the open
+market in which it is assumed to take place is real”, adding the comment:</a></p><a name="para19">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It can be seen, therefore, that
+the hypothetical purchaser, or in the present context the hypothetical lessee,
+‘embodies whatever was actually the demand for that property at the relevant
+time’, and that the valuation is a ‘retrospective exercise in probabilities,
+wholly derived from the real world.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He referred also (para 36) to <i>Hoare v National Trust</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1998/1525.html">[1998] RA 391</a> in which the Court of Appeal, overturning the decision of the Lands
+Tribunal, had ascribed only a nominal rateable value to two historic houses
+(Petworth House and Castle Drogo) owned by the National Trust. The court had
+emphasised “the need to depart from reality no further than the statutory
+hypothesis requires”: that is “the principle of reality” in the words of Peter
+Gibson LJ. He added:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Peter Gibson LJ did not need to
+consider the more extreme position where, as in the present case, there was <i>no</i>
+potential bidder for the hypothetical lease; but the logic of the reality
+principle would appear to dictate that, in such circumstances, no hypothetical
+lease at a positive rent could have been concluded.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the light of the principles established by the authorities, he saw
+“no real doubt about the answer in the present case”:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“On the agreed factual basis that
+nobody in the real world would have been prepared to occupy Mexford House at
+the AVD and to pay a positive price for doing so, it is in my judgment
+impossible to say that there was any actual demand in the market for such
+occupation. In the absence of any actual demand, there is no principle of law
+which requires such demand to be assumed. The only relevant assumption inherent
+in the rating hypothesis is that an agreement will be reached between the
+notional lessor and the notional lessee, but this requirement is satisfied by
+assuming a letting at a nominal rent. It would be contrary to the reality
+principle, and to the repeated emphasis in the authorities on the need to
+examine the actual balance between supply and demand in the real market, if the
+requirement to assume a concluded letting were elevated into a requirement to
+assume such a letting at a substantial rent which nobody in the real world
+would ever have been willing to pay. The existence of any such supposed
+principle of law would also be impossible to reconcile with the cases which
+show that, in an appropriate factual context, application of the rating
+hypothesis to premises which are capable of beneficial occupation can
+nevertheless yield a rateable value of nil or a nominal amount.” (para 41)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He acknowledged the existence of “broadly comparable office properties …
+occupied by public sector tenants at rents comparable to that for which Mr
+Hewitt contended”. However, there was “no surplus public sector demand” which
+would have enabled Mexford House to be re-let; in other words “the relevant
+market was saturated” (para 42). Ms McCarthy’s arguments glossed over “the
+critical point … the saturation of the relevant market and the absence of any
+potential tenants in the real world for Mexford House”. He added:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In a saturated market, there is
+still a proper basis for a substantial rateable value while the existing tenant
+remains in occupation and pays a substantial rent for the hereditament; but
+that situation changes once the property becomes vacant, because there is no
+longer a potential tenant available to take it on the statutory terms required
+by the rating hypothesis.” (para 43)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He identified four respects in which the Upper Tribunal had erred (paras
+46-50):</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“First, the Upper Tribunal were
+wrongly influenced by passages in the speech of Lord Herschell LC in [the <i>Erith
+</i>case] which were directed to the logically prior question of whether the
+premises were in rateable occupation at all, which is not in issue in the
+present case, rather than by the guidance given by Lord Herschell LC about the
+rating hypothesis itself at p 588 …”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Secondly, although the Upper
+Tribunal quoted at length from the judgment of Hoffmann LJ in <i>Inland Revenue
+Comrs v Gray</i>, … their actual reasoning appears to be inconsistent with the
+concept of the actual open market described by Hoffmann LJ …”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Thirdly, at para 102, the Upper
+Tribunal considered that the public sector occupiers of the comparable
+premises, if not already accommodated in them, would have been able to enjoy
+beneficial occupation of Mexford House, and to find such occupation ‘of
+substantial value’. That may have been so, but the actual position was that the
+other public sector tenants were already accommodated elsewhere, and they would
+not have been available as potential tenants for Mexford House on the actual
+market which existed at the relevant time. Furthermore, the effect of
+paragraphs 2(5) and (7) of Schedule 6 to the 1988 Act is that the valuer must
+assume that all the comparable properties were occupied and used on the
+material date by their existing tenants.”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Fourthly, the Upper Tribunal
+appear to have taken the view that a nominal rateable value is only permissible
+in law where the hereditament is either intrinsically valueless (‘struck with
+sterility’) or where the tenant’s responsibilities are so onerous that no
+beneficial occupation of the property is possible in a commercial sense. … I
+can find no warrant for treating these categories as exhaustive, or as
+precluding the same conclusion in a case where the evidence drawn from the
+market is that there was no tenant who would pay a positive rent for the
+relevant hereditament.”</p>
+
+<p class="ParaHeading"><b>The issues in the appeal</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The main issue in the appeal, as in the Upper Tribunal and the Court of
+Appeal, is narrowly constrained by the terms of the JPP. It is common ground
+that at the AVD “nobody in the real world would have been prepared to occupy
+the property and pay a positive price”, but that the “rating hypothesis”
+requires “the existence of a hypothetical tenant to be assumed”. The question
+is whether, against that agreed legal and factual background, the same
+hypothesis -</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… requires the rateable value to
+be assessed by reference to the ‘general demand’ as evidenced by the occupation
+of other office properties with similar characteristics.”</p>
+
+<p class="ParaNoNumber">If the answer is yes, it is agreed that the correct
+rateable value was £370,000; if no, £1.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The submissions of the parties in this court largely repeat their
+submissions below, and are sufficiently indicated by the two judgments reviewed
+above. However, it is convenient at this point to deal with one possible
+difference between their respective interpretations of the JPP.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his written submissions, Mr Glover commented on the apparently
+conflicting views of the two valuers on the issue of “obsolescence”. As he
+explained, the view of his witness, Mr Baldwin, was that given the size, age
+and location of Mexford House and “the clear evidence that the market had moved
+away from offices of that size, age and location”, the hereditament had
+“reached the end of its economic life” and was “economically obsolete”. In
+support he took us to parts of Mr Baldwin’s written evidence (paragraphs 11.4-11.5)
+where he had spoken of the public sector being “in the process of downsizing
+their estate in the Fylde”, with the result that -</a></p><a name="para26">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“second hand office complexes
+dating from the 1960s and 1970s that became empty between 2000 and 2014 were
+either</p>
+
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Demolished …;</p>
+
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>completely refurbished or redeveloped … or</p>
+
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>remained empty pending lease expiry.”</p>
+
+<p class="ParaNoNumber">He put Mexford House in the last category.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Glover noted the apparently contrasting view of Mr Hewitt that
+Mexford House was “still physically capable of use as offices and had a general
+specification not too dissimilar from occupied buildings”, and that it was
+neither “functionally” nor “locationally” obsolete. Mr Glover suggested that
+these uses of the term “obsolete” were not mutually contradictory:</a></p><a name="para27">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The qualifying adjective is
+critical. It was not a necessary part of the ratepayer’s case to show that Mr
+Hewitt’s propositions were wrong; so he was not cross-examined on them.
+Similarly, after the agreement of the JPP, counsel for the valuation officer
+did not feel the need to challenge Mr. Baldwin on his proposition.” (written
+submissions para 17)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This submission, in my view, runs up against a difficulty inherent in the
+JPP itself. The bare agreement that “nobody in the real world” would have been
+prepared to pay “a positive price” to occupy the building tells one nothing
+about the reasons for that position. Mr Glover’s summary highlights what in my
+view was a significant difference between the explanations given by the two
+valuers. Had Mr Baldwin been called as a witness, his alternative valuation of
+£1 would have been explored. The tribunal would no doubt have wished to examine
+the hypothetical possibilities mentioned in its judgment. There would also have
+been room for cross-examination on the comparison with the valuation proposed
+by Telereal’s surveyor on the rent review. As it was, those differences were
+necessarily left unresolved.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The tribunal recorded the valuation officer’s view that the property was
+not “obsolescent” in either sense, and that the lack of demand was due simply
+to “all public sector demands” being met by other properties; or as he put it
+later “because all the demand had been absorbed in the other comparable
+properties … not because of any intrinsic lack of merit (or obsolescence) …”.
+That was the limited context of his agreement with Mr Baldwin’s paragraph 11.1.
+(see paras 10-11 above, citing UT paras 24 and 29). His acceptance of the proposition
+in that paragraph cannot be read as extending to the matters set out in the
+following paragraphs of Mr Baldwin’s evidence. Apart from mentioning his
+report, the tribunal made no further reference to Mr Baldwin’s evidence, on
+this or any other issue. That was entirely understandable in view of the terms
+of the JPP.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As far as concerned the submissions as recorded by the tribunal, the
+same limited view of Mr Hewitt’s concession was repeated and relied on in Ms
+McCarthy’s submissions (UT para 71). On the other side, there was no indication
+in Mr Glover’s submissions (UT paras 82ff) that the issue of “obsolescence”, or
+Mr Baldwin’s views on it, formed any part of his case on behalf of Telereal
+following the JPP. Similarly, as has been seen (para 21 above), the Court of
+Appeal’s judgment proceeded on the basis that the lack of a tenant was due, not
+to “obsolescence” in any sense, but “saturation” of the relevant market.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this court, in my view, we must take the JPP as it stands. We cannot
+look beyond it to evidence which was not referred to by the tribunal, nor
+attempt to resolve issues which were by agreement left unresolved. However,
+that does not mean that the JPP has to be looked at in a vacuum. In so far as
+there are differences as to its interpretation we are entitled to look at the
+context in which it was arrived at, and the state of the evidence as recorded
+by the tribunal at that time. That includes, but does not go beyond, the
+agreement arrived at in the course of Mr Hewitt’s cross-examination.</a></p><a name="para31">
+
+<p class="ParaHeading"><b><span style="font-style:normal">The authorities</span></b></p>
+
+<p class="ParaHeading" style="margin-left:36.0pt">General principles</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The tribunal took it as established by the authorities, first that -</a></p><a name="para32">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It must be assumed that a
+hypothetical landlord and a hypothetical tenant will agree terms for such a
+letting. It is not permissible to conclude that no bidder can be found to take
+the tenancy.” (para 96)</p>
+
+<p class="ParaNoNumber">and secondly that -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the basic question to ask is:
+is the occupation (ie the occupation under the hypothetical tenancy) such as to
+be of value? A valuation for rating purposes is based upon the concept of the
+value of the occupation.” (para 97)</p>
+
+</a><p class="ParaNoNumber"><a name="para32">As indicated by their cross-references, the first
+proposition was derived from <i>Hoare v National Trust</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1998/1525.html">[1998] RA 391</a>, 422
+per Sir Richard Scott VC (see UT para 62); the second from a number of
+authorities, including the <i>Erith </i>case, but perhaps most clearly stated
+in <i>Poplar Metropolitan Borough Assessment Committee v Roberts (“Poplar”)</i>
+[1922] 2 AC 93 HL (UT paras 48). I will need to look in more detail at the <i>National
+Trust </i>case, which was relied on by the Court of Appeal, and also by Mr
+Glover in submissions. It is convenient to refer first to the <i>Poplar </i>case,
+which provides an authoritative and, I believe, uncontentious statement of the
+general approach.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Poplar</i> case concerned the rating of a tied house (including
+living accommodation) which was subject to statutory rent control, with the
+effect that the maximum recoverable rent was less than the value entered in the
+valuation list. The ratepayer appealed on the basis that the figure should be
+reduced to the maximum rent so recoverable. The House of Lords dismissed the
+appeal. It is sufficient for present purposes to refer to Lord Parmoor’s
+discussion of some of “the fundamental principles which permeate the whole
+system of our rating law” (pp 118ff). As he explained actual rents agreed
+between tenant and landlord are not the test of value for rating purposes, this
+being one aspect of the “fundamental principle of equality”:</a></p><a name="para33">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It has long been recognized, as a
+matter of principle in rating law, that to make actual rentals the basis of
+rateable value would contravene the fundamental principle of equality, both
+between the rate contributions from individual ratepayers, and between the
+totals of rate contributions levied in different contributory rating areas. In
+effect the result would be to make the amount on which the occupier of property
+is liable to pay rates dependent in many cases on the contractual relationship
+between a particular landlord and tenant, whereas it is dependent in all cases
+on a statutory direction applicable on the same principle to all hereditaments,
+and intended to insure equality of treatment as between the occupiers of
+rateable property and the rating authority.” (p 119)</p>
+
+<p class="ParaNoNumber">As he acknowledged, it could be “notoriously difficult”
+in some instances to ascertain the correct figure, but the duty of the
+assessment committee was -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… in all cases, to ascertain for
+this purpose as accurately as may be, the value of the beneficial or profitable
+occupation of the particular property, and then to make the statutory
+deductions.”</p>
+
+<p class="ParaNoNumber">For that purpose account should be taken of “all that can
+reasonably influence the judgment of an intending occupier” (p 120).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The underlying principle of equality (or the “common yardstick”, in Ms
+McCarthy’s words) was stated in similar terms more recently by Lord Pearce:</a></p><a name="para34">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Rating seeks a standard by which
+every hereditament in this country can be measured in relation to every other
+hereditament. It is not seeking to establish the true value of any particular
+hereditament, but rather its value in comparison with the respective values of
+the rest. Out of various possible standards of comparison it has chosen the
+annual letting value … So one must assume a hypothetical letting (which in many
+cases would never in fact occur) in order to do the best one can to form some
+estimate of what value should be attributed to a hereditament on the universal
+standard, namely a letting ‘from year to year’…” (<i>Dawkins (VO) v Ash
+Brothers and Heaton Ltd</i> [1969] 2 AC 366, 381-388)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is right also to note the necessary qualification to that principle
+stated by Scrutton LJ in a familiar passage in the <i>Ladies Hosiery </i>case
+[1932] 2 KB 679. Having referred to the “vital principle” that the valuation
+should be “fair and equal” as between “different classes of hereditaments, and
+as between different hereditaments in the same class”, he added:</a></p><a name="para35">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“but in my view there is a third
+important qualification, that the assessing authority should not sacrifice
+correctness to ensure uniformity, but, if possible, obtain uniformity by
+correcting inaccuracies rather than by making an inaccurate assessment in order
+to secure uniform error.” (<i>Ladies Hosiery and Underwear Ltd v West Middlesex
+Assessment Committee</i> [1932] 2 KB 679, 688)</p>
+
+<p class="ParaHeading">The Erith case</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the application of these principles to a case where there was no
+general market for the use in question, the tribunal relied on the <i>Erith </i>case
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1893/52.html">[1893] AC 562</a>, from which it extracted the proposition that in such a case “the
+true test is whether the occupation is of value”, contrasting the case where
+the land was “struck with sterility in any and everybody’s hands” (para 43).
+The Court of Appeal thought that in this respect the tribunal had been wrongly
+influenced by passages directed to the “logically prior question whether the
+premises were in rateable occupation at all …” (see para 23 above). In my view
+that criticism is misplaced. To understand why, it is necessary therefore to
+look in a little more detail at the case and its factual context.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Erith </i>case concerned pumping stations and other installations
+occupied by the LCC, as part of the metropolitan sewerage system. The appeal
+proceeded by case-stated on the basis that the net rateable value was fixed at
+£10,000 subject to resolution of the question of law identified in the case. It
+was agreed that, as used by the LCC they were incapable of yielding a profit; that
+if they had been in private ownership, the LCC would have been prepared to pay
+a rent sufficient to support the rateable value as fixed; but if disconnected
+from that system and “in the hands of a tenant applied to any other use” the
+rateable value should be £2,143 (p 565). The principal questions before the
+House were, first, whether they were rateable at all, and secondly, if so,
+whether for the purpose of assessing rateable value the LCC was to be
+considered as a possible hypothetical tenant. Both questions were answered in
+the affirmative.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the leading speech Lord Herschell LC dealt first with the authorities
+on the issue of rateability, concluding that the relevant law was “in a most
+unsatisfactory condition”. However the decision of the House in <i>Jersey v
+Mersey Docks </i>(1865)<i> </i>11 HLC 443, “mark[ing] an epoch in the law of
+rating”, had “exploded” the basis of some of the early authorities, by
+determining that “the circumstance that land is held by a public body for
+public purposes does not affect its rateability”; land is “rateable whenever
+its occupation is of value” (pp 584-585).</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Having dealt with the issue of rateability, he turned then to consider
+that of assessment: “upon what principle the assessment ought to be made, and
+what considerations are proper to be taken into account”, questions which in
+his mind were “involved in much greater difficulty” (p 586). Having referred to
+the statutory definition of rateable value, designed for “uniformity in the
+assessment of rateable property in the metropolis” (p 587) he said:</a></p><a name="para39">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It has never been doubted that
+the rent which is actually being paid by the occupier does not necessarily
+indicate what is the rent which a tenant might reasonably be expected to pay,
+or that an owner who is in occupation, and who may not be willing to let on any
+terms, is none the less rateable. The tenant described by the statute has
+always been spoken of by the court as ‘the hypothetical tenant’. Whether the
+premises are in the occupation of the owner or not, the question to be answered
+is: Supposing they were vacant and to let, what rent might reasonably be
+expected to be obtained for them?” (p 588)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was in this context that (at pp 590-592) he discussed the use in some
+of the earlier authorities of the expression “struck with sterility”. For
+example, in <i>R v School Board for London</i> (1886) 17 QBD 738, 942
+(concerning rateability of a school), Bowen LJ had said:</a></p><a name="para40">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If land is by law struck with
+sterility when in any and everybody’s hands, so that no profit can be derived
+from the occupation of it, it cannot be rated to the relief of the poor. But if
+the school-house is not used by this school board for any profitable purpose,
+it by no means follows that the site of it must be sterile in every other
+person’s hands.”</p>
+
+<p class="ParaNoNumber">Lord Herschell commented:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Now, if land is ‘struck with
+sterility in any and everybody’s hands’, whether by law or by its inherent
+condition, so that its occupation is, and would be, of no value to any one, I
+should quite agree that it cannot be rated to the relief of the poor. But I
+must demur to the view that the question whether profit (by which I understand
+is meant pecuniary profit) can be derived from the occupation by the occupier
+is a criterion which determines whether the premises are rateable, and at what
+amount they should be assessed; and I do not think that a building in the hands
+of a school board is incapable of being beneficially occupied by them, and is
+not so occupied because they are prohibited from deriving pecuniary profit from
+its use.”</p>
+
+<p class="ParaNoNumber">He cited with approval the words of Fry LJ, in the same
+case (at 17 QBD, p 770):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The term ‘sterility’ has been
+introduced into the cases because, as a general rule, a profit is produced; but
+it does not by any means follow that because there is no profit there is no
+value …”</p>
+
+<p class="ParaNoNumber">and commented:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I think the learned judge here
+points to the true test; whether the occupation be such as to be of value … and
+I have already said that the possibility of making a pecuniary profit is not in
+my opinion the test whether the occupation is of value.” (p 591)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear in my view from a review of the speech as a whole that Lord
+Herschell was seeking to clarify the principles not only of rateability but
+also of assessment. The rateable value in his case was directly dependent on
+whether the LCC could be considered as a hypothetical tenant, since it was only
+on that basis that it would be appropriate to take account of the use of the
+pumping stations as part of the metropolitan sewerage system, rather than as a
+detached installation in private hands. As has been seen, they were the
+respective bases of the agreed alternative valuations.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Accordingly, with respect, Henderson LJ was wrong to criticise the
+tribunal’s reliance on passages from this speech as directed solely to the
+issue of rateability. That may be true of its first reference (UT para 39) to
+his statement that land is rateable “whenever its occupation is of value”.
+However the tribunal went on to cite passages specifically directed to the
+issue of assessment, including the contrast with land “struck with sterility”
+and Lord Herschell’s adoption of Fry LJ’s “true test”, that is “whether the
+occupation is of value”. Indeed, in this as in other early authorities, the
+considerations relevant to rateability and valuation may often overlap (see eg <i>Mersey
+Docks and Harbour Board v Birkenhead Union Assessment Committee </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1901/13.html">[1901] AC 175</a>, 184-185 per Lord Davey).</p>
+
+<p class="ParaHeading">The Court of Appeal authorities</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I turn first to </a><a name="_Hlk2009046"><i>Hoare v National Trust</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1998/1525.html">[1998] RA 391</a>, on which both parties relied. As already noted this case
+concerned the assessment of rateable value of two historic houses (Petworth
+House and Castle Drogo) owned by the National Trust. I can conveniently adopt
+the present tribunal’s summary of the issue (UT para 62):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The National Trust had produced
+figures to show that no profits could be made from the properties. They argued
+therefore that no hypothetical tenant would be prepared to offer any rent for
+them and that their rateable value was therefore nil. The Lands Tribunal
+broadly accepted that no profit could be made from the properties, but held
+that an overbid would be made by the National Trust, who could be treated as a
+hypothetical tenant, to reflect the great historical and cultural values of the
+houses notwithstanding that there was no money to be made out of being a tenant
+of them. The Tribunal calculated the amount of the rent by taking 3% of the
+gross receipts at each property.”</p>
+
+<p class="ParaNoNumber">The Court of Appeal disagreed holding that a hypothetical
+tenant (whether regarded as the National Trust itself, or, as Sir Richard Scott
+V-C thought preferable, “a hypothetical person standing in as a hypothetical
+National Trust”) would not “have been prepared to make any overbid”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the tribunal noted at para 62, the court had “recognised that the
+statutory formula demands that the hypothetical negotiations for the yearly
+tenancy should be successful”. It cited the words to that effect of the
+Vice-Chancellor (p 422):</a></p><a name="para44">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If only one potential bidder has
+been identified, a conclusion that the bidder would not be willing to take the
+yearly tenancy is not one that is permissible. The statutory formula insists
+that the tenancy is taken up.”</p>
+
+<p class="ParaNoNumber">noting that the other judgments (of Schiemann and Peter
+Gibson LJJ) were to similar effect.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the substance of the decision the tribunal cited the leading
+judgment of Schiemann LJ, but it might also have referred to the concurring
+judgment of the Vice-Chancellor where the critical point is to my mind
+expressed most clearly:</a></p><a name="para45">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The question for the Tribunal was
+not, in my judgment, what annual rent the National Trust would have been
+willing to pay for the two properties, but what rent a hypothetical
+organisation whose purposes were the preservation of historic houses and whose
+resources were adequate for taking on these properties would have been prepared
+to pay. The answer to this question would have to take into account in respect
+of each property the net annual receipts that could be obtained from a
+reasonable exploitation of the property’s potential and the annual expenditure
+that would have to be undertaken in the maintenance, repair and general
+preservation of the property. It is, in my opinion, important to notice that
+the statutory formula, unlike its predecessor in section 19 of the General Rate
+Act 1967, places the burden of repair and maintenance on the hypothetical
+tenant. Each of the properties with which we are concerned appears to require
+an annual expenditure on repair and maintenance which would leave the
+hypothetical tenant heavily out of pocket.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The facts as found by the
+Tribunal, regarding the annual receipts that might be obtained from each
+property and the annual expenditure currently being spent on the maintenance
+and repair of each property, make it quite unreal, in my judgment, to suppose
+that the hypothetical tenant would be prepared to pay any rent at all. The
+hypothetical tenant, the hypothetical National Trust, would be accepting the
+obligation to meet a considerable annual deficit. Why should any hypothetical
+tenant be willing to add to that deficit by paying a positive rent? Why would
+not the hypothetical landlord be willing to grant the yearly tenancy at a nil
+rent in order to escape the annual deficit resulting from the cost of keeping
+the property in repair?” (pp 23-24)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The tribunal saw that case as exemplifying the proposition that a nil value
+may be appropriate where occupation of the hereditament may be beneficial in
+the physical sense but -</a></p><a name="para46">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“where the responsibilities of a
+tenancy are so great as to result in the occupation being burdensome rather
+than beneficial in the commercial sense.” (UT para 99)</p>
+
+<p class="ParaNoNumber">I agree.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Henderson LJ thought this decision supported the opposite conclusion to
+that reached by the tribunal. He referred (para 37) to Schiemann LJ’s
+observation that the hypothetical landlord would be faced with a situation
+where “there are no other bidders for the tenancy”, pointing as he said “to a
+nominal hypothetical rent”. Henderson LJ thought that the same conclusion
+“would seem to follow, a fortiori, if there were no potential bidder for the
+tenancy in the real world”. However, that ignores the different context of
+Schiemann LJ’s observation. The lack of alternative bidders in that case was
+the consequence of the inherently burdensome nature of the property. Unlike the
+present case, there were no other comparable properties let at substantial
+rents.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For similar reasons I do not consider that any assistance is to be
+gained from an earlier Court of Appeal authority to which Henderson LJ referred
+(para 38): <i>Tomlinson v Plymouth Argyle Football Co Ltd </i>(1960) 175 EG
+1023. That concerned the respondent’s football ground, for which the Football
+Club was the sole potential tenant. Henderson LJ cited Pearce LJ’s warning
+against assuming hypothetical tenants for the hereditament “if there is in
+respect of that particular hereditament no reasonable possibility of such
+tenants existing”. However, that again was in the context that the absence of
+an alternative tenant was due, not to a surplus of similar properties in the
+market, but to the particular quality of the property and the heavy cost of
+maintenance (see p 703).</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally I should refer to the passage in Hoffmann LJ’s judgment in <i>Inland
+Revenue Comrs v Gray</i> [1994] STC 360, on which Henderson LJ placed some
+reliance. That concerned a different statutory regime, relating to the
+valuation of an estate for the purposes of capital transfer tax under the Finance
+Act 1975. Section 38 of that Act required the value at any time of any property
+to be taken as “the price which the property might reasonably be expected to
+fetch if sold in the open market at that time”. The court’s reliance on this
+authority was perhaps more understandable if, as Henderson LJ recorded (para
+33), the parties were in agreement that the open market to be assumed under
+that section was “materially identical to the open market posited by the rating
+hypothesis”.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, in my view the comparison was potentially misleading. I note
+that in <i>Hoare v National Trust</i>, Peter Gibson LJ mentioned this case as
+raising a “similar requirement of a hypothetical transaction” (p 18). That may
+be true, but it is only part of the story. There are at least two important
+differences. First, section 38 was expressly concerned with an imaginary sale
+in the “open market”; the 1988 Act calls simply for an estimate of the rent
+“reasonably (to be) expected”, without any reference in terms to a “market”
+(although such language can be found in some of the cases: eg “the higgling of
+the market” - para 7 above). More importantly, the 1984 Act was concerned with
+the valuation of a single asset for capital transfer tax. There is no necessary
+comparison with any other properties or assets. By contrast, as has been seen,
+the purpose of rating assessment is much wider. It is to achieve a fair
+standard for comparable properties across the country as a whole. It is
+unnecessary to decide whether every part of Hoffmann LJ’s analysis was accurate
+in the statutory context to which it was directed. In the present context,
+however, in so far as it suggests that the identification of the hypothetical
+tenant is limited by “whatever was the actual demand for that property at the
+relevant time”, it is my view inconsistent with the statutory test, and the
+authorities to which I have referred.</a></p><a name="para50">
+
+<p class="ParaHeading">Lands Tribunal cases</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Of more direct relevance, as the tribunal rightly held, were two
+decisions of highly experienced surveyor members of the Lands Tribunal, which
+were not mentioned by the Court of Appeal. They were <i>Lambeth London Borough
+v English Property Corpn Ltd and Shepherd (Valuation Officer)</i> [1980] RA 279
+LT (Mr J H Emlyn Jones FRICS) (see UT paras 55-57); and <i>Shiel (Valuation
+Officer) v Borg-Warner Ltd</i> [1985] RA 36 LT (C R Mallett FRICS) (UT paras
+58-60). They addressed directly the distinction depending on whether the lack
+of a tenant was attributable to an inherent characteristic of the property, or
+to a surplus in the market of comparable properties for which there was a
+general demand.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Lambeth </i>case concerned the annual value for rating of a
+warehouse (Bridge House) which had been purpose-built in 1933 with seven
+storeys but was unoccupied at the relevant date. The ratepayers argued that at
+the relevant date the warehouse had outlived its use and was unsuitable for
+warehousing purposes; that a tenant could have been found at the relevant date
+who would make use of the ground floor and some limited use of the first floor,
+but that the upper parts would have been surplus to requirements. The rating
+authority argued that the building could be let in the open market as a
+multi-storey warehouse. The tribunal accepted that the evidence supported the
+tenant’s assessment of the potential use of the building, and that there was no
+demand for multi-storey use or other valuable uses of the upper floors.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The tribunal made clear that this conclusion did not depend on the fact
+that the upper parts of the building were unoccupied at the time:</a></p><a name="para53">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I accept the argument put forward
+by the appellant rating authority that the mere fact that premises are
+unoccupied does not of itself justify a lesser value than that applicable to
+similar premises which are occupied. As counsel for the rating authority
+expressed it, in a parade of shops where one shop remains unoccupied one would
+expect to find similar values applicable to all shops possessing similar
+characteristics. I think in principle that must be right, but that presupposes
+that the hereditaments are broadly identical …” (p 313)</p>
+
+<p class="ParaNoNumber">The member went on to explain why the other properties
+relied on by the authority were not truly comparable.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This passage was applied by the Lands Tribunal in the second case, <i>Shiel</i>.
+The case concerned a large factory which was no longer required by the original
+occupiers and which was empty because an alternative occupier had yet to be found.
+The valuation court had reduced the assessment of rateable value to £50,000,
+but the Valuation Officer had appealed to the Lands Tribunal arguing for a
+figure of £200,000. The appeal failed. Citing the <i>Lambeth </i>case, the
+member accepted that “the mere fact that premises are unoccupied does not of
+itself justify a lesser value than that applicable to similar premises which
+are occupied”, and referred again to the example of a parade of shops where one
+shop remains unoccupied (p 43). However, he accepted the ratepayer’s case on
+the evidence that the appeal premises in their existing state had “reached the
+end of their economic life”, and that their future use “appears to depend upon
+the creation of a hereditament, or hereditaments, different from the existing”.
+As he put it, “in rating terms the premises have ceased to have any value” (p
+45).</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would respectfully endorse the distinction drawn in those decisions
+between a property which is unoccupied merely because of a surplus between
+supply and demand in the market, and a property which has “reached the end of
+its economic life”. I did not understand Mr Glover to argue otherwise.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I may add that this is not an unfamiliar issue in rating practice, nor
+necessarily an easy one to resolve. Ms McCarthy referred to us to the Valuation
+Office Agency’s document, “Rating Manual section 3: valuation principles”,
+issued in May 2017. Section 5, headed “No demand - obsolescence” states that:</a></p><a name="para56">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“5.1&nbsp;&nbsp;&nbsp;&nbsp; Existing buildings and
+hereditaments can become obsolete: technology moves on, demand changes,
+replacement buildings are constructed. Rating is a tax on rental value. Just
+because a hereditament exists does not mean it has a rental value - demand may
+have gone.”</p>
+
+<p class="ParaNoNumber">Having noted that this issue is to be considered by
+reference to the AVD subject to the statutory exceptions taken at “the material
+date”, it draws attention (para 5.4) to the possible difficulty for valuation
+officers “in judging whether a property is actually obsolete or simply has not
+(yet) let”. It lists a number of relevant considerations, including:</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:36.0pt;margin-bottom:
+26.0pt;margin-left:90.0pt;text-align:justify;text-indent:-18.0pt"><span style="font-size:13.0pt">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">was the property occupied at AVD?
+This is primary evidence of demand</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:36.0pt;margin-bottom:
+26.0pt;margin-left:90.0pt;text-align:justify;text-indent:-18.0pt"><span style="font-size:13.0pt">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size:13.0pt">are there other similar properties
+in the locality that are occupied? Does this mean that the subject property has
+simply been ‘unlucky’, rather than there being no demand for the type and
+locality of the accommodation? A terrace of five shops or offices can be
+envisaged with four occupied. It may be there is only demand for four. This
+does not mean that the demand for the fifth, vacant one should be regarded as
+nil. It is the general demand for the mode and category of occupation in the
+locality that needs to be considered - not the specific.”</span></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The accuracy in law of that guidance is not of course before us in this
+case. In so far as it clearly relies on the approach of the Lands Tribunal in
+the two cases I have mentioned, it does not appear contentious. It does however
+usefully highlight the issues of fact which may become relevant in drawing the
+distinction in particular cases, but which, by agreement, the tribunal in the
+present case was not required to resolve.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This important distinction seems with respect to have been overlooked by
+Henderson LJ when he said:</a></p><a name="para58">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In a saturated market, there is
+still a proper basis for a substantial rateable value while the existing tenant
+remains in occupation and pays a substantial rent for the hereditament; but
+that situation changes once the property becomes vacant, because there is no
+longer a potential tenant available to take it on the statutory terms required
+by the rating hypothesis.” (para 43)</p>
+
+<p class="ParaNoNumber">Whether the hereditament is occupied or unoccupied, or an
+actual tenant has been identified, at the relevant date is not critical. Even
+in a “saturated” market the rating hypothesis assumes a willing tenant, and by
+implication one who is sufficiently interested to enter into negotiations to
+agree a rent on the statutory basis. As to the level of that rent, there is no
+reason why, in the absence of other material evidence, it should not be
+assessed by reference to “general demand” derived from “occupation of other
+office properties with similar characteristics”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, for completeness I should mention Henderson LJ’s reliance for
+support of his approach on the requirement in paragraph 2(7)(e) of Schedule 6
+to assume that “all the comparable properties were occupied and used on the
+material date by their existing tenants”. As I understand it, he saw this as
+relevant to the extent that:</a></p><a name="para59">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“the other public sector tenants
+were already accommodated elsewhere, and they would not have been available as
+potential tenants for Mexford House on the actual market which existed at the
+relevant time.” (para 49)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms McCarthy criticises this use of paragraph 2(7)(e) as broadening its
+scope in a way which is incompatible with its purpose in the statutory scheme.
+As she submits, it is not dealing with the issue of demand in the hypothetical
+market, but is an aspect of the <i>rebus sic stantibus </i>principle, which
+requires physical condition and use to be taken as at the material day, both in
+respect of the hereditament itself and the locality: “the actual conditions
+affecting the hereditament at the time when the valuation is made” (see the
+cases reviewed by Lord Hodge in <i>S J &amp; J Monk (a firm) v Newbigin </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/14.html">[2017] 1 WLR 851</a>, paras 12ff). I did not understand Mr Glover seriously to quarrel
+with that submission. However, as he rightly said, this point was not essential
+to the Court of Appeal’s reasoning.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61">61.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons I would allow the appeal and restore the decision of
+the Upper Tribunal.</a></p><a name="para61">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LORD BRIGGS:
+(dissenting) (with whom Lady Black agrees)</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="_Hlk5093575">62.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would have dismissed the appeal. This is not because I differ from
+Lord Carnwath upon any aspect of the applicable legal principles. It is only
+because I have come to a different conclusion about the meaning and
+consequences of the highly artificial agreement about the facts made between
+the parties before the Upper Tribunal (“UT”), as set out in the JPP. This was
+that, although there was sufficient general demand for comparable properties in
+the locality to justify a substantial rateable value for them (para 5), there
+was nonetheless nobody in the real world who would be prepared to pay or bid a
+positive price for Mexford House as at the AVD (paras 3 and 4). The UT was in
+no doubt about the artificiality of that agreement about the facts. As they
+said (at paras 34(b) and 103-104), in the real world the existence of
+comparable properties at substantial rents would ordinarily have compelled an
+examination of the question whether one or more of the tenants in those
+properties would have been prepared to re-locate to the subject property at a
+lower, but still more than nominal, rent.</a></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63">63.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The JPP also required the UT to make a rather unreal choice between two
+supposedly conflicting principles of law, namely (i) that the valuer is only
+required to consider whether, had the subject hereditament been on the market
+at the AVD, anybody would have been prepared to pay a positive price, with a
+nil rateable value if not, or (ii) that, <u>even if nobody would be prepared to
+pay a positive price</u>, the rateable value is nonetheless to be assessed by
+reference to the ‘general demand’ as evidenced by the occupation of other
+properties with similar characteristics (para 5(b)). It was, mercifully, common
+ground that, as a matter of law, the rating hypothesis required the existence
+of a hypothetical tenant to be assumed (paras 5(a) and 6). It is an unreal
+choice because, in the real world, the existence of evidence of general demand
+for comparable properties in the relevant locality will almost invariably lead
+to the conclusion that there will be someone prepared to pay at least some more
+than nominal rent for the subject property, even if actually (rather than
+merely hypothetically) vacant as at the AVD.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would summarise the legal principles applicable to the present unusual
+problem as follows. I do so briefly because I do not believe that they are in
+dispute, although I will expand upon them in due course:</a></p><a name="para64">
+
+<p class="ParaLevel2" style="text-indent:0cm">a.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In following the express statutory requirement to identify the “rent at
+which it is estimated the hereditament might reasonably be expected to let from
+year to year” as at the AVD, the valuer is required to make a real world
+assessment of the demand in the market for a letting of the subject premises,
+departing from the real world only when the rating hypothesis compels the
+valuer to do so: <i>Hoare v National Trust; Tomlinson v Plymouth Argyle</i>.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">b.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rating hypothesis does require a hypothetical tenant to be assumed,
+willing to negotiate for a yearly tenancy, but this does not require it to be
+assumed that the tenant will pay more than a nominal rent. The concept of the
+hypothetical tenant prepared to pay only a nominal rent is the safety valve by
+which the necessary hypothesis that there is such a tenant is reconciled with a
+real world in which there may be, in fact, no demand for a letting of the
+property at all: <i>Hoare v National Trust</i>.</p>
+
+<p class="ParaLevel2" style="text-indent:0cm">c.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The requirement to abide by the principle of equality does entail the
+same principles being applied to each property in the rating list, but not
+uniformity of outcome, where the evidence (or, I would interpolate, agreement
+about the facts) demonstrates otherwise: the <i>Poplar </i>and <i>Ladies
+Hosiery </i>cases.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The ordinary approach of the valuer is to look at reliable evidence of
+rentals agreed for comparable properties (if there are any), and then to adjust
+them (or discount their evidential weight) by reference to relevant differences
+between the comparable and the subject properties. Those differences may
+typically be locational, or physical, and the passage of time between the date
+when a rental was agreed for a comparable and the AVD may require further
+adjustment or discount, where for example there has been a general movement in
+the market between the two dates.</a></p><a name="para65">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thus the fact that a particular rent is still being paid for the
+comparable property as at the AVD may be of limited value if, for example, it
+was negotiated some time previously but&nbsp; is being paid (as it usually is) under
+a lease for a term of years, from which it would be impossible for the tenant
+to escape without payment of a prohibitive surrender premium. In valuers’
+language, the comparable is simply over-rented. It does not necessarily mean
+that there is demand even for the comparable property as at the AVD at the then
+passing rent, or at any particular rent, or even in some extreme cases at more
+than a nominal rent. If there has been a fall in the market since the rent for
+the comparable property was freely agreed, (ie otherwise than at an upward-only
+rent review in a lease without a tenant’s break clause) then the fact that the
+agreed rent is still being paid tells you little about the continuing market
+for the comparable property as at the AVD.</a></p><a name="para66">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>All these factors are then input into the assessment of the demand (if
+any) for a yearly letting of the subject property as at the AVD. They are not
+in any way part of some separate analysis of general demand which may in some
+way trump an evidence-based or agreed conclusion that there is in fact no real
+world demand at all for the subject property at more than a nominal rent. In
+the overwhelming majority of cases a conclusion that there is demand for
+comparable properties which may be described as general will be sufficient
+evidence to prove to a reasonable valuer that there is some demand for the
+subject property at a more than nominal rent, if only because there will
+usually be a level of discounted rent which will be likely to tempt the tenant
+of an occupied comparable property to re-locate, if free to do so without
+paying a prohibitive surrender premium. That is why the mere fact that the
+subject property is vacant at the AVD (eg in a row of identical properties all
+the rest of which are occupied) does not mean that the vacant property has only
+a nominal rental value. Demand for a letting of a particular property is not
+normally a binary, yes or no, question. The real question is, demand at what
+rent?</a></p><a name="para67">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para67"></a><a name="para68">68.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case the parties solemnly agreed that, even though there
+was general demand for comparable properties at a substantial rent, nonetheless
+(however improbably) there was no real world demand at all for a letting of the
+subject property as at the AVD, at anything more than a nominal rent. That is
+in my view what the phrase “nobody in the real world who would be prepared to
+pay or bid a positive price” actually means. This is also how the UT understood
+the JPP, as is apparent from the way in which, at the respondent’s invitation,
+the UT defined the appealable issue of law. They said:</a></p><a name="para68">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Where the evidence shows that
+there is <i>no demand</i> to occupy a hereditament which is capable of
+occupation, does the rating hypothesis require the valuer to assume <i>demand
+that does not in reality exist</i> (my italics).”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para68"></a><a name="para69">69.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant tried long and hard in this court to submit that this was
+not what the JPP meant. It was submitted that all it meant was that the parties
+were unable to identify an actual tenant who would be prepared to take a
+tenancy on the AVD itself. But the UT was best placed to construe it, since it
+was agreed in the middle of a contested hearing in which they had read all the
+relevant evidence, and heard part of it cross-examined. A reading of that
+evidence confirms the UT’s interpretation, although a transcript of the cross
+examination of Mr Hewitt was sadly lacking. As both the UT and Lord Carnwath
+explain, it followed a cross examination of Mr Hewitt in which he had, flatly
+contrary to his written evidence, agreed with paragraph 11.1 of Mr Baldwin’s
+expert report, which stated:</a></p><a name="para69">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The findings described in
+previous sections of this statement lead to the unequivocal conclusion that as ‘vacant
+and to let’ at the AVD, there would be <i>no demand</i> for Mexford House (my
+italics).”</p>
+
+<p class="ParaNoNumber">This paragraph followed a detailed examination of the
+market, the relevant comparables (including Hesketh House) and the reasons why,
+notwithstanding its locational and physical similarity, a tenant would not be
+found in the real world for Mexford House at more than a nominal rent. A
+primary reason for Mr Baldwin’s conclusion appears to have been that there had
+been a significant recent contraction in the requirement for office space in
+the locality on the part of the only (governmental) tenants likely to find it
+suitable for their needs, and that this requirement was fully accommodated in
+other premises. He regarded Mexford House as being economically obsolete.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para69"></a><a name="para70">70.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The agreement recorded in the JPP was not merely that there was no
+evidence to prove real world demand for a letting of Mexford House, but that
+the evidence positively showed that there was none. This flowed naturally from
+the fact that paragraph 11.1 of Mr Baldwin’s report (with which Mr Hewitt had
+agreed in cross examination) was itself based on detailed evidence. I do not
+mean that the JPP thereby amounted to an agreement about the reasons why there
+was no demand, but it was an agreement made in the context of evidence, rather
+than in an evidential vacuum. I therefore respectfully disagree with Lord
+Carnwath’s premise (in para 8) that this is a type of case where there is
+merely no positive evidence of demand for the particular property. In such a
+case, evidence about demand for comparable properties (usually in the form of
+recently negotiated agreements) will be compelling, and usually conclusive.</a></p><a name="para70">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para70"></a><a name="para71">71.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The UT’s answer to the problem that it had been agreed that the evidence
+proved that there was no real world demand for a letting of Mexford House at
+more than a nominal rent was to conclude that the rating hypothesis required
+them to conclude otherwise, by a departure from the real world and the
+substitution of an assumed demand for the subject property, derived purely from
+an assessment of demand for the comparable properties. This appears from paras
+100 to 106 of their carefully reasoned Decision. In their view the statutory
+requirement to assume a hypothetical tenant meant that, provided only that the
+premises were capable of beneficial occupation, taking into account the burdens
+of upkeep, it had to be assumed that the tenant would be prepared to pay more
+than a nominal rent, regardless of real world evidence or, as in this case,
+agreement to the contrary.</a></p><a name="para71">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para71"></a><a name="para72">72.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I can find nothing in the authorities which supports this legal
+analysis. In short, it assumes a requirement to depart from the real world
+which is not justified by the statutory scheme. All that the scheme requires is
+an assumption that somebody would agree to take a yearly tenancy, but not necessarily
+at more than a nominal rent. In a case where the valuer is not hamstrung by an
+improbable agreement between the parties about the complete absence of demand
+(at more than a nominal rent) the real world will easily provide an evidential
+basis for a conclusion that the hypothetical tenant would pay something of
+substance, for all the reasons which I have set out above.</a></p><a name="para72">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para72"></a><a name="para73">73.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both the UT and Lord Carnwath rely upon a number of authorities in which
+a distinction is made between properties which lack intrinsic value, where a
+nil valuation may be justified, and those which have some intrinsic value to
+somebody, which therefore command some more than nominal hypothetical rent. I
+broadly agree with Lord Carnwath’s analysis of them, including where it departs
+from that of the Court of Appeal. But in none of those cases was there a
+departure from a real world assessment of rental value, nor does the reasoning
+in any of them justify doing so in the present case.</a></p><a name="para73">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para73"></a><a name="para74">74.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the <i>Erith</i> case, the outcome turned on a real world conclusion
+that, if it needed to rent the pumping station from a private owner, a
+hypothetical LCC would be prepared to pay a substantial rent because it would
+be able to connect the pumping station with its sewage system, even though,
+viewed on its own, the pumping station could not be operated at a profit. The
+phrase “struck with sterility” was not being approved as a label for an
+exclusive class of case within which, alone, a nil rental value could be
+assessed. Rather, this important case is supportive of the requirement to
+assess demand, as far as possible, on a real world basis, rather than to depart
+from it. Lord Herschell’s conclusion that the use of the subject premises would
+be of value (even if not on its own profitable) was a stepping stone to a conclusion
+that, in the real world, there was demand for the pumping station at a more
+than a nominal rent. It was not a licence to depart from the real world
+assessment of demand required by the statute, in a case where it is proved or
+(as here) agreed that there was no demand at more than a nominal rent.</a></p><a name="para74">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74"></a><a name="para75">75.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree with Lord Carnwath that <i>Hoare v National Trust </i>was not a
+case in which there were comparable properties let at a substantial rent. In
+the absence of comparables the Court of Appeal therefore had to conduct a real
+world assessment of the economics of being a tenant of each of the stately
+homes in question, which proved that the hypothetical tenant would only pay a
+nominal rent. It contains a trenchant statement of the need not to depart from
+the real world further than the rating hypothesis compels (per Schiemann LJ at
+p 381). The Court of Appeal overruled the Lands Tribunal precisely because it
+departed from the real world, under the mis-apprehension that the law required
+it to assume some kind of overbid, contrary to the facts. The case is a good
+example of the operation of the nominal rent as the safety valve which
+accommodates the statutory requirement to assume a willing tenant with the
+absence of any real world demand for the premises at more than a nominal rent.
+It is powerful authority against, rather than for, the proposition that where
+the evidence (or, as here, an agreement about the evidence) demonstrates that
+there is no such demand, the law requires the valuer to depart from the real
+world so as to create one which does not in reality exist.</a></p><a name="para75">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para75"></a><a name="para76">76.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is in my view no answer to say of the <i>Hoare</i> case that there
+were no comparables, or that the absence of demand was proved by reference to
+the economics of running the two buildings. That is true, and those economics
+were the real world reasons why there was nobody who would bid more than a
+nominal rent for either property. In this case that conclusion is an agreed
+fact, and the reasons for it do not therefore matter.</a></p><a name="para76">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para76"></a><a name="para77">77.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would make the same observation about <i>Tomlinson v Plymouth Argyle
+Football Co Ltd</i>. Pearce LJ’s warning against assuming hypothetical tenants
+where there is no real possibility of such tenants existing may have been based
+upon real world facts about the football ground, but it is a perfectly general
+and in my view correct statement of the law. In this case the absence of any
+such possibility (ie tenants prepared to pay more than a nominal rent) is an
+agreed fact, and the law does not compel the valuer to go behind it, into the
+non-real world, merely because there is some general demand for other
+comparable properties.</a></p><a name="para77">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para77"></a><a name="para78">78.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Again, I agree with Lord Carnwath that <i>Inland Revenue Comrs v Gray</i>
+is about a different kind of statutory valuation, but rating valuation is
+surely no less about an open market than the valuation of an estate for tax
+purposes. In my view the concession recorded by Henderson LJ in the Court of
+Appeal that the two valuation processes are substantially the same was rightly
+made. At p 372, speaking generally, Hoffmann LJ said:</a></p><a name="para78">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The valuation is thus a
+retrospective exercise in probabilities, <i>wholly derived from the real world </i>…”(my
+italics).</p>
+
+<p class="ParaNoNumber">Nor do I accept as a sufficient distinguishing
+characteristic the fact that rating valuation seeks to value numerous
+properties as at the same date, whereas estate valuation is a one-off. It would
+be no less unusual (and potentially unsatisfactory) for identical houses in a
+terrace to receive hugely different values for IHT purposes when their owners
+died at roughly the same time, than apparently comparable properties in a
+rating list. But the statutory criterion in both cases is uniformity of the
+principles applied, not uniformity of outcome. Where as here the parties
+actually agree that, in fact, there is such a disparity in demand, the law does
+not require recourse to some non real world principle to trump or remove it.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78"></a><a name="para79">79.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning to the Lands Tribunal cases, both <i>Lambeth London Borough v
+English Property Corpn Ltd and Shepherd (Valuation Officer)</i> and <i>Shiel
+(Valuation Officer) v Borg-Warner Ltd</i> exemplify the plainly correct
+proposition that the mere fact that the subject property is unoccupied as at
+the AVD does not of itself mean that there is no real world demand for it. Both
+make use of the familiar example of the parade of shops, with one empty and the
+others in use. The conclusion that there is nonetheless some demand for the
+empty shop is a reasonable conclusion of fact which would be reached by most
+valuers, even in a saturated market where there are, say, five comparable
+properties, demand for only four, and the subject property is the only one
+which is vacant. But nothing in those cases suggests that where the facts show
+or (as here) it is agreed, for whatever reason, that there is in truth no
+demand at all for the empty shop, the law requires some notional general demand
+for comparable properties to be substituted. The agreement in the JPP was not
+merely that no hypothetical tenant could actually be identified as at the AVD,
+but that there was no demand at all for Mexford House.</a></p><a name="para79">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para79"></a><a name="para80">80.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nor does the passage in the Rating Manual, relied upon by Ms McCarthy
+and quoted by Lord Carnwath at para 56, take the matter any further. Read as a
+whole, all it advises is that general demand will usually be probative of
+specific demand for the subject property, and that the valuer should not become
+too focussed upon the subject property being vacant. It does not say that where
+the evidence (including that of general demand) shows, or it is agreed, that
+there is nonetheless no demand at all for the subject property, the general
+demand must be substituted for that evidence or agreement. I am however
+cautious about the reliability of the advice that occupation of the subject
+property as at the AVD is “primary” evidence of demand. It may well be prima
+facie evidence, but the continuing occupation may be attributable to a reason
+other than demand, such as the existence of a lease for a term of years from
+which the tenant has no economical means of escape.</a></p><a name="para80">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para80"></a><a name="para81">81.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am, like Lord Carnwath, puzzled by the view of the Court of Appeal
+about the effect of a property becoming vacant in a saturated market. As noted
+above, the fact that there is a tenant in a property paying a substantial rent
+may not be reliable evidence for open market demand for it, and certainly not
+at the then current rent, if the market has become saturated only after that
+rent was agreed, and the tenant has no economic means of escape from the
+tenancy. But I can envisage a situation where demand for a group of comparable
+properties has collapsed, and where the departure of one of a very small number
+of potential tenants from one of them, due to its reduced requirement for space
+of that type in the locality, renders the subject property economically
+obsolete. Even then that would only exceptionally mean that there was no demand
+for it at anything above a nominal rent, but that is what was agreed as a fact
+in the present case.</a></p><a name="para81">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para81"></a><a name="para82">82.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The following familiar example illustrates the point. A shopping centre
+may have a row of shops whose economic viability is entirely dependant upon the
+presence of a nearby anchor tenant, such as a major supermarket or department
+store. The anchor tenant leaves, and there is no prospect of another anchor
+tenant being found. The row of shops will immediately become economically
+obsolete (ie no longer viable to a hypothetical incoming tenant at more than a
+nominal rent), but they will not all immediately fall vacant. For as long as
+leasehold terms continue, their tenants may be locked in, and only able to
+leave at the end of their terms. The row of shops will be subject to a
+lingering economic death. In such a case the evidence that rent is still being
+paid for some of them will not justify the inference that there is demand for
+those which have fallen vacant.</a></p><a name="para82">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para82"></a><a name="para83">83.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In conclusion the question of law for which the UT gave permission to
+appeal in this case is: “Where the evidence shows that there is no demand to
+occupy a hereditament which is capable of occupation, does the rating
+hypothesis require the valuer to assume demand that does not in reality exist”.
+I would answer it in the negative. It will be a very rare case indeed where the
+evidence really does show that there is no demand at all for the subject
+property where there are comparables in the locality let at substantial rents.
+But if that is what the evidence shows, or that is what the parties have
+agreed, then the rating hypothesis does not require a departure from that real
+world conclusion, merely because the subject property is in theory capable of
+beneficial occupation.</a></p><a name="para83">
+
+</a></div><a name="para83">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/23.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

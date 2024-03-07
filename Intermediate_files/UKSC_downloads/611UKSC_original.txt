@@ -1,0 +1,1387 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>James-Bowen &amp; Ors v Commissioner of Police of the Metropolis  [2018] UKSC 40 (25 July 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      James-Bowen &amp; Ors v Commissioner of Police of the Metropolis  [2018] UKSC 40 (25 July 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/40.html</i>
+<br>Cite as: 
+[2018] IRLR 954,
+
+[2018] WLR 4021,
+
+[2018] ICR 1353,
+
+[2018] 1 WLR 3945,
+
+[2018] 4 All ER 1007,
+
+[2018] WLR (D) 453,
+
+[2018] WLR 3945,
+
+[2018] 1 WLR 4021,
+
+[2018] WLR(D) 529,
+
+[2018] UKSC 40
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/40.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011212224/casereport_2c28c5f3-cf92-4680-9ff7-17fbe0f34cad/html">[2018] ICR 1353</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2011212224/casereport_74801c7f-078a-4672-805c-20fb60d2568e/html">[2018] WLR(D) 529</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2017000179/casereport_20629261-510c-4fb5-a03c-793970cb543d/html">[2018] 1 WLR 3945</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011212224/casereport_dda32dcc-b4eb-4304-a9f1-26b6069753d5/html">[2018] 1 WLR 4021</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2017000179/casereport_33cdabcb-16a3-4960-ac33-2be27e4e125f/html">[2018] WLR (D) 453</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<center><a href="/uk/cases/UKSC/2018/40.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>&nbsp;</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>Trinity Term</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 40</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/1217.html">[2016] EWCA Civ 1217</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">James-Bowen
+  and others (Respondents) <i>v</i> Commissioner of Police of the Metropolis (Appellant)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">25 July 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 6 and 7 March 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+<center>
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondents</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew Warnock QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Nicholas Bowen QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Lisa Dobie</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">David Lemer</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Weightmans
+  LLP (Liverpool))</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Penningtons
+  Manches LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LORD LLOYD-JONES: (<span style="text-transform:none">with
+whom Lady Hale, Lord Mance, Lord Kerr and Lord Wilson agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal raises the question whether the Commissioner of Police of
+the Metropolis (“the Commissioner”) owes a duty to her officers, in the conduct
+of proceedings against her based on their alleged misconduct, to take
+reasonable care to protect them from economic and reputational harm.</a></p><a name="para1">
+
+<p class="MsoNormal" style="margin-bottom:26.0pt;page-break-after:avoid"><i><span style="font-size:13.0pt">Background facts</span></i></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The pleaded facts may be summarised as follows. On 2 December 2003 the
+respondents, four police officers serving in the Metropolitan Police Service,
+(“the officers”) took part in the arrest of a suspected terrorist, BA. BA
+subsequently made allegations that the officers had seriously assaulted and
+injured him during the arrest. The complaints were investigated by the
+Metropolitan Police Service’s Directorate of Professional Standards and the
+Crown Prosecution Service who concluded that there was no case to answer.
+However, the Independent Police Complaints Commission decided in October 2004
+that one charge relating to the use of excessive force should be brought
+against the first respondent. That charge was dismissed by the disciplinary
+panel in April 2005. Between 14 January 2005 and 2 February 2005 the
+Independent Police Complaints Commission released the officers’ identities into
+the public domain. This led to threats of serious violence to the officers and
+their families on a website which supported BA.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 18 October 2007 BA issued civil proceedings against the Commissioner
+in which he alleged that the Commissioner was vicariously liable under section
+88 of the Police Act 1996 for the serious assaults which he alleged the
+officers had inflicted on him. His claim included claims for aggravated and
+exemplary damages. The officers were not defendants in the action nor were
+contribution proceedings brought against them by the Commissioner. The defence
+of the claim on behalf of the Commissioner was undertaken by the Metropolitan
+Police Directorate of Legal Services (“DLS”). A defence denying liability was
+entered. On 10 January 2008 an offer of settlement was rejected by BA.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 18 March 2008 the officers attended a conference with Mr Jeremy
+Johnson of counsel, instructed by the DLS on behalf of the Commissioner. The
+officers subsequently alleged that counsel and the DLS solicitor assured them
+on that occasion that they were also acting for them and in their interests and
+told them that BA’s claims would be vigorously defended. On 13 February 2009 an
+application by the Commissioner that the officers be permitted to give evidence
+from behind screens was dismissed at the pre-trial review. On 10 March 2009 BA
+rejected a further offer of settlement because he wanted an apology or a
+finding in open court. The officers attended a second conference with Mr
+Johnson and the DLS on 11 March 2009. On this occasion the officers were
+accompanied by a solicitor from Russell Jones and Walker who attended only in
+relation to matters arising from a special measures application which had been
+made in respect of the evidence to be given by the respondents. At that
+conference the officers said that they would be reluctant to give evidence
+without special measures being in place. They allege that Mr Johnson informed
+them that he was no longer representing their interests but only the interests
+of the Commissioner. The officers allege that Mr Johnson indicated that the
+claim would be lost due to BA’s medical evidence and they complained to him
+that they were unable to raise points on various aspects of the defence
+including medical evidence, expert evidence, CCTV footage and notes of arrest.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The trial of BA’s claim commenced on 16 March 2009. The officers
+declined to give evidence voluntarily without special measures being in place.
+On the third day of the trial, 18 March 2009, the Commissioner settled the
+claim on the basis of agreed damages of £60,000 and agreed costs of £240,000
+with an admission of liability and an apology for “gratuitous violence” to
+which BA had been subjected by the officers. Paragraph 82 of the Particulars of
+Claim in the present proceedings alleges that the Commissioner’s office issued
+a press release stating:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The Commissioner has demanded an
+immediate investigation into the circumstances surrounding the officers’
+refusal to give evidence relating to this arrest in 2003. Whilst the arrest and
+subsequent events are historic this is a serious matter which has been referred
+to the IPCC.”</p>
+
+<p class="ParaNoNumber">In the present proceedings the officers maintain that
+this was tantamount to endorsing their culpability.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 12 August 2010 the officers were each charged with one count of an
+assault occasioning actual bodily harm arising out of the arrest of BA. In June
+2011, following a trial lasting five weeks, the officers were all acquitted.</a></p><a name="para6">
+
+<p class="MsoNormal" style="margin-bottom:26.0pt;page-break-after:avoid"><i><span style="font-size:13.0pt">The current proceedings</span></i></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 23 September 2013 the officers commenced the present proceedings
+against the Commissioner alleging breach of contract, negligence and
+misfeasance in public office arising from the manner in which the Commissioner
+had defended BA’s claim. They sought compensation for reputational, economic
+and psychiatric damage. In the particulars of claim the officers put forward
+three bases on which it was alleged that the Commissioner owed them a duty of
+care.</a></p><a name="para7">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A retainer had arisen between them and the Commissioner’s legal team
+because of the assurances given to them by counsel and the DLS solicitor.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Commissioner had assumed a duty of care to the officers by reason of
+those same assurances.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Commissioner owed the officers a duty of care in tort and
+concurrently in contract as employer or quasi-employer to take reasonable care
+to safeguard their safety, health, welfare (including economic and professional
+welfare) and reputational interests, in the preparation and conduct of the
+defence to BA’s claim and when considering and effecting any settlement of it.</p>
+
+<p class="ParaNoNumber">This third head of claim was said to include the
+following specific obligations to take reasonable care.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To keep the officers informed of the progress of the case.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To keep them and their families safe from threats by BA’s supporters
+against their homes and physical safety.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(c)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To explain and provide reasons in the event that the Commissioner
+believed that BA’s civil claim could no longer be defended or that a conflict
+had arisen between the officers and the Commissioner.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(d)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To consult the officers in sufficient time prior to the trial for them
+to obtain alternative and independent legal advice in the event that the
+Commissioner had decided to admit liability and make a public apology.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(e)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To warn the officers in sufficient time (to enable them to take
+independent legal advice or any other necessary steps to protect their own
+interests) prior to the opening of the trial that the application for special
+measures had failed, that the Commissioner’s lawyers were no longer acting for
+the officers or protecting their interests and that the Commissioner was
+considering admitting liability and making a public apology.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The particulars of claim then provided detailed particulars of the
+alleged breaches of the duties. The officers do not allege that entering into
+an agreement on the terms of the settlement between the Commissioner and BA was
+in itself negligent. Their complaint is about the antecedent conduct of the
+defence by the Commissioner. In particular it is alleged that the Commissioner
+failed to conduct and prepare a competent defence to BA’s claim. (See Jay J at
+para 23) Here complaint is made of the failure to proof or call as witnesses a
+list of named persons or to ascertain the availability of covert recordings.
+Complaint is made that evidence was lost, not located or not disclosed as a
+result of a systems failure. Complaint is also made of failure to take account
+of a list of miscellaneous evidential concerns raised by the respondents which,
+it is said, were either ignored or not adequately addressed. More generally, it
+is said that the Commissioner failed to keep the officers informed of the
+progress of the litigation and the preparation of the defence and failed to
+advise the officers within a reasonable time of the alleged conflict of
+interests. Complaint is made of the failure to obtain expert medical evidence
+to challenge the expert evidence called on behalf of BA and of a failure to
+apply for an adjournment of the trial.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By notice dated 28 April 2014 the Commissioner applied to strike out the
+claims pursuant to CPR Part 3.4(2) on the grounds that they disclosed no
+reasonable grounds for the making of a claim, alternatively for summary
+judgment pursuant to CPR Part 24 on the grounds that the claims had no real
+prospect of success.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 1 May 2015 Jay J struck out the claims and entered summary judgment
+for the Commissioner. He considered that, in the absence of an express contract
+of retainer with the DLS, no retainer existed. Furthermore, the officers had no
+direct interest in the prior litigation and the possibility of consequential
+impact on their reputations was insufficient to create such an interest to
+which the Commissioner would be legally required to have regard or to promote
+or safeguard. The focus of the claim founded on the more general duty of care
+to protect the health, economic or reputational interests of the officers
+shifted during the hearing before Jay J. The judge seems to have been under the
+impression that the duty relied on by the officers was a duty to avoid
+psychiatric injury and that the claims for reputational damage and economic
+loss were entirely consequential on that head of damage. The judge considered that
+the officers had no real prospect of proving at trial that it was reasonably
+foreseeable that any breaches of duty by the Commissioner might cause
+psychiatric injury. However, the judge also observed that this basis of claim
+faced an insuperable difficulty under <i>Caparo Industries plc v Dickman</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1990/2.html">[1990] 2 AC 605</a> in that, given that the officers were not parties to BA’s civil
+proceedings, the Commissioner’s lawyers owed duties solely to the Commissioner
+and the Commissioner was free to protect his own interests as he saw fit. He
+stated:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The principled objection to this
+claim is that the postulated duty of care cuts right across the rights and
+obligations of the defendant itself, and those advising the defendant, in
+circumstances where no implied retainer existed. It would not be fair, just and
+reasonable to impose a concurrent conflicting duty of care in these
+circumstances: …” (at para 36)</p>
+
+<p class="ParaNoNumber">The claim for misfeasance was struck out as inadequately
+pleaded.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The officers appealed to the Court of Appeal, save in respect of the
+claim in misfeasance. The Court of Appeal (Moore-Bick, Longmore and Patten LJJ)
+dismissed the appeal in relation to the existence of a retainer and in relation
+to the assumption of responsibility. In addition, it dismissed the appeal in relation
+to psychiatric injury on the ground that such injury was not reasonably
+foreseeable. However, it allowed the appeal on the remaining issue, holding
+that it was arguable that the Commissioner owed a duty of care to the officers
+to safeguard their economic and reputational interests and that this extended
+to the conduct of litigation by the Commissioner. Moore-Bick LJ, with whom the
+other members of the court agreed, accepted that the Commissioner’s primary
+duty was to protect the interests of the Metropolitan Police Service, but he
+did not consider that a duty of the kind alleged by the officers necessarily
+cut across this. In his view it was in the interest of the Commissioner and the
+officers for the defence to be conducted as effectively as possible and a duty
+of care in that regard would not inevitably give rise to any conflict of
+interest. Accordingly, he considered it arguable that the Commissioner owed to
+the officers (1) a duty to defend the litigation as effectively as possible and
+(2) a duty, when deciding whether to compromise the claim and if so on what
+terms, to take reasonable care not to sacrifice their interests and
+professional reputation without good reason and without giving them reasonable
+warning of what he intended to do.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So far as breach of duty giving rise to actionable losses was concerned,
+Moore-Bick LJ noted that there was no allegation that the Commissioner’s
+decision to compromise the claim was negligent in all the circumstances.
+However, the Commissioner’s forensic difficulties were alleged to have been a
+consequence of failures on the part of the MPS to identify or make available
+certain important pieces of evidence. In his view the essential elements of the
+claim for breach of a duty of care in relation to the conduct of the proceedings
+were present. The Court of Appeal came to a different conclusion, however, in
+respect of the allegation that the Commissioner was in breach of duty by
+failing to warn the officers in good time that he intended to pursue the
+interest of the MPS, if necessary at their expense. Moore-Bick LJ agreed with
+the judge in dismissing as fanciful the suggestion that, had they been warned,
+the officers would have applied to be joined as defendants and would have
+instructed solicitors to conduct their defence independently.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Commissioner now appeals to the Supreme Court. The sole remaining
+allegation in the proceedings is that the Commissioner owed a duty of care to
+the officers to conduct the defence of the proceedings brought against her “as
+effectively as possible” in order to protect the officers from economic or
+reputational harm. There is no cross appeal by the officers in relation to the
+alleged retainer, the alleged assumption of responsibility or the head of claim
+alleging psychiatric injury. Nevertheless, the subject matter of those heads of
+claim which have fallen by the wayside forms an important part of the context
+in which the central issue now falls to be decided.</a></p><a name="para13">
+
+<p class="ParaHeading">The implied duty of trust and confidence</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both before the Court of Appeal and before this court Mr Nicholas Bowen
+QC on behalf of the officers has placed at the forefront of his submissions the
+duty of trust and confidence which exists between an employer and his
+employees. He submits that the duty of care for which he contends is simply a
+manifestation of the long-established term of trust and confidence which is
+implied into contracts of employment and that, accordingly, there is no scope
+or need for the court to conduct an assessment of whether the ingredients
+identified in <i>Caparo v Dickman</i> criteria are present and, in particular,
+whether the imposition of such a duty would be fair, just and reasonable.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Police officers hold the public office of constable and are not
+employees. They have no contract of employment and the terms on which they hold
+their office are governed principally by the Police Regulations 2003 (SI
+2003/527). Nevertheless, the relationship of Commissioner and officer is
+closely analogous to that of employer and employee (<i>White v Chief Constable
+of South Yorkshire Police</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1998/45.html">[1999] 2 AC 455</a>, per Lord Steyn at p 497E-F; per
+Lord Hoffmann at p 505C). In <i>Mullaney v Chief Constable of West Midlands
+Police</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2001/700.html">[2001] EWCA Civ 700</a> Clarke LJ, with whom Potter LJ and Bodey J
+agreed, considered (at para 52) that the relationship is so closely analogous
+as to make it just in principle to hold that a Chief Constable owes the same
+duties to his officers as an employer does to his employees. At this point of
+the discussion I am content to proceed on the basis that the Commissioner and
+these officers should be treated as if they were employer and employee, while
+recognising that, in the absence of any actual contract, any duty derived by
+analogy with the standard terms implied in an employment contract must
+necessarily sound as a duty of care, rather than be absolute.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mutual obligation of employer and employee not, without reasonable
+and proper cause, to engage in conduct likely to destroy or seriously damage
+the relationship of trust and confidence required between employer and employee
+is a standardised term implied by law into all contracts of employment rather
+than a term implied from the particular provisions of a particular employment
+contract (<i>Malik v Bank of Credit and Commerce International SA</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1997/23.html">[1998] AC 20</a>, per Lord Steyn at p 45D). It was described by Lord Nicholls in <i>Malik</i>
+at p 35A, as a portmanteau concept. In that case the House of Lords considered
+it the source of a more specific implied obligation on the part of the employer
+bank not to conduct its business in a dishonest and corrupt manner, the breach
+of which gave rise to a cause of action for damage to the economic and
+reputational interests of its employees. Similarly, in <i>Eastwood v Magnox
+Electric plc</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2004/35.html">[2004] UKHL 35</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2004/35.html">[2005] 1 AC 503</a> the House of Lords recognised
+an obligation on an employer, in the conduct of his business and in the
+treatment of his employees, to act responsibly and in good faith (per Lord
+Nicholls at para 11). The implied term has been held to give rise to an
+obligation on the part of an employer to act fairly when taking positive action
+directed at the very continuance of the employment relationship (<i>Gogay v
+Hertfordshire County Council</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2000/228.html">[2000] IRLR 703</a>; <i>McCabe v Cornwall County
+Council</i> <a title="Link to BAILII version" href="/uk/cases/UKHL/2004/35.html">[2004] UKHL 35</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2004/35.html">[2005] 1 AC 503</a>; <i>Bristol City Council v Deadman</i>
+<a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2007/822.html">[2007] EWCA Civ 822</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2007/822.html">[2007] IRLR 888</a>; <i>Yapp v Foreign and Commonwealth Office</i>
+<a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/1512.html">[2014] EWCA Civ 1512</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2014/1512.html">[2015] IRLR 112</a>; <i>Stevens v University of Birmingham</i>
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2015/2300.html">[2015] EWHC 2300 (QB)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2015/2300.html">[2016] 4 All ER 258</a>). Furthermore, any decision-making
+function entrusted to an employer must be exercised in accordance with the
+implied obligation of trust and confidence (<i>Braganza v BP Shipping Ltd</i>
+<a title="Link to BAILII version" href="/uk/cases/UKSC/2015/17.html">[2015] UKSC 17</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/17.html">[2015] 1 WLR 1661</a>).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If the present case is approached on the basis of implied contractual
+terms, the issue becomes whether, in unpacking this particular portmanteau
+implied term of trust and confidence, it is possible to extract a duty of care
+owed by an employer to its employees to conduct litigation in a manner which
+protects them from economic or reputational harm. It is significant that,
+despite the researches of counsel, we have not been referred to any decided
+case in any jurisdiction which holds that an employer owes such a duty of care
+to his employees. To derive such an obligation from the implied term of trust
+and confidence would be to move substantially beyond the specific derivative
+duties established to date.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although in <i>Malik</i> the House of Lords derived from the mutual
+implied contractual obligations of trust and confidence an implied obligation
+owed by the bank to its employees not to conduct a dishonest or corrupt
+business and held that damage to reputation resulting from breach sounded in
+damages, this is at a considerable remove from a duty to exercise care in the
+conduct of business so as to avoid economic or reputational damage to
+employees. This point was, in fact, emphasised by Lord Nicholls in a cautionary
+footnote:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“…, [T]here are many circumstances
+in which an employee’s reputation may suffer from his having been associated
+with an unsuccessful business, or an unsuccessful department within a business.
+In the ordinary way this will not found a claim of the nature made in the
+present case, even if the business or department was run with gross
+incompetence. A key feature in the present case is the assumed fact that the
+business was dishonest or corrupt.” (at p 42C-D).</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Scally v Southern Health and Social Services Board </i>[1992] 1 AC
+294 doctors sued their employer claiming damages, inter alia, in breach of
+contract and negligence, in respect of the failure of the employer to notify
+them of their entitlement under their contracts of employment to purchase,
+during a limited period of time, additional years of pension entitlement. The
+House of Lords held that the claimants’ common law claims were to be determined
+by reference to the contractual relationship and not in tort. The doctors’
+claim succeeded but it is noteworthy that it did so on the narrow ground that
+where a contract negotiated between an employer and a representative body
+contains a term conferring on an employee a valuable benefit contingent upon
+his acting to obtain it, of which he could not be expected to be otherwise
+aware, there was an implied obligation on the employer to take reasonable steps
+to publicise that term. It is significant that the House of Lords did not base
+its decision on a more general duty of care owed by an employer to protect the
+economic interests of employees.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Similarly, in <i>Crossley v Faithful &amp; Gould Holdings Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2004/293.html">[2004] ICR 1615</a> the Court of Appeal refused to derive from the mutual duty of trust
+and confidence a standard obligation, implied by law as a term of all contracts
+of employment, which requires an employer to take reasonable care for the
+economic well-being of his employees. The claimant, a senior employee and
+director of the defendant company, retired on grounds of ill health. He later
+brought an action for damages for breach of contract alleging that in failing
+to warn him of the effect which resigning from his employment would have on his
+entitlements under its insurance scheme, the defendant company had acted in
+breach of an implied term of the contract of employment requiring it to take
+reasonable care for his economic well-being. Dyson LJ, with whom Thomas LJ and
+Sir Andrew Morritt V-C agreed, rejected the proposed implied term. Having
+observed (at para 42) that it was not for that court “to take a big leap to
+introduce a major extension of the law in this area” when the House of Lords
+had declined to do so in <i>Scally v Southern Health and Social Services Board </i>[1992]
+1 AC 294<i> </i>and<i> Spring v Guardian Assurance plc </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1994/7.html">[1995] 2 AC 296</a>, he
+developed (at para 43) the more fundamental objection that such an implied term
+would impose an unfair and unreasonable burden on employers. While an employer
+might assume responsibility under the <i>Hedley Byrne</i> principle, it was a quite
+different matter to impose on an employer the duty to give his employee
+financial advice or generally to safeguard his economic well-being.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Furthermore, I have difficulty in understanding how this principal
+argument on behalf of the officers can circumvent the requirement adverted to
+by Lord Bridge in <i>Caparo v Dickman</i> that the imposition of the duty must
+be fair, just and reasonable. In order to establish such a duty of care, the
+officers rely here upon a class of implied terms which are implied in law as a
+necessary incident of a particular class of contractual relationship. In <i>Crossley</i>
+Dyson LJ observed at para 36:</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… [R]ather than focus on the
+elusive concept of necessity, it is better to recognise that, to some extent at
+least, the existence and scope of standardised implied terms raise questions of
+reasonableness, fairness and the balancing of competing policy considerations.”</p>
+
+</a><p class="ParaNoNumber"><a name="para21">This approach was commended by Lady Hale in <i>Geys v
+Societe Generale, London Branch</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2012/63.html">[2013] 1 AC 523</a> at paras 55, 56. The argument
+that such an implied term should extend to the conduct of litigation raises,
+therefore, precisely the same question as to whether the proposed term is fair
+and reasonable as arises if the claim is put in tort. Such an implied term,
+implied by law as an incident of a standardised contract, could not, to my
+mind, be wider in scope than the duty imposed by the law of tort. (<i>White v
+Chief Constable of South Yorkshire Police</i>,<i> </i>per Lord Griffiths at p
+464C-G; per Lord Goff at p 483C-E; per Lord Steyn at p 498A-B; per Lord
+Hoffmann at pp 505B-506B. See also the observations of Underhill LJ in <i>Yapp
+v Foreign and Commonwealth Office</i> at para 120.) It is difficult to see why
+such an implied term should extend further than a concurrent duty in
+negligence. Accordingly, it seems to me that the battlefield on which the
+conflicting contentions as to the existence of such a duty must be fought out
+is the scope of the duty of care in tort.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case the courts below have proceeded on the basis that,
+with the exception of the claim in respect of psychiatric injury which is no
+longer pursued, harm was arguably foreseeable. Furthermore, it was clearly
+arguable that by virtue of their relationship, akin to that of employer and
+employee, the parties were in a sufficiently proximate relationship to give rise
+to a duty of care. The argument therefore focussed on whether the imposition of
+a duty of care was fair, just and reasonable as indicated in <i>Caparo</i>. In <i>Robinson
+v Chief Constable of West Yorkshire Police </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2018/4.html">[2018] UKSC 4</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2018/4.html">[2018] 2 WLR 595</a>
+this court recently held, with regard to this aspect of <i>Caparo</i>, that it
+is normally only in a novel type of case, where established principles do not
+provide an answer, that the courts need to go beyond those principles in order
+to decide whether a duty of care should be recognised. Since the police
+generally owe a duty of care not to inflict physical injury by their actions
+when such a duty arises under the ordinary principles of the law of negligence,
+unless statute or other common law principle provides otherwise, there was no
+requirement in that case to examine whether the recognition of the claimed duty
+would be fair, just and reasonable. However, this ingredient will be of
+critical importance in a situation where it is proposed that a duty of care
+should be imposed in novel circumstances. Thus Lord Reed observed (at para 29):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Properly understood, <i>Caparo</i>
+thus achieves a balance between legal certainty and justice. In the ordinary
+run of cases, courts consider what has been decided previously and follow the
+precedents (unless it is necessary to consider whether the precedents should be
+departed from). In cases where the question whether a duty of care arises has
+not previously been decided, the courts will consider the closest analogies in
+the existing law, with a view to maintaining the coherence of the law and the
+avoidance of inappropriate distinctions. They will also weigh up the reasons
+for and against imposing liability, in order to decide whether the existence of
+a duty of care would be just and reasonable.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Contrary to the submission of Mr Bowen on behalf of the officers, the
+present case is very clearly one in which it is sought to extend a duty of care
+to a new situation. As Lord Reed explained in <i>Robinson</i>, in determining
+whether such a duty should be recognised the law will proceed incrementally and
+by analogy with previous decisions. He referred, in particular, to the
+following passage in the judgment of Brennan J in <i>Sutherland Shire Council v
+Heyman</i> (1985) 60 ALR 1, 43-44, which was approved by Lord Bridge in <i>Caparo</i>
+at p 618:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is preferable, in my view,
+that the law should develop novel categories of negligence incrementally and by
+analogy with established categories, rather than by a massive extension of a
+prima facie duty of care restrained only by indefinable considerations which
+ought to negative, or to reduce or limit the scope of the duty or the class of
+person to whom it is owed.”</p>
+
+</a><p class="ParaNoNumber"><a name="para23">The theme was developed by Lord Bingham in <i>Customs and
+Excise Comrs v Barclays Bank plc</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2006/28.html">[2007] 1 AC 181</a> where he observed at para
+7:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… I incline to agree with the
+view … that the incremental test is of little value as a test in itself, and is
+only helpful when used in combination with a test or principle which identifies
+the legally significant features of a situation. The closer the facts of the
+case in issue to those of a case in which a duty of care has been held to
+exist, the readier a court will be, on the approach of Brennan J adopted in <i>Caparo
+Industries plc v Dickman</i>, to find that there has been an assumption of
+responsibility or that the proximity and policy conditions of the threefold
+test are satisfied. The converse is also true.”</p>
+
+<p class="ParaNoNumber">In addition, the proposed duty will be tested against
+considerations of legal policy and judgement will have to be exercised with
+particular regard to both the achievement of justice in the particular case and
+the coherent development of the law.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The law protects reputation in a variety of ways in different
+circumstances. Causes of action such as libel, slander, malicious falsehood and
+passing off are designed to protect reputation. Moreover, a variety of other
+causes of action including breach of confidence, misuse of private information
+and causes of action in relation to data protection and intellectual property
+may often indirectly achieve this result. The common law does not usually
+recognise a duty of care in the tort of negligence to protect reputational
+interests. However, there are exceptions. In <i>Spring v Guardian Assurance plc</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1994/7.html">[1995] 2 AC 296</a> a majority of the House of Lords held that an employer who gave
+a reference in respect of a former employee owed that employee a duty to take
+reasonable care in its preparation and would be liable to him in negligence for
+a breach of duty which caused him economic loss. Lord Lowry, Lord Slynn and
+Lord Woolf reached this conclusion on the basis of the three ingredients
+identified by Lord Bridge in <i>Caparo</i>. Lord Goff (at p 316E-F) concluded
+that a duty of care was owed to the former employee on a narrower ground. In
+his view the source of the duty of care was the principle in <i>Hedley Byrne
+&amp; Co Ltd v Heller &amp; Partners Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1963/4.html">[1964] AC 465</a> ie an assumption of
+responsibility by the authors of the reference to the plaintiff in respect of
+the reference, and reliance by the plaintiff upon the exercise by them of due
+care and skill in respect of its preparation. This case was essentially
+concerned with negligent mis-statement and it may be that assumption of
+responsibility is the better rationalisation of the recognition of a duty in
+these circumstances. (See <i>NRAM Ltd (formerly NRAM plc) v Steel</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2018/13.html">[2018] UKSC 13</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2018/13.html">[2018] 1 WLR 1190</a> per Lord Wilson at para 24 referring also to <i>Henderson
+v Merrett Syndicates Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1994/5.html">[1995] 2 AC 145</a> per Lord Goff at p 181 and <i>Williams
+v Natural Life Health Foods Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1998/17.html">[1998] 1 WLR 830</a> per Lord Steyn at p 837.)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This decision should be contrasted with <i>Calveley v Chief Constable of
+the Merseyside Police</i> [1989] 1 AC 1228. Following their reinstatement,
+police officers, against whom disciplinary proceedings had been taken, brought
+actions in negligence against their Chief Constables on the basis that they
+were vicariously liable for the investigating officers. The claimants alleged
+that the investigating officers had failed to conduct the proceedings properly
+or expeditiously and claimed, inter alia, damages in respect of loss of
+overtime earnings during their suspension and damages for injury to reputation.
+The House of Lords considered the submission that a duty of care was owed to
+the claimants to be unsustainable. First, Lord Bridge explained (at p 1238B-G),
+anxiety, vexation and injury to reputation did not constitute reasonably
+foreseeable damage capable of sustaining an action in negligence within <i>Donoghue
+v Stevenson </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1932/100.html">[1932] AC 562</a>. Secondly, it was not reasonably foreseeable that
+the negligent conduct of a criminal investigation would cause injury to the
+health of the suspect, whether in the form of depressive illness or otherwise.
+Thirdly, while it is reasonably foreseeable that a suspect may suffer some economic
+loss which might have been avoided had more careful investigation established
+his innocence at an earlier stage, such a claim would encounter the formidable
+obstacles in the path of liability in negligence for purely economic loss.
+Fourthly, it would be contrary to public policy to prejudice the discharge by
+police officers of their public duty of investigating crime by requiring them
+to act under the shadow of a potential action for damages for negligence by the
+suspect.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To my mind <i>Calveley</i> has an important bearing on the present case.
+If a Chief Constable does not, in principle, owe a duty of care to protect the
+economic and reputational interests of his officers in respect of the
+prosecution of an investigation or disciplinary proceedings, it is difficult to
+see why he should owe a duty to his officers as to the manner in which he
+defends a claim brought against him by a third party. In the former situation
+the Chief Constable has himself initiated the investigation or proceedings over
+which he has at least a substantial measure of control and he is responsible
+for making allegations against officers. In the latter situation his role is
+essentially responsive to allegations made by third parties.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In these circumstances it is necessary to test the proposed duty of care
+against relevant policy considerations and to consider the coherence of the
+resulting state of the law if such a duty is recognised.</a></p><a name="para27">
+
+<p class="ParaHeading">Conflicting interests</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fact that a duty of care may give rise to conflicting interests will
+often be a weighty consideration against its imposition. In <i>D v East
+Berkshire Community Health NHS Trust </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2005/23.html">[2005] 2 AC 373</a> a majority of the
+House of Lords held that health care and childcare professionals investigating
+allegations of child abuse did not owe a duty of care to the parents of the
+children concerned. Lord Nicholls explained (at para 85) that conflict of
+interest was a persuasive factor here. When considering whether a child has
+been abused, a doctor should be able to act single-mindedly in the interests of
+the child and he ought not to have at the back of his mind an awareness that if
+his doubts about intentional injury or sexual abuse were to prove unfounded he
+might be exposed to claims by a distressed parent.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“At that time [when a doctor is
+carrying out his investigation] the doctor does not know whether there has been
+abuse by the parent. But he knows that when he is considering this possibility
+the interests of parent and child are diametrically opposed. The interests of
+the child are that the doctor should report any suspicions he may have and that
+he should carry out further investigation in consultation with other child care
+professionals. The interests of the parent do not favour either of these steps.
+This difference of interest in the outcome is an unsatisfactory basis for
+imposing a duty of care on a doctor in favour of a parent.” (at para 88)</p>
+
+<p class="ParaNoNumber">Similarly, in <i>SXH v Crown Prosecution Service</i>
+<a title="Link to BAILII version" href="/uk/cases/UKSC/2017/30.html">[2017] UKSC 30</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2017/30.html">[2017] 1 WLR 1401</a> Lord Toulson, with whom Lord Mance, Lord Reed
+and Lord Hughes agreed, considered (at para 38) that the duty of the Crown
+Prosecution Service (“CPS”) is to the public and not to the victim or the
+suspect, who have separate interests, and that to recognise a duty of care
+towards victims or suspects or both would put the CPS in positions of potential
+conflict.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Yet, the fact that the recognition of a duty of care may potentially
+subject an individual to conflicting duties is not, of itself, necessarily
+conclusive against its recognition in all situations. Clearly, there will be
+many situations in which an individual will owe potentially conflicting duties
+to different persons. In <i>Gogay v Hertfordshire County Council</i> the
+managers of a children’s home owed both a duty of care to the resident children
+and an implied contractual duty of trust and confidence to its staff,
+notwithstanding the fact that in the case of an actual conflict the interests
+of the child should prevail. (See Hale LJ at para 59) Similarly, in <i>D v East
+Berkshire</i> Lord Nicholls referred (at para 86) to the fact that a doctor
+often owes duties to more than one person. He may owe duties, for example, to
+his employer and to his patient. (See also <i>ABC v St George’s Healthcare NHS
+Trust</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/336.html">[2017] EWCA Civ 336</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/336.html">[2017] PIQR P15</a>.) However, in <i>D</i> the House
+concluded that the seriousness of child abuse as a social problem demanded that
+health professionals, acting in good faith in what they believe are the best
+interests of the child, should not be subject to potentially conflicting duties
+when deciding whether a child may have been abused or in deciding what action
+should be taken. It is necessary, therefore, to have regard to the competing
+underlying policy considerations, when determining whether a duty of care may
+be imposed notwithstanding that it may give rise to a conflict of interests.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The interests of an employer who is sued on the basis that he is
+vicariously liable for the tortious conduct of his employees differ
+fundamentally from the interests of those employees. The financial, commercial
+and reputational standing of the employer may be at stake. It is the employer
+who will incur the cost of defending the proceedings which, however successful
+the defence may be, is most unlikely to be recovered in full, and who, if
+unsuccessful, will bear the liability to the claimant. The employer must be
+able to make his own investigation into the claim and to assess its strength
+based on the conduct of his employee and the prospects of a successful defence.
+In this regard, he will need to form his own view as to the reliability and
+veracity of his employee and as to how the employee is likely to perform as a
+witness. The interests of insurers may have to be taken into account. The
+employer will have to decide what degree of importance he attaches to
+successfully defending the claim and what financial and other resources should
+be devoted to its defence. He may consider that, however strong the prospects
+of a successful defence, he cannot justify the cost and effort of defending the
+claim and that it should, therefore, be settled. The predominant interest of
+the employee, by contrast, will be that his reputation should be vindicated.
+The position will often be complicated further by the existence of inconsistent
+views or interests between different employees or groups of employees. (See,
+for example, <i>Mohidin v Comr of Police of the Metropolis</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2016/105.html">[2016] EWHC 105 (QB)</a> (Gilbart J) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2016/105.html">[2016] 1 Costs LR 71</a>, para 14)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In cases where an employer is alleged to be vicariously liable for the
+tortious conduct of his employee, the possibility of contribution proceedings
+between employer and employee highlights this potential conflict of interests.
+It is particularly relevant here that claims under the Civil Liability
+(Contribution) Act 1978 may be brought up to two years after judgment in the
+original claim or settlement of that claim (Limitation Act 1980, section 10).
+That the possibility of bringing such a claim is not fanciful, at least in
+cases where deliberate misconduct is alleged, is demonstrated by <i>Mohidin v
+Comr of Police of the Metropolis</i> where such a claim succeeded.</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These stark differences between the interests of employer and employee
+strongly suggest that it would not be fair, just or reasonable to impose on an
+employer a duty of care to defend legal proceedings so as to protect the
+economic or reputational interests of his employee. Nor do I consider it
+realistic to suggest, as do the respondents in the present case, that this
+potential for conflict can be overcome by the recognition of a duty of care up
+to the time at which an actual conflict of interests arises, at which point
+“timeous notification” by the Commissioner could result in the duty of care
+ceasing to apply. Where an employer defends a claim against him founded on his
+vicarious liability for his employees, the potential for conflict is too great
+to permit such a compromise. Moreover, it would often be totally impracticable.
+A civil claim and its defence, as they proceed, often develop in unexpected
+ways. There could be no justification for imposing on an employer the burden of
+keeping under review at each stage of the proceedings the question whether an
+actual conflict has arisen. Furthermore, steps taken by the employee as a
+result of such “timeous notification” of the emergence of an actual conflict
+may well be disruptive of the litigation.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, moreover, the Commissioner is not merely in a
+position analogous to that of an employer. She also holds public office and has
+responsibility for the Metropolitan Police Service. This adds a further
+dimension to this appeal because in the conduct of the proceedings against her
+she must be free to act as she considers appropriate in accordance with her
+public duty. This duty is, to my mind, totally inconsistent with her owing a
+duty of care to protect the reputational interests of her employees when
+defending litigation based on vicarious liability for their alleged misconduct.
+As we have seen, in <i>Calveley</i> the House concluded that it would be
+contrary to public policy to prejudice the discharge by the police of their
+public duty to investigate alleged misconduct by officers by imposing a
+conflicting duty of care to protect the reputational interests of those
+officers. In the same way in <i>SXH</i> this court considered (at para 38) that
+to recognise a duty of care owed by the CPS to victims or suspects would not be
+conducive to the best interests of the criminal justice system. These
+considerations apply with equal force to the present case.</a></p><a name="para33">
+
+<p class="ParaHeading">Policy considerations relating to the conduct of
+litigation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Considerations relating to legal policy and the practical conduct of
+proceedings also weigh heavily against the duty for which the officers contend.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, there is an important public policy that parties in dispute
+should, in general, be able to avail themselves of the processes of litigation
+in order to resolve their disputes, without fear of incurring liability to
+third parties if they do so. This policy was expressed by Wilde CJ (with whom
+Maule J, Cresswell J, Williams J, Parke B and Rolfe B agreed) in <i>De Medina v
+Grove</i> (1847) 10 QB 172 at p 176:</a></p><a name="para35">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The law allows every person to
+employ its process for the purpose of trying his rights, without subjecting him
+to any liability, unless he acts maliciously and without probable cause.”</p>
+
+</a><p class="ParaNoNumber"><a name="para35">This policy underlies a number of legal principles
+including the general immunity which attaches to things said and done in court
+by witnesses and litigants and the principle that a duty of care is not owed by
+one litigant to an opposing litigant. (See, generally, <i>Willers v Joyce</i>
+</a><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/43.html">[2016] UKSC 43</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/43.html">[2016] 3 WLR 477</a> per Lord Mance at para 135.) An employer who
+wishes to defend a claim based on vicarious liability for the alleged conduct
+of his employees should be entitled to defend the claim in the way he sees fit,
+notwithstanding that his employees will or may as a result be subjected to
+public criticism during the trial process. He should be free to do so without
+having constantly to look over his shoulder for fear that his conduct of the
+defence may expose him to a claim by his employees. Decisions in the conduct of
+the defence, such as which inquiries to undertake, which experts to instruct,
+which witnesses to call or which resources to devote to resisting the claim,
+are essentially matters for the employer as defendant and should be taken free
+of anxiety as to possible future claims by the employees on the basis that the
+case should have been run differently. The proposed duty would, to my mind,
+inevitably inhibit the conduct of the defence. An employer would,
+understandably, be less likely to make admissions in circumstances where they
+are objectively justified or to make use of evidence which reflects
+unfavourably on an employee, for fear of the subsequent repercussions. I have
+no doubt that the imposition of the duty of care contended for in the present
+case would, as the Commissioner submits, have a chilling effect on the defence
+of civil proceedings.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, the recognition of a duty owed by an employer to his employees
+to defend a claim effectively would be inconsistent with the important legal
+policy which encourages the settlement of civil claims and seeks to promote out
+of court settlement. The resulting risk of exposure to consequential claims
+would, in many situations, operate as a powerful disincentive to settlement.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, the duty contended for could result in delay or disruption of
+civil proceedings. Disputes between employers and employees as to the
+appropriate way in which the defence should be conducted could well paralyse
+the defence. Resort to some form of dispute resolution procedure could be
+expensive and time-consuming. In many instances the employer may well feel
+compelled to make a contribution claim against his employees in order to
+negative the imposition of a duty of care owed to them. Moreover, the existence
+of such a duty may result in an employer needlessly prolonging proceedings
+against him in an attempt to establish that he has taken care to protect the
+interests of his employees. (See N McBride, PN 2017 (33) 3, 216 at p 219.)</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fourthly, the recognition of such a duty of care would be a fruitful
+source of satellite litigation. While there are some situations in which
+litigation about the conduct of prior litigation is unavoidable, it is
+generally to be discouraged. The acknowledgement of a duty owed by employers to
+their employees to protect their economic or reputational interests in the
+conduct of litigation would be likely to result in a proliferation of
+consequential claims which would often amount to a collateral challenge to the
+outcome of earlier proceedings.</a></p><a name="para38">
+
+<p class="ParaHeading">Legal professional privilege</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is also necessary to say something about the issue of legal
+professional privilege. At first instance, it was submitted on behalf of the
+Commissioner that legal professional privilege was a further policy
+consideration for not imposing a duty of care in these circumstances. It was
+submitted that if such a duty of care existed an employer would in effect be compelled
+to waive privilege in circumstances where he would otherwise be entitled to
+assert privilege, because the correctness or reasonableness of his conduct of
+the underlying litigation could not be properly examined without relevant legal
+advice being properly exposed to judicial scrutiny. The response on behalf of
+the officers was that the relationship between the parties gave rise to a joint
+or common interest with the result that the Commissioner would, in any event,
+be unable to rely on legal professional privilege against the officers to the
+extent that common interest privilege applied.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In his judgment Jay J expressly stated that he did not rely on legal
+professional privilege in coming to the conclusion that there was no arguable
+duty of care. The Court of Appeal did not address this point in its judgments.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judgments below have established that the legal advisers who
+defended the claim brought by BA were instructed on behalf of the Commissioner
+only and that neither those lawyers nor the Commissioner undertook
+responsibility to the officers for the conduct of the litigation. The officers
+attended conferences with counsel in the capacity of witnesses not clients. The
+officers do not seek to appeal those conclusions. Accordingly, there can be no question
+of legal professional privilege belonging jointly to the Commissioner and the
+officers. However, the officers rely on common interest privilege and seek to
+employ it as a sword in asserting an entitlement to disclosure of material in
+the possession of the Commissioner which is privileged against disclosure to
+others. Whether the officers have such an entitlement will depend on whether
+such a claim is consistent with the underlying relationship of the Commissioner
+and the officers. (See <i>Phipson on Evidence</i>, 19th ed (2017), para 24-11.)
+In my view it is not.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If one sets to one side the decided cases which turn on contractual
+access rights, the cases show that something more than a shared interest in the
+outcome of litigation is required before common interest privilege can be used
+as a sword in the manner proposed here. For example, in <i>Dennis &amp; Sons
+Ltd v West Norfolk Farmers Manure and Chemical Co-operative Co Ltd</i> [1943]
+Ch 220 Simonds J held that shareholders were entitled to disclosure of an
+accountants’ report concerning the rights and duties of the board commissioned
+by the directors, notwithstanding that by the time the report was received the
+shareholders had commenced proceedings against the company in relation to the
+conduct of the company’s affairs. The report had been commissioned by the
+directors on behalf of all the shareholders and not for the purpose of
+defending themselves against hostile litigation. The judge observed (at p 222)
+that the general rule applied equally as between a company and its shareholders
+and as between a trustee and his beneficiaries. A claim to privilege between
+the company and its shareholders would have been inconsistent with the nature
+of the relationship.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Similarly, in <i>CIA Barca de Panama SA v George Wimpey &amp; Co Ltd</i>
+[1980] 1 Lloyd’s Rep 598, Barca and Wimpey each held half the shares in a joint
+venture company, DLW, which had claims against Aramco. Wimpey settled the
+claims without authority from Barca. In the resulting proceedings brought by
+Barca against Wimpey the Court of Appeal held that Barca was entitled to
+disclosure of privileged documents of Wimpey generated in the original
+litigation as the Aramco claims had been made by Wimpey on behalf of itself and
+Barca (per Stephenson LJ at p 614).</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Commercial Union Assurance Co plc v Mander</i> [1996] 2 Lloyd’s
+Rep 640, at 647-648, Moore-Bick J provided the following example:</a></p><a name="para44">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Although in many cases a
+relationship between two parties which supports common interest privilege will
+be one which also gives each of them a right to obtain disclosure of
+confidential documents relating to the matter in which they are both
+interested, one can readily think of situations in which that would not be so.
+Take the example given by Donaldson LJ in <i>Buttes v Hammer (No 3)</i> of
+tenants in a block of flats. One tenant, acting entirely for his own benefit,
+obtains legal advice concerning a dispute with the landlord over a provision in
+the lease which affects other tenants in a similar way. If he chooses to give a
+copy of the document containing that advice in confidence to another tenant who
+is willing to cooperate with him in pursuing a claim their common interest
+would be sufficient for the document to remain privileged in the latter’s
+hands. I do not, however, see any basis upon which the second tenant could have
+insisted on seeing the advice if the first tenant did not wish to show it to
+him, even though they had a common interest in the subject matter. Both as a
+matter of principle and authority … it is not enough that the person seeking disclosure
+of confidential documents can show that he has an interest in the subject
+matter which would be sufficient to give rise to common interest privilege if
+the documents had been disclosed to him; he must be able to establish a right
+to obtain access to them by reason of a common interest in their subject matter
+which existed at the time the advice was sought or the documents were
+obtained.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case the Commissioner and the officers are likely to have
+had a shared interest in successfully defending the claim brought by BA against
+the Commissioner, at least initially. It may well be that, had privileged
+documents been disclosed in confidence by the Commissioner to the officers at
+that stage, that shared interest would have enabled the officers to defeat an
+application for disclosure by a third party on grounds of common interest
+privilege. However, before the officers could compel disclosure of privileged
+material in the hands of the Commissioner, considerably more would be required.
+Although the relationship between the Commissioner and the officers is closely
+analogous to that of employer and employees, there is nothing in the present
+situation which resembles the relationship between a company and its
+shareholders, or between a trustee and his beneficiaries, or between parties to
+a joint venture agreement. Here the relationship between the Commissioner and
+the officers does not require or justify such an entitlement of access to
+legally privileged material.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Considered against this background, there is force in the Commissioner’s
+submission as to the practical consequences in this regard of the recognition
+of the duty of care for which the officers contend. Although employees would
+normally have no entitlement to disclosure of privileged material in the
+possession of their employer relating to the defence of the original
+proceedings, the effective defence of proceedings by the employees against the
+employer brought on the basis that the earlier proceedings were conducted in
+breach of duty may well require waiver of privilege in order to demonstrate the
+contrary. This has the potential to undermine the effective conduct of the
+defence of the original claim against the employer in that the possibility of
+such a claim in negligence and the likelihood of having to waive privilege may
+well inhibit frank discussion between the employer and his legal advisers. This
+is, therefore, a further consideration which weighs against the recognition of
+the duty of care for which the officers contend.</a></p><a name="para46">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons I would allow the appeal. The imposition of the
+claimed duty would not be fair, just or reasonable.</a></p><a name="para47">
+
+</a></div><a name="para47">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/40.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

@@ -1,0 +1,1183 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Jordan, Re for Judicial Review (Northern Ireland)   [2019] UKSC 9  (6 March 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Jordan, Re for Judicial Review (Northern Ireland)   [2019] UKSC 9  (6 March 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/9.html</i>
+<br>Cite as: 
+[2019] HRLR 8,
+
+[2020] NI 570,
+
+[2019] UKSC 9
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/9.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+ <br><center><a href="/uk/cases/UKSC/2019/9.image.pdf"><h2>Summary</h2></a></center><br><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 9</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/nie/cases/NICA/2015/66.html">[2015] NICA 66</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">In
+  the matter of an application by Hugh Jordan for Judicial Review (Northern
+  Ireland)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Arden</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">6 March 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 23 October 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>1<sup>st</sup> Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Karen Quinlivan QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Sean Doran QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Fiona Doherty QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Ian Skelt</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Madden
+  and Finucane Solicitors)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Coroners
+  Service for Northern Ireland)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>2<sup>nd</sup> Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Tony McGleenan QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Martin Wolfe QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Adrian Colmer</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Crown Solicitor’s Office (Belfast))</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>3<sup>rd</sup> Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Peter Coll QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Philip McAteer</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Departmental Solicitor’s Office)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><u>Respondents:</u></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coroners Service for Northern Ireland (written
+submissions only)</p>
+
+<p class="MsoNormal">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chief Constable of the Police Service for
+Northern Ireland</p>
+
+<p class="MsoNormal">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Justice</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD REED<span style="text-transform:none">: (with whom Lady
+Hale, Lord Carnwath, Lord Lloyd-Jones and Lady Arden agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The central issue in this appeal is whether the Court of Appeal in Northern
+Ireland was entitled to order that a claim for damages under section 8 of the
+Human Rights Act 1998, for breach of the requirement under article 2 of the
+European Convention on Human Rights that an investigation into a death should
+begin promptly and proceed with reasonable expedition, should not be brought
+until an inquest has been concluded, or if already brought should be stayed
+until after that date.</a></p><a name="para1">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant’s son, Pearse Jordan, was shot and killed by a member of
+the Royal Ulster Constabulary on 25 November 1992. In 1994 the appellant’s
+husband, Hugh Jordan, made an application to the European Court of Human
+Rights, complaining that the failure to carry out a prompt and effective
+investigation into his son’s death was a violation of article 2. An inquest
+commenced on 4 January 1995 but was adjourned shortly afterwards. On 4 May 2001
+the European Court of Human Rights upheld Mr Jordan’s complaint and awarded him
+£10,000 in respect of non-pecuniary damage, together with costs and expenses: <i>Jordan
+v United Kingdom </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2001/327.html">(2003) 37 EHRR 2</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A fresh inquest into Pearse Jordan’s death commenced on 24 September
+2012, and a verdict was delivered on 26 October 2012. Hugh Jordan then brought
+proceedings for judicial review of the conduct of the inquest, which resulted
+in the verdict being quashed: <i>In re Jordan’s application for Judicial Review
+</i></a><a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2014/11.html">[2014] NIQB 11</a>. A subsequent appeal against that decision was dismissed:
+<a title="Link to BAILII version" href="/nie/cases/NICA/2014/76.html">[2014] NICA 76</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2013 Hugh Jordan brought the present proceedings for judicial review,
+in which he sought declarations that the Coroner and the Police Service of
+Northern Ireland (“PSNI”) had been responsible for delay in the commencement of
+the inquest in violation of his rights under article 2, together with awards of
+damages under section 8 of the Human Rights Act in respect of the delay from 4
+May 2001 until 24 September 2012. Stephens J upheld the claim against the PSNI,
+finding that there had been a series of failures to disclose relevant
+information until compelled to do so, and also a delay in commencing a process
+of risk assessment relating to the anonymity of witnesses: </a><a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2014/11.html">[2014] NIQB 11</a>,
+paras 350-359. Following a further hearing in that case and five other similar
+cases, he made a declaration that the PSNI “delayed progress of the Pearse
+Jordan inquest in breach of article 2 of the European Convention on Human
+Rights and contrary to section 6 of the Human Rights Act 1998”, and awarded
+damages of £7,500: <a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2014/71.html">[2014] NIQB 71</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Chief Constable of the PSNI appealed against the declaration and
+award of damages, contending that although the PSNI might have been responsible
+for part of the delay, they should not have orders made against them where
+other state authorities had also been responsible for the delay but were not
+party to the proceedings. Hugh Jordan cross-appealed against the dismissal of
+his claim against the Coroner. The Department of Justice was joined as a
+respondent to the proceedings.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is a matter of agreement before this court that, at the hearing of
+the appeal, the Court of Appeal raised a preliminary issue relating to the
+timing of the application for judicial review, and heard argument on that issue
+only. The judgment itself states that the issue of timing was raised by counsel
+for the PSNI, who argued that the application was time-barred under section
+7(5) of the Human Rights Act, since there was no finding that delay in breach
+of article 2 had occurred within the period of 12 months immediately prior to
+the commencement of the proceedings, and there was no reason why the court
+should exercise its discretion to extend the period for bringing proceedings
+under section 7(5)(b).</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Judgment was handed down on 22 September 2015: </a><a title="Link to BAILII version" href="/nie/cases/NICA/2015/66.html">[2015] NICA 66</a>. That
+judgment was subsequently withdrawn and a revised judgment, also dated 22
+September 2015, was issued on 12 May 2017. The resultant orders, also dated 22
+September 2015, were made on 10 June 2017. The judgment and orders are
+discussed below. The immediate result of the orders was a stay of proceedings.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A further inquest into Pearse Jordan’s death commenced on 22 February
+2016 and a verdict was delivered on 9 November 2016. That verdict was challenged
+in judicial review proceedings brought by Pearse Jordan’s mother, the present
+appellant, but without success: <i>In re Jordan’s application for Judicial Review
+</i></a><a title="Link to BAILII version" href="/nie/cases/NICA/2018/34.html">[2018] NICA 34</a>. She also took over the conduct of the present proceedings
+from her husband as his health had deteriorated so as to prevent him from
+taking part.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 23 October 2017, following a hearing which it had convened of its own
+motion in the exercise of its case management functions, the Court of Appeal
+lifted the stay on the present proceedings. It had been in place for a period
+of two years and one month.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both the Chief Constable’s appeal and the claimant’s cross-appeal were
+heard during 2018. The cross-appeal was dismissed: </a><a title="Link to BAILII version" href="/nie/cases/NICA/2018/23.html">[2018] NICA 23</a>. The appeal
+has not yet been decided.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The delays in the investigation into Pearse Jordan’s death, and the
+repeated litigation which has characterised that process, are a common feature
+of what have come to be known as “legacy” cases: that is to say, cases
+concerning deaths occurring in Northern Ireland during the “Troubles”. In his
+recent judgment <i>In re Hughes’ application for Judicial Review </i></a><a title="Link to BAILII version" href="/nie/cases/NIHC/QB/2018/30.html">[2018] NIQB 30</a>, Sir Paul Girvan found that there was systemic delay in these cases,
+arising from a lack of resources to fund inquests of the length, complexity and
+contentiousness involved. There were at that point 54 inquests pending in
+relation to 94 deaths. Only one inquest was heard during 2018. In an effort to
+address this problem, reforms have been proposed by the Lord Chief Justice of
+Northern Ireland which, it is hoped, will enable all the outstanding cases to
+be heard within five years. The proposed reforms have not however been
+implemented, as the necessary funding has not been provided.</p>
+
+<p class="ParaHeading">The judgment and order of the Court of Appeal</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In its judgment the court considered how section 7(5) of the Human
+Rights Act applies to complaints of delay in relation to the holding of
+inquests. Section 7(1)(a) provides that a person who claims that a public
+authority has acted in a way which is made unlawful by section 6(1) (ie has
+acted in a way which is incompatible with a Convention right) may bring
+proceedings against the authority under the Act. Section 7(5) provides:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(5)&nbsp;&nbsp;&nbsp;&nbsp; Proceedings under
+subsection (l)(a) must be brought before the end of -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the period of one year
+beginning with the date on which the act complained of took place; or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; such longer period as
+the court or tribunal considers equitable having regard to all the
+circumstances …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court observed that it was apparent from the history of this case and
+other legacy cases that delay as a result of failures to disclose evidence had
+been a recurring problem. Where there had been a series of failures of
+disclosure, was it necessary, the court asked, for the applicant to issue
+proceedings within one year of the end of a particular failure to disclose, or
+was the applicant entitled to include periods of delay resulting from earlier
+failures where proceedings were issued within 12 months of the latest failure?
+Might the answer to that question depend upon whether there was a finding that
+all of the failures of disclosure were part of a policy or practice to cause
+delay?</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court did not answer these questions, but it observed that in the
+light of these issues, and the very long delays occurring in legacy cases,
+those who wished to avoid being captured by the primary limitation period under
+section 7(5)(a) might well feel obliged to issue proceedings separately in
+relation to each and every incident of delay. That might involve separate
+proceedings against different public authorities allegedly contributing to
+periods of delay which might or might not overlap. If each case had to be
+pursued within one year of the end of each particular element of delay, that
+would introduce a proliferation of litigation in respect of which periods of
+delay justified an award of damages against which public authorities.
+Practicality and good case management pointed towards ensuring that all of
+those claims against each public authority should be heard at the same time. In
+the present case a fresh inquest had been ordered (ie the inquest which began
+on 22 February 2016 and had already been completed when the substituted
+judgment was delivered). If it did not take place within a reasonable time,
+that would constitute a fresh breach of the Convention for which a remedy,
+including damages, might be available. It was when the inquest was completed
+that it would be possible to examine all the circumstances surrounding any
+claim for delay, and the court would then be in a position to determine whether
+adequate redress required an award of damages and, if so, against which public
+authority in which amount.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court stated at para 21:</a></p><a name="para15">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“We consider, therefore, that in
+legacy cases the issue of damages against any public authority for breach of
+the adjectival obligation in article 2 ECHR ought to be dealt with once the
+inquest has finally been determined. Each public authority against whom an
+award is sought should be joined. In order to achieve this it may be necessary
+to rely upon section 7(5)(b) of the 1998 Act. The principle that the court should
+be aware of all the circumstances and the prevention of even further litigation
+in legacy cases are compelling arguments in favour of it being equitable in the
+circumstances to extend time if required. Where the proceedings have been
+issued within 12 months of the conclusion of the inquest, time should be
+extended.”</p>
+
+<p class="ParaNoNumber">This appears on its face to constitute general guidance
+for all legacy cases in which damages are sought. The court made it clear at
+para 22 that it expected there to be very few, if any, exceptions to this
+approach:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“We find it difficult to envisage
+any circumstances in which there should be an exception to the approach set out
+in the preceding paragraph in such cases.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court concluded at para 23:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“For the reasons given we consider
+that the claim for damages for delay should be assessed after the completion of
+the inquest but should be made within one year of the completion. Since we have
+ordered a fresh inquest in this case that period has not yet commenced. We will
+hear the parties on whether the appeal on the award of damages should be
+adjourned until after the inquest or allowed without adjudication on the merits
+to enable the issue of a fresh claim.”</p>
+
+<p class="ParaLevel1">The first sentence in this passage again appears to
+constitute general guidance for legacy cases (since damages had already been
+assessed in the present case). So far as the present case was concerned, the
+alternatives set out in the third sentence were either to adjourn further
+consideration of the appeal until after the inquest had been completed, or to
+allow the appeal without a decision on the merits, so that the proceedings were
+brought to an end and a further claim could be brought after the inquest. In
+the event, the resultant order stayed the proceedings until the conclusion of
+the inquest, as explained earlier.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Separate orders were made on 10 June 2017 in respect of the appeal and
+the cross-appeal. In relation to the appeal, the court ordered:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the claim for
+damages for breach of the article 2 procedural requirement that an inquest be
+conducted ‘promptly’ should not be brought until the inquest has finally been determined.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that where a claim for
+damages for breach of the article 2 procedural requirement that an inquest be
+conducted ‘promptly’ is brought within 12 months of the conclusion of the inquest,
+time should be extended under section 7(5)(b) of the 1998 Act [ie the Human
+Rights Act].</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the appeal be
+stayed until the conclusion of the inquest proceedings.”</p>
+
+<p class="ParaNoNumber">In relation to the cross-appeal, the court ordered:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the issue of delay
+at ground 7 on the cross-appeal be stayed until the conclusion of the inquest
+proceedings.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Paragraph 1 of the order in the appeal was consistent with the general
+guidance given in the judgment, and appeared to lay down a general rule that
+claims of the present kind should not be brought until an inquest has been
+concluded. It has no direct bearing on the present proceedings, where the claim
+was brought as long ago as 2013. Paragraph 2 addressed the implications of
+paragraph 1 in relation to the limitation period imposed by section 7(5). Only
+paragraph 3, and the order in the cross-appeal, directly concerned the present
+proceedings.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The decision of the Court of Appeal appears to have been understood as
+laying down a general rule that claims of the present kind could not be brought
+before the conclusion of an inquest, and that any claims which had been brought
+before that stage should be stayed until then.</a></p><a name="para19">
+
+<p class="ParaHeading">The present appeal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The present appeal was brought in order to challenge the general
+guidance given by the Court of Appeal, reflected in paragraph 1 of the order
+made in the appeal. The main issue in the appeal was agreed to be whether the
+Court of Appeal “was correct to rule that a victim adversely impacted by delay
+in the conduct of an inquest could not bring a claim for damages prior to the
+conclusion of the inquest”. The appellant sought to set aside “the judgment and
+order made by the Northern Ireland Court of Appeal whereby it decided that her
+claim for damages for breach of article 2 ECHR by reason of delay could only be
+brought after the conclusion of the inquest into her son’s death”.</a></p><a name="para20">
+
+<p class="ParaLevel1"><i>In re McCord’s application for Judicial Review</i></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>After the hearing of the present appeal, the Court of Appeal handed down
+judgment in another legacy case where the applicant had applied for leave to
+issue judicial review proceedings in which he sought a declaration that the
+non-disclosure of certain documents by the PSNI had caused delay in the holding
+of an inquest, in violation of his rights under article 2: <i>In re McCord’s application
+for Judicial Review, </i>unreported, 18 January 2019. The proceedings had been
+stayed by the High Court.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the course of its judgment, the Court of Appeal considered the
+judgment under appeal in the present proceedings (in its original version). It
+said at paras 21-22, in relation to para 27 of its original judgment in the
+present case (identical to para 22 of the revised version, cited at para 15
+above):</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“21.&nbsp;&nbsp;&nbsp;&nbsp; We accept that this
+passage created the impression that in every legacy case any application to
+pursue a remedy by way of damages for delay could only be dealt with at the end
+of the inquest. Indeed it is clear that that was the common understanding of
+the parties before the learned trial judge as a result of which the applicant
+decided to abandon the determination of his claim for damages in the
+proceedings and rely solely upon the claim for a declaration …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We consider, however,
+that this passage of the judgment ought to be interpreted in a rather more
+qualified manner. First, it has to be borne in mind that the court, having
+given the judgment in September 2015, decided of its own motion to relist the
+case for the determination of the damages claim in June 2017 having regard to
+the fact that the inquest had not yet concluded. Secondly, it needs to be borne
+in mind that this was a case management decision and was not intended to set
+forth any rule of law about the entitlement to damages in legacy cases. Thirdly,
+the case was concerned with circumstances in which there were active and
+ongoing inquest proceedings but where issues of delay in the course of those
+active proceedings arose. It was such cases that were being discussed in this
+passage of the judgment and we consider that the interpretation of para 27 [ie
+para 22 of the revised version] should be confined to cases in which those
+circumstances are present.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court observed at para 23 that the case before it was different:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The inquest in this case has not
+taken place. No Coroner has been allocated to hear it and no materials have
+been provided to the Coroner’s Service by the police. It is impossible to
+estimate how many years it might take before the inquest might proceed …”</p>
+
+<p class="ParaLevel1">In these circumstances the appeal was allowed.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the light of this judgment, it appears that the Court of Appeal
+intends the guidance given in the present case to be confined to cases where
+the only outstanding issue is damages and where an inquest can be expected to
+begin within the near future, if not already under way. The court also
+indicated in para 22 that the appropriateness of the stay should be kept under
+review, and that it should be lifted if the claim for damages will not
+otherwise be determined within a reasonable time.</a></p><a name="para24">
+
+<p class="ParaHeading">Discussion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In considering the guidance given by the Court of Appeal in the present
+case, as clarified in the case of <i>McCord, </i>it must be borne in mind at
+the outset that, in cases of the present kind, it is the delay itself which constitutes
+a breach of the claimant’s Convention rights and gives rise to a right to bring
+proceedings under the Human Rights Act. The breach does not crystallise only
+after the inquest has been concluded: the claimant is entitled to bring
+proceedings as soon as the delay reaches the requisite threshold under article 2.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Claims arising from such delay are brought under section 7(1)(a) of the
+Human Rights Act. That provision confers a statutory right on any person who
+claims that a public authority has acted in a way which is incompatible with a
+Convention right to bring proceedings against the authority, provided that he
+or she qualifies as a victim of the unlawful act and brings the proceedings
+within the time limits set by section 7(5). The court then has the power to
+grant appropriate relief under section 8. This may take the form of relief
+designed to end the delay, such as a mandatory order or declaration, or relief
+designed to compensate for the consequences of delay, in the form of an award
+of damages. In the present proceedings, both a declaration and damages were
+sought and awarded. The same remedies were also sought in the <i>McCord </i>case,
+although the claim for damages was abandoned in light of the guidance given in
+the present case.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>No court can take away the right conferred by section 7(1)(a), whether
+in the exercise of case management powers or otherwise. Leaving aside the
+court’s power to control vexatious litigants and abuses of process, which are
+not here in issue, there can be no question of anyone being prevented from bringing
+proceedings at a time of their choosing (subject to the limitation provision in
+section 7(5)) in respect of a claimed violation of their Convention rights.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the court cannot prevent proceedings from being brought by
+persons who claim that their Convention rights have been violated, it can
+exercise powers of case management in relation to those proceedings. Such
+powers can include ordering a stay of proceedings in appropriate circumstances.
+In that regard, however, three important aspects of Convention rights must be
+borne in mind.</a></p><a name="para28">
+
+<p class="ParaHeading">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rights that are practical and effective</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, the European Court has emphasised many times that Convention
+rights must be applied in a way which renders them practical and effective, not
+theoretical and illusory: see, for example, <i>Airey v Ireland </i>(1979) 2
+EHRR 305, para 24. The effectiveness of the right under article 2 to have an
+investigation into a death begin promptly and proceed with reasonable
+expedition could be gravely weakened if there were a general practice of
+staying proceedings seeking to secure the prompt holding of an inquest,
+typically by obtaining a mandatory order or a declaration. Although
+compensation might be payable at a later stage, the primary object of the
+Convention, and of the Human Rights Act, is to secure compliance with the
+Convention so far as possible, rather than to tolerate violations so long as
+compensation is eventually paid.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the other hand, a practice of staying the assessment of damages (as
+distinct from the consideration of remedies designed to end the delay) until
+the entirety of the delay can be considered is less likely to undermine the
+effectiveness of the right, since that is less likely to depend on the point in
+time at which damages are assessed and awarded. Nevertheless, it remains
+necessary to consider whether that might be the consequence of a stay in the
+individual case before the court.</a></p><a name="para30">
+
+<p class="ParaHeading">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Determination within a reasonable time</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, since the right conferred by section 7(1)(a) of the Human
+Rights Act is a civil right within the meaning of article 6 of the Convention,
+a claimant is entitled under that article to have his claim determined within a
+reasonable time. That right under article 6 is distinct from the article 2
+right on which the proceedings are based. A breach of the article 6 right is
+itself actionable under section 7(1)(a).</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The staying of proceedings will be unlawful if it results in a breach of
+the “reasonable time” guarantee in article 6. That would be a real possibility
+in some cases, if stays until after the completion of an inquest were ordered
+as a general rule. In the <i>McCord </i>case, the Court of Appeal observed that
+it was impossible to estimate how many years it might take before the inquest
+might proceed. In the proceedings brought by Hugh Jordan successfully
+challenging the verdict of the second inquest, the Lord Chief Justice remarked
+that “if the existing legacy inquests are to be brought to a conclusion under
+the present system someone could easily be hearing some of these cases in
+2040”: </a><a title="Link to BAILII version" href="/nie/cases/NICA/2014/76.html">[2014] NICA 76</a>, para 122. The state of affairs described in Sir Paul
+Girvan’s recent judgment <i>In re Hughes’ application for Judicial Review </i>is
+consistent with that assessment. Plainly, a stay of that duration, or anything
+like it, would constitute a breach of article 6.</p>
+
+<p class="ParaHeading">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The proportionality of a restriction on access
+to the courts</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, since a stay of proceedings prevents a claim from being pursued
+so long as it remains in place, it engages another aspect of article 6 of the
+Convention, namely the guarantee of an effective right of access to a court:
+see, for example, <em><span style="color:black">Woodhouse v Consignia plc </span></em><span style="color:black"></span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2002/275.html">[2002] EWCA Civ 275</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2002/275.html">[2002] 1 WLR 2558</a>. It must
+therefore pursue a legitimate aim, and there must be a reasonable relationship
+of proportionality between the means employed and the aim sought to be
+achieved: see <i>Tinnelly &amp; Sons Ltd v United Kingdom </i>(1998) 27 EHRR
+249, para 72. It follows that even in a case where a stay would not render the
+article 2 right ineffective or breach the “reasonable time” guarantee in
+article 6, it is nevertheless necessary to consider whether it would be a
+proportionate restriction of the right of access to a court. As will be
+explained, that exercise requires consideration of the circumstances of the
+individual case before the court.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So far as legitimate aims are concerned, the Court of Appeal mentioned
+two objectives: that a proliferation of litigation should be avoided, and that
+the court should be aware of all relevant circumstances when determining
+claims. Both of those aims are clearly legitimate. The court’s concern about a
+potential proliferation of litigation was based, as it explained, on
+uncertainty in the legal profession about the answers to certain questions
+affecting the limitation of claims: whether a separate violation of the article
+2 right to a prompt investigation, for which a separate claim arises, occurs on
+every occasion when a public authority is responsible for some measure of
+unjustified delay; and if so, whether such claims become time-barred under
+section 7(5)(a), subject to the court’s exercise of its discretion under
+section 7(5)(b), 12 months after each claim arises. How those questions should
+be answered has seemingly yet to be considered. If a suitable case were brought
+before the court for determination, that uncertainty could be resolved one way
+or the other. Until that occurs, however, the court’s concern that uncertainty
+may result in a proliferation of litigation is reasonable and constitutes an
+important consideration on one side of the scales.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In relation to the other legitimate aim, namely that the court should be
+aware of all relevant circumstances, the point made by the Court of Appeal was
+that it is only after an inquest has been completed that it is possible to
+determine whether adequate redress for delay requires an award of damages, and
+if so against which public authority and in which amount. Whether that is so
+depends on how damages are assessed. Hitherto, assessment has not depended on
+factors which can only be considered after an inquest. The possibility of
+assessing damages on a broadly conventional basis prior to the conclusion of an
+inquest is demonstrated by several judgments of the European Court in cases
+emanating from Northern Ireland, including its judgment in the <i>Jordan</i>
+case.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That is not to say, however, that there may not be good practical
+reasons for staying the proceedings, where the question arises of whether it is
+appropriate to award damages, and if so in what amount. Particularly in a
+situation where the court may have to decide claims against different public
+bodies in respect of the same or different periods of delay, deferring
+consideration of these issues until after the conclusion of an inquest may
+enable the court to consider all relevant periods of delay, and responsibility
+for them, at one and the same time. It is therefore another means of reducing the
+risk of an undue burden being placed on the courts by a proliferation of claims
+for damages (and potentially for contribution, depending on how the concept of
+joint and several liability applies in this context: another question which
+seemingly has yet to be considered). As indicated earlier, this is a relevant
+and significant factor to be weighed in the balance.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Whether a stay is proportionate depends on an assessment of the weight
+of the competing interests at stake in the circumstances of the particular
+case. The cogency of the arguments in favour of a stay will depend on the
+degree of risk that the proceedings may otherwise result in a proliferation of
+litigation, if that is the legitimate aim pursued. On the other side of the
+scales, the importance to the claimant of obtaining monetary redress for the
+violation of his or her Convention rights without avoidable delay has to be
+considered. In most cases the claimant is likely to be the widow, parent or
+child of the deceased, and may suffer anguish as decades pass without any
+adequate inquiry into the circumstances of the death, particularly where there
+are allegations of state involvement in the death (as in the present case), and
+of collusion and cover-up. The imposition of delay in the determination of
+their claim for damages may cause additional distress. There may be other
+factors in individual cases which make the expeditious determination of the
+claim particularly important. The present case, for example, illustrates the
+importance of expedition where proceedings are brought by claimants who are
+elderly or infirm. In striking an appropriate balance between the different
+interests at stake, the length of any stay will be of considerable importance.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is no doubt that there may be cases in which it is proportionate
+to impose a stay on a claim for damages in a legacy case, weighing the relevant
+factors for and against it. There is equally no doubt that there may be cases
+in which, weighing those factors, a stay is not proportionate. Since the relevant
+factors can differ in nature and weight from one case to another, it follows
+that courts should carry out the necessary balancing exercise in the individual
+case. A virtually automatic rule requiring all such claims to be stayed until
+after the inquest, regardless of their individual circumstances, would not
+comply with that requirement, and in addition, as previously explained, would
+result in breaches of the reasonable time requirement of article 6.</a></p><a name="para38">
+
+<p class="ParaHeading">The present case</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The guidance which the Court of Appeal was understood to have given in
+paras 21-23 of its judgment in the present case was not consistent with the
+foregoing principles. On its face, it involved no assessment of proportionality
+or consideration of individual circumstances. It was also liable to render the
+article 2 procedural right ineffective, and to result in breaches of the
+reasonable time guarantee. The clarification provided in the case of <i>McCord </i>has,
+however, considerably narrowed the apparent scope of that guidance, so as to
+confine it to cases where the only outstanding issue is damages and where an
+inquest can be expected to begin within the near future, if not already under
+way. The court also indicated that the appropriateness of the stay should be
+kept under review, and that it should be lifted if the claim for damages will
+not otherwise be determined within a reasonable time. Guidance to that effect
+is generally consistent with the principles discussed above, although it
+remains necessary to allow for the possibility of exceptions in individual
+cases.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The foregoing discussion has concerned the general guidance given by the
+Court of Appeal in the present case, and the reconsideration of that guidance
+in the case of <i>McCord</i>. So far as the present proceedings are concerned,
+the decision which is challenged was to stay the claim for damages until the
+inquest had been concluded. It has not been argued that the effect of that
+decision was to render the claimant’s article 2 right theoretical or illusory,
+or that there was a breach of the reasonable time requirement imposed by
+article 6. On the other hand, it does not appear from the judgment of the Court
+of Appeal that it carried out any assessment of the proportionality of the stay
+which it ordered. It is uncertain whether the court would have ordered the stay
+if such an assessment had been conducted, particularly if Mr Jordan’s ill
+health had been drawn to its attention.</a></p><a name="para40">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is impossible not to feel considerable sympathy for the serious
+practical difficulties which the courts in Northern Ireland face in dealing
+with legacy cases, and which prompted the guidance which was given in the
+present case and clarified in the case of <i>McCord</i>. As has been explained,
+the guidance as originally given was defective on its face, and the appellant was
+entirely justified in bringing this appeal in order to challenge it. The Court
+of Appeal has, however, recognised that the terms in which it expressed itself
+have caused difficulty, and it has resolved the problem in its <i>McCord </i>judgment,
+to which I would only add that it remains necessary to consider whether that
+general guidance should be applied in the circumstances of an individual case.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>So far as complaint is made about the order made in the present
+proceedings, this court would not normally question a case management decision.
+The decision in question was however taken without any evident consideration of
+its proportionality in the particular circumstances of this case. In addition,
+it is uncertain whether the Court of Appeal would have reached the same
+decision if the question of proportionality had been considered in the light of
+all the relevant facts, including the then claimant’s declining health. In
+these circumstances I would allow the appeal.</a></p><a name="para42">
+
+</a></div><a name="para42">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/9.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

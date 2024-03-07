@@ -1,0 +1,1010 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Ingenious Media Holdings plc &amp; Anor, R (on the application of)v Revenue and Customs [2016] UKSC 54 (19 October 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Ingenious Media Holdings plc &amp; Anor, R (on the application of)v Revenue and Customs [2016] UKSC 54 (19 October 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/54.html</i>
+<br>Cite as: 
+[2016] UKSC 54,
+
+[2017] 1 All ER 95,
+
+[2016] WLR(D) 540,
+
+[2016] 1 WLR 4164,
+
+[2016] BTC 41,
+
+[2016] STC 2306,
+
+[2016] STI 2746,
+
+[2016] WLR 4164
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/54.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+540">[2016] WLR(D) 540</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+1+WLR+4164">[2016] 1 WLR 4164</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/54(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 54</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/173.html">[2015] EWCA Civ 173</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">R (on the application of Ingenious Media Holdings plc
+and another) (Appellants) <i>v</i> Commissioners for Her Majesty’s Revenue and
+Customs (Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">19 October 2016</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 4 July 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:71.25pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Hugh Tomlinson QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jessica Simor QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Olswang LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">James Eadie QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">David Pievsky</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by HMRC
+  Solicitors Office)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD TOULSON: (<span style="text-transform:none">with whom
+Lady Hale, Lord Mance, Lord Kerr and Lord Reed agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the scope of the duty of confidentiality owed by
+Her Majesty’s Revenue and Customs (“HMRC”) in respect of the affairs of tax
+payers. The duty is now in statutory form.</a></p><a name="para1">
+
+<p class="ParaHeading">Commissioners for Revenue and Customs Act 2005</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 18 of the Act is headed “Confidentiality”. It provides (with
+emphasis added by me to highlight the important words):</a></p><a name="para2">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; <i>Revenue and Customs
+officials may not disclose information which is held by the Revenue and Customs
+in connection with a function of the Revenue and Customs.</i></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>But subsection (1)
+does not apply to a disclosure -</i></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt"><i>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which -</i></p>
+
+<p class="MsoQuote" style="margin-left:144.0pt"><i>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is made for the
+purposes of a function of the Revenue and Customs, and</i></p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; does not contravene
+any restriction imposed by the Commissioners,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is made in
+accordance with section 20 or 21,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is made for the
+purposes of civil proceedings (whether or not within the United Kingdom)
+relating to a matter in respect of which the Revenue and Customs have
+functions,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is made for the
+purposes of a criminal investigation or criminal proceedings (whether or not
+within the United Kingdom) relating to a matter in respect of which the Revenue
+and Customs have functions,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is made in
+pursuance of an order of a court,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is made to Her
+Majesty’s Inspectors of Constabulary, the Scottish inspectors or the Northern Ireland
+inspectors for the purpose of an inspection by virtue of section 27,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is made to the
+Independent Police Complaints Commission, or a person acting on its behalf, for
+the purpose of the exercise of a function by virtue of section 28, …</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is made with the
+consent of each person to whom the information relates, …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subsection (1) is
+subject to any other enactment permitting disclosure.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a reference to Revenue
+and Customs officials is a reference to any person who is or was -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt;text-indent:36.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a
+Commissioner,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt;text-indent:36.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an
+officer of Revenue and Customs,</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp; a person acting on
+behalf of the Commissioners or an officer of Revenue and Customs, or</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a member of a committee
+established by the Commissioners,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a reference to the Revenue
+and Customs has the same meaning as in section 17,</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>a reference to a
+function of the Revenue and Customs is a reference to a function of -</i></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt;text-indent:36.0pt"><i>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the
+Commissioners, or</i></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt;text-indent:36.0pt"><i>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an
+officer of Revenue and Customs,</i></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sections 20 and 21, which are referred to in section 18(2)(b), cover
+various situations where disclosure is authorised on public interest grounds,
+such as disclosure to another public body for the purposes of the prevention,
+detection or prosecution of crime.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 5 is headed “Commissioners’ initial functions”. It provides:</a></p><a name="para4">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The Commissioners shall
+be responsible for -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the collection and
+management of revenue for which the Commissioners of Inland Revenue were
+responsible before the commencement of this section, [and]</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the collection and
+management of revenue for which the Commissioners of Customs and Excise were
+responsible before the commencement of this section, …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 9 is headed “Ancillary powers”. It provides:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The Commissioners may do
+anything which they think -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; necessary or expedient
+in connection with the exercise of their functions, or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; incidental or conducive
+to the exercise of their functions.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 51 (headed “Interpretation”) defines “function” as meaning “any
+power or duty (including a power or duty that is ancillary to another power or
+duty)”.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 19 makes it a criminal offence for a person to contravene
+section 18(1) by disclosing revenue and customs information relating to a
+person whose identity is specified in or can be deduced from the disclosure,
+subject to a statutory defence if the defendant shows that he reasonably
+believed that the disclosure was lawful or that the information had already
+been lawfully made available to the public.</a></p><a name="para7">
+
+<p class="ParaHeading">Facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Patrick McKenna is a former senior partner of a global firm of
+chartered accountants. He is the founder and chief executive officer of
+Ingenious Media Holdings plc. The company and its subsidiaries (collectively
+“Ingenious Media”) are an investment and advisory group specialising in the
+media and entertainment industries. Among other things they have promoted film
+investment schemes involving film production partnerships. The schemes were
+devised by Mr McKenna and utilised certain tax relief which was then available.
+The marketing of the schemes stopped when the tax relief ceased to be
+available.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 14 June 2012 the Permanent Secretary for Tax in HMRC, Mr David
+Hartnett, gave an interview to two financial journalists from <i>The Times</i>.
+They had requested the meeting to discuss tax avoidance. The meeting was
+recorded and was agreed to be “off the record”.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 21 June 2012 <i>The Times </i>published two articles on the subject
+of film schemes and tax avoidance. They informed readers that:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Patrick McKenna … and … [X] … are
+the two main providers of film investments schemes in the UK.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">To the Revenue the two men
+represent a threat. HM Revenue and Customs believes that film schemes have
+enabled investors to avoid at least £5 billion in tax. Much of that sum, the
+Revenue says, is attached to schemes created by [X] or Mr McKenna.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Mr McKenna, 56, founder of
+Ingenious Media, is also involved in a long-running Revenue inquiry into three
+of his partnerships.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">‘He’s never left my radar,’ a
+senior Revenue official said of Mr McKenna. ‘He’s an urbane man, …, he’s a
+clever guy, he’s made a fortune, he’s a banker, but actually he’s a big risk
+for us so we would like to recover lots of the tax relief he’s generated for
+himself and other people. Are we winning? I would say, beginning to. I think
+we’ll clean up on film schemes over the next few years.’”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The “senior Revenue official” was Mr Hartnett. The words attributed to
+him are a direct quotation from the transcript of the interview, and Mr
+Hartnett was the source of the reference to £5 billion (although in the interview
+Mr Hartnett gave the figure “utterly off the record”). Mr Hartnett said other
+things which were not for quotation (and were not quoted), including a
+description of the film schemes as “scams for scumbags”. At the time of the
+interview, HMRC had not reached a formal decision whether to challenge their
+validity.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is no dispute that Mr Hartnett imparted information to <i>The
+Times</i> regarding the tax activities of Mr McKenna and Ingenious Media, and
+HMRC’s attitude towards them, derived from information held by HMRC about them.</a></p><a name="para12">
+
+<p class="ParaHeading">Mr Hartnett’s reasons for disclosure</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The reasons given by Mr Hartnett for what he said to the journalists
+about Mr McKenna and Ingenious were that it was generally in HMRC’s interests
+to try to establish good relations with the financial press; that they provided
+a way of emphasising to the general public HMRC’s views on elaborate tax
+avoidance schemes; and that Mr Hartnett thought that the journalists might have
+information of significant value to HMRC, which they might reveal as the
+dialogue continued, such as details of tax avoidance arrangements which the
+journalists had uncovered but were unknown to HMRC. Mr Hartnett emphasised that
+the interview was agreed to be off the record, and that he did not anticipate
+that his comments about Mr McKenna and Ingenious Media would be published.</a></p><a name="para13">
+
+<p class="ParaHeading">The claim</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The claim by Ingenious Media and Mr McKenna was brought by way of an
+application for judicial review, although in substance it was a straightforward
+claim for breach of a duty of confidentiality. The form in which the claim was
+brought appears to have influenced its perception by the courts below. At first
+instance, Sales J held that it was not appropriate for the court to approach Mr
+Hartnett’s decision to say what he said as if the court were the primary
+decision-maker: </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2013/3258.html">[2013] EWHC 3258 (Admin)</a>, para 40. The court, he held, could
+only intervene if satisfied that Mr Hartnett could not rationally take the view
+that speaking to the journalists as he did would assist HMRC in the exercise of
+its tax collection functions. Sales J emphasised, at para 50, that the
+rationality standard is a flexible one, which varies in the width of discretion
+allowed to a decision-maker according to the strength of the public interest
+and the strength of the interests of any individual affected by the decision to
+be taken. He laid stress on the fact that the disclosures made were limited and
+that the interview was agreed to be off the record. The disclosures made were,
+in his judgment, not irrational, were made for a legitimate purpose and were
+proportionate. In short, he approached the matter as a review on public law
+principles of an administrative act, and he dismissed the claim.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sales J’s judgment was upheld by the Court of Appeal in a judgment given
+by Sir Robin Jacob, with which Moore-Bick and Tomlinson LJJ agreed: </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/173.html">[2015] 1 WLR 3183</a>. Sir Robin rejected the claimants’ arguments that the disclosures made
+were not “in connection with a function” of HMRC, properly construed, and that
+the judge had adopted the wrong standard of review. As to the first argument,
+he held that a wide meaning should be given to section 18(2)(a)(i) (“…
+subsection (1) does not apply to a disclosure which is made for the purposes of
+a function of the Revenue and Customs”). As to the second argument, Sir Robin
+echoed Sales J’s holding that it was not for the court to “review all the facts
+de novo as though it were the primary decision maker” (para 46).</p>
+
+<p class="ParaHeading">Analysis</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>From the judgments below and the arguments in this court, three main
+issues emerge: what is the proper construction of the section 18(2)(a)(i) read
+with the other provisions of the Act; what is the proper approach of the court
+in judging the conduct of Mr Hartnett; and what is the significance of his
+understanding that his interview with the journalists was to be off the record?</a></p><a name="para16">
+
+<p class="ParaHeading">The interpretation of section 18</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Unfortunately the courts below were not referred (or were only scarcely
+referred) to the common law of confidentiality. The duty of confidentiality
+owed by HMRC to individual taxpayers is not something which sprang fresh from
+the mind of the legislative drafter. It is a well established principle of the
+law of confidentiality that where information of a personal or confidential
+nature is obtained or received in the exercise of a legal power or in
+furtherance of a public duty, the recipient will in general owe a duty to the
+person from whom it was received or to whom it relates not to use it for other
+purposes. The principle is sometimes referred to as the <i>Marcel</i>
+principle, after <i>Marcel v Commissioner of Police of the Metropolis</i> [1992]
+Ch 225. In relation to taxpayers, HMRC’s entitlement to receive and hold
+confidential information about a person or a company’s financial affairs is for
+the purpose of enabling it to assess and collect (or pay) what is properly due
+from (or to) the tax payer. In <i>R v Inland Revenue Comrs, Ex p National
+Federation of Self-Employed and Small Businesses Ltd</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1981/TC_55_133.html">[1982] AC 617</a>, 633,
+Lord Wilberforce said that “the whole system … involves that … matters relating
+to income tax are between the commissioners and the taxpayer concerned”, and
+that the “total confidentiality of assessments and of negotiations between
+individuals and the revenue is a vital element in the working of the system”.
+See also <i>Conway v Rimmer</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1968/2.html">[1968] AC 910</a>, 946 (Lord Reid); and <i>R v
+Inland Revenue Comrs, Ex p Preston</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1984/5.html">[1985] AC 835</a>, 864F (Lord Templeman).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>Marcel</i> principle may be overridden by explicit statutory
+provisions. In <i>In re Arrows Ltd (No 4)</i> [1995] 2 AC 75, 102, Lord
+Browne-Wilkinson said:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In my view, where information has
+been obtained under statutory powers the duty of confidence owed on the <i>Marcel</i>
+principle cannot operate so as to prevent the person obtaining the information
+from disclosing it to those persons to whom the statutory provisions either
+require or authorise him to make disclosure.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Subsections (2)(b) et seq of section 18 contain specific provisions
+permitting the disclosure of taxpayer information for various purposes other
+than HMRC’s primary function of revenue collection and management. What then is
+the proper interpretation of the far broader words of subsection (2)(a)(i)
+“disclosure … made for the purposes of a function” of HMRC? On HMRC’s
+interpretation, it would be hard to conceive a wider expression. By taking
+sections 5, 9 and 51(2) in combination, it is said to include anything which in
+the view of HMRC is necessary <i>or</i> expedient <i>or </i>incidental <i>or</i>
+conducive to <i>or</i> in connection with the exercise of the functions of the
+collection and management of revenue. If that is the right interpretation of
+subsection (2)(a)(i), it means that a number of the subsequently listed
+specific exceptions are otiose, including (c) and (d), which deal with
+disclosure for the purposes of civil or criminal proceedings relating to
+matters connected with customs and excise. Secondly, and more fundamentally, it
+means that the protection which would otherwise have been provided to the
+taxpayer by HMRC’s duty of confidentiality will have been very significantly
+eroded by words of the utmost vagueness.&nbsp; So to construe the words would run
+counter to the principle of construction known as the principle of legality,
+after Lord Hoffmann’s use of the term in <i>R v Secretary of State for the Home
+Office, Ex p Simms</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1999/33.html">[2000] 2 AC 115</a>, 131. He explained the principle as
+follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Fundamental rights cannot be
+overridden by general or ambiguous words. This is because there is too great a
+risk that the full implications of their unqualified meaning may have passed
+unnoticed in the democratic process. In the absence of express language or
+necessary implication to the contrary, the courts therefore presume that even
+the most general words were intended to be subject to the basic rights of the
+individual.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Hoffmann said that this presumption will apply “even” to the most
+general words, but I would say further that the more general the words, the
+harder it is likely to be to rebut the presumption.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A similar principle can be seen in the courts’ approach to the
+interpretation of powers delegated under a so-called Henry VIII clause. In <i>R
+(Public Law Project) v Lord Chancellor</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/39.html">[2016] 3 WLR 387</a>, para 26, Lord
+Neuberger of Abbotsbury PSC, with the agreement of the other members of the
+court, cited with approval the following passage in <i>Craies on Legislation</i>,
+10th ed (2012), edited by Daniel Greenberg, at para 1.3.11:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“as with all delegated powers the
+only rule for construction is to test each proposed exercise by reference to
+whether or not it is within the class of action that Parliament must have
+contemplated when delegating. Although Henry VIII powers are often cast in very
+wide terms, <i>the more general the words used by Parliament to delegate a
+power, the more likely it is that an exercise within the literal meaning of the
+words will nevertheless be outside the legislature’s contemplation</i>.”
+(Emphasis added)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To take the present case, the general principle of HMRC’s duty of
+confidentiality regarding individual tax payers’ affairs is long established. (In
+2011 Mr Hartnett articulated it when refusing to give any information to the
+House of Commons Public Accounts Committee about tax payers with whom HMRC had
+reached settlements.) In passing the 2005 Act, Parliament cannot be supposed to
+have envisaged that by section 18(2)(a)(i) it was authorising HMRC officials to
+discuss its views of individual taxpayers in off the record discussions,
+whenever officials thought that this would be expedient for some collateral
+purpose connected with its functions, such as developing HMRC’s relations with
+the press. If Parliament really intended to delegate to officials such a wide
+discretion, limited only by a rationality test, in place of the ordinary
+principles of confidentiality applicable to public bodies in respect of
+confidential or private information obtained under statutory powers or for a
+statutory purpose, it would have significantly emasculated the primary duty of
+confidentiality recognised in section 18(1).</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For those reasons section 18(2)(a)(i) requires to be interpreted more
+narrowly. I take section 18(1) to be intended to reflect the ordinary principle
+of taxpayer confidentiality referred to in<i> </i>para 17, to which section
+18(2)(a)(i) creates an exception by permitting disclosure to the extent
+reasonably necessary for HMRC to fulfil its primary function.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was argued by HMRC that despite being headed “Confidentiality”,
+section 18 is not confined to information which is in any real sense
+confidential, but is far wider in its scope. Therefore, it was argued, the
+exception contained in subsection (2)(a)(i) must be given a similarly expansive
+interpretation in order to avoid absurdity. In support of this argument HMRC
+relied on the wording of section 19, which makes it a criminal offence for an
+official to disclose revenue or customs information relating to an identifiable
+person, but provides a defence if the person charged proves that he reasonably
+believed that “the information had already and lawfully been made available to
+the public”. The creation of this defence showed, in HMRC’s submission, that
+section 18 was not essentially or only about protecting confidentiality,
+because it self-evidently extended to the disclosure of information which was
+already in the public domain.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This argument found favour with the Court of Appeal, but I do not
+consider that it bears the weight which HMRC seeks to put on it. The argument
+is too subtle, and it is open to other objections. It is well settled that
+information may be available to the public and yet not sufficiently widely
+known for all confidentiality in it to be destroyed. As Eady J put it in <i>McKennitt
+v Ash</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2005/3003.html">[2006] EMLR 10</a>, para 81, where information has been obtained in
+circumstances giving rise to a duty of confidentiality, “the protection of the
+law will not be withdrawn unless and until it is clear that a stage has been
+reached where there is no longer anything left to be protected”. Whether that
+stage has been reached may be a hard question on which reasonable people may
+disagree. It is a fallacy to suppose that because a defence to a criminal
+charge under section 19 is available to a person who reasonably believed the
+information to be available to the public, it must follow that Parliament
+intended section 18 to prohibit the disclosure of information of the most
+ordinary kind about which there could be no possible confidentiality. Moreover,
+even if section 18(1) has the wide scope suggested by HMRC (which it is not
+necessary to decide in this case), it does not follow that Parliament must be
+taken to have intended by subsection (2)(a)(i) to confer on officials a wide
+ranging discretion to disclose confidential information about the affairs of
+individual taxpayers.</p>
+
+<p class="ParaHeading">The court’s approach to review of HMRC’s conduct</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ordinarily it is a matter for the court to decide the question whether
+there has been a breach of a duty of confidentiality, applying established
+principles of law to its own judgment of the facts. Among other authorities,
+the point is well illustrated by the decision of the Court of Appeal in <i>W v
+Egdell</i> [1990] 1 Ch 359. The plaintiff was detained in a secure mental
+hospital, under a hospital order coupled with a restriction order, after
+pleading guilty to manslaughter on the grounds of diminished responsibility.
+The defendant, a consultant psychiatrist, was engaged on his behalf to prepare
+a report in connection with an intended application to a mental health review
+tribunal for his discharge. The defendant’s report presented a disturbing
+picture and it led to the withdrawal of the application. The defendant was
+nevertheless so concerned that matters in his report ought to be known to those
+responsible for the plaintiff’s care and discharge that he sent a copy of it to
+the medical director at the hospital, with a view to its onward transmission to
+the Home Office. The plaintiff sued the defendant for breach of his contractual
+duty of confidence. Dismissing the action, the trial judge held that the
+doctor’s duty of confidentiality did not bar him from disclosing the report to
+the hospital if the doctor judged the report to be relevant to his care, nor
+from disclosing it to the Home Secretary if the doctor judged the report to be
+relevant to the exercise of the Home Secretary’s discretionary powers. The
+Court of Appeal upheld the judge’s decision but not his approach. Bingham LJ
+said, at p 422, that the answer to the question whether the doctor’s disclosure
+was justified “must turn not on what the doctor thinks but on what the court
+rules”. He added that it did not follow that the doctor’s conclusion was
+irrelevant; in making its ruling the court would give such weight to the
+doctor’s considered judgment as seemed in all the circumstances to be
+appropriate.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The same principle applies whether or not the duty of confidentiality is
+contractual. It applies equally where the person or body owing a duty of
+confidentiality holds a public office or is a public body or is performing a
+public function, subject to any contrary statutory provision.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is a cardinal error to suppose that the public law remedies and
+principles associated with judicial review of the exercise of administrative
+power, developed by the common law from the ancient prerogative writs, occupy
+the entire field whenever the party whose conduct is under challenge holds a
+public position. It is important to emphasise that public bodies are not immune
+from the ordinary application of the common law, including in this case the law
+of confidentiality. The common law is multi-faceted and remains the bedrock of
+the English legal system.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Having rejected the view that section 18(2)(a)(i) should be interpreted
+as making the disclosure of information about individual taxpayers a matter for
+the discretion of HMRC officials, subject only to a rationality control, I
+disagree with the view of the lower courts that it was not for them to approach
+the disclosures made by Mr Hartnett as if they were primary decision makers. In
+accordance with ordinary principles, the question of breach of confidentiality
+is one for the court’s judgment.</a></p><a name="para29">
+
+<p class="ParaHeading">“Off the record”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>“Off the record” is an idiom and like many idioms can bear different
+shades of meaning. It may, for example, be intended to mean “strictly confidential”
+or it may be intended to mean “not to be directly quoted or attributed”. The
+judge found that Mr Hartnett understood it to mean that the interview was to be
+a “background briefing”, intended to influence the journalists’ views and what
+they wrote about matters affecting HMRC but not to be published. There has been
+no appeal against that finding, but nothing in my view turns on what precisely
+Mr Hartnett intended.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As a matter of principle, a disclosure of confidential information may
+sometimes be permissible on a restricted basis. (In the case of <i>W v Egdell</i>,
+previously cited, the doctor was lawfully justified in passing on his report to
+those who had responsibility for the plaintiff’s care, whereas it would not
+have been lawful to pass it to someone who had no such responsibility.) But an
+impermissible disclosure of confidential information is no less impermissible
+just because the information is passed on in confidence; every schoolchild
+knows that this is how secrets get passed on. The references by the courts
+below to the nature of the interview leave me in some doubt whether they had a
+clear regard for the distinction.</a></p><a name="para31">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The information supplied by Mr Hartnett to the journalists about Mr
+McKenna and Ingenious Media was information of a confidential nature, in
+respect of which HMRC owed a duty of confidentiality to them under section
+18(1). It was limited in scope, but it was not insignificant, as is evident
+from the use made of it in the articles which followed the interview.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the time of the interview the tax consequences of the film schemes
+discussed in it were under consideration by HMRC. The schemes themselves were
+things of the past. It is not suggested that the disclosures made by Mr
+Hartnett were reasonably necessary for the purpose of HMRC’s investigations
+into the schemes.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to the justifications put forward by HMRC, a general desire to foster
+good relations with the media or to publicise HMRC’s views about elaborate tax
+avoidance schemes cannot possibly justify a senior or any other official of
+HMRC discussing the affairs of individual tax payers with journalists. The
+further suggestion that the conversation might have led to the journalists
+telling Mr Hartnett about other tax avoidance schemes, of which HMRC knew
+nothing, appears to have been no more than speculation, and is far too tenuous
+to justify giving confidential information to them.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fact that Mr Hartnett did not anticipate his comments being reported
+is in itself no justification for making them. The whole idea of HMRC officials
+supplying confidential information about individuals to the media on a
+non-attributable basis is, or should be, a matter of serious concern. I would
+not seek to lay down a rule that it can never be justified, because “never say
+never” is a generally sound maxim. It is possible, for example, to imagine a
+case where HMRC officials might be engaged in an anti-smuggling operation which
+might be in danger of being wrecked by journalistic investigations and where
+for operational reasons HMRC might judge it necessary to take the press into
+its confidence, but such cases should be exceptional.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would reject the argument that the disclosure was justified under
+section 18(2)(a), allow the appeal and invite the parties’ written submissions
+as to the appropriate form of order.</a></p><a name="para36">
+
+</a></div><a name="para36">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/54.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

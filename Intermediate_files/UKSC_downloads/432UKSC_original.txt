@@ -1,0 +1,865 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Knauer v Ministry of Justice  [2016] UKSC 9 (24 February 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Knauer v Ministry of Justice  [2016] UKSC 9 (24 February 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/9.html</i>
+<br>Cite as: 
+[2016] 4 All ER 897,
+
+(2016) 150 BMLR 16,
+
+[2016] 2 WLR 672,
+
+[2016] PIQR P10,
+
+150 BMLR 16,
+
+[2016] WLR(D) 103,
+
+[2016] UKSC 9,
+
+[2016] AC 908
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/9.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+AC+908">[2016] AC 908</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+103">[2016] WLR(D) 103</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+2+WLR+672">[2016] 2 WLR 672</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/9(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 9</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2014/2553.html">[2014] EWHC 2553 (QB)</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:4.0pt"><span style="font-size:20.0pt">Knauer (Widower and Administrator of the Estate of
+Sally Ann Knauer) (Appellant) <i>v</i> Ministry of Justice (Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">24 February 2016</span></b></p>
+
+<p class="MsoNormal" style="margin-left:288.0pt;text-indent:-288.0pt">&nbsp;</p>
+
+<p class="MsoNormal" style="margin-left:288.0pt;text-indent:-288.0pt">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 28 January 2016</span></b></p>
+
+</center></div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p> 
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:99.75pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Frank Burton QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Harry Steinberg</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Niall Maclean</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Charles Lucas &amp; Marshall)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:99.75pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Gerard McDermott QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Tom Poole</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">LORD NEUBERGeR AND LADY HALE: <span style="text-transform:
+none">(with whom Lord Mance, Lord Clarke, Lord Reed, Lord Toulson and Lord
+Hodge agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is the aim of an award of damages in the law of tort, so far as
+possible, to place the person who has been harmed by the wrongful acts of
+another in the position in which he or she would have been had the harm not
+been done: full compensation, no more but certainly no less. Of course, there
+are some harms which no amount of money can properly redress, and these include
+the loss of a wife or husband. There are also harms which it is difficult to
+assess, especially those which will be suffered in the future, but the
+principle of full compensation is clear. The issue in this case is whether the
+current approach to assessing the financial losses suffered by the dependant of
+a person who is wrongfully killed properly reflects the fundamental principle
+of full compensation, and if it does not whether we should depart from previous
+decisions of the House of Lords.</a></p><a name="para1">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant is the widower of Mrs Knauer, who died from mesothelioma
+in August 2009 at the age of 46. It is now accepted that she contracted the
+disease as a result of exposure to asbestos during the course of her employment
+by the respondent as an administrative assistant at Her Majesty’s Prison, Guy’s
+Marsh. The respondent had initially denied such exposure but liability was
+eventually admitted in December 2013, when judgment was entered for the
+appellant with damages to be assessed.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The damages hearing took place before Bean J in July 2014. Many items of
+damage were agreed and he resolved those which remained in issue. This included
+the annual figure for the value of the income and services lost as a result of
+her death (the “multiplicand”). There is no appeal against any of those
+findings. The issue is whether the number of years by which that figure is to
+be multiplied (the “multiplier”) is to be calculated from the date of death or
+from the date of trial. The parties are agreed that in this case the difference
+between the two approaches is £52,808.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The trial judge held (as had Nelson J in <i>White v ESAB Group (UK) Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2001/453.html">[2002] PIQR Q6</a>) that he was bound to follow the approach adopted by the House of Lords
+in <i>Cookson v Knowles </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1978/3.html">[1979] AC 556</a> and <i>Graham v Dodds </i>[1983] 1
+WLR 808 and to calculate the multiplier from the date of death. Freed from that
+authority, however, he would have preferred the approach which had been
+recommended by the Law Commission, in their report on <i>Claims for Wrongful
+Death </i>(1999) (Law Com No 263), <a title="Link to BAILII version" href="/ew/other/EWLC/1999/263.html">[1999] EWLC 263</a>, of calculating the multiplier from the date
+of trial. He granted a certificate under section 12 of the Administration of
+Justice Act 1969 to enable the case to come directly to this court, leapfrogging
+the Court of Appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue of principle which this court is asked to decide is whether
+the date of death or the date of trial is the proper approach. But if the
+answer to that question is the date of trial then the subsidiary issue is
+whether it is open to or proper for this court to depart from the approach laid
+down by Lord Diplock and Lord Fraser of Tullybelton in <i>Cookson v Knowles </i>and
+by Lord Bridge of Harwich in <i>Graham v Dodds</i> or whether the defect in the
+present law is one which should be left to Parliament to cure.</a></p><a name="para5">
+
+<p class="ParaHeading">The principle</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Gerard McDermott QC, who appeared for the respondent, very properly
+conceded that the appellant’s case on the issue of principle was a good one.
+The normal approach is to calculate the losses up to the date of trial and
+award a lump sum in respect of those. Future losses are calculated on the
+multiplier/multiplicand approach. The multiplier reflects the normal life
+expectancy of the victim, based on actuarial tables which include a discount to
+take account of the risk of an earlier death (frequently referred to as “the
+vicissitudes of life”). But there is also a discount to reflect the value to
+the claimant of receiving a lump sum now to cater for future losses which would
+have been suffered over a number of years in the future. Without such a
+discount, there would be over-compensation. The object is that, at the end of
+the period in question, the damages will have been exhausted in compensating
+the victim. The victim should not gain a profit from the compensation. That is
+the way in which damages for personal injury falling short of death are
+assessed.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Calculating damages for loss of dependency upon the deceased from the
+date of death, rather than from the date of trial, means that the claimant is
+suffering a discount for early receipt of the money when in fact that money
+will not be received until after trial. The appellant accepts that the sum
+calculated to reflect the loss which has been suffered up to the date of trial
+should contain a discount to reflect the risk that, had there been no tort, the
+deceased might have died between her actual date of death and the date of
+trial. There may also be a risk that the support or services provided for a
+dependant might have stopped or reduced, for example because of the deceased’s
+accident, illness or loss of job or the dependency ceasing, for example because
+a child grows up. In most cases any discount would be a modest one, although of
+course there will be cases in which the risk was far from negligible and where
+a larger discount would be appropriate. But, as the figures in this case show,
+the effect of the discount for the non-existent early receipt of the money is
+far from negligible. It results in under-compensation in most cases.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This has become clear now that the calculation of financial losses is
+based upon the actuarial tables produced by the Ogden Working Party. The
+current approach in fatal accident cases involves taking a multiplier as at the
+date of death and then deducting from it the time which has elapsed between the
+death and the trial. This is to mix up a calculation based on properly
+considered actuarial principles with an arbitrary arithmetical deduction. As
+Hooper LJ confessed in <i>Fletcher v A Train and Sons Ltd</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2008/413.html">[2008] EWCA Civ 413</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2008/413.html">[2008] 4 All ER 699</a>, para 42, “I do not understand why chronological years
+are deducted from the multiplier”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The trial judge in that case had awarded interest on the whole sum, in
+order to make up for the under-compensation, an approach which the Court of
+Appeal had to overturn. There have been other examples of courts seeking to get
+round the problem by adopting a distorted approach: see <i>ATH v MS </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2002/792.html">[2003] QB 965</a> and <i>Corbett v Barking, Havering and Brentwood Health Authority </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1990/15.html">[1991] 2 QB 408</a>. The temptation to react to a rule which appears to produce an unjust
+result by adopting artificial or distorted approaches should be resisted: it is
+better to adopt a rule which produces a just result.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Law Commission, in their report on <i>Claims for Wrongful Death</i>,
+said this:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“4.7  In the majority of cases
+it is the life expectancy of the deceased, and hence the period for which he or
+she would have continued to provide benefits to any dependants, which will
+govern the multiplier. It was in this context that the ‘date of death’ rule was
+adopted, on the basis that ‘everything that might have happened to the deceased
+after that date remains uncertain’.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">4.8  It is true that where
+the multiplier is controlled by the life expectancy of the deceased, the only
+information which will usually be relevant to that calculation is that which
+was known about the deceased at the time of death. On the other hand, it is
+possible to imagine facts on which matters emerging as certain after the
+deceased’s death do affect the period for which it is estimated that he or she
+would<span style="font-size:10.0pt"> </span>have continued to provide benefits.
+For example, the deceased might have suffered from a life-shortening medical
+condition which could not be treated in his or her lifetime. If by the time of
+trial it is known that, within a year of his death, a treatment for the
+condition had been developed, this would inevitably affect the accuracy of any
+multiplier calculated at the date of death. Thus, even in cases where the <i>deceased’s</i>
+life expectancy controls the multiplier, we do not agree with Lord Fraser’s
+assertion that the multiplier should inevitably be selected ‘once and for all’
+as at the date of death.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>They recommended that, as in personal injury cases, actuarially
+calculated multipliers should be used for calculating future losses in fatal
+accident cases from the date of trial. For pre-trial losses the only difference
+from non-fatal cases would be that there would have to be a small deduction to
+take account of the possibility that the deceased might in any event have died
+or given up work before trial (para 4.17). They expressed this policy, not in
+the simple proposition that the multiplier should be calculated from trial, not
+death, but more precisely as “a multiplier which has been discounted for the
+early receipt of the damages shall only be used in the calculation of
+post-trial losses” (para 4.18). They also recommended that the Ogden Working
+Party should consider, and explain more fully, how the existing tables should
+be used, or amended to produce accurate assessments of damages in fatal
+accident cases, based upon their preferred approach (para 4.23).</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If this is now so obvious, why did the House of Lords reach a different
+conclusion in <i>Cookson v Knowles </i>and<i> Graham v Dodds</i>? The short
+answer is that both cases were decided in a different era, when the calculation
+of damages for personal injury and death was nothing like as sophisticated as
+it now is. In particular, the courts discouraged the use of actuarial tables or
+actuarial evidence as the basis of assessment, on the ground that they would
+give “a false appearance of accuracy and precision in a sphere where
+conjectural estimates have to play a large part”. Hence “[t]he experience of
+practitioners and judges in applying the normal method is the best primary basis
+for making assessments”: Lord Pearson in <i>Taylor v O’Connor </i>[1971] AC
+115, 140. Rather like the assessment of the “tariff” in criminal cases, the
+answer lay in the intuition of the barristers and judges who appeared in these
+cases. This was wholly unscientific. Counsel in the current case were agreed
+that, when they started at the Bar, the conventional approach to deciding upon
+the multiplier was to halve the victim’s life expectancy and add one year, with
+a maximum of 16 to 18 years. This is an approach which depends upon “being in
+the know” rather than reality.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Cookson v Knowles </i>the main issue was whether interest should
+have been awarded on the whole sum of damages awarded, as the trial judge had
+done. Both the Court of Appeal and the House of Lords held that it should not.
+The damages should be split into pre-trial and post-trial losses and interest
+(at half rate) should be awarded on the former but not on the latter. Lord
+Fraser also dealt with the date from which the multiplier should be calculated
+and held that, in a fatal accident case, it should be the date of death,
+whereas in a non-fatal personal injury case, it was the date of trial. He
+justified the distinction on this basis at p 576:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In a personal injury case, if the
+injured person has survived until the date of trial, that is a known fact and
+the multiplier appropriate to the length of his future working life has to be
+ascertained as at the date of trial. But in a fatal accident case the
+multiplier must be selected once and for all as at the date of death, because
+everything that might have happened to the deceased after that date remains
+uncertain.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It seems clear that he was thinking of the multiplier in terms of taking
+account of the vicissitudes of life rather than in terms of accelerated
+receipt. The only other substantial speech was that of Lord Diplock, who did
+not question the propriety of assessing the multiplier as at the date of death
+(although for the purpose of awarding interest, it had to be divided into the
+pre- and post-trial periods).</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Graham v Dodds</i>, the majority of the Court of Appeal in
+Northern Ireland took the view that Lord Diplock and Lord Fraser had expressed
+“opposite and irreconcilable opinions” (p 814), Lord Diplock favouring the date
+of trial and Lord Fraser the date of death. The court preferred what they took
+to be Lord Diplock’s view. In the House of Lords, Lord Bridge (with whom all
+the other members of the appellate committee, including Lord Diplock, agreed)
+held that Lord Fraser and Lord Diplock had not disagreed. Lord Bridge agreed
+with the reason given by Lord Fraser for distinguishing between fatal and
+non-fatal cases and added that choosing the later date “would lead to the
+highly undesirable anomaly that in fatal accident cases the longer the trial of
+the dependants’ claims could be delayed the more they would eventually recover”
+(p 815). Once again, the emphasis was on the uncertainties of life, the
+difficulty of knowing what would have happened to the deceased between death
+and the date of trial, and not upon the question of accelerated payment.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Ogden Tables did not exist when these two cases were decided. The
+working party under the chairmanship of Sir Michael Ogden QC produced the first
+edition of <i>Actuarial Tables with Explanatory Notes for use in Personal
+Injury and Fatal Accident Cases</i> in 1984. Since then they have become a
+staple of personal injury and fatal accidents practice, the current edition
+being the 7th in 2011. Any doubts about using them in the courts were laid to
+rest in the landmark case of <i>Wells v Wells </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1998/27.html">[1999] 1 AC 345</a>, where Lord
+Lloyd of Berwick said this at p 379F-G:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I do not suggest that the judge
+should be a slave to the tables. There may well be special factors in
+particular cases. But the tables should now be regarded as the starting-point,
+rather than a check. A judge should be slow to depart from the relevant
+actuarial multiplier on impressionistic grounds, or by reference to ‘a spread
+of multipliers in comparable cases’ especially when the multipliers were fixed
+before actuarial tables were widely used.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Following publication of the Law Commission’s report, the tables have
+included fatal accident calculations based on the Law Commission’s recommended
+approach, although at present they cannot be used. Of the two reasons given by
+Lord Bridge for the present approach, it is now clear that there is a perfectly
+sensible way of addressing his uncertainty point, which would remove the
+current distinction between fatal and non-fatal cases. The twin brothers
+mentioned in argument in <i>Cookson v Knowles</i>, one of whom was injured and
+the other of whom was killed in the same accident, would both be dealt with in
+the same way.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If his first concern can thus be dealt with, his second concern, any
+incentive for claimants to delay the trial, is a little harder to understand.
+If it were valid, it would apply equally to non-fatal personal injury claims.
+Further, if the present approach leads to under-compensation, it could be said
+that it creates an incentive for defendants to delay the trial. The reality is
+that this is another respect in which the litigation landscape has been
+transformed since 1984. Under the Civil Procedure Rules 1998, the court is now
+in a position to set timetables and insist that parties keep to them. In any
+event, the proper use of the Ogden Tables makes the concern irrelevant. The
+dependants will get that which reflects their probable loss on an actuarial
+calculation based on the facts known at the date of trial. There is no
+injustice either way.</a></p><a name="para18">
+
+<p class="ParaHeading">Departing from previous House of Lords decisions</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question for us is not simply the identification of the date as at
+which the multiplier should be assessed. Before we can decide that that date
+should be the date of trial rather than the date of death, we also have to be
+satisfied that we should depart from the established law as laid down by the
+House of Lords in <i>Cookson v Knowles </i>and <i>Graham v Dodds</i>.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the appellant, Mr Frank Burton QC contended that a determination
+that the appropriate date is the trial date would not involve a departure from
+those previous decisions, and therefore did not require the appellant to rely
+on the <i>Practice Statement (Judicial Precedent)</i> [1966] 1 WLR 1234,
+whereby the House of Lords declared that it could depart from its previous
+decisions. This contention rested on the basis that we are merely being asked
+by the appellant to change a judicial guideline, rather than to depart from any
+earlier decision. We do not accept that contention, which appears to fly in the
+face of the reasons given by Lord Bridge for reaching the conclusion which he
+did in <i>Graham v Dodds</i>. He stated that the selection of the date of trial
+date would be “clearly contrary to principle” and would give rise to a “highly
+undesirable anomaly” (p 815). However much we may doubt those observations for
+the reasons already given, they demonstrate that he was deciding the issue as a
+matter of legal principle, and not merely giving non-binding guidance.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Furthermore, it is important not to undermine the role of precedent in
+the common law. Even though it appears clear that both the reasoning and
+conclusion on the point at issue in <i>Cookson v Knowles </i>and <i>Graham v
+Dodds</i> were flawed, at least in the light of current practice, it is
+important that litigants and their advisers know, as surely as possible, what
+the law is. Particularly at a time when the cost of litigating can be very
+substantial, certainty and consistency are very precious commodities in the
+law. If it is too easy for lower courts to depart from the reasoning of more
+senior courts, then certainty of outcome and consistency of treatment will be
+diminished, which would be detrimental to the rule of law.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In our view, therefore, the issue is whether this is a case where this
+Court should apply the 1966<i> Practice Statement</i>. In that connection, it
+is well established that this Court should not refuse to follow an earlier
+decision of this Court or the House of Lords merely because we would have
+decided it differently - see per Lord Bingham of Cornhill in <i>Horton v Sadler
+</i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2006/27.html">[2007] 1 AC 307</a>, para 29. More than that is required, not least because of
+the desirability of certainty in the law, as just discussed. However, as Lord
+Bingham said in the same passage, while “former decisions of the House are
+normally binding … too rigid adherence to precedent may lead to injustice in a
+particular case and unduly restrict the development of the law”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This Court should be very circumspect before accepting an invitation to
+invoke the 1966<i> Practice Statement</i>. However, we have no hesitation in
+concluding that we ought to do so in the present case. At least in the current
+legal climate, the application of the reasoning in the two House of Lords
+decisions on the point at issue is illogical and their application also results
+in unfair outcomes. Further, this has encouraged “courts … to distinguish them
+on inadequate grounds” (to quote Lord Hoffmann in <i>A v Hoare </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2008/6.html">[2008] AC 844</a>, para 25), which means that certainty and consistency are being undermined.
+Above all, the fact that there has been a material change in the relevant legal
+landscape since the earlier decisions, namely the decision in <i>Wells v Wells </i>and
+the adoption of the Ogden Tables, when taken with the other factors just
+mentioned, gives rise to an overwhelming case for changing the law.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As already noted, Mr McDermott very fairly acknowledged the strength of
+the appellant’s case for a change of approach. His only substantive answer to
+the contention that we should change the law was to point out that the system
+should be seen as a whole and that there are respects in which the current
+legislation requires that claimants be over-compensated. One example is section
+3(3) of the Fatal Accidents Act 1976, which requires the court to ignore, not
+only the prospect but the actual remarriage of the claimant, but another is
+section 4, which requires that benefits which will or may accrue to any person
+as a result of the death shall be disregarded.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These are, of course, examples of over-compensation. They result from
+legislative choices and not (unlike the principles with we are concerned in
+this case) from judicial decisions. The Law Commission recommended that they be
+modified by legislation. But none of this is an answer to the basic question
+under consideration here. The present claimant should not be deprived of the
+compensation to which on ordinary principles he would be entitled because some
+other claimants, as a result of understandable legislative choices made by
+Parliament, receive more than they would receive on those ordinary principles.
+It would be wrong to preserve what is now known to be a flawed practice
+affecting most claimants in order to counteract those choices. Because those matters
+are dealt with in the 1976 Act itself, the solutions must lie with Parliament.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, it was also suggested that, rather than this Court changing the
+law, we should leave it to the legislature to do so (as has happened in
+Scotland, where the Scottish Parliament has enacted section 7(1)(d) of the
+Damages (Scotland) Act 2011, following the recommendation of the Scottish Law
+Commission in their <i>Report on Damages for Wrongful Death</i> (2008) (Scot
+Law Com No 213), </a><a title="Link to BAILII version" href="/scot/other/SLC/Report/2008/213.html">[2008] SLC 213 (Report)</a>, to the effect that the multiplier should be fixed as at the
+date of trial). We would reject that suggestion. The current law on the issue
+we are being asked to resolve was made by judges, and, if it is shown to suffer
+from the defects identified above, then, unless there is a good reason to the contrary,
+it should be corrected or brought up to date by judges. That is, after all, the
+primary principle which lies behind the 1966<i> Practice Statement</i>. Of
+course, there may be cases where any proposed change in the law is so complex,
+or carries with it potential injustices or wider implications that the matter
+is better left to the legislature, but this is not such a case. Furthermore, in
+England and Wales, questions relating to the assessment of damages are and
+always have been very much for the courts, rather than for the legislature
+(although there are exceptions, to which we have already alluded). In relation
+to the point at issue on this appeal, that was recognised by the Law Commission
+in paras 4.19-4.22 of their 1999 report, where it is said that “legislation is
+probably neither necessary nor appropriate” to change the law on this point, on
+the ground that there was “room for judicial manoeuvre without legislation”.</p>
+
+<p class="ParaLevel1"><i>Conclusion</i></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons, we would allow this appeal, and refuse to follow <i>Cookson
+v Knowles </i>and<i> Graham v Dodds</i>, on the basis that the correct date as
+at which to assess the multiplier when fixing damages for future loss in claims
+under the Fatal Accidents Act 1976 should be the date of trial and not the date
+of death.</a></p><a name="para27">
+
+</a></div><a name="para27">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/9.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</div></body></html>

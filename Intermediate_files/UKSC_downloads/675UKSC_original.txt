@@ -1,0 +1,1408 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>London Borough of Lambeth v Secretary of State for Housing, Communities and Local Government and others  [2019] UKSC 33 (3 July 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      London Borough of Lambeth v Secretary of State for Housing, Communities and Local Government and others  [2019] UKSC 33 (3 July 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/33.html</i>
+<br>Cite as: 
+[2019] WLR 4317,
+
+[2019] UKSC 33,
+
+[2019] 1 WLR 4317,
+
+[2019] 4 All ER 981,
+
+[2020] JPL 31,
+
+[2019] PTSR 1388,
+
+[2019] 2 P &amp; CR 18
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/33.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2017000120/casereport_9d8f3dbc-69ad-4982-b453-1d0096b9526a/html">[2019] PTSR 1388</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2017000120/casereport_b153e78a-cc2e-48d9-8640-9e8e0d068ca9/html">[2019] 1 WLR 4317</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/33.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Trinity
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 33</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/844.html">[2018] EWCA Civ 844</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">London
+  Borough of Lambeth (Appellant) <i>v</i> Secretary of State for Housing,
+  Communities and Local Government and others (Respondents)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed, Deputy President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">3 July 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 21 May 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="width:467.8pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><a name="_Hlk8897683"><i>Appellant</i></a></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="245" valign="top" style="width:183.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>First Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Matthew Reed QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="245" valign="top" style="width:183.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Daniel Kolinsky QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Matthew Henderson</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="245" valign="top" style="width:183.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Sasha Blackmore</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Lambeth
+  Legal Services)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="245" valign="top" style="width:183.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="633" style="width:474.9pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="254" valign="top" style="width:190.5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Third Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="254" valign="top" style="width:190.5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Christopher
+  Lockhart-Mummery QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="254" valign="top" style="width:190.5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Yaaser Vanderman</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="254" valign="top" style="width:190.5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Freeths LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b>Respondents:</b></p>
+
+<p class="MsoNormal">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secretary of State for Housing, Communities and
+Local Government</p>
+
+<p class="MsoNormal">[(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aberdeen Asset Management]</p>
+
+<p class="MsoNormal">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nottinghamshire County Council</p>
+
+<p class="MsoNormal">[(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HHGL Ltd]</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="NewSpeech">LORD CARNWATH: (<span style="text-transform:none">with whom
+Lord Reed, Lady Black, Lord Lloyd-Jones and Lord Briggs agree)</span></p>
+
+<p class="ParaHeading"><b>Introduction</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the permitted uses of a retail store in Streatham
+in the area of the London Borough of Lambeth (“the Council”). Planning
+permission was originally granted by the Secretary of State in 1985, but the
+use was limited by condition to sale of DIY goods and other specified
+categories, not including food sales. Following implementation, the permitted
+categories were extended by later consents (under section 73 of the Town and
+Country Planning Act 1990), the most recent being in 2014 (“the 2014
+permission”), which is in issue in this case. The second respondent sought a
+certificate from the Council determining that the lawful use of the store
+extended to sales of unlimited categories of goods including food. A
+certificate to that effect was refused by the Council, but granted by a
+planning inspector on appeal, and upheld by the lower courts. The Council, as
+local planning authority, appeals to this court.</a></p><a name="para1">
+
+<p class="ParaHeading"><b>The planning history in more detail</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The original permission, granted by the Secretary of State on 17
+September 1985 (“the 1985 permission”), was subject to a number of conditions,
+including:</a></p><a name="para2">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The retail unit hereby
+permitted shall be used for the retailing of goods for DIY home and garden
+improvements and car maintenance, building materials and builders’ merchants
+goods and for no other purpose (including any other purpose in Class I of the
+Schedule to the Town and Country Planning (Use Classes) Order 1972 or in any
+provision equivalent to that Class in any statutory instrument revoking and
+re-enacting that Order).”</p>
+
+<p class="ParaNoNumber">The exclusion of use for other purposes, including those
+within Use Class 1, had the effect of excluding (inter alia) food sales. The
+following reason was given in the decision letter (para 16):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Because the traffic generation
+and car parking requirements of certain types of large retail stores are
+substantially greater than those of the DIY unit proposed and could be
+excessive at this site, it is necessary to restrict the right to change to
+other types of retail unit …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 30 June 2010, the Council granted a further planning permission (“the
+2010 permission”) expressed to be for “Variation of Condition 6” of the 1985
+permission to “allow for the sale of a wider range of goods” as specified, not
+including food sales, and again excluding other uses within the relevant use
+class (now Class A1). Although it is common ground that this permission was
+granted under section 73, there was no specific reference to that section in
+the document, which referred simply to the 1990 Act. This permission included,
+as a separate condition 1, the same enumeration of permitted uses and
+exclusions as in the terms of the grant, and the following reason was given for
+the condition:</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In order to ensure that the level
+of traffic generation is such as to minimise danger, obstruction and
+inconvenience to users of the highway and of the accesses.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There were in addition two new conditions which had not been in the 1985
+permission:</a></p><a name="para4">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Details of refuse and
+recycling storage to serve the development shall be submitted to and approved
+in writing by the Local Planning Authority prior to first commencement of any
+of the additional retail uses hereby permitted. The refuse and recycling
+storage facilities shall be provided in accordance with the approved details
+prior to commencement of the development and shall thereafter be retained as
+such for the duration of the permitted use.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A strategy for the
+Management of Deliveries and Servicing shall be submitted to and approved in
+writing by the Local Planning Authority prior to first commencement of any of
+the additional retail uses hereby permitted. Deliveries and servicing shall
+thereafter be carried out solely in accordance with the approved details.”</p>
+
+<p class="ParaLevel1">Reasons were given for each condition.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The permission now in issue was granted on 7 November 2014. (The
+application is not before us.) In this case the grant referred in terms to
+section 73. It is necessary to set out the operative parts in full:</a></p><a name="para5">
+
+<p class="MsoQuote" align="center" style="text-align:center">“DECISION NOTICE</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">DETERMINATION OF APPLICATION UNDER
+SECTION 73 - TOWN AND COUNTRY PLANNING ACT 1990</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The London Borough of Lambeth
+hereby approves the following application for the variation of condition as set
+out below under the above mentioned Act …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Development At: Homebase Ltd, 100
+Woodgate Drive, London SW16 5YP.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">For: Variation of condition 1
+(Retail Use) of Planning Permission Ref: 10/01143/FUL (Variation of Condition 6
+(Permitted retail goods) of planning permission Ref 83/01916 … Granted on
+30.06.2010.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Original Wording:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">The retail use hereby permitted shall
+be used for the retailing of DIY home and garden improvements and car
+maintenance, building materials and builders merchants goods, carpets and floor
+coverings, furniture, furnishings, electrical goods, automobile products,
+camping equipment, cycles, pet and pet products, office supplies and for no
+other purpose (including the retail sale of food and drink or any other purpose
+in Class A1 of the Schedule to the Town and Country Planning (Use Classes)
+Order 1987 (as amended) or in any provision equivalent to that Class in any
+statutory instrument revoking and re-enacting that Order).</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Proposed Wording:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">The retail unit hereby permitted
+shall be used for the sale and display of non-food goods only and,
+notwithstanding the provisions of the Town and Country Planning (General
+Permitted Development) Order 1995 (or any Order revoking and re-enacting that
+Order with or without modification), for no other goods.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">[<i>I should note in passing that
+the reference in the revised form of condition to the General Development
+Order, rather than the Use Classes Order, appears to be a mistake, as Mr
+Lockhart-Mummery QC for the third respondent suggested. Neither he nor any of
+the parties saw it as significant to the issues in the appeal</i>.]</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Approved Plans</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para5"></a><a name="_Hlk10089904">Summary of
+the Reasons for Granting Planning Permission:</a></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">In deciding to grant planning
+permission, the Council has had regard to the relevant policies of the
+development plan and all other relevant material considerations. … Having
+weighed the merits of the proposals in the context of these issues, it is
+considered that planning permission should be granted subject to the conditions
+listed below.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Conditions</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The development to
+which this permission relates must be begun not later than the expiration of
+three years beginning from the date of this decision notice.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">Reason: To comply with the
+provisions of section 91(1)(a) of the Town and Country Planning Act …</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prior to the variation
+her[e]by approved being implemented a parking layout plan at scale of 1:50
+indicating the location of the reserved staff car parking shall be submitted to
+and approved in writing by the Local Planning Authority. The use shall
+thereafter be carried out solely in accordance with the approved staff car
+parking details.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">Reason: To ensure that the approved
+variation does not have a detrimental impact on the continuous safe an[d]
+smooth operation of the adjacent highway …</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Within 12 months of implementation
+of the development hereby approved details of a traffic survey on the site and
+surrounding highway network shall be undertaken within one month of
+implementation of the approved development date and the results submitted to
+the local planning authority. If the traffic generation of the site, as
+measured by the survey, is higher than that predicted in the Transport
+Assessment submitted with the original planning application the applicant
+shall, within three months, submit revised traffic modelling of the Woodgate
+Drive/Streatham Vale/Greyhound Lane junction for analysis. If the junction
+modelling shows that junction capacity is worse than originally predicted
+within the Transport Assessment, appropriate mitigation measures shall be
+agreed with the council, if required, and implemented within three months of
+the date of agreement.</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">Reason: to ensure that the
+proposed development does not lead to an unacceptable traffic impact on the
+adjoining highway network …”</p>
+
+<p class="ParaLevel1">There was no specific reference to conditions 2 and 3 of
+the 2010 permission.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 10 June 2015, the second respondent applied to the Council for a certificate
+of lawfulness of proposed use or development (under section 192 of the 1990
+Act) for unrestricted use of the store. This was refused by the Council on 12
+August 2015, but the appeal was allowed by the inspector by a decision letter
+dated 6 December 2016. The letter gave a certificate of lawfulness for use
+described as -</a></p><a name="para6">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The use of the premises … for
+purposes within Use Class Al of the Town and Country Planning (Use Classes)
+Order 1987 (as amended) without restriction on the goods that may be sold.”</p>
+
+<p class="ParaLevel1">The reason given was:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“No condition was imposed on [the
+2014 permission] to restrict the nature of the retail use to specific uses
+falling within Use Class A1 …”</p>
+
+<p class="ParaHeading"><b>The statutory framework</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is unnecessary to set out the familiar provisions of the 1990 Act
+relating to the definition of development, and to the granting of planning
+permission. It is to be noted however that the extension of the categories of
+goods to be sold within the store did not in itself amount to “development”
+(within the meaning of 1990 Act section 55) requiring planning permission. The
+erection of the building and the commencement of sales under the 1985
+permission no doubt involved both operational development and a material change
+of use. Thereafter a change to sale of other categories (at least those within
+the relevant class under the current Use Class Order) would not involve any
+breach of planning control unless restricted by an appropriate condition.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 73 of the Act, on which the Council relied in granting the 2010
+and 2014 permissions, is headed “Determination of applications to develop land
+without compliance with conditions previously attached”. It provides:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; This section applies … to
+applications for planning permission for the development of land without
+complying with conditions subject to which a previous planning permission was
+granted.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On such an application
+the local planning authority shall consider only the question of the conditions
+subject to which planning permission should be granted, and -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if they decide that
+planning permission should be granted subject to conditions differing from
+those subject to which the previous permission was granted, or that it should
+be granted unconditionally, they shall grant planning permission accordingly,
+and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if they decide that
+planning permission should be granted subject to the same conditions as those
+subject to which the previous permission was granted, they shall refuse the
+application.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The background to this section (formerly section 31A of the Town and Country
+Planning Act 1971) was described by Sullivan J in <i>Pye v Secretary of State
+for the Environment, Transport and the Regions</i> [1998] 3 PLR 72:</a></p><a name="para9">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… Prior to the enactment of (what
+is now) section 73, an applicant aggrieved by the imposition of the conditions
+had the right to appeal against the original planning permission, but such a
+course enabled the Local Planning Authority in making representations to the
+Secretary of State, and the Secretary of State when determining the appeal as
+though the application had been made to him in the first instance, to ‘go back
+on the original decision’ to grant planning permission. So the applicant might
+find that he had lost his planning permission altogether, even though his
+appeal had been confined to a complaint about a condition or conditions.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">It was this problem which section
+31A, now section 73, was intended to address ...</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">While section 73 applications are
+commonly referred to as applications to ‘amend’ the conditions attached to a
+planning permission, a decision under section 73(2) leaves the original
+planning permission intact and un-amended. That is so whether the decision is
+to grant planning permission unconditionally or subject to different conditions
+under paragraph (a), or to refuse the application under paragraph (b), because
+planning permission should be granted subject to the same conditions.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">In the former case, the applicant
+may choose whether to implement the original planning permission or the new
+planning permission; in the latter case, he is still free to implement the
+original planning permission. Thus, it is not possible to ‘go back on the
+original planning permission’ under section 73. It remains as a base line,
+whether the application under section 73 is approved or refused, in contrast to
+the position that previously obtained.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The original planning permission
+comprises not merely the description of the development in the operative part
+of the planning permission ... but also the conditions subject to which the
+development was permitted to be carried out ...”</p>
+
+<p class="ParaLevel1">This passage was approved by the Court of Appeal in <i>Powergen
+United Kingdom plc v Leicester City Council</i> [2000] JPL 1037, para 28, per
+Schiemann LJ.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sullivan J’s comment that such applications are “commonly” referred to
+as applications to “amend” the conditions was echoed by Schiemann LJ, who noted,
+at para 1, that such an application is commonly referred to as “an application
+to modify conditions imposed on a planning permission”. This usage is also
+consistent with the wording used in the statute under which section 31A was
+originally introduced. It was one of various “minor and consequential
+amendments” introduced by section 49 and Schedule 11 of the Housing and
+Planning Act 1986, described as “(d) applications to vary or revoke conditions
+attached to planning permission”.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear, however, that this usage, even if sanctioned by statute, is
+legally inaccurate. A permission under section 73 can only take effect as an
+independent permission to carry out the same development as previously
+permitted, but subject to the new or amended conditions. This was explained in
+the contemporary circular 19/86, para 13, to which Sullivan J referred. It
+described the new section as enabling an applicant, in respect of “an extant
+planning permission granted subject to conditions”, to apply “for relief from
+all or any of those conditions”. It added:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If the authority do decide that
+some variation of conditions is acceptable, a new alternative permission will
+be created. It is then open to the applicant to choose whether to implement the
+new permission or the one originally granted.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although the section refers to “development” in the future, it is not in
+issue that a section 73 application can be made and permission granted
+retrospectively, that is in relation to development already carried out. This
+question arose indirectly in the courts below, in the context of a dispute
+about the validity of the time-limit condition (condition 1), which required
+the “development to which this permission relates” to be begun within three
+years. The Court of Appeal upheld the inspector’s decision that this condition
+was invalid, in circumstances where the relevant “development” had been carried
+out many years before. Lewison LJ said:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… I cannot see that the decision notice
+granted planning permission for any prospective development. The mere widening
+of the classes of goods that were permitted to be sold by retail does not
+amount to development at all. Conformably with the definition of ‘development’
+in section 55 the only development to which the application could have related
+was the original erection of the store and the commencement of its use as a DIY
+store. It was that development that was permitted subject to the conditions
+that the application was designed to modify; and it was the planning permission
+permitting that development to which the decision notice referred.” (para 79)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree with that analysis, which is not I understand in dispute before
+this court. However, it leaves open the question as to the effect of the new
+permission on conditions which have already taken effect following
+implementation of the earlier permission. The section does not assist directly.
+It envisages two situations: either (a) the grant of a new permission
+unconditionally or subject to revised conditions, or (b) refusal of permission,
+leaving the existing permission in place with its conditions unchanged. It does
+not say what is to happen if the authority wishes to change some conditions but
+leave others in place. As will be seen (para 20 below), the Court of Appeal
+cited government guidance indicating that “to assist with clarity” planning decisions
+under section 73 “should also repeat the relevant conditions from the original
+planning permission”. However, as I read this, it was given as advice, rather
+than as a statement about the legal position. Although the current status of
+the 2010 conditions is not directly in issue in the appeal, it is of some
+background relevance and has attracted conflicting submissions. I shall return
+to this aspect later in the judgment.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For completeness, before leaving this discussion of section 73, I should
+note that circular 19/86 (referred to above) described its predecessor as
+“complementing” section 32 of the Town and Country Planning Act 1971 (later,
+section 63 of the 1990 Act), which at the time made specific provision for retrospective
+permissions (“Permission to retain buildings or works or continue use of land”).
+That section has since been repealed and partially replaced by section 73A of
+the 1990 Act (see Planning and Compensation Act 1991, Schedule 7). Whatever the
+precise significance of this change, it is not suggested that it has any
+relevance to the issues in this appeal and neither side has sought to rely on
+section 73A.</a></p><a name="para14">
+
+<p class="ParaHeading"><b>Principles of interpretation</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We have received extensive submissions and citations from recent
+judgments of this court on the correct approach to interpretation. Most
+relevant in that context is <i>Trump International Golf Club Ltd v Scottish
+Ministers</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2015/74.html">[2015] UKSC 74</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/74.html">[2016] 1 WLR 85</a>. An issue in that case related to
+the interpretation of a condition in a statutory authorisation for an offshore
+wind farm, requiring the developer to submit a detailed design statement for
+approval by Ministers. One question was whether the condition should be read as
+subject to an implied term that the development would be constructed in
+accordance with the design so approved.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the leading judgment Lord Hodge (at paras 33-37) spoke of the modern
+tendency in the law to break down divisions in the interpretation of different
+kinds of document, private or public, and to look for more general rules. He
+summarised the correct approach to the interpretation of such a condition:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“34.&nbsp;&nbsp;&nbsp;&nbsp; When the court is
+concerned with the interpretation of words in a condition in a public document
+such as a section 36 consent, it asks itself what a reasonable reader would
+understand the words to mean when reading the condition in the context of the
+other conditions and of the consent as a whole. This is an objective exercise
+in which the court will have regard to the natural and ordinary meaning of the
+relevant words, the overall purpose of the consent, any other conditions which
+cast light on the purpose of the relevant words, and common sense.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He rejected a submission that implication had no place in this context:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“32.&nbsp;&nbsp;&nbsp;&nbsp; [Counsel] submits that
+the court should follow the approach which Sullivan J adopted to planning
+conditions in <i>Sevenoaks District Council v First Secretary of State</i>
+[2005] 1 P &amp; CR 186 and hold that there is no room for implying into
+condition 14 a further obligation that the developer must construct the
+development in accordance with the design statement. In agreement with Lord
+Carnwath JSC, I am not persuaded that there is a complete bar on implying terms
+into the conditions in planning permissions …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">35.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; … While the court will,
+understandably, exercise great restraint in implying terms into public
+documents which have criminal sanctions, I see no principled reason for
+excluding implication altogether.”</p>
+
+<p class="ParaLevel1">In the instant case, had it been necessary to do so, he
+would, at para 37, have “readily drawn the inference that the conditions of the
+consent read as a whole required the developer to conform to the design
+statement in the construction of the windfarm”.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my own concurring judgment, having reviewed certain judgments in the
+lower courts which had sought to lay down “lists of principles” for the
+interpretation of planning conditions, I commented:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I see dangers in an approach
+which may lead to the impression that there is a special set of rules applying
+to planning conditions, as compared to other legal documents, or that the
+process is one of great complexity.” (para 53)</p>
+
+<p class="ParaLevel1">Later in the same judgment, I added:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Any such document of course must
+be interpreted in its particular legal and factual context. One aspect of that
+context is that a planning permission is a public document which may be relied
+on by parties unrelated to those originally involved … It must also be borne in
+mind that planning conditions may be used to support criminal proceedings.
+Those are good reasons for a relatively cautious approach, for example in the
+well established rules limiting the categories of documents which may be used
+in interpreting a planning permission … But such considerations arise from the
+legal framework within which planning permissions are granted. They do not
+require the adoption of a completely different approach to their
+interpretation.” (para 66)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In summary, whatever the legal character of the document in question,
+the starting-point - and usually the end-point - is to find “the natural and
+ordinary meaning” of the words there used, viewed in their particular context
+(statutory or otherwise) and in the light of common sense.</a></p><a name="para19">
+
+<p class="ParaHeading"><b>The Court of Appeal’s reasoning</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is unnecessary to review in any detail the reasoning of the inspector
+or the High Court, since the issues, and the competing arguments, are fully
+discussed in the judgment of the Court of Appeal. Having set out the planning
+history and the terms of section 73, Lewison LJ (paras 19-22) identified what
+he saw as the problem. While he acknowledged that it was “clear what Lambeth
+meant to do in a very broad sense”, he said:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“But that is not the question. The
+question is: what did Lambeth in fact do? The application was an application
+for the variation of a condition attached to the 2010 permission …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">… the technical trap, into which
+it is said that Lambeth fell, is that approval of an application under section
+73 requires the grant of a fresh planning permission, rather than merely a
+variation of an existing one …</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">It follows from this that the decision
+notice must be read as a free-standing grant of planning permission. However,
+it failed to repeat any of the conditions imposed on the previous planning
+permissions and, more importantly, failed to express the new description of the
+use as a condition, rather than as a limited description of the permitted use
+…”</p>
+
+<p class="ParaLevel1">He noted the advice given in the relevant Planning Policy
+Guidance note (“PPG”):</p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para20">“It should be noted that the
+original planning permission will continue to exist whatever the outcome of the
+application under section 73. </a><a name="_Hlk10731637">To assist with clarity,
+decision notices for the grant of planning permission under section 73 should
+also repeat the relevant conditions from the original planning permission</a>,
+unless they have already been discharged.”</p>
+
+<p class="ParaLevel1">This advice, he thought, was -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… reflective of the words of
+section 73(2)(a) which requires a local planning authority, if it decides that
+different conditions should be imposed, to grant planning permission
+‘accordingly’: that is to say in accordance with the conditions upon which it
+has decided that planning permission should be granted.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Later in the judgment he addressed the submissions before the court. He
+noted that Mr Reed QC for the Council put his argument in two ways: first by
+implication of a condition and second as a matter of interpretation. He thought
+it more logical to reverse the order, while accepting that the exercise was an
+“iterative” process, and observing that the objective was</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… not to determine what the
+parties meant to do in the broad sense, but what a reasonable reader would
+understand by the language they in fact used.” (para 38)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Having referred to the findings of the judge in the court below, he
+summarised Mr Reed’s submission on the interpretation of the decision notice:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“45.&nbsp;&nbsp;&nbsp;&nbsp; In the light of those
+findings Mr Reed argues that the decision notice described itself as doing no
+more than approving a ‘variation of condition’ in two previous planning
+permissions. For technical reasons, however, a variation of a condition under
+section 73 takes effect as the grant of a fresh planning permission. In order
+to give effect to Lambeth’s intention and also to that of the applicant for the
+variation of the condition, the limited description of the use must therefore
+be read as if it were itself a condition.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the critical paragraphs of the judgment, he gave his view of how the
+“reasonable reader” would have approached the matter:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“52.&nbsp;&nbsp;&nbsp;&nbsp; The reasonable reader of
+the decision notice must be notionally equipped with some knowledge of planning
+law and practice. The distinction between a limited description of a permitted
+use and a condition is a well-known distinction. The reasonable reader would also
+know that the Government’s own guidance stated that any conditions applicable
+to planning permission granted under section 73 must be explicitly stated. He
+would know the general structure of a planning permission which will set out a
+summary of the application, describe the development permitted by the
+permission and, in a separate part of the permission, will set out any
+conditions imposed on the grant of planning permission with reasons for those
+conditions. He would notice that there were some conditions attached to the
+grant which were explicitly stated in the decision notice, and that the decision
+notice stated that Lambeth had decided that ‘planning permission should be
+granted subject to the conditions listed below’. If he had looked back over the
+planning history he would also have seen the 2010 approval of a variation to
+the condition, which did specify the permitted range of goods in the form of a
+condition. That had not been repeated in the decision notice. He would also
+have noticed that the decision notice in 2010 had imposed two conditions
+(relating to refuse and recycling on the one hand, and management of deliveries
+on the other) which had also not been repeated in the decision notice. If he
+had considered the 2013 refusal he would have seen that Lambeth was not
+satisfied at that time that the applicant had demonstrated that increased
+traffic would not lead to adverse impacts. But he would have seen that the decision
+notice of 2014 referred to a traffic assessment which Lambeth had considered.
+He would also have noticed that condition 3 required a traffic survey and the
+implementation of mitigation measures if junction capacity was worse than
+predicted. He might reasonably have concluded that Lambeth had been
+sufficiently satisfied on this second application to grant conditional
+permission, with the safety net of condition 3.</p>
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para23">53.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accordingly, sympathetic
+though I am to Lambeth’s position, this submission seems to me to go well
+beyond interpretation. It is not a question of rearranging words that appear on
+the face of the instrument (as in <i>Chartbrook Ltd v Persimmon Homes Ltd</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/38.html">[2009] AC 1101</a>). It is a question of adding a whole condition, which has a
+completely different legal effect to the words that Lambeth in fact used.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As a further point he noted the statutory requirement for the notice to
+state the reasons for any condition imposed. He said:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“To impose a condition without
+giving reasons for it would be a breach of statutory duty. It is one of the principles
+of contractual interpretation that one should prefer a lawful interpretation to
+an unlawful one. There is nothing in the decision notice which could amount to
+a clear, precise and full reason for treating the description of the use as a
+condition. Although Mr Reed suggested that the first reason given for the 2013
+refusal could stand as the reason, I consider that to be untenable. The
+requirement to give reasons is applicable to ‘the notice’. It may be that ‘the
+notice’ might extend to another document incorporated by reference; but that is
+not this case. Although the decision notice does cross-refer both to the
+original planning permission and also to previous approved variations, it does
+not mention the refusal at all. There would be no reason for a reasonable
+reader of the decision notice to suppose that a reason for an unexpressed
+condition was contained in a document which was simply part of the background.”
+(para 59)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lewison LJ went on to deal with the alternative formulation, based on
+implication of a condition in the same form as the “proposed wording”, holding
+that it failed to meet the stringent tests laid down by the authorities (paras
+63-75). In particular he accepted a submission by Mr Lockhart-Mummery that the
+judgments in <i>Trump</i> (like the decision on which they relied: <i>Crisp
+from the Fens Ltd v Rutland County Council</i> (1949-1951) 1 P &amp; CR 48)
+decided no more than that implication might be made into an extant condition
+that was incomplete; they did not contemplate the implication of a wholly new
+condition (para 72).</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this court Mr Reed QC for the Council repeated and developed his
+arguments in the Court of Appeal. In line with the decision of the High Court
+in <i>I’m Your Man Ltd v Secretary of State for the Environment</i> [1998] 4
+PLR 107, he did not seek to argue that the proposed wording could be treated as
+an enforceable “limitation”. He accepted the need to establish that the
+permission was subject to a legally effective condition in that form. In
+summary he put his case in three ways: (a) as a matter of the correct
+interpretation of the permission; (b) by correction of an obvious error (by
+analogy with the contractual principles applied in <i>Chartbrook Ltd v
+Persimmon Homes Ltd</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2009/38.html">[2009] UKHL 38</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/38.html">[2009] 1 AC 1101</a>); (c) by the
+implication of a condition in the terms of the proposed wording (applying the
+principles in <i>Attorney General of Belize v Belize Telecom Ltd</i> <a title="Link to BAILII version" href="/uk/cases/UKPC/2009/10.html">[2009] UKPC 10</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/2009/10.html">[2009] 1 WLR 1988</a>). The respondents generally adopted the reasoning of
+the Court of Appeal. Mr Kolinsky QC for the Secretary of State emphasised the
+need for clarity and certainty in a public document. For the third respondent
+(as freehold owner of the site), Mr Lockhart-Mummery reminded us that planning
+is a creature of statute, in which common law principles have a limited role;
+and also of the need for clear and specific words to exclude rights granted by
+provisions such as the Use Classes Order.</p>
+
+<p class="ParaHeading"><b>Commentary</b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>With respect to the careful reasoning of the courts below, I consider
+that an ordinary reading of the decision notice compels a different view. I
+find it unnecessary to examine in detail the more ambitious alternatives
+proposed by Mr Reed. However, I observe in passing (in agreement with Mr
+Lockhart-Mummery’s submission as to the limited scope of the judgments in <i>Trump</i>)
+that it is difficult to envisage circumstances in which it would be appropriate
+to use implication for the purpose of supplying a wholly new condition, as
+opposed to interpretation of an existing condition.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the issue of interpretation, Lewison LJ was of course right to say
+that the 2014 permission needs to be seen through the eyes of “the reasonable
+reader”. However, such a reader should be assumed to start by taking the
+document at face value, before being driven to the somewhat elaborate process
+of legal and contextual analysis hypothesised in Lewison LJ’s para 52. In
+essence Mr Reed’s submission, in the simple form recorded by Lewison LJ at para
+45 (para 22 above) was in my view correct. It is not necessarily assisted by
+the varying formulations and citations discussed in his submissions to this
+court. There is a risk of over-complication.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Taken at face value the wording of the operative part of the grant seems
+to me clear and unambiguous. The Council “hereby approves” an application for
+“the variation of condition as set out below …”. There then follow precise and
+accurate descriptions of the relevant development, of the condition to be
+varied, and of the permission under which it was imposed. They are followed by
+statements first of the “Original wording”, and then of the “Proposed wording”;
+the latter stating in terms that the store is to be used for the sale of
+“non-food goods only and … for no other goods”. “Proposed wording” in this
+context must be read as a description of the form of condition proposed in the
+application and “hereby” approved. In other words, the obvious, and indeed to
+my mind the only natural, interpretation of those parts of the document is that
+the Council was approving what was applied for: that is, the variation of one
+condition from the original wording to the proposed wording, in effect
+substituting one for the other. There is certainly nothing to indicate an
+intention to discharge the condition altogether, or in particular to remove the
+restriction on sale of other than non-food goods.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The suggested difficulties of interpretation do not arise from any
+ambiguity in the terms of the grant itself. Nor do they raise any question
+about the extent to which it is permissible to take account of extraneous
+material. It is unnecessary to look beyond the terms of the document. In these
+respects the case differs from many of the authorities to which reference has
+been made in submissions. The arguments against this simple view turn, not on
+any lack of clarity in the grant itself, but on supposed inconsistencies,
+firstly with its statutory context, and secondly with the treatment of other
+conditions in the remainder of the document.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In respect of the statutory context, the objection is that this reading
+is inconsistent with the scope of the power under which the grant was made.
+Section 73, referred to in terms in the permission, does not give the authority
+power simply to vary a condition in the previous permission. That purpose could
+only be achieved by the grant of a new permission, subject in terms to a
+condition in the revised form. Accordingly, it is said, it was not enough
+simply to approve the “proposed wording”, without its terms being incorporated
+into the form of condition as required by section 73(2)(a).</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>One problem with this argument is that it goes too far for the
+respondents’ case. If section 73 gave no power to grant a permission in the
+form described, the logical consequence would be that there was no valid grant
+at all, not that there was a valid grant free from the proposed condition. The
+validity of the grant might perhaps have been subject to a timely challenge by
+an interested third party or even the Council itself. That not having been
+done, there is no issue now as to the validity of the grant as such. All
+parties are agreed that there was a valid permission for something. That being
+the common position before the court, the document must be taken as it is.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It may be that insufficient attention was paid in the submissions below
+to the background of section 73, as discussed earlier in this judgment. Once it
+is understood that it has been normal and accepted usage to describe section 73
+as conferring power to “vary” or “amend” a condition, the reasonable reader
+would in my view be unlikely to see any difficulty in giving effect to that
+usage in the manner authorised by the section - that is, as the grant of a new
+permission subject to the condition as varied. If the document had stopped at
+that point, I do not think such a reader could have been left in any real doubt
+about its intended meaning and effect. The lack of a specific reason for the
+condition, to which Lewison LJ attached weight, is of little practical
+significance, given that this was the relaxation of a previous condition for
+which the reason was well-known, rather than the imposition of a new
+restriction. In any event the absence of a reason would not affect the validity
+of the condition (see <i>Brayhead (Ascot) Ltd v Berkshire County Council </i>[1964]
+2 QB 303).</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Turning to the second part of the notice, it is true that there are some
+internal inconsistencies. Its heading suggests that it is simply stating the
+reasons for the permission granted in the first part, rather than imposing a
+separate set of conditions. Further, the wording of the conditions themselves
+betrays some ambivalence about what has been approved. In some places it is
+referred to as “the development to which this permission relates”, or “the
+proposed development”, in others as “the variation hereby approved” or “the approved
+variation”. (As I have already noted, the time-limit condition was held by the
+courts below to be wholly invalid.)</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, reading the document as a whole, and taking the first part in
+the sense suggested above, the second part can be given a sensible meaning
+without undue distortion. It is explanatory of and supplementary to the first
+part. The permitted development incorporating the amended condition is regarded
+as acceptable, in accordance with the development plan, but only subject to the
+conditions set out. They are in other words additional conditions. They are
+designed to regulate the expanded use as permitted by the revised condition,
+dealing in particular with staff parking, and monitoring of the additional
+traffic impact.</a></p><a name="para35">
+
+<p class="ParaHeading">The other 2010 conditions</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As I have said, we are not directly concerned in this appeal with the
+status of the other conditions in the 2010 permission, so far as still
+potentially relevant, notably conditions 2 and 3 relating respectively to
+treatment of waste and management of deliveries. However, some comment may be
+desirable, since the issue was subject to conflicting submissions before the
+Court of Appeal and in this court. At first sight it would seem surprising if
+the council, when relaxing the restrictions on sales, had not intended to
+maintain such requirements. No reason was given for releasing them, and it does
+not appear to have been requested in the application.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the Council, Mr Reed’s position seems to have shifted during the
+course of the appeal below. Lewison LJ (paras 46-47) recorded his initial
+submission that conditions 2 and 3 should be treated as incorporated into the
+new permission; the “reasonable reader of the decision notice could not be
+taken to understand that Lambeth was abandoning them”. However, this argument
+was not pursued in his oral submissions (judgment paras 48, 51), and he seems
+implicitly to have accepted that they would cease to be effective. In this
+court this issue was not dealt with in any detail in the written submissions.
+Questioned in argument, Mr Lockhart-Mummery QC for the third respondent
+submitted that conditions 2 and 3, not having been repeated in the new
+permission, must be taken as having lapsed altogether. In reply Mr Reed for the
+Council took a rather different position to that initially taken in the Court
+of Appeal. His submission as I understood it was that the 2010 conditions, so
+far as still relevant, were not as such incorporated into the new permission;
+but they continued to have effect under the 2010 permission, so far as not
+inconsistent with anything in the new grant.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although we have not heard full argument, my provisional view is that Mr
+Reed’s current submission is correct. It will always be a matter of
+construction whether a later permission on the same piece of land is compatible
+with the continued effect of the earlier permissions (see the principles
+discussed in <i>Pioneer Aggregates (UK) Ltd v Secretary of State for the
+Environment</i> [1985] AC 132, 144). In this case, following implementation of
+the 2010 permission, the conditions would in principle remain binding unless
+and until discharged by performance or further grant. Conditions 2 and 3 were
+expressed to remain operative during continuation of the use so permitted. The
+2014 permission did not in terms authorise non-compliance with those
+conditions, nor, it seems, did it contain anything inconsistent with their
+continued operation. Accordingly, they would remain valid and binding - not
+because they were incorporated by implication in the new permission, but because
+there was nothing in the new permission to affect their continued operation.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This approach to the interpretation of the decision notice seems to me
+consistent with the decision of Sullivan J in a case relied on by Mr Reed
+before the Court of Appeal: <i>Reid v Secretary of State for Transport</i>
+</a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2002/2174.html">[2002] EWHC 2174 (Admin)</a>. Permission for a transport depot had been granted
+subject to 12 conditions. The landowner applied for development described as
+“retention of the use of the land without compliance with condition 2
+(improvements to public highway) ...”. The local authority responded with a
+notice referring to the terms of the application, and expressed in these terms
+-</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… notice of its decision to
+APPROVE Planning Permission for the application set out above subject to the
+following conditions:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Conditions</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">None.”</p>
+
+<p class="ParaLevel1">Sullivan J held that the grant did not mean that the other
+conditions were no longer effective. He said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“58.&nbsp;&nbsp;&nbsp;&nbsp; There is an apparent
+conflict between the description of the proposed development, which refers not
+to an existing use but to the retention of a permitted use without compliance
+with one condition in the 1992 planning permission, and the words ‘Conditions:
+None’. One is left wondering what is to happen to the remaining conditions on
+the 1992 planning permission. Once it is accepted that both the application and
+the 1992 planning permission referred to in the application for permission may
+properly be considered for the purpose of construing the meaning of the 2002
+permission, then the words ‘Conditions: None’ mean, in that context, no
+additional conditions beyond those which had been imposed upon the 1992
+permission.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lewison LJ saw this as a case turning on the particular wording of
+permission, which was held to have the effect that “the conditions attached to
+the previous planning permission continued to apply to the new one”. He saw it
+as of no assistance in the present case, particularly given Mr Reed’s
+abandonment before the Court of Appeal of the argument that the conditions
+attached to the 2010 permission could be carried forward into the new
+permission (para 51).</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As I read the judgment, however, Sullivan J did not intend to say that
+the other 11 conditions were by implication to be treated as included in the
+new permission, or that the old permission was superseded. Rather the new
+permission, confined as it was to the retention of the use without complying
+with condition 2, and involving no inconsistency with the old permission and
+the remaining conditions, had no effect on their continuing effect as
+conditions subject to which the development had been carried out. The words
+“Conditions: None” was indicating that there were to be no additional conditions
+beyond those already having effect under the earlier permission. By contrast,
+in the present case, the specific conditions in the 2014 permission were
+intended to be additional both to the varied condition, and to the others
+remaining in effect under the 2010 permission.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sullivan J added the following comment:</a></p><a name="para42">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“59.&nbsp;&nbsp;&nbsp;&nbsp; I accept unreservedly
+that the drafting of the 2002 planning permission could have been much clearer.
+The inspector’s observations as to good practice should be heeded by all local
+planning authorities. When issuing a fresh planning permission under section
+73, it is highly desirable that all the conditions to which the new planning
+permission will be subject should be restated in the new permission and not
+left to a process of cross-referencing. Good practice was not followed in the
+present case.”</p>
+
+<p class="ParaLevel1">The present case illustrates the wisdom of that advice,
+which is also reflected in the PPG. Nothing in the present judgment is intended
+to detract from that advice, nor from the importance of ensuring that
+applications and grants under section 73 are couched in terms which properly
+reflect the nature of the statutory power.</p>
+
+<p class="ParaHeading"><b>Conclusions</b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons I would allow the appeal. The precise wording of the
+order should be agreed between the parties, or subject to further submissions.</a></p><a name="para43">
+
+</a></div><a name="para43">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/33.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

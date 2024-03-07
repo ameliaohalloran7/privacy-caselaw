@@ -1,0 +1,891 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Hysaj &amp; Ors, R (on the application of) v Secretary of State for the Home Department [2017] UKSC 82 (21 December 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Hysaj &amp; Ors, R (on the application of) v Secretary of State for the Home Department [2017] UKSC 82 (21 December 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/82.html</i>
+<br>Cite as: 
+[2018] 1 WLR 221,
+
+[2018] 2 All ER 471,
+
+[2017] UKSC 82,
+
+[2018] INLR 279,
+
+[2018] Imm AR 699
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/82.pdf">Printable PDF version</a>]
+
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2017/82.image1.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 82</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1195.html">[2015] EWCA Civ 1195</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">R (on the application of Hysaj and others)
+(Appellants) <i>v</i> Secretary of State for the Home Department (Respondent)<br clear="all">
+Bakijasi (Appellant) <i>v</i> Secretary of State for the Home Department
+(Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">21 December 2017</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:96.6pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Stephen Knafler QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Sonali Naik</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Helen Foot</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Naim
+  Hasani of Duncan Lewis Solicitors (Harrow))</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:96.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Lisa Giovannetti QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Jonathan Moffett QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LADY HALE: (<span style="text-transform:none">with whom Lord
+Kerr, Lord Wilson, Lord Hughes and Lord Hodge agree)</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para1"><span style="font-size:13.0pt">This judgment is given in unusual
+circumstances. The Secretary of State, as respondent to these appeals, has
+applied pursuant to rule 34(2) of the Supreme Court Rules 2009 for these
+appeals to be allowed by consent. The appellants of course agree. However, this
+court took the view that we could not make an order allowing the appeals and
+setting aside the orders in the courts below without understanding the reasons
+for doing so and their impact upon the point of law of general public
+importance raised by the appeals. The Secretary of State has supplied those
+reasons, with which this court agrees. This judgment is accordingly based upon
+them.</span></a></p><a name="para1">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para1"><span style="font-size:
+13.0pt"></span></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Although there are only two
+appeals before this court, these cases were heard in the Court of Appeal along
+with a third case, that of Mr Kaziu, which was decided on the same basis: <i>R
+(Kaziu) v Secretary of State for the Home Department </i></span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1195.html">[2015] EWCA Civ 1195</a>,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1195.html">[2016] 1 WLR 673</a>. The Secretary of State therefore accepts that the principles
+adopted in this judgment should also apply to him.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para3"><span style="font-size:13.0pt">The issue is whether the
+misrepresentations made by the appellants in their applications for United
+Kingdom citizenship made the grant of that citizenship a nullity, rather than
+rendering them liable to be deprived of that citizenship under sections 40 and
+40A of the British Nationality Act 1981.</span></a></p><a name="para3">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para3"><span style="font-size:
+13.0pt"></span></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Mr Hysaj was born Dinjan Hysaj in
+Albania in 1977. He came to this country and claimed asylum in July 1998. He
+gave his true name, but claimed to have been born in 1981 and thus to be a
+child at the time of his asylum claim. He also falsely claimed that he was a
+citizen of the Federal Republic of Yugoslavia from Kosovo, and that he had been
+persecuted there. He was accepted as a refugee and given indefinite leave to
+remain (ILR) here in 1999. In 2004 he applied for and was granted
+naturalisation as a British citizen, using the same false details as he had
+used in his asylum claim. Thus he obtained British citizenship in his own name
+but using a false date of birth, a false nationality and a false place of
+birth.</span></a></p><a name="para4">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para4"><span style="font-size:
+13.0pt"></span></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Mr Bakijasi was born Agron
+Bakijasi in Albania on 22 October 1972. He came to this country and claimed
+asylum in 1999. He gave a false name, Agron Adjini, a false date of birth, and
+falsely claimed to be a citizen of the Federal Republic of Yugoslavia from
+Kosovo, and that he had been persecuted there. His asylum claim was refused on
+the basis that it was safe for him to return to Kosovo. But his later
+application for ILR, using the same false details, was granted under the Family
+ILR exercise in September 2005. Using the same false details, he applied for
+and was granted naturalisation as a British citizen in November 2006. Thus he
+obtained British citizenship using a false name, a false date of birth, a false
+nationality and a false place of birth.</span></a></p><a name="para5">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para5"><span style="font-size:
+13.0pt"></span></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">When these frauds came to light,
+the Secretary of State decided that, in each case, the grant of citizenship was
+a nullity, so that the appellants were not, and never had been, British
+citizens. They had therefore remained at all times on ILR, which had been
+validly granted to them. She did so on the basis of binding Court of Appeal
+authority. In these judicial review proceedings, that decision was upheld,
+albeit with some reluctance, by Ouseley J in the High Court (</span></a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2014/832.html">[2014] EWHC 832 (Admin)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2014/832.html">[2015] 1 WLR 945</a>) and by the Court of Appeal (<a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1195.html">[2015] EWCA Civ 1195</a>,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1195.html">[2016] 1 WLR 673</a>). Sales LJ described the interpretation given by the binding
+Court of Appeal authorities as “problematic in various respects” (para 64).</p>
+
+<p class="ParaHeading">The legislation</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para7"><span style="font-size:13.0pt">Section 6(1) of the British
+Nationality Act 1981 provides that:</span></a></p><a name="para7">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If, on an application for
+naturalisation as a British citizen made by a person of full age and capacity,
+the Secretary of State is satisfied that the applicant fulfils the requirements
+of Schedule 1 for naturalisation as such a citizen under this subsection, he
+may, if he thinks fit, grant to him a certificate of naturalisation as such a
+citizen.”</p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para7"><span style="font-size:
+13.0pt"></span></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Section 40 of the 1981 Act makes
+provision for the Secretary of State to deprive a person of citizenship
+obtained by registration or naturalisation if satisfied that the registration
+or naturalisation was obtained by means of “fraud, false representation or
+concealment of a material fact”. On the face of it, fraud or false
+representation would include the sort of misrepresentations as to identity made
+by the appellants, so that, if the Secretary of State sees fit, they could be
+deprived of their citizenship under that provision. Section 40A makes provision
+for a right of appeal against most such deprivations to the First-tier
+Tribunal.</span></a></p><a name="para8">
+
+<p class="ParaHeading">The previous case law</p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para8"><span style="font-size:
+13.0pt"></span></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">There are four relevant decisions
+in the Court of Appeal before this one but none in the House of Lords or
+Supreme Court. For convenience, the applicant for citizenship is referred to as
+X and the identity in which he applied for citizenship is referred to as Y.</span></a></p><a name="para9">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para9"><span style="font-size:
+13.0pt"></span></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">In <i>R v Secretary of State for
+the Home Department, Ex p Sultan Mahmood </i>[1981] QB 58, decided in 1978, X
+impersonated Y, a real person, who was his dead brother-in-law and cousin, to
+obtain registration as a British citizen under section 5A of the British
+Nationality Act 1948. Roskill LJ held that there were three possible effects of
+the purported grant. First, it might have been a grant to Y; but it could not
+have been, because Y was dead. Second, it might have been a grant to X; but it
+could not have been, because the Secretary of State had no knowledge of X,
+believing him to be Y. Third, it might have been of no effect at all; as it
+could not be the first or the second, it could only be a nullity. Accordingly,
+X had never become a citizen of the United Kingdom.</span></a></p><a name="para10">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para10"><span style="font-size:
+13.0pt"></span></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The next case, decided in 1980,
+was<i> R v Secretary of State for the Hone Department, Ex p Parvaz Akhtar </i>[1981]
+QB 46. X was registered as a citizen by his purported father, Z, in the name of
+Y, under section 7(1) of the 1948 Act, which allows for the registration of a
+minor child of a British citizen. X was not the son of Z. Applying <i>Mahmood</i>,
+the Court of Appeal held that the Secretary of State had no power or intention
+to register X or any Y other than an actual son of Z. Accordingly, X never
+became a citizen of the United Kingdom.</span></a></p><a name="para11">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para11"><span style="font-size:
+13.0pt"></span></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Next came <i>R v Secretary of
+State for the Home Department, Ex p Ejaz </i>[1994] QB 496. X applied for
+citizenship in her real name under section 6(2) of the 1981 Act, which provides
+for the naturalisation of a person who is married to a British citizen. Later,
+it turned out that X’s husband was not, and never had been, a British citizen,
+having been granted a British passport in a false identity. The Court of Appeal
+declined to hold that the grant of citizenship was a nullity, pointing to the
+uncertainty and injustice which could be caused by holding that a person had
+never been a citizen, which could have effects upon third parties such as
+children, and was highly undesirable in matters of status. Deprivation of
+citizenship, on the other hand, did not have such retrospective effect.</span></a></p><a name="para12">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para12"><span style="font-size:
+13.0pt"></span></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Then came <i>Bibi v Entry
+Clearance Officer, Dhaka </i></span></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2007/740.html">[2007] EWCA Civ 740</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2007/740.html">[2008] INLR 683</a>. X had
+obtained entry to the United Kingdom by assuming the identity of Y, another
+real person who had been granted an employment voucher to enable him to enter.
+After living here for five years, X was registered as a British citizen in the
+name of Y. The appellants were the wife and four children of X and claimed a
+right of abode in the United Kingdom based on the purported citizenship of X.
+The Court of Appeal held that, because X had applied for citizenship in a false
+identity, <i>Mahmood </i>and <i>Akhtar </i>applied and there never was a grant
+of citizenship to him.</p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><span style="font-size:
+13.0pt"><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></a></span><a name="para14"><span style="font-size:13.0pt">As the Secretary of State points
+out, these cases demonstrate a gradual expansion of the nullity approach since <i>Mahmood</i>.
+Thus, <i>Mahmood </i>established that if X adopts the identity of Y, another
+real person, and Y has the characteristics required to obtain citizenship, the
+purported grant of citizenship to X in the identity of Y is a nullity. <i>Akhtar
+</i>decided that if X adopts the identity of Y, where Y is not a real person
+but a false identity created by X (or someone else for him) having the
+characteristics required to obtain citizenship, the purported grant of
+citizenship to X as Y is a nullity. <i>Bibi </i>decided that, if X adopts the
+identity of Y, another real person, and X acquires the characteristics needed
+to obtain citizenship by using the identity of Y, the purported grant of
+citizenship to X as Y is a nullity.</span></a></p><a name="para14">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para14"><span style="font-size:
+13.0pt"></span></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">The present case went a stage
+further than <i>Bibi </i>and decided that if X adopts the identity of Y, where
+Y is a false identity created by X and X acquires the characteristics needed to
+obtain citizenship by using the identity Y, the purported grant of citizenship
+to X as Y is a nullity.</span></a></p><a name="para15">
+
+<p class="ParaHeading">The Secretary of State’s position</p>
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para15"><span style="font-size:
+13.0pt"></span></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Having reviewed the matter after
+permission to appeal was granted in this case on 27 February 2017, the
+Secretary of State has come to the conclusion that the law took a wrong turning
+after <i>Mahmood</i>. The <i>Mahmood</i> type of case involves two real people,
+X and Y. X impersonates Y for the purpose of applying for citizenship. Y has
+the characteristics required for citizenship. Y is considered by the Secretary
+of State and is granted citizenship. But Y has never applied for it, may not
+want it, or may even be dead. Thus it cannot be said that citizenship has been
+granted either to Y or to X. Accordingly there was no grant of citizenship. <i>Mahmood</i>,
+in the Secretary of State’s view, remains good law.</span></a></p><a name="para16">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para16"><span style="font-size:
+13.0pt"></span></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">By contrast, in the later cases, X
+uses a false identity created by him (or someone on his behalf) and in that
+identity he acquires the characteristics needed to obtain citizenship. X
+applies for citizenship using the false identity Y. But X meets the
+requirements for citizenship albeit having acquired them by using the false
+identity Y. X is considered for citizenship by the Secretary of State in
+identity Y and is granted citizenship in that identity. In such a case, in the
+Secretary of State’s view, the grant of citizenship is valid, albeit that the
+person may later be deprived of it under section 40. <i>Ejaz</i> was rightly
+decided<i> </i>but<i> Akhtar </i>and <i>Bibi </i>were wrongly decided.</span></a></p><a name="para17">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para17"><span style="font-size:
+13.0pt"></span></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">Those cases, and the Court of
+Appeal’s decision in this case, were based on the principle that there is a
+category of fraud as to identity which is so serious that a purported grant of
+citizenship is of no effect. But, argues the Secretary of State, the courts
+have not articulated any clear or principled definition of the types of fraud
+which will be so serious as to have this consequence. In the current cases, for
+example, neither appellant pretended to be someone he was not. Mr Hysaj used
+his real name but put forward a false date of birth, nationality and place of
+birth in gaining his ILR and gained citizenship on the basis of the ILR that he
+himself had obtained. Mr Bakijasi used a false name in gaining his ILR but
+otherwise gained citizenship in the same way. Ouseley J held that the key
+characteristics of identity for this purpose were the name, date of birth, and
+nationality or the country and place of birth, because this was the information
+on the certificate. But he also held that there had to be fraud - innocent
+mistakes or misunderstandings were not enough (paras 46, 47). Such uncertainty
+means that the law is difficult to apply in practice.</span></a></p><a name="para18">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para18"><span style="font-size:
+13.0pt"></span></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">It also has a number of illogical
+and unsatisfactory consequences. Thus it is not clear when the use of a false
+identity to obtain citizenship by one person will lead to the nullification of
+the grant of citizenship to those making a derivative claim, whether as a
+spouse or child. It is not easy to reconcile <i>Akhtar</i>, <i>Ejaz </i>and <i>Bibi</i>.
+Logically, as Ouseley J pointed out in this case (para 55) either all
+derivative citizenship should be of no effect if the citizenship from which it
+is derived is of no effect, or the nullity should be confined to the person who
+obtained citizenship using the false identity. As Ouseley J also pointed out
+(para 69) the logic of the position then adopted by the Secretary of State
+would also nullify the grant of ILR, but the Secretary of State has never contended
+for this.</span></a></p><a name="para19">
+
+</a><p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:26.0pt;
+margin-left:0cm;text-align:justify;text-indent:0cm"><a name="para19"><span style="font-size:
+13.0pt"></span></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size:13.0pt">This court agrees with the
+reasoning now put forward by the Secretary of State. It follows that the
+decisions of the Court of Appeal in <i>Akhtar</i> and <i>Bibi </i>must be
+overruled and that this appeal must be allowed by consent in terms of the detailed
+order proposed.</span></a></p><a name="para20">
+
+<p class="ParaLevel1">&nbsp;</p>
+
+</a></div><a name="para20">
+
+<span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left"><b><u>ANNEX</u></b></p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:right">SC/2016/0209</p>
+
+<p class="ParaLevel1" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:right">SC/2016/0211</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left"><u>IN THE SUPREME COURT</u></p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left"><u>ON APPEAL FROM THE COURT OF APPEAL (CIVIL DIVISION)</u></p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left"><u><span style="text-decoration:none">&nbsp;</span></u></p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left"><u>BETWEEN:</u></p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left"><u><span style="text-decoration:none">&nbsp;</span></u></p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">THE QUEEN</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">&nbsp;</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">on the application of</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">&nbsp;</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">DINJAN HYSAJ</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">AGRON BAKIJASI</p>
+
+<p class="ParaLevel1" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:right"><u>Appellants</u></p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">- and –</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">&nbsp;</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">SECRETARY OF STATE FOR THE HOME DEPARTMENT</p>
+
+<p class="ParaLevel1" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:right"><u>Respondent</u></p>
+
+<p class="ParaLevel1" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:right"><u><span style="text-decoration:none">&nbsp;</span></u></p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">DRAFT ORDER</p>
+
+<p class="ParaLevel1" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:center">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">UPON the Respondent accepting that the Appellants are British
+citizens by naturalisation under section 6(1) of the British Nationality Act
+1981 (“the 1981 Act”), and that that citizenship remains valid unless and until
+a formal deprivation order is made pursuant to section 40(3) of the 1981 Act</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">AND UPON the Respondent accepting that her decisions, dated 13
+February 2013 and 27 June 2013, that the Appellants’ British citizenships were
+‘nullities’ (i.e. that the Appellants were not, and had never been, British
+citizens) were wrong in law</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">AND UPON the Respondent agreeing to withdraw the said
+decisions dated 13 February 2013 and 27 June 2013</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">AND UPON the Respondent accepting that the elder child of Mr
+Dinjan Hysaj, born in Albania on 23 November 2010, is a British citizen by
+virtue of section 2(1) of the 1981 Act</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">AND UPON the Respondent accepting that the younger child of Mr
+Hysaj, born in the United Kingdom on 19 September 2015, is a British citizen by
+virtue of section 1(1) of the 1981 Act</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">AND UPON the Respondent accepting that the elder child of Mr
+Bakijasi, born in the United Kingdom on 23 August 2003, and registered as a
+British citizen on 11 October 2006, is a British citizen by virtue of section
+1(3) of the 1981 Act</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">AND UPON the Respondent accepting that the younger child of Mr
+Bakijasi, born in the United Kingdom on 14 June 2007, is a British citizen by
+virtue of section 1(1) of the 1981 Act</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">IT IS ORDERED BY CONSENT THAT:</p>
+
+<p class="ParaLevel1" align="left" style="margin-bottom:0cm;margin-bottom:.0001pt;
+text-align:left">&nbsp;</p>
+
+<p class="ParaLevel1" align="left" style="margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-align:left;
+text-indent:-18.0pt">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appeals be allowed.</p>
+
+<p class="ParaLevel1" align="left" style="margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-align:left;
+text-indent:-18.0pt">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Order of the Court of Appeal dated 26 November 2015 be set aside.</p>
+
+<p class="ParaLevel1" align="left" style="margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-align:left;
+text-indent:-18.0pt">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Respondent do pay the Appellants’ reasonable costs of the claim, the
+appeal to the Court of Appeal and the appeal to the Supreme Court on standard
+basis, to be assessed, if not agreed.</p>
+
+<p class="ParaLevel1" align="left" style="margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-align:left;
+text-indent:-18.0pt">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Appellants’ publicly funded costs be subject to a detailed
+assessment.</p>
+
+<p class="ParaLevel1" align="left" style="margin-top:0cm;margin-right:0cm;
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;text-align:left;
+text-indent:-18.0pt">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Respondent make a payment to each Appellant on account of that
+Appellant’s costs, equivalent to 25% of the relevant Appellant’s total bill of
+costs, such payment to be made within 28 days of the relevant bill of costs
+being served on the Respondent.</p>
+
+</div>
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/82.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

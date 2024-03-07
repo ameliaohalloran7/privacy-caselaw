@@ -1,0 +1,1642 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Gavin Edmondson Solicitors Ltd v Haven Insurance Company Ltd [2018] UKSC 21 (18 April 2018)</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Gavin Edmondson Solicitors Ltd v Haven Insurance Company Ltd [2018] UKSC 21 (18 April 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/21.html</i>
+<br>Cite as: 
+[2018] WLR(D) 241,
+
+[2018] 2 Costs LR 347,
+
+[2018] 3 All ER 273,
+
+[2018] RTR 22,
+
+[2018] 1 WLR 2052,
+
+[2018] PNLR 24,
+
+[2018] UKSC 21,
+
+[2018] WLR 2052
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/21.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2011213960/casereport_31e019c9-a1ee-4471-8be0-8e9176d01303/html">[2018] WLR(D) 241</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011213960/casereport_1742cbff-db02-45db-991f-7c4f11a111ee/html">[2018] 1 WLR 2052</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center><a href="/uk/cases/UKSC/2018/21.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Easter
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 21</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1230.html">[2015] EWCA Civ 1230</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Gavin
+Edmondson Solicitors Limited (Respondent/Cross-Appellant) <i>v</i> Haven
+Insurance Company Limited (Appellant/Cross-Respondent)</span></p>
+
+<p class="MsoNormal"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:17.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:18.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:18.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">18 April 2018</span></b></p>
+
+<p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+text-indent:-288.0pt"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 5 and 6 February 2018</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant/Cross-Respondent</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent/Cross-Appellant</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Lord Marks QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jonathan Crow QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jamie Carpenter</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Lesley Anderson QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">James Wibberley</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Martin Budworth</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Flint
+  Bishop LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Gavin
+  Edmondson Solicitors Limited)</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener - Law
+  Society (written submissions only)</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">David Holland QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Law
+  Society Legal Services Department)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD BRIGGS: (<span style="text-transform:none">with whom
+Lady Hale, Lord Kerr, Lord Wilson and Lord Sumption agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="_Hlk508183362">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal tests the limits, in a modern context, of the long-established
+remedy known as the solicitor’s equitable lien. In its traditional form it is
+the means whereby equity provides a form of security for the recovery by
+solicitors of their agreed charges for the successful conduct of litigation,
+out of the fruits of that litigation. It is a judge-made remedy, motivated not
+by any fondness for solicitors as fellow lawyers or even as officers of the
+court, but rather because it promotes access to justice. Specifically it
+enables solicitors to offer litigation services on credit to clients who,
+although they have a meritorious case, lack the financial resources to pay up
+front for its pursuit. It is called a solicitor’s lien because solicitors used
+to have a virtual monopoly on the pursuit of litigation in the higher courts.
+Nothing in this judgment should be read as deciding whether the relaxation of
+that monopoly means that the lien is still limited only to solicitors.</a></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Solicitors have, since time immemorial, been entitled to a common law
+retaining lien for payment of their costs and disbursements. That is an
+essentially defensive remedy, which merely enables them to hold on to their
+clients’ papers and other property in their actual possession, pending payment.
+It affords no assistance where there is nothing of value in the solicitor’s
+possession, and is powerless where, in a litigation context, the defendant to
+the claim pays the judgment debt or agreed settlement amount direct to the
+solicitor’s client, the claimant. But equity deals with that deficiency in the
+common law by first recognising, and then enforcing, an equitable interest of
+the solicitor in the fruits of the litigation, against anyone who, with notice
+of it, deals with the fruits in a manner which would otherwise defeat that
+interest.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Originally the fruits of the litigation were first identified in the
+judgment debt. Later this was extended to the debt due under an arbitration
+award and, later still, to the debt due to the claimant under an agreement to
+settle the claim. Each of those types of debt was identified as a form of
+property, a chose in action, in which equity could recognise and enforce an
+equitable interest in favour of the solicitor. It was called a lien because the
+chose in action represented the fruits of the solicitor’s work. But it is better
+analysed as a form of equitable charge. Traditionally, the solicitor’s interest
+could not be identified as a beneficial share in the chose, because that would
+have offended the laws against maintenance and champerty. Rather it was, from
+the earliest times, recognised as a security interest, enforceable against the
+fruits of the litigation up to the amount contractually due to the solicitor,
+in priority to the interest of the successful client, or anyone claiming
+through him. It did not depend upon the fruits of the litigation including a
+specific amount for party and party costs, such as a judgment for costs, or an
+element in a settlement sum on account of costs.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the ordinary course of traditional litigation, with solicitors acting
+on both sides, the amount due under a judgment, award or settlement agreement
+would be paid by the defendant’s solicitor to the claimant’s solicitor. Or the
+claimant’s solicitor might recover the sum due to his client by processes of
+execution. In either case the equitable lien would entitle the solicitor not
+merely to hold on to the money received, but to deduct his charges from it
+before accounting to his client for the balance. But equity would also enforce
+the security where the defendant (or his agent or insurer) paid the debt direct
+to the claimant, if the payer had either colluded with the claimant to cheat
+the solicitor out of his charges, or dealt with the debt inconsistently with
+the solicitor’s equitable interest in it, after having notice of that interest.
+In an appropriate case the court would require the payer to pay the solicitor’s
+charges again, direct to the solicitor, leaving the payer to such remedy as he
+might have against the claimant. This form of remedy, or intervention as it is
+sometimes called, arose naturally from the application of equitable principles,
+in which equitable interests may be enforced <i>in personam</i> against anyone
+whose conscience is affected by having notice of them, either to prevent him
+dealing inconsistently with them, or by holding him to account if he does.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The modern context in which the extent of this remedy comes to be
+reviewed is that of the pursuit of modest claims for personal injuries arising
+out of road traffic accidents, by solicitors retained under a Conditional Fee
+Agreement (“CFA”) using the Pre-Action Protocol for Low Value Personal Injury
+Claims in Road Traffic Accidents (“the RTA Protocol”). In bare outline this
+highly effective scheme, hammered out by stakeholders under the auspices of the
+Civil Justice Council and approved by the Civil Procedure Rule Committee,
+enables modest claims for personal injuries to be notified by the claimant’s
+solicitors to the defendant’s insurer using a bespoke online platform (“The RTA
+Portal”) and, where liability is admitted, for a settlement to be negotiated,
+or quantum to be determined by the court, at a fraction of the cost and effort
+which would have to be deployed if the matter were to become the subject of
+ordinary proceedings in the County Court, and on terms which reward the
+claimant’s solicitors with modest fixed costs for their work on the process. It
+is an express objective of the RTA Protocol, and its provisions are designed so
+to ensure, that the solicitors are paid their fixed costs and charges at each
+stage of the process, direct by the defendant’s insurer.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The <i>casus belli</i> for this litigation was a decision by the
+appellant insurer (“Haven”) to respond to the notification of claims on the RTA
+Portal by offering to settle direct with claimants, on terms which included no
+amount for their solicitors’ costs or disbursements (fixed or otherwise), with
+the twin inducements to claimants of a speedier and more generous payment than
+would be likely to be available from a settlement using the RTA Protocol and
+Portal. The motivation of the insurer was the opportunity to avoid having to
+add, to the settlement amount for the injury, the fixed costs and disbursements
+payable under the terms of the RTA Protocol to the claimants’ solicitors.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Settlements thereby achieved included claims by clients of the
+respondent solicitors (“Edmondson”) arising from three motor accidents, all of
+whom retained the respondent firm on a particular type of identically worded
+CFA retainer, known in the trade as a “CFA Lite”, designed to ensure that in no
+circumstances would the client have to put his hands in his own pocket for
+payment of the firm’s charges. Edmondson responded by a claim against Haven for
+wrongful inducement to the clients to breach their retainer contract,
+intentional causing of loss by unlawful means and, by amendment, seeking equitable
+enforcement of its solicitors’ lien. Although the sums involved are
+individually modest, we were told that this practice by Haven had been repeated
+on a sufficiently large scale for the determination of the dispute to have
+financial consequences running to many millions of pounds.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The trial judge (HHJ Jarman QC) rejected the claims in tort and refused
+to grant permission to appeal in respect of those claims. An application for
+permission was made to the Court of Appeal, but not dealt with because of its
+disposal of the claim to enforce the solicitors’ lien. That claim was rejected
+by the trial judge because, in his view, there had been no collusion between
+Haven and the claimants to cheat the solicitors, and because Haven was not on
+notice of the terms of the retainers.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the Court of Appeal </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1230.html">[2015] EWCA Civ 1230</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1230.html">[2016] 1 WLR 1385</a> the main
+submission of Haven was that the particular terms of the CFA Lite retainers
+created no contractual liability of the claimants for Edmondson’s charges, so
+that there was nothing upon which an equitable security could be founded. The
+Court of Appeal agreed that there was no such contractual liability upon the
+true construction of the retainers. Nonetheless it decided that the equitable
+jurisdiction to intervene could be extended far enough to enable the court to
+recognise and then enforce an interest of Edmondson under the RTA Protocol in
+receiving its fixed costs and charges as therein provided or, alternatively, an
+interest under an express provision in the retainers to sue in its client’s
+names for recovery of those charges from Haven, and that Haven knew of those
+interests. Accordingly the Court of Appeal ordered Haven to pay the charges
+allowable under the RTA Protocol to Edmondson, in addition to the settlement sums
+already paid to the claimants.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this court Haven repeated its main submission that the retainers
+created no contractual liability to pay the charges upon which an equitable
+lien or charge could be founded, and submitted that the Court of Appeal had
+been wrong to extend the equity of intervention as it did, the extension being
+contrary to settled principle. Edmondson countered first by asserting that the
+retainers did contain a sufficient contractual liability of the clients for
+their charges to support their equitable lien on conventional grounds.
+Secondly, and in the alternative, Edmondson vigorously supported the extended
+power of equitable intervention in the absence of such a contractual liability,
+as devised by the Court of Appeal. This court permitted The Law Society of
+England and Wales to intervene in writing, broadly in support of the solution
+devised by the Court of Appeal, and to submit written evidence about the
+widespread use of the CFA Lite, and the use of the RTA Protocol. The court is
+grateful for the submissions both of the parties and of the Law Society.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is, according to the researches of counsel, the first occasion for
+this court (or its predecessor) to consider the nature and effect of the
+solicitors’ equitable lien. It is therefore appropriate to describe its
+evolution in a little more detail than might otherwise have been necessary.
+Before doing so, I must first summarise the facts, set out the relevant terms
+of the CFA Lite retainer, and describe the terms and modus operandi of the RTA
+Protocol.</a></p><a name="para11">
+
+<p class="ParaHeading"><b><span style="font-style:normal">The Facts</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I must first describe the particular facts about each accident, and the
+steps taken to settle the claims arising from them. I do so, with gratitude,
+from the summary given in the judgment of Lloyd Jones LJ in the Court of
+Appeal.</a></p><a name="para12">
+
+<p class="ParaHeading">Ainsley Tonkin</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Ainsley Tonkin was involved in a road traffic collision on 10 April
+2012. Haven’s insured was also involved in the collision and on the 12 April
+2012. Haven, having obtained Mr Tonkin’s contact details from its insured’s
+accident report form, contacted Mr Tonkin concerning a hire vehicle. On 16
+April 2012 Mr Tonkin entered into a CFA with Edmondson and on 17 April 2012 the
+case entered the Portal. On 20 April 2012 Mr Tonkin telephoned Haven asking “where
+they go from here”. He was told by Louise Richardson of Haven:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“... What we can do is offer you a
+scheme to compensate you for your injury. We can work out a sum of money and
+you can put it into your account as soon as you agree on that figure.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Tonkin told Ms Richardson that he had his insurance solicitor and
+volunteered the information that there was a 14-day cooling off period. They
+then negotiated on the telephone and Ms Richardson offered £2,200. She said:</a></p><a name="para14">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“So the offer stands at the moment
+at two thousand two hundred pounds and obviously [indecipherable] think about
+it but if you do ask your solicitors they will tell you that they can get you
+more ... but at the end of the day that offer will come from myself and we
+through solicitors we have to pay solicitor costs as well.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Tonkin replied that he fully understood that and went on to raise
+other matters. They eventually negotiated a settlement at £2,350. Mr Tonkin
+asked what he should do about the solicitors he had instructed. Ms Richardson
+said he should just call them and tell them that he did not want to deal with
+them any more and they could just close the claim. On 23 April 2012 Haven sent
+a written offer of settlement to Mr Tonkin who on 24 April 2012 completed and
+signed the “mandate of acceptance” which was returned to Haven on 26 April. The
+mandate of acceptance confirmed that the offer was accepted: “in full and final
+settlement of my claim for Pain, Suffering &amp; Loss of Amenity in respect of
+injuries sustained and any financial losses incurred in relation to the road
+traffic accident.”</a></p><a name="para15">
+
+<p class="ParaHeading">Michael Wheater, Dale Makey, Saul Mohsin and Rose Lunt</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 23 June 2012, Mr Michael Wheater, Mr Dale Makey, Mr Saul Mohsin and
+Ms Rose Lunt were all travelling in the same vehicle when it was involved in a
+road traffic accident. On 20 July 2012 all four entered into CFAs with
+Edmondson and on 23 July 2012 their cases entered the Portal. On 24 July 2012
+Haven sent to each of them a letter containing an offer of settlement. On 7
+August 2012 Mr Mohsin telephoned Mr O’Connell of Haven who told him that “we
+offer services if you want to come to us to avoid going to the solicitors”. Mr
+Mohsin explained that he had actually gone to some solicitors but he was
+concerned that it was going to take a long time to get everything settled.
+Later that day Mr Mohsin telephoned Haven again with the news that he had
+spoken to Mr Wheater, Mr Makey and Ms Lunt and that they were all going to
+accept the offer. On the same day Mr Mohsin sent an email enclosing mandates of
+acceptance completed by all four claimants.</a></p><a name="para16">
+
+<p class="ParaHeading">Daniel Grannell</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Daniel Grannell was involved in a road traffic accident on 30 August
+2012. On the following day he entered into a CFA with Edmondson and his case
+entered the Portal that day. On 10 September 2012 Haven sent Mr Grannell a
+letter offering to settle the claim for £1,900. On 14 September 2012 Haven
+received a completed mandate of acceptance signed by Mr Grannell on 13
+September 2012.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thereafter an impostor claiming to be Mr Grannell spoke by telephone
+with Haven and the compensation was paid to an account on his directions. When
+Mr Grannell subsequently contacted Haven, Haven became aware that it had been
+defrauded. In a telephone conversation on 6 November 2012 Mr Grannell stated
+that the mandate of acceptance dated 13 September 2012 was genuine. Mr Ralph
+McClaren of Haven told him that the offer of £1,900 was still on the table and
+that he could arrange for that to be paid at once. Mr Grannell replied that he
+would love that. Mr McClaren then said that he would contact Edmondson and tell
+Edmondson what they had done. He then added:</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“As I say they’ll probably when
+you speak to them they’ll probably will tell you not to ya know or you shouldn’t
+do that but for the to be honest with you if when they call you probably a bit
+less the reason we offer you a bit more is because of the fact the solicitors
+get kept out of it so we don't have to pay their fees that’s basically it.”</p>
+
+<p class="ParaNoNumber">Mr Grannell said he was absolutely happy with that.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The facts relevant to the issue about notice were the same in all three
+cases. As will shortly appear, the RTA Protocol prescribes a simple online form
+of notification of a claim (a Claim Notification Form or “CNF”) which contains
+a tick box opposite a statement that the solicitors had been retained under a
+CFA which provided for a success fee. In each case Edmondson ticked the box and
+filled in the date of the retainer. Thus Haven knew that information via the
+Portal before it began negotiating with the claimants. Haven did not know the
+detailed terms of the retainers, which I shall now describe.</a></p><a name="para19">
+
+<p class="ParaHeading">The CFA Lite Retainers</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Each of the claimants retained Edmondson on identical terms. They were
+each sent, on the same day, the following documents. First, a document headed
+(under the firm’s logo) “CFA”, containing these relevant provisions:</a></p><a name="para20">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“This agreement is a binding legal
+contract between you and your solicitor/s. Before you sign, please read
+everything carefully.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">This agreement must be read in
+conjunction with the Law Society document ‘What you need to know about a CFA’.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Paying us</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">If you win your claim, you pay our
+basic charges, our disbursements and a success fee. You are entitled to seek
+recovery from your opponent of part or all of our basic charges, our
+disbursements, a success fee and insurance premium as set out in the document ‘What
+you need to know about a CFA.’</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The Success Fee</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">The success fee is set at 100% of
+basic charges, where the claim concludes at trial; or 12.5% where the claim
+concludes before a trial has commenced. In addition 5% relates to the
+postponement of payment of our fees and expenses and cannot be recovered from
+your opponent. The Success fee inclusive of any additional percentage relating
+to postponement cannot be more than 100% of the basic charges in total.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, they were sent the Law Society document referred to in the
+above quotation. It is a standard form document published in 2005. It contained
+the following relevant provisions.</a></p><a name="para21">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<b>What do I pay if I win?</b></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">If you win your claim, you pay our
+basic charges, our disbursements and a success fee. The amount of these is not
+based on or limited by the damages. You can claim from your opponent part or
+all of our basic charges, our disbursements, a success fee and insurance
+premium.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><b>Basic charges</b></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">These are for work done from now
+until this agreement ends. These are subject to review.”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Under the heading “How we
+calculate our basic charges” the document sets out a table of hourly rates.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<b>Road Traffic Accidents</b></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">If your claim is settled before
+proceedings are issued, for less than £10,000, our basic costs will be £800;
+plus 20% of the damages agreed up to £5,000; and 15% of the damages agreed
+between £5,000 and £10,000. [If you live in London, these costs will be
+increased by 12.5%]. These costs are fixed by the Civil Procedure Rules.”</p>
+
+<p class="ParaNoNumber" style="margin-left:72.0pt">Provision is then made for
+charging VAT.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<b>Dealing with costs if you win</b></p>
+
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>You are liable to pay all our basic charges, our disbursements and
+success fee.</p>
+
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Normally, you can claim part or all of our basic charges, our
+disbursements success fee and insurance premium from your opponent.</p>
+
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If we and your opponent cannot agree the amount, the court will decide
+how much you can recover. If the amount agreed or allowed by the court does not
+cover all our basic charges and our disbursements, then you pay the difference.</p>
+
+<p class="MsoQuote" style="margin-left:126.0pt;text-indent:-18.0pt">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>You will not be entitled to recover from your opponent the part of the
+success fee that relates to the cost to us of postponing receipt of our charges
+and our disbursements. This remains payable by you.”</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">As with the costs in general, you
+remain ultimately responsible for paying our success fee.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">You agree to pay into a designated
+account any cheque received by you or by us from your opponent and made payable
+to you. Out of the money, you agree to let us take the balance of the basic
+charges; success fee; insurance premium; our remaining disbursements; and VAT.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">You take the rest.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">We are allowed to keep any
+interest your opponent pays on the charges.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt"><i>If your opponent fails to pay</i></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">If your opponent does not pay any
+damages or charges owed to you, we have the right to take recovery action in
+your name to enforce a judgment, order or agreement. The charges of this action
+become part of the basic charges.”</p>
+
+<p class="ParaNoNumber" style="margin-left:72.0pt">In a lengthy definitions
+section there is this definition of “win”:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">“<i>Win</i></p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">Your claim for damages is finally
+decided in your favour, whether by a court decision or an agreement to pay you
+damages or in any way that you derive benefit from pursuing the claim.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third document is the Client Care Letter. It deals with a number of
+miscellaneous aspects of the solicitor client relationship and is not primarily
+drafted as a contractual document. But it contains the following relevant
+provisions:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Costs:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">In this case we have advised and
+you have elected to enter into a conditional fee agreement. Full details of the
+terms of the agreement and our charging rates are set out within the
+conditional fee agreement and the accompanying schedules.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">For the avoidance of any doubt if
+you win your case I will be able to recover our disbursements, basic costs and
+the success fee from your opponent. You are responsible for our fees and
+expenses only to the extent that these are recovered from the losing side. This
+means that if you win, you pay nothing.”</p>
+
+<p class="ParaNoNumber">It is this last quoted passage that is said to make the
+retainer a CFA Lite, because of its evident intent to assure the client that he
+will not in any circumstances have to put his hand in his own pocket to pay his
+solicitors.</p>
+
+<p class="ParaHeading"><b><span style="font-style:normal">The RTA Protocol</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This voluntary pre-action protocol came into force in 2010. At the relevant
+time for present purposes it applied to claims for RTA personal injuries
+between £1,000 (which was the dividing line between the Fast Track and the
+Small Claims Track) and £10,000. It has since been extended to higher value
+claims, up to £25,000, which corresponds with the boundary between the Fast
+Track and the Multi Track. Current Government proposals to raise the Small
+Claims Track boundary to £5,000 for RTA cases may greatly affect its scope,
+since more that 90% by number of RTA cases are for damages below that level.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I can again take the summary of the relevant provisions of the RTA Protocol
+from the judgment of Lloyd Jones LJ in the Court of Appeal. The Protocol
+describes in great detail the behaviour the court will normally expect of
+parties, of their legal representatives and of the parties’ insurers, involved
+in such claims. Under the Protocol scheme parties, lawyers and insurers, when
+required to send information to one another, are expected to do so
+electronically through a website (“the Portal”) established by road accident
+insurers. While notice of claims falling within the Protocol is expected to be
+given in accordance with the procedures set out in the Protocol, they are not
+mandatory. However, there are possible costs consequences if qualifying claims
+are not processed in accordance with the Protocol.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The preamble to the RTA Protocol states:</a></p><a name="para25">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“2.1&nbsp;&nbsp;&nbsp;&nbsp; This Protocol describes
+the behaviour the court will normally expect of the parties prior to the start
+of proceedings where a claimant claims damages valued at no more than £10,000
+as a result of a personal injury sustained by that person in a road traffic
+accident.”</p>
+
+<p class="ParaNoNumber">The aims of the Protocol are set out in paragraph 3.1.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“3.1&nbsp;&nbsp;&nbsp;&nbsp; The aim of this Protocol
+is to ensure that</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the defendant pays damages
+and costs using the process set out in the Protocol without the need for the
+claimant to start proceedings;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; damages are paid within
+a reasonable time; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the claimant’s legal
+representative receives the fixed costs at the end of each stage in this
+Protocol.”</p>
+
+<p class="ParaNoNumber">Claims which no longer continue under the Protocol cannot
+subsequently re-enter the process. (Paragraph 5.11)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The process is initiated by the completion of the Claim Notification
+Form (“CNF”). Paragraph 6.1 provides:</a></p><a name="para26">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“6.1&nbsp;&nbsp;&nbsp;&nbsp; The claimant must complete
+and send -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the CNF to the
+defendant’s insurers; ...”</p>
+
+<p class="ParaNoNumber">The RTA Protocol makes provision for response by the
+insurer as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“6.10&nbsp; The defendant must send to
+the claimant an electronic acknowledgment the next day after receipt of the
+CNF;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">6.11&nbsp;&nbsp;&nbsp; The defendant must
+complete the ‘Insurer Response’ section of the CNF (‘the CNF response’) and
+send it to the claimant within 15 days;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">6.15&nbsp;&nbsp;&nbsp; The claim will no longer
+continue under this Protocol where the defendant, within the period in
+paragraph 6.11 or 6.13 -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; makes an admission of
+liability but alleges contributory negligence (other than in relation to the
+claimant’s admitted failure to wear a seat belt);</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; does not complete and
+send the CNF response;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; does not admit
+liability; or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; notifies the claimant
+that the defendant considers that (a) there is inadequate mandatory information
+in the CNF; or (b) if proceedings were issued, the small claims track would be
+the normal track for that claim.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Protocol makes provision for fixed costs to be paid at specified
+points. Paragraph 6.18 makes provision for Stage 1 fixed costs.</a></p><a name="para27">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“6.18&nbsp; Except where the claimant
+is a child, the defendant must pay the Stage 1 fixed costs in rule 45.29 where</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; liability is admitted;
+or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; liability is admitted
+and contributory negligence is alleged only in relation to the claimant’s
+admitted failure to wear a seat belt,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">within ten days after sending the
+CNF response to the claimant as provided in paragraph 6.11 or 6.13.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If the claim proceeds to Stage 2, the Protocol requires a Stage 2
+Settlement Pack including a medical report to be sent to the defendant within
+15 days of the claimant approving a final medical report and agreeing to rely
+on it. (Paragraph 7.26). There is a 35 day period for consideration of the
+Stage 2 Settlement Pack by the defendant (Paragraph 7.28). Paragraph 7.37
+provides:</a></p><a name="para28">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“7.37&nbsp; Any offer to settle made at
+any stage by either party will automatically include, and cannot exclude -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Stage 2 fixed costs
+in rule 45.29;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an agreement in
+principle to pay disbursements;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a success fee in accordance
+with rule 45.31(1).”</p>
+
+<p class="ParaNoNumber">Paragraph 7.40 provides in respect of Settlement:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“7.40&nbsp; Except where the claimant
+is a child or paragraphs 7.41 and 7.42 apply, the defendant must pay -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the agreed damages less
+any</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; deductible amount which
+is payable to the CRU; and</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; previous interim
+payment;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any unpaid Stage 1
+fixed costs in rule 45.29;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Stage 2 fixed costs
+in rule 45.29;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the relevant
+disbursements allowed in accordance with rule 45.30; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a success fee in
+accordance with rule 45.31 for Stage 1 and Stage 2 fixed costs, within ten days
+of the end of the relevant period in paragraphs 7.28 to 7.30 during which the
+parties agreed a settlement.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Part 36 CPR - Offers to Settle, has been amended to take account of the
+Protocol. Part 45 CPR, Fixed Costs, makes specific provision for costs under
+the Protocol scheme.</a></p><a name="para29">
+
+<p class="ParaHeading"><b><span style="font-style:normal">The Solicitors’
+Equitable Lien: the Existing Law</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The earliest decision to recognise the equitable lien is <i>Welsh v Hole
+</i>(1779) 1 Dougl KB 238. The plaintiff obtained judgment for £20 and costs in
+a civil claim for assault, but then compromised the claim for a direct payment
+by the defendant of £10. There was no collusion to defeat the solicitor’s right
+to payment of his bill. Lord Mansfield said this:</a></p><a name="para30">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“An attorney has a lien on the
+money recovered by his client, for his bill of costs; if the money come to his
+hands, he may retain to the amount of his bill. He may stop it in transit if he
+can lay hold of it. If he apply to the Court, they will prevent its being paid
+over till his demand is satisfied. I am inclined to go still farther, and to
+hold that, if the attorney give notice to the defendant not to pay till his
+bill should be discharged, a payment by the defendant after such notice would
+be in his own wrong, and like paying a debt which has been assigned, after
+notice. But I think we cannot go beyond those limits.”</p>
+
+<p class="ParaNoNumber">There having been no notice in that case, the solicitor’s
+claim against the defendant failed. It is implicit in Lord Mansfield’s
+reasoning that, if there had been notice to the defendant, he would have had to
+pay a second time, up to the amount of the solicitor’s bill. The typically
+terse judgment may be said to have dealt with legal and equitable lien without
+clearly distinguishing between the two, but the analogy of an assigned debt
+shows that Lord Mansfield recognised that the solicitor had an interest in the
+judgment debt which the court would protect, provided that notice of that
+interest had been given to the debtor before payment to the judgment creditor. An
+interest dependent upon notice is typical of an equitable interest.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Confirmation that payment of the judgment debt to the claimant after
+notice of the solicitor’s interest exposed the payer to having to pay again was
+provided in <i>Read v Dupper</i> </a><a href="http://www.worldlii.org/int/cases/EngR/1795/4137.pdf">101 ER 595</a> (1795) 6 Term Rep 361. In that case the
+defendant’s solicitor paid the plaintiff direct, after notice of the
+plaintiff’s solicitor’s interest, and had to pay again. Lord Kenyon began:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The principle by which this
+application is to be decided was settled long ago, namely that the party should
+not run away with the fruits of the cause without satisfying the legal demands
+of his attorney, by whose industry, and in many instances at whose expense,
+those fruits are obtained.”</p>
+
+<p class="ParaNoNumber">Lord Kenyon explained Lord Mansfield’s reference to
+assignment in <i>Welsh v Hole </i>in terms of equitable principle. He said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… according to the rules of
+equity and honest dealing if the assignee give notice to the debtor of such
+assignment, he shall not afterwards be suffered to avail himself of a payment
+to the principal in fraud of such notice.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Ormerod v Tate</i> (1801) 1 East 464, </a><a href="http://www.worldlii.org/int/cases/EngR/1801/256.pdf"></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.worldlii.org/int/cases/EngR/1801/256.html">102 ER 179</a> the fruits consisted of the
+debt arising from an arbitration award. That appears to have been a case of
+collusion, because Lord Kenyon described the arrangement to pay the claimant
+direct as:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“no other than a mere shuffle
+between the plaintiff and defendant to cheat the attorney of his lien.”</p>
+
+<p class="ParaNoNumber">He described the extension of the principle to
+accommodate arbitration awards as justified by “convenience, good sense and
+justice” and recognised a public interest in the extension, to encourage
+litigants to use arbitration.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Two early cases demonstrate that access to justice lay behind the
+development of the principle. The first is <i>Ex p Bryant </i></a><a title="Link to BAILII version" href="http://www.worldlii.org/int/cases/EngR/1815/982.html">(1815) 1 Madd 49</a>.
+Vice Chancellor Plumer said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I do not wish to relax the
+doctrine as to lien, for it is to the advantage of clients, as well as
+solicitors; for business is often transacted by solicitors for needy clients,
+merely on the prospect of having their costs under the doctrine as to lien.”</p>
+
+<p class="ParaNoNumber">The Vice Chancellor also said, <i>obiter,</i> that
+knowledge of the solicitor’s lien on the part of the payer would be as
+effective as notice. To the same effect is <i>Gould v Davis </i>(1831) 1 Cr
+&amp; J 415.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second case is <i>In re Moss</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpEq/1866/133.html">(1866) LR 2 Eq 345</a>, although it was
+about a legal rather than equitable lien. Lord Romilly MR said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I think it of great importance to
+preserve the lien of solicitors. That is the real security for solicitors
+engaged in business. It is also beneficial to the suitors. It would frequently
+happen, but for the lien which solicitors have upon papers and deeds, that a
+client who is not able to advance money to enable them to carry on business would
+be deprived of justice, through inability to prosecute his claims in the suit.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Barker v St Quintin</i> (1844) 12 M &amp; W 441, </a><a href="http://www.worldlii.org/int/cases/EngR/1844/134.pdf">152 ER 1270</a> shows, better than
+any other, that the equitable lien operates by way of security or charge. Baron
+Parke said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The lien which an attorney is
+said to have on a judgment (which is, perhaps, an incorrect expression) is
+merely a claim to the equitable interference of the Court to have that judgment
+held as a security for his debt.”</p>
+
+<p class="ParaNoNumber">A similar analysis is provided by Lord Hanworth MR in<i>
+Mason v Mason and Cottrell</i> [1933] P 199, at 214. The use of the concepts
+security and charge imply that there must be identified some fund over which it
+can operate. This was described as a necessary condition of equitable
+interference under this principle in <i>In re Fuld dec’d (No 4)</i> [1968] P
+727, per Scarman J at 736. The requirement for a fund may be satisfied not just
+by a judgment debt or arbitration award, but also by a debt arising from a
+settlement agreement. Provided that the debt has arisen in part from the
+activities of the solicitor there is no reason in principle (and none has been
+suggested) why formal proceedings must first have been issued, all the more so
+in modern times when parties and their solicitors are encouraged as a matter of
+policy to attempt to resolve disputes by suitable forms of ADR, and when
+pre-action protocols of widely differing kinds have been developed precisely
+for that purpose.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The authorities on the solicitors’ equitable lien (including many of
+those summarised above) were recently reviewed by the Court of Appeal in <i>Khans
+Solicitors v Chifuntwe</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/481.html">[2014] 1 WLR 1185</a>. The fund in question consisted of
+a debt arising from the agreement of the Home Secretary to settle pending
+judicial review proceedings by a payment of a specific sum on account of the
+claimant’s costs. The payment was made direct by the Treasury Solicitor to the
+claimant (by then acting in person) after express notice from the claimant’s
+former solicitors that they claimed a lien. The Home Secretary was ordered to pay
+the settlement sum a second time to the solicitors, less an amount already paid
+by the client on account. Sir Stephen Sedley provided this summary, at para 33:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In our judgment, the law is today
+(and, in our view, has been for fully two centuries) that the court will
+intervene to protect a solicitor’s claim on funds recovered or due to be
+recovered by a client or former client if (a) the paying party is colluding
+with the client to cheat the solicitor of his fees, or (b) the paying party is
+on notice that the other party’s solicitor has a claim on the funds for
+outstanding fees. The form of protection ought to be preventative but may in a
+proper case take the form of dual payment.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I consider that to be a correct statement of the law. It recognises that
+the equity depends upon the solicitor having a claim for his charges against
+the client, that there must be something in the nature of a fund against which
+equity can recognise that his claim extends (which is usually a debt owed by
+the defendant to the solicitor’s client which owes its existence, at least in
+part, to the solicitor’s services to the client) and that for equity to
+intervene there must be something sufficiently affecting the conscience of the
+payer, either in the form of collusion to cheat the solicitor or notice (or, I
+would add knowledge) of the solicitor’s claim against, or interest in, the
+fund. The outcome of the case also recognised that the solicitor’s claim is
+limited to the unpaid amount of his charges. Implicit in that is the recognition
+that the solicitor’s interest in the fund is a security interest, in the nature
+of an equitable charge.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It remains to consider whether the decision of the Court of Appeal in
+the present case is either an application of that settled principle, or a legitimate
+extension of it, in the context of its finding that Edmondson had no
+contractual entitlement to its charges from any of the claimants, but only the
+expectation of receiving fixed costs, disbursements and a success fee under the
+terms of the RTA Protocol. But it is first necessary to determine whether or
+not Edmondson did have a contractual entitlement to its charges under the CFA.</a></p><a name="para38">
+
+<p class="ParaHeading"><b><span style="font-style:normal">Construction of the CFA
+- Does the client have any contractual liability to pay the solicitor’s
+charges?</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the heart of the Court of Appeal’s analysis lay a negative answer to
+that question. Like the trial judge, Lloyd Jones LJ identified a tension
+between the terms of the CFA itself (incorporating the Law Society’s standard
+2005 terms) and the last quoted passage in the Client Care Letter which, being
+labelled for the avoidance of any doubt, was held to prevail. At para 18 he
+said:</a></p><a name="para39">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The solicitor has no recourse
+against his client for the fees and is limited to what he can recover from the
+losing side.”</p>
+
+<p class="ParaNoNumber">Later, at para 30, he continued:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“I consider that the effect of the
+client care letter is to override the general provisions in each CFA with the
+result that the underlying claimants were not under any personal liability to
+pay the fees of Edmondson. Rather, Edmondson has limited its fees to what may
+be recovered from the defendants in the underlying proceedings. In these
+circumstances, Edmondson would not have a lien over assets received on its
+clients’ account because there is no underlying liability of the clients to
+Edmondson for the lien to protect.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I respectfully disagree. In my judgment, for the reasons which follow,
+the Client Care Letter did not destroy the basic liability of the client for
+Edmondson’s charges expressly declared in the CFA and Law Society’s standard terms.
+It merely limited the recourse from which Edmondson could satisfy that
+liability to the amount of its recoveries from the defendant. It both preserved
+and in my view affirmed that basic contractual liability, to the full extent
+necessary to form the basis of a claim to an equitable charge as security.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first question is whether the Client Care Letter had contractual
+effect at all. Both it and the two other documents sought to make it clear that
+the full terms of the retainer were to be found in the CFA document and in the
+incorporated Law Society terms. Nonetheless I am prepared to assume, in favour
+of the client, that the last quoted passage in the Client Care Letter was
+either part of the contract of retainer, or a collateral contract.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I consider that the language of that passage does three things. First,
+it asserts a right for Edmondson to recover its fees and charges from the
+defendant. That affirms the equitable lien, since there would otherwise be no
+basis upon which Edmondson could do so. Secondly it states in clear terms that
+such a recovery is the means by which Edmondson can give effect to a continuing
+responsibility of the client for those fees. Thirdly it limits Edmondson’s
+recourse for the fees to the amount recovered from the defendant.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is in my view a compelling parallel in a limited recourse secured
+loan agreement. A lender may lend a million pounds to a borrower, take valuable
+security, and then agree to limit his recourse to the amount recovered by
+enforcing that security. It would be absurd to say that the lender thereby
+deprived the security of all effect because the borrower would not have to put
+his hand in his pocket to pay anything in addition.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Client Care Letter was plainly intended to be read, so far as
+possible, in accordance with, rather than in opposition to, the CFA and Law
+Society’s terms. Those two documents are, in the passages from them quoted
+above, shot through with clear assertions of the client’s responsibility for
+the firm’s charges in the event of a win in the litigation, which is defined to
+include a settlement of the claim under which there is an agreement to pay the
+claimant damages. Full effect can be given to the objective stated in the
+Client Care Letter, that the client should not have to put his hand in his own
+pocket to pay the solicitors’ charges, without destroying the basic contractual
+responsibility of the client for their payment, if it is construed as I have
+described.</a></p><a name="para44">
+
+<p class="ParaHeading"><b><span style="font-style:normal">Did Haven have Notice
+of Edmondson’s Lien?</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The result of the above analysis is that there did exist, in each of the
+six cases, a sufficient contractual entitlement of Edmondson against its
+claimant clients to form the basis of a claim to an equitable lien over the
+agreed settlement debts payable by Haven on behalf of its insured drivers. The
+conventional analysis therefore requires the following questions to be
+answered: (1) did those settlement debts owe their creation, to a significant
+extent, to Edmondson’s services provided to the claimants under the CFAs? and
+(2) in the absence of collusion did Haven have notice (or knowledge) of
+Edmondson’s interest in the settlement debts?</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There has been no challenge to an affirmative answer to the first
+question, save in the case of Mr Tonkin, to which I shall return below. Edmondson
+completed and lodged the CNFs onto the RTA Portal as the first step in its
+discharge of its duties under its retainers. Each CNF contained a sufficient
+description of the clients’ claims and an indication that, unless settled, they
+would in due course lead to litigation. Even though it did not involve
+Edmondson in much work, it was enough to trigger Edmondson’s entitlement to its
+basic charge, disbursements and success fee under the CFA terms if there ensued
+a successful outcome to the claim, and enough to galvanise Haven into making a
+direct settlement offer to each of the claimants.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question of knowledge or notice is in dispute. Absence of notice was
+the main reason why the claims failed before the judge. In his view it was a
+fatal objection that Haven did not know the detailed terms of the CFAs. In the
+Court of Appeal it was held that Haven had both express notice, implied notice
+and the requisite knowledge in any event. The claim under the traditional
+principles of equitable lien failed, not because of absence of notice, but
+because there was no underlying responsibility of the clients to pay
+Edmondson’s charges.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is common ground that, by the time that Haven paid the settlement
+sums direct to the claimants, it knew that each of them had retained Edmondson
+under a CFA, but not its detailed terms. This much was apparent from the CNFs
+which Edmondson placed on the Portal. Haven also knew, from the fact that
+Edmondson chose to initiate each claim by using the RTA Portal, that Edmondson
+was most unlikely to have been paid its charges up front, but rather that it
+expected, if successful, to obtain payment of its charges from monies paid by
+Haven under the terms of the RTA Protocol, if the case settled while in the
+Portal, or by way of a costs order if it went to court. Either way, Haven knew
+that Edmondson was looking to the fruits of the claim for recovery of its
+charges.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Haven’s knowledge that, if the claim could not be settled direct, it
+would have to fund Edmondson’s recoverable charges is also apparent from the
+recorded telephone conversations with Mr Tonkin and Mr Grannell set out above. The
+judge found that Haven had this knowledge, and intended by settling direct to
+avoid having to pay Edmondson’s charges. The claim of collusion failed, not
+because Haven lacked the requisite intent, but because each of the claimants
+did.</a></p><a name="para49">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In my judgment the Court of Appeal’s approach to the question of notice
+is to be preferred to that of the judge. Once a defendant or his insurer is
+notified that a claimant in an RTA case has retained solicitors under a CFA,
+and that the solicitors are proceeding under the RTA Protocol, they have the
+requisite notice and knowledge to make a subsequent payment of settlement
+monies direct to the claimant unconscionable, as an interference with the
+solicitor’s interest in the fruits of the litigation. The very essence of a CFA
+is that the solicitor and client have agreed that the solicitor will be
+entitled to charges if the case is won. Recovery of those charges from the
+fruits of the litigation is a central feature of the RTA Protocol.</a></p><a name="para50">
+
+<p class="ParaHeading"><b><span style="font-style:normal">The re-formulation of
+the Equitable Lien by the Court of Appeal</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court’s conclusion that the CFAs made between Edmondson and its
+clients did contain a sufficient contractual entitlement to charges to support
+the equitable lien on traditional grounds makes it strictly unnecessary to
+address this further question, because the sub-stratum upon which it is based
+is missing. There is simply no need, on these facts, to do more than apply the
+principles summarised in the <i>Khans </i>case, to reach the conclusion that
+Edmondson are entitled to have Haven pay them the charges identified in the
+CFAs as recoverable in the event of a win, to the extent that those charges did
+not exceed the settlement sums actually agreed to be paid to the claimants.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the correctness or otherwise of the Court of Appeal’s reformulation
+of the principle has been extensively argued, and supported by the Law Society
+as intervener. The Court of Appeal rested its conclusion on two alternative
+grounds, both of which assumed that Edmondson’s clients had no contractual
+responsibility of any kind for its charges. The first was that Edmondson had
+its own entitlement to recover its charges from Haven under the RTA Protocol. The
+second was that the clients had such an entitlement, and Edmondson had a right
+to sue Haven for its enforcement using the client’s name for that purpose.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are in my judgment insuperable obstacles in the way of each of
+those alternatives. They stem mainly from the voluntary nature of the RTA
+Protocol. It is not contractual in nature (although participants do undertake
+certain irrelevant contractual obligations to PortalCo, which operates the RTA
+Portal). A failure to comply with some provisions, such as the requirement to
+lodge a CNF response within 15 days, automatically leads to the case leaving
+the scheme. Other breaches of its terms entitle, but do not oblige, the other
+party to take the case out of the scheme. True it is that, in a case where
+liability is not in issue, the solicitor participant has an expectation that it
+will receive its charges stage by stage under the scheme from the defendant’s
+insurer, but that is not a contractual or other legal right. Generally, breach
+of protocol terms may lead to adverse costs orders if the matter then becomes
+the subject of proceedings in court, but this lies in the discretion of the
+court.</a></p><a name="para53">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For this purpose I am prepared to assume that an offer of a settlement
+payment, made direct by the insurer to the claimant, which makes no provision
+for payment of Stage 2 fixed costs, disbursements and a success fee to the
+solicitor, at a time when a case has entered and not yet left the scheme, is a
+breach of paragraph 7.37 of the RTA Protocol. But it creates no legal or
+equitable rights of any kind, if the client has no responsibility to the
+solicitor sufficient to support the solicitor’s lien. There is no legal
+entitlement of the solicitor direct against the insurer which the lien can
+support by way of security.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As for suing in the name of the client, this is (as counsel agreed) a form
+of contractual subrogation. The solicitor can be in no better position than the
+client, as against the insurer. In the present case, all the clients contracted
+with Haven to receive settlement sums which did not include a costs element,
+and were paid in full. Any attempt by Edmondson to stand in their shoes by way
+of subrogation would be met by an unanswerable defence from Haven, based upon
+the settlement agreements.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Counsel for Edmondson presented a detailed and vigorous submission to
+the effect that the flexibility of the equitable remedy for the protection of
+solicitors was apt to respond to any instance of unconscionable conduct by the
+insurer, including breach of the RTA Protocol, all the more so because of the
+strong public policy in enforcing the scheme, designed as it was to balance the
+competing interests of its stakeholders while ensuring access to justice for
+the victims of road accidents at proportionate cost. He sought to show, by
+reference to the cases which I have summarised, that this remedy had that
+flexibility from the outset.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I acknowledge that equity operates with a flexibility not shared by the
+common law, and that it can and does adapt its remedies to changing times. But
+equity nonetheless operates in accordance with principles. While most equitable
+remedies are discretionary, those principles provide a framework which makes
+equity part of a system of English law which is renowned for its
+predictability. I have sought to identify from the cases the settled principles
+upon which this equitable remedy works. One of them is that the client has a
+responsibility for the solicitor’s charges.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is simply wrong in my view to seek to distil from those cases a
+general principle that equity will protect solicitors from any unconscionable
+interference with their expectations in relation to recovery of their charges. Furthermore
+the careful balance of competing interests enshrined in the RTA Protocol
+assumes that a solicitor’s expectation of recovery of his charges from the
+defendant’s insurer is underpinned by the equitable lien, based as it is upon a
+sufficient responsibility of the client for those charges. Were there no such
+responsibility, it is hard to see how the payment of charges to the solicitor,
+rather than to the client, would be justified. Furthermore, part of the balance
+struck by the RTA Protocol is its voluntary nature. Its voluntary use stems
+from a perception by all stakeholders that its use is better for them than
+having every modest case go to court. If the court were to step in to grant
+coercive remedies to those affected by its misuse by others, that balance would
+in all probability be undermined.</a></p><a name="para58">
+
+<p class="ParaHeading"><b><span style="font-style:normal">Mr Tonkin</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was submitted for Haven that the particular facts about Mr Tonkin’s
+case did not entitle Edmondson to an equitable lien because, it was said,
+Edmondson’s work pursuant to its retainer made no significant contribution to
+the settlement. The submission was that Haven offered Mr Tonkin a settlement
+before, and without regard to, Edmondson logging Mr Tonkin’s claim onto the
+Portal.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I disagree. The relevant chronology is as follows. On 12 April 2012,
+shortly after the accident, Haven contacted Mr Tonkin to discuss the provision
+of a hire car for him. This had nothing to do with a personal injury claim,
+although of course it arose from the same accident. Mr Tonkin and Edmondson
+entered into a CFA for the purpose of pursuing his personal injury claim on 16
+April and, on the following day, Edmondson logged the details of that claim
+onto the Portal. Three days later, on 20 April, and after Haven had
+acknowledged the claim on the Portal, Mr Tonkin telephoned Haven. The
+transcript of the conversation shows that he was ringing about the provision of
+a hire car. Haven took that opportunity to make him an oral settlement offer
+for his personal injuries, initially of £2,200, later revised after negotiation
+to £2,350. This was repeated in writing by Haven on 23 April, and accepted by
+Mr Tonkin on the following day.</a></p><a name="para60">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Solicitors for a claimant generally contribute to a settlement by
+logging an RTA claim onto the Portal in two ways. First, they thereby supply to
+the insurer the essential details of the claim necessary for the insurer to
+appraise it and decide whether, and if so in what amount, to make a settlement
+offer. These go well beyond the details the insurer is likely to receive from
+its insured’s accident report, although that report will be likely to assist
+the insurer to decide whether liability should be put in issue. Secondly, they
+thereby demonstrate that the claimant intends seriously to pursue a claim for
+personal injuries, and has obtained, by the CFA, the services of solicitors for
+that purpose on terms which do not require the claimant to provide his own
+litigation funding up front. The incentive which that will usually supply to
+the insurer to settle a modest claim early, before costs increase, and where
+liability is not in issue, is obvious.</a></p><a name="para61">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In Mr Tonkin’s case the evidence does not show that Haven had, before
+Edmondson logged the claim onto the Portal, already obtained any, let alone any
+sufficient, information about the personal injuries claim. The earlier
+discussion with Mr Tonkin was about the provision of a hire car. Moreover the
+chronology shows that Haven had already received and acknowledged Mr Tonkin’s
+personal injury claim via the Portal before it made him a settlement offer. Nor
+did Mr Tonkin telephone Haven on 20 April to seek such a settlement. The
+inference is plain that Haven was encouraged by the logging of the claim onto
+the Portal to make an early offer of settlement, and nothing in the judge’s
+findings of fact displaces it.</a></p><a name="para62">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Tonkin’s claim is not therefore an exception to the others, so far as
+concerns the application of the established principles about the solicitor’s
+equitable lien. Edmondson made a modest but still significant contribution to
+the obtaining of the settlement which ensued, and that was sufficient to
+trigger the lien.</a></p><a name="para63">
+
+<p class="ParaHeading"><b><span style="font-style:normal">Conclusion</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For those reasons, which differ from those of the Court of Appeal, I
+would nonetheless dismiss this appeal, subject to one point of detail.</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal proceeded upon the basis that the equitable remedy
+could be deployed to provide a means for Edmondson to recover from Haven
+precisely those fixed costs, disbursements and success fee provided for under
+the RTA Protocol, regardless of the amount agreed to be paid in settlement. By
+contrast the remedy exists to provide security for the solicitor’s charges
+under his retainer, limited to the amount of the debt created by the settlement
+agreement. In the present cases, one effect of the retainer was to limit those
+recoveries to the amount recoverable from the defendants or their insurers. To
+the extent that the fixed costs regime limits those recoveries below that
+recoverable under the tables in the CFAs, that limitation would have to be
+taken into account, as it has been by the Court of Appeal’s order.</a></p><a name="para65">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para65"></a><a name="para66">66.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Calculations carried out at the court’s request suggest that the Protocol
+based recovery was, in all cases other than Mr Tonkin, slightly greater than
+the amounts agreed to be paid in settlement of the respective claims. The Court
+of Appeal’s order for payment therefore needs to be reduced to the settlement
+amount in each case. The same calculations show that the Protocol-based
+recovery was, in the case of Mr Grannell, slightly higher than the
+corresponding entitlement under the relevant CFA: (£2,070.50 as against
+£2,043.50). But since both amounts exceed the settlement figure of £1,900, no
+additional adjustment appears to be necessary. Counsel are asked to agree the
+precise form of the order which should now be made, in the light of this
+court’s reasoning.</a></p><a name="para66">
+
+
+</a></center></div><a name="para66">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/21.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

@@ -1,0 +1,2056 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Takhar v Gracefield Developments Ltd &amp; Ors    [2019] UKSC 13 (20 March 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Yu Gothic Medium";}
+@font-face
+	{font-family:"\@Yu Gothic Medium";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Footer Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-autospace:ideograph-other;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;
+	font-family:"Univers (W1)",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Takhar v Gracefield Developments Ltd &amp; Ors    [2019] UKSC 13 (20 March 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/13.html</i>
+<br>Cite as: 
+[2019] 3 All ER 283,
+
+[2020] AC 450,
+
+[2019] 2 WLR 984,
+
+[2019] WLR(D) 198,
+
+[2019] UKSC 13
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/13.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011212250/casereport_b193049c-a4fe-4813-8762-91ec4c07be79/html">[2019] 2 WLR 984</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2011212250/casereport_f809a77b-ed57-4c69-a988-e14d26f6871f/html">[2019] WLR(D) 198</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<br><center><a href="/uk/cases/UKSC/2019/19.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 13</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/147.html">[2017] EWCA Civ 147</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Takhar
+  (Appellant) <i>v</i> Gracefield Developments Limited and others (Respondents)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Lloyd-Jones</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Arden</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kitchin</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">20 March 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 10 October 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<div align="center">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondents</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">John Wardell QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Joseph Sullivan</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew Mold</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Tom Nixon</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Tanners
+  Solicitors LLP (Cirencester))</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Gowling
+  WLG (UK) LLP (Birmingham))</p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">lord kerr: (<span style="text-transform:none">with whom Lord
+Hodge, Lord Lloyd-Jones and Lord Kitchin agree)</span></p>
+
+<p class="ParaHeading"><span style="font-style:normal">Introduction</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Balber Kaur Takhar, the appellant, is the cousin of the third
+respondent, Parkash Kaur Krishan. For many years before 2004, they had not seen
+each other. In that year they became reacquainted. At the time, Mrs Takhar was
+suffering personal and financial problems. She had separated from her husband
+some five years previously. As part of the arrangements made between Mrs Takhar
+and her husband, she had acquired a number of properties in Coventry.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>When Mrs Takhar and Mrs Krishan met again, according to Mrs Takhar, she
+confided in her cousin and grew increasingly to depend upon her. Mrs Takhar
+claims that Mrs Krishan exerted considerable influence over her.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The financial problems of Mrs Takhar arose mainly from the condition of
+the properties which she had acquired from her husband. Some were in a
+dilapidated condition. Payment for rates were in arrears. Bankruptcy for Mrs
+Takhar was in prospect.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Krishans provided financial help to Mrs Takhar. Dr Krishan, the
+second respondent and the third respondent’s husband, took on responsibility for
+negotiating with Coventry City Council over the rates arrears and the
+dilapidated state of some of the buildings. Then, in November 2005 it was agreed
+that the legal title to the properties would be transferred to Gracefield Developments
+Ltd, a newly formed company, of which Mrs Takhar and the Krishans were to be
+the shareholders and directors.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mrs Takhar claims that it had been agreed between her and the Krishans
+that the properties would be renovated and then let. The rent would be used to
+defray the cost of the renovation, which, in the short term, would be met by
+the Krishans. Mrs Takhar would remain the beneficial owner of the properties.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Krishans present a very different account. They claim that
+Gracefield was set up as a joint venture company. The properties were to be
+sold after they had been renovated. They were to be given an agreed value and
+this would be paid to Mrs Takhar after they had been sold. Any profit over
+would be divided equally between Mrs Takhar and the Krishans. They explain that
+Mrs Takhar agreed to these arrangements because planning permission for
+development had to be obtained in order to realise the value of the properties
+and this was an area in which Dr Krishan had experience, having already successfully
+developed his own medical centre.</a></p><a name="para6">
+
+<p class="ParaHeading">The proceedings</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 24 October 2008, Mrs Takhar, issued proceedings in the Birmingham
+District Registry of the Chancery Division. She claimed that the properties had
+been transferred to Gracefield as a result of undue influence or other unconscionable
+conduct on the part of Dr and Mrs Krishan. In a judgment delivered on 28 July
+2010 [2010] EWHC 2872 (Ch), His Honour Judge Purle QC rejected that claim.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A significant item of evidence in the hearing before Judge Purle was a written
+profit share agreement dated 1 April 2006. It provided for an initial purchase
+price of £100,000 for the properties. This was to be placed on a loan account
+with Gracefield. Further sums totalling £200,000 as deferred consideration were
+also provided for. The total of £300,000 was to be paid to Mrs Takhar on
+completion of the sale of the properties. She was also to receive 50% of the
+profits on the sale of each property.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The circumstances in which this written agreement was discovered and Mrs
+Takhar’s evidence about it were described by Judge Purle in paras 21 and 22 of
+his judgment:</a></p><a name="para9">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… no case of forgery is advanced.
+Only the last page of the version of the agreement signed by Mrs Takhar appears
+to have survived and that is in the form of a scanned copy, which has emerged
+in the files of Sue Bowdler’s firm [the Krishans’ solicitors]. It was misfiled,
+apparently. Sue Bowdler had not seen the copy with Mrs Takhar’s signature on it
+before until it was found, misfiled. However, there is no doubt that the
+agreement was prepared for signature. There is no doubt also that the agreement
+was prepared for signature in or around April 2006 and there is no doubt, in my
+mind, that it faithfully reflects the oral agreement that had been made<span style="font-size:11.5pt">.</span></p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the absence<span style="font-size:11.5pt"> of </span>Mrs Takhar giving a coherent explanation as
+to how her signature came to be on the scanned copy, I conclude that the
+Krishans’ evidence, which I believe anyway, should be accepted and that Mrs
+Takhar took the copy of the agreement that she was to sign away, which was
+returned, probably by her in some way, duly executed to Sue Bowdler’s firm,
+which then ended up misfiled. At all events, I am satisfied that that was the
+agreement that was made. The properties were transferred by Mrs Takhar in to
+Gracefield’s name before the written joint venture agreement was prepared, and
+the only credible explanation that I have heard is that they were so
+transferred on the terms subsequently set out in the joint venture agreement,
+which were previously agreed orally.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This was, therefore, powerful evidence in support of the Krishans’ case.
+And it is unsurprising that it was heavily relied on by the judge. As the
+quoted passage shows, he found that the written agreement represented what had
+earlier been agreed orally between Mrs Takhar and the Krishans. The judge
+therefore held that Mrs Takhar had transferred the properties to Gracefield for
+the sum of £300,000 and that she was to receive 50% of the profits when the
+properties were sold. He dismissed Mrs Takhar’s claim based on undue influence
+or unconscionable bargain and held that the properties had been transferred to
+Gracefield both legally and beneficially. That transfer was, he held, subject
+to the terms of the oral agreement made between the parties, as reflected in
+the written profit share agreement.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The original of the profit share agreement said to have been signed by
+Mrs Takhar has not been found. The Krishans claim that it was prepared by
+accountants at a time when Mrs Takhar was in India and then handed to her when
+she returned. She was asked to consider it and return it to the accountants.
+Mrs Takhar’s case is that she did not sign the document and had never seen it
+until the dispute arose. The authenticity of the document and whether it had
+been signed by Mrs Takhar are central issues in the dispute between the
+parties, therefore.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In advance of the trial before Judge Purle, Mrs Takhar had sought
+permission to obtain evidence from a handwriting expert to examine the
+signature on the profit share agreement which had been attributed to her. That
+application was refused because it had not been made until the trial was
+imminent. On the trial, Mrs Takhar gave evidence that she could not say that
+the signature on the profit share agreement was not hers, but she was unable to
+explain how it had got there.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>After the trial Mrs Takhar instructed new solicitors and asked them to
+obtain a report from a handwriting expert. Robert Radley is such an expert and
+he was engaged to inspect and report on various documents. His subsequent
+report stated conclusively that the signature on the profit share agreement
+which purported to be that of Mrs Takhar had been transposed from a letter of
+24 March 2006 which she had sent to the Krishans’ solicitors. He was also of
+the opinion that there was strong evidence that Mrs Takhar did not sign a 2006
+bank inquiry form and that the signatures of both the Krishans and Mrs Takhar
+on later 2011 bank inquiry forms had also been transposed from previous forms.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On foot of this report, Mrs Takhar claims that she can now advance a
+case of fraud against the Krishans. She also claims that she was not in a
+position to do so until she had received Mr Radley’s report. The Krishans
+dispute both claims.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>After receiving Mr Radley’s report, Mrs Takhar issued proceedings in
+which she sought to have Judge Purle’s judgment and order set aside. She
+claimed that she was entitled to this relief on the ground that it was obtained
+by fraud, the principal forgery relied upon being that of the copy of the
+profit share agreement. (Later Mrs Takhar applied for permission to amend her
+claim to allege an unlawful means conspiracy and deceit. That application was
+refused and no longer features in the appeal.)</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondents served defences in which they pleaded that Mrs Takhar’s
+claim is an abuse of process, inter alia because the documents on which Mr
+Radley’s report was based were available to Mrs Takhar and her legal team since
+at least 12 July 2009 (approximately 12 months earlier than the trial before
+Judge Purle).</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was ordered that the question whether Mrs Takhar’s claim amounted to
+an abuse of process be tried as a preliminary issue. That trial took place
+before Newey J in February 2015. In his judgment, (</a><a title="Link to BAILII version" href="/ew/cases/EWHC/Ch/2015/1276.html">[2015] EWHC 1276 (Ch)</a>),
+Newey J held that a party who seeks to set aside a judgment on the basis that
+it was obtained by fraud did not have to demonstrate that he could not have
+discovered the fraud by the exercise of reasonable diligence. The present claim
+was therefore not an abuse of process.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The respondents appealed. The Court of Appeal (Patten, King and Simon LJJ)
+allowed the appeal in its judgment delivered on 21 March 2017 (</a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/147.html">[2018] Ch 1</a>;
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/147.html">[2017] 3 WLR 853</a>; [2017] CP Rep 23). Patten LJ, delivering the leading
+judgment, said at para 30 that the appeal turned on whether Newey J was correct
+in holding that a due diligence condition did not need to be satisfied.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Patten LJ began his examination of that issue by a reference to the
+judgment of Wigram V-C in <i>Henderson v Henderson</i> </a><a href="http://www.worldlii.org/int/cases/EngR/1843/917.pdf"></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.worldlii.org/int/cases/EngR/1843/917.html">(1843) 3 Hare 100</a>. In
+that case the Vice Chancellor had said that where a matter had been the subject
+of litigation and adjudication by a court, it was required of the parties that
+they “bring forward their whole case” (at p 115). When litigation had taken
+place, it would only be in exceptional circumstances that parties could “open
+the same subject of litigation in respect of matter[s] which might have been
+brought forward as part of the subject in contest, but which [had not been] …
+brought forward” because of “negligence, inadvertence, or even accident”. This
+applied to “every point which properly belonged to the subject of litigation,
+and which the parties, exercising reasonable diligence, might have brought
+forward at the time”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Henderson</i> is certainly authority for the general principle that
+parties must normally advance the totality of their case on the first bout of
+litigation. It is not open to them, save in exceptional circumstances, to bring
+up a point which should have been raised in that litigation and which could,
+with reasonable diligence, have been discovered and canvassed on the first
+trial. <i>Henderson</i> does not speak, however, on two subjects which are
+critical in the present case. The first of these is whether the rule applies where
+the new point was not in issue between the parties on the first trial and
+where, if it had been and evidence on the point had been led, a different
+outcome might have ensued. The second subject concerns the question whether the
+rule in <i>Henderson</i> requires modification or disapplication where the new
+issue raises an allegation of fraud by which, it is claimed, the original
+judgment was obtained.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second case on this subject referred to by Patten LJ was <i>Virgin
+Atlantic Airways Ltd v Zodiac Seats UK Ltd (formerly Contour Aerospace Ltd)</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/46.html">[2014] AC 160</a>. In his judgment in that case, Lord Sumption rejected the
+suggestion that the principle propounded in <i>Henderson</i> should be treated
+as applying only to the law governing abuse of process and not as an application
+of the doctrine of res judicata. At para 26, Lord Sumption had said that, “[w]here
+the existence or non-existence of a cause of action has been decided in earlier
+proceedings, to allow a direct challenge to the outcome, even in changed
+circumstances and with material not available before, offends the core policy
+against the re-litigation of identical claims.” I do not consider that Lord
+Sumption’s statement in this passage has any bearing on the issues which arise
+on this appeal. The “existence or non-existence” of fraud has not been decided
+in the proceedings before Judge Purle. It is a new issue. It does not involve
+the re-litigation of an identical claim.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the <i>Virgin Atlantic</i> case, Lord Sumption had considered the
+House of Lords decision in <i>Arnold v National Westminster Bank plc</i> [1991]
+2 AC 93. In that case, Lord Keith had drawn a distinction between cause of
+action estoppel and issue estoppel. At p 104, Lord Keith had described cause of
+action estoppel in this way:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Cause of action estoppel arises
+where the cause of action in the later proceedings is identical to that in the
+earlier proceedings, the latter having been between the same parties or their
+privies and having involved the same subject matter. In such a case the bar is
+absolute in relation to all points decided unless fraud or collusion is
+alleged, such as to justify setting aside the earlier judgment.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>He considered that a distinction between this and issue estoppel should
+be recognised and said, at p 109:</a></p><a name="para23">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In my opinion your Lordships
+should affirm it to be the law that there may be an exception to issue estoppel
+in the special circumstance that there has become available to a party further
+material relevant to the correct determination of a point involved in the
+earlier proceedings, whether or not that point was specifically raised and
+decided, being material which could not by reasonable diligence have been
+adduced in those proceedings.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At para 35 of the judgment in the present appeal, Patten LJ said this
+about Lord Keith’s speech in <i>Arnold</i>:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“These passages in Lord Keith’s
+speech in <i>Arnold</i> were affirmed by the Supreme Court in <i>Virgin
+Atlantic</i> and have to be treated as settled law so far as this court is
+concerned. It is therefore clear that even in a case of issue estoppel the
+point cannot be re-litigated unless the new material could not with due
+diligence have been produced at the earlier hearing: see Lord Sumption at para
+22. It follows that Mrs Takhar would not be able to re-litigate the issue of
+the terms of the November 2005 agreement unless she can rely on evidence that
+she could not with due diligence have produced at the trial.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is important to note that Lord Keith, in the first passage quoted, at
+para 22 above, (dealing with cause of action estoppel), does not suggest that
+there is a reasonable diligence requirement in cases of fraud or collusion. And
+in the second passage, at para 23 above, (which concerns issue estoppel) he
+does not mention fraud at all. In my opinion, it is not to be assumed that Lord
+Keith was suggesting that due diligence was a prerequisite in cases of fraud.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Patten LJ had referred to Lord Sumption’s judgment in <i>Virgin</i> <i>Atlantic</i>,
+para 22, as supporting the proposition that a fresh point could not be
+relitigated unless the new material could not with reasonable diligence have
+been produced at the earlier hearing. It is important to note exactly what Lord
+Sumption said at para 22 in <i>Virgin Atlantic</i>:</a></p><a name="para26">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<i>Arnold v National Westminster
+Bank plc</i> [1991] 2 AC 93 is accordingly authority for the following
+propositions. (1) Cause of action estoppel is absolute in relation to all
+points which had to be and were decided in order to establish the existence or
+non-existence of a cause of action. (2) Cause of action estoppel also bars the
+raising in subsequent proceedings of points essential to the existence or
+non-existence of a cause of action which were not decided because they were not
+raised in the earlier proceedings, if they could with reasonable diligence and
+should in all the circumstances have been raised. (3) Except in special
+circumstances where this would cause injustice, issue estoppel bars the raising
+in subsequent proceedings of points which (i) were not raised in the earlier
+proceedings or (ii) were raised but unsuccessfully. If the relevant point was
+not raised, the bar will usually be absolute if it could with reasonable
+diligence and should in all the circumstances have been raised.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The significance of this paragraph, so far as concerns the present case,
+lies in what it does not assert and the qualifications which it contains. It
+does not address the question of fraud at all. Moreover, the first proposition
+which Lord Sumption makes, that cause of action estoppel is an absolute bar in
+relation to such points as had to be and were decided in order to establish the
+existence or non-existence of a cause of action, is of no relevance at all in
+the present appeal. The case before Judge Purle did not involve an allegation
+of fraud on the part of the Krishans. The points which “had to be or were
+decided” in Mrs Takhar’s case before Judge Purle were not concerned with
+possible fraud.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second proposition in Lord Sumption’s para 22, that cause of action
+estoppel prohibits the raising of points in subsequent proceedings which had
+not been decided because they were not raised in the earlier proceedings, must
+be read in context. Again, the issue of fraud is not mentioned. And Lord
+Sumption has expressly espoused the reasoning of Lord Keith in <i>Arnold</i>
+where reasonable diligence is not said to be a requirement in cases of fraud or
+collusion. Given that, I do not consider that the second proposition in para 22
+of <i>Virgin Atlantic</i> should be interpreted as covering cases of fraud.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As to issue estoppel and the third proposition in para 22, it is clear
+that Lord Sumption did not prescribe a universally applicable rule. He was
+careful to qualify his statement (that issue estoppel bars the raising in
+subsequent proceedings of points which were not raised in the earlier
+proceedings or were raised but unsuccessfully), by saying that the bar will <i>usually</i>
+be absolute if it could with reasonable diligence and should in all the
+circumstances have been raised. And, of course, there is again no mention of
+fraud in this context. I do not consider, therefore, that <i>Virgin Atlantic </i>is
+authority for the proposition expressed by Patten LJ.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In any event, at para 37, Patten LJ accepted the submission of Mr
+Wardell QC (who appeared on behalf of Mrs Takhar before the Court of Appeal and
+this court) that the “obstacle faced by Mrs Takhar was not one of issue
+estoppel”. He also accepted that she was not challenging an earlier decision of
+the judge about the authenticity of the profit share agreement. As Patten LJ
+observed, “[t]he allegation about her signature being forged was not raised or
+decided at the trial of the 2008 action.”</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the Court of Appeal considered that, although it was not concerned
+with a question of res judicata in the strict sense of issue or cause of action
+estoppel, it had to deal with what it described, at para 37, as “the wider
+policy considerations embodied in the rule in <i>Henderson v Henderson</i>”.<i>
+</i>Those policy considerations were engaged, Patten LJ said, “whenever a litigant
+seeks to challenge an earlier decision of a competent court, whether directly
+or indirectly, by commencing new proceedings in which the same issues arise or
+seeks directly by way of appeal to challenge the judge’s decision on the basis
+of new evidence.”. On that account, Patten LJ concluded, “If the challenge … is
+by way of an action seeking to set the judge’s order aside on the ground that
+it was obtained by fraud the real question … is whether this amounts to an
+abuse of process if the success of the action depends upon evidence which could
+with reasonable diligence have been produced at the earlier trial.”</a></p><a name="para31">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I do not agree with this conclusion. In the first instance, this is not
+a case of commencing new proceedings where the same issues arise. As Patten LJ
+had earlier said, the question of Mrs Takhar’s signature having been forged had
+not been raised or decided in the trial before Judge Purle. The appellant does
+not seek to set aside Judge Purle’s decision on any of the issues decided by
+him. Secondly, for the reasons that I have given, I do not consider that in <i>Arnold
+</i>or <i>Virgin Atlantic </i>there has been an unequivocal judicial statement
+that seeking to set aside a judgment on the basis that it was obtained by fraud
+constitutes an abuse of process, if evidence of the fraud could, with
+reasonable diligence, have been obtained and produced at the earlier trial.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I accept, however, that the question whether fraud should “unravel all”
+even where discovery of its existence was possible before the original trial
+does give rise to intensely relevant policy considerations. These are
+considered in the next section of this judgment.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In para 38 Patten LJ referred to the case of <i>Phosphate Sewage Co Ltd
+v Molleson</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/1879/16SLR0822.html">(1879) 4 App Cas 801</a>. It had been argued in that case that
+evidence of fraud other than that presented at the original trial should be
+allowed to enable a company to claim repayment of a sum which it had paid to a
+bankrupt. The company had subsequently obtained further evidence of the fraud. It
+sought to advance a new case founded on that evidence. The House of Lords held
+that the new allegations of fraud were based on facts within the company’s
+knowledge at the time of the first trial. The plea of res judicata succeeded,
+therefore. Importantly, Earl Cairns LC said, at p 814, that it would be
+“intolerable” if a party who had been unsuccessful in litigation could re-open
+it merely because,</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… since the former litigation
+there is another fact going exactly in the same direction with the facts stated
+before, leading up to the same relief [as had been] asked for before, but it being
+in addition to the facts [in the previous litigation], it ought now to be
+allowed to be the foundation of a new litigation, and [he] should be allowed to
+commence a new litigation merely upon the allegation of this additional fact.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The contrast with the present case is immediately obvious. This is not
+an instance of the appellant seeking to adduce evidence of facts “going in the
+same direction” as facts previously stated, because Mrs Takhar had not asserted
+that the Krishans had been guilty of fraud, merely that she had no recollection
+of having signed the profit share agreement. The relief that she seeks now is
+quite different from that which she had earlier claimed. Previously, she sought
+to avoid the effect of the agreement because of undue influence and
+unconscionability on the part of the Krishans. Now she claims that the
+agreement on which they rely was, in its written form, a forgery.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Now, it is true that Earl Cairns had also said in the <i>Phosphate
+Sewage </i>case, at p 814, that “the only way in which [new evidence] could
+possibly be admitted would be if the litigant were prepared to say, I will shew
+you that this is a fact which entirely changes the aspect of the case, and I
+will shew you further that it was not, and could not by reasonable diligence
+have been, ascertained by me before.” But the essential context of this
+observation is set by the earlier passage quoted above. It is where precisely
+the same relief as had previously been claimed is sought again. In my view, it
+is not appropriate to lift the requirement of reasonable diligence out of the
+context in which it appears and to import it into a different scenario, namely,
+where a changed basis for success for the appellant is advanced.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Patten LJ acknowledged that Earl Cairns’ statement of principle was
+expressed in relation to a plea of res judicata and that that was how it had
+been treated by Lord Keith in <i>Arnold </i>(para 39, per Patten LJ). But he
+suggested that the rule expressed by Earl Cairns was said by Lord Diplock in <i>Hunter
+v Chief Constable of the West Midlands Police </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1981/13.html">[1982] AC 529</a> to be “relevant
+more generally as a statement of the conditions which must be satisfied to justify
+a departure from the policy of not permitting a party to challenge prior
+decisions by a court of competent jurisdiction in which case it is relevant to
+whether it would be an abuse of process to seek to set a judgment aside without
+satisfying the reasonable diligence condition.” (Patten LJ, also at para 39.)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Again, it is important to recognise the context in which Lord Diplock
+made his remarks about the application of the rule. <i>Hunter </i>was a case in
+which those who had been convicted of planting bombs in Birmingham sought to
+establish, by civil action, that they had been subjected to ill-treatment
+before they confessed to involvement in the bombings. This was described as a
+collateral attack on the correctness of their convictions. At p 545 Lord Diplock
+said:</a></p><a name="para38">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“There remains to be considered
+the circumstances in which the existence at the commencement of the civil
+action of ‘fresh evidence’ obtained since the criminal trial and the probative
+weight of such evidence justify making an exception to the general rule of public
+policy that the use of civil actions to initiate collateral attacks on final decisions
+against the intending plaintiff by criminal courts of competent jurisdiction
+should be treated as an abuse of the process of the court.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The context of the issue in <i>Hunter </i>is therefore firmly set. It is
+whether a challenge to the correctness of a criminal conviction amounts to an
+abuse of process. This is, self-evidently, an entirely different situation from
+that which arises in the present case. And it immediately gives rise to concern
+about whether it is acceptable to apply a test fashioned for the circumstances
+of collateral challenge to a criminal conviction to the markedly dissimilar
+setting of seeking to set aside a civil judgment because it was obtained by a
+fraud which had not been alleged or adjudicated on at the original trial.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Patten LJ referred to the decision of the Privy Council in <i>Owens Bank
+Ltd v Etoile Commerciale SA </i>[1995] 1 WLR 44, (“<i>Etoile</i>”) where Lord
+Templeman had said:</a></p><a name="para40">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“An English judgment is
+impeachable in an English court on the ground that the first judgment was
+obtained by fraud but only by the production and establishment of evidence
+newly discovered since the trial and not reasonably discoverable before the
+trial: see <i>Boswell v Coaks (No 2) </i>(1894) 86 LT 365n.”</p>
+
+<p class="ParaNoNumber">As Newey J observed in his judgment in the present case,
+the reasonable diligence test is not to be found in <i>Boswell v Coaks </i>(which
+Lord Templeman had cited as authority that it was required). Moreover, the <i>Etoile
+</i>case involved a decision by the Court of Appeal of St Vincent and the
+Grenadines that an action claiming damages for fraud should be struck out as an
+abuse of process in circumstances where in earlier proceedings in France it had
+been alleged that the date on a critical document had been forged - in effect,
+an allegation of fraud. That case had been rejected by the French court, so
+that the position in the <i>Etoile </i>case was that the bank sought to rely
+for a second time on fraud. This distinguishes it from the present appeal. In
+any event, the Board dismissed the appeal on the basis that it was for the St
+Vincent courts to control their own process and to decide whether the bank’s
+attempt to re-open the issue of fraud was an abuse of it. Lord Templeman’s
+remarks were therefore obiter.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Newey J’s criticism of Lord Templeman’s statement of principle was
+rejected by Patten LJ. He suggested that this was consistent with the earlier
+decision of the House of Lords in <i>Owens Bank Ltd v Bracco </i>[1992] 2 AC
+443 (<i>Bracco</i>). In that case Lord Bridge, at p 483, had articulated “the
+common law rule” in this area as being:</a></p><a name="para41">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… that the unsuccessful party who
+has been sued to judgment is not permitted to challenge that judgment on the
+ground that it was obtained by fraud unless he is able to prove that fraud by
+fresh evidence which was not available to him and could not have been
+discovered with reasonable diligence before the judgment was delivered.”</p>
+
+<p class="ParaNoNumber">It is important to be mindful of the rider which Lord
+Bridge added to this exposition, however. Later, in the same passage he said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The rule rests on the principle
+that there must be finality in litigation which would be defeated if it were
+open to the unsuccessful party in one action to bring a second action <i>to
+relitigate the issue determined against him</i> simply on the ground that the opposing
+party had obtained judgment in the first action by perjured evidence.”
+(Emphasis added)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rule is therefore expressed to apply when there is a proposed re-litigation
+of the issue of fraud which had been determined in the earlier litigation. That
+is not the position here. Mrs Takhar seeks to raise the fraud of the Krishans
+for the first time. It should be noted that Lord Bridge referred to re-litigation
+of <i>the issue</i> which had been determined against the party seeking to
+reopen the case. The issue of the Krishans’ alleged fraud has not been
+determined. I do not consider, therefore, that <i>Bracco </i>forbids a
+challenge to a judgment which, it is claimed, was obtained by fraud, where that
+issue was not canvassed at the first trial. Likewise, it does not prohibit Mrs
+Takhar from pursuing her present action.</a></p><a name="para42">
+
+<p class="ParaHeading">Is fraud “a thing apart”; does it “unravel all”?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>HIH Casualty and General Insurance Ltd v Chase Manhattan Bank</i>
+</a><a title="Link to BAILII version" href="/uk/cases/UKHL/2003/6.html">[2003] 2 Lloyds Rep 61</a>, para 15, Lord Bingham of Cornhill said that:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… fraud is a thing apart. This is
+not a mere slogan. It also reflects an old legal rule that fraud unravels all …
+once fraud is proved, ‘it vitiates judgments, contracts and all transactions
+whatsoever’: <i>Lazarus Estates Ltd v Beasley </i>[1956] 1 All ER 341 at 345,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1956/6.html">[1956] 1 QB 702</a> at 712 per Denning LJ. Parties entering into a commercial
+contract will no doubt recognise and accept the risk of errors and omissions in
+the preceding negotiations, even negligent errors and omissions. But each party
+will assume the honesty and good faith of the other; absent such an assumption
+they would not deal.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This reflects the basic principle that the law does not expect people to
+arrange their affairs on the basis that others may commit fraud. It also
+carries echoes of what Lord Wilberforce said in <i>The</i> <i>Ampthill Peerage</i>
+[1977] AC 547, 569:</a></p><a name="para44">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… any determination of disputable
+fact may, the law recognises, be imperfect: the law aims at providing the best
+and safest solution ... and having reached that solution it closes the book ...
+in the interest of peace, certainty and security it prevents further inquiry
+... there are cases where the certainty of justice prevails over the
+possibility of truth ... and these are cases where the law insists on finality.
+For a policy of closure to be compatible with justice, it must be attended with
+safeguards: so the law allows appeals: so the law, exceptionally, allows
+appeals out of time: so the law still more exceptionally allows judgments to be
+attacked on the ground of fraud.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This passage from Lord Wilberforce’s speech resonates with earlier
+authority. In <i>Hip Foong Hong v H Neotia &amp; Co </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1918/1918_65.html">[1918] AC 888</a>, 894, Lord
+Buckmaster said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In all applications for a new
+trial the fundamental ground must be that there has been a miscarriage of
+justice. If no charge of fraud or surprise is brought forward, it is not
+sufficient to show that there was further evidence that could have been adduced
+to support the claim of the losing parties; the applicant must go further and
+show that the evidence was of such a character that it would, so far as can be
+foreseen, have formed a determining factor in the result. Such considerations
+do not apply to questions of surprise, and still less to questions of fraud. A judgment
+that is tainted and affected by fraudulent conduct is tainted throughout, and
+the whole must fail …”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The clear implication from this statement is that in cases of fraud,
+unlike other instances of claimed miscarriages of justice, it is not necessary
+to show that the further evidence would have been a determining factor in the
+result. And, if it was not necessary to show that, it could hardly be said that
+it would have to be shown that evidence of the fraud could not have been
+obtained before the first trial by the exercise of reasonable diligence (a more
+rigorous requirement, by any standard).</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A need to show reasonable diligence did not feature in <i>Jonesco v
+Beard </i>[1930] AC 298, where an application was made to set aside a judgment
+obtained by fraud. At p 300, Lord Buckmaster said</a></p><a name="para47">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“the proper method of impeaching a
+completed judgment on the ground of fraud is by action in which, as in any
+other action based on fraud, the particulars of the fraud must be exactly given
+and the allegations established by the strict proof such a charge requires.”</p>
+
+<p class="ParaNoNumber">No mention was made of a need to show that evidence of
+the fraud could not have been uncovered by reasonable diligence. If that was
+deemed to be a requirement, it would surely have been mentioned at this point.
+This is particularly so because affidavits relating to evidence other than
+fraud, which had not been produced at the trial, were said by Lord Buckmaster
+not to be capable of sustaining the case for setting aside the judgment because
+“there was no sufficient explanation of why the evidence had not been made
+available at the trial” (at p 300). The same stricture was not applied to the
+argument in relation to fraud.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The special place occupied by fraud in the setting aside of judgments
+obtained by its use has been recognised in Australia and Canada. In <i>McDonald
+v McDonald </i>(1965) 113 CLR 529 the High Court of Australia applied <i>Hip
+Foong Hong </i>and <i>Jonesco v Beard </i>and rejected the notion that, to set
+aside a judgment obtained by fraud, it had to be shown that evidence of the
+fraud could not have been obtained by reasonable diligence before the trial
+which led to the judgment sought to be set aside. Barwick CJ contrasted the
+position where a verdict was impeached on the basis of fresh evidence with that
+where it was obtained by fraud. At p 533 he said:</a></p><a name="para48">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“But if the fresh evidence does
+not satisfy all these requirements so that a new trial could not be ordered on
+the basis of the discovery of fresh evidence, but does tend to establish that
+the verdict was obtained by fraud ... the court may grant a new trial ... if
+the court ... finds the fact of the fraud ... to be proved …”</p>
+
+<p class="ParaNoNumber">At p 542, Menzies J discussed the grounds on which a new
+trial can be ordered on the basis of fresh evidence and then observed, “[t]his
+leaves untouched the rule that, if by any means it be proved affirmatively that
+the earlier judgment was tainted by fraud, <i>it will, without more, </i>be set
+aside.” (Emphasis added)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This decision was followed in <i>Toubia v Schwenke </i>[2002] NSWCA 34;
+(2002) 54 NSWLR 46. As Newey J stated in para 33 of his judgment in this case,
+in <i>Toubia </i>Handley JA, with whom Heydon JA and Hodgson JA agreed,
+concluded (in para 41) that “[i]n an action for fraud, a plaintiff must prove
+that he was deceived but need not prove that he was diligent.” Handley JA
+continued:</a></p><a name="para49">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para49">“Where the action seeks the
+judicial rescission of a judgment, the plaintiff must prove that he and the court
+were deceived and he can only do this by showing that he has discovered the truth
+since the trial. Where this is done, and the fresh facts are material, fraud is
+established. Lord Buckmaster [in <i>Hip Foong Hong v H Neotia and Co </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKPC/1918/1918_65.html">[1918] AC 888</a>] said that if fraud was proved the judgment was vitiated, and he can
+only have meant that nothing else had to be proved apart from fraud. That means
+there is no need to prove due diligence as well.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50">50.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Handley JA, in an earlier passage of his judgment, gave a powerful
+defence of this principle. Referring to the argument that the dicta in <i>Owens
+Bank Ltd v</i> <i>Bracco </i>[1992] AC 443 were to the effect that, if fraud
+was alleged (even for the first time) in an application to set aside a
+judgment, it had to be shown that it could not have been discovered with
+reasonable diligence, at paras 37 and 38 he said:</a></p><a name="para50">
+
+</a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para50">“37.&nbsp;&nbsp;&nbsp;&nbsp; I would not follow the dicta
+in <i>Owens Bank Ltd v Bracco, Owens Bank Ltd v Etoile Commerciale SA</i>, …
+even if there was no High Court decision [in <i>McDonald v McDonald</i>] on the
+point because, with respect, the dicta are contrary to principle and earlier
+authority. The assumption is that the court and the losing party were successfully
+imposed on by the fraud of the successful party, but relief should nevertheless
+be denied and the judgment allowed to stand because the defrauded party was
+careless or lacked diligence in the preparation of his case. … Contributory
+negligence is not a defence to an action for fraud whether the relief claimed
+is rescission or damages. As Brennan J said in <i>Gould v Vaggelas</i> </a><a href="http://www.austlii.edu.au/au/cases/cth/HCA/1984/68.html ">(1984)
+157 CLR 215</a>, 252:</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">‘A knave does not escape
+liability because he is dealing with a fool.’</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">38.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Means of knowledge of
+the falsity of the representation without actual knowledge is no defence and a representee
+has no duty to make inquiries to ascertain the truth.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51">51.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Canada v Granitile Inc </i></a><a href="http://canlii.ca/t/21rph">(2008) 302 DLR (4th) 40</a>, the Ontario
+Superior Court of Justice reached the same conclusion. At para 299, Lederer J
+said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“A failure to exercise due
+diligence, where fraud might otherwise have been discovered, is not enough to
+sustain a judgment which resulted from that fraud.”</p>
+
+<p class="ParaNoNumber">He developed that theme at para 303 where he said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“All of this is consistent with
+and in furtherance of the fundamental proposition that ‘Fraud unravels
+everything’ ... We are not required to be ‘perpetually on guard’ so that we are
+looking to discover the fraud of another party ... Where fraud is present,
+finality will give way to the responsibility of the court to protect its
+process ‘so as to ensure that litigants do not profit from their improper
+conduct’ ...”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52">52.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Newey J found the reasoning in the Australian and Canadian cases
+compelling. I also. The idea that a fraudulent individual should profit from
+passivity or lack of reasonable diligence on the part of his or her opponent
+seems antithetical to any notion of justice. Quite apart from this, the
+defrauder, in obtaining a judgment, has perpetrated a deception not only on
+their opponent and the court but on the rule of law. Newey J put it well when
+he said, at para 37 of his judgment:</a></p><a name="para52">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Supposing that a party to a case
+in which judgment had been given against him could show that his opponent had
+obtained the judgment entirely on the strength of, say, concocted documentation
+and perjured evidence, it would strike me as wrong if he could not challenge
+the judgment even if the fraud could reasonably have been discovered. Were it
+impossible to impugn the judgment, the winner could presumably have been sent
+to prison for his fraudulent conduct and yet able to enforce the judgment he
+had procured by means of it: the judgment could still, in effect, be used to
+further the fraud.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree with all of that. It appears to me that the policy arguments for
+permitting a litigant to apply to have judgment set aside where it can be shown
+that it has been obtained by fraud are overwhelming.</a></p><a name="para53">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For the reasons that I have given, I do not consider that the <i>Etoile </i>and
+<i>Bracco </i>cases are authority for the proposition that, in cases where it
+is alleged that a judgment was obtained by fraud, it may only be set aside
+where the party who makes that application can demonstrate that the fraud could
+not have been uncovered with reasonable diligence in advance of the obtaining
+of the judgment. If, however, they have that effect, I consider that they
+should not be followed. In my view, it ought now to be recognised that where it
+can be shown that a judgment has been obtained by fraud, and where no
+allegation of fraud had been raised at the trial which led to that judgment, a
+requirement of reasonable diligence should not be imposed on the party seeking
+to set aside the judgment.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Two qualifications to that general conclusion should be made. Where
+fraud has been raised at the original trial and new evidence as to the
+existence of the fraud is prayed in aid to advance a case for setting aside the
+judgment, it seems to me that it can be argued that the court having to deal
+with that application should have a discretion as to whether to entertain the
+application. Since that question does not arise in the present appeal, I do not
+express any final view on it. The second relates to the possibility that, in
+some circumstances, a deliberate decision may have been taken not to
+investigate the possibility of fraud in advance of the first trial, even if
+that had been suspected. If that could be established, again, I believe that a
+discretion whether to allow an application to set aside the judgment would be
+appropriate but, once more, I express no final view on the question. In Mrs
+Takhar’s case, she did suspect that there may have been fraud but it is clear
+that she did not make a conscious decision not to investigate it. To the
+contrary, she sought permission to engage an expert but, as already explained,
+this application was refused.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At para 26 of his judgment, Newey J said that the principles which
+govern applications to set aside judgments for fraud had been summarised by
+Aikens LJ in <i>Royal Bank of Scotland plc v</i> <i>Highland Financial Partners
+lp</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/328.html">[2013] 1 CLC 596</a>, para 106. There, Aikens LJ said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The principles are, briefly:
+first, there has to be a ‘conscious and deliberate dishonesty’ in relation to
+the relevant evidence given, or action taken, statement made or matter concealed,
+which is relevant to the judgment now sought to be impugned. Secondly, the
+relevant evidence, action, statement or concealment (performed with conscious
+and deliberate dishonesty) must be ‘material’. ‘Material’ means that the fresh evidence
+that is adduced after the first judgment has been given is such that it
+demonstrates that the previous relevant evidence, action, statement or
+concealment was an operative cause of the court’s decision to give judgment in
+the way it did. Put another way, it must be shown that the fresh evidence would
+have entirely changed the way in which the first court approached and came to
+its decision. Thus the relevant conscious and deliberate dishonesty must be
+causative of the impugned judgment being obtained in the terms it was. Thirdly,
+the question of materiality of the fresh evidence is to be assessed by
+reference to its impact on the evidence supporting the original decision, not
+by reference to its impact on what decision might be made if the claim were to
+be retried on honest evidence.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57">57.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree that these are the relevant principles to be applied. I also
+agree with Newey J’s view (expressed at para 47 of his judgment) that Mrs
+Takhar’s application to set aside the judgment of Judge Purle has the potential
+to meet the requirements which Aikens LJ outlined. She should not be fixed with
+a further obligation to show that the fraud which she now alleges could not
+have been discovered before the original trial by reasonable diligence on her
+part.</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would therefore allow the appeal and restore the order of Newey J that
+Mrs Takhar’s case should be allowed to proceed to trial.</a></p><a name="para58">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LORD SUMPTION: (with
+whom Lord Hodge, Lord Lloyd-Jones and Lord Kitchin agree)</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Subject to what follows, I agree with the judgment of Lord Kerr. I add
+some observations of my own only because the disorderly state of the
+authorities is apt to make the question before us appear more complicated than
+it really is. In my view, the basic principles on which this case falls to be
+decided are reasonably straightforward.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>An action to set aside an earlier judgment for fraud is not a procedural
+application but a cause of action. As applied to judgments obtained by fraud,
+the historical background was explained by Sir George Jessell MR in <i>Flower v
+Lloyd</i> </a><a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1877/173.html">(1877) 6 Ch D 297</a>, 299-300. Equity has always exercised a special
+jurisdiction to reverse transactions procured by fraud. A party to earlier
+litigation was entitled to bring an original bill in equity to set aside the
+judgment given in that litigation on the ground that it was obtained by fraud.
+Such a bill could be brought without leave, because it was brought in support
+of a substantive right. If the fact and materiality of the fraud were
+established, the party bringing the bill was absolutely entitled to have the
+earlier judgment set aside. In this respect, an original bill differed from a
+bill of review on the basis of further evidence, which was essentially
+procedural and did require leave. After the fusion of law and equity in the
+1870, the procedure by way of original bill was superseded by a procedure by
+action on the same juridical basis.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61">61.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The cause of action to set aside a judgment in earlier proceedings for
+fraud is independent of the cause of action asserted in the earlier
+proceedings. It relates to the conduct of the earlier proceedings, and not to
+the underlying dispute. There can therefore be no question of cause of action
+estoppel. Nor can there be any question of issue estoppel, because the basis of
+the action is that the decision of the issue in the earlier proceedings is
+vitiated by the fraud and cannot bind the parties: <i>Director of Public
+Prosecutions v Humphrys</i> [1977] AC 1, 21 (Viscount Dilhorne). If the
+claimant establishes his right to have the earlier judgment set aside, it will
+be of no further legal relevance qua judgment. It follows that res judicata
+cannot therefore arise in either of its classic forms.</a></p><a name="para61">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rule, originally stated by Wigram V-C in <i>Henderson v Henderson</i>
+</a><a href="http://www.worldlii.org/int/cases/EngR/1843/917.pdf"></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.worldlii.org/int/cases/EngR/1843/917.html">(1843) 3 Hare 100</a>, 115, that a party is precluded from raising in subsequent
+proceedings matters which were not, but could and should have been raised in
+the earlier ones, is commonly treated as a branch of the law of res judicata.
+It has the same policy objective and the same preclusive effect. But, it is
+better analysed as part of the juridically distinct but overlapping principle
+which empowers the court to restrain abuses of its process. The relationship
+between the two concepts was examined by this court in <i>Virgin Atlantic
+Airways Ltd v Zodiac Seats UK Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/46.html">[2014] AC 160</a>, paras 22-25. Whereas res
+judicata is a rule of substantive law, abuse of process is a concept which
+informs the exercise of the court’s procedural powers. These are part of the
+wider jurisdiction of the court to protect its process from wasteful and
+potentially oppressive duplicative litigation even in cases where the relevant
+question was not raised or decided on the earlier occasion. Since the decisions
+of the House of Lords in <i>Arnold v National Westminster Bank plc</i> [1991] 2
+AC 93 and <i>Johnson v Gore Wood &amp; Co</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2000/65.html">[2002] 2 AC 1</a> it has been
+recognised that where a question was not raised or decided in the earlier
+proceedings but could have been, the jurisdiction to restrain abusive re-litigation
+is subject to a degree of flexibility which reflects its procedural character.
+This allows the court to give effect to the wider interests of justice raised
+by the circumstances of each case.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63">63.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is this flexibility which supplies the sole juridical basis on which the
+respondents can argue that the evidence of fraud must not only be new but such
+as could not with reasonable diligence have been deployed in the earlier
+proceedings. It is also the basis on which Lord Briggs, in his judgment on the
+present appeal, suggests a less absolute rule than that proposed by Lord Kerr.
+I cannot accept either the respondents’ argument, or Lord Briggs’ more moderate
+variant of it. The reason is that proceedings of this kind are abusive only
+where the point at issue and the evidence deployed in support of it not only could
+have been raised in the earlier proceedings but should have been: see <i>Johnson
+v Gore-Wood &amp; Co</i>, at p 31 (Lord Bingham of Cornhill) and <i>Virgin
+Atlantic Airways Ltd v Zodiac Seats UK Ltd</i>, para 22 (Lord Sumption). As
+Lord Bingham observed in the former case, it is “wrong to hold that because a
+matter could have been raised in earlier proceedings it should have been, so as
+to render the raising of it in later proceedings necessarily abusive.” The
+“should” in this formulation refers to something which the law would expect a
+reasonable person to do in his own interest and in that of the efficient
+conduct of litigation. However, the basis on which the law unmakes
+transactions, including judgments, which have been procured by fraud is that a
+reasonable person is entitled to assume honesty in those with whom he deals. He
+is not expected to conduct himself or his affairs on the footing that other
+persons are dishonest unless he knows that they are. That is why it is not a
+defence to an action in deceit to say that the victim of the deceit was foolish
+or negligent to allow himself to be taken in: <i>Central Railway Company of
+Venezuela v Kisch</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.worldlii.org/int/cases/EngR/1865/695.pdf">(1867) LR 2 HL 99</a>, 120 (Lord Chelmsford); <i>Redgrave v
+Hurd</i> <a title="Link to BAILII version" href="http://www.commonlii.org/uk/cases/UKLawRpCh/1881/251.html">(1881) 20 Ch D 1</a>, 13-17 (Jessell MR). It follows that unless on the
+earlier occasion the claimant deliberately decided not to investigate a
+suspected fraud or rely on a known one, it cannot be said that he “should” have
+raised it.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64">64.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nor do I accept Lord Briggs’ view that a more flexible and
+fact-sensitive approach may be required in order to distinguish between degrees
+of dishonesty. I think that this would introduce an unacceptable element of
+discretion into the enforcement of a substantive right. The standard of proof
+for fraud is high, and rightly so. But once it is satisfied, there are no
+degrees of fraud which can affect the right to have the judgment set aside.</a></p><a name="para64">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para64"></a><a name="para65">65.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Dicta apart, the only direct authority for a requirement that the new
+evidence should be such as could not with reasonable diligence have been
+deployed in the earlier proceedings is <i>McIlkenny v Chief Constable of the
+West Midlands</i> [1980] 1 QB 283, affirmed sub nom. <i>Hunter v Chief
+Constable of the West Midlands Police</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1981/13.html">[1982] AC 529</a>. This was an action for
+damages for assault committed in the course of a police investigation into the Birmingham
+bombing of November 1974, which had ultimately led to the plaintiffs’
+prosecution and conviction for murder. The same allegation of assault had been
+made at the criminal trial as an objection to the admission of a confession.
+The trial judge had rejected it on a voir dire. The subsequent civil action was
+struck out as an abuse of process, because it was a collateral attack on the trial
+judge’s ruling on the admissibility of the confession and thus on the
+conviction. The actual decision is distinguishable on a number of counts. The
+earlier proceedings were criminal. Moreover, the result of the civil action, if
+it had succeeded, would have been to discredit a subsisting conviction without
+setting it aside. The reasoning, however, is not so readily distinguishable. In
+the Court of Appeal Goff LJ, at pp 333-335, relied on the authorities on
+setting aside civil judgments for fraud. These supported the proposition that
+decisive new evidence must be available in the later proceedings, but in
+summarising them Goff LJ added a requirement, which they did not support, that
+the evidence could not with reasonable diligence have been deployed in the
+earlier proceedings. The sole authority for that refinement was Goff LJ
+himself. His formulation of the test was endorsed by Lord Diplock, delivering
+the only reasoned speech in the House of Lords, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1981/13.html">[1982] AC 529</a>, 545. There are
+dicta to the same effect in cases arising out of actions to set aside judgments
+in civil proceedings: see Lord Bridge in <i>Owens Bank Ltd v Bracco</i> [1992]
+2 AC 443, 483 and Lord Templeman in <i>Owens Bank Ltd v Etoile Commerciale SA</i>
+[1995] 1 WLR 44, 48. It may well be that policy considerations justify such a
+principle where a collateral attack is mounted on a criminal conviction
+following a trial in which the same issue was decided. There are other
+procedures for reopening unsafe criminal convictions in such cases. As is well
+known, these were ultimately invoked and resulted in the convictions of the plaintiffs
+and McIlkenny and Hunter being quashed. I would respectfully decline to treat
+the statements in those cases as applying to proceedings to set aside a civil
+judgment and would hold that the dicta in the two <i>Owens Bank</i> cases were
+mistaken. None of these judicial statements sufficiently distinguishes between
+(i) the proposition that an action to set aside a civil judgment must be based
+on new evidence not before the court in the earlier proceedings, and (ii) the
+proposition that that evidence must not have been obtainable by reasonable
+diligence for the earlier proceedings. The first proposition is well
+established. The second is not supported by any authority earlier than <i>McIlkenny</i>
+and appears to me to be an insufficient answer to an allegation that a civil
+judgment has been obtained against the claimant by the deliberate fraud of
+another party. This is the effect of the decision of the High Court of
+Australia in <i>McDonald v McDonald</i> (1965) 13 CLR 529, in which the two
+propositions were carefully and separately considered. It was also the reason
+why in <i>Toubia v Schwenke</i> (2002) NSWLR 46 the New South Wales Court of
+Appeal observed that even in the absence of binding Australian authority they
+would have regarded the dicta in the two <i>Owens Bank</i> cases as being
+contrary to principle and declined to follow them. In my opinion the Australian
+cases on this point are correct.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66">66.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would leave open the question whether the position as I have summarised
+it is any different where the fraud was raised in the earlier proceedings but
+unsuccessfully. My provisional view is that the position is the same, for the
+same reasons. If decisive new evidence is deployed to establish the fraud, an
+action to set aside the judgment will lie irrespective of whether it could
+reasonably have been deployed on the earlier occasion unless a deliberate
+decision was then taken not to investigate or rely on the material.</a></p><a name="para66">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para66"></a><a name="para67">67.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I recognise the risk of frivolous or extravagant litigation to set aside
+judgments on the ground of fraud, but like other members of the court, I think
+that the stringent conditions set out by Aikens LJ in <i>Royal Bank of Scotland
+plc v Highland Financial Partners lp</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/328.html">[2013] 1 CLC 596</a>, para 106, combined
+with the professional duties of counsel, are enough keep it within acceptable
+limits. I do not think that the imposition of further conditions would be
+consistent with the long-standing policy of equity of reversing transactions
+procured by fraud.</p>
+
+<p class="ParaHeading"><b><span style="font-style:normal">LORD BRIGGS:</span></b></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para68">68.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal turns on the outcome of a bare-knuckle fight between two
+important and long-established principles of public policy. The first is that
+fraud unravels all. The second is that there must come an end to litigation. I
+will call them the fraud principle and the finality principle. On the facts of
+this case I agree with Lord Kerr that the fraud principle should prevail. As
+will appear I also agree with most of his reasoning. But I have been unable to
+follow him all the way down a path which seeks to erect a reliable bright-line
+boundary between types of case where one principle or the other should clearly
+prevail. There will be too many cases where that supposed bright line is either
+invisible, or so technical that it fails to afford a basis for choosing between
+the two principles which accords with justice, common sense or the duty of the
+court to retain control over its own process, and thereby protect it from
+abuse. I would have preferred a more flexible basis upon which, recognising
+that many cases will straddle any bright line, the court can apply a
+fact-intensive evaluative approach to the question whether lack of diligence in
+pursuing a case in fraud during the first proceedings ought to render a
+particular claim to set aside the judgment in those proceedings for fraud an
+abuse of process. This approach would in particular seek to weigh the gravity
+of the alleged fraud against the seriousness of the lack of due diligence,
+always mindful of the principle that victims of a fraud should not be deprived
+of a remedy merely because they are careless.</a></p><a name="para68">
+
+<p class="ParaHeading">The problems with a bright-line rule</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para68"></a><a name="para69">69.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Basing himself on that obvious principle of justice, Lord Kerr proposes
+a clear rule that a judgment may always be set aside for fraud without regard
+either to the gravity of the fraud or to any lack of reasonable diligence by
+the alleged victim, unless either (i) fraud was actually alleged in the earlier
+proceedings, or (ii) there was a deliberate decision not to investigate a
+suspected fraud. Only in those cases should the finality principle either
+prevail, or at least give rise to a judicial discretion to apply it.</a></p><a name="para69">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para69"></a><a name="para70">70.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As will appear I agree that there should be such a power (although I
+doubt whether discretion is the right word) in those two types of case, but
+there will be numerous other types where the absence of any such power will in
+my view be an unacceptable fetter upon the court’s duty to control its own
+process, and to protect itself and the parties from abuse. The problems arise
+mainly from the wide range in the gravity of the alleged frauds, the low
+threshold of the summary judgment test which the fraud allegation must pass to
+enable the allegation to be tried, and the almost infinite levels of
+seriousness of the shortfall in the victim’s application of reasonable diligence.
+It makes no sense to me either that a serious, pre-meditated, skilfully
+executed and successful fraud should go without remedy merely because the
+victim fell short of reasonable diligence by a narrow margin (as the rule
+propounded by the Court of Appeal would ensure) or that something falling just
+on the wrong side of honesty should expose the successful litigant to the full
+rigour of a second trial, where the fraud allegation itself was only just
+arguable, and the alleged victim was guilty of the most basic failure to test
+the other party’s case (as I fear that Lord Kerr’s proposed rule would permit).</a></p><a name="para70">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para70"></a><a name="para71">71.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The allegation of fraud in the present case is a telling example of a
+grave fraud, at the most serious end of the range. I emphasise that it is at this
+stage only an untested allegation. It is said that the Krishans planned and
+implemented a clever forgery of a document vital (if genuine) to their case,
+and that it was instrumental in their victory. By using a genuine signature of
+Mrs Takhar, superimposing it on the joint venture agreement, disposing of the
+original and using a copy to conceal the superimposition, they made it as hard
+as they possibly could to prevent Mrs Takhar from dealing with it. On looking
+at the copy document it appeared to her to be, and indeed it was, her
+signature. Furthermore the alleged forgery was designed from the outset to
+deceive not only Mrs Takhar but also the court, in litigation which must have
+been pending when the forgery was planned and committed. By contrast the failure
+in reasonable diligence may be said to have been at the less serious end of the
+range. Although the relevant facts have not yet been investigated, it appears
+likely that Mrs Takhar and her then legal team did take steps to investigate a
+forgery which they suspected, but they left it too late.</a></p><a name="para71">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para71"></a><a name="para72">72.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A much more familiar example might go like this. Party A tells a spur of
+the moment deliberate half-truth (ie a lie) about a fact in issue when cornered
+during cross-examination at trial, and the advocate for party B fails to put it
+to A that the statement was a lie (ie dishonest) rather than merely a mistaken
+recollection, when there were disclosed documents which plainly justified
+putting it as a lie, absent from the trial bundle due to a serious failure in
+preparation for trial. Let it be supposed that the deliberate concealment of
+the whole truth was just on the wrong side of honesty. The trial judge gives
+credit to A’s evidence, in particular because the offending half-truth was not
+challenged as a deliberate lie, and this materially contributed to A’s success.
+A new legal team then does the necessary work on the disclosed documents and B
+seeks to set aside the judgment for fraud. Neither of Lord Kerr’s exceptions
+would apply. B would be able to seek a retrial of substantially the same case,
+if successful in getting the judgment set aside. The court would be powerless
+to stop the process as an abuse. Strictly B would be entitled to say that the
+judgment had been obtained by fraud, but a retrial in such circumstances would
+strike at the heart of the finality principle. On the other hand, if B’s
+advocate had just said “that’s a lie Mr A”, the court would, on Lord Kerr’s analysis,
+although not on Lord Sumption’s, have the requisite discretion because fraud
+would have been put in issue at the trial.</a></p><a name="para72">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para72"></a><a name="para73">73.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would suggest that, standing back from the legal technicalities, the
+real reason why most reasonable observers would say that the application to set
+aside the judgment in the first example should not be stayed as an abuse, but
+that in the second example it should, is not because of the brief putting of
+fraud in issue (if it had been) in the second, but because of the obvious
+disparity between them, when weighing the gravity of the fraud against the
+extent of the failure in due diligence. Both examples plainly engage both the
+fraud and the finality principles. In both of them judgment is alleged to have
+been obtained by fraud but, equally, in both examples the applicant is seeking,
+as the overall objective, completely to re-litigate the first case, albeit as
+the second stage in a two-stage process.</a></p><a name="para73">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para73"></a><a name="para74">74.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The low level of the summary judgment threshold contributes to the
+problem in this way. Applications to set aside a judgment for fraud present a
+potential double whammy to the finality principle. Subject of course to
+appeals, the first judgment should ordinarily be the end of the matter. But an
+application to set it aside for fraud will itself involve a trial which,
+because of the seriousness of the allegation, will be likely to be litigated
+with bell, book and candle, no stone being left unturned. If the application
+succeeds, there will then be a third trial, namely the re-trial of the original
+claim. Of course the third trial will be avoided if the application to set
+aside fails on the merits, but the only protection against the multiple
+litigation constituted by the trial of the fraud allegation will be if it fails
+to raise a triable issue.</a></p><a name="para74">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para74"></a><a name="para75">75.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nor therefore is it appropriate to address the extent to which the fraud
+principle should prevail as against the finality principle on the basis that
+the fraud has actually occurred. In particular cases the fraud allegation may
+be a weak one, just passing the summary judgment test, whereas the invasion of
+the finality principle in such a case will not merely be a risk but an
+expensive and time-consuming actuality. If these considerations can be weighed
+in an evaluative balance wherever the two principles are at loggerheads, well
+and good, but they would only feature in the regime proposed by Lord Kerr if
+one or the other of his two exceptions applied.</a></p><a name="para75">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para75"></a><a name="para76">76.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree that the dicta of Aikens LJ in in <i>Royal Bank of Scotland plc v</i>
+<i>Highland Financial Partners lp</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/328.html">[2013] 1 CLC 596</a>, para 106, cited by Lord
+Kerr, provide some protection against the abusive use of fraud allegations as a
+way of re-opening decided cases. But they would be unlikely to prevent the AB
+example from withstanding an application for defendant’s summary judgment. A
+deliberate lie in the witness box is no less fraudulent because it is committed
+on the spur of the moment. If it contributed materially to the outcome, then
+the requirement for causation is likely to be satisfied, at least at the level
+necessary to give rise to a triable issue. But those dicta are concerned with
+delimiting the cause of action, not the varied circumstances in which its
+pursuit may amount to an abuse.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para77">77.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I have already described by example the way in which there can be a wide
+range of seriousness in a failure to conduct litigation with reasonable
+diligence. An important part of the finality principle is that a party is
+expected to bring his whole case about the relevant dispute to bear when it is
+first litigated. That is the foundation of what used to be called the rule in <i>Henderson
+v Henderson</i> </a><a href="http://www.worldlii.org/int/cases/EngR/1843/917.pdf"></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.worldlii.org/int/cases/EngR/1843/917.html">(1843) 3 Hare 100</a>.<i> </i>If a matter relevant to a dispute
+could have been raised in the earlier case, then it should have been, and to
+litigate it even for the first time in a second case used automatically to be
+prohibited. But the rigour and inflexibility of the old rule has been completely
+transformed by its re-evaluation in <i>Johnson v Gore Wood &amp; Co</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2000/65.html">[2002] 2 AC 1</a>. Now, even if the new matter could have been raised in the earlier
+proceedings, it no longer follows that it necessarily should have been. Rather,
+the court conducts an open-ended fact intensive evaluation of the question
+whether to raise the new matter in a second claim is or is not an abuse. Lord
+Bingham said, at p 31:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is, however, wrong to hold
+that because a matter could have been raised in earlier proceedings it should
+have been, so as to render the raising of it in later proceedings necessarily
+abusive. That is to adopt too dogmatic an approach to what should in my opinion
+be a broad, merits-based judgment which takes account of the public and private
+interests involved and also takes account of all the facts of the case,
+focusing attention on the crucial question whether, in all the circumstances, a
+party is misusing or abusing the process of the court by seeking to raise
+before it the issue which could have been raised before. As one cannot
+comprehensively list all possible forms of abuse, so one cannot formulate any
+hard and fast rule to determine whether, on given facts, abuse is to be found
+or not.”</p>
+
+<p class="ParaNoNumber">As will appear, although neither of those cases was
+concerned with fraud, or with setting aside an earlier judgment, I consider
+that the sea-change which was introduced by the House of Lords in <i>Johnson v
+Gore Wood </i>presents the correct way out of the problems thrown up by this
+appeal.</p>
+
+<p class="ParaHeading">The authorities</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78">78.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Like Lord Kerr I do not consider that these problems are satisfactorily
+resolved by the existing authorities. My main reason is that the question
+whether the making of a particular type of application to a court does or does
+not involve an abuse of process is not one which is to be regarded as set in
+stone for all time, once resolved (if it has been) by the highest court. The
+abuse of process doctrine is one which both needs to be, and has conspicuously
+been, adaptive to changes in litigation culture over time, during which the
+pressures upon the courts and the readiness of the courts to conduct evaluative
+assessments in place of the mechanical application of bright-line rules is
+constantly changing. <i>Johnson v Gore Wood </i>is a prime but not sole example<i>
+</i>of the courts’ capacity to adapt to changing circumstances, in an area
+which is at least in part concerned with procedure.</a></p><a name="para78">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para78"></a><a name="para79">79.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In any event I agree with Lord Kerr, Lady Arden and Newey J that the
+existing authorities do not upon analysis provide a reliable guide, even though
+there are statements in some of them which, taken on their own, do appear to
+suggest that it is settled law that a lack of reasonable diligence will always
+be fatal to an application to set aside a judgment for fraud, as the Court of
+Appeal held. They do not, either because the foundations of earlier authority
+upon which they are expressed to be based prove upon minute analysis to be much
+less clear than the later dicta which rely upon them suggest, or because there
+are factors about the context in which the statements are made which are
+clearly distinguishable from the present context. <i>Owens Bank v Etoile</i> is
+an example of the first, while <i>Hunter v Chief Constable</i> is a clear
+example of the second. To the extent that the English authorities do appear at
+least superficially to espouse the rule that lack of reasonable diligence will
+always defeat an application to set aside a judgment for fraud, they simply
+fail to face up to the invasion thereby caused into the principle that a knave
+should not escape liability because he is dealing with a fool, as powerfully
+explained in the Australian and Canadian cases referred to by Lord Kerr.</a></p><a name="para79">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para79"></a><a name="para80">80.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is, therefore, an opportunity for this court to put upon a proper
+modern basis the principles which ought to regulate the court’s power to give
+full effect to the right of victims of fraud to obtain relief while at the same
+time exercising an evaluative power to recognise the abuse of that right, and
+to deal with it where it occurs. This would have enabled the courts to maintain
+supervision of a type of claim which, if uncontrolled, could turn into a flood
+of attempts by dissatisfied court users aimed at re-litigation of their
+disputes, based upon merely arguable assertions that they lost because an
+opposing party lied in the witness box, or even encouraged a witness to do so.</a></p><a name="para80">
+
+<p class="ParaHeading">The principles</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para80"></a><a name="para81">81.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The starting point is clearly to recognise that the right to have a
+judgment set aside for fraud is a distinct cause of action recognised by the
+common law, like a right to set aside a contract obtained by fraud, which is
+not inherently conditional upon any requirement for the exercise of reasonable
+diligence in the proceedings leading to the impugned judgment or, for that
+matter, the making of the impugned contract. In short, the exercise of
+reasonable diligence is not in any way part of the cause of action. It is for
+example fully applicable to a case in which judgment followed upon a defendant
+simply letting the case go by default, if fraud was involved in the obtaining
+of the judgment. It is a claim for relief obtainable as of right (ex debito
+justitiae), rather than only by the invocation of a judicial discretion. Nor
+does the right depend upon the seriousness of the fraud.</a></p><a name="para81">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para81"></a><a name="para82">82.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Two consequences flow from that starting point. The first is that, if no
+allegation of fraud was made in the proceedings leading to the impugned
+judgment, there is no question of cause of action or issue estoppel, for the
+reasons given by Lord Kerr and Lord Sumption. The second is that the absence of
+reasonable diligence is not of itself a reason for staying the claim to set
+aside the judgment. This would be to deny relief to foolish victims of a knave,
+merely because of their foolishness. The only reason to stay the application to
+set aside is if the lack of reasonable diligence is so serious, in the context
+of all other relevant factors, that the application can really be categorised
+as abusive.</a></p><a name="para82">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para82"></a><a name="para83">83.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But by contrast with claims to set aside agreements for fraud,
+applications to set aside a judgment for fraud will usually engage the finality
+principle, because of the re-litigation objective which normally lies at the
+heart of them. Leaving aside default judgments (where there has as yet been
+little real litigation), the objective of the applicant is not merely to have
+the impugned judgment set aside, but also to clear the way to have the original
+dispute relitigated. This may be thought to be obvious where the applicant is
+(like Mrs Takhar) the unsuccessful claimant in the earlier case, but it is in
+substance also true of a defendant’s application. Defendants will not of course
+wish thereby to bring the same claim again, but their objective is to keep the
+fraudulent claimant away from their door unless the claimant undertakes the
+burden of a completely new case, all the way to trial.</a></p><a name="para83">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para83"></a><a name="para84">84.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is in my view no answer to this analysis to say that the application
+to set aside a judgment for a fraud not previously alleged will not of itself
+re-litigate anything, so that the finality principle is not thereby really
+engaged at all. The overall objective is re-litigation. The forensic pursuit
+and defence of the fraud allegation may well travel over, or at least overlap
+with, ground trampled on in the original proceedings. The present case is an
+obvious example, since the question whether Mrs Takhar made the agreement in
+issue was central to the original trial, and would plainly be relevant to the
+issue whether the document apparently recording the agreement was a forgery.
+Even if it does not, the application will inevitably involve at least the risk
+of further expensive and time-consuming proceedings about the entitlement of
+the opposing party to relief already obtained by a judgment which, subject to
+appeal, ought (in the public interest) to have put an end to the underlying
+dispute. To that extent I respectfully disagree with the thrust of this part of
+Lord Kerr’s analysis about the separateness of the original proceedings and the
+application to set aside. In my view the contest between the fraud and finality
+principles is inherent in applications of this kind, rather than only in Lord
+Kerr’s two exceptions, where fraud was either alleged, or suspected but
+deliberately not investigated, although it is of course present a fortiori in
+such cases.</a></p><a name="para84">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para84"></a><a name="para85">85.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>That being so, it is in my view wrong in principle to say that the
+generality of applications to set aside judgments for fraud are entirely
+unaffected by questions about lack of reasonable diligence (or other factors
+pointing towards abuse) subject only to the identification of specific
+exceptional types where a judicial discretion may be engaged. The true
+principle should be to recognise that such applications constitute the
+assertion of a legal right with which the court will only interfere if
+satisfied that the exercise of the right is abusive, but that all such
+applications by their nature give rise to a risk of abuse with which the court
+is duty bound to engage, because they undermine finality by their mere pursuit,
+regardless of outcome. Re-litigation is always unfortunate, but it by no means
+follows that the reason for it is an abuse of process by the applicant. It may
+well be the respondent who is the real culprit.</a></p><a name="para85">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para85"></a><a name="para86">86.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would not describe the court’s exercise of this duty to guard against
+abuse as a discretion. There should be no judicial interference with the
+exercise of the right to set aside a judgment for fraud unless the court is
+satisfied that it involves an abuse of process. If it does, then the
+proceedings should be stayed. That will not be discretionary, but it will involve
+the evaluation of a potentially wide range of factors. I have already mentioned
+the gravity of the fraud and the extent of the shortfall from the exercise of
+reasonable diligence. Those would almost always be relevant. But the categories
+of potentially relevant factors are in principle unlimited. They might include,
+in particular cases, the centrality (or otherwise) of the fraudulent conduct to
+the outcome of the case, the extent to which (as here) the alleged fraud was
+specifically aimed at taking advantage of a lack of care in the preparation of
+the case by the alleged victim, the resources of the alleged victim during the
+first proceedings, the amount of toil, treasure and court time which would be
+thrown away by the setting aside of the judgment, the amount of the same which
+would be likely to be consumed by the trial of the fraud allegation and, if
+successful, the re-trial of the original claim, and even the apparent strength
+(or otherwise) of the allegation of fraud. But from start to finish, the
+question is whether the application really is an abuse of process.</a></p><a name="para86">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para86"></a><a name="para87">87.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nor would I expect this evaluative approach frequently to come down in
+favour of a stay. The principle that fraud unravels all is deeply rooted in the
+common law, and its continued application is an important contributor to
+honesty within society, to the rule of law and to the ability of the courts to
+adjudicate disputes justly. Fraud of this kind is all the more serious because
+it is aimed at deceiving the court itself. But the court must arm itself
+against always having to allow re-litigation, and potentially two further
+trials between the same parties, wherever the unsuccessful party wants to
+allege, for the first time, that the case was lost because an opposing party
+was lying about, rather than just mis-recalling, the facts in issue, and can
+demonstrate an arguable case that this is what happened at trial.</a></p><a name="para87">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para87"></a><a name="para88">88.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Sumption equates the setting aside a judgment for fraud with the
+setting aside of any transaction for fraud on the basis that a reasonable
+person is entitled to assume honesty in those with whom he deals, and is not
+expected to conduct himself or his affairs on the footing that other persons
+are dishonest unless he knows that they are. I fully agree with that approach
+to ordinary transactions out of court such as the making of a contract. But I
+cannot agree that it is reasonable for a litigant always to assume that an
+opponent’s case (and evidence in support of it) is honest, with a concomitant
+right to conduct litigation on that basis, and to re-litigate the same dispute
+whenever he can show, after judgment, an arguable case that his assumption was
+wrong.</a></p><a name="para88">
+
+<p class="ParaHeading">Application of the principles to this case</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para88"></a><a name="para89">89.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It will be apparent from the foregoing why I regard the present case as
+lying very clearly on the non-abusive side of the line, without forming any
+view at all about whether the allegation of this fraud will in fact be proved.
+If proven it was a very serious, pre-meditated, carefully planned and executed
+fraud which was instrumental in the defeat of Mrs Takhar’s claim, and plainly
+aimed from start to finish at deceiving the court about the central issue in
+the case. For the reasons given Mrs Takhar’s failure to use reasonable
+diligence was by no means at the more serious end of the scale. The expert
+evidence which she has now obtained, although thus far untested or opposed,
+plainly gives her a real (rather than merely arguable) prospect of success. Her
+application comes nowhere near being categorised as an abuse. I would therefore
+allow the appeal.</a></p><a name="para89">
+
+<p class="ParaHeading"><b><span style="font-style:normal">LADY ARDEN:</span></b></p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para89"></a><a name="para90">90.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns Mrs Takhar, who has brought an action (“a
+rescission action”) to rescind a judgment against her and made available to the
+court fresh evidence which, if proved at the trial of the rescission action,
+will demonstrate that the winning party obtained judgment against her by fraud.
+Preventing a person from prosecuting a rescission action in these circumstances
+amounts to restricting her right to pursue her cause of action in fraud, and to
+have access to justice for that cause of action. Therefore, the law should only
+impose a restriction on such a claimant in a rescission action where there is
+justification for doing so.</a></p><a name="para90">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para90"></a><a name="para91">91.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I agree with Lord Kerr that there is no authority which binds this court
+to hold that failure to act diligently in searching for this evidence before
+the original trial is, of itself, a bar. It is easy to see how it came to be
+thought that reasonable diligence in this regard had to be shown as in <i>Boswell
+v Coaks (No 2)</i> (1894) 86 LT 356n (using the fuller report in the footnotes
+to <i>Birch v Birch</i> (1902) 86 LT 364, which is also the report used by Lord
+Templeman in the passage cited by Lord Kerr at para 40 above), the Earl of
+Selborne, giving the judgment of the House of Lords, held obiter, having
+emphasised the importance of the finality of judgments, that the rules which
+applied to a bill of review before 1875 should continue to apply “in their full
+force, and even with greater freedom than before”. Those rules included a
+threshold condition in a rescission action that the fresh evidence “could not
+possibly have been used when the decree was made” (see <i>Thomas v Rawlings</i>
+(1865) 11 LT NS 721, 722, a decision of the Court of Appeal in Chancery).
+Moreover, the Court of Appeal in <i>Birch v Birch</i> appears obiter to have
+concluded that this earlier rule continued to apply (see (1902) 86 LT 367).
+This may have been the reason why Goff LJ held in <i>McIlkenny v Chief
+Constable of the West Midlands </i>[1980] QB 283, 335 that there was such a
+rule. In the House of Lords, in the same case but under the name of <i>Hunter v
+Chief Constable of the West Midlands Police </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1981/13.html">[1982] AC 529</a>, Lord Diplock
+approved Goff LJ’s holding, but, as Lord Kerr has explained, in a different
+context. Furthermore, it may be, as the Federal Court of Australia suggested in
+<i>Monroe Schneider Associates Inc v No 1 Raberem Pty Ltd (No 2)</i> (1992) 37
+FCR 234, 239, that prior to 1875 the Chancery Court had to be somewhat
+circumspect when asked to rescind a judgment given in a common law court: this
+might explain such threshold conditions.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para92">92.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is only right that in the generality of cases a judgment obtained by
+the fraud of the winning party should be rescinded because it is wrong in
+principle that a person who is proved to be a fraudster should obtain and
+retain the fruits of his fraud. Clearly, however, a restriction can be
+justified in some special situations. In other words, there are occasionally
+exceptions to the principle that “fraud unravels all”. There are cases where
+both parties have colluded to deceive the court - in those cases it would be an
+abuse of process to ask the court later to rescind the judgment. As Lord
+Mansfield held in <i>Montefiori v Montefiori</i> (1762) 1 Black W 363, 96 ER
+203 “no man shall set up his own iniquity as a defence, any more than as a
+cause of action”.</a></p><a name="para92">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para92"></a><a name="para93">93.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are other situations: for instance, where the fraud is not
+material to the outcome: see, for example, <i>Boswell v Coaks</i>. Likewise, a
+claim to set aside a decree absolute made on divorce, which is equivalent to an
+order in rem, was not set aside in <i>Callaghan v Hanson-Fox</i> [1992] Fam 1
+because the parties knew about the evidence and its significance. There must be
+actual fraud: constructive fraud is not enough. The fraud must be one for which
+the defendant is responsible. There may well be other situations which I have
+not mentioned. There may for instance (I express no view) be exceptions where
+the judgment in the original action was obtained by perjury during the trial or
+where the fraud was in fact pleaded in the first action.</a></p><a name="para93">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para93"></a><a name="para94">94.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Greater difficulty lies in situations where at the time of the original
+action a party suspects a fraud but does not investigate it or decides not to
+investigate it. The justice in this situation may not be so easily answered by
+allowing an unfettered right to bring a rescission action. I would treat this
+as a case where the <i>Ashingdane </i>principles found in the jurisprudence of
+the European Court of Human Rights apply (see <i>Ashingdane v United Kingdom </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1985/8.html">(1985) 7 EHRR 528</a>). Any restriction would have to be derived from a rule which serves
+the legitimate aim of proving a just solution, thus striking a fair balance
+between the relevant considerations and going no further than necessary, and
+which does not defeat the core right of access to court.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para95">95.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are factors which favour some restriction on the victim’s right in
+this situation. The judgment in the original action will be final and
+conclusive (subject to any appeal, and it is to be noted that on any appeal
+lack of reasonable diligence in obtaining the new evidence for the trial would
+be relevant). Finality in judgments leads to certainty, and hopefully to the
+social benefits of dispute resolution. Where property is in issue (eg the
+ownership of a business), the owner following a final judgment can develop it,
+invest in it and use it as security to raise money to develop other businesses
+free from the risk that it might be claimed by someone else. That also is for
+the economic and social benefit of the community, and there is a social and
+economic cost if that process is delayed.</a></p><a name="para95">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para95"></a><a name="para96">96.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Furthermore, a litigant has plenty of opportunities to challenge the
+other party’s case under the Civil Procedure Rules (“CPR”). Mrs Takhar could
+have served notice on the respondents to prove the disputed agreement, sought
+further information about it from the respondents and appealed from the denial
+of permission to adduce expert handwriting evidence. A party is expected to
+co-operate with the court and the other parties in ensuring that so far as possible
+all issues are dealt with efficiently at a single trial. Under the overriding
+objective in CPR rule 1.1(1), the court must deal with cases just and
+proportionately and this includes allotting to each case “an appropriate share
+of the court’s resources, while taking into account the need to allot resources
+to other cases”. Litigation resulting in rescission actions may involve not
+just one but three actions in all. There is also always the risk that the
+defendant if successful will incur costs which he cannot recover. In assessing
+reasonable diligence, however, it must be recalled that some litigants do not
+have legal representation and also that a party is entitled to conduct herself
+on the basis that the other side is not fraudulent, and that no investigations
+are needed, until she has real grounds for suspecting fraud.</a></p><a name="para96">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para96"></a><a name="para97">97.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is of course important for the efficient despatch of litigation that
+a court insists on compliance with its procedural rules: failure to do so in
+appropriate cases would provide an incentive to non-compliance.</a></p><a name="para97">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para97"></a><a name="para98">98.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rule in contention on this appeal, however, held by the Court of
+Appeal to be derived from case law, selects just one consideration - and one
+based on the victim’s conduct. It is illogical to the extent that it
+automatically imposes a sanction (a ban on bringing the second action) that may
+be wholly disproportionate to the lack of diligence. Moreover, it would leave
+all other factors out of account, including the defendant’s allegedly
+fraudulent conduct. In any event, a restriction on a person pursuing a cause of
+action should in principle only be imposed where it is necessary to do so to
+protect the rights and freedoms of others.</a></p><a name="para98">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para98"></a><a name="para99">99.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In addition, such a rule would take no account of the protections that
+can be provided to the defendant in appropriate cases by the exercise of other
+procedural powers, such as the power to strike out actions which had no real
+prospect of success. Where the defendant to the rescission action considers
+that it is clearly not well-founded, he can apply to strike out the action on
+the grounds of abuse of process or obtain summary judgment in his favour. He
+can be protected in costs and also by the strict rule of procedure that a fraud
+must be particularised with exactitude: see <i>Jonesco v Beard</i> [1930] AC 298.</a></p><a name="para99">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para99"></a><a name="para100">100.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Where the defendant is prejudiced, and his position cannot for some
+reason be safeguarded, or the rights of innocent third parties have intervened,
+it may be relevant to take into account any remedies that the victim may have
+against her professional advisers in the original action. Where innocent third
+parties have obtained rights, there may indeed be no point in rescission of the
+original judgment and the victim may have to resort to other remedies.</a></p><a name="para100">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para100"></a><a name="para101">101.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Too robust a rule favouring finality might encourage litigants to
+attempt to deceive the other parties or the court. Where deceit is practised on
+the court, the integrity of the legal system is put at risk and that is an
+important consideration against the rule contended for.</a></p><a name="para101">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para101"></a><a name="para102">102.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the short point is that there is as of now at least no procedural
+rule about any restriction on a person bringing a rescission action in the CPR.
+The drafters of those rules may wish to consider whether the position should be
+changed following these judgments. The jurisprudence of the courts of Australia
+and Canada cited by Lord Kerr is instructive. It is worth noting that in <i>Clone
+Pty Ltd v Players Pty Ltd (in liquidation) (Receivers &amp; Managers Appointed)</i>
+[2018] HCA 12 the High Court of Australia was only dealing with lack of reasonable
+diligence before the fraud was discovered, but the position reached in these
+cases is not universal in common law jurisdictions. For instance, a rule
+requiring the claimant in the rescission action to show that he made a
+“reasonable effort in the original trial to ascertain the truth of the matter”
+can be found in the <i>Restatement of Judgments (Second)</i> (1982), para 70
+(American Law Institute). There is also legislative precedent for the loss of a
+right of action as a result of a failure to exercise reasonable diligence in
+discovering fraud in Limitation Act 1980, section 32.</a></p><a name="para102">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para102"></a><a name="para103">103.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It might be salutary if the CPR were to require a party bringing a
+rescission action to provide an explanation as to his state of knowledge at the
+time of the first action in his pleading in the second action, or if they
+enabled the court to award some security for costs or impose other conditions
+if reasonable diligence was not taken in the first action. I agree with much
+that Lord Sumption has said in his judgment, but the question whether
+conditions should be imposed in this context may involve considerations apart
+from the imperative of reopening judgments procured by fraud and fall well
+short of preventing actions for that purpose being brought. The Civil Procedure
+Rule Committee is empowered to introduce changes to the CPR, and importantly
+the process involves consultation.</a></p><a name="para103">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para103"></a><a name="para104">104.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The statement of principles set out by Aikens LJ in <i>Royal Bank of
+Scotland plc v</i> <i>Highland Financial Partners lp</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2013/328.html">[2013] 1 CLC 596</a> at
+para 106 approved by Lord Kerr deals with the position at the trial of a
+rescission action, not with threshold conditions on bringing such an action.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para105">105.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the absence of any special provision in the CPR, and assuming the
+claim is properly pleaded, the only remedy available to the defendant in a
+rescission action is to apply to the court for an order barring the claim as an
+abuse of process. It must be a matter for the respondents in this case whether
+to pursue that course. They may wish to bring an application or even to contend
+that some exception to the general rule which this court has found applies.
+There are matters which cause me some concern on the limited evidence before
+this court: the fact that Mrs Takhar had concerns about the authenticity of her
+signature on the agreement from 2008 (two years before the trial), the fact
+that she had no other explanation in the original trial for the fact that the
+agreement appeared to bear her signature, her failure to challenge the
+authenticity of the agreement or to appeal the judge’s order denying permission
+to adduce handwriting evidence, the fact that she has received a settlement
+already from her solicitors suggesting that there was a lack of reasonable
+diligence (and clearly it cannot matter that it was the solicitors and not the
+client who showed lack of diligence), and the fact that two years passed
+between obtaining the report of the handwriting expert and bringing these
+proceedings.</a></p><a name="para105">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para105"></a><a name="para106">106.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I do not consider that it is for this court to determine the precise
+state of knowledge at any time of Mrs Takhar or those representing her. It is
+enough to say that in my judgment, there is not, and should not be, a rule that
+want of reasonable diligence in the first action of itself leads to a blanket
+ban on bringing an action to rescind a judgment which the claimant can properly
+allege the respondents obtained by fraud. This appeal should be allowed and the
+order of Newey J restored.</a></p><a name="para106">
+
+</a></div><a name="para106">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/13.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

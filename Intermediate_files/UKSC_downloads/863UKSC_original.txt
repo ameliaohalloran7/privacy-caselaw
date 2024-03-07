@@ -1,0 +1,498 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>Revenue and Customs v SSE Generation Ltd [2023] UKSC 17 (17 May 2023)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:Gisha;} @font-face  {font-family:TimesNewRomanPSMT;  panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:CIDFont+F5;  panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"\@TimesNewRomanPSMT";  panose-1:0 0 0 0 0 0 0 0 0 0;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading1, li.ParaSubHeading1, div.ParaSubHeading1  {mso-style-name:ParaSubHeading1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt} --> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Revenue and Customs v SSE Generation Ltd [2023] UKSC 17 (17 May 2023)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/17.html</i>
+<br>Cite as: 
+[2023] 1 WLR 1777,
+
+[2023] WLR(D) 228,
+
+[2023] STI 762,
+
+[2023] UKSC 17,
+
+[2023] STC 963,
+
+[2023] WLR 1777
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2023/17.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="https://www.iclr.co.uk/document/2019005186/casereport_765ce833-d92b-4a0c-ae00-101b23978ebc/html">[2023] WLR(D) 228</a>]
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2019005186/casereport_d56c5263-1802-483d-8d8e-7f69f603c5ba/html">[2023] 1 WLR 1777</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2023/17.image.pdf">Press Summary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/uk/cases/UKSC/2023/17.image1.pdf">Issues &amp; Facts</a></span></b></p>
+  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>Easter Term</b></p>  
+
+<p class="JudgmentReferences" style="margin:0cm"><b>[2023] UKSC 17</b></p>  
+
+<p class="JudgmentReferences"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2021/105.html">[2021] EWCA Civ 105</a></i></p>  
+
+<p class="JudgmentTitle">JUDGMENT</p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">Commissioners for His Majesty’s Revenue and Customs (Appellant)</span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">&nbsp;<i>v</i> </span></p>  
+
+<p class="JudgmentJudges"><span style="font-size:20.0pt">SSE Generation Ltd (Respondent)</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Reed, President</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Briggs</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hamblen</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Leggatt</p>  
+
+<p class="JudgmentJudges">Lord Stephens</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">17 May 2023</p>  
+
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+
+<p class="JudgmentJudges">Heard on 23 March 2023</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>Appellants</i></a></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Timothy Brennan KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Aparna Nathan KC</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by HMRC Solicitor’s Office and Legal Services (Stratford))</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent</i></p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Jonathan Peacock KC</p>  
+
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Michael Ripley</p>  
+
+<p class="JudgmentAppRespInt">(Instructed by CMS Cameron McKenna Nabarro Olswang LLP (London))</p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">Lord Hamblen (</a><span style="text-transform:none">with whom Lord Reed, Lord Briggs, Lord Leggatt and Lord Stephens agree</span>): </p>  
+
+<p class="ParaHeading1"><span style="text-transform:none">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction</span></p> <ol> 
+
+<li value="1"><a name="para1"> The issue in this appeal is whether items constructed for the collection and transmission of water to, through and from a hydro-electric power station (“the disputed items”) are a “tunnel” or an “aqueduct” within the meaning of those words as used in section 22 List B of Chapter 3, Part 2 of the Capital Allowances Act 2001 (“the CAA”). If they are then the expenditure on the items does not qualify for capital allowances on expenditure on the provision of plant unless List C in section 23 of the CAA applies. Such allowances may be deducted from income for the purpose of calculating the trading profits subject to corporation tax.
+</a></li>
+<p> </p>  
+
+<li value="2"><a name="para2"> The disputed items are part of a state-of-the-art hydro-electric scheme at Glendoe, Fort Augustus in Scotland (“the Glendoe Scheme”) constructed and operated by the respondent, SSE Generation Ltd (“SSE”). SSE is a UK incorporated wholly-owned subsidiary of SSE plc, a broad-based energy company. The value of the expenditure on the disputed items is around £200 million.
+</a></li>
+<p> </p>  
+
+<li value="3"><a name="para3"> Section 22 List B Item 1 of the CAA disqualifies from relief expenditure on “A tunnel, bridge, viaduct, aqueduct, embankment or cutting”. The issue of statutory interpretation which arises is whether the expenditure on the disputed items falls within this provision.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">Factual background</span></p>  
+
+<li value="4"><a name="para4"> The Glendoe Scheme is the only large-scale hydro-electric scheme of its type built in the UK in the last 50 years. Construction commenced in February 2006 and it was officially opened by HM The Queen in June 2009, but a major rockfall discovered in August 2009 required rectification works from 2010 until the Glendoe Scheme became fully operational in August 2012.
+</a></li>
+<p> </p>  
+
+<li value="5"><a name="para5"> A helpful summary of the main elements of the Glendoe Scheme is provided at para 11 of the decision of the First-tier Tribunal (“FTT”) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKFTT/TC/2018/TC06618.html">[2018] UKFTT 416 (TC)</a>. An illustration of it is to be found appended to the decision of the Upper Tribunal (“UT”) - see the appendix to this judgment. As with a typical hydro-electric station, electricity is generated by using water at high pressure taken from a dammed area to drive a water turbine. The turbine engages the generator and the used water is discharged, here, into Loch Ness. 
+</li>
+<p> </p>  
+
+<li value="6"><a name="para6"> In outline, the disputed items are as follows:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Various conduits used for gathering and conveying water diverted by the main water intakes to the reservoir, namely:</p>  
+
+<p class="ParaLevel3">i. A drilled and blasted underground conduit, lined with shotcrete;</p>  
+
+<p class="ParaLevel3">ii. A “cut and cover” concrete conduit; and</p>  
+
+<p class="ParaLevel3">iii. Uncovered channels, lined with rocks or concrete.</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The headrace, which provides pressurised water to the generating equipment, sourced from the main intake at the reservoir.</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The tailrace, which releases spent water from the generating equipment into Loch Ness.</p>  
+
+<p class="ParaApprovedLevel2">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The turbine outflow tunnel, which joins the outflow of the turbine to the tailrace.</p>  
+
+<p class="ParaApprovedLevel2">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The dewatering and drainage tunnels.</p>  
+
+<li value="7"><a name="para7"> A unique feature of the Glendoe Scheme is that many of the assets are underground. In particular, the generating equipment is in a cavern which is some 250 metres below ground level and in consequence the conduits referred to at items (2)-(5) above are also underground. The underground location of several of the assets forming part of the facility was chosen so as to optimise water pressure and minimise the overall cost and environmental impact of the Glendoe Scheme.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">The legislative provisions</span></p>  
+
+<li value="8"><a name="para8"> The CAA was drafted and enacted as part of the Tax Law Rewrite project. The rules currently contained in sections 21-23 of the CAA were first introduced by section 117 of the Finance Act 1994 as Schedule AA1 to the Capital Allowances Act 1990. The structure of the legislation in 1994 was different. In particular, the items excluded from allowances (now contained in sections 21-22 of the CAA) and the exceptions to those exclusions (now contained in List C) were organised into two tables.
+</a></li>
+<p> </p>  
+
+<li value="9"><a name="para9"> Section 11 of the CAA provides that plant and machinery allowances are available on capital expenditure on the provision of plant for the purposes of a qualifying activity subject to the rules in Chapter 3, Part 2 of the CAA (sections 21-38).
+</a></li>
+<p> </p>  
+
+<li value="10"><a name="para10"> It is not disputed that SSE has incurred capital expenditure for the purposes of its trade which is a qualifying activity and that the expenditure was incurred on the provision of items which are “plant” under common law principles.
+</a></li>
+<p> </p>  
+
+<li value="11"><a name="para11"> Chapter 3, Part 2 of the CAA identifies the following main categories of expenditure which do not qualify for plant and machinery allowances:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expenditure on the provision of a building, including the items in List A (section 21);</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expenditure on the provision of a structure or other asset within List B (section 22(1)(a));</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expenditure on “works involving the alteration of land” (section 22(1)(b)); and</p>  
+
+<p class="ParaApprovedLevel2">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expenditure on the acquisition of an interest in land (section 24).</p>  
+
+<li value="12"><a name="para12"> Section 22 provides:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote"><b>“22 Structures, assets and works</b></p>  
+
+<p class="MsoQuote">(1) For the purposes of this Act, expenditure on the provision of plant or machinery does not include expenditure on—</p>  
+
+<p class="MsoQuote">(a) the provision of a structure or other asset in list B, or</p>  
+
+<p class="MsoQuote">(b) any works involving the alteration of land.</p>  
+
+<p class="MsoQuote">LIST B</p>  
+
+<p class="MsoQuote">EXCLUDED STRUCTURES AND OTHER ASSETS</p>  
+
+<p class="MsoQuote">1. A tunnel, bridge, viaduct, aqueduct, embankment or cutting.</p>  
+
+<p class="MsoQuote">2. A way, hard standing (such as a pavement), road, railway, tramway, a park for vehicles or containers, or an airstrip or runway.</p>  
+
+<p class="MsoQuote">3. An inland navigation, including a canal or basin or a navigable river.</p>  
+
+<p class="MsoQuote">4. A dam, reservoir or barrage, including any sluices, gates, generators and other equipment associated with the dam, reservoir or barrage.</p>  
+
+<p class="MsoQuote">5. A dock, harbour, wharf, pier, marina or jetty or any other structure in or at which vessels may be kept, or merchandise or passengers may be shipped or unshipped.</p>  
+
+<p class="MsoQuote">6. A dike, sea wall, weir or drainage ditch.</p>  
+
+<p class="MsoQuote">7. Any structure not within items 1 to 6 other than—</p>  
+
+<p class="MsoQuote">(a) a structure (but not a building) within Chapter 2 of Part 3 (meaning of ‘industrial building’),</p>  
+
+<p class="MsoQuote">(b) a structure in use for the purposes of an undertaking for the extraction, production, processing or distribution of gas, and</p>  
+
+<p class="MsoQuote">(c) a structure in use for the purposes of a trade which consists in the provision of telecommunication, television or radio services.</p>  
+
+<p class="MsoQuote">(2) The provision of a structure or other asset includes its construction or acquisition.</p>  
+
+<p class="MsoQuote">(3) In this section—</p>  
+
+<p class="MsoQuote">(a) ‘structure’ means a fixed structure of any kind, other than a building (as defined by section 21(3)), and</p>  
+
+<p class="MsoQuote">(b) ‘land’ does not include buildings or other structures, but otherwise has the meaning given in Schedule 1 to the Interpretation Act 1978. …”</p>  
+
+<li value="13"><a name="para13"> The critical provision in List B is Item 1:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“1. A tunnel, bridge, viaduct, aqueduct, embankment or cutting.”</p>  
+
+<p class="ParaNoNumber">It is common ground that the sweep up exclusion in Item 7 does not apply. SSE is a protected undertaking which carries out a trade of the generation, transformation and transmission of electricity and consequently the carve out in subparagraph (a) of Item 7 applies to take the disputed expenditure outside its scope (they are “a structure…within Chapter 2 of Part 3” because under section 271 and Tables A and B in section 274, they count as structures within that Chapter). It follows that to the extent any of the disputed items are not a “tunnel” or “aqueduct” within List B, Item 1, section 22 does not apply and SSE is entitled to capital allowances on the expenditure.</p>  
+
+<li value="14"><a name="para14"> Section 23 limits the application of sections 21 and 22. In particular section 23(3) provides that sections 21 and 22 do not affect the question of whether expenditure on “any item described in List C” is qualifying expenditure. 
+</a></li>
+<p> </p>  
+
+<li value="15"><a name="para15"> List C sets out 33 items which are unaffected by sections 21 and 22. It was common ground that the items in List C were intended to preserve the position arrived at in many past court rulings on the meaning of plant and Revenue practice. The boundary between buildings and structures on the one hand and plant on the other hand had been eroded over a number of years by court decisions and these provisions were intended ‘to draw a line in the sand’.
+</a></li>
+<p> </p>  
+
+<li value="16"><a name="para16"> Item 25 in List C is of relevance to the appeal. It refers to:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“The provision of pipelines or underground ducts or tunnels with a primary purpose of carrying utility conduits.”</p>  
+
+<p class="ParaHeading1">4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">The decisions of the tribunals below and of the Court of Appeal</span></p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">The meaning of “tunnel”</span></p>  
+
+<li value="17"><a name="para17"> The FTT (Judge Poole) considered that the words used in List B “are not specialist terms, they have ordinary English meanings”. In ascertaining that meaning he held that it was “legitimate to consider the way in which they have been grouped in the legislation, the assumption being that structures and assets which are specifically grouped together are likely to share some basic common theme” (para 38).
+</a></li>
+<p> </p>  
+
+<li value="18"><a name="para18"> In relation to Item 1 of List B he concluded that that theme was one of “structures related to transportation infrastructure”, explaining as follows:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“66. Item 1 in List B comprises ‘a tunnel, bridge, viaduct, aqueduct, embankment or cutting.’ The words ‘bridge’ and ‘viaduct’ generally refer to an elevated structure created to carry a road, path or railway across a valley or river (in the case of a bridge) or across a wider piece of low ground (in the case of a viaduct). The word ‘tunnel’ in the Oxford English Dictionary (‘OED’) is defined (most relevantly) as ‘a subterranean passage; a road-way excavated under ground, esp. under a hill or mountain, or beneath the bed of a river: now most commonly on a railway; also in earliest use on a canal, in a mine, etc. (The chief current sense.)’. I would add that in common parlance, the word ‘tunnel’ would normally refer to a passage bored through ground which permits people or forms of transport to pass to and fro. ‘Embankment’ is defined in the OED as ‘a mound, bank, or other structure for confining a river, etc. within fixed limits’ or, more familiarly, as ‘a long earthen bank or mound, esp. one raised for the purpose of carrying a road or a railway across a valley’. ‘Cutting’ is relevantly defined as ‘an open, trench-like excavation through a piece of ground that rises above the level of a canal, railway, or road which has to be taken across it’…”.</p>  
+
+<li value="19"><a name="para19"> He further held that “one essential, though not necessarily primary, purpose of a tunnel is to facilitate access from one end to the other, either of persons or of means of transport” (para 67). His conclusion was that none of the disputed items was a “tunnel”.
+</a></li>
+<p> </p>  
+
+<li value="20"><a name="para20"> The UT (Judges Herrington and Brannan) reached the same conclusion but for differing reasons (</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKUT/TCC/2019/332.html">[2020] STC 107</a>). It considered that the ordinary meaning of “tunnel” was “any form of subterranean passage” (para 90) but that “the context requires that the word ‘tunnel’ should be given a narrower meaning than its ordinary dictionary meaning” (para 93). It explained:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“…the words immediately surrounding ‘tunnel’ in Item 1 of List B are ‘bridge, viaduct, aqueduct, embankment or cutting’ all of which are the product of civil engineering works related to the construction of transportation ways and routes, that is the types of ways and routes which the draftsman subsequently lists in Item 2 and 3 of List B.”</p>  
+
+<li value="21"><a name="para21"> It concluded at para 95: 
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“…whilst in our view the FTT were wrong to say that the ordinary meaning of a tunnel is always a passageway used to facilitate access from one end to the other of persons or of means of transport, we conclude that in List B, taking into account the context in which the term is used, ‘tunnel’ has that meaning.”</p>  
+
+<li value="22"><a name="para22"> The Court of Appeal (the lead judgment being given by Rose LJ with whom David Richards and Popplewell LJJ agreed, </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2021/105.html">[2021] STC 369</a>) agreed with the FTT that the ordinary meaning of the word “tunnel” in its context was “something along which people or vehicles are intended to travel and not simply any subterranean passage. That limits the term to a subterranean conduit of a diameter and gradient which enables it to operate as a ‘passageway’” (para 39). The context was one involving a transportation theme. As the Court of Appeal explained at para 42:
+</li>
+<p> </p>  
+
+<p class="MsoQuote">“I agree with Judge Poole and with the Upper Tribunal that it is significant that the structures or assets in List B are grouped together into particular themes and that the theme emerging from Item 1 is a transportation theme. Item 2 also has a transportation theme; as Mr Peacock put it, it includes those things, the road, railway and tramway, which go through or over the things in Item 1. Items 3, 4 and 5 are all water related in some way. The ordinary meaning of the word ‘tunnel’ in this context is, as the FTT held at [66], ‘a passage bored through ground which permits people or forms of transport to pass to and fro’.”</p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">The meaning of “aqueduct”</span></p>  
+
+<li value="23"><a name="para23"> The FTT noted that the word had two potentially relevant Oxford English Dictionary (“OED”) definitions (para 68):
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“First, it can mean ‘an artificial channel for the conveyance of water from place to place; a conduit; esp. an elevated structure of masonry used for this purpose’. This was clearly its original historical meaning, deriving from the Latin, and referring to structures such as the famous Roman Segovia aqueduct (an elevated structure), the Levadas of Madeira (mostly at surface level) or the Gadara aqueduct (a subterranean conduit). A second meaning however is given: ‘The similar structure by which a canal is carried over a river, etc.’ This has a more obvious transportation infrastructure flavour.”</p>  
+
+<li value="24"><a name="para24"> The FTT concluded at para 69 that in the context of List B it had the former meaning:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“…the word ‘aqueduct’ is apt to describe an asset of the type we are here concerned with - an artificial underground conduit whose function is solely to transport water from one place to another through the ground under the force of gravity; I consider the transportation of water itself is enough to be consistent with the overall ‘transportation’ theme of Item 1, rather than requiring the water to be the <u>means</u> of transportation of other things (as in the case of a canal).”</p>  
+
+<p class="ParaNoNumber">On that basis the FTT found a number of the disputed items to be an “aqueduct”.</p>  
+
+<li value="25"><a name="para25"> The UT agreed with the FTT that the term has the two potential ordinary meanings identified by the FTT but it held that in context it had the latter meaning. It considered that “the FTT fell into error by holding that the ‘transportation’ theme of Item 1 extended to an aqueduct which was a conduit for moving water from one place to another” (para 100). When used in List B it was “intended to be confined to a bridge-like structure which created a transportation route, that is a canal” (para 101). It therefore concluded that none of the disputed items was an “aqueduct”.
+</a></li>
+<p> </p>  
+
+<li value="26"><a name="para26"> The Court of Appeal upheld the conclusion of the UT. It reasoned as follows:
+</a></li>
+<p> </p>  
+
+<p class="MsoQuote">“49. I have found this Ground more difficult since the kind of structure that comes immediately to mind as being an aqueduct is neither an underground nor surface channel for moving water, nor a bridge like structure carrying a canal for navigation. It is a bridge-like structure which spans a river, gorge or valley in order to carry either a general water supply from a distant source to a centre of population or a canal. The definition used by the Upper Tribunal would exclude many spectacular and elegant structures that have been left to us from ancient times and are commonly thought of and referred to as aqueducts. It would include only those structures of which there are a number across the country which carry canals. However, I am satisfied that that is right and that the transportation theme of Item 1 List B limits the scope of the word here to canal-carrying aqueducts…This is a provision where the noscitur a sociis<i> </i>principle of interpretation comes into play to limit the ordinary meaning of the word to a particular kind of aqueduct, namely that with a transportation theme. I therefore agree with the Upper Tribunal that in its context here, an aqueduct is a bridge or viaduct-like structure which carries a canal.”</p>  
+
+<p class="ParaHeading1">5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">Whether the terms</span> “<span style="font-family:CIDFont+F5;text-transform:none">tunnel</span>” <span style="text-transform:none">and “aqueduct” in section 22 List B Item 1 of the CAA are wide enough to encompass some or all of the disputed items such that the expenditure on those items does not attract allowances.</span></p>  
+
+<li value="27"><a name="para27"> In terms of general approach HMRC make a number of criticisms of the decision of the Court of Appeal.
+</a></li>
+<p> </p>  
+
+<li value="28"><a name="para28"> First, it is submitted that the Court of Appeal has impermissibly inferred that Parliament, having used words of wide meaning, intended to narrow that meaning by reference to context. That imputed intention to preserve the relevant items from disallowance involves Parliament both<i> </i>failing to say so expressly in List B and<i> </i>failing to include those items in List C. The correct approach is that Parliament prima facie<i> </i>disqualified all items in List B, and saved from that<i> </i>disqualification only any limited class thereof mentioned in List C.
+</a></li>
+<p> </p>  
+
+<li value="29"><a name="para29"> Secondly that approach is supported by the mischief at which the rules first introduced in the Finance Act 1994 were aimed, namely to draw ‘a line in the sand’ based on the existing common law and to remove uncertainty as to where the boundary between qualifying and non-qualifying expenditure lies. List B sets out the disqualifications while List C is essentially a statutory preservation of existing case law and Revenue practice. In support of this identification of the mischief HMRC relied on various comments made by the relevant Minister, the Financial Secretary to the Treasury (Mr Stephen Dorrell), as recorded in Hansard and Notes on Clauses. It is not necessary to consider the appropriateness of reliance on such material as it is not disputed that the aim was to draw ‘a line in the sand’.
+</a></li>
+<p> </p>  
+
+<li value="30"><a name="para30"> &nbsp;Thirdly, any thematic connections which may be identified do not justify limiting the meaning of the statutory words to a narrower meaning than their ordinary meaning, especially given that such an outcome could easily have been achieved expressly.
+</a></li>
+<p> </p>  
+
+<li value="31"><a name="para31"> HMRC’s approach involves an assumption either that their preferred meaning is the ordinary meaning of the word, or that where there are two ordinary meanings for a word the wider meaning should be taken to be the ordinary meaning. Neither assumption is justified. In this case the Court of Appeal identified two possible ordinary meanings of both the words “tunnel” and “aqueduct”, not one such meaning. Where there are two ordinary meanings there is no reason for making an a priori assumption that the wider meaning should be taken. There is nothing in List B Items 1 to 6 to indicate an intention to cast the net as widely as possible, and the existence of Item 7 indicates that there was no need to do so. Nor is this approach justified by the suggested mischief. Drawing a ‘line in the sand’ or a clear boundary may well have been Parliament’s intention but that does not assist in identifying where that line or boundary has been drawn.
+</a></li>
+<p> </p>  
+
+<li value="32"><a name="para32"> HMRC’s approach also assumes that a binary approach to Lists B and C is appropriate and that Parliament’s intention was to exclude all structures from capital allowances unless and to the extent that they are set out in List C. List B does not, however, apply to all structures. In particular, it does not apply to any structures which fall within the three carve-outs in Item 7 for protected undertakings. Items 1 to 6 specify particular structures which are excluded regardless of the purpose for which they are used. Item 7 excludes any other structures unless they are used for the purposes set out in Item 7(a)(b) or (c). List B Items 1 to 6 therefore reflect an exclusionary decision being made in relation to specific structures, but not others. Equally, List C was never intended to identify the only structures which would qualify for allowances.
+</a></li>
+<p> </p>  
+
+<li value="33"><a name="para33"> Where there are two possible ordinary meanings of the relevant words some means needs to be found to decide which was the meaning intended. There is nothing wrong in principle in relying upon a thematic connection which explains the grouping of items in a list. That is an important part of the statutory context. HMRC’s approach gives no effect to that context and does not proffer any explanation for the groupings made.
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">The meaning of “tunnel”</span></p>  
+
+<li value="34"><a name="para34"> HMRC contend that:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ordinary meaning of “tunnel” covers any underground passage, whether used for people, for vehicles, for animals, for transmitting substances such as air for ventilation, other gases, water, or used for other items such as utility lines or pipes, permitting transmission of power. The OED identification of “tunnel” as any “subterranean passage” is consistent with this ordinary meaning.</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is no significance in the grouping of assets in List B and there was no common transportation theme running through Item 1. Another possible “theme” is identification of assets that ensure passage over, across or through<i> </i>some obstacle or geographical feature. So viewed, the focus of the assets in List B Item 1 is on ensuring movement of anything from place A to place B and not on what or who is being conveyed (whether people, vehicles, water, gas, air etc) and not on the means of conveyance (whether vehicles, boats or trains).</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Court of Appeal should have had regard to the established canon of construction that the same words used (without relevant qualification) in the same enactment bear the same meaning. Parliament included the word “tunnel” in List B and List C. The Lists are in adjacent statutory sections as part of the same statutory scheme. The presence of the term “tunnel” in List C Item 25 saving certain sorts of tunnel from disqualification (“underground ducts or tunnels with a primary purpose of carrying utility conduits”) strongly indicates that use of the term in List B Item 1 was not limited in meaning.</p>  
+
+<p class="ParaApprovedLevel2">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The statutory purpose is furthered by giving the statutory words such as “tunnel” an unrestricted meaning and is, conversely, hindered by importing speculative limitations based on size or function.</p>  
+
+<li value="35"><a name="para35"> As to (1), it is correct that that is one ordinary meaning of “tunnel”. But another ordinary meaning as given by the OED is “a road-way excavated underground”. This emphasises the significance of a tunnel being for a way. Even the definition “subterranean passage” begs the question of what the passage is for. Again, it may well be for a way - a passageway. Where there is no clear, single ordinary meaning the Court of Appeal and the tribunals below were correct to consider the context and whether that assisted in identifying the correct meaning. It is clear that a different drafting technique has been used in List B (where items are grouped) and List C (where items are listed). In List B a choice has been made to identify specific structures which are to be excluded in all cases, to group those structures in separate lists and to decide the list to which each structure belongs. It is reasonable to conclude that those grouping choices were made for a reason, most obviously a thematic reason, if such can be identified.
+</a></li>
+<p> </p>  
+
+<li value="36"><a name="para36"> As to (2), I accept the submission of Mr Jonathan Peacock KC for SSE, that a thematic reason can be identified and that the theme linking Item 1 is that of structures related to the construction of transportation routes or ways (the types of way listed in Items 2 and 3). Thus:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A “tunnel” is a subterranean passage through an obstacle for a way (such as a railway, road, or canal) to pass through;</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A “bridge” and a “viaduct” permit vehicles or pedestrians to travel over an obstacle;</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A “cutting” and an “embankment” are other structures resulting from clearing obstacles in constructing a road, railway or inland navigation.</p>  
+
+<p class="ParaNoNumber">The meaning of “aqueduct” will be addressed below but it does not undermine the general linking theme.</p>  
+
+<li value="37"><a name="para37"> Each of the other items in List B are also grouped thematically. Items 2 and 3 list transportation assets which typically relate to navigation or movement by land and by water respectively. Item 4 lists assets for harnessing or containing water. Item 5 lists structures at which vessels may be moored or merchandise may be shipped/unshipped. Item 6 lists flood defences.
+</a></li>
+<p> </p>  
+
+<li value="38"><a name="para38"> As to (3), there is no contradiction between the meaning given to “tunnel” by the Court of Appeal and that in List C, Item 25. An underground passageway can have a primary purpose of carrying utility conduits. Indeed, the transformer cable tunnel in the Glendoe Scheme (through which people may pass to access the transformer cavern but which is primarily used to carry electricity cables) may be said to be an example of such a structure. Moreover, this may explain why both underground “tunnels” and “ducts” are referred to in Item 25. On HMRC’s case “ducts” adds nothing to “tunnels” since all underground “ducts” would also be “tunnels”.
+</a></li>
+<p> </p>  
+
+<li value="39"><a name="para39"> As to (4), this is a non-sequitur. The meaning given to “tunnel” by the Court of Appeal is clear and draws ‘a line in the sand’. Drawing an objectively reasonable contextual inference as to the meaning intended is not speculative. As recently emphasised by this court in <i>R (O) v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2022/3.html">[2022] UKSC 3</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2022/3.html">[2023] AC 255</a> at para 29: “Words and phrases in a statute derive their meaning from their context” (per Lord Hodge).
+</li>
+<p> </p>  
+
+<li value="40"><a name="para40"> I therefore agree with the conclusion of all the judges below that the meaning of the word “tunnel” in List B, Item 1 depends on its context. That context identifies which ordinary meaning of the word is intended and in this case that is a subterranean passage for a way to pass through.
+</a></li>
+<p> </p>  
+
+<p class="ParaSubHeading1"><span style="font-weight:normal">The meaning of “aqueduct”</span></p>  
+
+<li value="41"><a name="para41"> HMRC contend that:
+</a></li>
+<p> </p>  
+
+<p class="ParaApprovedLevel2">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ordinary meaning of “aqueduct” is obviously capable of including conduits that convey water, whatever their size, shape, location or manner of construction, as the FTT recognised.</p>  
+
+<p class="ParaApprovedLevel2">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By including “aqueduct” in List B Item 1 and saying nothing about whether or how that term should be qualified, it is clear that Parliament excluded all “aqueducts” from allowances for expenditure on the provision of plant; it was impermissible for the Court of Appeal to limit the scope of the exclusion only to one type of (antique) aqueduct (bridge-like canal-carrying structures) and to treat all other aqueducts as having escaped the reach of the legislation.</p>  
+
+<p class="ParaApprovedLevel2">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Court of Appeal’s meaning of “aqueduct” results in redundancy as a “canal” is expressly covered by List B, Item 3. It is also unrealistic as it is unlikely that any bridge-like canal-carrying structures have been constructed for use in trade for over 100 years.</p>  
+
+<li value="42"><a name="para42"> It is correct that a conduit to convey water is one of the ordinary meanings of the word “aqueduct”. Another ordinary meaning given by the OED is a structure by which a canal is carried over a river. Other dictionaries give as their first or most common meaning of aqueduct a form of bridge-like structure for carrying water. For example, Oxford Dictionary of English (3<sup>rd</sup> edition): “a bridge or viaduct carrying a waterway over a valley or other gap”; Shorter Oxford English Dictionary (6<sup>th</sup> edition): “an artificial channel, esp. an elevated structure of masonry, for the conveyance of water”; Chambers Dictionary (13<sup>th</sup> edition): “an artificial channel or pipe for conveying water, most commonly understood to mean a bridge across a valley”; Cambridge Online English Dictionary: “a structure for carrying water across land, especially one like a high bridge with many arches that carries pipes or a canal across a valley”.<b><span style="font-size:13.5pt;font-family: &quot;Arial&quot;,sans-serif;color:#1D2A57"> </span></b>As Rose LJ observed, a bridge-like structure for carrying water is what “comes immediately to mind”, an observation that reflects that common meaning.
+</a></li>
+<p> </p>  
+
+<li value="43"><a name="para43"> In List B, Item 1 “aqueduct” is listed immediately after “bridge, viaduct” and in the context of a theme of structures relating to the construction of transportation routes or ways. In that context I consider that it connotes a bridge-like structure for carrying water (such as where a canal is carried over a river or valley). That is its most common meaning and it makes good sense in its contextual setting. I do not consider that the general theme underlying the grouping of Item 1 structures compels the conclusion that the meaning of “aqueduct” is limited to the carrying of canals. That is certainly included but it is not required. “Aqueduct” differs from the other words used in Item 1 as it specifically identifies what the way is for, namely “aqua” or water. That justifies a wider meaning being given to that particular term but it does not undermine the general theme running through Item 1. There is no need for complete congruity and there is sufficient family resemblance between all terms used.
+</a></li>
+<p> </p>  
+
+<li value="44"><a name="para44"> Conversely, if, as on HMRC’s case, “aqueduct” simply means a water conduit it would be very surprising for it to be listed after “bridge, viaduct” or indeed in Item 1. It has nothing in common with the other items there listed. It would also largely render otiose other water conduits that are specifically listed, such as canals (Item 3), dikes and drainage ditches (Item 6).
+</a></li>
+<p> </p>  
+
+<li value="45"><a name="para45"> I therefore consider that in context “aqueduct” here means a bridge-like structure for carrying water, which includes but is not limited to carrying a canal. That is its common ordinary meaning and the general transportation theme does not compel the more limited meaning of a bridge-like structure carrying a canal which was given to it by the Court of Appeal and the UT. 
+</a></li>
+<p> </p>  
+
+<li value="46"><a name="para46"> Such an interpretation of “aqueduct” dispels many of the criticisms made of the Court of Appeal’s decision. In particular, if relevant, it is not unrealistic to contemplate such a structure being built. It also means that there is no duplication with “canal” in Item 3.
+</a></li>
+<p> </p>  
+
+<p class="ParaHeading1">6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="text-transform:none">Conclusion</span></p>  
+
+<li value="47"><a name="para47"> For all the reasons set out above I reject HMRC’s suggested interpretation of both “tunnel” and “aqueduct” and would uphold the decision reached by the Court of Appeal. In those circumstances it is not necessary to consider SSE’s alternative case that the disputed items fall within List C. 
+</a></li>
+<p> </p>  
+
+<li value="48"><a name="para48"> I would dismiss the appeal.
+</a></li>
+<p> </p>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  
+</ol>
+<p class="MsoNormal" style="margin-bottom:8.0pt;line-height:107%"><span style="font-size:13.0pt;line-height:107%">&nbsp;</span></p>  
+
+<p class="ParaApprovedLevel1" style="margin-left:36.0pt"><img width="601" height="315" id="Picture 1" src="/uk/cases/UKSC/2023/17.image001.png"></p>  </div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2023/17.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

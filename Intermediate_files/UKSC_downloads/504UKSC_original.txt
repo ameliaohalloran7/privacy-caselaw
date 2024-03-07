@@ -1,0 +1,1151 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>AMT Futures Ltd v Marzillier &amp; Ors [2017] UKSC 13 (1 March 2017)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+em
+	{font-weight:bold;
+	font-style:normal;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+span.st1
+	{mso-style-name:st1;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      AMT Futures Ltd v Marzillier &amp; Ors [2017] UKSC 13 (1 March 2017)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/13.html</i>
+<br>Cite as: 
+[2017] 4 All ER 382,
+
+[2017] WLR(D) 154,
+
+[2017] ILPr 22,
+
+[2018] AC 439,
+
+[2017] 1 CLC 178,
+
+[2017] UKSC 13,
+
+[2017] 2 WLR 853,
+
+[2017] 2 All ER (Comm) 1041
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2017/13.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011208405/casereport_f30f79ac-68a8-4579-b5d4-b546ac4988d8/html">[2018] AC 439</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+WLR(D)+154">[2017] WLR(D) 154</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+2+WLR+853">[2017] 2 WLR 853</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2017] UKSC 13</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/143.html">[2015] EWCA Civ 143</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">AMT Futures Limited (Appellant) <i>v</i> Marzillier,
+Dr Meier &amp; Dr Guntner Rechtsanwaltsgesellschaft mbH (Respondent)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Clarke</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">1 March 2017</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 5 and 6 October
+2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:69.0pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Thomas de la Mare
+  QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew Scott</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Farrer and Co LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:69.0pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Hugh Mercer QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Pierre Janusz</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Zimmers Solicitors)</p>
+  </td>
+ </tr>
+</tbody></table></center>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD HODGE: (<span style="text-transform:none">with whom
+Lord Neuberger, Lord Mance, Lord Clarke and Lord Sumption agree</span>)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This appeal concerns the interpretation of Council Regulation (EC) No
+44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement
+of judgments in civil and commercial matters (“the Judgments Regulation”). The
+question is whether the English courts have jurisdiction to hear the claim by the
+appellant (“AMTF”) against the respondent (“MMGR”) for damages for the tort of
+inducing breach of contract.</a></p><a name="para1">
+
+<p class="ParaHeading">Factual background</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>AMTF is incorporated in the United Kingdom and is based in London. It
+provides services as a non-advisory, “execution only”, derivatives broker for
+clients who wish to trade in derivatives and who are referred to it by
+introducing brokers. Among AMTF’s clients were people who were domiciled in
+Germany, Austria, Switzerland or Belgium (“the former clients”) and who were
+introduced to AMTF by independent brokers based in Germany (“the introducing
+brokers”). AMTF charged its clients commission for its service and paid
+commission to the introducing brokers.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>About 70 former clients, who were dissatisfied with the financial
+results of their transactions, commenced legal proceedings in Germany against
+both the introducing brokers and AMTF seeking damages under the German law of
+delict. The claim against the introducing brokers was that they had given bad
+investment advice or had failed to warn of the risks of the investments. The
+claim against AMTF was based on a liability which was accessory to that of the
+brokers: it was alleged that AMTF had encouraged the brokers to behave as they
+did by paying them commission from the transaction accounts which it operated
+for its clients and that it owed and had breached a duty in delict (tort) to
+the clients to prevent any transactions being undertaken contrary to their
+interests. AMTF challenged the jurisdiction of the German court. But many of
+the former clients have recovered damages from AMTF by way of settlement. AMTF
+estimates that by August 2013 it had spent £2,191,881.68 on investigating the German
+claims, legal costs in Germany and England and settlement costs.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The agreements between AMTF and the former clients varied over time. But
+each contained clauses which provided (a) that English law would govern the
+rights and obligations of the contracting parties and the construction of their
+contract and (b) that the English courts would have exclusive jurisdiction in
+legal proceedings relating to the contract. AMTF asserts that the former
+clients have breached their contracts with it by raising legal proceedings
+against it in Germany and asserting rights under the German law of delict. AMTF
+has raised legal proceedings against many of the former clients seeking damages
+for breach of contract in the High Court in London.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>MMGR is a company incorporated under the laws of Germany and carries on
+business as a firm of lawyers in Germany. AMTF alleges that MMGR induced the
+former clients to issue proceedings against it in Germany and to advance causes
+of action under German law, in breach of the exclusive jurisdiction and
+applicable law clauses in their contracts with AMTF. It has commenced
+proceedings in the High Court in London against MMGR, based on the English law
+tort of inducing breach of contract, in which it seeks both damages and
+injunctive relief to restrain MMGR from inducing clients to bring further
+claims in Germany asserting causes of action under German law. AMTF argues that
+the English courts have jurisdiction over its claim under article 5.3 of the
+Judgments Regulation, which gives jurisdiction in tort claims to the courts for
+the place in which the harmful event occurred or may occur. MMGR challenges the
+jurisdiction of the English courts to entertain this action. To that end MMGR
+applied for a declaration that the English courts did not have jurisdiction
+over it in respect of the subject matter of AMTF’s claim.</a></p><a name="para5">
+
+<p class="ParaHeading">The prior legal proceedings</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Popplewell J in a judgment dated 11 April 2014 (</a><a title="Link to BAILII version" href="/ew/cases/EWHC/Comm/2014/1085.html">[2014] EWHC 1085 (Comm)</a>);
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/143.html">[2015] QB 699</a> refused MMGR’s application and held that the English courts had
+jurisdiction. He decided that the relevant harm which gives rise to
+jurisdiction under article 5.3 occurred in England as AMTF had in each case
+been deprived of the benefit of the exclusive jurisdiction clause, which, he
+held, created a positive obligation on a former client to bring proceedings in
+England. The Court of Appeal in a judgment dated 26 February 2015 (<a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/143.html">[2015] EWCA Civ 143</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/143.html">[2015] QB 699</a>), in which Christopher Clarke LJ wrote the leading
+judgment, concluded that the English courts did not have jurisdiction as the
+relevant harm had occurred in Germany. The Court of Appeal were not
+enthusiastic about the conclusion which they felt compelled to reach as it
+meant the ancillary claim in tort against MMGR for inducing the breach of the
+contracts could not be made in the court which the contract breaker had agreed
+would have exclusive jurisdiction over the contract. Thus AMTF’s claims against
+its former clients for breach of contract, which could proceed in England under
+the exclusive jurisdiction clauses of their contracts, would be separated from
+the ancillary claim against MMGR. AMTF appeals to this court against that
+judgment. It submits that the English courts have jurisdiction.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In order to address AMTF’s challenge it is appropriate, first, to
+examine the relevant provisions of the Judgments Regulation and the
+authoritative case law on those provisions and, secondly, to consider how that
+case law applies to the facts of this case. Both AMTF and MMGR submit that the
+law is clear and is in their favour. In the event that this court disagrees
+with its interpretation, each of AMTF and MMGR seeks a reference to the Court
+of Justice of the European Union (“CJEU”). I therefore, thirdly, address the
+question whether in the light of developments of its jurisprudence it is
+necessary to refer a question of interpretation to the CJEU. In discussing the
+prior case law in this judgment I refer to both that court and its predecessor,
+the Court of Justice of the European Communities, by the acronym “CJEU”.</a></p><a name="para7">
+
+<p class="ParaHeading">The Judgments Regulation</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The basic rule in the Judgments Regulation is that a person may be sued
+in the member state of his domicile. Article 2 provides:</a></p><a name="para8">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to this
+Regulation, persons domiciled in a member state shall, whatever their
+nationality, be sued in the courts of that member state.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the opening words of article 2.1 suggest, the basic rule of domicile
+is not an exclusive ground of jurisdiction. Other articles within the
+Regulation provide alternative grounds. Thus in article 5 there are rules
+concerning matters relating to contract and delict among others. Article 5
+provides, so far as relevant:</a></p><a name="para9">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“A person domiciled in a member
+state may, in another member state, be sued:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">1.(a)&nbsp;&nbsp;&nbsp; in matters relating to a
+contract, in the courts for the place of performance of the obligation in
+question;</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in matters relating to
+tort, delict or quasi-delict, in the courts for the place where the harmful
+event occurred or may occur; …”</p>
+
+<p class="ParaLevel1">Article 6 provides so far as relevant:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“A person domiciled in a member
+state may also be sued:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where he is one of a
+number of defendants, in the courts for the place where any one of them is
+domiciled, provided the claims are so closely connected that it is expedient to
+hear and determine them together to avoid the risk of irreconcilable judgments
+resulting from separate proceedings; …”</p>
+
+<p class="ParaLevel1">In relation to contracts conferring exclusive jurisdiction,
+article 23 provides:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If the parties, one or more of
+whom is domiciled in a member state, have agreed that a court or the courts of
+a member state are to have jurisdiction to settle any disputes which have
+arisen or which may arise in connection with a particular legal relationship,
+that court or those courts shall have jurisdiction. Such jurisdiction shall be
+exclusive unless the parties have agreed otherwise. …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The CJEU has provided authoritative rulings on the Judgments Regulation
+and its predecessor, the Brussels Convention. Rulings on the interpretation of
+provisions of that Convention remain valid for the equivalent provisions in the
+Judgments Regulation: <i>Zuid-Chemie BV v Philippo’s Mineralenfabriek NV/SA </i>(Case
+C-189/08) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2009/C18908.html">[2010] 2 All ER (Comm) 265</a>, para 18. I discuss the earlier case law
+as if it addressed the latter provisions.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Judgments Regulation contains rules of jurisdiction which are
+designed to promote legal certainty by allowing prospective litigants, whether
+claimants or defendants, to foresee with sufficient certainty which court will
+have jurisdiction. The aim of the Judgments Regulation is to prevent parallel
+proceedings between courts of different member states and thereby avoid or
+limit irreconcilable judgments and non-recognition of judgments. The compulsory
+system of jurisdiction which the Judgments Regulation creates is underpinned by
+the principle of mutual trust between the courts of the member states. For
+those propositions see, for example, <i>Overseas Union Insurance Ltd v New
+Hampshire Insurance Co </i>(Case C-351/89) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1991/C35189.html">[1992] QB 434</a>, para 17; <i>Erich
+Gasser GmbH v MISAT Srl </i>(Case C-116/02) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2003/C11602.html">[2005] QB 1</a>, paras 41 and 72; and <i>Turner
+v Grovit </i>(Case C-159/02) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2004/C15902.html">[2005] 1 AC 101</a>, paras 24 and 28.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The general principle is that civil actions are to be brought against
+individuals and companies in the courts of the place where they are domiciled.
+It would be contrary to the objectives of the Judgments Regulation to interpret
+it as requiring the recognition of the jurisdiction of the courts of the
+claimant’s domicile, except where it expressly so provides, as that would
+enable the claimant to determine the competent court by choosing his own
+domicile: <i>Dumez France SA and Tracoba Sarl v Hessische Landesbank (Helaba) </i>(Case
+C-220/88) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1990/R22088.html">[1990] ECR I-49</a>, paras 16-19; <i>Kronhofer v Maier </i>(Case
+C-168/02) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2004/C16802.html">[2004] 2 All ER (Comm) 759</a>, para 20.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The derogations from the general rule which confers jurisdiction on the
+courts of the defendant’s domicile, including article 5.3, must be
+restrictively interpreted in order to achieve the aims of the Judgments
+Regulation: <i>Kronhofer v Maier</i> (above), paras 12-14; <i>Coty Germany GmbH
+v First Note Perfumes NV </i>(Case C-360/12) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2014/C36012.html">[2014] Bus LR 1294</a>, paras 43-45.
+The derogating grounds of jurisdiction are justified because they reflect a
+close connection between the dispute and the courts of a member state other
+than that in which the defendant is domiciled. That close connection promotes
+the efficient administration of justice and proper organisation of the action: <i>Dumez
+France SA and Tracoba Sarl v Hessische Landesbank </i>(above), para 17; <i>Kronhofer
+v Maier</i> (above), para 15.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is necessary, in my view, to distinguish between the terms of a
+derogating ground of jurisdiction on the one hand and the rationale or
+justification for the ground on the other as it is the former which confers
+jurisdiction, not the latter. I discuss this point further in para 29 below.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The CJEU has ruled on the correct approach to article 5.3. It has
+interpreted the phrase “the place where the harmful event occurred” (a) to give
+the claimant the option of commencing proceedings in the courts of the place
+where the event occurred which gave rise to the damage or in the courts of the
+place where the damage occurred (if the event and damage were in different
+member states): <i>Handelskwekerj GJ Bier BV v Mines de Potasse d’ Alsace SA </i>(Case
+C-21/76) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1976/R2176.html">[1978] QB 708</a>, para 24; (b) as “the place where the event giving rise
+to the damage, and entailing tortious … liability, directly produced its
+harmful effect upon the person who is the immediate victim of the event” and
+thus not the place where an indirect victim, such as the parent company of the
+immediate victim, suffered financial loss as a result: <i>Dumez France and
+Tracoba Sarl v Hessische Landesbank (Helaba) </i>(above), para 20; and (c)
+consistently with (b) above, where a victim suffered harm in one member state
+and consequential financial loss in another, as referring to the place where
+the initial damage occurred: <i>Marinari v Lloyd’s Bank Plc</i> (Case C-364/93)
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1995/C36493.html">[1996] QB 217</a>, paras 14 and 15. The focus in (b) and (c) is thus on where the
+direct and immediate damage occurred.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Similarly, in <i>Kronhofer v Maier</i> (above) an investor domiciled in
+Austria raised an action in his country against investment consultants based in
+Germany who had given him investment advice by telephone which led him to send
+funds to Germany to be placed in an investment account and used in an
+unsuccessful speculative investment. He argued that, because the financial loss
+caused by that investment diminished the totality of his assets which were
+concentrated in Austria, he could sue in the courts of the country of his domicile.
+The CJEU did not agree. It held that article 5.3 did not allow a claimant who
+had suffered financial damage resulting from the loss of part of his assets in
+another contracting state to sue in the place of his domicile or where his
+assets were concentrated.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The CJEU, in the interests of the sound administration of justice, has
+had to identify the place where a harmful event has occurred in the course of
+an international transaction, where that place was not evident from a
+straightforward application of the article. In <i>Réunion Européenne SA v
+Spliethoff’s Bevrachtingskantoor BV </i>(Case C-51/97) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1998/C5197.html">[2000] QB 690</a>, which
+concerned a claim in damages arising out of the poor quality of a consignment
+of peaches which had been carried by sea from Australia to Rotterdam for
+delivery to a town in France, the harmful event was a breakdown of the cooling
+system during the sea voyage. The CJEU held (para 35) that the place where the
+harmful event occurred was to be regarded as the place where the maritime
+carrier was to deliver the goods, ie Rotterdam. The Court justified the choice
+by reference to the requirements of foreseeability and legal certainty and the
+existence of a particularly close connecting factor with the dispute (para 36).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The CJEU has also had to interpret article 5.3 so that it can apply in
+circumstances in which it is not possible to identify one place where the
+relevant harm has occurred. For example, it has interpreted the phrase “place
+where the harmful event occurred” in contexts where a claimant suffers harm to
+his personality rights by the publication of libellous material in several member
+states. It has held that the claimant may bring an action for damages against
+the publisher either (a) before the courts of the member state where the
+publisher of the defamatory material is established, which have jurisdiction to
+award damages for all the harm caused by the defamation, or (b) before the
+courts of each member state in which the publication was distributed and where
+he claims that his reputation has been injured, which have jurisdiction only in
+respect of the harm caused in the state of the court seised: <i>Shevill v
+Presse Alliance SA </i>(Case C-68/93) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1995/C6893.html">[1995] 2 AC 18</a>, paras 31-33.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The publication of material on the internet can make information which
+is damaging to a claimant’s personality right available on a worldwide basis,
+making it impossible to locate the relevant harm for the purpose of article 5.3
+without developing a special rule. The CJEU has recognised that the solution
+which it adopted in <i>Shevill</i> based on ascertaining damage caused by
+distribution within a particular member state did not address the harm caused
+by the availability of such information on the internet. It has therefore
+created an additional option for the alleged victim in such circumstances,
+attributing jurisdiction to the court of the place where the alleged victim had
+its centre of interests: <i>eDate Advertising GmbH v X</i> (Cases C-509/09 and
+C-161/10) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2011/C50909.html">[2012] QB 654</a>, paras 40-48, 52.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The CJEU has also developed special rules for the application of article
+5.3 to the infringement of intellectual property rights in the context of the
+accessibility of the internet. <i>Wintersteiger AG v Products 4U
+Sonder-maschinenbau GmbH </i>(Case C-523/10) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2012/C52310.html">[2013] Bus LR 150</a> is a case
+concerning a national trademark which in principle protects only in the
+territory of the member state in which it is registered. The claimant, which
+was the proprietor of an Austrian trademark “Wintersteiger”, asserted that its
+trademark had been infringed by the defendant’s registration of the word
+“Wingersteiger” in the Google search engine although the registration was
+limited to searches carried out via the top level-domain for Germany (ie
+“google.de”). The obvious mischief for the claimant was that Austrian customers
+could readily use google.de when searching for products causing Wintersteiger
+to lose orders in Austria. The CJEU held that the objectives of foreseeability
+and the sound administration of justice pointed to treating the courts of the
+member state in which the property right in issue was protected (ie Austria) as
+the place where the damage occurred (paras 29 and 39) and identifying the place
+of establishment of the advertiser (Germany) as the place where the event
+giving rise to the damage occurred (paras 37 and 39).</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The CJEU has also considered the application of article 5.3 where
+reproductions of a work protected by copyright throughout the EU were available
+for sale by marketing on the internet in many member states. In circumstances
+of infringement of such a right via the internet to which courts does article
+5.3 give jurisdiction? In <i>Pinckney v KDG Mediatech AG</i> (Case C-170/12)
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2013/C17012.html">[2013] Bus LR 1313</a>, paras 43-45, the CJEU answered the question by holding that
+the court of a member state which protected the copyright would have
+jurisdiction because the harmful event alleged might occur within its
+jurisdiction. But the court’s jurisdiction was limited to determining the
+damage caused within the member state in which it was situated.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Claims for damages against international cartels for breaches of EU
+competition law have also required the development of special rules in the
+interpretation of article 5.3. In <i>Cartel Damage Claims (CDC) Hydrogen
+Peroxide SA v Akzo Nobel NV </i>(Case C-352/13) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2015/C35213.html">[2015] QB 906</a>, it was not
+possible to identify a single place where the cartel had come into being as it
+resulted from collusive agreements made during several meetings which had taken
+place in various places in Europe. It was also difficult to identify in a
+conventional way the place where the damage occurred as the claimants’ loss
+consisted in a restriction of the buyers’ freedom to contract as a result of
+the cartel supplying goods at artificially high prices. The CJEU categorised
+the relevant loss as the additional costs incurred because of the artificially
+high prices. It held that the place where the damage occurred was identifiable
+only for each alleged victim taken individually and was located, in general, at
+each victim’s registered office (paras 52 and 56). Once again, the CJEU adapted
+the interpretation of article 5.3 to circumstances in which the place of the
+relevant harm could not otherwise be identified. The CJEU relied on the
+justifications of the rule - the efficacious conduct of potential proceedings
+in a court best suited to assess the claim for damages - in devising that
+interpretation (para 53).</p>
+
+<p class="ParaHeading">Applying the CJEU’s jurisprudence in this appeal</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is no dispute in this case that the event occasioning damage, the
+alleged inducement of the former clients by MMGR to commence the German legal
+proceedings, occurred in Germany. AMTF therefore relies on the alternative
+basis under article 5.3, the place where the relevant damage occurred, in
+support of its assertion that the English courts have jurisdiction. First,
+adopting the reasoning of Popplewell J, it asserts that the relevant harm is
+the deprivation of the contractual benefit of dispute resolution in England
+under English law so that the English courts could protect and enforce its
+substantive rights. Secondly, it submits that Popplewell J’s judgment is
+supported by (a) the principles underlying article 5.3, conferring jurisdiction
+on a foreseeable court which has a close connection with the underlying
+dispute, (b) the nature of the contractual benefit conferred by an exclusive
+jurisdiction clause and (c) considerations of the sound administration of
+justice in relation to a tort which is a form of accessory liability for breach
+of contract. It points out that the CJEU has innovated on its interpretation of
+article 5.3 in cases such as <i>eDate Advertising</i>, <i>Wintersteiger </i>and
+<i>Cartel Damage Claims</i> by locating the relevant harm at the claimant’s
+centre of interests. Such a rule, which would locate the harm in the
+jurisdiction of the contractually adopted court, has, it submits, the virtue of
+foreseeability, as the CJEU pointed out in <i>Wintersteiger</i> at para 23, and
+should be applied when the tort of inducing breach of contract occurs in the
+context of an exclusive jurisdiction clause.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I am not persuaded by those submissions. The task for the court is to
+identify where the relevant harm occurred. That is relatively straightforward
+in most circumstances, where there is no need for any special rule such as
+those which the CJEU has developed when it has not been possible readily to
+identify one place where that harm occurred. It is straightforward in this
+case.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I deal with AMTF’s first submission. The contractual obligation of the
+former clients was, if they chose to sue AMTF, to sue only in England. The
+breach of contract which MMGR is said to have induced was the raising of legal
+proceedings in Germany. AMTF accepts that the raising of those proceedings in
+Germany was the event which gave rise to the damage for the purposes of article
+5.3. But AMTF also incurred damage in Germany by having to engage in the German
+proceedings and settle claims there.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear that AMTF did not get the benefit of having any dispute with
+the former clients determined under English law by English courts. But the
+former clients were under no positive obligation to sue AMTF, which could have
+no objection if it was not sued. They were under an obligation not to sue in
+Germany or elsewhere than England. The former clients could have performed
+their contractual obligations to AMTF either by not raising proceedings in Germany
+or, having raised those proceedings, by discontinuing them. Thus the
+circumstances of this case can be distinguished from those in <i>Dolphin
+Maritime &amp; Aviation Services Ltd v Sveriges Angfartygs Assurans Forening</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Comm/2009/716.html">[2010] 1 All ER (Comm) 473</a>, in which the contractual obligation, of which the
+defendants had induced the breach, was the positive obligation to pay money
+into the claimants’ bank account in England. In that case, the harm suffered by
+the victim of the tort occurred in England where the money should have been
+paid.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It may also be, as was suggested during the legal debate in court, that
+the raising of the German proceedings has damaged AMTF’s business model as it
+sought, through the exclusive jurisdiction clause, to preserve the focus of its
+business in London if it traded with overseas clients. But that loss of focus
+is consequential upon the direct harm caused by the raising of the German
+proceedings. On the clear jurisprudence of the CJEU in cases such as <i>Dumez France
+SA and Tracoba Sarl v Hessische Landesbank </i>(above) and <i>Marinari v
+Lloyd’s Bank plc</i> (above), article 5.3 is not concerned with such
+consequential loss. In my view, which is essentially the same as that of the
+Court of Appeal, the direct harm which AMTF suffered from the alleged tort was
+the expenditure occasioned by the German proceedings. Thus for the purposes of
+article 5.3 the place where the harmful event occurred was Germany. That is
+sufficient to determine the appeal.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is, nonetheless, appropriate to address AMTF’s second submission,
+which in substance seeks this court to craft a special rule for the tort of
+inducing breach of contract where the contractual term which has been breached
+is an exclusive jurisdiction clause. In my view the rule which AMTF advocates
+would be contrary to the clear jurisprudence of the CJEU.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>AMTF asserts that the outcome which it favours accords with the
+principles underlying or justifying article 5.3. But there is a clear
+distinction between a rule of special jurisdiction in the Judgments Regulation,
+such as article 5.3, and the justification for such a rule. The rule of special
+jurisdiction in a tort case is that harm has occurred or may occur within the
+jurisdiction of the court seised. When, as in this case, the court is not
+concerned with the event giving rise to the harm, it is the occurrence of the
+direct and immediate harm and nothing else that is the connecting factor in
+article 5.3. It is that connecting factor which creates the benefits of
+foreseeability and promotes the sound administration of justice. Those
+benefits, which justify the ground of jurisdiction, are not themselves
+connecting factors. To invoke a special ground of jurisdiction a claimant must
+bring itself within that ground: <i>Folien Fischer AG v Ritrama SpA </i>(Case
+C-133/11) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2012/C13311.html">[2013] QB 523</a>, paras 39 and 40. A claimant cannot establish
+jurisdiction under the Judgments Regulation by merely invoking the
+justification or rationale of the ground.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Similarly, a focus on the nature of the contractual benefit of which
+AMTF has been deprived and the accessory nature of the tort of inducing breach
+of contract does not assist. I have discussed the former in para 26 above and
+comment on the nature of the tort below. Nor does the inconvenience, which the
+separation of the resolution of the contractual claims against the former
+clients from the pursuit of the claims against MMGR entails, carry much weight
+when one considers the aims of the Judgments Regulation.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fact that a claim in tort is connected with a contractual claim has
+not led the CJEU to elide the grounds of jurisdiction in matters relating to a
+contract with those in matters relating to tort. In <i>Kalfelis v Bankhaus Schröder,
+Münchmeyer, Hengst and Co </i>(Case C-189/87) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1988/R18987.html">[1988] ECR 5565</a> (paras 21-23) the
+CJEU held that where a claimant pursued a claim based on tort and contract and
+for unjust enrichment, the court which had jurisdiction under article 5.3 to
+deal with the claim in tort did not have jurisdiction to deal with the other
+elements of the same claim. More recently, in <i>Réunion Européenne SA v
+Spliethoff’s Bevrachtingskantoor BV </i>(above) (paras 49-51) the CJEU
+confirmed the principle in <i>Kalfelis</i>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In both <i>Kalfelis</i> and <i>Réunion Européenne</i> the CJEU has
+recognised that the scheme of the Judgments Regulation creates the difficulty
+that one jurisdiction may not be able to deal with all the related points in a
+dispute. This inconvenience is the price which the scheme in the Judgments
+Regulation imposes by setting out well-defined rules in order to achieve its
+primary purpose of ensuring that there shall be no clash between the
+jurisdictions of member states of the EU, as Lord Goff of Chieveley observed in
+<i>Airbus Industrie GIE v Patel </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1998/12.html">[1999] 1 AC 119</a>, pp 131-132.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This difficulty is evident in the wording of the Judgments Regulation.
+Article 6 of the Judgments Regulation does not confer jurisdiction on the
+courts of a member state over a co-defendant as a result of the close
+connection of the claims unless one of the defendants is domiciled in that
+member state. Jurisdiction on an article 5 ground does not suffice. Similarly,
+article 23 can confer exclusive jurisdiction on a court as a result of the
+agreement of the parties but that jurisdiction cannot be pleaded against people
+who are not parties to the agreement.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Under the Judgments Regulation there is no scope outside the rules for
+identifying a forum conveniens. The German courts, if seised of the matter, can
+apply English law if it is the governing law. The fact that parties to a
+contract have selected a jurisdiction to resolve their dispute does not entitle
+the courts of the selected member state to review or seek to restrain the
+jurisdiction of the court on which a rule of the Judgment Regulation has
+conferred jurisdiction: <i>West Tankers Inc v Allianz SpA (formerly RAS
+Riunuine Adriatica di Sicurità SpA) </i>(Case C-185/07) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2009/C18507.html">[2009] AC 1138</a>, paras
+29-32.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The application of the Judgments Regulation, as I construe it, will
+separate the determination of AMTF’s contractual claims against its former
+clients from the determination of its tort claim against MMGR. But such
+inconvenience is the price of achieving the legal certainty and foreseeability
+which are among the principal aims of the Judgments Regulation, as the CJEU has
+recognised and endorsed. Further, I do not see any jurisdictional difficulty
+for AMTF if it were to seek to protect itself against any future attempts by
+MMGR to induce AMTF’s other clients to breach their contractual obligations:
+AMTF can raise proceedings in Germany, in the courts of MMGR’s domicile.</a></p><a name="para35">
+
+<p class="ParaHeading">Whether a reference to the CJEU is mandated?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr De la Mare for AMTF submits as a fall back that if it is not clear
+that article 5.3 should be applied as he submits where the contractual
+provision which has been breached as a result of the defendant’s inducement is
+an exclusive jurisdiction clause, this court should refer the issue to the
+CJEU. Guidance would be needed as to whether article 5.3 would establish the
+jurisdiction of the English courts where MMGR’s alleged tortious behaviour has
+undermined the contractual creation of a sole jurisdiction in England, a
+connecting factor which has the advantage of foreseeability, would promote the
+sound administration of justice and avoid the fragmentation of disputes.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I do not agree.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The circumstances which have caused the CJEU to develop special rules to
+interpret article 5.3 in order to identify the place where the harmful event
+occurred, such as to locate harm at a claimant’s registered office (<i>Cartel
+Damage Claims</i>) or at its centre of interests (<i>eDate Advertising</i>) do
+not arise in this case, in which there is no difficulty in locating where the
+relevant harm has occurred. The event giving rise to harm and the relevant harm
+which that event directly caused both occurred in Germany.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>AMTF also submits that EU legislation has recently shown more favour
+towards exclusive jurisdiction clauses. Article 31(2) of the recast Judgments
+Regulation (Regulation EU No 1215/2012 of the European Parliament and of the
+Council of 12 December 2012) provides that where a court, on which the parties
+have conferred exclusive jurisdiction by an agreement which complies with
+article 25, is seised, any court of another member state must stay its
+proceedings until the former court declares that it has no jurisdiction. AMTF
+submits that this may mean that the CJEU would take a more accommodating
+approach to exclusive jurisdiction clauses. Be that as it may, it does not
+assist AMTF to establish for the purpose of jurisdiction under article 5.3 that
+the place where the harmful event occurred was England.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Recent case law of the CJEU does not suggest that the court has moved
+from the principles and approach which I have set out in paras 11 to 13, 15 and
+16 above. The CJEU has repeatedly stated in recent times that the provisions of
+the Regulation must be interpreted independently by reference to its scheme and
+purpose, and derogations from the general rule that jurisdiction is given to
+the court of the defendant’s domicile have to be interpreted restrictively: <i>Melzer
+v MF Global UK Ltd </i>(Case C-228/11) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2013/C22811.html">[2013] QB 1112</a>, paras 22 and 24; <i>Coty
+Germany (above)</i>, paras 43-45; and <i>Kolassa v Barclays Bank Plc </i>(Case
+C-375/13) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2015/C37513.html">[2015] ILPr 14</a>, para 43.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41">41.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The focus in article 5.3, which is relevant to AMTF’s claim, remains on
+the place where the event resulted in the initial damage: <i>Zuid-Chemie BV v
+Philippo’s Mineralenfabriek NV/SA </i>(above), paras 26-32; <i>Universal Music
+International Holding BV v Schilling, Schwarz, Brož </i>(Case C-12/15)
+(</a><a title="Link to BAILII version" href="/eu/cases/EUECJ/2016/C1215.html">EU:C:2016:449</a>), paras 30-34. There is no complexity in the present case in
+identifying that place which might cause the CJEU to develop a special rule as
+to the location of the harmful event.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42">42.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In support of an innovative interpretation of article 5.3, AMTF relies
+on the characteristics of the English law tort of inducing breach of contract
+and the application of the tort to an exclusive jurisdiction clause. Creating a
+special rule in this way to accommodate the domestic law of tort of a
+particular member state would, in my view, undermine the certainty and
+foreseeability of that ground of jurisdiction, which is available to people and
+organisations in all of the member states of the EU.</a></p><a name="para42">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These considerations, which depend on EU law and not domestic law and
+are thus equally obvious to the courts of other member states, persuade me that
+the matter is acte clair and that no reference is mandated, having regard to
+the criteria laid down in <i>CILFIT v Ministero della Sanità </i>(Case
+C-283/81) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1982/R28381.html">[1982] ECR 3415</a>.</p>
+
+<p class="ParaHeading">Whether consideration of AMTF’s claim by the English court
+would infringe EU law</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44">44.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As I have concluded that the Judgments Regulation does not give
+jurisdiction to the English courts over AMTF’s claim, it is not necessary to
+address the issue, which MMGR raised, as to whether the English court which
+purports to hear AMTF’s claim thereby breaches EU law by impermissibly
+interfering with the judgments of the German courts.</a></p><a name="para44">
+
+<p class="ParaHeading">MMGR’s cross appeal on costs</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>MMGR appeals against the decision of the Court of Appeal to award it
+only part of its costs at first instance and on appeal (the part relating to
+the issue whether the place of the harmful event was in England) and to require
+it to pay AMTF’s costs at first instance and on appeal on the question of
+whether AMTF’s claim had real prospects of success.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At first instance, MMGR had challenged the prospects of success of
+AMTF’s claim on the basis that the exclusive jurisdiction clause was
+unenforceable because the former clients were consumers who were protected by
+the Unfair Terms in Consumer Contracts Regulations 1999 and articles 16, 17 and
+23(5) of the Judgments Regulation. Popplewell J rejected this submission. In
+the Court of Appeal the argument took the form that the English courts could
+not grant an injunction or award damages against MMGR without impermissibly
+attacking the assumption of jurisdiction by the German courts. The Court of
+Appeal did not require to determine this question but observed that it did not
+appear to be well founded (a) because an injunction against MMGR from inducing
+a breach of contract did not preclude anyone from commencing proceedings in
+Germany and (b) because a claim for damages against MMGR for the loss
+occasioned by the breach of contract which MMGR had induced was not a
+collateral attack on the jurisdiction of the German courts.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I deal with this challenge to the award of costs briefly. The court has
+a broad discretion in relation to costs under CPR rule 44.2. While there is a
+starting point that the unsuccessful party will pay the costs of the successful
+party (CPR rule 44.2(2)(a)), the court is entitled in CPR rule 44.2(4) to have
+regard to the parties’ relative success on the issues raised. The court has a
+discretion on the question of relative success and an appellate court will
+overturn its decision on such a matter only if it has gone beyond the limits of
+its discretion or otherwise erred in law.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>MMGR did not renew in the Court of Appeal its challenge based on the
+alleged status of the former clients as consumers. The Court of Appeal
+expressed a clear although not conclusive view on the challenge on the merits
+which MMGR advanced before them.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I see no basis for impugning the discretionary decision of the Court of
+Appeal. Insofar as the challenged element of the award covered MMGR’s
+submission on the merits before Popplewell J, an argument with which MMGR has
+not persisted, the Court of Appeal’s award should stand. Insofar as MMGR, in
+raising the second issue in this court, has renewed the arguments it advanced
+on the merits before the Court of Appeal, it can raise the question of costs in
+relation to those arguments in any submissions on costs which it chooses to
+make to this court after the court’s judgment is handed down.</a></p><a name="para49">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would dismiss the appeal.</a></p><a name="para50">
+
+</a></div><a name="para50">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2017/13.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

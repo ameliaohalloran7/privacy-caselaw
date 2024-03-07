@@ -1,0 +1,824 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>McGeough, R. v (Northern Ireland) [2015] UKSC 62 (21 October 2015)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Book Antiqua";
+	panose-1:2 4 6 2 5 3 5 3 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      McGeough, R. v (Northern Ireland) [2015] UKSC 62 (21 October 2015)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2015/62.html</i>
+<br>Cite as: 
+[2015] 1 WLR 4612,
+
+[2015] UKSC 62,
+
+[2015] WLR 4612
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2015/62.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2015+1+WLR+4612">[2015] 1 WLR 4612</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<div class="WordSection1">
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2015/62(image1).pdf">Summary</a></span></p><br>
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2015] UKSC 62</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/nie/cases/NICA/2013/22.html">[2013] NICA 22</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b><span style="font-size:20.0pt">R <i>v</i> McGeough (Appellant) (Northern Ireland)</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">21 October 2015</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 9 July 2015</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:71.25pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Orlando Pownall QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Sean Devine</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Carlin Solicitors)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:71.25pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">David McDowell QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Robin Steer BL</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Public Prosecution Service)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">LORD KERR<span style="text-transform:none">: (with whom Lord
+Neuberger, Lord Hughes, Lord Toulson and Lord Hodge agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 1981 Samuel Brush worked as a postman. He was also a member of the
+Ulster Defence Regiment. Members of that regiment were frequently targeted by
+paramilitary groups then operating in Northern Ireland. Because of that Mr
+Brush was wearing light body armour and carrying a personal protection weapon
+when he was ambushed by two gunmen on 13 June 1981. The ambush took place in a
+remote area of County Tyrone, some <span style="font-family:&quot;Book Antiqua&quot;,serif">four
+and a half miles from</span> the village of Aughnacloy.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although suffering bullet wounds from the attack on him, Mr Brush
+managed to fire his gun at one of his assailants. One of the bullets which he
+fired struck one of the gunmen. Some time later that person was admitted to
+hospital in Monaghan which, despite the fact that it is in the Republic of Ireland,
+is not far from Aughnacloy. On his trial for the attempted murder of Mr Brush,
+it was held that the appellant was the man who had been admitted to that
+hospital and that he had been engaged in the attack and was guilty of attempted
+murder. Those findings and the appellant’s conviction of the attempted murder
+of Mr Brush are not under challenge in this appeal.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The injuries that the appellant had sustained were serious. He was
+airlifted to a hospital in Dublin. There he underwent significant surgery. A bullet
+was removed from his body. This was handed to police and was later subjected to
+ballistic tests. Inevitably, as a result of the operation, there was
+substantial scarring of the patient’s torso. The results of the ballistic tests
+and the appearance of scarring on the appellant’s body were significant items
+of evidence on his trial.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>After a relatively short period of convalescence in Dublin, the
+appellant was returned to Monaghan General Hospital on 22 June 1981. Although
+he was thereafter under police guard, he managed to escape on 27 June and some
+time after that, he left the country.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 22 August 1983, a man calling himself Terence Gerard McGeough made an
+application for asylum in Sweden. The name, the date of birth, the place of
+birth and the next of kin that were given on the asylum application all matched
+those of the appellant. His Irish passport was submitted with the application.
+An expert gave evidence on his trial that the handwriting on the application
+form was that of the appellant. The trial judge expressed himself as satisfied
+that it was the appellant who had made the asylum application.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although it was not formally accepted by the appellant that he had made
+that application, this has not been disputed throughout the various hearings
+which have taken place. Nor has it been disputed that the form in which the
+application for asylum was made contained information to the effect that the
+appellant had become an operational member of the Irish Republican Army in
+early 1976 and that thereafter he was given increasing levels of
+responsibility. These led to his being assigned to take part in the attack on
+Mr Brush. He carried out that attack as a member of the Irish Republican Army.
+That group was a proscribed organisation throughout the time of the appellant’s
+admitted membership of it.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant was charged with offences of attempted murder and
+possession of a firearm. He was convicted of both. Neither of these charges is
+the subject of this appeal. On the basis of the material contained in the asylum
+application form, he was further charged with being a member between 1 January
+1975 and 1 June 1978 of the Irish Republican Army contrary to section 19(1) of
+the Northern Ireland (Emergency Provisions) Act 1973. He was also charged with
+the same offence in relation to the period between 31 May 1978 and 14 June
+1981, contrary to section 21(1) of the Northern Ireland (Emergency Provisions)
+Act 1978. He was convicted of those charges also.</a></p><a name="para7">
+
+<p class="ParaHeading">The proceedings</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant’s trial on all four charges took place at Belfast Crown
+Court in November 2010 before Stephens J, sitting without a jury. The appellant
+did not give evidence. On 18 February 2011, the judge delivered judgment,
+convicting the appellant of all the offences with which he had been charged. The
+convictions on the first two counts, those of the attempted murder of Mr Brush
+and possession of a firearm, were based on the identification of the appellant
+as the man whom Mr Brush had shot. This is turn depended on a number of
+factors, including the name and age given by the person admitted to Monaghan
+hospital, the presence of a tattoo on the patient’s arm which matched that
+found on the appellant after his arrest, operation scars on the appellant’s
+body which were precisely where one would expect to find them in light of the
+surgery which had been carried out and the fact that ballistic tests carried
+out on Mr Brush’s personal protection weapon had rifling marks which matched
+the bullet removed from the patient during the operation in Dublin. The judge
+also drew an adverse inference against the appellant because of his failure to
+give evidence or to account for the scarring on his body.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>An application had been made during Mr McGeough’s trial that the
+information that had been supplied when he sought asylum in Sweden should not
+be admitted in evidence. The application was made on two bases. Firstly, it was
+contended that the evidence should be excluded under article 76 of the Police
+and Criminal Evidence (Northern Ireland) Order 1989 (PACE) because it would
+have such an adverse effect on the fairness of the proceedings that the court
+ought not to admit it. Secondly, it was suggested that the admission of the
+evidence would offend the rule against self-incrimination.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Before ruling on the application to exclude the evidence, Stephens J
+heard the testimony of Mrs Helene Hedebris, a legal expert from the migration
+board in Sweden. She explained that an application for asylum is made to the
+police department. It is then transferred to the migration board. The board
+takes the decision on the application. There is a right of appeal from the
+board’s decision. Mr McGeough’s application for asylum was rejected by the
+board. He exercised his right to appeal. His appeal was dismissed.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mrs Hedebris gave evidence that Sweden had a centuries-old tradition of
+openness in relation to public documents. The only exception to this related to
+documents whose disclosure was forbidden by a specific secrecy code made under
+a Secrecy Act. While this code applied to files for asylum applications
+generally, it did not prohibit the disclosure of information from those files
+which was required for a criminal investigation unless the asylum application
+had been successful. In that event, material obtained in the course of an
+asylum application was not disclosed. This is not relevant in Mr McGeough’s
+case, however, because, as already noted, his application was refused and his
+appeal against the refusal was dismissed. There was therefore no reason under
+Swedish law to withhold the material from the prosecuting authorities in the
+United Kingdom.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mrs Hedebris said that the position about disclosure of such material
+was widely-known in Sweden. The appellant had had the benefit of two lawyers’
+advice, the first at the time of his application for asylum and the second when
+he appealed against the decision to dismiss his application. It was
+inconceivable that he had not been advised of the position. He could not have
+been in doubt when he made the application, that in the event of its not
+succeeding, the material that it generated would enter the public domain.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the course of the application by Mr McGeough to have the information
+contained in the application form excluded from evidence, it was drawn to the
+judge’s attention that if, in 2009, an individual applied in the United Kingdom
+for asylum, an immigration officer would give him, on what is described as “a
+statement of evidence form numbered ASL 1123”, the following explanation as to
+how his application would be treated:</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The information you give us will
+be treated in confidence and the details of your claim for asylum will not be
+disclosed to the authorities of your own country. However, information may be
+disclosed to other government departments, agencies, local authorities,
+international organisations and other bodies where necessary for immigration
+and nationality purposes, or to enable them to carry out their functions.
+Information may also be disclosed in confidence to the asylum authorities of
+other countries which may have a responsibility for considering your claim. If
+your asylum application is unsuccessful and you are removed from the United
+Kingdom, it may be necessary for us to provide information about your identity
+to the authorities in your own country in order to obtain travel documentation.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Stephens J was also asked to consider paragraph 339IA of the Immigration
+Rules 1994. This provides that information supplied in support of an
+application (and the fact that an application had been made), would not be
+disclosed to the alleged actors of persecution of the applicant.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge held that the undertaking contained in form ASL 1123 went
+further than was required by Council Directive 2005/85/EC of 1 December 2005 on
+minimum standards on procedures in member states for granting and withdrawing
+refugee status (the Procedures Directive). He found that the relevant
+obligation (in article 22 of the Procedures Directive) was restricted to the
+disclosure of information for the purposes of examining individual cases. It
+did not restrict the disclosure of information for the purposes of undertaking
+criminal prosecutions.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Since, in order to make the application for asylum, the appellant was
+not under compulsion to reveal the information that he did (and there was
+therefore no question of a breach of the rule against self-incrimination);
+since the appellant must have been aware that the information that he disclosed
+would enter the public domain if the application was unsuccessful; and since
+there was nothing in Swedish law, the Procedures Directive or general public
+policy considerations which contraindicated the disclosure of the information
+to prosecuting authorities in the United Kingdom, the judge decided that the
+conditions necessary for the exercise of his power under section 76 of PACE were
+not present and he directed that the material produced by the appellant in
+making his asylum application should be admitted in evidence. It was on this
+material that the appellant was convicted on the third and fourth counts of
+membership of a proscribed organisation.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On appeal to the Court of Appeal, the basis of the objection to the
+admission of the evidence was described in para 10 of the judgment of the Lord
+Chief Justice, Sir Declan Morgan:</a></p><a name="para17">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… the appellant submitted that
+the learned trial judge should not have admitted the Swedish asylum materials.
+It was argued that assertions in such an application were inherently unreliable
+since applicants for asylum were liable to exaggerate the basis for their
+claims. Secondly, it was contended that these were admissions made without
+caution and the approach to their admission should correspond with the
+admission of statements made to police in similar circumstances. Thirdly, it
+was submitted that since it was necessary to set out the background to the
+appellant's asylum claim in this documentation these statements ought to be
+treated as statements made under compulsion. Lastly, the appellant argued that
+reliance on such statements would undermine the purpose of the Refugee
+Convention by creating a chill factor which would prevent deserving claimants
+disclosing valid circumstances for fear of subsequent victimisation in their
+home territory if the application failed. …”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As well as article 22 of the Procedures Directive, the appellant relied
+on article 41 which stipulates that state authorities responsible for
+implementing the Directive “are bound by the confidentiality principle as
+defined in national law, in relation to any information they obtain in the
+course of their work”.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal dismissed the appeal. In rejecting the arguments in
+relation to the admission of the Swedish material, the Lord Chief Justice
+observed that the evidence was lawfully obtained in Sweden and in the United
+Kingdom in accordance with the international conventions applicable at the
+time. The appellant was not under compulsion. There was no question, therefore,
+of the rule against self-incrimination being engaged. The appellant had had
+legal advice in Sweden as to the effect of Swedish law. Under that law the
+asylum documents could properly be revealed to the authorities in another
+jurisdiction if the asylum application was unsuccessful.</a></p><a name="para19">
+
+<p class="ParaHeading">The arguments</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On the hearing of the appeal before this court, the appellant accepted
+that there was nothing in the Procedures Directive or the Immigration Rules
+which explicitly forbade the disclosure of information concerning applications
+for asylum. It was contended, however, that the “clear purpose” of the
+Directive was to encourage applicants for asylum to make full disclosure to the
+relevant authorities. In order that this be achieved, applicants should feel
+secure that the information that they supplied would not be revealed to state
+authorities in the country from which they had fled. It was acknowledged that
+the relevant instruments referred to the withholding of information from the
+actors of persecution but it was suggested that this reflected a broader public
+policy that all applicants for asylum should be encouraged to be candid and
+open in their applications. Candour depended on assurance that the information
+revealed would not be disclosed.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Quite apart from the need to inspire applicants with confidence that the
+material would not be disclosed, there was, it was argued, a distinct public
+policy imperative which dictated that such material would not be used in
+criminal proceedings against the asylum-seeker. Two principal grounds were
+advanced in support of this contention. First, it was pointed out that
+undertakings given to asylum seekers in the United Kingdom would preclude the
+disclosure of that material. Secondly, by analogy with provisions in the
+Children Act 1989, the appellant argued that where an applicant for asylum was
+effectively compelled to give information which exposed him to the possibility
+of criminal sanction, that disclosure should not be used in subsequent criminal
+proceedings.</a></p><a name="para21">
+
+<p class="ParaHeading">Discussion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The need for candour in the completion of an application for asylum is
+self-evident. But this should not be regarded as giving rise to an inevitable
+requirement that all information thereby disclosed must be preserved in
+confidence in every circumstance. Obviously, such information should not be
+disclosed to those who have persecuted the applicant and this consideration
+underlies article 22 of the Procedures Directive. It provides:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Collection of information on
+individual cases</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">For the purposes of examining individual
+cases, member states shall not: (a) directly disclose information regarding
+individual applications for asylum, or the fact that an application has been
+made, to the alleged actor(s) of persecution of the applicant for asylum; (b)
+obtain any information from the alleged actor(s) of persecution in a manner
+that would result in such actor(s) being directly informed of the fact that an
+application has been made by the applicant in question, and would jeopardise
+the physical integrity of the applicant and his/her dependants, or the liberty
+and security of his/her family members still living in the country of origin.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the appellant has properly accepted, there is no explicit requirement
+in this provision that material disclosed by an applicant for asylum should be
+preserved in confidence for all time and from all agencies. On the contrary,
+the stipulation is that it should not be disclosed to alleged actors of
+persecution and the injunction against its disclosure is specifically related
+to the process of examination of individual cases. The appellant’s case had
+been examined and his application had been refused. The trigger for such
+confidentiality as article 22 provides for was simply not present.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant is therefore obliged to argue that the need for continuing
+confidentiality in his case arises by implication from the overall purpose of
+the Directive. But neither article 22 nor article 41 provides support for that
+claim. Article 22 is framed for a specific purpose and in a deliberately
+precise way. To imply into its provisions a general duty to keep confidential
+all material supplied in support of an asylum application would unwarrantably
+enlarge its scope beyond its obvious intended purpose.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Article 41 provides:</a></p><a name="para25">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Member states shall ensure that
+authorities implementing this Directive are bound by the confidentiality
+principle as defined in national law, in relation to any information they
+obtain in the course of their work.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is not disputed that Swedish national law does not define “the
+confidentiality principle” as extending to the non-disclosure of information
+supplied in support of an asylum application, where that application has been
+unsuccessful. On the contrary, the tradition of the law in that country is that
+information generated by such applications should enter the public domain.
+Article 41 cannot assist the appellant, therefore.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Neither of the specific provisions of the Directive that the appellant
+has prayed in aid supports the proposition that its overall purpose was to
+encourage candour by ensuring general confidentiality for information supplied
+in support of an application for asylum. The Directive in fact makes precise
+provision for the circumstances in which confidentiality should be maintained.
+It would therefore be clearly inconsistent with the framework of the Directive
+to imply a general charter of confidentiality for such material.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fact, if indeed it be the fact, that material which an applicant for
+asylum in the United Kingdom supplied, in circumstances such as those which
+confronted the appellant when making his application in Sweden, would not be
+disclosed here, likewise cannot assist his case. The information which the
+Swedish authorities provided was properly and legally supplied. When the
+authorities in this country obtained that material, they had a legal obligation
+to make appropriate use of it, if, as it did, it revealed criminal activity on
+the appellant’s part.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Neither the terms of the Directive nor the circumstances in which
+material would have been dealt with, if obtained in the United Kingdom,
+impinged on the manner in which the trial judge was required to approach his
+decision under article 76 of PACE. There was nothing that was intrinsic to that
+material nor in the circumstances in which it was provided that would support
+the conclusion that its admission would have such an adverse effect on the
+fairness of the proceedings that the court ought not to admit it. The judge was
+plainly right to refuse the application.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The purported analogy with the provisions of the Children Act 1989 is
+inapt. That Act imposed an obligation on all persons giving evidence in
+proceedings concerning the care, supervision and protection of children to answer
+any relevant question irrespective of whether the answer might incriminate him
+or his spouse or civil partner – section 98(1). In light of that compulsive
+provision, it is unsurprising that section 98(2) should provide that statements
+or admissions “shall not be admissible in evidence against the person making it
+or his spouse or civil partner in proceedings for an offence other than
+perjury”. There is no correlative situation of compulsion in the case of an
+application for asylum and, consequently, no occasion for a prohibition on the
+use of evidence obtained through that procedure. In any event, the need for a
+specific provision forbidding the use of such material in the Children Act and
+the absence of any corresponding provision in the law relating to asylum
+applications underscores the inaptness of the claimed comparison.</a></p><a name="para30">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appeal must be dismissed.</a></p><a name="para31">
+
+</a></div><a name="para31">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2015/62.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

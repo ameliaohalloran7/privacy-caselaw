@@ -1,0 +1,669 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>SC (Jamaica) v Secretary of State for the Home Department [2022] UKSC 15 (15 June 2022)</title> 
+<style> <!--  /* Font Definitions */  @font-face  {font-family:Wingdings;  panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face  {font-family:"Univers \(W1\)";} @font-face  {font-family:Gadugi;  panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face  {font-family:Gisha;}  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal  {margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader  {mso-style-link:"Header Char";  margin:0cm;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter  {mso-style-link:"Footer Char";  margin:0cm;  font-size:12.0pt;  font-family:"Univers (W1)",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote  {mso-style-link:"Quote Char";  margin-top:0cm;  margin-right:62.65pt;  margin-bottom:26.0pt;  margin-left:72.0pt;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.FooterChar  {mso-style-name:"Footer Char";  mso-style-link:Footer;  font-family:"Univers (W1)",sans-serif;} span.HeaderChar  {mso-style-name:"Header Char";  mso-style-link:Header;  font-family:"Times New Roman",serif;} p.ParaHeading1, li.ParaHeading1, div.ParaHeading1  {mso-style-name:"ParaHeading 1";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber  {mso-style-name:ParaNoNumber;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1  {mso-style-name:ParaLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2  {mso-style-name:ParaLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} span.QuoteChar  {mso-style-name:"Quote Char";  mso-style-link:Quote;  font-family:"Calibri",sans-serif;} p.NewSpeech, li.NewSpeech, div.NewSpeech  {mso-style-name:NewSpeech;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  text-transform:uppercase;  font-weight:bold;} p.Paraheading2, li.Paraheading2, div.Paraheading2  {mso-style-name:"Paraheading 2";  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentReferences, li.JudgmentReferences, div.JudgmentReferences  {mso-style-name:JudgmentReferences;  margin-top:26.0pt;  margin-right:0cm;  margin-bottom:36.0pt;  margin-left:0cm;  text-align:right;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentTitle, li.JudgmentTitle, div.JudgmentTitle  {mso-style-name:JudgmentTitle;  margin-top:0cm;  margin-right:0cm;  margin-bottom:12.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentDetail1, li.JudgmentDetail1, div.JudgmentDetail1  {mso-style-name:JudgmentDetail1;  margin-top:18.0pt;  margin-right:0cm;  margin-bottom:18.0pt;  margin-left:0cm;  text-align:center;  line-height:107%;  font-size:20.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.ParaSubHeading3, li.ParaSubHeading3, div.ParaSubHeading3  {mso-style-name:ParaSubHeading3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  page-break-after:avoid;  font-size:13.0pt;  font-family:"Calibri",sans-serif;  font-style:italic;} p.ParaApprovedLevel1, li.ParaApprovedLevel1, div.ParaApprovedLevel1  {mso-style-name:ParaApprovedLevel1;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.ParaApprovedLevel2, li.ParaApprovedLevel2, div.ParaApprovedLevel2  {mso-style-name:ParaApprovedLevel2;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:36.0pt;  text-indent:0cm;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} p.JudgmentJudges, li.JudgmentJudges, div.JudgmentJudges  {mso-style-name:JudgmentJudges;  margin-top:0cm;  margin-right:0cm;  margin-bottom:30.0pt;  margin-left:0cm;  text-align:center;  font-size:17.0pt;  font-family:"Calibri",sans-serif;  font-weight:bold;} p.JudgmentAppRespInt, li.JudgmentAppRespInt, div.JudgmentAppRespInt  {mso-style-name:JudgmentAppRespInt;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:0cm;  text-align:center;  font-size:12.0pt;  font-family:"Calibri",sans-serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3  {mso-style-name:ParaLevel3;  margin-top:0cm;  margin-right:0cm;  margin-bottom:26.0pt;  margin-left:72.0pt;  text-indent:0cm;  line-height:200%;  font-size:13.0pt;  font-family:"Calibri",sans-serif;} .MsoChpDefault  {font-family:"Calibri",sans-serif;} .MsoPapDefault  {margin-bottom:8.0pt;  line-height:107%;}  /* Page Definitions */  @page WordSection1  {size:595.45pt 841.7pt;  margin:36.0pt 72.0pt 36.0pt 72.0pt;} div.WordSection1  {page:WordSection1;} @page WordSection2  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection2  {page:WordSection2;} @page WordSection3  {size:595.3pt 841.9pt;  margin:72.0pt 72.0pt 72.0pt 62.35pt;} div.WordSection3  {page:WordSection3;}  /* List Definitions */  ol  {margin-bottom:0cm;} ul  {margin-bottom:0cm;} li  	{font-family:"Calibri",sans-serif; font-size:13.0pt}--> </style>  
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>  
+<body lang="EN-GB" link="blue" vlink="#954F72" style="word-wrap:break-word">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      SC (Jamaica) v Secretary of State for the Home Department [2022] UKSC 15 (15 June 2022)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/15.html</i>
+<br>Cite as: 
+[2022] 1 WLR 3190,
+
+[2022] INLR 388,
+
+[2022] WLR 3190,
+
+[2022] UKSC 15,
+
+[2023] 1 All ER 193,
+
+[2022] HRLR 16
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2022/15.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="https://www.iclr.co.uk/document/2017000579/casereport_8cf5c130-349c-4f5b-a3e3-b48624626f86/html">[2022] 1 WLR 3190</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt"><a href="/uk/cases/UKSC/2022/15.image.pdf">Press Summary</a></span></b></p>
+  
+<p class="JudgmentReferences" align="left" style="margin:0cm;text-align:left"><a name="_Hlk72690073"><b><span style="font-size:13.0pt;color:#C00000">THE COURT ORDERED that no one shall publish or reveal the name or address of the Appellant who is the subject of these proceedings or publish or reveal any information which would be likely to lead to the identification of the Appellant or of any member of his family in connection with these proceedings.</span></b></a></p>  
+<p class="JudgmentReferences" style="margin:0cm"><b>Trinity Term</b></p>  
+<p class="JudgmentReferences" style="margin:0cm"><b>[2022] UKSC 15</b></p>  
+<p class="JudgmentReferences" style="margin:0cm"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/2112.html">[2017] EWCA Civ 2112</a></i></p>  
+<p class="JudgmentTitle" style="margin-bottom:0cm;line-height:normal">JUDGMENT</p>  
+<p class="JudgmentDetail1" style="margin:0cm;line-height:normal">SC (Jamaica) (Appellant) </p>  
+<p class="JudgmentDetail1" style="margin:0cm;line-height:normal"><i>v</i> </p>  
+<p class="JudgmentDetail1" style="margin:0cm;line-height:normal">Secretary of State for the Home Department (Respondent)</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-weight: normal">before</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm"><span style="font-size:10.0pt; font-weight:normal">&nbsp;</span></p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Reed, President</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Lloyd-Jones</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lady Arden</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Hamblen</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Lord Stephens</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">JUDGMENT GIVEN ON</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">15 June 2022</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">&nbsp;</p>  
+<p class="JudgmentJudges" style="margin-bottom:0cm">Heard on 19 October 2021</p>    <span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection2">  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><a name="_Hlk521913256"><i>&nbsp;</i></a></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Appellant</i></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Raza Husain QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Simon Cox</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Eleanor Mitchell</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">(Instructed by Birnberg Peirce LLP)</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>&nbsp;</i></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm"><i>Respondent</i></p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Zane Malik QC</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">Tom Tabori</p>  
+<p class="JudgmentAppRespInt" style="margin-bottom:0cm">(Instructed by The Government Legal Department)</p>  
+<p class="JudgmentAppRespInt" align="left" style="margin-bottom:0cm;text-align: left"><b>&nbsp;</b></p>  </div>  <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  <div class="WordSection3">  
+<p class="NewSpeech"><a name="_Hlk66282219"></a><a name="_Hlk69666280">LORD STEPHENS: (</a><span style="text-transform:none">with whom Lord Reed, Lord Lloyd-Jones, Lady Arden and Lord Hamblen agree)</span></p>  
+<p class="Paraheading2">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Introduction</p> <ol> 
+<li value="1"><a name="para1"> There is a real risk to SC of inhuman or degrading treatment, in contravention of article 3 of the European Convention on Human Rights (“ECHR”) in urban but not in rural parts of his country of origin, Jamaica. So, his deportation to that country by the Secretary of State for the Home Department (“SSHD”), as a foreign criminal, would be unlawful unless he “can reasonably be expected to stay” in the rural areas of Jamaica (“internal relocation”). In allowing an appeal from a deportation order made by the SSHD the First-tier Tribunal Judge Kamara (“the F-tT judge”) held that SC could not reasonably be expected to internally relocate in Jamaica. In arriving at her decision as to the reasonableness of internal relocation she did not consider what was “due” to SC as a result of his criminality.
+</a></li>
+<p> </p>  
+<li value="2"><a name="para2"> The first issue in this appeal is whether SC’s criminal conduct in the UK is a factor relevant in determining if he could reasonably be expected to stay in a rural area of Jamaica, so that, for instance, his criminality may turn internal relocation from what would otherwise be unreasonable into what is reasonable based on a value judgment of what is “due” to him as a criminal. Accordingly, does internal relocation in Jamaica, which is unreasonable apart from SC’s criminal conduct in the UK, become reasonable because he has committed serious offences in the UK?
+</a></li>
+<p> </p>  
+<li value="3"><a name="para3"> The second issue, which arises if SC’s criminal conduct is not relevant to internal relocation, is whether the F-tT judge erred in law in holding that SC could not reasonably be expected to stay in a rural area of Jamaica.
+</a></li>
+<p> </p>  
+<li value="4"><a name="para4"> The third issue is whether the F-tT judge erred in her assessment of sections 117C(4)(b)-(c) of the Nationality, Immigration and Asylum Act 2002 (“the NIAA 2002”) and para 399A(b)-(c) of the Immigration Rules in holding that SC is socially and culturally integrated in the UK and there would be very significant obstacles to his integration in Jamaica.
+</a></li>
+<p> </p>  
+<li value="5"><a name="para5"> The fourth issue is whether the F-tT judge erred in law in embarking on a freestanding assessment of article 8 ECHR, applying the wrong test and failing to give sufficient weight to the public interest in SC’s deportation.
+</a></li>
+<p> </p>  
+<p class="Paraheading2">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Factual background</p>  
+<li value="6"><a name="para6"> There is no challenge to the findings of fact made by the courts below which have been summarised in an agreed statement. Accordingly, SC’s present well-founded fear of being persecuted because his mother is a lesbian and that lesbians and those associated with them, including their children, are persecuted in Jamaica, is not disputed. Nor is there any dispute as to the catalogue of abuse to which SC and his mother were subjected when they lived in Jamaica nor as to the present real risk which SC faces of suffering serious harm in urban parts of Jamaica because of his association with his mother.
+</a></li>
+<p> </p>  
+<li value="7"><a name="para7"> SC is a national of Jamaica, born in 1991. He lived with his mother in Kingston until she left Jamaica for the UK in August 1999. SC was then cared for by his maternal grandmother in Kingston until he joined his mother in the UK in December 2001 at the age of ten. He has remained in the UK since then. He is heterosexual.
+</a></li>
+<p> </p>  
+<li value="8"><a name="para8"> SC’s mother is also a national of Jamaica. She worked as a go-go dancer in clubs. She is a lesbian, who sequentially entered into relationships with three Jamaican women between 1994 and 1999. Homosexuals are harassed and persecuted in Jamaica and SC’s mother, her family and her female partners were subjected to intense violence between 1995 and 1999 which ultimately caused SC’s mother to flee Jamaica seeking refuge in the UK.
+</a></li>
+<p> </p>  
+<li value="9"><a name="para9"> The violence was mostly at the hands of gang members who frequented the clubs in which SC’s mother worked. She was beaten, stabbed, and raped by them, because she was a lesbian. These assaults often took place in front of SC (then aged between three and seven years old). Furthermore, not only did SC witness the violence perpetrated on his mother but also on one occasion gang members attempted to rape him and abducted him for a short while. To avoid the violence SC’s mother and her then partner went into hiding in the countryside, but not only did the gangs, in particular the Sunlight Crew, seek them out but also word had got around to minor gangs in the countryside, who then assaulted SC’s mother and her partner.
+</a></li>
+<p> </p>  
+<li value="10"><a name="para10"> Further details as to the degree of violence inflicted by reason of SC’s mother’s sexual orientation include that the Ramsey Road Gang in Jamaica had, because SC’s mother is a lesbian, shot her two brothers (who had survived). Other gang members had physically and verbally abused her mother and threatened her sister. A further sexual assault occurred in June 1999 when SC’s mother was held down at gunpoint by four teenagers who threatened to “blow her head off” if she did not leave the area. They forced her to have oral sex with them and when SC’s maternal grandmother tried to intervene, they also assaulted her. They threatened to kill not only SC’s mother but also her whole family, if she reported the matter to the police. After this incident, in fear of her life, SC’s mother decided to leave Jamaica and to join one of her brothers in the UK.
+</a></li>
+<p> </p>  
+<li value="11"><a name="para11"> Threats to kill SC’s mother’s family in Jamaica because of her sexual orientation continued after she left Jamaica. Even in London SC’s mother was being threatened by gang members, especially members of the Sunlight Crew. For instance, she recounts that some three years after leaving Jamaica whilst on her way home by bus with SC a member of that gang screamed at her “Sodomite … you not dead yet? You must die.”
+</a></li>
+<p> </p>  
+<li value="12"><a name="para12"> In December 2002 SC’s mother applied for asylum in the UK with SC as her dependant. The claim, which was based on persecution suffered because of SC’s mother’s sexuality, was refused by the SSHD (to whom, for convenience, I will throughout refer as female). On appeal to an Immigration Adjudicator, R J Oliver, SC’s mother gave evidence that she did not believe that she and her partner could avoid the harassment and persecution anywhere in Jamaica as there was a general intolerance of homosexual people. She said:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“They call us sodomites and feel they are justified in treating us like animals because they believe homosexuality is an evil practice.”</p>  
+<p class="ParaNoNumber">SC’s mother stated that she believed that because this view was widely held that the government had done nothing to afford protection to homosexual people and she had no confidence in the police offering her protection. The Adjudicator found that SC’s mother’s evidence fitted in well with the background information material showing the violent persecution of homosexual people in Jamaica and the lack of protection available to them from the authorities. By a decision promulgated on 2 September 2003 the Adjudicator found SC’s mother’s evidence credible, accepted that she was a refugee and allowed her appeal. On 9 October 2003, and as a consequence of the Adjudicator’s decision, SC’s mother and SC were granted indefinite leave to remain in the UK as refugees.</p>  
+<li value="13"><a name="para13"> SC has committed several criminal offences. His offending history began during 2005 when he was reprimanded for destroying or damaging property. In 2006 he received two warnings for taking a motor vehicle and destroying or damaging property. Between November 2007 and 2012 he acquired 14 criminal convictions for a total of 28 offences. These include a conviction for robbery on 1 November 2007; convictions for three robbery offences, attempted robbery and common assault in 2008; a conviction for assault and having an article with a blade in 2009; having an article with a blade in 2010 and using threatening, abusive or insulting words or behaviour in 2011. In addition, SC has been convicted of nine offences relating to the police, courts or prisons and several driving offences.
+</a></li>
+<p> </p>  
+<li value="14"><a name="para14"> On 11 June 2012 SC was convicted of assault occasioning actual bodily harm, having an article with a blade, and breach of an anti-social behaviour order. SC was sentenced to a period of two years’ detention in a young offender institution for the assault conviction. As a result, SC fell within the definition of a “foreign criminal” in section 32(1) of the UK Borders Act 2007 (“the UKBA 2007”) and in section 117D(2) of the NIAA 2002, being a person (a) who is not a British citizen, (b) who is convicted in the United Kingdom of an offence, and (c) who has been sentenced to a period of imprisonment (as defined in section 38(1) of the UKBA 2007 and in section 117D(4) of the NIAA 2002) of at least 12 months. Section 32(5) UKBA 2007 provides that the SSHD “must make a deportation order in respect of a foreign criminal” subject to certain exceptions which are set out in section 33. Section 33(2) provides that a foreign criminal is not to be deported where that would breach that person’s ECHR rights or the UK’s obligations under the 1951 Geneva Convention relating to the Status of Refugees and its Protocol (“the Refugee Convention”).
+</a></li>
+<p> </p>  
+<li value="15"><a name="para15"> On 22 January 2013, the SSHD wrote to SC (having previously invited representations from him) to inform him that by reference to article 1C of the Refugee Convention, the circumstances in which he had been recognised as a refugee had ceased to exist and accordingly, she ceased his refugee status (“the refugee status decision”). There is no statutory appeal against the refugee status decision.
+</a></li>
+<p> </p>  
+<li value="16"><a name="para16"> On 20 March 2013 the SSHD made an “automatic” deportation order against SC as a foreign criminal under section 32(5) of the UKBA 2007 on the basis that his circumstances did not fall within any of the exceptions to automatic deportation in section 33 (“the deportation decision”). The deportation decision is an immigration decision (see the analysis in <i>Ali v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2016/60.html">[2016] UKSC 60</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2016/60.html">[2016] 1 WLR 4799</a>, para 5). Accordingly, there is a statutory appeal to the First-tier Tribunal (“F-tT”) under section 82 of the NIAA 2002. The permissible grounds of appeal, which are set out in section 84 NIAA 2002, at that time included that the immigration decision was not in accordance with immigration rules or that the decision was otherwise not in accordance with the law or that removal of the appellant from the United Kingdom in consequence of the immigration decision would breach the United Kingdom’s obligations under the Refugee Convention or would be unlawful under section 6 of the Human Rights Act 1998 as being incompatible with the appellant’s ECHR rights.
+</li>
+<p> </p>  
+<li value="17"><a name="para17"> SC lodged his appeal with the F-tT on 27 March 2013 under section 82 of the NIAA 2002. On 6 March 2015 the F-tT judge allowed SC’s appeal on the basis that he faced a real risk of being subjected to further serious ill-treatment in contravention of article 3 ECHR if he were removed to Jamaica and that it would not be reasonable to expect SC to seek to reside in another area of Jamaica to avoid his persecutors - Appeal number DA/00649/2013. The F-tT judge’s findings in relation to article 3 ECHR determined the appeal but the F-tT judge also held SC’s deportation would be contrary to his rights under article 8 ECHR. On 21 October 2015 the SSHD’s appeal to the Upper Tribunal (“UT”) was dismissed by Upper Tribunal Judge Canavan (“the UT judge”) - </a><a title="Link to BAILII version" href="/uk/cases/UKAITUR/2015/DA006492013.html">[2015] UKAITUR DA/00649/2013</a> (21 October 2015). On 20 December 2017 the Court of Appeal (Davis LJ, Sir Ernest Ryder, Senior President of Tribunals, and Henderson LJ) set aside the decisions of both Tribunals, remitting SC’s appeal from the SSHD’s decision to be heard afresh by the First-tier Tribunal (“F-tT”) - <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/2112.html">[2017] EWCA Civ 2112</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/2112.html">[2018] 1 WLR 4004</a>. On 18 May 2021 permission to appeal was granted by a panel of the Supreme Court (Lord Lloyd-Jones, Lord Leggatt and Lord Stephens).
+</li>
+<p> </p>  
+<p class="Paraheading2">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Legal Context</p>  
+<li value="18"><a name="para18"> In this section, I set out the legal context to the present case. Annex 1 to this judgment sets out the various amendments made to the applicable scheme during these proceedings.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UKBA 2007</p>  
+<li value="19"><a name="para19"> Section 32 of the UKBA 2007 under the heading of “Automatic deportation”, in so far as relevant, provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this section ‘foreign criminal’ means a person -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; who is not a British citizen,</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; who is convicted in the United Kingdom of an offence, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to whom Condition 1 or 2 applies.</p>  
+<p class="MsoQuote">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Condition 1 is that the person is sentenced to a period of imprisonment of at least 12 months.</p>  
+<p class="MsoQuote">[…]</p>  
+<p class="MsoQuote">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the purpose of section 3(5)(a) of the Immigration Act 1971 (c 77), the deportation of a foreign criminal is conducive to the public good.</p>  
+<p class="MsoQuote">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Secretary of State must make a deportation order in respect of a foreign criminal (subject to section 33).”</p>  
+<li value="20"><a name="para20"> A deportation order in section 32 and 33 of the UKBA 2007 is defined in section 38(4)(c) of the UKBA 2007 as meaning an order under section 5 and by virtue of section 3(5) of the Immigration Act 1971. Section 5 of the Immigration Act 1971 provides that a deportation order made against a person is “an order requiring him to leave and prohibiting him from entering the United Kingdom”. It also provides that “a deportation order against a person shall invalidate any leave to enter or remain in the United Kingdom given him before the order is made or while it is in force.” Section 5(5) gives effect to the provisions of Schedule 3 with respect to the removal from the United Kingdom of persons against whom deportation orders are in force. In particular, paragraph 1 of Schedule 3 provides that, where a deportation order is in force against any person, the Secretary of State may give directions for his removal to a country or territory specified in the directions being either (a) a country of which he is a national or citizen; or (b) a country or territory to which there is reason to believe that he will be admitted.
+</a></li>
+<p> </p>  
+<li value="21"><a name="para21"> Section 32(4) provides that the deportation of a foreign criminal is conducive to the public good for the purpose of section 3(5)(a) of the Immigration Act 1971 which provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“A person who is not a British citizen is liable to deportation from the United Kingdom if - (a) the Secretary of State deems his deportation to be conducive to the public good.”</p>  
+<p class="ParaNoNumber">So, rather than it being a matter for the SSHD to decide under section 3(5)(a) of the Immigration Act 1971, Parliament has stated in section 32(4) of the UKBA 2007 that it is conducive to the public good to deport “foreign criminals”; see <i>RU (Bangladesh) v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2011/651.html">[2011] EWCA Civ 651</a>, paras 11 and 34.</p>  
+<li value="22"><a name="para22"> It is accepted that SC falls within the description of a foreign criminal in section 32(1) and (2) as he is not a British citizen, he has been convicted in the UK of an offence and he has been sentenced to a period of imprisonment of at least 12 months. Accordingly, his deportation is deemed to be conducive to the public good under section 32(4). By virtue of section 32(5) the SSHD is obliged to make a deportation order in respect of SC (ie, automatic deportation) subject to section 33.
+</a></li>
+<p> </p>  
+<li value="23"><a name="para23"> Section 33 of the UKBA 2007 provides for exceptions to both section 32(4) and 32(5) (“Exceptions”). The only relevant Exception in this case is the first part of Exception 1, which is where removal of the “foreign criminal” in pursuance of the deportation order would breach his rights under the ECHR. In so far as relevant, section 33 provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Section 32(4) and (5) -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; do not apply where an exception in this section applies (subject to subsection (7) below), and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are subject to sections 7 and 8 of the Immigration Act 1971 (Commonwealth citizens, Irish citizens, crew and other exemptions).</p>  
+<p class="MsoQuote">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exception 1 is where removal of the foreign criminal in pursuance of the deportation order would breach -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a person’s Convention rights, or</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the United Kingdom’s obligations under the Refugee Convention.</p>  
+<p class="MsoQuote">[…]</p>  
+<p class="MsoQuote">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application of an exception -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; does not prevent the making of a deportation order;</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; results in it being assumed neither that deportation of the person concerned is conducive to the public good nor that it is not conducive to the public good;</p>  
+<p class="MsoQuote">but section 32(4) applies despite the application of Exception 1 or 4.”</p>  
+<li value="24"><a name="para24"> Section 33(7) sets out the consequences of an Exception applying in a particular case. It stipulates that the application of an Exception does not prevent the SSHD from making a deportation order against a “foreign criminal”, nor will it result in it being assumed either that deportation of the “foreign criminal” concerned is, or is not, conducive to the public good. There is a further nuance in the case of Exceptions 1 and 4. The proviso to section 33(7) stipulates that in those cases, despite the application of those Exceptions, section 32(4) will continue to apply. This is relevant in the present case because SC relies on Exception 1, that is on his ECHR rights, as an answer to the SSHD’s obligation to deport under section 32(5). Accordingly, as SC is a “foreign criminal” who challenges a deportation order made by the SSHD under section 32(5) of the UKBA 2007, on the basis that his removal would infringe his ECHR rights and it would be disproportionate to deport him, it is not open to him to argue that his deportation is not conducive to the public good, nor is it necessary for the SSHD to prove that it is. In such cases it will be so under the proviso to section 33(7) of the UKBA 2007; see <i>RU (Bangladesh) v Secretary of State for the Home Department</i> at paras 12 and 34; <i>Ali v Secretary of State for the Home Department</i> at para 12.
+</a></li>
+<p> </p>  
+<li value="25"><a name="para25"> The SSHD’s deportation decision was made on the basis that SC’s circumstances did not fall within any of the exceptions to automatic deportation in section 33 so that there was a requirement to make a deportation order; see <i>Ali v Secretary of State for the Home Department</i> at para 13. SC contends that the deportation decision was not in accordance with the Immigration Rules and that the decision was otherwise not in accordance with the law. However, SC primarily focussed on his contention that the deportation decision would breach his rights under articles 3 and 8 ECHR and the United Kingdom’s obligations under the Refugee Convention. SC was unsuccessful before the F-tT judge in his contention that his deportation would breach the UK’s obligations under the Refugee Convention. There has been no appeal against that finding. This appeal mainly concerns whether the deportation decision would breach SC’s rights under articles 3 and/or 8 ECHR or is not in accordance with the Immigration Rules. Accordingly, it is appropriate to summarise the legal principles in relation to both of those articles and the relevant Immigration Rules.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Articles 3 and 8 ECHR</p>  
+<li value="26"><a name="para26"> Article 3 ECHR provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“No one shall be subjected to torture or to inhuman or degrading treatment or punishment.”</p>  
+<li value="27"><a name="para27"> The approach to the application of article 3 ECHR in the context of a deportation order requires the court to ask itself whether deportation to the country of origin would expose a person to a real risk of torture or inhuman or degrading treatment or punishment within article 3 ECHR. Deportation would expose a person to a breach of article 3 ECHR “where <i>substantial grounds</i> have been shown for believing that the person concerned faced <i>a real risk </i>of being subjected to torture or to inhuman or degrading treatment” (<i>Vilvarajah v United Kingdom</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1991/47.html">(1991) 14 EHRR 248</a>, para 103) (emphasis added); see also <i>Soering v United Kingdom</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1989/14.html">(1989) 11 EHRR 439</a>, para 91.
+</li>
+<p> </p>  
+<li value="28"><a name="para28"> There is a high threshold before treatment can be regarded as being inhuman or degrading in violation of article 3 ECHR, so in cases concerned with allegations of ill-treatment, the court asks itself whether the ill-treatment has attained the necessary minimum level of severity to fall within the scope of article 3.
+</a></li>
+<p> </p>  
+<li value="29"><a name="para29"> In <i>Ireland v United Kingdom</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1978/1.html">(1978) 2 EHRR 25</a>, the European Court of Human Rights (“ECtHR”) stated, at para 162:
+</li>
+<p> </p>  
+<p class="MsoQuote">“The assessment of this minimum [level of severity] is, in the nature of things, relative; it depends on all the circumstances of the case, such as the duration of the treatment, its physical or mental effects and, in some cases, the sex, age and state of health of the victim, etc.”</p>  
+<li value="30"><a name="para30"> That formulation, emphasising the need to consider “all the circumstances of the case”, has been repeated in the subsequent case law of the ECtHR. Accordingly, the minimum level is not fixed, but depends on the circumstances of the case; see <i>R (AB) v Secretary of State for Justice</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2021/28.html">[2021] UKSC 28</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2021/28.html">[2022] AC 487</a>, para 50.
+</li>
+<p> </p>  
+<li value="31"><a name="para31"> The deportation decision would not cause a breach of SC’s article 3 ECHR rights if he was able to access the effective protection of the Jamaican authorities. Furthermore, the deportation decision would not cause a breach of SC’s article 3 rights if internal relocation were available to him in a part of Jamaica where he would not face <i>a real risk </i>of being subjected to torture or inhuman or degrading treatment.
+</a></li>
+<p> </p>  
+<li value="32"><a name="para32"> What then is the test as to whether internal relocation is available? This was considered in <i>DNM v Sweden</i> (Application No 28379/11) by the ECtHR. DNM, a Kurd and Sunni Muslim, who had unsuccessfully claimed asylum in Sweden, claimed that the enforcement of the deportation order to Iraq would be in violation of articles 2 and 3 ECHR. In considering that claim the court considered the possibility of internal relocation between paras 54 and 59. The ECtHR stated at para 54 that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“Article 3 does not, as such, preclude contracting states from placing reliance on the existence of an internal flight or relocation alternative in their assessment of an individual’s claim that a return to the country of origin would expose him or her to a real risk of being subjected to treatment proscribed by that provision. However, the court has held that reliance on such an alternative does not affect the responsibility of the expelling contracting state to ensure that the applicant is not, as a result of its decision to expel, exposed to treatment contrary to article 3. Therefore, as a precondition of relying on an internal flight or relocation alternative, certain guarantees have to be in place: the person to be expelled must be able to travel to the area concerned, gain admittance and settle there, failing which an issue under article 3 may arise, the more so if in the absence of such guarantees there is a possibility of his or her ending up in a part of the country of origin where there is a real risk of ill-treatment <i>(Sufi and Elmi v The United Kingdom, </i>nos 8319/07 and 11449/07, para 266, 28 June 2011, with further references).”</p>  
+<p class="ParaNoNumber">At para 57 the ECtHR referred to the standard of reasonableness in respect of internal relocation when it stated:</p>  
+<p class="MsoQuote">“One factor possibly weighing against the <i>reasonableness</i> of internal relocation is that a person is persecuted by a powerful clan or tribe with influence at governmental level. However, if the clan or tribe in question is not particularly influential, an internal flight alternative might be <i>reasonable</i> in many cases.” (Emphasis added)</p>  
+<p class="ParaNoNumber">At para 59 the ECtHR concluded that internal relocation was available to the applicant and in doing so relied on the standard of reasonableness whilst acknowledging that it “inevitably involves certain hardship.” The ECtHR stated:</p>  
+<p class="MsoQuote">“Internal relocation <i>inevitably involves certain hardship</i>, not the least in a tribal-based society such as Iraq. Nevertheless, having regard to what has been stated above, there is no indication that the applicant should be unable to find a relocation alternative in southern or central Iraq where the living conditions would be <i>reasonable</i> for him. In this connection, the court notes that he is a young man without any apparent health problems.” (Emphasis added)</p>  
+<li value="33"><a name="para33"> Another ECtHR authority is <i>MKN v Sweden</i> (Application No 72413/10) in which MKN alleged that his deportation to Iraq would involve a violation of article 3 ECHR. The ECtHR considered the possibility of relocation to the Kurdistan Region between paras 35 to 40. The court reiterated at para 35 that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“Article 3 does not, as such, preclude contracting states from placing reliance on the existence of an internal flight or relocation alternative in their assessment of an individual’s claim that a return to the country of origin would expose him or her to a real risk of being subjected to treatment proscribed by that provision.”</p>  
+<p class="ParaNoNumber">At para 39 the ECtHR reiterated that “Internal relocation inevitably involves certain hardship.” In that paragraph the ECtHR stated that:</p>  
+<p class="MsoQuote">“Various sources have attested that people who relocate to the Kurdistan Region may face difficulties, for instance, in finding proper jobs and housing there, not the least if they do not speak Kurdish.”</p>  
+<p class="ParaNoNumber">However, the court referred to evidence which “suggests that there are jobs available and that settlers have access to health care as well as financial and other support from the UNHCR and local authorities.” The ECtHR concluded at para 40 that “relocation to the Kurdistan Region is a viable alternative for a Christian fearing persecution or ill-treatment in other parts of Iraq.” In arriving at that conclusion, the ECtHR referred at para 39 to the test of reasonableness albeit on this occasion disjunctively with the standard of treatment prohibited by article 3. The court stated:</p>  
+<p class="MsoQuote">“In any event, there is no indication that the general living conditions in the KRI for a Christian settler <i>would be unreasonable or in any way amount to treatment prohibited by article 3</i>. Nor is there a real risk of his or her ending up in the other parts of Iraq.” (Emphasis added)</p>  
+<p class="ParaNoNumber">Mr Husain QC, on behalf of SC, submits that in this paragraph, using the disjunctive, the ECtHR held that even if there is no breach of article 3 in the place of relocation that there was a wider question as to whether internal relocation was unreasonable.</p>  
+<li value="34"><a name="para34"> Mr Malik QC, on behalf of the SSHD, concedes for the purposes of this appeal that the test for internal relocation in respect of article 3 ECHR is reasonableness rather than whether in the proposed place of relocation the person concerned faces a real risk of being subjected to torture or inhuman or degrading treatment. That concession was informed by the SSHD’s policy entitled “Considering Human Rights Claims” which under the heading of “Article 3 ECHR” includes the same guidance on internal relocation in respect of article 3 as applies in respect of claims for asylum or humanitarian protection. The policy in respect of article 3 ECHR states:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“See the Al on Internal Relocation and paragraph 339O of the Immigration Rules.”</p>  
+<li value="35"><a name="para35"> The reference in the SSHD’s policy to the Al is to a policy in respect of a claim for asylum under the Refugee Convention, namely to the Asylum Instruction on Internal Relocation contained in the Home Office publication entitled “Asylum Policy Instruction. Assessing credibility and refugee status.” Paragraph 8.2 under the heading of “Internal Relocation” states:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“Under paragraph 339O of the Immigration Rules, the question to be asked is whether the claimant would face a well-founded fear of persecution or real risk of serious harm in the place of relocation, and whether it is <i>reasonable</i> to expect them to travel to, and stay in that place. This requires full consideration of the situation in the country of origin, means of travel, and proposed area of relocation in relation to the individual’s personal circumstances.” (Emphasis added)</p>  
+<li value="36"><a name="para36"> The SSHD’s policy also refers to paragraph 339O of the Immigration Rules which governs the approach to internal relocation in the context of applications for refugee status rather than whether a deportation order is in breach of article 3 ECHR. SC proceeded on the basis and for the purposes of this appeal the SSHD conceded that the paragraph, with suitable adaptations, should also apply in the context of deportation of a foreign criminal. That paragraph provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Secretary of State will not make: (a) a grant of asylum if in part of the country of origin a person would not have a well-founded fear of being persecuted, and <i>the person can reasonably be expected to stay in that part of the country</i>; or (b) a grant of humanitarian protection if in part of the country of return a person would not face a real risk of suffering serious harm, and <i>the person can reasonably be expected to stay in that part of the country</i>.</p>  
+<p class="MsoQuote">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In examining whether a part of the country of origin or country of return meets the requirements in (i) the Secretary of State, when making his decision on whether to grant asylum or humanitarian protection, will have regard to the general circumstances prevailing in that part of the country and to the personal circumstances of the person.</p>  
+<p class="MsoQuote">(iii)(i)&nbsp;&nbsp; applies notwithstanding technical obstacles to return to the country of origin or country of return.” (Emphasis added)</p>  
+<p class="ParaNoNumber">As the emphasised phrases indicate, the test in relation to internal relocation in the context of an application for refugee status is whether “the person can reasonably be expected to stay in that part of the country.” This reflects the principle that a person may establish a well-founded fear of being persecuted for a Refugee Convention reason in part of his country of nationality. If he does so, then the question as to internal relocation arises because he would not be outside the country of his nationality owing to a well-founded fear of being persecuted for a Convention reason if he could reasonably be expected to relocate internally. The SSHD has conceded that the same test applies in determining whether a deportation order is in breach of article 3 ECHR. I will proceed on that basis.</p>  
+<li value="37"><a name="para37"> Article 8 ECHR provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Everyone has the right to respect for his private and family life, his home and his correspondence.</p>  
+<p class="MsoQuote">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”</p>  
+<li value="38"><a name="para38"> In 2012, new paragraphs 398-399A were introduced into the Immigration Rules to define the nature of private or family life that would outweigh the stated public interest in deportation of foreign criminals. As decided by this court in <i>Ali v Secretary of State for the Home Department</i> at paras 44, 49 and 50, the policy of the SSHD, as expressed in the Immigration Rules, should be given “appropriate weight” in deciding whether the interference with article 8 ECHR is proportionate and justified in any particular case before it. Subsequently, Parliament introduced via section 19 of the Immigration Act 2014, Part 5A to the NIAA 2002, which sets out the scheme that a court or tribunal is required to follow in its determination whether a decision made under the Immigration Acts breaches a person’s rights under article 8 ECHR.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NIAA 2002 and article 8 ECHR</p>  
+<li value="39"><a name="para39"> Section 117A of the NIAA 2002 states:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This Part applies where a court or tribunal is required to determine whether a decision made under the Immigration Acts -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; breaches a person’s right to respect for private and family life under article 8, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; as a result would be unlawful under section 6 of the Human Rights Act 1998.</p>  
+<p class="MsoQuote">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In considering the public interest question, the court or tribunal must (in particular) have regard - (a) in all cases, to the considerations listed in section 117B, and (b) in cases concerning the deportation of foreign criminals, to the considerations listed in section 117C.</p>  
+<p class="MsoQuote">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In subsection (2), ‘the public interest question’ means the question of whether an interference with a person’s right to respect for private and family life is justified under article 8(2).”</p>  
+<li value="40"><a name="para40"> Section 117B of the NIAA 2002 under the heading “Article 8: public interest considerations applicable in all cases” provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The maintenance of effective immigration controls is in the public interest.</p>  
+<p class="MsoQuote">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is in the public interest, and in particular in the interests of the economic well-being of the United Kingdom, that persons who seek to enter or remain in the United Kingdom are able to speak English, because persons who can speak English -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are less of a burden on taxpayers, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are better able to integrate into society.</p>  
+<p class="MsoQuote">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It is in the public interest, and in particular in the interests of the economic well-being of the United Kingdom, that persons who seek to enter or remain in the United Kingdom are financially independent, because such persons -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are not a burden on taxpayers, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are better able to integrate into society.</p>  
+<p class="MsoQuote">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Little weight should be given to -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a private life, or</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a relationship formed with a qualifying partner,</p>  
+<p class="MsoQuote">that is established by a person at a time when the person is in the United Kingdom unlawfully.</p>  
+<p class="MsoQuote">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Little weight should be given to a private life established by a person at a time when the person’s immigration status is precarious.</p>  
+<p class="MsoQuote">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the case of a person who is not liable to deportation, the public interest does not require the person’s removal where -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the person has a genuine and subsisting parental relationship with a qualifying child, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it would not be reasonable to expect the child to leave the United Kingdom.”</p>  
+<li value="41"><a name="para41"> Section 117C of the NIAA 2002 under the heading “Article 8: additional considerations in cases involving foreign criminals” sets out the following considerations to which the court or tribunal must have regard in cases concerning the deportation of foreign criminals:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The deportation of foreign criminals is in the public interest.</p>  
+<p class="MsoQuote">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The more serious the offence committed by a foreign criminal, the greater is the public interest in deportation of the criminal.</p>  
+<p class="MsoQuote">(3) In the case of a foreign criminal (‘C’) who has not been sentenced to a period of imprisonment of four years or more, the public interest requires C’s deportation unless Exception 1 or Exception 2 applies.</p>  
+<p class="MsoQuote">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exception 1 applies where -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C has been lawfully resident in the United Kingdom for most of C’s life,</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C is socially and culturally integrated in the United Kingdom, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; there would be very significant obstacles to C’s integration into the country to which C is proposed to be deported.</p>  
+<p class="MsoQuote">(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exception 2 applies where C has a genuine and subsisting relationship with a qualifying partner, or a genuine and subsisting parental relationship with a qualifying child, and the effect of C’s deportation on the partner or child would be unduly harsh.</p>  
+<p class="MsoQuote">(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the case of a foreign criminal who has been sentenced to a period of imprisonment of at least four years, the public interest requires deportation unless there are very compelling circumstances, over and above those described in Exceptions 1 and 2.</p>  
+<p class="MsoQuote">(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The considerations in subsections (1) to (6) are to be taken into account where a court or tribunal is considering a decision to deport a foreign criminal only to the extent that the reason for the decision was the offence or offences for which the criminal has been convicted.”</p>  
+<li value="42"><a name="para42"> Section 117C(1) and (2) provides that the deportation of a foreign criminal is in the public interest and that, the more serious the offence committed by a foreign criminal, the greater the public interest in the deportation of the criminal. As Ryder LJ explained in <i>Akinyemi v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2019/2098.html">[2019] EWCA Civ 2098</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2019/2098.html">[2020] 1 WLR 1843</a>, para 45:
+</li>
+<p> </p>  
+<p class="MsoQuote">“There is on the face of section 117C of the NIAA 2002 a flexible or moveable quality to the public interest in deportation that is described albeit that the interest must have a minimally fixed quality. It is minimally fixed because at section 117C(1) the public interest as described can never be other than in favour of deportation. It is flexible because at section 117C(2) the additional consideration described is as follows:</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">‘The more serious the offence committed by a foreign criminal, the greater is the public interest in deportation of the criminal.’”</p>  
+<p class="ParaNoNumber">It is also apparent from the contrast in the statutory scheme between section 117C(3) and (6) that the greater public interest in deportation of a foreign criminal is determined by the length of the sentence of imprisonment which has been imposed. The public interest in deportation of offenders who have been sentenced to a period of imprisonment of at least four years will be outweighed only by very compelling circumstances, over and above those described in Exceptions 1 and 2.</p>  
+<li value="43"><a name="para43"> The effect of section 117C is to prescribe different approaches to the justification issue under article 8(2) ECHR by reference to the length of the sentence imposed. In the case of those sentenced to imprisonment for at least 12 months but less than four years (“medium offenders”), the effect of subsection (3) is that deportation will not be justified if either of the two Exceptions identified in subsections (4) and (5) applies. Exception 1 is concerned with private life (based on long residence) and Exception 2 is concerned with family life. In the cases covered by the two Exceptions the public interest question is answered in favour of the foreign criminal, without the need for a full proportionality assessment. Parliament has pre-determined that in the circumstances there specified the public interest in the deportation of medium offenders does not outweigh the article 8 interests of the foreign criminal or his family. So, if the case falls within Exception 1 or 2 then the article 8 claim succeeds.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Immigration Rules and article 8 ECHR</p>  
+<li value="44"><a name="para44"> At the same time as the coming into effect of Part 5A of the NIAA 2002, Part 13 of the Immigration Rules was correspondingly amended. The effect of section 117C is substantially reproduced in paragraphs A398-399A, though in more detail and with a different structure. In this way paragraphs 399 and 399A of the 2014 Rules refer to the same subject matter as Exceptions 1 and 2 in section 117C of the NIAA 2002, but they do so in greater detail. The Immigration Rules and the NIAA 2002 are plainly intended to have the same effect and should be construed so as to achieve that result.
+</a></li>
+<p> </p>  
+<li value="45"><a name="para45"> The question arises as to whether a court or tribunal should refer to paragraphs A398-399A of the Immigration Rules where a decision made by the Secretary of State under the Immigration Acts is challenged on article 8 ECHR grounds given that Part 5A of the NIAA 2002 is primary legislation which directly governs that decision. One of SC’s grounds of appeal under section 84 of the NIAA 2002 is “that the decision is not in accordance with immigration rules” (see para 65 below and <i>Ali v Secretary of State for the Home Department</i> at para 53). The amendment deleting this ground of appeal does not apply to SC’s appeal, see paras 117-119 below. Accordingly in this appeal there must be reference to both Part 5A of the NIAA 2002 and to the Immigration Rules.
+</a></li>
+<p> </p>  
+<li value="46"><a name="para46"> The relevant Immigration Rules concerning deportation and article 8 ECHR are paragraphs A398 to 399A. Paragraph A398 provides that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“These rules apply where:</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a foreign criminal liable to deportation claims that his deportation would be contrary to the United Kingdom’s obligations under article 8 of the Human Rights Convention; and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a foreign criminal applies for a deportation order made against him to be revoked.”</p>  
+<li value="47"><a name="para47"> Paragraph 398 provides that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“Where a person claims that their deportation would be contrary to the UK’s obligations under article 8 of the Human Rights Convention, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the deportation of the person from the UK is conducive to the public good and in the public interest because they have been convicted of an offence for which they have been sentenced to a period of imprisonment of at least four years;</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the deportation of the person from the UK is conducive to the public good and in the public interest because they have been convicted of an offence for which they have been sentenced to a period of imprisonment of less than four years but at least 12 months; or</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the deportation of the person from the UK is conducive to the public good and in the public interest because, in the view of the Secretary of State, their offending has caused serious harm or they are a persistent offender who shows a particular disregard for the law,</p>  
+<p class="MsoQuote">the Secretary of State in assessing that claim will consider whether paragraph 399 or 399A applies and, if it does not, the public interest in deportation will only be outweighed by other factors where there are very compelling circumstances over and above those described in paragraphs 399 and 399A.”</p>  
+<li value="48"><a name="para48"> Paragraphs 399 and 399A provide guidance to officials as to categories of case where it is accepted by the Secretary of State that deportation would be disproportionate, see <i>Ali v Secretary of State for the Home Department </i>at paras 36 and 38.
+</a></li>
+<p> </p>  
+<li value="49"><a name="para49"> Paragraph 399 is not relevant as SC does not have a genuine and subsisting parental relationship with a child or a partner such as to the meet the conditions in that paragraph.
+</a></li>
+<p> </p>  
+<li value="50"><a name="para50"> Paragraph 399A provides that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“This paragraph applies where paragraph 398(b) or (c) applies if -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the person has been lawfully resident in the UK for most of his life; and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he is socially and culturally integrated in the UK; and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; there would be very significant obstacles to his integration into the country to which it is proposed he is deported.”</p>  
+<li value="51"><a name="para51"> Whether a foreign criminal is socially and culturally integrated in the United Kingdom in section 117C(4)(b) and paragraph 399A(b) of the Immigration Rules is to be determined in accordance with common sense. As Lord Brown of Eaton-under-Heywood held in <i>Mahad v Entry Clearance Officer</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2009/16.html">[2009] UKSC 16</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2009/16.html">[2010] 1 WLR 48</a>, para 10, the Immigration Rules should:
+</li>
+<p> </p>  
+<p class="MsoQuote">“not … be construed with all the strictness applicable to the construction of a statute or a statutory instrument but, instead, sensibly according to the natural and ordinary meaning of the words used, recognising that they are statements of the Secretary of State’s administrative policy.”</p>  
+<p class="ParaNoNumber">Leggatt LJ delivering the judgment of the Court of Appeal in <i>CI (Nigeria)</i> v <i>Secretary of State for the Home Department </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2019/2027.html">[2019] EWCA Civ 2027</a><i> </i>stated, at para 58, that:</p>  
+<p class="MsoQuote">“Relevant social ties obviously include relationships with friends and relatives, as well as ties formed through employment or other paid or unpaid work or through participation in communal activities. However, a person’s social identity is not defined solely by such particular relationships but is constituted at a deep level by familiarity with and participation in the shared customs, traditions, practices, beliefs, values, linguistic idioms and other local knowledge which situate a person in a society or social group and generate a sense of belonging. The importance of upbringing and education in the formation of a person’s social identity is well recognised, and its importance in the context of cases involving the article 8 rights of persons facing expulsion because of criminal offending has been recognised by the European Court.”</p>  
+<p class="ParaNoNumber">Furthermore, I agree with the formulation of the question at para 77 of <i>CI (Nigeria)</i> that a judge should simply ask whether, having regard to his upbringing, education, employment history, history of criminal offending and imprisonment, relationships with family and friends, lifestyle and any other relevant factors, the individual was at the time of the hearing socially and culturally integrated in the UK.</p>  
+<li value="52"><a name="para52"> I consider that a similar approach should apply to the question, in section 117C(4)(c) and paragraph 399A(c) as to whether there would be very significant obstacles to a foreign criminal’s integration into the country to which he is proposed to be deported. In delivering the judgment of the Court of Appeal in <i>Kamara v Secretary of State for the Home Department </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/813.html">[2016] EWCA Civ 813</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/813.html">[2016] 4 WLR 152</a> Sales LJ stated at para 14 that:
+</li>
+<p> </p>  
+<p class="MsoQuote">“… the concept of a foreign criminal’s ‘integration’ into the country to which it is proposed that he be deported, as set out in section 117C(4)(c) and paragraph 399A, is a broad one. It is not confined to the mere ability to find a job or to sustain life while living in the other country. It is not appropriate to treat the statutory language as subject to some gloss and it will usually be sufficient for a court or tribunal simply to direct itself in the terms that Parliament has chosen to use. The idea of ‘integration’ calls for a broad evaluative judgment to be made as to whether the individual will be enough of an insider in terms of understanding how life in the society in that other country is carried on and a capacity to participate in it, so as to have a reasonable opportunity to be accepted there, to be able to operate on a day-to-day basis in that society and to build up within a reasonable time a variety of human relationships to give substance to the individual’s private or family life.”</p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internal Relocation</p>  
+<li value="53"><a name="para53"> A person is not a refugee within the meaning of article 1A(2) of the Refugee Convention if he can reasonably be expected to live in another part of his home country where he would not have a well-founded fear of persecution (ie, internal relocation). The leading House of Lords authority on the issue of internal relocation in the context of determining whether a person is a refugee is <i>Januzi v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2006/5.html">[2006] UKHL 5</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2006/5.html">[2006] 2 AC 426</a>.
+</li>
+<p> </p>  
+<li value="54"><a name="para54"> The primary issue in <i>Januzi</i> was whether, in judging reasonableness of internal relocation, account should be taken of any disparity between the civil, political and socio-economic human rights which the person would enjoy in the place of relocation compared with those in the place of asylum. The House of Lords held that the question whether it would be reasonable to expect a person to relocate was to be assessed by considering whether he could live a relatively normal life in the place of relocation, judged by the standards generally prevailing in his country of nationality rather than the standards generally prevailing in the place of asylum: see paras 15-19, 23, 45-49, 61, 67, 70.
+</a></li>
+<p> </p>  
+<li value="55"><a name="para55"> In addition to that primary issue consideration was also given in <i>Januzi</i> to the test for internal relocation. It was observed by Lord Bingham of Cornhill at para 7 that the text of the Refugee Convention does not directly address the issue of the return of a person seeking asylum to safe relocation areas in his home country. However, Lord Bingham stated, at para 5, that the amended definition of a “refugee” in article 1A(2) of the Refugee Convention includes three qualifying conditions. The first is a causative condition so that to be a refugee a person must be outside the country of his nationality “owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion”. Accordingly, as Lord Bingham stated at para 7:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“if a person is outside the country of his nationality because he has chosen to leave that country and seek asylum in a foreign country, rather than move to a place of relocation within his own country where he would have no well-founded fear of persecution, where the protection of his country would be available to him and where he could reasonably be expected to relocate, it can properly be said that he is not outside the country of his nationality owing to a well-founded fear of being persecuted for a Convention reason.”</p>  
+<li value="56"><a name="para56"> In <i>Januzi</i> it was not in contention between the parties that reasonableness was the test to be applied when deciding whether a relocation alternative is open to an applicant for asylum. Lord Bingham stated, at para 8, that the reasonableness test of internal relocation was readily and widely accepted. In that regard he referred to it being applied by the Federal Court of Appeal in Canada and that it had been applied in Australia and New Zealand.
+</a></li>
+<p> </p>  
+<li value="57"><a name="para57"> The test of reasonableness in relation to internal relocation in the context of applications for refugee status is found in paragraph 339O of the Immigration Rules (see para 36 above). The test of reasonableness is also found in article 8 of the Council Directive 2004/83/EC of 29 April 2004 (the Qualification Directive) which under the heading of “Internal protection” provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of the assessment of the application for international protection, member states may determine that an applicant is not in need of international protection if in a part of the country of origin there is no well-founded fear of being persecuted or no real risk of suffering serious harm and <i>the applicant can reasonably be expected to stay in that part of the country</i>.</p>  
+<p class="MsoQuote">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In examining whether a part of the country of origin is in accordance with paragraph 1, member states shall at the time of taking the decision on the application <i>have regard to the general circumstances prevailing in that part of the country and to the personal circumstances of the applicant</i>.</p>  
+<p class="MsoQuote">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Paragraph 1 may apply notwithstanding technical obstacles to return to the country of origin.” (Emphasis added)</p>  
+<li value="58"><a name="para58"> The test of reasonableness involves consideration of all the relevant circumstances looked at cumulatively. In <i>Januzi</i> Lord Bingham summarised the correct approach to the problem of internal relocation. He stated, at para 21, that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“The decision-maker, taking account of all relevant circumstances pertaining to the claimant and his country of origin, must decide whether it is reasonable to expect the claimant to relocate or whether it would be unduly harsh to expect him to do so ... There is, as Simon Brown LJ aptly observed in <i>Svazas v Secretary of State for the Home Department</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2002/74.html">[2002] 1 WLR 1891</a>, para 55, a spectrum of cases. The decision-maker must do his best to decide, on such material as is available, where on the spectrum the particular case falls … All must depend on a fair assessment of the relevant facts.”</p>  
+<li value="59"><a name="para59"> Lord Bingham returned to the test of reasonableness in <i>AH (Sudan) v Secretary of State for the Home Department (United Nations High Commissioner for Refugees intervening)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2007/49.html">[2007] UKHL 49</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/49.html">[2008] AC 678</a>. He stated, at para 13 that “the test propounded by the House in <i>Januzi</i> was one of great generality, excluding from consideration very little other than the standard of rights protection which an applicant would enjoy in the country where refuge is sought.”
+</li>
+<p> </p>  
+<li value="60"><a name="para60"> However, the stringency of the reasonableness test is not to be underestimated. In <i>Januzi </i>Lord Bingham equated reasonableness of internal relocation with whether it would be unduly harsh. So much is apparent from para 21 of his speech (see para 58 above) in which he stated that the “decision-maker, …, must decide whether it is reasonable to expect the claimant to relocate or whether it would be unduly harsh to expect him to do so.”
+</a></li>
+<p> </p>  
+<li value="61"><a name="para61"> Lord Hope of Craighead, in his speech in <i>Januzi</i> at para 24 defined the test as being:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“The question in each case is whether it is unreasonable, in the sense that it would be unduly harsh, for the applicant to be expected to relocate internally within that country.”</p>  
+<p class="ParaNoNumber">He continued at para 47 by stating:</p>  
+<p class="MsoQuote">“The question where the issue of internal relocation is raised can, then, be defined quite simply. … it is whether it would be unduly harsh to expect a claimant who is being persecuted for a Convention reason in one part of his country to move to a less hostile part before seeking refugee status abroad. The words ‘unduly harsh’ set the standard that must be met for this to be regarded as unreasonable.”</p>  
+<li value="62"><a name="para62"> Also, Lord Carswell, in his speech in <i>Januzi</i> at para 63 stated that an applicant for asylum “should not be returned if it would be unduly harsh <i>sive</i> unreasonable to expect him to relocate in that particular place”. He continued at para 67 by stating that it was “necessary to stress the rigorous nature of the test for unreasonableness or undue harshness”.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The appeals regime under Part 5 of the NIAA 2002 in relation to the decision to deport SC</p>  
+<li value="63"><a name="para63"> Section 81 in Part 5 NIAA 2002, provides:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“In this Part ‘the Tribunal’ means the First-tier Tribunal.”</p>  
+<li value="64"><a name="para64"> Section 82 under the heading of “Right of Appeal: general” in so far as relevant and pre-amendment provided:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where an immigration decision is made in respect of a person he may appeal to the Tribunal.</p>  
+<p class="MsoQuote">(3A)&nbsp;&nbsp;&nbsp;&nbsp; …</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a decision that section 32(5) applies is an immigration decision for the purposes of this Part, and</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a reference in this Part to an appeal against an automatic deportation order is a reference to an appeal against a decision of the Secretary of State that section 32(5) applies.</p>  
+<p class="MsoQuote">[…]”</p>  
+<li value="65"><a name="para65"> Section 84 under the heading of “Grounds of appeal” in so far as relevant and pre-amendment provided:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An appeal under section 82(1) against an immigration decision must be brought on one or more of the following grounds -</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the decision is not in accordance with immigration rules;</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">[…]</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the decision is otherwise not in accordance with the law;</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">[…]</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that removal of the appellant from the United Kingdom in consequence of the immigration decision would breach the United Kingdom’s obligations under the Refugee Convention or would be unlawful under section 6 of the Human Rights Act 1998 as being incompatible with the appellant’s Convention rights.</p>  
+<p class="MsoQuote" style="margin-left:108.0pt">[...]”</p>  
+<p class="ParaNoNumber">SC relied on these three grounds of appeal before the F-tT.</p>  
+<li value="66"><a name="para66"> In relation to SC’s ground of appeal under section 84(1)(a) of the NIAA 2002 that the deportation decision was not in accordance with the immigration rules SC contended:
+</a></li>
+<p> </p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>that in so far as the decision relied on his ability to internally relocate so as not to be in breach of article 3 ECHR, it was not in accordance with paragraph 339O of the Immigration Rules; and</p>  
+<p class="ParaApprovedLevel2" style="text-indent:0cm">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>in so far as the decision was that there was no breach of article 8 ECHR it was not in accordance with paragraph 399A of the Immigration Rules.</p>  
+<li value="67"><a name="para67"> In relation to the ground of appeal under section 84(1)(e) of the NIAA 2002 that the deportation decision was “otherwise not in accordance with the law” SC identified the law as being article 8 of the Qualification Directive which applies to applications for international protection taken with the SSHD’s policy to apply that article in considering SC’s ability to internally relocate. Before this court Mr Husain submitted that if the SSHD failed to follow her policy without good reason, then there would be an error of public law so that the decision was “otherwise not in accordance with law.” Mr Husain did not focus on this ground of appeal as the grounds in section 84(1)(a) and (g) of the NIAA 2002 were the central planks of SC’s case. Accordingly, there was no argument in relation to this ground in this court and I propose to say nothing further about it.
+</a></li>
+<p> </p>  
+<li value="68"><a name="para68"> In relation to the ground of appeal under section 84(1)(g) of the NIAA 2002 SC contended that his removal from the United Kingdom in consequence of the deportation decision would be unlawful under section 6 of the Human Rights Act 1998 as being incompatible with his articles 3 and 8 ECHR rights.
+</a></li>
+<p> </p>  
+<li value="69"><a name="para69"> An appeal against a decision of the F-tT lies to the UT, on a point of law, under section 11 of the Tribunals, Courts and Enforcement Act 2007. A further appeal lies under that Act to the Court of Appeal, or the equivalent courts in Scotland and Northern Ireland, and ultimately to this court.
+</a></li>
+<p> </p>  
+<li value="70"><a name="para70"> The approach to an appeal from the F-tT on a point of law should be informed by para 30 of Lady Hale’s judgment in <i>AH (Sudan) v Home Secretary</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/49.html">[2008] AC 678</a>. Lady Hale stated that the F-tT “is an expert tribunal charged with administering a complex area of law in challenging circumstances” and continued by stating that:
+</li>
+<p> </p>  
+<p class="MsoQuote" style="text-align:justify">“the ordinary courts should approach appeals from them with an appropriate degree of caution; it is probable that in understanding and applying the law in their specialised field the tribunal will have got it right: see <i>Cooke v Secretary of State for Social Security</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/734.html">[2002] 3 All ER 2 79</a>, para 16. They and they alone are the judges of the facts. It is not enough that their decision on those facts may seem harsh to people who have not heard and read the evidence and arguments which they have heard and read. Their decisions should be respected unless it is quite clear that they have misdirected themselves in law. Appellate courts should not rush to find such misdirections simply because they might have reached a different conclusion on the facts or expressed themselves differently.”</p>  
+<li value="71"><a name="para71"> There is no statutory right of appeal against the refugee status decision. Furthermore, as explained at para 72 below SC’s appeal on the ground that the deportation order breached the UK’s obligations under the Refugee Convention was dismissed and there has been no appeal from that decision.
+</a></li>
+<p> </p>  
+<p class="Paraheading2">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The judgments of the First-tier Tribunal, the Upper Tribunal and of the Court of Appeal</p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The judgment of the First-tier Tribunal</p>  
+<li value="72"><a name="para72"> SC appealed to the F-tT on several grounds including that the deportation decision would breach the UK’s obligations under article 33(1) of the Refugee Convention which sets out the “Prohibition of Expulsion or Return (‘Refoulement’)”. SC contended that the deportation decision would involve impermissibly returning him to Jamaica. However, certain refugees are excluded by article 33(2) from the protection provided by article 33(1) including those who have been convicted by a final judgment of a particularly serious crime and who constitute a danger to the community of the country in which he is. Section 72(2) NIAA 2002 provides that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote" style="text-align:justify">“A person shall be presumed to have been convicted by a final judgment of a particularly serious crime and to constitute a danger to the community of the United Kingdom if, he is (a) convicted in the United Kingdom of an offence, and (b) sentenced to a period of imprisonment of at least two years.”</p>  
+<p class="ParaNoNumber">SC satisfied both of those conditions having been convicted in the UK of an offence and having been sentenced to two years imprisonment. So, the presumption under section 72(2) NIAA 2002 of having been convicted of a particularly serious crime and of constituting a danger to the community of the United Kingdom applied. By virtue of section 72(6) the presumption that a person constitutes a danger to the community is rebuttable. The SSHD could have issued a certificate under section 72(9) that the presumption under subsection (2) applied to SC (subject to rebuttal). If a certificate had been issued then in respect of this ground of appeal it would have had the effect, under section 72(10), that the Tribunal hearing the appeal must begin substantive deliberation on the appeal by considering the certificate, and if in agreement that the presumptions under subsection (2), applied (having given the appellant an opportunity for rebuttal) must dismiss this ground of appeal. There was no such certificate. However, the F-tT judge proceeded on the basis of the presumption in section 72(2). She determined that SC was unable to rebut that presumption as he is a prolific offender and the risk that he would commit a violent crime within one or two years was described as very high. Accordingly, the F-tT judge dismissed SC’s ground of appeal in so far as it related to a contention that the deportation decision would breach the UK’s obligations under article 33(1) of the Refugee Convention. There is no appeal from that part of the F-tT judge’s decision.</p>  
+<li value="73"><a name="para73"> Another ground upon which SC appealed to the F-tT was that his removal from the United Kingdom in consequence of the immigration decision would be unlawful under section 6 of the Human Rights Act 1998 as being incompatible with his rights under articles 3 and 8 ECHR. The F-tT judge took into account the findings made by the Immigration Adjudicator in respect of SC’s mother’s successful asylum appeal in September 2003 together with the evidence from both SC and of his mother. I have summarised the uncontested factual findings at paras 6 to 11 above. The F-tT judge also referred to the University of Toronto’s country report on Jamaica updated on 23 July 2012 which showed widespread discrimination and violence against LGBT people which extended to family members and to those suspected of being homosexual. The F-tT judge found, at para 36, that there was a real risk of SC being subjected to further serious ill-treatment, in contravention of article 3 ECHR, owing to his mother’s sexuality if he were to be removed to Jamaica. Thereafter, the F-tT judge considered whether SC would be able to access the protection of the Jamaican authorities or whether he could avoid persecution by relocating internally within Jamaica.
+</a></li>
+<p> </p>  
+<li value="74"><a name="para74"> In relation to accessing the protection of the Jamaican authorities the F-tT judge had regard to the country guidance case of <i>SW (lesbians - HJ and HT applied) Jamaica CG </i></a><a title="Link to BAILII version" href="/uk/cases/UKUT/IAC/2011/00251_ukut_iac_2011_sw_jamaica_cg.html">[2011] UKUT 251 (IAC)</a> noting that the UT in that case found that “the Jamaican state offers lesbians no sufficiency of protection.” She also referred to the findings in 2003 of the Immigration Adjudicator which led to his finding that SC and his mother had been persecuted because she was a lesbian and that there was no effective state protection. She noted that the SSHD did not seek to argue that the position had improved since then. The F-tT judge found, at para 37, that SC would be unable to access state protection.
+</li>
+<p> </p>  
+<li value="75"><a name="para75"> In relation to the issue of internal relocation there was a considerable volume of evidence before the F-tT judge. Based on that evidence she found, at para 38, that the only possible area of safety might be a rural area. Thereafter, she considered whether SC could reasonably be expected to stay in a rural area by making a cumulative assessment of all the factors.
+</a></li>
+<p> </p>  
+<li value="76"><a name="para76"> The F-tT judge accepted the evidence contained in a report dated 5<sup> </sup>December 2013 from a psychotherapist, Lucy Kralj, that SC has a highly complex form of post-traumatic stress disorder (“PTSD”) and is “deeply traumatised”. She also accepted Ms Kralj’s description of SC as being “institutionalised”. The F-tT judge also found that SC had a “long history of depression” and that he requires long-term psychological treatment in relation to his mental health conditions.
+</a></li>
+<p> </p>  
+<li value="77"><a name="para77"> Before accepting Ms Kralj’s diagnosis the F-tT judge had considered the catalogue of traumatic abuse which SC had endured in Jamaica (see paras 6 to 10 above) including that SC had witnessed his mother being raped and assaulted on multiple occasions. In addition, SC disclosed to Ms Kralj that he had been raped by a number of adult males in Jamaica, during his childhood which had left him with physical injuries at the time. Furthermore, the F-tT judge had also considered SC’s social services records in the UK from 2003 onwards which catalogued substantial difficulties in his formative years in the UK together with abuse and neglect. Those records referred to his special educational needs, his aggressive outbursts at school, episodes of physical abuse at the hands of his mother, together with concerns by social services that he was being left alone at home and inadequately clothed and fed. There was also reference in the records to SC being exposed by his mother to inappropriate individuals in the UK and being rendered homeless following the grant of asylum. The F-tT judge considered it notable from one report that SC refused to talk about his home life or confide that his mother was beating him, and social services were aware of this only because of his mother’s admissions to them to this effect.
+</a></li>
+<p> </p>  
+<li value="78"><a name="para78"> In addition, the F-tT judge having seen SC giving evidence found that he was a witness of truth except for one issue which she did not consider to be material. Her assessment that SC was telling the truth coincided with a similar assessment by Ms Kralj. That assessment was explained by Ms Kralj in “exceptional detail” for instance, describing SC’s demeanour on multiple occasions, his lack of exaggeration of symptoms and his denial of some symptoms.
+</a></li>
+<p> </p>  
+<li value="79"><a name="para79"> The F-tT judge’s findings on the issue of internal relocation are contained in para 38 of the decision:
+</a></li>
+<p> </p>  
+<p class="MsoQuote" style="text-align:justify">“38.&nbsp;&nbsp;&nbsp;&nbsp; In terms of the issue of internal relocation, I do not accept that it is reasonable to expect [SC] to seek to reside in another area of Jamaica in order to avoid his own and his mother’s persecutors. [SC’s] only links in Jamaica are in the area of Kingston where he used to live with his mother and maternal grandparents. Neither remain in Jamaica. Firstly, [SC] has not lived in Jamaica since 2001, visited the country subsequently or been in contact with any party there. Secondly, [SC] is deeply traumatised and in need of long-term psychological treatment (he is also described by Ms Kralj as institutionalised) and thirdly, most employment opportunities are likely to be available in the capital. Therefore, in order to avoid persecution, [SC] would be faced with moving to a rural location in order to avoid the general population, where he would be unsupported, homeless, destitute, unemployed and in need of psychological treatment.”</p>  
+<li value="80"><a name="para80"> Accordingly, she found, at para 38, that it would be unreasonable “to expect [SC] to seek to reside in another area of Jamaica in order to avoid his own and his mother’s persecutors”. In arriving at her decision as to internal relocation being unreasonable, she did not take into account what was “due” to SC as a criminal. She allowed SC’s appeal on the basis that the deportation decision would be unlawful under section 6 of the Human Rights Act 1998 as being incompatible with the appellant’s rights under article 3 ECHR.
+</a></li>
+<p> </p>  
+<li value="81"><a name="para81"> For completeness the F-tT judge proceeded to consider SC’s ground of appeal under article 8 ECHR, notwithstanding that she had allowed his appeal under article 3.
+</a></li>
+<p> </p>  
+<li value="82"><a name="para82"> In considering whether SC’s deportation was incompatible with his rights under article 8 the F-tT judge correctly applied the version of the Immigration Rules which post-dated the changes made on 28 July 2014 identifying, at para 42, that SC came within para 398(b) of those rules as he had been convicted of an offence for which he had been sentenced to a period of imprisonment of less than four years but at least 12 months so that his deportation was conducive to the public good and in the public interest, unless in SC’s case, para 399A of the Immigration Rules applied. The F-tT judge found:
+</a></li>
+<p> </p>  
+<p class="ParaApprovedLevel2">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at para 45, in respect of para 399A(a) of the Immigration Rules that SC had been lawfully resident in the UK since 10 December 2002 when SC’s mother applied for asylum with SC as her dependant, so that for most of his life he has been lawfully resident in the UK;</p>  
+<p class="ParaApprovedLevel2">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at para 46, in respect of para 399A(b) of the Immigration Rules that SC had lived in the UK since the age of ten, he had attended school here, his mother and only sibling are settled here and his three children, with whom he wished to re-establish a relationship, were also settled here. She also found that SC had no contact with anyone in Jamaica and that his offending did not indicate a lack of social integration in the UK. Accordingly, SC was socially and culturally integrated in the UK; and</p>  
+<p class="ParaApprovedLevel2">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at para 47, in respect of para 399A(c) of the Immigration Rules that SC has no family in Jamaica, his maternal grandparents reside in America, he is not in contact with anyone in Jamaica, he was the victim of torture, and he is severely traumatised and in need of long-term specialist therapy. Accordingly, there would be very significant obstacles to his integration into Jamaica.</p>  
+<p class="ParaNoNumber">Accordingly, the F-tT judge found, at para 48, that SC was able to meet the requirements of para 399A of the Immigration Rules so that his deportation would be contrary to the UK’s obligations under article 8 ECHR.</p>  
+<li value="83"><a name="para83"> However, in case the F-tT judge was wrong about the calculation of SC’s lawful residence in the UK she went on to consider whether there were “very compelling reasons” (sic) which might outweigh the considerable weight to be given to the public interest in SC’s deportation. Accordingly, she carried out a proportionality assessment. She held at para 50 that SC’s removal would amount to an interference with his private life and that the interference was in pursuance of a legitimate aim, ie, the prevention of disorder and crime. In conducting the proportionality assessment, she had regard to the factors set out in section 117B and 117C of the NIAA 2002. In relation to section 117C(1) she held, at para 52, that deportation of SC as a foreign criminal was in the public interest. In relation to section 117C(2) she held his offending was “far from being at the lower end of the scale”. Section 117C(3) provides that the public interest requires SC’s deportation unless Exception 1 or Exception 2 applied. However, the F-tT judge held, at para 53, that Exception 1 applied as SC had been lawfully resident in the United Kingdom for most of his life, he was socially and culturally integrated in the United Kingdom, and there would be very significant obstacles to SC’s integration into Jamaica.
+</a></li>
+<p> </p>  
+<li value="84"><a name="para84"> Nonetheless the F-tT judge also considered, at paras 53 to 68 whether there were “very compelling reasons” such as to outweigh the considerable public interest in SC’s deportation. She found, at paras 63 to 66, that there were the following “compelling reasons” (as opposed to “very compelling circumstances”, as set out in the legislation), namely: (a) SC experienced ill-treatment in Jamaica; (b) SC has a particularly close relationship with his mother; (c) SC’s mother would seek to return to Jamaica with him, and this would be a disproportionate interference with her moral and physical integrity; (d) SC has severed ties with the gang of which he was a member; (e) SC may have been failed by the institutions in this country when he was a child; and (f) SC had made substantial progress, in a very short period of time, in turning his life around in view of his traumatic experiences in Jamaica and other life circumstances. She held, at para 67 that “an exception applies in [SC’s] case which renders his deportation contrary to article 8 of the ECHR.”
+</a></li>
+<p> </p>  
+<li value="85"><a name="para85"> Accordingly, having found that SC’s deportation was incompatible with his rights under both articles 3 and 8 ECHR, the F-tT judge held, at para 69, that the Exception to automatic deportation in section 33(1)(a) of the UKBA 2007 applied. At para 70, she allowed SC’s appeal.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The judgment of the Upper Tribunal</p>  
+<li value="86"><a name="para86"> On the SSHD’s appeal to the UT there was no challenge to the conclusion that SC’s deportation to Jamaica would expose him to a real risk of inhuman or degrading treatment in Kingston nor was there any challenge to the conclusion that no effective state protection was likely to be available to SC in Jamaica. The SSHD focused her challenge on the F-tT Judge’s findings relating to whether SC could avoid serious harm through internal relocation. The UT judge considered that the F-tT judge had referred herself to the correct test set out in<i> Januzi</i>, namely whether there was a safe area to which SC could relocate, and if there was, whether it was reasonable to expect SC to do so, to avoid serious harm. In relation to the first question the UT judge considered that it was reasonable for the F-tT judge to infer that the only possible area of safety might be a rural area. In relation to the second question the UT judge considered that it was open to the F-tT judge to make a cumulative assessment of a number of factors which taken as a whole rendered relocation unreasonable. Those factors included SC’s personal circumstances such as that he was deeply traumatised, had not lived in Jamaica since he was ten years old, had no remaining links to the country, was vulnerable as a result of past persecution, and it was reasonable to infer that he could only avoid persecution by going to a rural area where employment opportunities would be negligible compared to urban areas.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The judgment of the Court of Appeal</p>  
+<li value="87"><a name="para87"> Again, in the Court of Appeal there was no challenge to the conclusion that SC’s deportation to Jamaica would expose him to a real risk of inhuman or degrading treatment in Kingston, so that the only issue as to whether deportation would breach SC’s article 3 ECHR rights was as to internal relocation.
+</a></li>
+<p> </p>  
+<li value="88"><a name="para88"> Sir Ernest Ryder, the Senior President of Tribunals, with whose judgment Davis and Henderson LJJ agreed, considered at para 35, that the decision of the F-tT judge on the question of internal relocation was flawed. This was so for several reasons including, at para 40, “that SC’s criminality should have been considered and it was not.” The Senior President reached that conclusion after recording, at para 37, the SSHD’s challenge to the F-tT judge’s decision that SC’s criminal convictions were a relevant factor in relation to the reasonableness of internal relocation so that his “criminality may <i>turn</i> relocation from what would otherwise be an unduly harsh consequence into a consequence which is not unduly harsh” (emphasis added). The Senior President stated, at para 39, that the test in <i>Januzi</i> “was left intentionally broad” requiring consideration of “all relevant circumstances concerning the person and the country” and that “in principle [those circumstances] includes criminality.” It was recognised by the Senior President, at para 39, that criminality may be a factor of no weight and it “may change nothing”. However, adopting the language of criminality being a factor having a turning impact, the Senior President, stated, at para 39, that “it is difficult to characterise in what circumstances an unduly harsh consequence might be <i>turned</i> into a consequence that is not unduly harsh by this factor” (emphasis added). However, the Senior President considered that this difficulty in characterisation did not detract from the proposition that SC’s criminality was relevant to the reasonableness of internal relocation. In this regard, the Senior President concluded, at para 40:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“The phrase ‘unduly harsh’ imports a value judgment of what is ‘due’ to the person. It is possible to postulate that what may be an unduly harsh consequence for one person may not be an unduly harsh consequence for another person where the latter is a person who represents a danger to the community because he has committed serious offences.”</p>  
+<p class="ParaNoNumber">The Senior President continued, at para 41, to hold that the F-tT judge ought to have expressly weighed SC’s criminal activity in the balance in relation to internal relocation and at para 42 “that it is not possible to say that SC’s criminal convictions were properly considered.”</p>  
+<li value="89"><a name="para89"> The Senior President also considered, at para 36, that the decision of the F-tT judge on the question of internal relocation was flawed as the tribunal did not have sufficient factual material to undertake a holistic assessment as to whether it was reasonable or not unduly harsh to expect SC to relocate.
+</a></li>
+<p> </p>  
+<li value="90"><a name="para90"> The Senior President also considered that the F-tT judge did not analyse whether an article 8 interference was justified in accordance with the statutory scheme but rather she treated the article 8 analysis as a free-standing question outside the statutory scheme. As a result, the Senior President considered that “the evaluation [was] lacking in focus.”
+</a></li>
+<p> </p>  
+<li value="91"><a name="para91"> Accordingly, the Court of Appeal set aside the determinations of the UT and the F-tT in relation to both articles 3 and 8 ECHR and remitted the application to the F-tT for rehearing.
+</a></li>
+<p> </p>  
+<p class="Paraheading2">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The first issue: whether criminality is a relevant factor in determining the reasonableness of internal relocation</p>  
+<li value="92"><a name="para92"> In relation to this ground of appeal, Mr Husain on behalf of SC, contended that a person’s criminal convictions cannot justify, all else being equal, subjecting SC to a greater level of hardship than a person who does not have a criminal conviction, for the purpose of deciding whether it would be unreasonable or unduly harsh to expect him to internally relocate in Jamaica. Accordingly, Mr Husain contended that SC’s criminal conduct is of no relevance to whether internal relocation is unreasonable or unduly harsh.
+</a></li>
+<p> </p>  
+<li value="93"><a name="para93"> Contrary to the SSHD’s submissions before the Court of Appeal that SC’s “criminality may <i>turn</i> relocation from what would otherwise be an unduly harsh consequence into a consequence which is not unduly harsh” Mr Malik, in his oral submissions in this court, stated that it was not the SSHD’s case that a person’s criminal background meant that he should suffer more before relocation is determined to be unreasonable and he also accepted that a criminal should not have to tolerate harsher consequences simply because they are a criminal. Mr Malik accepted that the standard of reasonableness did not import a value judgment of what was “due” to the person and that the public interest in deporting foreign criminals cannot render internal relocation reasonable or not unduly harsh.
+</a></li>
+<p> </p>  
+<li value="94"><a name="para94"> However, Mr Malik contended that a person’s criminality might shed light on their robustness, their strength of character, their ability to plan, to interact with others, to make new links, to develop relationships and to adjust in difficult circumstances. Mr Malik submitted that it was only in this sense that a person’s criminality was relevant to the reasonableness of internal relocation in that a holistic assessment of all the circumstances includes specific reference to the individual’s personal circumstances including survival capacities. So, Mr Malik contended that the only relevance of a person’s criminality in determining the reasonableness of internal relocation was that it might have a bearing, one way or the other, on his survival capacities.
+</a></li>
+<p> </p>  
+<li value="95"><a name="para95"> The correct approach to the question of internal relocation under the Refugee Convention is that set out in <i>Januzi</i> at para 21 and in <i>AH (Sudan)</i> at para 13 (see paras 58 and 59 above). It involves a holistic approach involving specific reference to the individual’s personal circumstances including past persecution or fear thereof, psychological and health condition, family and social situation, and survival capacities in order to determine the impact on that individual of settling in the proposed place of relocation and whether the individual “can reasonably be expected to stay” in that place. It does not take into account the standard of rights protection which a person would enjoy in the country where refuge is sought. Also, as correctly conceded by the SSHD, it does not take into account what is “due” to the person as a criminal. There is no support for such an approach in domestic authority or in authority in any other jurisdiction. For instance, in Australia, Gummow, Hayne and Crennan JJ delivering the judgment of the High Court in <i>SZATV v Minister for Immigration and Citizenship</i> (2007) 233 CLR 18 stated, at para 24 that:
+</a></li>
+<p> </p>  
+<p class="MsoQuote">“What is ‘reasonable’, in the sense of ‘practicable’, must depend upon the particular circumstances of the applicant for refugee status and the impact upon that person of relocation of the place of residence within the country of nationality.”</p>  
+<p class="ParaNoNumber">This anchors the test of reasonableness of internal relocation on the particular circumstances of the individual and the impact upon that person of the proposed place of relocation. It says nothing as to what is “due” to the individual as a criminal.</p>  
+<li value="96"><a name="para96"> The Court of Appeal, at para 40 of the Senior President’s judgment, imported a value judgment of what is “due” to the person as a criminal into the question as to whether internal relocation was reasonable or not unduly harsh (see para 88 above). I consider that this was an error of law.
+</a></li>
+<p> </p>  
+<li value="97"><a name="para97"> On behalf of the SSHD it was contended that criminality may say something about a person’s character or life chances both of which are relevant to a holistic assessment of whether internal relocation is reasonable or not unduly harsh. For instance, criminal convictions may make it harder for a person to obtain employment in the place of internal relocation or they may say something about the person’s robustness and ability to adapt. However, I consider that the F-tT judge did consider SC’s criminality in that limited sense. The F-tT judge gave extensive consideration to SC’s character against the backdrop of all the offences which he had committed, finding, on the basis of uncontested evidence, that SC was not robust but rather was “deeply traumatised”. The reasoning of the F-tT judge in relation to her finding that SC would be “destitute” and “unemployed” in rural areas of Jamaica was based on her finding that most employment opportunities were likely to be available in the capital. However, on a fair reading of her judgment SC’s lack of employment prospects in rural areas was also based on his deeply traumatised condition. It is correct that the F-tT judge did not expressly consider the impact of SC’s criminality on his employment prospects in rural areas of Jamaica but if she had done so she would have been entitled to find this to have been an additional reason as to why he would be destitute and unemployed in rural areas of Jamaica. Furthermore, I consider that if the SSHD had sought to obtain findings of fact based on SC’s character informed by his criminality then that should have been raised before the F-tT judge.
+</a></li>
+<p> </p>  
+<li value="98"><a name="para98"> In determining this ground of appeal, this court, like the UT and the Court of Appeal, must ask itself whether the F-tT judge was wrong in her approach to SC’s criminality when considering the issue as to whether SC “can reasonably be expected to stay” in a rural area of Jamaica: see the judgment of Lord Carnwath JSC in <i>R (R) v Chief Constable of Greater Manchester Police</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2018/47.html">[2018] UKSC 47</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2018/47.html">[2018] 1 WLR 4079</a>, paras 53 to 64. I consider that the approach of the F-tT judge was in accordance with the test for internal relocation applicable in relation to an application for asylum which by concession applies with “equal cogency to article 3 claims of this nature”. It was also in accordance with paragraph 339O of the Immigration Rules. I would allow this ground of appeal.
+</li>
+<p> </p>  
+<p class="Paraheading2">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The second issue: did the F-tT judge err in law in holding that SC could not reasonably be expected to stay in a rural area of Jamaica</p>  
+<li value="99"><a name="para99"> The Court of Appeal considered, at para 36 of the judgment of the Senior President, that the decision of the F-tT judge on the question of internal relocation was flawed as the tribunal did not have sufficient factual material to undertake a holistic assessment as to whether it was reasonable or not unduly harsh to expect SC to relocate.
+</a></li>
+<p> </p>  
+<li value="100"><a name="para100"> In relation to this ground of appeal, Mr Husain, on behalf of SC, contended that the Court of Appeal subjected the reasoning of the F-tT judge to an unduly critical analysis which failed to take account of the submissions before her and of the evidence she considered and accepted. Mr Malik, on behalf of the SSHD, contends that the F-tT judge gave inadequate reasons for her conclusions, failed to take into account material matters and made findings without proper evidential foundation.
+</a></li>
+<p> </p>  
+<li value="101"><a name="para101"> I can deal with this ground of appeal briefly. First, the nature of the F-tT judge’s task will vary depending on the way the case has been presented by the parties and on the evidence before her. Second, the SSHD raised the issue of internal relocation without identifying any specific area where she contended that SC would be safe. I consider on the evidence before her that it was reasonable for the F-tT judge to infer that the only possible area of safety might be a rural area. Third, the F-tT judge found based on medical evidence, which was essentially accepted by the SSHD, that SC had a highly complex form of PTSD, had a long history of depression, was deeply traumatised, could be described as “institutionalised” and was in need of long-term psychological treatment. Based on those findings alone it was open to the F-tT judge to determine that it was unreasonable for him to relocate to a rural area of Jamaica. I consider that this conclusion was not only open to the F-tT judge but was inevitable given the additional factors she enumerated including that SC had not lived in Jamaica since 2001, had not visited the country subsequently or been in contact with any person there. A lack of family or personal connections anywhere in Jamaica, a lack of familiarity with any area outside Kingston, and a lengthy separation from the country’s society and culture, could only make it more difficult for SC to establish himself in an unfamiliar rural area. I also consider that it is unfair to criticise the F-tT judge’s finding that “most employment opportunities are likely to be available in the capital” given the absence of any argument or evidence before her advanced on behalf of the SSHD in relation to there being adequate employment opportunities for a deeply traumatised person in the rural areas of Jamaica.
+</a></li>
+<p> </p>  
+<li value="102"><a name="para102"> I can discern no error of law made by the F-tT judge. I would allow this ground of appeal.
+</a></li>
+<p> </p>  
+<p class="Paraheading2">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conclusion in relation to article 3 ECHR</p>  
+<li value="103"><a name="para103"> SC cannot “reasonably be expected to stay” in the rural areas of Jamaica which in turn means that the SSHD’s deportation decision in relation to SC is unlawful under section 6 of the Human Rights Act 1998 as being incompatible with SC’s article 3 ECHR rights and not in accordance with paragraph 339O of the Immigration Rules. The overall outcome is that SC succeeds on the article 3 ECHR ground and on the ground that the deportation decision was not in accordance with paragraph 339O of the Immigration Rules.
+</a></li>
+<p> </p>  
+<p class="Paraheading2">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The third issue: did the F-tT judge err in her assessment of sections 117C(4)(b)-(c) of the NIAA 2002 and paragraph 399A(b)-(c) of the Immigration Rules</p>  
+<li value="104"><a name="para104"> There is no dispute that SC met the first criteria in Exception 1 as contained in section 117C(4) and in paragraph 399A of the Immigration Rules, namely that SC “has been lawfully resident in the United Kingdom for most of [his] life.” This ground of appeal concerns the second and third criteria in Exception 1 as contained in both section 117C(4) and in paragraph 399A, namely (b) whether SC “is socially and culturally integrated in the United Kingdom” and (c) whether “there would be very significant obstacles to [SC’s] integration” into Jamaica.
+</a></li>
+<p> </p>  
+<li value="105"><a name="para105"> The F-tT judge considered Exception 1 by reference to each of the criteria in paragraph 399A of the Immigration Rules (see para 82 above). It would have been correct for the F-tT judge to have considered both paragraph 399A and section 117C of the NIAA 2002. However, the terms of paragraph 399A are in exactly the same terms as section 117C(4) of the NIAA 2002 so that in considering the criteria in paragraph 399A the F-tT judge was also considering the criteria in section 117C(4). Furthermore, the F-tT judge also meticulously considered the criteria in section 117C (see para 83 above) but at a later stage when carrying out a full proportionality assessment. I consider that the failure by the F-tT judge to follow the correct structure had no bearing on the outcome. Her approach did not lack focus but rather faithfully followed paragraph 399A of the Immigration Rules. Exception 1 is precisely defined by three factual issues, none of which turn on the seriousness of the offence, but, for a sentence of less than four years, they are enough, if they are met, to remove the public interest in deportation. The F-tT judge, as she was required to do, considered each of those factual issues. I respectfully disagree that at this stage of her analysis she treated the article 8 analysis as a free-standing question outside the statutory scheme. It was only after she had determined Exception 1 in favour of SC by reference to paragraph 399A of the Immigration Rules that she went on in the alternative to undertake a full proportionality assessment in case she was wrong as to the period of SC’s lawful residence in the UK.
+</a></li>
+<p> </p>  
+<li value="106"><a name="para106"> In relation to the issue as to SC’s social and cultural integration in the UK Mr Malik on behalf of the SSHD submitted that the F-tT judge had failed to pay adequate regard to SC’s membership of criminal gangs. In that respect Mr Malik relied on the decision of the Court of Appeal in <i>Binbuga v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2019/551.html">[2019] EWCA Civ 551</a>, paras 56 and 57. Clearly membership of criminal gangs can tell against social integration but whether it does will depend on the facts of the individual case. In this case the F-tT judge was aware of and specifically considered SC’s criminality and his previous gang membership in the context of his social and cultural integration in the UK. Having considered those factors she was entitled to conclude that SC was socially and culturally integrated in the UK.
+</li>
+<p> </p>  
+<li value="107"><a name="para107"> In relation to the issue as to whether “there would be very significant obstacles to [SC’s] integration” into Jamaica, Mr Malik on behalf of the SSHD submitted that the F-tT judge had failed to pay adequate regard to SC’s criminality as potentially showing a certain robustness of character. I reject this submission. The F-tT judge considered in meticulous detail all the evidence as to SC’s character concluding that SC had a highly complex form of PTSD, had a long history of depression, was deeply traumatised, could be described as institutionalised and needed long-term psychological treatment. Based on those findings alone it was open to the F-tT judge to determine that there would be “very significant obstacles to [SC’s] integration” into Jamaica.
+</a></li>
+<p> </p>  
+<li value="108"><a name="para108"> I can discern no error of law made by the F-tT judge. I would allow this ground of appeal which means that the SSHD’s deportation decision in relation to SC is unlawful under section 6 of the Human Rights Act 1998 as being incompatible with SC’s article 8 ECHR rights and was not in accordance with 399A of the Immigration Rules.
+</a></li>
+<p> </p>  
+<p class="Paraheading2">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The fourth issue: did the F-tT judge err in law in embarking on a freestanding assessment of article 8 ECHR</p>  
+<li value="109"><a name="para109"> In <i>NA (Pakistan) v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/662.html">[2016] EWCA Civ 662</a>;<i> </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2016/662.html">[2017] 1 WLR 207</a>, paras 25 to 27, the Court of Appeal concluded that there is an obvious drafting error in section 117C(3) of the NIAA 2002 which must have been intended to afford the same fall-back protection to those sentenced to imprisonment for at least 12 months but less than four years (described in the case law as “medium offenders”) as is available under subsection (6) to those sentenced to more than four years’ imprisonment (described in the case law as “serious offenders”) of relying on “very compelling circumstances, over and above those described in Exceptions 1 and 2”. The Court of Appeal held that section 117C(3) is to be construed as containing such a fall-back provision. On the hearing of this appeal Mr Malik accepted that there had been a drafting error in section 117C(3) so that it was appropriate in relation to a medium offender who does not fall within Exception 1 or 2 thereafter to consider whether there are “very compelling circumstances, over and above those described in Exceptions 1 and 2” such as to outweigh the public interest in the deportation of a foreign criminal. Given that concession I proceed on the basis that there is this fall back in relation to medium offenders.
+</li>
+<p> </p>  
+<li value="110"><a name="para110"> The F-tT judge in promulgating her decision on 6 March 2015, some one year and three months prior to the decision in <i>NA (Pakistan)</i> being handed down on 29 June 2016 substantially applied the decision-making structure which follows from that decision. First, she considered Exception 1 finding that SC fell within that Exception. This conclusion determined the article 8 ECHR ground in SC’s favour. Second, it was only thereafter and in case she was wrong in relation to one of the criteria in Exception 1, that she considered whether there were “very compelling circumstances, over and above those described in Exceptions 1 and 2.” She carried out a full proportionality exercise, conducted by reference to “very compelling circumstances, over and above those described in Exceptions 1 and 2”. She found that there were such circumstances (see para 84 above).
+</a></li>
+<p> </p>  
+<li value="111"><a name="para111"> On the basis that the decision in <i>NA (Pakistan) </i>is correct, it follows that in cases where the two Exceptions do not apply, a full proportionality assessment is required, weighing the interference with the article 8 rights of the potential deportee and his family against the public interest in his deportation. In conducting that assessment, the decision-maker is required by section 117C(6) (and paragraph 398 of the Immigration Rules) to proceed on the basis that “the public interest requires deportation unless there are very compelling circumstances over and above those described in Exceptions 1 and 2”. I consider that was the approach adopted by the F-tT judge. I reject the submission that she carried out a free-standing exercise. I also reject the submission that she failed to give sufficient weight to the public interest in SC’s deportation. This was expressly considered by her (see para 83 above).
+</a></li>
+<p> </p>  
+<li value="112"><a name="para112"> Mr Malik on behalf of the SSHD criticises the F-tT judge on the basis that she used the terminology of “very compelling reasons” and “compelling reasons” (see para 84 above). On a literal reading of those parts of her decision the statutory test was misdescribed but that is to ignore that the F-tT judge had made express reference to section 117C and as an expert tribunal judge was aware of and in substance directed herself in accordance with the applicable statutory test.
+</a></li>
+<p> </p>  
+<li value="113"><a name="para113"> It is appropriate to recognise the limited issues raised by the SSHD in respect of this ground of appeal. The SSHD did not seek to contend that any of the various circumstances summarised in para 84 above were immaterial to a proportionality assessment or that there was any error of law in attributing weight to any of them.
+</a></li>
+<p> </p>  
+<li value="114"><a name="para114"> I can discern no error of law made by the F-tT judge in the structure she followed, in the weight which she gave to the public interest in SC’s deportation or in the test which she applied. I would allow this ground of appeal.
+</a></li>
+<p> </p>  
+<p class="Paraheading2">10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conclusion</p>  
+<li value="115"><a name="para115"> I would allow the appeal reinstating the decision of the F-tT judge.
+</a></li>
+<p> </p>  <span style="font-size:13.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif"><br clear="all" style="page-break-before:always"> </span>  
+<p class="MsoNormal" style="margin-bottom:8.0pt;line-height:107%"><span style="font-size:13.0pt;line-height:107%">&nbsp;</span></p>  
+<p class="ParaHeading1" align="center" style="text-align:center">Annex 1</p>  
+<li value="116"><a name="para116"> The legal landscape is complicated by numerous amendments during the relevant period, which then requires consideration of associated transitional provisions.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amendments to the immigration and asylum appeals regime</p>  
+<li value="117"><a name="para117"> The appeal to the F-tT is a statutory appeal under Part 5 NIAA 2002. The appeal regime, in so far as relevant is set out in sections 81, 82 and 84 in Part 5 NIAA 2002. The SSHD’s deportation decision in respect of SC was made on 20 March 2013 but Part 5 was amended after that decision was made. So, the first question is whether the unamended appeal regime in Part 5 and in particular whether the permissible grounds of appeal in the unamended section 84 apply to SC’s case. To answer that question the starting point is section 15 of the Immigration Act 2014 which amended Part 5 into substantially its present form. Section 15 was brought into force on 20 October 2014 by Immigration Act 2014 (Commencement No 3, Transitional and Saving Provisions) Order 2014 (SI 2014/2771) (“No 3 Commencement Order”), article 2(a). By article 9 of the No 3. Commencement Order, this amendment only had effect in relation to persons set out in articles 10 and 11. SC was not a person to whom articles 10 or 11 applied so that the pre-amendment Part 5 appeal regime therefore continued to apply to him.
+</a></li>
+<p> </p>  
+<li value="118"><a name="para118"> On 10 November 2014, the Immigration Act 2014 (Transitional and Saving Provisions) Order 2014 (SI 2014/2928) came into force. Article 2(1)(b) applied section 15 of the Immigration Act 2014 “in relation to a deportation decision made by the Secretary of State on or after 10 November 2014” in respect of a person who is a foreign criminal. Again, this did not apply to the SC’s case, because the deportation decision in his case had been made on 20 March 2013.
+</a></li>
+<p> </p>  
+<li value="119"><a name="para119"> After the F-tT’s decision was given on 6 March 2015, a new form of article 9 of the No 3 Commencement Order was substituted with effect from 6 April 2015 by the Immigration Act 2014 (Commencement No 4, Transitional and Saving Provisions and Amendment) Order 2015 (SI 2015/371) (“No 4 Commencement Order”), article 8. Article 9(1) applied section 15 of the Immigration Act 2014 generally, subject to certain exceptions listed in paragraphs (a)-(d). These included, at (d), “a decision made before 6th April 2015 in relation to which, immediately before 6th April 2015, an appeal could have been brought or was pending under the saved provisions”. On 6 April 2015, SC’s appeal was “pending” because the SSHD’s application for permission to appeal the First-tier Tribunal’s decision (under Tribunals, Courts and Enforcement Act 2007 section 11) was pending: see the meaning of “pending” under NIAA 2002, section 104. SC’s appeal therefore fell under article 9(1)(d) of the No 3 Order (as amended), and the “saved provisions”, that is the pre-amendment appeal regime therefore continued to apply to his appeal.
+</a></li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Article 8 ECHR:&nbsp; legislative amendment specifying public interest considerations</p>  
+<li value="120"><a name="para120"> Another relevant amendment made after the date of the deportation decision on 20 March 2013 was to the statutory framework applicable when a court or tribunal is required to determine whether a decision under the Immigration Acts breaches a person’s right to respect for private and family life under article 8 ECHR and as a result would be unlawful under section 6 of the Human Rights Act 1998. On 28 July 2014, the Secretary of State introduced substantially the same provisions as contained in paragraphs 398, 399 and 399A of the Immigration Rules, as primary legislation by way of section 19 of the Immigration Act 2014. Section 19 of the Immigration Act 2014 inserted Part 5A into the NIAA 2002, which sets out a scheme in relation to the same three categories of foreign criminal as identified in the Immigration Rules. Part 5A, for instance provides that, in considering the public interest question under article 8 ECHR, the court or tribunal must, in particular, have regard in all cases to the considerations listed in the new section 117B and, in cases concerning the deportation of foreign criminals, must also have regard to the considerations listed in new section 117C. Section 19 of the Immigration Act 2014 was brought into force by the Immigration Act 2014 (Commencement No 1, Transitory and Saving Provisions) Order 2014 (“No 1 Commencement Order”), article 3(o), with effect from 28 July 2014. In <i>YM (Uganda) v Secretary of State for the Home Department</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/1292.html">[2014] EWCA Civ 1292</a> the Court of Appeal (Aikens LJ, Sir Colin Rimer and Sir Stanley Burnton) (at para 38) held that the new Part 5A applied, from 28 July 2014, where any tribunal or court was determining whether a decision made under the Immigration Acts breached a person’s rights under ECHR article 8, regardless of when that decision was made. Part 5A therefore applied to the F-tT’s decision made on 6 March 2015.
+</li>
+<p> </p>  
+<p class="ParaSubHeading3" style="margin-left:36.0pt">(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Article 8 ECHR:&nbsp; amendment to the Immigration Rules affecting the deportation regime</p>  
+<li value="121"><a name="para121"> The Immigration Rules were amended by a Statement of Changes to the Immigration Rules of 10 July 2014 (HC 532) which was laid before Parliament on 10 July 2014. In <i>YM (Uganda) v Secretary of State for the Home Department</i> the Court of Appeal held that this amended form of the Immigration Rules applied to decisions by tribunals and the courts from 28 July 2014. These amended rules therefore applied to the F-tT’s decision made on 6 March 2015.
+</a></li>
+<p> </p></ol>  </div>  
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+<a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2022/15.html</i>
+</small>
+<p></p>
+
+  
+ 
+
+
+</body></html>

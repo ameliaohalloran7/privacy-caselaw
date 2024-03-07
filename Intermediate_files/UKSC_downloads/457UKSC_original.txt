@@ -1,0 +1,422 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>McBride v Scottish Police Authority (Scotland) [2016] UKSC 27 (15 June 2016)</title> 
+<style> <!-- /* Font Definitions */ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:"Segoe UI"; panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face {font-family:"Univers \(W1\)"; panose-1:0 0 0 0 0 0 0 0 0 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Times New Roman",serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} a:link, span.MsoHyperlink {color:blue; text-decoration:underline;} a:visited, span.MsoHyperlinkFollowed {color:#954F72; text-decoration:underline;} p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {mso-style-link:"Balloon Text Char"; margin:0cm; margin-bottom:.0001pt; font-size:9.0pt; font-family:"Segoe UI",sans-serif;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; line-height:106%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst {margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; margin-bottom:.0001pt; line-height:106%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle {margin-top:0cm; margin-right:0cm; margin-bottom:0cm; margin-left:36.0pt; margin-bottom:.0001pt; line-height:106%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:36.0pt; line-height:106%; font-size:11.0pt; font-family:"Calibri",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote {margin-top:0cm; margin-right:36.0pt; margin-bottom:26.0pt; margin-left:36.0pt; text-align:justify; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaHeading, li.ParaHeading, div.ParaHeading {mso-style-name:ParaHeading; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman",serif; font-style:italic;} p.Title1, li.Title1, div.Title1 {mso-style-name:Title1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:72.0pt; text-align:center; font-size:13.0pt; font-family:"Times New Roman",serif; font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber {mso-style-name:ParaNoNumber; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1 {mso-style-name:ParaLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2 {mso-style-name:ParaLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:35.45pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3 {mso-style-name:ParaLevel3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:70.9pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel4, li.ParaLevel4, div.ParaLevel4 {mso-style-name:ParaLevel4; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:106.35pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel5, li.ParaLevel5, div.ParaLevel5 {mso-style-name:ParaLevel5; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:141.8pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel6, li.ParaLevel6, div.ParaLevel6 {mso-style-name:ParaLevel6; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:177.25pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel7, li.ParaLevel7, div.ParaLevel7 {mso-style-name:ParaLevel7; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:212.7pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel8, li.ParaLevel8, div.ParaLevel8 {mso-style-name:ParaLevel8; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:248.15pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel9, li.ParaLevel9, div.ParaLevel9 {mso-style-name:ParaLevel9; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:283.6pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.Caveat, li.Caveat, div.Caveat {mso-style-name:Caveat; margin:0cm; margin-bottom:.0001pt; text-align:justify; border:none; padding:0cm; font-size:10.0pt; font-family:"Times New Roman",serif; font-weight:bold;} p.NewSpeech, li.NewSpeech, div.NewSpeech {mso-style-name:NewSpeech; margin-top:39.0pt; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman",serif; text-transform:uppercase; font-weight:bold;} p.WorkingDate, li.WorkingDate, div.WorkingDate {mso-style-name:WorkingDate; margin:0cm; margin-bottom:.0001pt; text-align:right; font-size:18.0pt; font-family:"Times New Roman",serif; font-weight:bold;} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Segoe UI",sans-serif;} .MsoChpDefault {font-size:10.0pt;} /* Page Definitions */ @page WordSection1 {size:595.3pt 841.9pt; margin:42.55pt 72.0pt 72.0pt 90.0pt;} div.WordSection1 {page:WordSection1;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> </style> <style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head> 
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      McBride v Scottish Police Authority (Scotland) [2016] UKSC 27 (15 June 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/27.html</i>
+<br>Cite as: 
+[2016] IRLR 633,
+
+2016 GWD 19-339,
+
+[2016] ICR 788,
+
+[2017] 2 All ER 875,
+
+2017 SC (UKSC) 1,
+
+[2016] UKSC 27,
+
+[2016] WLR(D) 308
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/27.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+308">[2016] WLR(D) 308</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+ICR+788">[2016] ICR 788</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+ 
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/27(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1"> 
+<p class="MsoNormal" align="right" style="text-align:right">
+
+<a name="Text12">
+<b>Trinity Term</b></a></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<b>[2016] UKSC 27</b></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2013/2013CSIH4.html">[2013] CSIH 4</a></i></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+</p><center><b>
+<span style="font-size:20.0pt">JUDGMENT</span></b><p></p> 
+<p class="MsoNormal">
+<b>&nbsp;</b></p> 
+<p class="MsoNormal">
+<b>&nbsp;</b></p> 
+<p class="Title1" align="left" style="margin-left:0cm">
+<span style="font-size:20.0pt">McBride (Appellant) 
+<i>v</i> Scottish Police Authority (Respondent) (Scotland)</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:14.0pt">before</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lady Hale, Deputy President</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Clarke</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Wilson</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Reed</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Hodge</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:18.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:18.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:18.0pt">15 June 2016</span></b></p> 
+<p class="MsoNormal" style="text-indent:-288.0pt">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:15.0pt">Heard on 3 March 2016</span></b></p> 
+<p class="MsoNormal">&nbsp;</p> 
+<p class="MsoNormal">&nbsp;</p> 
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> 
+<tbody><tr style="height:69.0pt"> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt; height:69.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Appellant</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">Calum MacNeill QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Kenneth Gibson</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Thorley Stephenson SSC)</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt; height:69.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt; height:69.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Respondent</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">Brian Napier QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Tom Brown</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Maclay Murray &amp; Spens LLP)</p> </td> </tr> </tbody></table> </center>
+<p class="MsoNormal">&nbsp;</p> 
+<p class="MsoNormal">&nbsp;</p> 
+<p class="MsoNormal">
+
+<span style="font-size:15.0pt">&nbsp;</span></p> 
+<p class="NewSpeech">LORD HODGE: (
+<span style="text-transform:none">with whom Lady Hale, Lord Clarke, Lord Wilson and Lord Reed agree)</span></p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The appellant ("Ms McBride") was unfairly dismissed. The Employment Tribunal ordered her reinstatement. The issue in this appeal is whether the tribunal erred in so doing.</a></p><a name="para1"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The appeal stems from the controversy created by the disputed identification by four fingerprint officers in the Scottish Criminal Records Office ("the SCRO") of a fingerprint in a murder inquiry in 1997. They identified the print which was found at the locus of the murder as being that of Detective Constable Shirley McKie. David Asbury was tried and convicted of the murder, but his conviction was later quashed. As a result of the disputed identification, DC McKie was charged with perjury for giving evidence, in the trial, that she had had never been to the place where the fingerprint was found. During DC McKie's trial differences of opinion were expressed about the identification, and she was acquitted of perjury. A number of investigations followed which generated intense media interest and criticism of the fingerprint service in Scotland.</a></p><a name="para2"> 
+<p class="ParaHeading">Factual background</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride was employed as a fingerprint officer in the SCRO from 1984. She was originally employed by the Strathclyde Joint Police Board but her employment was transferred to the Scottish Police Services Authority ("the SPSA") with effect from 1 April 2007. Her dismissal from employment occurred on 1 May 2007 in the context of that transfer.</a></p><a name="para3"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride and three other officers were suspended from duties from 3 August 2000 until 20 May 2002, while investigations were undertaken. One investigation concluded that the four experts had not been guilty of any malicious wrongdoing. The Black report of February 2002 concluded that "no matters of misconduct or lack of capability have taken place in the work surrounding [the fingerprint which was the subject of the disputed identification]" and recommended that the four experts be returned to their normal positions without any disciplinary action being taken. On 20 May 2002 Ms McBride and the other three experts returned to work on restricted duties.</a></p><a name="para4"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It should be explained that the SCRO fingerprint bureau provided services for the police and the Crown Office. The duties of fingerprint experts included signing reports on fingerprint identification for use in criminal trials and giving evidence at such trials. Because Scots criminal law requires corroboration, it was and is the practice for fingerprint experts to produce joint reports and for both experts to be available, if required, to give oral evidence in support of their findings, although frequently their report is accepted by the defence or, if it is not, only one of the two signatories gives oral evidence at trial.</a></p><a name="para5"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On return to work Ms McBride and the other three experts resumed work on restricted duties but also undertook an extensive retraining programme over 12 to 18 months with a view to their return to full duties, including the signing of joint reports and giving evidence in court. The four experts sought to return to full duties but were not allowed to do so.</a></p><a name="para6"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The problem was that there remained disagreement between fingerprint experts, within the SCRO, nationally and internationally, over the disputed identification. It was and is the task of prosecuting counsel in the Crown Office, under the direction of the Lord Advocate, to select witnesses to give evidence in trials. There were concerns in the Crown Office that the use of any of the four experts in a criminal trial would encourage defence counsel to cross-examine on matters relating to the DC McKie controversy in order to weaken the significance of the fingerprint evidence in the eyes of the jury. In September 2006, Lord Boyd of Duncansby, who was then Lord Advocate, gave evidence to the Scottish Parliament's Justice 1 Committee, which was inquiring into the SCRO and the Scottish Fingerprint Service. He was asked whether the Crown Office intended to call the fingerprint officers involved in the DC McKie case as expert witnesses in the future. In response he expressed the view that a trial in which any of those officers gave evidence might become a trial of the fingerprint officer rather than the accused and that this was a situation that he wished to avoid.</a></p><a name="para7"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride and her colleagues remained on restricted duties. In their evidence to the Employment Tribunal some of her colleagues stated that she fulfilled a worthwhile role and had made a valuable contribution to her department. Two managers who had direct experience of her work gave evidence that she was seen as trustworthy and conscientious. See para 43 below.</a></p><a name="para8"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>After the Scottish Government had announced its intention to establish the SPSA, the Justice Minister instructed Assistant Chief Constable David Mulhern to review the Scottish fingerprint service and produce an action plan to develop it "as an integrated part of the new Scottish Forensic Science Service". Mr Mulhern was appointed the interim chief executive of the SPSA, which was intended to bring together the work of five separate bodies. Because of the continued disagreements over the disputed identification, Mr Mulhern saw the creation of a new fingerprint service within the Scottish Forensic Science Service as of the utmost importance.</a></p><a name="para9"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In the lead-in to the creation of the SPSA, Mr Mulhern made it clear that he did not want Ms McBride and the other three experts involved in the disputed identification to transfer to the SPSA. At a meeting on 12 September 2006 between representatives of the employer and trade union representatives he stated that there would be an opportunity to take redeployment within Strathclyde Police and that he had not considered the possibility that the fingerprint officers might return to full duties. Ms McBride wanted to return to full duties and expected that the question of her return to full duties would be discussed after her transfer to the SPSA.</a></p><a name="para10"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride's employment transferred to the SPSA on 1 April 2007. She was invited to a meeting on the next day to discuss redeployment. She asked her employer's representatives to disclose who had made the decision to consider only redeployment, and when and why that decision had been made. Her questions were not answered correctly until 27 April 2007.</a></p><a name="para11"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On 1 May 2007 at a meeting chaired by Mr Tom Nelson, the SPSA's director of forensic services, Ms McBride said that she was willing to discuss redeployment but wished an opportunity to discuss reinstatement to unrestricted duties before she considered redeployment. There was no discussion at the meeting of her returning to unrestricted duties or of the status quo of restricted duties continuing. On the same day, Mr Nelson gave Ms McBride a letter in which he informed her that her employment would terminate forthwith because of her "inability to carry out the full range of [her] duties and the failure to identify any suitable redeployment options for [her]".</a></p><a name="para12"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride's internal appeal against her dismissal was unsuccessful. She presented a complaint of unfair dismissal to an Employment Tribunal. Before discussing the legal proceedings, I mention, first, the terms of her contract of employment and, secondly, later events.</a></p><a name="para13"> 
+<p class="ParaHeading">The contract of employment</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride's job description stated her job title as "fingerprint officer" and described her main functions "as a fingerprint expert" as being "to provide an efficient and effective identification support to operational police personnel". Of the 12 listed job activities, one and part of another had become excluded duties as a result of the SPSA's decision that she was not to give evidence in court. They were:</a></p><a name="para14"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"2. To prepare court cases and give evidence as required.</p> 
+<p class="MsoQuote" style="margin-top:0cm;margin-right:36.0pt;margin-bottom:0cm; margin-left:72.0pt;margin-bottom:.0001pt">3. To check and sign identifications prepared by other</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">Fingerprint Officers and trainee Fingerprint Officers."</p> 
+<p class="ParaLevel1">Ms McBride could not give evidence in court and so could not perform task 2. She was able to check identifications under task 3 above. But she could not sign the identifications because she was not allowed to give evidence in court. Other activities, such as examining the fingerprints lifted by scene of crime officers, assessing and verifying identifications, validating fingerprint classifications, preparing and collating statistical information, liaising with investigating officers, assimilating new technology and assisting in the training of fingerprint trainees, remained open to her.</p> 
+<p class="ParaHeading">Later events</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A public judicial inquiry, "the Fingerprint Enquiry", chaired by Sir Anthony Campbell, reported in December 2011 (after the decision of the Employment Appeal Tribunal discussed below). It concluded among other things that Ms McBride and her colleagues had not acted improperly in identifying the fingerprint, although it was not DC McKie's fingerprint.</a></p><a name="para15"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>David Mulhern ceased to be the chief executive officer and left the employment of the SPSA in April 2009. The SPSA ceased to exist on 1 April 2013 and its rights and obligations were transferred to the respondent ("the SPA").</a></p><a name="para16"> 
+<p class="ParaHeading">The legal proceedings</p> 
+<p class="ParaHeading" style="margin-left:36.0pt">(i) The Employment Tribunal</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Employment Tribunal ("the ET") in a judgment dated 26 January 2009 found that Ms McBride had been unfairly dismissed. Because the arguments which this court has heard in this appeal have included opposing interpretations of the ET's judgment and reasons and the appeal turns on whether the ET erred in law, it is necessary to set out the relevant part of the judgment and to refer to parts of the supporting reasoning.</a></p><a name="para17"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The ET in its judgment ordered Ms McBride's reinstatement in these terms:</a></p><a name="para18"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"The claimant shall be reinstated by the respondent to the position of Fingerprint Officer and treated in all respects as if she had not been dismissed."</p> 
+<p class="ParaLevel1">The judgment also awarded Ms McBride a sum as arrears of pay from the date of her dismissal and ordered the SPSA to restore to her "all rights and privileges, including pension rights, to which [she] was entitled at the time of her dismissal".</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In its reasons, the ET set out the reasons for its judgment in detail and with thoroughness. After finding that the dismissal of Ms McBride had been unfair, the ET turned to the question of remedy. In para 356 the ET commenced its discussion by stating:</a></p><a name="para19"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"We must now consider the issue of remedy. The claimant seeks reinstatement if successful, and we firstly considered this matter 
+<u>(it being understood that reinstatement would be to a non court going fingerprint officer role</u>)."</p> 
+<p class="MsoQuote" style="margin-left:0cm">(emphasis added as counsel for the SPA submitted that this demonstrated an error of law)</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The ET then referred to sections 114 and 116 of the Employment Rights Act 1996 ("the 1996 Act") and addressed the question whether it was practicable for the SPSA to comply with an order for reinstatement. The ET referred to press articles about Mr Mulhern's alleged wish to force the resignation of staff involved in the disputed identification. It rejected the idea that the articles demonstrated a breakdown in the trust and confidence between Ms McBride and Mr Mulhern. It acknowledged that Ms McBride had had legitimate concerns when she had raised a grievance when Mr Mulhern was appointed. The ET also held (para 370) that Ms McBride was right in her belief that Mr Mulhern had deliberately not provided her with full and accurate details in response to the questions which she posed on 2 April 2007 (para 11 above). As against its finding that Ms McBride held Mr Mulhern responsible for the decisions made and "to a certain degree" distrusted him, the ET weighed in the balance the fact that the SPSA was a large employer with over 1,800 employees and that Mr Mulhern as chief executive, would not have day to day contact with her (paras 371-372).</a></p><a name="para20"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In response to the employer's submission that Ms McBride, on returning to work, would seek to vindicate her disputed identification of the fingerprint, the ET acknowledged both that she continued to believe that her identification had been correct and that the thrust of her evidence had been about returning to court-going duties. But it stated (para 373):</a></p><a name="para21"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"We considered our conclusion that the decision of the respondent that the claimant could not return to court going duties, was a reasonable decision, will move this matter forward for both the claimant and the respondent."</p> 
+<p class="ParaLevel1">In so saying the ET appears to have thought that its support for the SPSA's decision to restrict Ms McBride's duties would make it easier for both employee and employer to work together because it might persuade Ms McBride that she would not succeed in her quest to return to the excluded duties.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The ET (para 374) concluded on balance that it would be practicable for the SPSA "
+<u>to reinstate the claimant to the role of (non court going) fingerprint expert</u>" (again emphasis added). It rejected the submission that this was creating a job for Ms McBride, because she would be reinstated to the job that she had carried out for several years and because there were other examples of fingerprint officers who did not carry out court going duties but who continued to fulfil a role.</a></p><a name="para22"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The ET also held that it was just and equitable that a reinstatement order be made because Ms McBride's conduct had not contributed to her dismissal: (a) her inability to return to court going duties was not the result of any misconduct and (b) her unwillingness to discuss redeployment in late April 2007 had been justified by her employer's prevarication.</a></p><a name="para23"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The ET summarised its decision in the closing paragraphs. It stated (para 379):</a></p><a name="para24"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"We decided, having taken all of the above points into account, to order the respondent to reinstate the claimant to the position of fingerprint officer: the respondent shall treat the claimant in all respects as if she had not been dismissed."</p> 
+<p class="ParaHeading" style="margin-left:36.0pt">(ii) The Employment Appeal Tribunal</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The SPSA appealed to the Employment Appeal Tribunal ("EAT") which revoked the ET's judgment on remedy and remitted the case to a freshly constituted tribunal to determine compensation. The EAT decided that the ET's decision that it was practicable for the SPSA to comply with an order for reinstatement was perverse because of Ms McBride's continued demands to be allowed to resume the excluded duties. The EAT stated (para 35):</a></p><a name="para25"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"The clear picture is that returning the claimant to work for the respondents in the limited non court role provided for by the Tribunal would not work. ... Far from being practicable, the impression presented was one of the reinstatement envisaged by the Tribunal being liable to have disastrous consequences."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The EAT expressed sympathy with the argument advanced on behalf of the SPSA that Ms McBride had contributed to her dismissal, because she had been given the answers to her questions by 27 April 2007 and yet had persisted in her refusal to engage in discussions about redeployment. But it decided that it was appropriate that a freshly constituted tribunal should consider whether monetary compensation should be reduced as a result of her conduct. It justified the requirement of a differently constituted tribunal because "[t]he nature and extent of [the ET's] criticism of Mr Mulhern and of the respondents is such as to be indicative of a significant measure of sympathy towards the claimant" (para 37).</a></p><a name="para26"> 
+<p class="ParaHeading" style="margin-left:36.0pt">(iii) The Inner House</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride appealed to the Inner House of the Court of Session. An Extra Division of the Inner House (Lady Paton, Lady Dorrian and Lord McGhie) heard the appeal. In its opinion the Inner House rejected the EAT's conclusion that the ET had been perverse. It criticised the EAT for substituting its own perception of the facts for the interpretation of the ET and stated that the reasons which the EAT gave for implying that the ET might be partial did not withstand scrutiny. But the Extra Division held that the ET had erred in law; it interpreted the ET's judgment as an order to employ Ms McBride on altered contractual terms. As reinstatement had to be unconditional, the ET had misapplied the law. The Extra Division therefore refused the appeal so far as it sought to restore the ET's order of reinstatement, but allowed the appeal to the extent of remitting the case to the original ET.</a></p><a name="para27"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ms McBride appeals to this Court.</a></p><a name="para28"> 
+<p class="ParaHeading">The issues in this appeal</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The central issue in this appeal is the correct interpretation of the ET's judgment. It is whether the ET had erred in law by purporting to reinstate Ms McBride to employment which was different from the employment from which she had been dismissed. Mr Calum MacNeill QC for Ms McBride submitted that the ET had not fallen into error because it had sought to place her in the same contractual relationship as she was in before her dismissal. Mr Brian Napier QC, for the SPA, argued the contrary. He accepted the Inner House's criticisms of the EAT's finding of perversity and did not seek to defend that finding or the EAT's suggestion of bias.</a></p><a name="para29"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Napier however sought to advance a new argument, which had not been pursued before the ET, the EAT or the Inner House, as a fall back if this Court took the view that the ET had not sought to alter the terms of Ms McBride's employment contract. He submitted that the ET had erred in its judgment of practicability and had reached a perverse decision for a different reason from that which the EAT had found. The decision, he submitted, was perverse because it had not considered that its order, if made, would return the parties to a position of contractual conflict in which Ms McBride could assert (a) a contractual right to carry out the excluded duties and therefore (b) that her employer was in material breach of contract when it refused to allow her to perform those duties.</a></p><a name="para30"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In my view, this additional argument comes too late. It was not developed in the tribunals below and is not supported by findings of fact which were made in the context of such a submission. In any event, on the facts found by the ET, I am not persuaded that the argument, if properly developed at the time, would have succeeded. I therefore comment on this argument only briefly after I have examined the statutory provisions and addressed the central issue in this appeal.</a></p><a name="para31"> 
+<p class="ParaHeading">The statutory provisions</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The remedies for unfair dismissal are set out in sections 112 to 117 of the 1996 Act. If the complainant wishes such an order, the tribunal is required first to consider whether to make an order for reinstatement, and if it decides not to make such an order, then, secondly, to consider whether to make an order for re-engagement (sections 112(2), (3) and 116(1), (3)). If neither order is made, the tribunal may make an award of compensation for unfair dismissal (section 112(4)).</a></p><a name="para32"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>An order for reinstatement is defined as "an order that the employer shall treat the complainant in all respects as if he had not been dismissed" (section 114(1)). An order for re-engagement on the other hand is an order that the complainant be engaged in "employment comparable to that from which he was dismissed or other suitable employment" (section 115(1)).</a></p><a name="para33"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The EAT (Simler J) in 
+<i>British Airways plc v Valencia </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKEAT/2014/0056_14_2606.html">[2014] IRLR 683</a>, (paras 25 and 26) contrasted an order for reinstatement which places the complainant into the same job on the same terms, and an order for re-engagement, which may involve a change in the identity of the employer, the nature of the employment or the terms as to remuneration. I would not go so far as Simler J where she said (para 25) that a reinstatement order involved the employee having the same manager. The employer, while treating the employee in all respects as if he had not been dismissed, could give the new employee a new line manager to avoid further conflict. It is the contractual rights, the terms and conditions of the employment, which must be reinstated and the rights and privileges (such as seniority and pension rights) which must be restored to the employee under a reinstatement order. In my view Mr Napier was right to challenge the view that a reinstatement order required the recreation of the precise factual conditions at the point of dismissal. But the basic dichotomy between the two types of order of which Simler J spoke is in my view correct.</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Thus, the ET has no power to order reinstatement in terms which alter the contractual terms of the complainant's employment.</a></p><a name="para35"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>When considering whether to make an order for reinstatement the tribunal must take into account: (a) whether the complainant wishes to be reinstated, (b) whether it is practicable for the employer to comply with the order and (c) where the complainant has caused or contributed to the dismissal, whether it would be just to order his reinstatement (section 116(1)). The tribunal, when considering whether to make an order for re-engagement, must take into account similar considerations - the complainant's wishes, the practicability of the employer's compliance with the order, and the justice of making the order if the complainant caused or contributed to the dismissal (section 116(3)).</a></p><a name="para36"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the stage when it is considering whether to make a reinstatement order, the tribunal's judgment on the practicability of the employer's compliance with the order is only a provisional determination. It is a prospective assessment of the practicability of compliance, and not a conclusive determination of practicability. This follows from the structure of the statutory scheme, which recognises that the employer may not comply with the order. In that event, section 117 provides for an award of compensation, and also the making of an additional award of compensation, unless the employer satisfies the tribunal that it was not practicable to comply with the order. Practicability of compliance is thus assessed at two separate stages - a provisional determination at the first stage and a conclusive determination, with the burden on the employer, at the second: 
+<i>Timex Corpn v Thomson </i>[1981] IRLR 522, 523-524 per Browne-Wilkinson J and 
+<i>Port of London Authority v Payne </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1993/26.html">[1994] ICR 555</a>, 569 per Neill LJ.</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Thus in Ms McBride's case, the ET, when considering whether to make the order for reinstatement, did not need to reach a concluded view on whether Ms McBride would accept her continued exclusion from the excluded duties and avoid confrontation with her employer on that issue. It was sufficient if the ET reasonably thought that it was likely to be practicable for the employer to comply with the reinstatement.</a></p><a name="para38"> 
+<p class="ParaHeading">Discussion</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The principal question, as I have said, is a question of the interpretation of the ET's judgment. In my view, the order, which I have set out in para 18 above, if viewed by itself is not open to criticism, reflecting as it does the words of section 114(1) of the 1996 Act. The question is whether the context, in particular the ET's reasoning, gives rise to a different interpretation of the order.</a></p><a name="para39"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I am satisfied that the answer to that question is no. In reading the ET's reasons, I ask myself whether the ET was seeking to impose a contractual limitation on Ms McBride in the reinstatement order, which removed the excluded duties from her job description, or was simply recognising a practical limitation on the scope of her work caused by circumstances beyond her control and that of her employer. I am satisfied that it was the latter for the following four reasons.</a></p><a name="para40"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>First, the ET was aware both of the terms of Ms McBride's contract of employment and that for several years previously she had been actively employed as a fingerprint officer but had not been asked or allowed to sign reports or give evidence in court (paras 16 and 298 of its reasons). That was the status quo to which Ms McBride would have returned pursuant to a reinstatement order as the employer had to treat her as if she had not been dismissed (section 114(1) of the 1996 Act).</a></p><a name="para41"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Secondly, the ET was aware that she wanted to perform the excluded duties but held that the SPSA's decision that she could not return to those duties was reasonable (para 297 of its reasons). As the decision whether to call a particular expert as a witness in a criminal trial rested with the Crown Office and not the SPSA and as the Lord Advocate had made his views clear (para 7 above), the conclusion that the SPSA had acted reasonably is unsurprising.</a></p><a name="para42"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Thirdly, the ET rejected the idea that continuing in a non-court going role amounted to alternative employment. The ET criticised Mr Mulhern's evidence which had been calculated to give the impression that Ms McBride had done little of value in the previous years. He had failed to investigate that and had decided from an early date that the four fingerprint officers would not work for the SPSA. The ET accepted the evidence of Ms McBride's managers, Mr McKenzie and Mr Innes, about the amount of work carried out by a fingerprint expert which does not involve signing reports or giving evidence in court and their assessment that Ms McBride had made a valuable contribution in the years in which her duties had been restricted (paras 144 to 146 and 298 to 309 of the reasons). The ET's reasoning in para 374 of its reasons, which I have summarised in para 22 above, also supports this view.</a></p><a name="para43"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Fourthly, the words in para 356 of the reasons, on which counsel for the SPA relied and which I have set out and emphasised in para 19 above, were in parenthesis and spoke of an understanding, which may suggest that the ET was considering the practical context of the reinstatement rather than an alteration of the terms of employment. The words in parenthesis confirmed that the order for reinstatement did not amount to an order that the employer must alter the status quo by allowing Ms McBride to resume the excluded duties. This interpretation is in my view supported by the ET's statement in para 373 of the reasons, which I have quoted in para 21 above, that its conclusion that the employer's decision about the excluded duties was reasonable would "move [the] matter forward for both the claimant and the respondent". Such a statement would make no sense if the ET thought that its order was altering the terms of the contract of employment.</a></p><a name="para44"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For completeness, I refer to the suggestion that the ET in para 298 of its reasons had held that Ms McBride was unable to continue in her role and that the employer had to consider alternative employment. In my view, on a proper reading of that paragraph, in which the ET examined the actions of the SPSA, it referred back to the finding that Mr Mulhern had decided by May 2006 or in any event before September 2006 that the four fingerprint experts could not continue in their current restricted roles and that their employment had to be terminated (paras 27, 49 and 142 of the reasons). That explains why the ET spoke in that paragraph of the claimant being "placed in a position which was akin to redundancy". The reference to alternative employment therefore did not relate to the continuation of their restricted roles and thus does not militate against the decision on the interpretation of the ET's decision to which I have come.</a></p><a name="para45"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>That is sufficient to determine this appeal in Ms McBride's favour. But I comment briefly on Mr Napier's late-arriving submission that the ET's view on the practicability of compliance with the reinstatement order was perverse because it had the potential to expose the SPSA to a claim by Ms McBride that it was in fundamental breach of contract.</a></p><a name="para46"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The ET addressed the arguments which the SPSA advanced on the practicability of compliance between paras 357 and 371 of its reasons. Those arguments did not include the submission which the SPA now seeks to advance.</a></p><a name="para47"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>There are cases in which it has been held that an employer, who by unilateral action has fundamentally altered the nature of an employee's job, has repudiated the contract of employment. See, for example, 
+<i>Coleman v S and W Baldwin </i>[1977] IRLR 342, 
+<i>Pedersen v Camden London Borough Council (Note) </i>[1981] ICR 674. But the problem for the SPA is that such decisions depend on the particular facts of the case. Whether an employee had a reasonable expectation of being allowed to do certain work which he or she enjoyed or which maintained or developed work-related skills are questions to which the answers are fact-sensitive. These questions were not raised before the ET. If they had been, the ET could have applied its mind to them and made findings of fact which were relevant to their answer. It did not do so because it was not asked to do so.</a></p><a name="para48"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In any event, it is not clear from the findings which the ET made that the SPSA's decision to bar Ms McBride from the excluded duties would amount to a fundamental alteration of the nature of Ms McBride's job. I have no doubt that giving expert evidence in a criminal court and being cross-examined by counsel would be a stimulating experience and repeated exposure to the courts would develop or preserve skills. Ms McBride's wish to return to the excluded duties is therefore understandable. But that does not mean that her exclusion from them is a fundamental alteration of her job. The ET recorded evidence that much of the work of the fingerprint office did not involve the excluded duties. At para 147 of its reasons, the ET recorded that only 3.6% of cases referred to the fingerprint service required a joint report to be signed and in only 0.8% of cases did an expert have to attend court to give evidence. The ET also recorded its findings (para 149 of its reasons) that several fingerprint officers had been excused from attending, or had never been required to attend, court, including an officer who suffered from ill health, a trainer and the Head of Bureau. There were the findings, which I have mentioned (para 43 above), of the valuable role which Ms McBride performed although barred from the excluded duties. There is also the finding (paras 297 and 373 of the reasons) that the SPSA acted reasonably in deciding that Ms McBride should not return to the excluded duties.</a></p><a name="para49"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Further, there was no finding in the ET's reasons that Ms McBride had ever asserted that her exclusion from the excluded duties amounted to a breach of contract by her employer. Mr MacNeill in his submissions accepted that Ms McBride did not have a contractual right to sign reports or give evidence, as the provision of work in the criminal courts was not in the SPA's gift.</a></p><a name="para50"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As I have said (para 37 above), the ET's determination on practicability was only a provisional determination. It was aware of friction between Ms McBride and Mr Mulhern and had formed the view that its finding that it was reasonable for the SPSA to maintain the bar on the excluded duties would assist both parties to move forward. On the findings of fact which the ET has made, and in particular its finding on the reasonableness of the bar, a breach of contract seems a remote possibility.</a></p><a name="para51"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I therefore reject the SPA's fall back argument.</a></p><a name="para52"> 
+<p class="ParaHeading">Remedy</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>There is now no challenge to the further involvement in this case of the ET which heard Ms McBride's claim in 2008 and issued its judgment in 2009. The Court was informed that Employment Judge Lucy Crone remains in office but it was not known if the lay members of the original ET are still in service. I therefore propose that the Court should remit the case to the original tribunal, or to a tribunal which includes the member or members of the original tribunal who are still in office, to consider variation of its order relating to the matters specified under section 114(2) of the Employment Rights Act 1996 in view of the time that has passed since its order was made. I also propose that counsel be invited to make submissions within 21 days about the order for expenses which this Court should make.</a></p><a name="para53"> 
+<p class="ParaHeading">Conclusion</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I would therefore allow the appeal.</a></p><a name="para54"> </a></div><a name="para54"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/27.html</i>
+</small>
+<p></p>
+
+  
+
+
+</body></html>

@@ -1,0 +1,604 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Stocker v Stocker  [2019] UKSC 17 (3 April 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Comment Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-link:"Comment Subject Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+span.CommentTextChar
+	{mso-style-name:"Comment Text Char";
+	mso-style-link:"Comment Text";}
+span.CommentSubjectChar
+	{mso-style-name:"Comment Subject Char";
+	mso-style-link:"Comment Subject";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Stocker v Stocker  [2019] UKSC 17 (3 April 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/17.html</i>
+<br>Cite as: 
+[2019] 2 FCR 788,
+
+[2019] UKSC 17,
+
+[2019] EMLR 18,
+
+[2019] 3 All ER 647,
+
+[2019] WLR(D) 214,
+
+[2020] AC 593
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/17.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2018005359/casereport_96f2c499-a742-492b-b6ca-1f7ae594baba/html">[2020] AC 593</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2018005359/casereport_84c257e5-8cf9-490e-a829-bd950c05b0f7/html">[2019] WLR(D) 214</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+ <div class="WordSection1">
+ <p class="MsoNormal" align="right" style="text-align:right"> <a name="Text12"> <b>Hilary Term </b> </a></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <b>[2019] UKSC 17 </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2018/170.html">[2018] EWCA Civ 170</a> </i></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:20.0pt">JUDGMENT </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b>&nbsp; </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b>&nbsp; </b></p> <div align="center"> <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="border-collapse:collapse"> <tbody><tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="Title1" style="margin-left:4.0pt"> <span style="font-size:20.0pt">Stocker (Appellant) <i>v </i>Stocker (Respondent) </span></p>
+ <p class="MsoNormal"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="MsoNormal"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:14.0pt">before </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Reed, Deputy President </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Kerr </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lady Black </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Briggs </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Kitchin </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">JUDGMENT GIVEN ON </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">3 April 2019 </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center; text-indent:-288.0pt"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" style="text-align:justify"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:15.0pt">Heard on 24 January 2019 </span> </b></p> </td> </tr> </tbody></table> </div>
+ <p class="MsoNormal">&nbsp; </p>
+ <p class="MsoNormal">&nbsp; </p> <div align="center"> <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> <tbody><tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Appellant </i></p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Respondent </i></p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">David Price QC </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Manuel Barca QC </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Jonathan Price </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Claire Overman </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by David Price Solicitor Advocate) </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by SA Law LLP) </p> </td> </tr> </tbody></table> </div>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal">&nbsp; </p>
+ <p class="NewSpeech">LORD KERR: ( <span style="text-transform:none">with whom Lord Reed, Lady Black, Lord Briggs and Lord Kitchin agree) </span></p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"> <a name="_Hlk2846142"></a><a name="para1">1. <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>“He tried to strangle me.” What would those words convey to the “ordinary reasonable reader” of a Facebook post? </a></p>
+ <p class="ParaHeading">Background </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2">2.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The respondent to this appeal, Ronald Stocker, is the former husband of the appellant, Nicola Stocker. Their marriage ended in acrimony in 2012. Mr Stocker subsequently formed a relationship with Ms Deborah Bligh. On 23 December 2012 an exchange took place between Mrs Stocker and Ms Bligh on the Facebook website. In the course of that exchange, Mrs Stocker informed Ms Bligh that her former husband (now Ms Bligh’s partner) had tried to strangle her. It is now clear that the date on which this is alleged to have occurred is 23 March 2003. </a></p><a name="para2">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mrs Stocker also said that her husband had been removed from the house following a number of threats that he had made; that there were some “gun issues”; and that the police felt that he had broken the terms of a non-molestation order. These statements and the allegation that Mr Stocker had tried to strangle her were the basis on which he took proceedings against her for defamation. </a></p><a name="para3">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The allegations about threats, gun issues and the breach of a non-molestation order are relevant to provide context to the statement that Mr Stocker had tried to strangle Mrs Stocker. They paint a picture of acute marital conflict and on that account set the scene for any reader of the Facebook post. That reader would know that Mrs Stocker’s statement that her former husband had tried to strangle her was made against the background that this had been, towards the end of its life, a most disharmonious marriage. </a></p><a name="para4">
+ <p class="ParaHeading">The proceedings in the High Court </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Stocker issued proceedings against his former wife, claiming that the statement that he had tried to strangle her was defamatory of him. He claimed that the meaning to be given to the words “tried to strangle me” was that he had tried to kill her. Mrs Stocker denied that the words bore that meaning. She claimed that, in the context of domestic violence, the words do not impute an intention to kill. What they would be understood to mean, she said, was that her husband had violently gripped her neck, inhibiting her breathing so as to put her in fear of being killed. </a></p><a name="para5">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Stocker also claimed that the statement that he had uttered threats and breached a non-molestation order was defamatory and was to be taken as implying that he was a dangerous and thoroughly disreputable man. Mrs Stocker refuted this. She said that it was not reasonable to infer that she had suggested that her husband was dangerous on account of his having been arrested a number of times. It is to be observed, however, that in the defence filed on her behalf, Mrs Stocker averred that the statement that her husband was dangerous and disreputable was justified. It seems likely that this was by way of alternative plea. In any event, for reasons that will later appear, this is immaterial because of the rule concerning the substantial truth of the statements made by the alleged defamer. </a></p><a name="para6">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At the start of the defamation proceedings, Mitting J, the trial judge, suggested that the parties should refer to the Oxford English Dictionary’s definition of the verb, “strangle”. This provided two possible meanings: (a) to kill by external compression of the throat; and (b) to constrict the neck or throat painfully. The judge was asked by counsel for the appellant, Mr Price QC, to consider how the words, “tried to strangle” had been used in different contexts. Mr Price also sought to introduce legal definitions of the word “strangle”. These do not appear to have been taken into account by Mitting J and he did not refer to them in his judgment. </a></p><a name="para7">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Stocker gave evidence that, on the occasion when the altercation which led to his wife accusing him of trying to strangle her took place, he had been standing on a stool or a chair while she was adjusting the length of a pair of his trousers. She had pricked him with a pin. He had sworn at her. She swore back at him and he placed his hand over her mouth to prevent her raised voice from waking their sleeping son. The judge rejected this account, saying, at para 43: </a></p><a name="para8">
+ <p class="MsoQuote" style="margin-left:72.0pt">“I do not accept [Mr Stocker’s] account that he merely put one hand over [Mrs Stocker’s] mouth while he was standing on the stool or chair. His hand would have been at his thigh level. He could not have exerted more than momentary pressure on her mouth, from which she could instantly have escaped. Nor could he have left the reddening marks on her neck or throat which I am satisfied were seen by the police. I do not, however, believe that he threatened to kill her or did anything with his hands with that intention. I do not believe that he was capable even in temper of attempted murder. The most likely explanation about what happened is that he did in temper attempt to silence her forcibly by placing one hand on her mouth and the other on her upper neck under her chin to hold her head still. His intention was to silence, not to kill.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This finding implicitly rejects Mrs Stocker’s account of the incident also. She had said that her husband had dismounted from the chair, had pushed her against a small sofa, put his hands around her neck and squeezed, causing her to believe that he would kill her. The judge accepted that some two hours after the incident, red marks on Mrs Stocker’s neck had been seen by police officers but he came up with a theory as to how those had come about which neither party had proposed. </a></p><a name="para9">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is of course open to a trial judge, after considering all the evidence, to reach his or her own conclusions or to draw inferences which neither party has advanced or espoused. But there must be a sound basis for doing so. In this case, the judge accepted the police evidence that there were red marks on Mrs Stocker’s neck. Mr Stocker had agreed during a police interview that it was possible that he had put his hand around his wife’s neck and, implicitly, that this had caused the red marks that were found there. He had also said that he had dismounted from the chair or stool on which he had been standing; had followed Mrs Stocker over to a chair and that it was possible that he had put his hand around her neck. Unsurprisingly, he was content to go along with a suggestion put to him by a police officer that he had not “maliciously grabbed her around the throat or tried to assault her”. </a></p><a name="para10">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At no point did Mr Stocker claim that he had grasped his wife by the throat in order to secure his hand covering her mouth or to prevent her from wrenching free from his grasp. Nor did he suggest that he could not have prevented her from shouting simply by placing his hand over her mouth. It is to be noted that he had admitted to police that he had alighted from the stool or chair. If that statement was accurate and truthful, he was therefore on the same level as his wife. Yet, the judge rejected Mr Stocker’s evidence that he had simply put his hand over his wife’s mouth. Mitting J considered that a further hand (on the neck) was needed to secure the grip on Mrs Stocker’s mouth. This conclusion seems to have been premised on Mr Stocker remaining on the chair. (And, in fairness to the judge, it seems that Mr Stocker so claimed in evidence.) </a></p><a name="para11">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If other considerations had not supervened, there might well have been an issue as to whether it was open to the judge to reach the conclusion which he did, particularly because that conclusion is more benevolent to Mr Stocker than any version of the facts which he could reasonably have advanced. It seeks to explain the red marks on a basis which Mr Stocker has never argued for. In the event, however, it is unnecessary to deal with that matter because of the conclusions that I have reached on other issues and, since it had not been argued that the judge’s finding on this point was one which he should not have made, I say nothing more about it. </a></p><a name="para12">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The judge began his discussion about the meaning to be given to the statements said to be defamatory by referring to the well-known case of <i>Jeynes v News Magazines Ltd </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2008/130.html">[2008] EWCA Civ 130</a> and cited the eight propositions made in that case by Sir Anthony Clarke MR in para 14. The judge also quoted the supplementary qualification to those propositions provided by Sharp LJ in <i>Rufus v Elliott </i><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/121.html">[2015] EWCA Civ 121</a>, para 11. (Both authorities will be considered below.) </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Having considered these judicial pronouncements, Mitting J said that he did not understand that either authority indicated that, in order “to confirm the meaning in ordinary usage of a single English word”, it was impermissible to refer to “an authoritative English dictionary such as the Oxford English Dictionary.” He then referred to the two dictionary definitions which I have set out at para 7 above and continued at para 36: </a></p><a name="para14">
+ <p class="MsoQuote" style="margin-left:72.0pt">“If the defendant had said ‘he strangled me’, the ordinary reader would have understood her to have used the word in the second sense for the obvious reason that she was still alive. But the two Facebook comments cannot have been understood to refer to ‘trying’ to strangle her in that sense because, as she said, the police had found handprints on her neck. These could only have been caused by the painful constriction of her neck or throat. If understood in that sense, she could not have been taken to have said that the defendant had tried to strangle her because he had succeeded. The ordinary reader would have understood that the defendant had attempted to kill her by external compression of her throat or neck with his hands and/or fingers.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is clear from this passage of his judgment that the trial judge had confined the possible meaning of the statement, “he tried to strangle me” to two stark alternatives. Either Mr Stocker had tried to kill his wife, or he had constricted her neck or throat painfully. In the judge’s estimation, the fact that Mrs Stocker had said that her husband “tried” to strangle her precluded the possibility of her statement being taken to mean that he had constricted her neck painfully. </a></p><a name="para15">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This approach produces an obviously anomalous result. If Mrs Stocker had said, “he strangled me”, she should be understood to have meant that her husband had constricted her neck or throat painfully, on account of her having survived to tell the tale. But, because she said that he had “tried” to strangle her (in the normal order of things and in common experience a less serious accusation), she was fixed with the momentous allegation that her husband had tried to kill her. On this analysis, the use of the verb, “to try” assumes a critical significance. The possible meaning of constricting the neck painfully was shut out by what might be regarded as the adventitious circumstance that Mrs Stocker had said that her husband had “tried” to strangle her rather than that he had strangled her. </a></p><a name="para16">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This anomalous result was the product of confining the meaning of the words exclusively to two dictionary definitions. If “tried to strangle” did not fit with the notion of trying to constrict the neck or throat painfully (because of the prosaic fact that Mrs Stocker was still alive), the only possible meaning was that Mr Stocker had tried to kill. </a></p><a name="para17">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On the remainder of the claimed defamatory meaning the judge’s reasoning was closely allied to that on the first part. In the passage of his judgment which immediately succeeded that quoted at para 14 above, he said at para 36: </a></p><a name="para18">
+ <p class="MsoQuote" style="margin-left:72.0pt">“That understanding [that her husband had tried to kill Mrs Stocker] would have informed the ordinary reader about the meaning of the remaining comments. They were that he had been arrested on at least two other occasions for ‘gun issues’ and for breach of a non-molestation order and possibly on a third for ‘threats’. In addition, he would have understood her to assert that the police believed that he had broken the terms of the non-molestation order; in other words, that there was a basis beyond mere suspicion for doing so.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The judge then dealt with an argument made on behalf of Mrs Stocker that all that she had done was to state that Mr Stocker had been arrested on more than one occasion and that this was not itself a defamatory statement. Of these claims, the judge said this at para 37: </a></p><a name="para19">
+ <p class="MsoQuote" style="margin-left:72.0pt">“I agree that in principle the statement that a person has been arrested is not necessarily defamatory. But these statements, taken together, go well beyond that. They justify the claimant’s pleaded case that the reasonable inference to draw from the statement was that the defendant was dangerous, at least to any woman with whom he lived or had lived, that he was a man who tried to kill on one occasion, had been arrested for an offence involving firearms on another, and had given the police reason to believe that he had broken a non-molestation order made against him. To describe him thus was defamatory.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The meaning attributed by the judge to the statement that the claimant had been arrested, in the context of the other statements, therefore was that Mr Stocker was a man who was dangerous to any woman with whom he had lived or might live. </a></p><a name="para20">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mrs Stocker had pleaded that her statements were substantially true and that she was therefore entitled to rely on the defence of justification. The judge dealt with that plea in para 54 of his judgment: </a></p><a name="para21">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The defendant has proved some justification for the words which she used in the Facebook postings. The claimant did commit an offence against her on 23 March 2003, at least common assault. He was arrested three times. There were ‘gun issues’. He had made threats, though not of immediate violence against her. But she has not met the sting of the postings that the claimant was a dangerous man. The impression given by the postings to the ordinary reader was a significant and distorting overstatement of what had in fact occurred.” </p>
+ <p class="ParaHeading">The Court of Appeal </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At para 17 of her judgment, Sharp LJ in the Court of Appeal said this about the use of dictionaries as a means of deciding the meaning to be given to a statement alleged to be defamatory: </a></p><a name="para22">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The use of dictionaries does not form part of the process of determining the natural and ordinary meaning of words, because what matters is the impression conveyed by the words to the ordinary reader when they are read, and it is this that the judge must identify. As it happened however no harm was done in this case. The judge told counsel during the course of submissions that he had looked at the OED definitions and what they said, so the parties had the opportunity to address him about it; the judge, as he then said, merely used the dictionary definitions as a check, and no more; those definitions were in substance the rival ones contended for by the parties, and in the event, the judge’s ultimate reasoning, not dependent on dictionaries, was sound.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The suggestion that the judge told counsel “in the course of submissions” that he had looked at the dictionary definition may mislead. On the first day of the trial, before any evidence had been given, counsel for Mr Stocker, Mr Barca QC, had suggested to Mitting J that no time would be saved by asking him to deliver a preliminary ruling on meaning. The judge replied that he had “a preliminary opinion about it” which he was willing to disclose. Shortly thereafter, he suggested that counsel should look at the Oxford English Dictionary definitions and said, “You might from that gain the primary and secondary definition and fit it (sic) into the context of a message that he ‘tried’ to do something”. All of this occurred before the judge heard any argument about meanings. This suggests that, contrary to Sharp LJ’s view, the judge was not using the dictionary definitions as a cross-check. Plainly, he regarded those definitions as comprehensive of the possible meanings of the statement, “he tried to strangle me”. </a></p><a name="para23">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Sharp LJ’s statement that Mitting J merely used the dictionary definitions as a check may have been based on his comment in para 36 of his judgment that the authorities do not “prohibit reference to an authoritative English dictionary such as the Oxford English Dictionary to confirm the meaning in ordinary usage of a single English word”. I do not construe this statement as signifying that the judge was using the dictionary definitions as a cross-check and, indeed, neither in his judgment nor in his exchanges with counsel, does he ever use the expression, “check”. Given that Mitting J had consulted the dictionary before the trial began and commended consideration of it to counsel, it seems to me plain that, far from using the definitions as a check, what the judge did was to regard the two definitions as the only possible meanings which he could consider or, at the very least, the starting point for his analysis, rather than a cross-check or confirmation of the correct approach. </a></p><a name="para24">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Therein lies the danger of the use of dictionary definitions to provide a guide to the meaning of an alleged defamatory statement. That meaning is to be determined according to how it would be understood by the ordinary reasonable reader. It is not fixed by technical, linguistically precise dictionary definitions, divorced from the context in which the statement was made. </a></p><a name="para25">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Moreover, once the verb, “strangle” is removed from its context and given only two possible meanings before it is reconnected to the word, “tried” the chances of a strained meaning are increased. The words must be taken together so as to determine what the ordinary reasonable reader would understand them to mean. Mitting J examined the word “strangle” in conspicuous detail before considering it in conjunction with the word, “tried”. Having determined that “strangle” admitted of only two possible meanings, he then decided that “tried” could be applied to only one of these. Underpinning his reasoning is the unarticulated premise that “to try” is necessarily “to try and fail”. Since Mr Stocker had not failed to constrict his wife’s throat, the judge concluded that the only feasible meaning of the words was that he had tried (and failed) to kill her. But that is not how the words are used in common language. If I say, “I tried to regain my breath”, I would not be understood to have tried but failed to recover respiratory function. </a></p><a name="para26">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On the meaning found by the judge at para 37 of his judgment (that Mr Stocker was dangerous to any woman with whom he lived), Sharp LJ at para 21 of her judgment said: </a></p><a name="para27">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The judge’s reference to the respondent’s dangerousness was merely his overall characterisation of the impression the [comments made by Mrs Stocker on Ms Bligh’s Facebook wall] conveyed, <i>in the light of the discrete meanings he had found them to bear (the respondent had tried to kill </i> <i>etc </i>). <i>This was not a freestanding meaning therefore detached from the meanings complained of, </i>nor was this a characterisation which founds an appeal that the judge was wrong; indeed to my mind, in the light of the meanings found by the judge, this overall characterisation of what was alleged was self-evidently correct.” (Emphasis added) </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Plainly, the Court of Appeal considered (as did, indeed, the judge) that that meaning was dependent, to some extent at least, on the correctness of Mitting J’s conclusion as to the meaning to be given to the words, “tried to strangle me”. The passage quoted was in reaction to Mr Price’s argument that the judge was wrong to have fastened on that meaning when it had not been advanced by Mr Stocker. Sharp LJ had observed of this argument that the judge was not bound to accept either party’s contention on meaning; his task was “to identify the single meaning of the words complained of within the relevant area of contention”. For reasons that will appear, it is important to note the two aspects of Sharp LJ’s reasoning: first that the judge was entitled to fix on a meaning which had not been advanced by either party; and, secondly, that his choice of meaning was influenced by his findings in relation to the first defamatory meaning - that Mrs Stocker’s words “he tried to strangle me” were to be taken as meaning that her husband had tried to kill her. </a></p><a name="para28">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Sharp LJ then turned to the question of justification. She referred to an argument advanced on behalf of Mrs Stocker that the judge had failed to advert to section 5 of the Defamation Act 1952 (which has now been replaced by section 2(3) of the Defamation Act 2013): </a></p><a name="para29">
+ <p class="MsoQuote" style="margin-left:72.0pt">“In an action for libel or slander in respect of words containing two or more distinct charges against the plaintiff, a defence of justification shall not fail by reason only that the truth of every charge is not proved if the words not proved to be true do not materially injure the plaintiff’s reputation having regard to the truth of the remaining charges.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At para 25, Sharp LJ said: </a></p><a name="para30">
+ <p class="MsoQuote" style="margin-left:72.0pt">“I can see why an issue in relation to section 5 might arise for consideration if the judge was wrong to conclude that the comments alleged the respondent had tried to kill the appellant by strangling her. In my view however, the failure of the principal argument on meaning deprives the argument on section 5 of any force that it might have had. The judge found in short that there was a real and substantial difference between the allegations made and those proved; and in my view he was entitled to reach that view on the evidence he heard. Having carefully appraised the evidence of justification and dealt with the essential points relating to that defence, the judge put the matter in this way. Though the appellant had proved some justification for the words she used, the allegations made in the comments were a significant and distorting overstatement of what had in fact occurred. His views were similarly expressed during the course of submissions. It is true that the judge found as a fact that during the course of an argument, the respondent had committed common assault at least, by placing his hand over the appellant’s mouth and putting his hand under her chin, to stop her speaking. However there is a material difference in gravity between such conduct, however unpleasant it may be, and an attempt to kill by strangulation; and it was plainly open to the judge to find, as he did, that what the appellant had proved in this and other respects, fell short by some measure of establishing a successful defence of justification, by reference to section 5 or otherwise.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Again, it is to be noted that the finding of Mitting J about the meaning to be given to the words, “he tried to strangle me” was pivotal to the conclusion that section 5 could not be prayed in aid by Mrs Stocker. It is clear that, if it had been held that Mitting J was wrong to fix on the meaning of those words that he did, a markedly different view as to the applicability of section 5 would have been warranted. </a></p><a name="para31">
+ <p class="ParaHeading">The single meaning rule </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 11 of the Defamation Act 2013 abolished the statutory right to trial by jury (in section 69(1) of the Senior Courts Act 1981). Under the previous dispensation, the judge would determine which meanings the allegedly defamatory words were capable of bearing and exclude those which she or he considered they were not capable of bearing. The judge would then put to the jury the various possible meanings and, with appropriate directions, invite the jury to decide which of those adumbrated meanings was the one to be attributed to the words said to be defamatory. </a></p><a name="para32">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The almost complete abolition of jury trial meant that the task of choosing a single meaning fell to the judge alone. The exercise of choosing a single immutable meaning from a series of words which are capable of bearing more than one has been described as artificial - see, in particular, Diplock LJ in <i>Slim v Daily Telegraph Ltd </i>[1968] 2 QB 157, 172C. But the single meaning rule has had its robust defenders. In <i>Oriental Daily Publisher Ltd v Ming Pao Holdings Ltd </i>[2013] EMLR 7, Lord Neuberger of Abbotsbury, sitting as a judge of the Hong Kong Court of Final Appeal, said at para 138 that the criticism of the rule’s artificiality and (implicitly) its irrationality was misplaced. He suggested that the identification of a single meaning to be accorded a statement arose “in many areas of law, most notably … the interpretation of statutes, contracts and notices” - para 140. </a></p><a name="para33">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Whether the analogy between a single defamatory meaning and a sole meaning to be given to a contractual term, statutory provision or notice is apt (which I take leave to doubt), it is clear that the single meaning approach is well entrenched in the law of defamation and neither party in the present appeal sought to impeach it. And, whatever else may be said of it, it provides a practical, workable solution. Where a statement has more than one plausible meaning, the question of whether defamation has occurred can only be answered by deciding that one particular meaning should be ascribed to the statement. </a></p><a name="para34">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is then for the judge to decide which meaning to plump for. Guidance as to how she or he should set about that mission was provided in <i>Jeynes </i>(mentioned in para 13 above). At para 14, Sir Anthony Clarke MR set out the essential criteria: </a></p><a name="para35">
+ </a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para35">“(1)&nbsp;&nbsp;&nbsp;&nbsp; The governing principle is reasonableness. (2) The hypothetical reasonable reader is not naïve, but he is not unduly suspicious. He can read between the lines. He can read in an implication more readily than a lawyer and may indulge in a certain amount of loose thinking, but he must be treated as being a man who is not avid for scandal and someone who does not, and should not, select one bad meaning where other non-defamatory meanings are available. (3) Over-elaborate analysis is best avoided. (4) The intention of the publisher is irrelevant. (5) The article must be read as a whole, and any ‘bane and antidote’ taken together. (6) The hypothetical reader is taken to be representative of those who would read the publication in question. (7) In delimiting the range of permissible defamatory meanings, the court should rule out any meaning which, ‘can only emerge as the produce of some strained, or forced, or utterly unreasonable interpretation …’ (see Eady J in <i>Gillick v Brook Advisory Centres </i>approved by this court </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2001/1263.html">[2001] EWCA Civ 1263</a> at para 7 and Gatley on Libel and Slander (10th ed), para 30.6). (8) It follows that ‘it is not enough to say that by some person or another the words <i>might </i>be understood in a defamatory sense.’ <i>Neville v Fine Arts Co </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpAC/1896/58.html">[1897] AC 68</a> per Lord Halsbury LC at 73.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36">36.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Sharp LJ added a rider to the second of these criteria in <i>Rufus v Elliott </i>when she said at para 11: </a></p><a name="para36">
+ </a><p class="MsoQuote" style="margin-left:72.0pt"><a name="para36">“To this I would only add that the words ‘should not select one bad meaning where other non-defamatory meanings are available’ are apt to be misleading without fuller explanation. They obviously do not mean in a case such as this one, where it is open to a defendant to contend either on a capability application or indeed at trial that the words complained of are not defamatory of the claimant, that the tribunal adjudicating on the question must then select the non-defamatory meaning for which the defendant contends. Instead, those words are ‘part of the description of the hypothetical reasonable reader, rather than (as) a prescription of how such a reader should attribute meanings to words complained of as defamatory’: see </a><a href="https://login.westlaw.co.uk/maf/wluk/app/document?src=doc&amp;linktype=ref&amp;context=382&amp;crumb-action=replace&amp;docguid=I567A60D0C7F211E2BCB9A7C6784B48D4"> <i> <span style="color:windowtext;text-decoration:none">McAlpine v Bercow </span> </i> <span style="color:windowtext;text-decoration:none"></span></a><a title="Link to BAILII version" href="/ew/cases/EWHC/QB/2013/1342.html">[2013] EWHC 1342</a>  (QB), paras 63 to 66.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Clearly, therefore, where a range of meanings is available and where it is possible to light on one meaning which is not defamatory among a series of meanings which are, the court is not obliged to select the non-defamatory meaning. The touchstone remains what would the ordinary reasonable reader consider the words to mean. Simply because it is theoretically possible to come up with a meaning which is not defamatory, the court is not impelled to select that meaning. </a></p><a name="para37">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>All of this, of course, emphasises that the primary role of the court is to focus on how the ordinary reasonable reader would construe the words. And this highlights the court’s duty to step aside from a lawyerly analysis and to inhabit the world of the typical reader of a Facebook post. To fulfil that obligation, the court should be particularly conscious of the context in which the statement was made, and it is to that subject that I now turn. </a></p><a name="para38">
+ <p class="ParaHeading">Context </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The starting point is the sixth proposition in <i>Jeynes </i>- that the hypothetical reader should be considered to be a person who would read the publication - and, I would add, react to it in a way that reflected the circumstances in which it was made. It has been suggested that the judgment in <i>Jeynes </i>failed to acknowledge the importance of context - see <i>Bukovsky v Crown Prosecution Service </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2017/1529.html">[2017] EWCA Civ 1529</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2017/1529.html">[2018] 4 WLR 13</a> where at para 13 Simon LJ said that the propositions which were made in that case omitted “an important principle [namely] … the context and circumstances of the publication …”. </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40">40.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It may be that the significance of context could have been made more explicitly clear in <i>Jeynes, </i>but it is beyond question that this is a factor of considerable importance. And that the way in which the words are presented is relevant to the interpretation of their meaning - <i>Waterson v Lloyd </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2013/136.html">[2013] EWCA Civ 136</a>; [2013] EMLR 17, para 39. </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41">41.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The fact that this was a Facebook post is critical. The advent of the 21st century has brought with it a new class of reader: the social media user. The judge tasked with deciding how a Facebook post or a tweet on Twitter would be interpreted by a social media user must keep in mind the way in which such postings and tweets are made and read. </a></p><a name="para41">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In <i>Monroe v Hopkins </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2017/433.html">[2017] EWHC 433 (QB)</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2017/433.html">[2017] 4 WLR 68</a>, Warby J at para 35 said this about tweets posted on Twitter: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“The most significant lessons to be drawn from the authorities as applied to a case of this kind seem to be the rather obvious ones, that this is a conversational medium; so it would be wrong to engage in elaborate analysis of a 140 character tweet; that an impressionistic approach is much more fitting and appropriate to the medium; but that this impressionistic approach must take account of the whole tweet and the context in which the ordinary reasonable reader would read that tweet. That context includes (a) matters of ordinary general knowledge; and (b) matters that were put before that reader via Twitter.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43">43.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I agree with that, particularly the observation that it is wrong to engage in elaborate analysis of a tweet; it is likewise unwise to parse a Facebook posting for its theoretically or logically deducible meaning. The imperative is to ascertain how a typical (ie an ordinary reasonable) reader would interpret the message. That search should reflect the circumstance that this is a casual medium; it is in the nature of conversation rather than carefully chosen expression; and that it is pre-eminently one in which the reader reads and passes on. </a></p><a name="para43">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>That essential message was repeated in <i>Monir v Wood </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2018/3525.html">[2018] EWHC (QB) 3525</a> where at para 90, Nicklin J said, “Twitter is a fast moving medium. People will tend to scroll through messages relatively quickly.” Facebook is similar. People scroll through it quickly. They do not pause and reflect. They do not ponder on what meaning the statement might possibly bear. Their reaction to the post is impressionistic and fleeting. Some observations made by Nicklin J are telling. Again, at para 90 he said: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“It is very important when assessing the meaning of a Tweet not to be over-analytical. … Largely, the meaning that an ordinary reasonable reader will receive from a Tweet is likely to be more impressionistic than, say, from a newspaper article which, simply in terms of the amount of time that it takes to read, allows for at least some element of reflection and consideration. The essential message that is being conveyed by a Tweet is likely to be absorbed quickly by the reader.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45">45.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>And Nicklin J made an equally important point at para 92 where he said (about arguments made by the defendant as to meaning), “… these points only emerge as a result of close analysis, or someone pointing them out. An ordinary reasonable reader will not have someone by his/her side making points like this.” </a></p><a name="para45">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>A similar approach to that of Nicklin J had been taken by Eady J in dealing with online bulletin boards in <i>Smith v ADVFN plc </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/QB/2008/1797.html">[2008] EWHC 1797 (QB)</a> where he said (at paras 13 to 16): </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“13.&nbsp;&nbsp;&nbsp;&nbsp; It is necessary to have well in mind the nature of bulletin board communications, which are a relatively recent development. This is central to a proper consideration of all the matters now before the court. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; … Particular characteristics which I should have in mind are that they are read by relatively few people, most of whom will share an interest in the subject-matter; they are rather like contributions to a casual conversation (the analogy sometimes being drawn with people chatting in a bar) which people simply note before moving on; they are often uninhibited, casual and ill thought out; those who participate know this and expect a certain amount of repartee or ‘give and take’. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">… </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; People do not often take a ‘thread’ and go through it as a whole like a newspaper article. They tend to read the remarks, make their own contributions if they feel inclined, and think no more about it.” </p>
+ <p class="ParaHeading">Further discussion </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47">47.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It will be clear from what I have said already that, in my view, Mitting J fell into legal error by relying upon the dictionary definition of the verb “to strangle” as dictating the meaning of Mrs Stocker’s Facebook post, rather than as (as Sharp LJ suggested) a check. In consequence, he failed to conduct a realistic exploration of how the ordinary reader of the post would have understood it. Readers of Facebook posts do not subject them to close analysis. They do not have someone by their side pointing out the possible meanings that might, theoretically, be given to the post. Anyone reading this post would not break it down in the way that Mitting J did by saying, well, strangle means either killing someone by choking them to death or grasping them by the throat and since Mrs Stocker is not dead, she <i>must </i>have meant that her husband tried to kill her - no other meaning is conceivable. </a></p><a name="para47">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In view of the judge’s error of law, his decision as to the meaning of the Facebook post cannot stand, and this court must either determine the meaning for itself, or if that is not possible, remit the case for a rehearing. It is entirely appropriate in this case for us to take the former course, determining the meaning ourselves. </a></p><a name="para48">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I return to the ordinary reader of the Facebook post. Such a reader does not splice the post into separate clauses, much less isolate individual words and contemplate their possible significance. Knowing that the author was alive, he or she would unquestionably have interpreted the post as meaning that Mr Stocker had grasped his wife by the throat and applied force to her neck rather than that he had tried deliberately to kill her. </a></p><a name="para49">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para49"></a><a name="para50">50.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Ironically, perhaps, this conclusion is reinforced by the consideration that only one meaning is to be attributed to the statement. Taking a broad, overarching view, and keeping in mind that only one meaning could be chosen, the choice to be made between the meaning of the words being that Mr Stocker grasped his wife by the neck or that he tried to kill her is, in my opinion, a clear one. If Mrs Stocker had meant to convey that her husband had attempted to kill her, why would she not say so explicitly? And, given that she made no such allegation, what would the ordinary reasonable reader, the casual viewer of this Facebook post, think that it meant? In my view, giving due consideration to the context in which the message was posted, the interpretation that Mr Stocker had grasped his wife by the neck is the obvious, indeed the inescapable, choice of meaning. </a></p><a name="para50">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I emphasise again that it is a legal error on the part of the judge that has opened the door to a redetermination of the meaning of Mrs Stocker’s words. This is not a case of the appellate court giving precedence to its view of meaning over that legitimately reached by the judge. To the contrary, it is the court’s recognition that the meaning determined by the judge was reached via a route which was impermissible and having then to confront the question what meaning should properly be attributed to the relevant words. It is nevertheless appropriate to say something generally about the role of the appellate court in appeals concerning the meaning of avowedly defamatory words chosen by a trial judge. </a></p><a name="para51">
+ <p class="ParaHeading">The role of the appellate court </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The question of when it was appropriate for an appellate court to substitute its view for that of a trial judge on the meaning of a claimed defamatory statement was addressed at some length in <i>Bukovsky </i>. At para 30 Simon LJ set out the competing contentions of counsel as to how this issue should be approached: </a></p><a name="para52">
+ <p class="MsoQuote" style="margin-left:72.0pt">“… [Counsel for the appellant] submitted that the relevant test on an appeal on meaning was whether the decision of the lower court was wrong: see CPR rule 52.11(3)(a), now CPR rule 52.21(3)(a). In contrast, [counsel for the respondent] submitted that this court should only reject the meaning found by the judge if it was ‘clear’ that some other meaning applied. A passage in <i>Duncan &amp; Neill </i>… at para 33.03 describes both arguments in relation to the determination of meaning (a different approach is adopted in a determination made under paragraph 4 of CPR Practice Direction 53 that a statement is capable or incapable of bearing a particular meaning). I have added the letters A and B to para 33.03 so as to distinguish the two approaches: </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">‘[A]&nbsp;&nbsp;&nbsp;&nbsp; A determination of the actual meaning of a statement is a determination of fact that an appeal court is bound to overturn if the judge’s determination was ‘wrong’. Since determination of meaning is often based on the consideration of a single document, an appellate court, it might be said, is as well placed as the first instance judge to decide the issue and should simply substitute its own view if it disagrees with the judge.’ </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">‘[B]&nbsp;&nbsp;&nbsp;&nbsp; On the other hand, it might be said, determination of meaning is nevertheless an exercise that involves the evaluation and weighing of various parts of a statement, such that an appeal court should normally accord a degree of deference to the first instance judge and interfere only when ‘quite satisfied’ that a judge’s determination of meaning was wrong and that some other meaning clearly applied. It appears that this more deferential approach is the one likely to be adopted.’” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>At para 31, Simon LJ observed that proposition B had been supported by a number of judgments of the Court of Appeal, including that of Sir Thomas Bingham MR in <i>Skuse v Granada Television Ltd </i>[1996] MLR 278, 287, where he said: </a></p><a name="para53">
+ <p class="MsoQuote" style="margin-left:72.0pt">“The Court of Appeal should be slow to differ from any conclusion of fact reached by a trial judge. Plainly this principle is less compelling where his conclusion is not based on his assessment of the reliability of witnesses or on the substance of their oral evidence and where the material before the appellate court is exactly the same as was before him. But even so we should not disturb his finding unless we are <i>quite satisfied </i>he was wrong.” (Emphasis added) </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para53"></a><a name="para54">54.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As Simon LJ noted, however, when the Court of Appeal came to state its conclusion in <i>Skuse </i>, it merely said that it was “satisfied” that the natural and ordinary meaning which the judge gave to the material complained of was wrong. The “satisfied/quite satisfied” dichotomy featured again in <i>Cruddas v Calvert </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2013/748.html">[2013] EWCA Civ 748</a>; [2014] EMLR 5, para 18 Longmore LJ summarised the claimant’s argument thus: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“[Counsel for the claimants] relied heavily on a supposed principle that the meaning of words was a jury question (and thus a question of fact) and that the judge was the best person qualified to reach the right conclusion which should not be ‘second guessed’ by this court.” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55">55.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>He then referred to <i>Skuse v Granada Television Ltd </i>and to <i>Cammish v Hughes </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2012/1655.html">[2012] EWCA Civ 1655</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2012/1655.html">[2013] EMLR 13</a>, where Arden LJ had said at para 31: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“As to the test that this court should apply, although this court has the same documents as were available to the judge, and the meaning depends on documents, we apply the dictum of Sir Thomas Bingham MR, [in <i>Skuse </i>]. The determination of meaning does not depend solely on the documents, but on an evaluation of those words in their context. In those circumstances, we consider that we should not depart from the judge’s meaning unless it is <i>clear that some other meaning applies </i>.” (Emphasis added) </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56">56.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Longmore LJ in <i>Cruddas </i>acknowledged the force of the submission that the Court of Appeal should not second guess the judge and said at para 19: </a></p><a name="para56">
+ <p class="MsoQuote" style="margin-left:72.0pt">“19.&nbsp;&nbsp;&nbsp;&nbsp; There is, of course, considerable force in this argument. On the other hand, imputations of criminal conduct are extremely serious and, if an appellate court thinks that an article just does not bear that imputation, it should say so. It is an important aspect of the law of libel that it should be open to a defendant to justify a lesser defamatory meaning than that alleged by a claimant if that is the right meaning to be given to the article.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>He concluded by saying that if, in order to come within Sir Thomas Bingham’s eighth principle in the <i>Skuse </i>case, he had to, he would say that he was not merely satisfied but “quite satisfied”. For my part, the difference in this context between being satisfied and being quite satisfied, if it can be discerned at all, is so ephemeral, so elusive a concept as to be of scant utility. Ultimately, the court in <i>Bukovsky </i>elected to steer a middle course between what Simon LJ had described as options A and B. At para 39, Simon LJ said: </a></p><a name="para57">
+ <p class="MsoQuote" style="margin-left:72.0pt">“It seems to me that the better approach is for this court to adopt a position somewhere between <i>Duncan &amp; Neill’s </i>propositions A and B. It should proceed cautiously before substituting its own views on meaning and only do so when satisfied that the judge is wrong, not least because meaning is very often a matter of impression, because experienced defamation judges are well practised at applying the relevant tests for determining meaning and because it is plainly undesirable for the Court of Appeal to approach the issue on appeal simply on the basis that they might have formed a different view from the judge.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Of course, a reviewing court should be slow to disturb a finding of a trial judge as to the meaning of a claimed defamatory statement. This is mainly because it is a finding of fact, whereas the construction of a written contract is a question of law. It is well settled, outside the field of defamation, that an appellate court will not interfere with a finding of fact by a first instance judge merely because it takes a different view of the matter. The degree of restraint which the appellate court will exercise will depend upon whether the judge had the advantage of seeing and hearing the witnesses, whether the finding is an inference based upon the review of a large mass of primary factual material, and whether the finding is in the nature of an evaluation involving mixed fact and law. The following passage from the judgment of Lord Reed in <i>McGraddie v McGraddie </i></a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/58.html">[2013] UKSC 58</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/58.html">[2013] 1 WLR 2477</a>, paras 3-4 sufficiently covers the ground: </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">“3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The reasons justifying that approach are not limited to the fact, emphasised in <i>Clarke’s </i>case and <i>Thomas v Thomas </i>, that the trial judge is in a privileged position to assess the credibility of witnesses’ evidence. Other relevant considerations were explained by the United States Supreme Court in <i>Anderson v City of Bessemer </i>(1985) 470 US 564, 574-575: </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">‘The rationale for deference to the original finder of fact is not limited to the superiority of the trial judge’s position to make determinations of credibility. The trial judge’s major role is the determination of fact, and with experience in fulfilling that role comes expertise. Duplication of the trial judge’s efforts in the court of appeals would very likely contribute only negligibly to the accuracy of fact determination at a huge cost in diversion of judicial resources. In addition, the parties to a case on appeal have already been forced to concentrate their energies and resources on persuading the trial judge that their account of the facts is the correct one; requiring them to persuade three more judges at the appellate level is requiring too much. As the court has stated in a different context, the trial on the merits should be ‘the ‘main event’ … rather than a ‘try-out on the road’’ … For these reasons, review of factual findings under the clearly erroneous standard - with its deference to the trier of fact - is the rule, not the exception.’ </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">… </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Furthermore, as was stated in observations adopted by the majority of the Canadian Supreme Court in <i>Housen v Nikolaisen </i>[2002] 2 SCR 235, para 14: </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">‘The trial judge has sat through the entire case and his ultimate judgment reflects this total familiarity with the evidence. The insight gained by the trial judge who has lived with the case for several days, weeks or even months may be far deeper than that of the Court of Appeal whose view of the case is much more limited and narrow, often being shaped and distorted by the various orders or rulings being challenged.’” </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59">59.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As to whether the appellate task needs to be described as one requiring caution, as Simon LJ suggested, I am doubtful. I would prefer to say that it calls for disciplined restraint. Certainly, the trial judge’s conclusion should not be lightly set aside but if an appellate court considers that the meaning that he has given to the statement was outside the range of reasonably available alternatives, it should not be deterred from so saying by the use of epithets such as “plainly” or “quite” satisfied. If it was vitiated by an error of law then the appellate court will have to choose between remitting the matter or, more usually in this context, determining the meaning afresh. But if the appellate court would just prefer a different meaning within a reasonably available range, then it should not interfere. </a></p><a name="para59">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This discussion is academic in the present case for I am of the view that Mitting J’s use of the dictionary definitions to confine the possible meanings of the Facebook post involved an error of law and, on that account the Court of Appeal needed to approach the question of meaning afresh. Since it did not do so, that task falls to this court, with the consequence which I have described. </a></p><a name="para60">
+ <p class="ParaHeading">Justification </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In light of my conclusion as to the correct meaning to be given to the words, “tried to strangle me”, section 5 of the Defamation Act 1952 must occupy centre stage. It is beyond dispute that Mr Stocker grasped his wife by the throat so tightly as to leave red marks on her neck visible to police officers two hours after the attack on her took place. It is not disputed that he breached a non-molestation order. Nor has it been asserted that he did not utter threats to Mrs Stocker. Many would consider these to be sufficient to establish that he was a dangerous and disreputable man, which is the justification which Mrs Stocker sought to establish. Mitting J considered that the meaning of the statement that the claimant was arrested on numerous occasions, in the context of the other statements, was that he represented a danger to any woman with whom he might live. I see no warrant for adding that dimension to the actual words used by Mrs Stocker in her various Facebook postings. </a></p><a name="para61">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Even if all her allegations were considered not to have been established to the letter, there is more than enough to satisfy the provision in section 5 of the 1952 Act that her defence of justification should not fail by reason only that the truth of every charge is not proved, having regard to the truth of what has been proved. </a></p><a name="para62">
+ <p class="ParaHeading">Conclusion </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I would allow the appeal, and subject to any submissions which the parties might wish to make, order that the costs of the appeal and the hearings before the lower courts be borne by the respondent. </a></p><a name="para63"> </a></div><a name="para63"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/17.html</i>
+</small>
+<p></p>
+
+ 
+
+
+</body></html>

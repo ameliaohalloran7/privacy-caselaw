@@ -1,0 +1,499 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Warner v Scapa Flow Charters (Scotland) [2018] UKSC 52 (17 October 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Warner v Scapa Flow Charters (Scotland) [2018] UKSC 52 (17 October 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/52.html</i>
+<br>Cite as: 
+[2018] WLR 4974,
+
+2019 SCLR 413,
+
+[2018] 1 WLR 4974,
+
+2018 SLT 1057,
+
+[2019] 1 Lloyd's Rep 529,
+
+[2018] UKSC 52,
+
+[2018] WLR(D) 651,
+
+[2019] 2 All ER 1042,
+
+2018 GWD 32-411,
+
+[2019] 2 All ER (Comm) 1,
+
+2019 SC (UKSC) 1
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/52.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2018006407/casereport_98a85a32-7241-4ee5-b958-45ad2a368d59/html">[2018] 1 WLR 4974</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2018006407/casereport_e14da7ac-9879-47cd-ae47-cfce7091d2fd/html">[2018] WLR(D) 651</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<center><a href="/uk/cases/UKSC/2018/52.image.pdf">Summary</a></center>
+ <div class="WordSection1">
+ <p class="MsoNormal" align="right" style="text-align:right"> <b>&nbsp; </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <b>&nbsp; </b></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <a name="Text12"> <b>Michaelmas Term </b> </a></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <b>[2018] UKSC 52 </b></p>
+ <p class="MsoNormal" align="right" style="text-align:right"> <i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2017/[2017]CSIH13.html">[2017] CSIH 13</a> </i></p>
+ <p class="MsoNormal"> <b> <span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="letter-spacing:-.15pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:20.0pt">JUDGMENT </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b>&nbsp; </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b>&nbsp; </b></p>
+ <center><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="margin-left:5.0pt;border-collapse:collapse"> <tbody><tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="Title1" style="margin-left:4.0pt"> <span style="font-size:20.0pt">Warner (Respondent) <i>v </i>Scapa Flow Charters (Appellant) (Scotland) </span></p> </td> </tr> <tr> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+ <p class="MsoNormal"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:14.0pt">before </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lady Hale, President </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Reed, Deputy President </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Sumption </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Hodge </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:17.0pt">Lord Briggs </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p>
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">JUDGMENT GIVEN ON </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:18.0pt">17 October 2018 </span> </b></p> </td> </tr> <tr style="height:20.55pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.55pt">
+ <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center; text-indent:-288.0pt"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" style="text-align:justify"> <b> <span style="font-size:16.0pt">&nbsp; </span> </b></p> </td> </tr> <tr style="height:20.6pt"> <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm; height:20.6pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <b> <span style="font-size:15.0pt">Heard on 28 June 2018 </span> </b></p> </td> </tr> </tbody></table> </center></div> <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> <br clear="all" style="page-break-before:always"> </span>
+ <div class="WordSection2">
+ <p class="MsoNormal">&nbsp; </p>
+<center> <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> <tbody><tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Appellant </i></p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center"> <i>Respondent </i></p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Robert BM Howie QC </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Robert Milligan QC </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Ruth Charteris </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">Richard Pugh </p> </td> </tr> <tr> <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by BTO Solicitors LLP) </p> </td> <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p> </td> <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+ <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Digby Brown LLP (Aberdeen)) </p> </td> </tr> </tbody></table></center>
+ <p class="MsoNormal">&nbsp; </p>
+ <p class="MsoNormal" align="center" style="text-align:center">&nbsp; </p>
+ <p class="MsoNormal"> <b>&nbsp; </b></p> </div> <span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif"> <br clear="all" style="page-break-before:always"> </span>
+ <div class="WordSection3">
+ <p class="NewSpeech">LORD HODGE: ( <span style="text-transform:none">with whom Lady Hale, Lord Reed, Lord Sumption and Lord Briggs agree) </span></p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This appeal raises a question about the interpretation of article 16 of the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea 1974 (“the Athens Convention”) and its application to the Scots law of limitation of actions. </a></p><a name="para1">
+ <p class="ParaHeading">Factual background </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Lex Warner chartered the m/v Jean Elaine, a motor vessel operated by Scapa Flow Charters (“SFC”) for the week 11-18 August 2012. On 14 August 2012 when dressed in diving gear while preparing to dive on a wreck north west of Cape Wrath, Mr Warner fell onto the deck of the vessel. He was helped to his feet and went ahead with the dive to the depth of 88 metres. He got into trouble during the dive and, despite the assistance of other divers who brought him back to the surface of the water and on to the motor vessel, could not be revived and was pronounced dead. </a></p><a name="para2">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Warner’s widow, Debbie Warner, raised an action against SFC in which she alleged that her husband’s death was the result of SFC’s negligence. She sought damages both as an individual and as guardian of their young son, Vincent, who had been born in November 2011. Her summons was signetted on 14 May 2015. SFC lodged a defence that the action was time-barred under the Athens Convention, which, in the case of a death occurring during carriage, imposes a time bar of two years from the date on which the passenger would have disembarked. It is a matter of agreement between the parties that Mr Warner would have disembarked no later than 18 August 2012. </a></p><a name="para3">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Both parties agreed that the Athens Convention applied to the circumstances of the accident. SFC’s time bar challenge under the Athens Convention was discussed on the Procedure Roll without hearing evidence as the facts upon which the court could determine the validity of the defence were not in dispute. The Lord Ordinary, having heard argument from both parties, upheld the time bar defence and dismissed the action. Mrs Warner appealed by reclaiming motion to the Inner House (Lord Menzies, Lady Clark of Calton and Lord Glennie). In a judgment delivered by Lord Glennie on 16 February 2017 (</a><a title="Link to BAILII version" href="/scot/cases/ScotCS/2017/[2017]CSIH13.html">[2017] CSIH 13</a>), the Inner House upheld the Lord Ordinary’s opinion in relation to her claim as an individual but reversed his order in relation to her claim on behalf of her son, finding that her claim as guardian of her son was not time barred. </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5">5.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>SFC appeals to this court with the permission of the Inner House. Mrs Warner has not appealed the dismissal of her claim as an individual. </a></p><a name="para5">
+ <p class="ParaHeading">The Athens Convention </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Athens Convention has the force of law in the United Kingdom: Merchant Shipping Act 1995, section 183. The Carriage of Passengers and their Luggage by Sea (Domestic Carriage) Order 1987 (SI 1987/670) has extended the application of the Athens Convention to contracts for the domestic carriage of passengers by sea. Article 16 of the Athens Convention, which is set out in Schedule 6 to the 1995 Act, provides: </a></p><a name="para6">
+ <p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; Any action for damages arising out of the death of or personal injury to a passenger or for the loss of or damage to luggage shall be time-barred after a period of two years. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The limitation period shall be calculated as follows: </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the case of personal injury, from the date of disembarkation of the passenger; </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the case of death occurring during carriage, from the date when the passenger should have disembarked, and in the case of personal injury occurring during carriage and resulting in the death of the passenger after disembarkation, from the date of death, provided that this period shall not exceed three years from the date of disembarkation; </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in the case of loss of or damage to luggage, from the date of disembarkation or from the date when disembarkation should have taken place, whichever is later. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The law of the court seized of the case shall govern the grounds of suspension and interruption of limitation periods, but in no case shall an action under this Convention be brought after the expiration of a period of three years from the date of disembarkation of the passenger or from the date when disembarkation should have taken place, whichever is later. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notwithstanding paragraphs 1, 2 and 3 of this article, the period of limitation may be extended by a declaration of the carrier or by agreement of the parties after the cause of action has arisen. The declaration or agreement shall be in writing.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mrs Warner’s claim on behalf of her son is subject to the two-year time bar in article 16(1) unless, as the Inner House held, article 16(3) applies to extend that period. In this appeal SFC accepts that Scots law as the law of the forum is the relevant law under article 16(3). SFC advances two principal contentions. </a></p><a name="para7">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>SFC contends, first, that the natural meaning of the words “grounds of suspension and interruption of limitation periods” in article 16(3) is that they are grounds which give rise to a break in a period or course of events which is already in train. Mr Howie QC for SFC refers to the judgment of the Court of Appeal of England and Wales in <i>Higham v Stena Sealink Ltd </i>[1996] 1 WLR 1107. </a></p><a name="para8">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The second and alternative contention is that the words have a technical meaning derived from certain civil law systems, including the law of Spain, the Swiss Code of Obligations and the Civil Code of Quebec. Mr Howie refers the court to Berlingieri, <i>Time-Barred Actions </i>(2nd ed) <span lang="FR">(1993) pp xiv, 157 and 164 and Baudouin et al, <i>La Responsabilité Civile </i>(8th ed) </span>(2014) vol 1 (Principes généraux), paras I-1326 and I-1333. He submits that those and other civil law systems draw a distinction between a “suspension” and an “interruption”. The former refers to the situation in which a limitation period, which has started to run but has been paused by an event, such as the onset of mental incapacity, resumes its running when the incapacity ceases with the rest of the period remaining. Thus, if an event, which had caused the limitation period to stop running after it had run for six months, ceased to exist, the limitation period would resume running with six months already spent. The latter term, “interruption”, refers to a circumstance in which the limitation period, having been halted by an event, commences afresh when the halting event ceases and the time which has expired before the halting event does not count towards the running the limitation period. Thus, if a two-year limitation period were interrupted by an event, the limitation period would begin again with two years to run when the halting event ceased. </a></p><a name="para9">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Whichever contention is correct, SFC submits that a suspension or an interruption operates only if the limitation period has begun to run before the pausing or halting event occurred. </a></p><a name="para10">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Athens Convention in article 16(2)(b) has a mandatory date from which the two-year limitation period begins to run, namely the date when the deceased passenger, who died during carriage, should have disembarked. Article 16(3), SFC submits, allows a domestic rule of limitation of the lex fori to extend the two-year limitation by up to one year when the domestic rule operates to pause the running of time in a limitation period which had already commenced but not otherwise. </a></p><a name="para11">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>On either approach, SFC contends that the Scots law of limitation enacted in section 18 of the Prescription and Limitation (Scotland) Act 1973 (“the 1973 Act”), which I discuss below, does not contain such “grounds of suspension and interruption” as to extend the limitation period. This is because, it is submitted, section 18 of the 1973 Act postpones the start of the limitation period instead of interrupting or suspending it as the Athens Convention envisages. SFC contends therefore that Mrs Warner’s claim as Vincent’s guardian is barred by the two-year time bar of article 16(1) of the Athens Convention. </a></p><a name="para12">
+ <p class="ParaHeading">Discussion </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Athens Convention, like many international conventions concerning international carriage and transport, aims within its scope to create an international code which replaces the differing domestic rules of the states which have acceded to it by uniform international rules. </a></p><a name="para13">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In interpreting an international convention, national courts must look at the objective meaning of the words used and the purpose of the convention as a whole: <i>Fothergill v Monarch Airlines Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1980/6.html">[1981] AC 251</a>, 272 per Lord Wilberforce, 279 per Lord Diplock, 290-291 per Lord Scarman. This approach is consistent with the approach to interpretation in articles 31(1) and 32 of the Vienna Convention on the Law of Treaties (1969) ((1971) Cmnd 7964) which entered into force in 1980 after the Athens Convention was adopted and which does not formally apply to it, but which Lord Diplock saw as a codification of pre-existing public international law: <i>Fothergill </i>, at p 282. </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Because the rules of an international convention will be applied in the courts of many countries with differing domestic legal systems, our courts have adopted an approach to interpretation which respects the international character of such a document. In <i>Stag Line Ltd v Foscolo, Mango and Co Ltd </i>[1932] AC 328, Lord Macmillan stated (350): </a></p><a name="para15">
+ <p class="MsoQuote" style="margin-left:72.0pt">“As these rules must come under the consideration of foreign Courts it is desirable in the interests of uniformity that their interpretation should not be rigidly controlled by domestic precedents of antecedent date, but rather that the language of the rules should be construed on broad principles of general acceptation.” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>His formulation, which was consistent with that of Lord Atkin in the same case at 342-343, was confirmed by the House of Lords in <i>James Buchanan &amp; Co Ltd v Babco Forwarding &amp; Shipping (UK) Ltd </i>[1978] AC 141, 152 per Lord Wilberforce, and by each of their Lordships in <i>Fothergill </i>(above). More recently, Lord Hope of Craighead has confirmed this approach in <i>Abnett v British Airways plc </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1996/5.html">1997 SC (HL) 26</a>, 44; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1996/5.html">[1997] AC 430</a> (sub nom <i>Sidhu v British Airways plc </i>), 453, <b> </b>and in <i>King v Bristow Helicopters Ltd </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/7.html">2002 SC (HL) 59</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2002/7.html">[2002] 2 AC 628</a> (sub nom <i>Morris v KLM Royal Dutch Airlines </i>), paras 75-81. In <i>King </i>Lord Hope stated the convention “was not based on the legal system of any of the contracting states. It was intended to be applicable in a uniform way across legal boundaries” (para 77). He also stated “the language used should be construed on broad principles leading to a result that is generally acceptable” (para 78). Similarly, Lord Hobhouse of Woodborough in <i>King </i>stated that the purpose of uniformity required the national court to “put to one side its views about its own law and other countries’ laws” and focus on the question “what do the actual words used mean?” (para 147). </p>
+ <p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In carrying out this task, the courts can use as aids to the interpretation of the convention the travaux préparatoires, the case law of foreign courts on the convention and the writings of jurists in so far as the court considers necessary: <i>Sidhu </i>(above). Many international conventions are the product of negotiation between legal experts from many jurisdictions leading to compromise in their wording. Often the travaux préparatoires, if public and accessible, provide only limited assistance in resolving ambiguities or obscurities in a convention as the views of individual expert delegates on the meaning of the words used in a convention are simply their views and, absent consensus, are not determinative as to a definite legislative intention. When the court addresses foreign judicial decisions on a convention “[c]onsiderable weight should be given to an interpretation which has received general acceptance in other jurisdictions”: <i>King </i>, para 81 per Lord Hope. In the same paragraph Lord Hope stated that judicial decisions on the convention should be approached with discrimination if there is no clear agreement between them. </a></p><a name="para17">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In this appeal counsel informed the court that the travaux préparatoires of the Athens Convention provided no assistance. He referred to a judgment of the Court of Appeal of New Brunswick, <i>Russell et al v Mackay </i>[2007] NBCA 55 on the interpretation of article 16(3). In that case the Court of Appeal of New Brunswick held that article 16(3) did not allow the court of the lex fori to exercise judicial discretion under its domestic law to extend a limitation period. That is not in dispute. Counsel also referred to <i>Malcolm v Shubenacadie Tidal Bore Rafting Park Ltd </i>2014 NSSC 217 in which the Supreme Court of Nova Scotia applied the time limit in article 16 of the Athens Convention to give summary judgment dismissing a claim arising from a boating accident which was raised more than four years after the accident. The judgment contains no reasoning on the interpretation of the words in issue in this appeal. </a></p><a name="para18">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This court is therefore forced back onto the principles, which I have set out above, which the courts have developed for the interpretation of international conventions. Approaching the matter that way, I take Mr Howie’s submissions in reverse order. </a></p><a name="para19">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For the following three reasons, I do not accept that this court should give a technical meaning to the words “suspension and interruption” which, SFC asserts, can be derived from certain civil law systems. </a></p><a name="para20">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>First, it is not appropriate to look to the domestic law of certain civil law systems for a technical meaning of the words in an international convention which was designed to be operated in many common law systems as well. Professor Francesco Berlingieri in his work, <i>Time-Barred Actions </i>to which I referred in para 9 above, recorded the responses of 27 national maritime law associations to a questionnaire prepared with the support of the Comité Maritime International. In chapter 4 he recorded the responses concerning the statutory provisions of the respondent countries in relation to the suspension of time-bar periods. In his discussion of the response from Australia on p 157 he recorded that in Victoria, Queensland, Western Australia and Tasmania “the time-bar period is suspended if the claimant is under a disability when the cause of action arises, and begins when the disability ceases”. Israel described as “suspension” the postponement of the commencement of the limitation period if the cause of action is fraud so that it would start when the claimant becomes aware of the fraud. Ireland responded similarly. This is unsurprising as the word “suspension” in its natural meaning can readily cover the postponement of the start of a limitation period. </a></p><a name="para21">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Secondly, even within civil law systems and mixed legal systems which are strongly influenced by the civil law there was no uniformity in the use of the expression “suspension” in 1974 when the Athens Convention was adopted. </a></p><a name="para22">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I recognise that there are some matters on which there is wide agreement. For example, there appears to be a recognised distinction as to result between suspension and interruption: after an “interruption” of a prescription period which had been running, the period commences again as of new and the prior period is in effect cancelled, while at the end of a “suspension”, if the prescription period has started to run, the running of time resumes at the point it was before the suspension so that the time which has passed before the suspension counts towards the prescription period. </a></p><a name="para23">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>There also appears to be a widespread understanding of the meaning of “interruption”. Professor Berlingieri’s presentation (p 175f) of the responses in relation to statutory rules on interruption shows that interruption is achieved (i) by the actions of the creditor, principally by commencing judicial proceedings and, in a minority of jurisdictions, by serving a written warning or a notice of intention to exercise a right, or (ii) by the actions of the debtor, for example in acknowledging the subsistence of the debt. In those circumstances, the limitation period starts again. In this appeal we are not concerned with “interruption” in this sense but with the meaning of “suspension” in the Athens Convention. </a></p><a name="para24">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In civil law jurisdictions, the word “suspension” has been used in more than one sense, encompassing both a temporary pause in a prescription period which has already started to run and also the postponement of the start of a prescription period. Thus, the French Civil Code in 1974 recorded under the heading, “Des causes qui suspendent le cours de la prescription” the following: </a></p><a name="para25">
+ <p class="MsoQuote" style="margin-left:72.0pt"> <span lang="FR">“Article 2252. La prescription ne court pas contre les mineurs non emancipés et les majeures en tutelle, sauf ce qui est dit à l’article 2278 et à l’exception des autres cas déterminés par la loi </span>.” </p>
+ <p class="ParaNoNumber">This article, under the heading of suspension, covers the postponement of the start of the prescription period when a person is a minor and when an adult is subject to tutorship. The Quebec Civil Code under the heading of “Suspension of Prescription” includes examples of circumstances in which the commencement of the prescription period is postponed, such as article 2904: “Prescription does not run against persons if it is impossible in fact for them to act by themselves or to be represented by others”. </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We were also referred to the Prescription Act 1943 (Act no 18 of 1943) of the Union of South Africa which in section 7 provided that extinctive prescription be suspended (i) until the date on which the creditor might reasonably have been expected to discover the true facts in respect of his right of action if the fraud of the debtor had prevented the creditor from discovering such facts (section 7(1)(d)) and (ii) in an action founded on the debtor’s fraud, until the date on which the creditor might reasonably have been expected to discover the fraud (section 7(1)(e)). Although separate provision was made in sections 9 and 10 of the 1943 Act to postpone the commencement of the prescriptive period in circumstances which overlapped with other provisions in section 7, the use of the word “suspension” in these two subsections of section 7 must have included the postponement of the commencement of the prescriptive period. The 1943 Act was repealed by the Prescription Act 1969 (Act no 68 of 1969) which does not use the terminology of “suspension”. But the 1943 Act is another indication of a non-exclusive use of the word “suspension”. In this regard I respectfully disagree with the obiter view expressed by Supreme Court of Appeal of South Africa in in <i>ABP 4x4 Motor Dealers (Pty) Ltd v IGI Insurance Co Ltd </i>1999 (3) SA 924, para 13, that the 1943 Act drew a clear distinction between the delaying of the commencement of the running of prescription and the suspension of its running after the prescription period had commenced. Further, Professor Berlingieri (p 165) records that article 132 of the Code of Obligations in Turkey treats specified circumstances as suspending the start of the period of prescription. </a></p><a name="para26">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It appears therefore that within civil law systems there is no international consensus - that “suspension” occurs only after the prescription period has commenced - which would support the technical meaning for which Mr Howie argues. </a></p><a name="para27">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Thirdly, an interpretation of article 16(3) of the Athens Convention as excluding domestic rules which have the effect of postponing the start of a limitation period would give rise to serious anomalies. Many legal systems suspend the operation of prescription or limitation when a claimant is a minor or is subject to a recognised legal disability such as mental incapacity. If Mr Howie were correct in his interpretation of “suspension” in the Athens Convention, the Convention would recognise as a ground of suspension a legal incapacity which arose after the prescription or limitation period commenced but not such incapacity that predated the start of that period. A minor born before the commencement of the prescription or limitation period could not take advantage of the added year which article 16(3) provides but a minor born after the commencement of the period would benefit from that added year. A similar anomaly would arise depending on the date on which a creditor or claimant was affected by an incapacity such as mental illness. </a></p><a name="para28">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Mr Howie recognised that those anomalies would arise but suggested that they were the price which was paid for the legal certainty which the Convention sought. I am not persuaded. The Athens Convention seeks to create legal certainty in article 16(3) by requiring that, where the lex fori provides a ground for suspension or interruption of the period, the damages action must nonetheless commence within the long-stop period of three years. </a></p><a name="para29">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In my view, the words in article 16(3) of the Athens Convention, “the grounds of suspension … of limitation periods” are sufficiently wide to cover domestic rules which postpone the start of a limitation period as well as those which stop the clock after the limitation period has begun. I therefore agree with Lord Glennie in the judgment of the Inner House (para 17): “the word ‘suspension’ … is also apt to include the deferment or suspension of something which has not yet started”. </a></p><a name="para30">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I turn to examine Mr Howie’s first submission and his reliance on the case of <i>Higham v Stena Sealink Ltd </i>. In that case a passenger raised an action for damages for personal injuries suffered while she was a passenger on a ferry. She raised the action just over two years after her accident. The shipowners sought to strike out the claim by pleading the two-year limitation period of the Athens Convention. The Court of Appeal (Hirst and Pill LJJ) upheld the decision to strike out the claim. The court rejected an argument by the claimant that section 39 of the Limitation Act 1980 superseded the application of the time bar in article 16(1) of the Athens Convention. We are not concerned with that argument which the Court of Appeal correctly rejected. The other argument, which the Court of Appeal rejected, was that section 33 of the 1980 Act, which gives a court discretion on equitable grounds to allow an action for personal injuries to proceed notwithstanding the expiry of a limitation period, should be treated as a ground of “suspension” or “interruption” under article 16(3) of the Athens Convention. I agree with that conclusion. But there are two aspects of the reasoning of Hirst LJ with which I cannot agree. </a></p><a name="para31">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>First, Hirst LJ expressed the view (at p 1112C-D) that dictionary definitions of “suspension” and “interruption” all contemplated “a break in a period or course of events which are presently in train”. In agreement with the Inner House, I cannot agree with that view as the dictionary definition of “suspension” to which Hirst LJ referred included “postponement” as one of its meanings. In any event, as I have discussed above, there is reason to conclude that “suspension” in the context of prescription or limitation has a broader meaning in several legal systems. </a></p><a name="para32">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Secondly, Hirst LJ observed (obiter) that there were other sections in the Limitation Act 1980, such as section 32, which postpones the limitation period in the case of fraud, concealment or mistake, which might at first sight be eligible to qualify under article 16(3) of the Convention. But he went on to express the tentative view that the fact that in each case the section postponed the periods of limitation “prescribed by this Act” or words to that effect might disqualify them (p 1111F-G). If in expressing that view he meant that the grounds of suspension in the lex fori were to apply under article 16(3) of the Convention only if they were framed to extend beyond the scope of the domestic limitation regime of the lex fori so as to cover limitation periods in conventions such as the Athens Convention, I must respectfully disagree. In my view, where article 16(3) speaks of the law of the court seized governing “the grounds of suspension … of limitation <i>periods </i>” (in the plural) it was applying the grounds - such as minority or mental incapacity - which the lex fori would apply to domestic claims for personal injury, or death or loss or damage to property. Thus, the existence of a ground in a domestic limitation statute which suspended the limitation periods set out in that statute, such as section 32 of the Limitation Act 1980 (fraud, concealment or mistake) or in this appeal section 18 of the 1973 Act (legal disability by reason of non-age or unsoundness of mind) is sufficient to bring article 16(3) into operation and extend the article 16 time bar by one year. </a></p><a name="para33">
+ <p class="ParaHeading">Section 18 of the 1973 Act </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 18 of the 1973 Act provides: </a></p><a name="para34">
+ <p class="MsoQuote" style="margin-left:72.0pt">“(1)&nbsp;&nbsp;&nbsp;&nbsp; This section applies to any action in which, following the death of any person from personal injuries, damages are claimed in respect of the injuries or the death. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to subsections (3) and (4) below and section 19A of this Act, no action to which this section applies shall be brought unless it is commenced within a period of three years after - </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the date of death of the deceased; or </p>
+ <p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the date (if later than the date of death) on which the pursuer in the action became, or on which, in the opinion of the court, it would have been reasonably practicable for him in all the circumstances to become, aware of both of the following facts - </p>
+ <p class="MsoQuote" style="margin-left:144.0pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the injuries of the deceased were attributable in whole or in part to an act or omission; and </p>
+ <p class="MsoQuote" style="margin-left:144.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the defender was a person to whose act or omission the injuries were attributable in whole or in part or the employer or principal of such a person. </p>
+ <p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where the pursuer is a relative of the deceased, there shall be disregarded in the computation of the period specified in subsection (2) above any time during which the relative was under legal disability by reason of non-age or unsoundness of mind. …” </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Under the Scottish regime for limitation of actions arising out of the death of a person from personal injuries there is therefore a three year time bar and, in computing that period of limitation from the starting point in section 18(2), there is disregarded any time when the pursuer is under a legal disability, because he is under the age of 16 years (Age of Legal Capacity (Scotland) Act 1991, section 1) or because of mental incapacity. </a></p><a name="para35">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>SFC accepts that if the only time bar in play were that of section 18 of the 1973 Act, Mrs Warner’s claim as guardian of Vincent would not be time-barred. But SFC contends that section 18(3) cannot save Vincent’s claim from the time bar in article 16(1) of the Athens Convention (a) because it does not suspend or interrupt any period of limitation but postpones the date when the limitation period starts to run, (b) because the starting point of the limitation period under section 18 would be the date of the removal of the disability and not the date of disembarkation which article 16 imposes, and (c) because a domestic provision cannot defer the running of the two-year limitation period in article 16 until beyond the long stop of three years in article 16(3). </a></p><a name="para36">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I am satisfied that there is no substance in those submissions. First, the start of the limitation period under section 18 is the date identified by subsection (2) and subsection (3) instructs the court to disregard the time thereafter during which the pursuer is under a legal disability. There is no question of postponing the start of the limitation period; that remains the date identified in subsection (2). Where the pursuer’s legal disability predates the start of the limitation period, the practical effect of the disregard on the calculation of the expiry of the three-year limitation period will be the same as a postponement of the start of the limitation period; but the statutory mechanism is not a postponement of the start. The limitation period thus commences at the punctum temporis of the section 18(2) event and the disregard suspends the running of time until the legal disability is removed. In any event, for the reasons which I have set out above in discussing the Athens Convention I do not accept that a postponement of the start of a limitation period falls outside an international understanding of a “suspension” of limitation periods. </a></p><a name="para37">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Secondly, for the reasons set out in para 33 above, I do not accept that article 16(3) of the Athens Convention requires the rules for suspending the running of a limitation period in the domestic law of the lex fori to extend beyond the domestic statutory regime to encompass the limitation rules of the Convention. It is true that section 18(3) only operates to postpone the expiry date of the limitation period set out in section 18(2). But that does not matter. Article 16(3) instructs the court to look to the lex fori for its domestic grounds for suspension of limitation periods. In section 18(3) the grounds for the disregard of time are that the pursuer is under a legal disability by reason of non-age or unsoundness of mind. Under article 16(3) of the Convention, that legal disability, which the domestic law of the lex fori recognises as a ground of suspension, has the effect of suspending the running of time on the limitation period imposed by article 16(1) and 16(2), namely the two years from the date when Mr Warner should have disembarked. Contrary to SFC’s contention, the application of the grounds of suspension in section 18(3) of the 1973 Act involves no inconsistency with article 16(2) of the Athens Convention. </a></p><a name="para38">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Thirdly, that suspension of the running of the limitation period imposed by the Athens Convention is subject to the long stop in article 16(3): “in no case shall an action under this Convention be brought after the expiration of a period of three years from the date … when disembarkation should have taken place …”. A domestic “suspension” provision cannot defer the expiry of the Convention’s limitation period beyond that long stop. </a></p><a name="para39">
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In agreement with the Inner House, I conclude that Mrs Warner’s claim as Vincent’s guardian is not time barred by the Athens Convention. </a></p><a name="para40">
+ <p class="ParaHeading">Conclusion </p>
+ </a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.
+ <span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>I would dismiss the appeal. </a></p><a name="para41"> </a></div><a name="para41"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/52.html</i>
+</small>
+<p></p>
+
+ 
+
+
+</body></html>

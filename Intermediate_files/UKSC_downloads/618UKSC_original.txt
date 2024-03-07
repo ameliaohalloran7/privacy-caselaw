@@ -1,0 +1,1178 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Totel Ltd v Revenue and Customs [2018] UKSC 44 (26 July 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.st1
+	{mso-style-name:st1;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Totel Ltd v Revenue and Customs [2018] UKSC 44 (26 July 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/44.html</i>
+<br>Cite as: 
+[2018] WLR(D) 531,
+
+[2018] 1 WLR 4053,
+
+[2018] STC 1642,
+
+[2018] WLR 4053,
+
+[2018] UKSC 44,
+
+[2018] BVC 38,
+
+[2018] 4 All ER 949,
+
+[2018] STI 1496
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/44.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2011212415/casereport_979df83a-0e9f-478d-a87d-6f73d8e8c53a/html">[2018] 1 WLR 4053</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2011212415/casereport_81ffe159-b366-4c35-a25b-69ccfe4ac4dc/html">[2018] WLR(D) 531</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<center><a href="/uk/cases/UKSC/2018/44.image.pdf">Summary</a></center>
+<div class="WordSection1">
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>&nbsp;</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>Trinity Term</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 44</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/1310.html">[2016] EWCA Civ 1310</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="width:448.6pt;margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr style="height:95.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:95.6pt">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Totel
+  Ltd (Appellant) <i>v</i> Commissioners for Her Majesty’s Revenue and Customs
+  (Respondent)</span></p>
+  <p class="Title1" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:3.95pt;margin-bottom:.0001pt"><span style="font-size:20.0pt">&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Briggs</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">26 July 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt">&nbsp;</p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 25 and 26 April 2018</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+<center>
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Firth</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jonathan Swift QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Katherine Eddy</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Morrisons
+  Solicitors LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by HMRC
+  Solicitor’s Office (Salford))</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LORD BRIGGS: <span style="text-transform:none">(with whom
+Lady Hale, Lord Sumption, Lord Carnwath and Lord Hodge agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Traders who wish to appeal against assessments to Value Added Tax
+(“VAT”) in the United Kingdom are required, by section 84 of the Value Added
+Tax Act 1994, first to pay or deposit the tax notified by the assessment with
+HMRC, unless they can demonstrate that to do so would cause them to suffer hardship.
+Otherwise, their appeal will not be entertained. This “pay-first” requirement
+is a feature of the procedural regime for appealing assessments to a number of
+other types of tax, including Insurance Premium Tax, Landfill Tax, Climate
+Change Levy and Aggregates Levy. But it is not a condition for appealing
+assessments to Income Tax, Capital Gains Tax (“CGT”), Corporation Tax or Stamp
+Duty Land Tax (“SDLT”).</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>VAT is, in the UK and elsewhere in the European Union, regulated by the
+provisions of EU Directives, currently of VAT Directive 2006/112. An appeal
+against an assessment to VAT is therefore a claim based on EU law. All the
+other taxes and levies referred to above are regulated by domestic law, so that
+appeals against assessments to any of them are based on domestic law.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant Totel Ltd (“Totel”) seeks to appeal a number of
+assessments to VAT but has been unable to demonstrate that a requirement to pay
+or deposit the tax in dispute would cause it hardship. But Totel claims that
+the requirement to pay or deposit the disputed tax as a condition for its
+appeals being entertained offends against the EU law principle of equivalence.
+In outline, this principle requires that the procedural rules of member states
+applicable to claims based on EU law are not less favourable than those
+governing similar domestic claims. It is submitted that appeals against
+assessment to Income Tax, CGT and SDLT are claims which are similar to appeals
+against assessment to VAT and that, because a VAT appeal is subjected to the
+pay-first requirement whereas those other appeals are not, then the UK’s
+procedural rules for VAT appeals are less favourable than those governing
+similar domestic claims.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the course of a convoluted but irrelevant procedural history Totel
+first raised its challenge based upon the principle of equivalence when
+(successfully) seeking permission to appeal from the Upper Tribunal (Tax and
+Chancery Chamber) to the Court of Appeal. In December 2016 the Court of Appeal
+rejected that challenge on two grounds. Logically the first (although the
+second to be dealt with in the leading judgment of Arden LJ) was that none of
+the domestic taxes (Income Tax, CGT and SDLT) relied upon by Totel were true
+comparators with VAT for the purpose of the application of the principle of
+equivalence. The second ground was that, even if they were, there were other
+domestic taxes (namely those described in para 1 above) which subjected appeals
+against assessments to the same pay-first requirement, so that it could not be
+said that EU-derived VAT appeals had been picked out for the worst procedural
+treatment. Accordingly, what is commonly called the “no most favourable
+treatment proviso” (“the Proviso”) applied so as to prevent infringement of the
+principle of equivalence.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this court Totel challenges both those conclusions of the Court of
+Appeal. For their part, HMRC challenge (for the first time) the underlying
+assumption that, when viewed in the round, the procedure for appeals against
+tax assessments is rendered less favourable to the taxpayer by the imposition
+of the pay-first requirement in relation to only some of them.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principle of equivalence and its qualifying Proviso are creatures of
+the jurisprudence of the CJEU (and its predecessors), and take effect within
+the general context that it is for each member state to establish its own
+national procedures for the vindication of rights conferred by EU law: see <i>EDIS
+v Ministero delle Finanze </i>(Case C-231/96,  </a><a title="Link to BAILII version" href="/eu/cases/EUECJ/1998/C23196.html">[1998] EUECJ C-231/96</a>) at paras 19 and 34 of the
+judgment. Further, it has been repeatedly stated by the CJEU that it is for the
+courts of each member state to determine whether its national procedures for
+claims based on EU law fall foul of the principle of equivalence, both by
+identifying what if any procedures for domestic law claims are true comparators
+for that purpose, and in order to decide whether the procedure for the EU law
+claim is less favourable than that available in relation to a truly comparable
+domestic claim. This is because the national court is best placed, from its
+experience and supervision of those national procedures, to carry out the
+requisite analysis: see <i>Palmisani v </i><i><span style="font-size:12.0pt">Istituto
+Nazionale della Previdenza Sociale </span></i><span style="font-size:12.0pt">(Case
+C-261/95) at para 38, and <i>Levez v TH Jennings (Harlow Pools) Ltd </i>(Case
+C-326/96) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/1998/C32696.html">[1999] ICR 521</a>, para 43.</span></p>
+
+<p class="ParaHeading">The search for a true comparator</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The principle of equivalence works hand in hand with the principle of
+effectiveness. That principle imposes a purely <span style="color:#222222">qualitative</span>
+test, which invalidates a national procedure if it renders the enforcement of a
+right conferred by EU law either virtually impossible or excessively difficult.
+By contrast, the principle of equivalence is essentially comparative. The
+identification of one or more similar procedures for the enforcement of claims
+arising in domestic law is an essential pre-requisite for its operation. If
+there is no true comparator, then the principle of equivalence can have no
+operation at all: see the <i>Palmisani </i>case<i>, </i>at para 39. The
+identification of one or more true comparators is therefore the essential first
+step in any examination of an assertion that the principle of equivalence has
+been infringed.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Plainly, the question whether any, and if so which, procedures for the
+pursuit of domestic law claims are to be regarded as true comparators with a
+procedure relating to an EU law claim will depend critically upon the level of
+generality at which the process of comparison is conducted. Is it sufficient
+that both claims are tax appeals, or (as Totel submits) appeals against the
+assessment of tax, or that they must both be made to the same tribunal? Or is
+it necessary to conduct some more granular analysis of the different claims,
+and the economic structures in which they arise? Or is there some simple
+yardstick which would prevent claims from being truly comparable, such as, in
+the present case, the difference between claims arising out of the assessment
+of liability to direct and indirect taxes, (as HMRC submits)? Decisions of the
+CJEU provide considerable assistance in identifying the correct approach to
+this task, although the guidance to be gained from some of them is not always
+that which springs from an over- simplistic analysis of particular phraseology.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, the question whether any proposed domestic claim is a true
+comparator with an EU law claim is context-specific. As Lord Neuberger put it
+in <i>Revenue and Customs Comrs v Stringer </i></a><a title="Link to BAILII version" href="/uk/cases/UKHL/2009/31.html">[2009] UKHL 31</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/31.html">[2009] ICR 985</a>
+at para 88:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It seems to me that the question
+of similarity, in the context of the principle of equivalence, has to be considered
+by reference to the context in which the principle is being invoked.”</p>
+
+<p class="ParaLevel1">This proposition was not in dispute between counsel, and it
+is therefore unnecessary to cite decisions of the CJEU in support of it,
+although most of those to which reference is made below illustrate or mandate
+the conduct of a context-specific enquiry.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The domestic court must focus on the purpose and essential
+characteristics of allegedly similar claims: see the <i>Levez </i>case, at para
+43 of the judgment:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In order to determine whether the
+principle of equivalence has been complied with in the present case the
+national court - which alone has direct knowledge of the procedural rules
+governing actions in the field of employment law - must consider both the
+purpose and essential characteristics of allegedly similar domestic actions.”</p>
+
+</a><p class="ParaLevel1"><a name="para10">To the same effect is para 35 of the judgment of the Grand
+Chamber in <i>Transportes Urbanos y Servicios Generales SAL v Administraci<span class="st1">ó</span>n del Estado </i>(Case C-118/08, </a><a title="Link to BAILII version" href="/eu/cases/EUECJ/2010/C11808.html">[2010] EUECJ C-118/08</a>). In <i>Littlewoods Retail
+Ltd v Revenue and Customs Comrs </i>(Case C-591/10) <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2012/C59110.html">[2012] STC 1714</a>, the Court
+at para 31 used the phrase “similar purpose and cause of action”, without in my
+view thereby intending to change the underlying meaning from that described in
+the earlier cases.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Of particular importance within the relevant context is the specific
+procedural provision which is alleged to constitute less favourable treatment
+of the EU law claim. This is really a matter of common sense. Differences in
+the procedural rules applicable to different types of civil claim are legion,
+and are frequently attributable to, or at least connected with, differences in
+the underlying claim. A common example is to be found in different limitation
+periods. Thus, in England and Wales, the primary limitation period for personal
+injury claims is three years, whereas the primary limitation period for most
+other claims is six years. There is a 20 year prescription period for property
+claims in Scotland. To treat personal injury and, for example, property claims
+as true comparators for the purpose of deciding whether the shorter limitation
+period for personal injury claims constituted less favourable treatment would
+make no sense. This is because it is no part of the purpose of the principle of
+equivalence to prevent member states from applying different procedural
+requirements to different types of claim, where the differences in those
+procedural requirements are attributable to, or connected with, differences in
+the underlying claims.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Michael Firth for Totel drew the court’s attention to some passages
+in European authorities which, he submitted, justified addressing the
+similarity question at a very high level of generality, in support of his broad
+submission that all UK appeals against tax assessments are true comparators
+with an appeal against a VAT assessment. He relied, for example, on the
+following passage in the court’s judgment in the <i>Transportes Urbanos</i>
+case, at para 36:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“As regards the purpose of the two
+actions for damages referred to in the previous paragraph, the Court notes that
+they have exactly the same purpose, namely compensation for the loss suffered
+by a person harmed as a result of an act or omission of the State.”</p>
+
+</a><p class="ParaLevel1"><a name="para12">Accordingly, he submitted, all claims against the state for
+compensation for loss were, at least in principle, capably of being truly
+comparable for the purposes of the principle of equivalence. Taken out of
+context, that citation might appear at first sight to support Mr Firth’s
+submission, but a closer analysis of that case shows that it does nothing of
+the kind. The claimant complained that it had been over-charged to VAT, and its
+consequential loss could be remedied if either the charge in question was
+contrary to European law, or if it was contrary to the Spanish Constitution. In
+the former case Spanish procedural law imposed a condition requiring prior
+exhaustion of remedies, whereas it did not for the latter. The alternative
+claims were held to be true comparables for the purposes of the principle of equivalence
+not because they were both, viewed in the abstract, claims against the state
+for compensation for loss, but because they were alternative legal bases for
+claiming compensation for precisely the same loss. This is, in particular,
+apparent from para 43 of the Court’s judgment. Alternative types of claim for
+compensation for exactly the same loss are a common example of true
+comparators: see eg <i>Preston v Wolverhampton Healthcare NHS Trust (No 2) </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2001/5.html">[2001] 2 AC 455</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For his part, Mr Jonathan Swift QC for HMRC submitted that dicta in
+European and domestic authority justified a conclusion that there could never
+be a true comparator with an appeal against a VAT assessment, apart from some
+other assessment to VAT. In short, he submitted that VAT, and all claims
+relating to it, were sui generis, with no true comparator arising from any
+other type of tax. He began with the following dictum of Moses J in <i>Marks
+&amp; Spencer plc v Comrs of Customs and Excise </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/1998/1143.html">[1999] 1 CMLR 1152</a>, a case
+in which a limitation period for the recovery of overpaid VAT was alleged to offend
+the principle of equivalence. At paras 61-62 he said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In my judgment no comparison can
+be made with other types of tax such as income tax payable in respect of an
+individual’s profits or the tax on a document imposed by stamp duty. Other
+forms of indirect taxation, such as excise duty, are wholly different types of
+tax.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">It seems to me that the
+jurisprudence of the European Court of Justice, exemplified in EDILIZIA,
+requires a comparison between the approach of a member state to the recovery of
+tax charged in breach of Community rules and the recovery of the <i>same tax</i>
+in breach of domestic rules. Any wider enquiry would invite unnecessary
+argument as to whether there is a true comparison.” (My emphasis)</p>
+
+<p class="ParaLevel1">Referring to the principle of equivalence, he concluded:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The principle is designed to
+protect Community law rights: adequate protection is afforded by focusing upon
+the way a member state deals with the same tax in a domestic as opposed to
+Community context.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The difficulty with this analysis, as Mr Firth pointed out, is that (as
+Mr Swift agreed) all claims to recover overpaid VAT are necessarily based on EU
+law, because VAT is a tax regulated by EU law. Moses J’s analysis was approved
+by the Court of Appeal in <i>Littlewoods Ltd v Revenue &amp; Customs Comrs </i>(CA)
+</a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/515.html">[2015] EWCA Civ 515</a>; <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/515.html">[2016] Ch 373</a>, paras 133-134 in the judgment of Arden LJ.
+But it appears that her analysis was based on the same concession, namely that
+there could be purely domestic claims for recovery of overpaid VAT.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Swift obtained more persuasive assistance from <i>Reemtsma
+Cigarettenfabriken GmbH v </i><i>Ministero delle Finanze</i> (Case C-35/05)
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2006/C3505.html">[2007] ECR I-2452</a>. It was alleged in that case that a provision limiting the
+identity of those who could claim a VAT repayment offended against the
+principle of equivalence because there was no comparable restriction in
+relation to the recovery of overpaid direct tax. At paras 94 and 95 of her
+opinion, Advocate General Sharpston agreed with the following submission of the
+Commission:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In general … a situation in that
+(<i>direct tax</i>) field is unlikely to be comparable to that in the field of
+VAT. In the latter it is in principle only the supplier who is in a direct
+legal relationship with the tax authority. Indeed, the whole system of direct
+taxation is unrelated to that of VAT. Since the principle of non-discrimination
+concerns only comparable situations, it is thus not relevant here.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In its judgment, the Court adopted the more general part of the
+Commission’s argument at para 45:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In the present case, the system of
+direct taxation, as a whole, is not related to the VAT system.”</p>
+
+<p class="ParaLevel1">Accordingly, the Court concluded that none of the EU
+anti-discriminatory principles, including the principle of equivalence, were
+engaged by the comparison between VAT and direct taxation.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><i>Compass Contract Services Ltd v Comrs for Her Majesty’s Revenue and
+Customs</i> (Case C-38/16) </a><a title="Link to BAILII version" href="/eu/cases/EUECJ/2017/C3816.html">EU:C:2017:454</a> involved a comparison between
+different limitation periods applicable to claims to recover overpaid VAT, and
+claims to deduct input tax from VAT otherwise due, for the purposes of the
+equal treatment principle. The Fourth Chamber of the CJEU concluded that, even
+within the confines of the VAT regime, the two claims were not truly
+comparable: see paras 36-39 of the judgment.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Taken together, these authorities certainly justify the exercise of very
+considerable caution by a national court when faced with the assertion that a
+VAT claim should be treated as truly comparable, for the purposes of the
+principle of equivalence, with a claim relating to some domestic tax, and in
+particular with any direct tax. But I do not consider it necessary or
+appropriate to go so far as to conclude that, for all purposes connected with
+the principle of equivalence, VAT claims must be treated as sui generis, with
+no possibility of there being a true comparator in a claim arising out of some
+other tax. My reasons follow.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, the identification of any such general rule would run counter to
+the context-specific basis upon which it is clear that the examination of
+comparators for the purposes of the principle of equivalence must be conducted.
+It would, in particular, rule out any analysis of the question whether the
+particular procedural provision alleged to amount to less favourable treatment
+had any connection with underlying differences between VAT and some different
+domestic tax.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, although the court’s ruling in the </a><a name="_Hlk512868582"><i>Reemtsma
+</i></a>case appears to come quite close to such a general conclusion, the
+principle of equivalence lay only at the fringe of the issues there being
+considered by the CJEU, with the result that, unsurprisingly, the point was
+addressed with what may fairly be described as extreme brevity. The case was
+mainly about the related principles of neutrality, effectiveness and
+non-discrimination.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, if the <i>Reemtsma</i> case had established such a general rule
+in 2007, namely that VAT is for this purpose sui generis, with no true
+comparators, it is difficult to understand why this did not constitute a simple
+solution to the question referred to the CJEU in the <i>Littlewoods </i>case<i>
+</i>(Case C-591/10) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2012/C59110.html">[2012] STC 1714</a>, which included the question whether the
+restriction of a successful claimant to a VAT repayment to simple interest
+offended the principle of equivalence, when compared with interest payable on
+other types of claim for repayment of tax under domestic law. It is evident
+from paras 42 to 48 of the opinion of Advocate General Trstenjak that there was
+a wide range of submissions as to potential comparators, including a concession
+from the UK government that, in principle, repayment claims under domestic
+indirect taxation were comparable for the purposes of the principle of
+equivalence, in the context of different entitlement to interest. In accordance
+with the Advocate General’s advice, the Court of Justice referred the comparability
+question to the UK courts. This must have been on the basis either that there
+was no rule of general application for all purposes that VAT claims could in no
+circumstances be treated as truly comparable with claims for repayment of domestic
+tax, or that the CJEU regarded claims for restitution against the state as
+falling within a separate category.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nevertheless, applying the context-specific analysis called for by the
+European jurisprudence which I have described, the Court of Appeal was in my
+judgment correct to conclude that none of the domestic taxes (namely Income
+Tax, CGT and SDLT) proposed by Totel constituted true comparators with VAT for
+the purpose of deciding whether the imposition in the VAT context of a
+pay-first requirement constituted less favourable treatment contrary to the
+principle of equivalence. This is because a trader seeking to appeal a VAT
+assessment is typically in a significantly different position from a taxpayer
+seeking to appeal an assessment to any of those other taxes, and in a manner
+which is properly to be regarded as sufficiently connected with the imposition
+of a pay-first requirement. In that respect my reasoning is closely aligned
+with that of the Court of Appeal, as explained in para 54 of Arden LJ’s
+judgment.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Subject to certain exceptions to which I refer below, VAT is a tax of
+which the economic burden falls upon the ultimate consumer, but which is
+collected by the trader from the consumer, and accounted for by the trader to
+HMRC. By contrast, taxpayers seeking to appeal an assessment to Income Tax, CGT
+and SDLT are being required to pay, from their own resources, something of
+which the economic burden falls on them, and which they have not collected, for
+the benefit of the Revenue, from anyone else. It is therefore no less than
+appropriate that traders assessed to VAT should be required (in the absence of
+proof of hardship) to pay or deposit the tax in dispute, which they have, or
+should have, collected, while no similar requirement is imposed upon the
+taxpayers in those other, and different, contexts.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I do not by reference to this connection between the pay-first requirement
+and the trader’s paradigm status as a tax collector rather than a taxpayer mean
+to suggest that it is a condition of the recognition of this important
+difference separating VAT from other taxes that the pay-first requirement was
+devised for that specific reason. The evidence before the court did not show
+what, in fact, the reason was. The existence of a logical rather than causal
+connection is sufficient to justify the conclusion that VAT is different from
+those other taxes in this context, rather than a true comparator, regardless of
+the reason for the imposition of the pay-first requirement.</a></p><a name="para24">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Firth sought to challenge this distinction between VAT and those
+other taxes. First, he submitted that the portrayal of the VAT registered
+trader as a collector rather than a payer of tax was true only for one of the
+three types of liability for VAT, the other two being acquisition from other
+member states and imports from outside the EU. That is, I agree, true of those
+heads of liability, but they arise only in a cross-border context, and for the
+purpose of making the VAT scheme work as a whole. The paradigm remains that of
+the trader who collects VAT from his customers and accounts for it to the
+Revenue.</a></p><a name="para25">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, Mr Firth submitted that by no means in every case would a
+trader seeking to appeal a VAT assessment already have collected the relevant
+tax from his customer. The appeal might be about whether his supply was subject
+to VAT, in circumstances where he had not charged VAT at all. That is, again, true
+as far as it goes, but it does not significantly impact on the paradigm. More
+typical are those appeals where the underlying dispute is whether the trader is
+entitled to deduct from tax collected on his supplies the VAT paid by him on
+his inputs.</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Thirdly, Mr Firth submitted that even if the VAT trader could generally
+be regarded as a collector rather than payer of tax, the same was equally true
+of an employer deducting and accounting for employees’ Income Tax under the
+PAYE scheme so that Income Tax was, nonetheless, a true comparator with VAT. I
+would, again, acknowledge that there is an element of similarity between the
+two, but there are important differences. First, in circumstances of wilful
+failure to deduct by the employer the employee remains liable to the Revenue
+for Income Tax whereas, in the VAT context, the only recourse of HMRC is to the
+trader rather than the consumer. This distinction is closely connected with the
+existence of a pay-first condition for a VAT appeal but not in a PAYE context. Secondly,
+the employer has not charged and received a payment from employees creating a
+fund for which the employer is accountable. Thirdly, the PAYE scheme is only a
+sub-set of the Income Tax scheme viewed as a whole, and lies nowhere near so
+close to the essential nature of the relevant tax structure as does the
+quasi-collector status of the VAT trader.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Finally, it was no part of Totel’s case that, for the purposes of the
+principle of equivalence, the PAYE part of the Income Tax scheme was the sole
+true comparator with VAT for the purpose of testing whether the pay-first
+requirement represented less favourable treatment. Rather, Totel’s case was
+that, simply because all appeals against assessments to tax are made for the
+same general purpose, and to the same tribunal, they could all properly be
+regarded as true comparators with appeals of assessments to VAT. That requires
+the similarity question to be addressed at a level of generality which is so
+high as to place it outside the entirety of the relevant jurisprudence about
+the principle of equivalence. It must therefore be rejected.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>My conclusion on this issue is sufficient to dispose of this appeal. The
+issue as to the meaning and application of the Proviso has content only against
+the hypothetical assumption that appeals against assessment to all kinds of
+direct and indirect domestic tax are true comparators with VAT appeals, and the
+unreality of that hypothesis makes it difficult to conduct a reliable analysis
+of the second issue. But it has been fully argued, and it was the first plank
+upon which the Court of Appeal dealt with the case. I shall therefore make some
+limited observations about it although, had it been necessary to decide this
+issue for the resolution of this appeal, I might have regarded it as deserving
+of a reference to the CJEU. But first it is convenient to deal with the new
+submission of HMRC that the imposition of the pay-first requirement does not in
+any event amount to less favourable treatment.</a></p><a name="para29">
+
+<p class="ParaHeading">Does the pay-first requirement amount to less favourable
+treatment?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This issue would arise if, contrary to my conclusion, there had been a
+truly comparable domestic tax in relation to which an appeal against an
+assessment was not subjected to the pay-first requirement which affects VAT
+appeals. It is an issue which would therefore arise if any of Income Tax, CGT
+or SDLT had been a true comparator for the purposes of the principle of
+equivalence.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Less favourable treatment is not, of course, established merely because
+the procedure for one type of claim contains a restriction or condition which
+is absent from the procedure for another type of claim. It is common to find
+that different claims are subjected to a package of procedural requirements,
+such that some of those affecting claim A are less favourable, but others more
+favourable, than those affecting claim B. A good example is to be found in <i>Preston
+v Wolverhampton NHS Trust (No 2) </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2001/5.html">[2001] 2 AC 455</a>,<i> </i>illustrated in
+paras 29 to 31 in the speech of Lord Slynn.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case, for the first time in this court, HMRC point out
+that appeals against assessment to Income Tax, CGT and SDLT are subject to a
+procedural regime such that the tax in dispute may still be collected pending
+the outcome of the appeal, by processes of enforcement which may include the
+presentation of a winding-up petition against the taxpaying company, unless the
+taxpayer can obtain postponement of payment, by demonstrating that there are
+reasonable grounds for believing that the tax in dispute has been overcharged:
+see, in relation to Income Tax, section 55 of the Taxes Management Act 1970
+and, in relation to SDLT: paragraph 39 of Schedule 10 to the Finance Act 2003.
+If the taxpayer faces a winding-up petition on the basis of the tax in dispute,
+then it may defend that petition by showing that the amount in dispute is <i>bona
+fide</i> disputed on substantial grounds.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>HMRC concedes that the same principles about postponement, and the
+defence of a winding-up petition, apply also to the collection of VAT pending
+an appeal: see <i>Revenue and Customs Comrs v Changtel Solutions UK</i> <i>Ltd</i>
+</a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/29.html">[2015] EWCA Civ 29</a>; <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/29.html">[2015] 1 WLR 3911</a>. Nonetheless Mr Swift submits that, in
+practice, a trader who has obtained disapplication of the pay-first requirement
+by demonstrating hardship would not thereafter be subjected to any process of
+enforced collection of the disputed tax, pending the outcome of the appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Swift’s point is not so much that the pay-first requirement in
+relation to VAT is balanced out by the provisions about collection and
+postponement pending appeal in relation to Income Tax, CGT and SDLT. Rather, he
+submits that, looked at in the round, the two regimes have broadly the same
+effect, so that the VAT regime cannot be described as less favourable.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Viewed from the perspective of a trader with a good case for proving
+hardship, together with a reasonable prospect of success on appeal, that might
+in practice be so, although I would not accept that in no circumstances could a
+tax demand be enforced against a VAT trader who had established hardship. The
+two statutory tests are not the same. Nonetheless, from the perspective of a
+trader who cannot demonstrate hardship, the position seems to me to be rather
+different. Such a trader would have to raise and lodge the tax in dispute up
+front, before commencing an appeal. By contrast a taxpayer under Income Tax,
+CGT or SDLT is at liberty to initiate an appeal against an assessment, and may
+or may not be faced with an application for collection by HMRC. More generally,
+there is in my view no escape from the fact that the pay-first requirement is
+additional to, rather than a substitute for, the regime for collection and
+postponement so that, in principle, it constitutes less favourable treatment
+for VAT appellants even if, in certain types of supposedly comparable cases, it
+may make no difference to the outcome, in terms of the ability to prosecute an
+appeal without paying the tax in dispute.</a></p><a name="para35">
+
+<p class="ParaHeading">The no most favourable treatment Proviso</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This issue arises if the search for true comparators with the EU claim
+discloses more than one comparable domestic claim with, viewed in the round,
+different levels of favourableness in procedural treatment. On almost every
+occasion when it has referred to the principle of equivalence the CJEU has
+added the proviso that the principle does not require the EU claim to be
+treated as favourably as the most favourably treated comparable domestic claim.
+In the earliest of the cases cited to this court, the <i>EDIS</i> case, the
+proviso is explained thus, at para 36:</a></p><a name="para36">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“That principle (<i>the principle
+of equivalence) </i>cannot, however, be interpreted as obliging a member state
+to extend its most favourable rules governing recovery under national law to
+all actions for repayment of charges or dues levied in breach of Community
+law.”</p>
+
+</a><p class="ParaLevel2" style="margin-left:0cm"><a name="para36">Similar statements appear in the <i>Levez
+</i>case at para 45, in <i>Pontin v T-Comalux SA </i>(Case C-63/08) </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/EUECJ/2009/C6308.html">[2009] ECR I-10467</a>, at para 45, in the <i>Transportes Urbanos </i>case, at para 34 and in
+the <i>Littlewoods </i>case, at para 31. But none of these cases provide any
+more comprehensive explanation of how the Proviso is to be applied in practice.
+This may be because its detailed operation is a matter for national courts, and
+the CJEU considers that the Proviso as described above is sufficiently
+self-explanatory for that purpose.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue of interpretation of the Proviso arises in the present case on
+the assumption that truly comparable domestic tax claims may include appeals
+against assessment not only to domestic taxes like Income Tax, where the
+procedure does not include a pay-first requirement, but also to other taxes
+like Insurance Premium Tax and Landfill Tax, which do. Thus VAT claims are
+treated less favourably than one or more true comparators, but equally favourably
+with others. There are only two levels of differently favourable treatment on
+this particular domestic spectrum of supposedly comparable claims, but it is
+easy to imagine a spectrum with several levels, with treatment of the
+comparable EU claim lying at the top, in the middle, or at (or below) the
+bottom of that spectrum.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Revenue and Customs Comrs v Stringer</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/31.html">[2009] ICR 985</a>, probably
+thinking of a spectrum of the latter kind, Lord Neuberger said this (obiter)
+about the Proviso:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“This is therefore not a case
+where it could be said that the appellants are seeking to benefit from the
+‘most favourable rules’ of limitation, which I understand to mean exceptional
+or unusually beneficial rules (as mentioned by the Court of Justice in <i>Levez
+v </i><i>TH Jennings (Harlow Pools) Ltd</i>,<i> </i>at para 42).”</p>
+
+<p class="ParaLevel1">In para 42 of the <i>Levez </i>case the CJEU merely
+repeated the Proviso as enunciated in the <i>EDIS </i>case and set out above,
+slightly adjusting the language to suit the facts, but without any underlying
+change in meaning.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case Mr Swift submitted that the Proviso should be
+treated as a reflection of the underlying purpose of the principle of equivalence,
+namely that national procedural rules should not single out EU claims for worse
+treatment, and specifically not discriminate against them by reason of their
+EU, rather than national, origin. If therefore the procedure for any true
+domestic comparator gave treatment to its claimant no more favourable than
+given to the EU claim, then the principle of equivalence was satisfied. If in
+the present case Insurance Premium Tax and Landfill Tax are true comparators,
+then the treatment of VAT appeals does not infringe the principle of
+equivalence.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>By contrast Mr Firth submitted that once any true comparator was
+identified the procedure for which treated its claimants better than did the
+procedure for the EU claim, then the principle of equivalence was infringed,
+unless the better domestic treatment fell into that exceptional category
+identified by Lord Neuberger in the <i>Stringer </i>case as excluded by the
+Proviso. Income Tax, CGT and SDLT could not be excluded as conferring
+exceptionally favourable treatment, and the fact that there were other domestic
+tax appeals treated equally favourably with VAT was neither here or there. The
+fact that domestic appellants in Insurance Premium Tax cases also received less
+favourable treatment than Income Tax appellants did not mean that the EU based
+claims by VAT registered traders were not less favourably treated. One example
+of discrimination does not, so it is said, justify another.</a></p><a name="para40">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Both sides sought to squeeze out of the language of the CJEU decisions
+some titbits favourable to their sharply opposing cases on this point. For
+example, in the paragraph of the judgment in the<i> EDIS </i>case following the
+statement of the Proviso (para 37) is it stated:</a></p><a name="para41">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Thus, Community law does not
+preclude the legislation of a member state from laying down, alongside a
+limitation period applicable under the ordinary law to actions between private
+individuals for the recovery of sums paid but not due, special detailed rules,
+which are less favourable, governing claims and legal proceedings to challenge
+the imposition of charges and other levies. The position would be different
+only if those detailed rules applied solely to actions based on Community law
+for the repayment of such charges or levies.”</p>
+
+<p class="ParaLevel1">That last sentence, said Mr Swift, clearly allowed a member
+state to resist an allegation of breach of the principle of equivalence if any
+similar domestic procedure included a pay-first requirement.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the present case the Court of Appeal applied that dictum, at para 47,
+as follows:</a></p><a name="para42">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The jurisprudence of the CJEU
+shows that it is open to a member state to apply any available set of rules,
+which are already applied to similar claims, to<i> </i>an EU-derived claim,
+provided that an EU-derived claim is not selected for the worst treatment. No
+one suggests that that <span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">is </span>the
+position here.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para42"></a><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Firth relied by contrast first upon dicta from the <i>Levez </i>case,
+at paras 39 to 45 of the judgment. In my view, taken in context, they are
+neutral on the point. The high-water mark of his citations was this passage
+from the <i>Pontin</i> case, at para 56 of the judgment:</a></p><a name="para43">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“If it emerges that one or more of
+the actions referred to in the order for reference, or even other national remedies
+that have not been put before the Court, are similar to an action for nullity
+and reinstatement, it would also be for the referring court to consider whether
+such actions involve more favourable procedural rules.”</p>
+
+<p class="ParaLevel1">The implication was, he said, that the discovery of any
+comparable domestic claim with more favourable treatment that the EU claim
+would offend the principle of equivalence.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I do not consider that any reliable answer to this question can be found
+by the minute textual analysis of the CJEU authorities. Nor was Lord
+Neuberger’s instinctive conclusion about the limited meaning of the Proviso in
+the <i>Stringer</i> case intended to be a fully reasoned or comprehensive
+explanation of its full purpose and effect. I need reach no final conclusion in
+this case, but would tentatively suggest the following analysis.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, the Proviso should not be regarded as some free-standing rule,
+separate from the principle of equivalence. Rather it is part of the Court of
+Justice’s expression of the principle of equivalence itself, directed to
+explaining the standard of treatment which that principle imposes upon member states
+when providing procedures for the vindication of rights based in EU law. What
+is required is that the procedure should be broadly as favourable as that
+available for truly comparable domestic claims, rather than the very best
+available.</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Secondly, the Proviso is, like the principle of equivalence of which it
+forms part, best understood in the light of its purpose. Although nowhere
+expressly stated, I consider that HMRC were correct to submit that it is to
+prevent member states from discriminating against claims based upon EU law by
+affording them inferior procedural treatment from that afforded to comparable
+domestic claims.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On that basis I consider that the conclusion of the Court of Appeal on
+this issue, set out in the passage quoted above from the judgment of Arden LJ,
+is broadly correct. I would only add that this would not justify the choice of
+some exceptionally tough set of procedural rules already applied to some
+domestic claim for reasons particular to that type of claim. But such a claim
+would be most unlikely to be a true comparator in any event.</a></p><a name="para47">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would therefore dismiss this appeal, on the ground that there has not
+been shown to be any true comparator among domestic claims sufficient to engage
+the principle of equivalence in relation to the imposition of a pay-first
+requirement upon traders seeking to appeal assessments to VAT.</a></p><a name="para48">
+
+</a></div><a name="para48">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/44.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

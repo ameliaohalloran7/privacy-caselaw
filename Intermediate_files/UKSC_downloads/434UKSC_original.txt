@@ -1,0 +1,1088 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Taylor, R. v [2016] UKSC 5 (3 February 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:106%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:106%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:106%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:106%;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	text-indent:-36.0pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:319.05pt;
+	text-align:justify;
+	text-indent:-35.45pt;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Taylor, R. v [2016] UKSC 5 (3 February 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/5.html</i>
+<br>Cite as: 
+[2016] RTR 28,
+
+[2016] WLR(D) 53,
+
+[2016] 1 WLR 500,
+
+[2016] WLR 500,
+
+[2016] 1 Cr App R 27,
+
+(2016) 180 JP 165,
+
+[2016] Crim LR 366,
+
+[2016] UKSC 5,
+
+[2016] 4 All ER 617
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/5.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+53">[2016] WLR(D) 53</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+1+WLR+500">[2016] 1 WLR 500</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/5(image1).pdf">Summary</a></span></p><br>
+
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 5</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: [2014]
+EWCA Crim 829</i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm;text-align:center"><span style="font-size:20.0pt">R <i>v</i> Taylor (Appellant)</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Neuberger, President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Mance</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Sumption</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Carnwath</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">3 February 2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 15 December 2015</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Andrew McGee</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Trinity Advocates)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Steven Kovats QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Duncan Atkinson</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Crown Prosecution Service Appeals and Review Unit)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">&nbsp;</span></b></p>
+
+<p class="NewSpeech">LORD SUMPTION: (<span style="text-transform:none">with whom
+Lord Neuberger, Lady Hale, Lord Mance, Lord Carnwath, Lord Hughes and Lord
+Toulson agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This is an appeal by leave of the Court of Appeal on a point of law
+arising in the course of the trial of the appellant, Jack Taylor, in the Crown
+Court at Exeter for aggravated vehicle taking, contrary to section 12A of the
+Theft Act 1968.</a></p><a name="para1">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The facts can be shortly stated. On the evening of 23 June 2012, the
+appellant, who was in Exmouth, took a Ford Transit Tipper truck from a friend,
+David Marriott, in order to collect another friend from Exeter. The truck
+belonged to Marriott’s employer, and the Crown alleges that it was taken
+without the owner’s consent. Having picked up the friend, the appellant was
+driving back to Exmouth when he collided on a bend in a narrow country lane
+with a scooter driven by Steven Davidson-Hackett. The scooter slid under the
+wheels of the truck, and Davidson-Hackett was killed. The appellant was later
+found to be over the drink drive limit. He was also uninsured. But the Crown,
+after a careful investigation of the accident, accepts that there was no
+evidence on which a jury could be sure that the manner of his driving was at
+fault or open to criticism.</a></p><a name="para2">
+
+<p class="ParaHeading">The statutory framework</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 12 of the Theft Act provides that a person shall be guilty of an
+offence if</a></p><a name="para3">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“without having the consent of the
+owner or other lawful authority, he takes any conveyance for his own or
+another’s use or, knowing that any conveyance has been taken without such
+authority, drives it or allows himself to be carried in or on it.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm">This a summary
+offence carrying a maximum sentence of six months imprisonment.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are a number of offences of varying degrees of gravity which may
+be committed by drivers whose manner of driving causes death, injury or damage.
+At the relevant time, they included manslaughter, causing death by dangerous
+driving, causing death by careless or inconsiderate driving, dangerous driving,
+careless or inconsiderate driving, causing death by careless driving when under
+the influence of drink or drugs, and various other offences involving drink or
+drugs. All of these offences require mens rea, generally provided by the
+absence of due care. The appellant was not charged with any of them, and in the
+light of the agreed facts about the manner of his driving, he could not have
+been convicted of any of them. Instead, he was charged with aggravated vehicle
+taking contrary to section 12A of the Theft Act 1968.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 12A of the Theft Act was inserted by section 1 of the Aggravated
+Vehicle Taking Act 1992. It provides so far as relevant, as follows:</a></p><a name="para5">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“12A Aggravated vehicle-taking</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subject to subsection
+(3) below, a person is guilty of aggravated taking of a vehicle if -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he commits an offence
+under section 12(1) above (in this section referred to as a ‘basic offence’) in
+relation to a mechanically propelled vehicle; and</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; it is proved that, at
+any time after the vehicle was unlawfully taken (whether by him or another) and
+before it was recovered, the vehicle was driven, or injury or damage was
+caused, in one or more of the circumstances set out in paragraphs (a) to (d) of
+subsection (2) below.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The circumstances
+referred to in subsection (1)(b) above are -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that the vehicle was
+driven dangerously on a road or other public place;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that, owing to the
+driving of the vehicle, an accident occurred by which injury was caused to any
+person;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that, owing to the
+driving of the vehicle, an accident occurred by which damage was caused to any
+property, other than the vehicle;</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that damage was caused
+to the vehicle.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A person is not guilty
+of an offence under this section if he proves that, as regards any such proven
+driving, injury or damage as is referred to in subsection (1)(b) above, either -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the driving, accident
+or damage referred to in subsection (2) above occurred before he committed the
+basic offence; or</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; he was neither in nor
+on nor in the immediate vicinity of the vehicle when that driving, accident or
+damage occurred.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm">At the time when
+section 12A was enacted, it carried a maximum sentence of two years’
+imprisonment, or five years if the accident caused the death of the victim. The
+five years was increased by section 285(1) of the Criminal Justice Act 2003 to
+14 years.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Crown contends that the only element of fault required for the
+offence under section 12A(2)(b) is the unauthorised taking of the vehicle, and
+that no further fault on the part of the defendant need be proved in relation
+to the occurrence of the accident.</a></p><a name="para6">
+
+<p class="ParaHeading">The proceedings</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant was charged on an indictment containing five counts. Of
+these Counts 1, 2 and 5 can for present purposes be ignored. Count 1 related to
+a previous occasion; Count 2 related only to David Marriot; and the Crown
+decided not to proceed on Count 5. That left only Count 3, which charged him
+with aggravated vehicle taking; and Count 4, which charged him jointly with
+Marriott with causing the death of Mr Davidson-Hackett while driving uninsured,
+contrary to section 3ZB of the Road Traffic Act 1988 (as inserted by section
+21(1) of the Road Safety Act 2006).</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 31 July 2013, the Supreme Court gave judgment in <i>R v Hughes</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/56.html">[2013] 1 WLR 2461</a>, holding that an offence under section 3ZB of the Road
+Traffic Act 1988 required proof that there was some element of fault in the
+defendant’s control of the vehicle, which contributed in a more than minimal
+way to the victim’s death.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The case came before the Recorder of Exeter (His Honour Judge Gilbert
+QC) on 13 January 2014. At the opening of the case, an application was made on
+behalf of both defendants to vacate Count 4 in the light of the decision in <i>Hughes</i>.
+After an adjournment overnight, the Crown accepted that there was no fault in
+the manner of Mr Taylor’s driving and announced that they would offer no
+evidence on Count 4. A verdict of Not Guilty was accordingly directed on that
+count.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question then arose whether the decision in <i>Hughes</i> also ruled
+out a conviction on Count 3. The Recorder was invited by both parties to rule
+on this point. The Crown sought to distinguish <i>Hughes</i>. It relied on the
+decision of the Court of Appeal (Criminal Division) in <i>R v Marsh</i> [1997]
+1 Cr App R 67 as authority for the proposition that there was no element of
+fault in the offence of aggravated vehicle taking. The Recorder decided that
+point against them. He ruled that fault had to be proved in relation to the
+accident. The Crown asked for leave to appeal his ruling on the count of
+aggravated vehicle taking, and the proceedings were adjourned until the appeal
+had been disposed of.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appeal was heard on 9 April 2014 by the Court of Appeal (Criminal
+Division) (Pitchford LJ, Sweeney J and HHJ Bourne-Arton). They allowed the
+appeal on the ground that <i>Marsh</i> remained binding authority, but
+certified a question of general public importance and gave leave to appeal to
+the Supreme Court. The certified question was as follows:</a></p><a name="para11">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Is an offence contrary to
+section12A(1) and 2(b) of the Theft Act 1968 committed when, following the
+basic offence and before recovery of the vehicle, the defendant drove the
+vehicle, and without fault in the manner of his driving the vehicle was
+involved in an accident which caused injury to a person.”</p>
+
+<p class="ParaHeading">The authorities</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Three cases are directly in point, <i>R v Marsh</i> [1997] 1 Cr App R
+67, <i>R v Williams</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Crim/2010/2552.html">[2011] 1 WLR 588</a>, and <i>R v Hughes</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/56.html">[2013] 1 WLR 2461</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The facts of <i>Marsh</i> were in the relevant respects
+indistinguishable from those of the present case, except that the injury to the
+victim was not fatal. Like the present case, it turned on the meaning of the
+words “owing to the driving of the vehicle, an accident occurred by which
+injury was caused to any person” in section 12A(2)(b). The Court of Appeal
+ruled that fault in relation to the accident was not an element of the offence.
+The judgment of the court was delivered by Laws J. He held that the only
+relevant requirement of the subsection was that the driving of the vehicle
+should have been the cause of the accident, and that it was not legitimate to
+imply words which would require proof that the <i>manner</i> of the driving was
+the cause of the accident. He pointed out that section 12A(2)(a) expressly
+required that the vehicle should have been driven dangerously, but that no
+corresponding requirement of fault could be found in subsections (b), (c) or
+(d). He therefore concluded that once it was established that the basic offence
+of taking the vehicle had been committed, no further element of fault was
+required.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Williams</i>, the offence charged was causing death by driving
+when unlicensed, disqualified or uninsured, contrary to section 3ZB of the Road
+Traffic Act 1988. The statute provided that a person committed an offence if,
+being unlicensed, uninsured or disqualified, he “causes the death of another
+person by driving a motor vehicle on a road”. (The reference to disqualified
+drivers has since been removed, and separate offences created to cover them.)
+The facts were that the defendant was driving through Swansea, without a
+licence or insurance, when a pedestrian crossed the central reservation and
+stepped in front of his car. On the facts, the accident was entirely the fault
+of the pedestrian. Nevertheless, the trial judge ruled that fault was not an
+element of the offence, and the defendant was convicted. His ruling was upheld
+by the Court of Appeal. They considered, at para 14, that “the approach of this
+court in <i>Marsh</i> applies even more clearly to the offence under section
+3ZB of the 1988 Act”.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Hughes</i>, where the same offence was charged, the facts were
+remarkable. Mr Hughes was driving his family’s camper van, when a vehicle
+approached in the other direction, veering all over both sides of the road. The
+other driver, a Mr Dickinson, was overtired, having driven a long distance, and
+high on heroin. There was a collision in which Mr Dickinson was killed. It was
+common ground that Mr Hughes’ driving was faultless and that there was nothing
+that he could have done to avoid the accident. But he was driving without a
+licence or insurance, and was prosecuted under section 3ZB for causing Mr
+Dickinson’s death. The trial judge ruled that he had not committed the offence
+because he had not “caused” the death. The Court of Appeal [2011] 4 All ER 761
+overturned the ruling, once again applying <i>Marsh</i>. It held, as it had
+done in <i>Williams</i>, that “the approach of this court in <i>Marsh</i>
+applies even more clearly to the offence under section 3ZB.”</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The decision was reversed in the Supreme Court. The judgment of the
+court was delivered by Lord Hughes and Lord Toulson. They started by drawing
+attention to the consequences of the Court of Appeal’s decision at para 9:</a></p><a name="para16">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The difficulty, however, exposed
+by the present case and others like it is that instead of Mr Hughes being
+punished for what he did wrong, namely for failing to pay his share of the cost
+of compensation for injuries to innocent persons, he is indicted and liable to
+be punished for an offence of homicide, when the deceased, Mr Dickinson, was
+not an innocent victim and could never have recovered any compensation if he
+had survived injured. A further difficulty is that since using a car uninsured
+is an offence of strict liability, it is an offence which may well be committed
+not only by the likes of Mr Hughes, who deliberately fail to take out
+insurance, but also by those who overlook a renewal notice, or who find
+themselves uninsured because of an office mistake by brokers, or because they
+have driven someone else’s car when both they and the owner believed there was
+valid insurance but in fact there was not, for example because a condition in
+the policy had been overlooked. If the ruling in the present case is correct,
+all such persons will be guilty of a very serious offence of causing death by
+driving if a fatal collision ensues, even if they could have done nothing to
+avoid it. Has Parliament used language which unambiguously has such far
+reaching effects?”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The argument of the Crown, as summarised at para 15 of the judgment, was
+that the object of the enactment was to “impose criminal liability for a death
+if it involved the presence of the defendant at the wheel of a car on the road
+where he had no business to be”. This court’s reasons for rejecting that
+argument in <i>Hughes</i> may be summarised as follows:</a></p><a name="para17">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The statutory requirement that the driving should cause the death was
+not satisfied if all that could be shown was that the accident would not have
+happened if the uninsured driver of the car had not been on the road. The fact
+that the car was on the road was a precondition of the accident, and perhaps
+the occasion for it, but was not the effective cause or even one among a number
+of effective causes:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“By the test of common sense,
+whilst the driving by Mr Hughes created the opportunity for his car to be run
+into by Mr Dickinson, what brought about the latter’s death was his own
+dangerous driving under the influence of drugs. It was a matter of the merest
+chance that what he hit when he veered onto the wrong side of the road for the
+last of several times was the oncoming vehicle which Mr Hughes was driving. He
+might just as easily have gone off the road and hit a tree, in which case
+nobody would suggest that his death was caused by the planting of the tree,
+although that too would have been a sine qua non.” (para 25)</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the absence of a test of effective causation, the offence would be
+committed even in a case where the casualty resulted from the deliberate act of
+the victim, as in the case of the suicide or attempted murder considered in
+para 16 of the judgment.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The culpability of the defendant’s conduct in taking the vehicle in the
+first place could not logically constitute the <i>mens rea</i> appropriate to
+an offence the essence of which that it caused a man’s injury or death.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“To say that he is responsible
+because he ought not to have been on the road is to confuse criminal
+responsibility for the serious offence of being uninsured with criminal
+responsibility for the infinitely more serious offence of killing another
+person.” (para 17)</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fact that there were other offences which were unquestionably
+fault-based, including the offence of causing death by careless or
+inconsiderate driving, which was created by the same statute, did not mean that
+there was no element of fault in the offence of causing death while driving
+unlicensed or uninsured. It was not uncommon for the elements of different
+offences to overlap, and for particular offences to add little to those which
+already exist.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(5)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The gravity of any offence of homicide, and the potential severity of
+the penalties, meant that if Parliament intended these consequences to follow
+in a case where the conduct of the defendant had not caused the death, it must
+make its intention unequivocally clear, not least so that the court could be
+satisfied that the legislators had confronted the moral dilemma with knowledge
+of the consequences.</p>
+
+<p class="ParaHeading">Should we depart from Hughes?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Crown’s primary case on this appeal was that the decision in <i>Hughes</i>
+should be overruled under Practice Statement (Judicial Precedent) [1966] 1 WLR
+1234. The main point urged in support of this course was that that the Crown
+had conceded in <i>Hughes</i> that the absence of fault could not be irrelevant
+in all circumstances. It is correct that when taxed with some of the more
+extreme consequences of the Crown’s case, Counsel beat a tactical retreat on this
+point. He accepted that the defendant could not be convicted if the death was
+due to the deliberate act of the deceased. As Lord Hughes and Lord Toulson
+pointed out (para 16), “once that is accepted, it is difficult to see where
+else a line is to be drawn than by following the normal approach to causation
+taken by the common law”. Counsel submitted that the exception could be
+rationalised on the ground that the deliberate act of the victim broke the
+chain of causation. But as the judgment points out, that presupposes that there
+is a chain of causation to be broken. What is clear is that the concession did
+not displace the need for argument or analysis. It simply exposed the weakness
+of the Crown’s case. Lord Hughes and Lord Toulson dealt with the matter as an
+issue of principle. It is difficult to imagine that their conclusion or their
+reasons would have been any different if the Crown had stuck to its original,
+extreme position.</a></p><a name="para18">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In those circumstances, the only basis on which it could be right to
+depart from the decision now is that the court as presently constituted takes a
+different view. A mere difference of opinion can rarely justify departing from
+an earlier decision of this court. I can see nothing in the present case which
+could justify our taking such a course, and I would decline to do so.</a></p><a name="para19">
+
+<p class="ParaHeading">Can Hughes be distinguished?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The next question is whether, on the footing that <i>Hughes</i> is
+binding for what it decides, it can be distinguished. The Supreme Court left
+open the question how far its reasoning could be applied to the offence under
+section 12A of the Theft Act and it expressed no view on the correctness of the
+decision in <i>Marsh</i>. This was because there were differences between the
+offences created by section 3ZB of the Road Traffic Act 1988 and section 12A of
+the Theft Act 1968 and differences in the statutory language which created
+them.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Four differences are, at least potentially relevant:</a></p><a name="para21">
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Unlike driving while unlicensed or uninsured, which are offences of
+strict liability, section 12A of the Theft Act requires that the defendant
+should have committed the “basic offence” of taking the vehicle without
+consent. That is not an offence of strict liability. Under section 12(1)
+knowledge of the absence of authority is an essential element.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although aggravated vehicle-taking carries a higher sentence if the
+vehicle is involved in a fatal accident, the death of the victim is not an
+element of the offence. This is not therefore strictly speaking an offence of
+homicide.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The offence under section 3ZB is causing the death of another person “by
+driving a motor vehicle on a road.” By comparison, it can be argued that the
+driving is merely incidental to the offence of aggravated vehicle-taking as
+defined in section 12A of the Theft Act. The dangerous driving, personal injury
+or damage to property which constitute the first three aggravating
+circumstances must have occurred after the taking of the vehicle and before its
+recovery, but there is no requirement that the defendant should have been
+driving it, provided that he was party to the taking of the vehicle and was in
+or in the immediate vicinity of the vehicle when the driving, accident or
+damage occurred. He may have been a passenger or standing by the kerbside.
+Indeed, in the circumstances referred to in section 12A(2)(d) (“that damage was
+caused to the vehicle”) it is not even necessary that the vehicle should have
+been driven at the time of the damage. These considerations might be taken to
+suggest that it is the harm rather than the driving which is the gravamen of
+the offence.</p>
+
+<p class="ParaLevel2" style="margin-left:35.45pt;text-indent:0cm">(4)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 12A(3) makes special defences available in two specific cases
+where the defendant could not be held responsible, namely where the damage
+occurred before he took the vehicle and where he was neither in nor in the
+vicinity of the vehicle at the relevant time. This would arguably have been
+unnecessary if the offence was subject to a more general requirement of fault.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I shall return to these factors below. For present purposes it is enough
+to observe that the essential point made in <i>Hughes</i> is common to both
+offences. The phrase “caused the death of another person by driving a motor
+vehicle on a road”. (section 3ZB of the Road Traffic Act 1988) and the phrase
+“owing to the driving of the vehicle, an accident occurred by which injury was
+caused to any person” (section 12A(2)(b) of the Theft Act 1968) both posit a
+direct causal connection between the driving and the injury. If the requirement
+of causation is satisfied by the mere fact that the taking of the vehicle
+accounted for its being in the place where the accident occurred, then all of
+the anomalous consequences which this court regarded as extraordinary in <i>Hughes</i>
+apply equally to the offence under section 12A. It means that the defendant is
+liable to be convicted and sentenced to a long period of imprisonment on
+account of an aggravating factor for which he bears no responsibility.</a></p><a name="para22">
+
+<p class="ParaHeading">Strict liability</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This brings me to the fundamental reason why in my opinion this appeal
+must succeed, and why I would have taken the same view even if I had felt able
+to distinguish the language of section 12A of the Theft Act or depart from the
+reasoning in <i>Hughes</i>. The Crown’s argument effectively invites the court
+to treat the section as imposing strict liability for the aggravating factors
+which differentiate this offence from the basic offence under section 12, in
+circumstances where that course is neither necessary nor warranted by the
+language of the Act.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>“The full definition of every crime”, said Stephen J in <i>R v Tolson</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=http://www.commonlii.org/uk/cases/UKLawRpKQB/1889/85.html">(1889) 23 QBD 168</a>, 187, “contains expressly or by implication a proposition as
+to a state of mind”. The reason was stated in the same case by Wills J, at pp
+171-172:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is, however, undoubtedly a
+principle of English criminal law, that ordinarily speaking a crime is not
+committed if the mind of the person doing the act in question be innocent. ‘It
+is a principle of natural justice and of our law’ says Lord Kenyon, CJ, ‘that <i>actus
+non facit reum, nisi mens sit rea</i>. The intent and act must both concur to
+constitute the crime’: <i>Fowler v Padget</i> <a href="http://www.worldlii.org/int/cases/EngR/1798/47.pdf">(1798) 7 TR 509, 514</a>.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The leading modern case to this effect is <i>Sweet v Parsley</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1969/1.html">[1970] AC 132</a>, in which the rule was reaffirmed by the House of Lords after a period
+in which it had been somewhat inconstantly applied. Lord Reid expressed the
+general principle at p 149:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“it is firmly established by a
+host of authorities that mens rea is an essential ingredient of every offence
+unless some reason can be found for holding that that is not necessary. It is
+also firmly established that the fact that other sections of the Act expressly
+require mens rea, for example because they contain the word ‘knowingly’, is not
+in itself sufficient to justify a decision that a section which is silent as to
+mens rea creates an absolute offence. In the absence of a clear indication in
+the Act that an offence is intended to be an absolute offence, it is necessary
+to go outside the Act and examine all relevant circumstances in order to
+establish that this must have been the intention of Parliament. I say ‘must
+have been’ because it is a universal principle that if a penal provision is
+reasonably capable of two interpretations, that interpretation which is most
+favourable to the accused must be adopted.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The rule was never absolute, even in late Victorian England, when <i>Tolson</i>
+was decided. But in general a criminal offence will require proof of mens rea
+unless strict liability is either required by the clear language of the act or
+necessary for the achievement of its purpose. Cases in the latter category
+usually involve regulatory statutes. Wills J, immediately after the passage
+which I have quoted, gave as examples “bye-laws … regulating the width of
+thoroughfares, the height of buildings, the thickness of walls, and a variety
+of other matters necessary for the general welfare, health, or convenience”.
+Such legislation generally has two characteristic features. The first is that
+its requirements are founded on collective convenience rather than moral
+imperatives. Lord Reed in <i>Sweet v Parsley</i> called such offences
+“quasi-criminal”. But, as he observed at p 149, where the offence carries a
+significant moral stigma, it is necessary to consider “whether, in a case of
+this gravity, the public interest really requires that an innocent person
+should be prevented from proving his innocence in order that fewer guilty men
+may escape”. The second characteristic feature of offences of strict liability
+is that, although fault in the actual commission of the offence may be
+unnecessary, there are nonetheless positive steps that the prospect of criminal
+liability may cause people to take in order to prevent the offence from
+occurring. Lord Diplock put the point concisely in the same case, at p 163:</a></p><a name="para26">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Where penal provisions are of
+general application to the conduct of ordinary citizens in the course of their
+everyday life the presumption is that the standard of care required of them in
+informing themselves of facts which would make their conduct unlawful, is that
+of the familiar common law duty of care. But where the subject-matter of a
+statute is the regulation of a particular activity involving potential danger
+to public health, safety or morals in which citizens have a choice as to
+whether they participate or not, the court may feel driven to infer an
+intention of Parliament to impose by penal sanctions a higher duty of care on
+those who choose to participate and to place upon them an obligation to take
+whatever measures may be necessary to prevent the prohibited act, without
+regard to those considerations of cost or business practicability which play a
+part in the determination of what would be required of them in order to fulfil
+the ordinary common law duty of care. <i>But such an inference is not lightly
+to be drawn, nor is there any room for it unless there is something that the
+person on whom the obligation is imposed can do directly or indirectly, by
+supervision or inspection, by improvement of his business methods or by
+exhorting those whom he may be expected to influence or control, which will
+promote the observance of the obligation.</i>” (emphasis added)</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm">The main reason why
+the House of Lords declined to hold Miss Sweet strictly liable for the fact
+that her tenants kept cannabis in the rooms which she let out to them was that
+there were no reasonable steps which she could have taken to stop them doing it
+or discover that they had: see in particular pp 150F-H (Lord Reid), 154-5 (Lord
+Morris), 157B-D (Lord Pearce).</p>
+
+<p class="ParaHeading">Section 12A</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first point to be made about section 12A of the Theft Act is that it
+is in no sense a regulatory or “quasi-criminal” enactment. Aggravated
+vehicle-taking is a serious crime. Driving offences causing serious injury or
+damage are a source of growing public concern. The aggravating factors which
+differentiate the section 12A offence from the basic offence expose the defendant
+to a maximum sentence of 14 years imprisonment, the same as for causing death
+by dangerous driving. Although the death of the victim is not strictly speaking
+an element of the offence, the increased maximum sentence for cases where
+someone has been killed reflects the real stigma associated with it. Even where
+the only damage is to property, the maximum sentence is two years.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The one respect in which section 12A imposes strict liability is that
+the offence may be committed not only by the driver but by anyone else who was
+party to the basic offence under section 12(1) and is in or in the immediate
+vicinity of the vehicle at the time of the dangerous driving, injury or damage.
+That emerges unequivocally from the statutory language. But it is important to
+note that it is also a rational response to the mischief of the enactment,
+which has close analogies to the principle underlying cases of strict liability
+identified by Lord Diplock in <i>Sweet v Parsley</i>. The Act treats someone
+who has been party to the taking of a vehicle without authority as having
+control over it thereafter. He is in a position to take positive steps to
+ensure that it is driven safely and not in a manner which causes personal
+injury or damage to property. That is the rationale of the proviso that he must
+have been in or in the immediate vicinity of the vehicle at the time when the
+dangerous driving, injury or damage occurred. His responsibility continues to
+be engaged while he is present.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, it is one thing for the legislature to make a person who has
+taken a car without authority responsible for the fault of another person who
+drives it in his presence. It is another thing altogether to make him
+responsible for personal injury or damage which could not have been prevented,
+because it occurred without fault or was entirely the fault of the victim. That
+would be a sufficiently remarkable extension of the scope of the strict
+liability to require clear language, such as the draftsman has actually
+employed to impose liability on a taker who is not the driver. There is no such
+language in section 12A. Of the four aggravating circumstances identified in
+subsection (2), (a) expressly imports a requirement of fault (the car must have
+been driven dangerously), while (b), (c) and (d) contain nothing which
+expressly excludes such a requirement. As Lord Reid explained in <i>Sweet v
+Parsley</i>, at p 149D-E, this difference cannot itself be enough to make (b),
+(c) and (d) operate independent of fault. On the contrary, in the case of (b)
+and (c), it is implicit in the requirement that the accident must have occurred
+“owing to the driving of the vehicle”, that there will have been something wrong
+with the driving. As this court pointed out in <i>Hughes</i>, the driving
+cannot be said to have caused the accident if it merely explained how the
+vehicle came to be in the place where the accident occurred.</a></p><a name="para29">
+
+<p class="ParaHeading">Application to the facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows from the admitted absence of fault in the driving of the
+vehicle that the driving did not cause the death of Mr Davidson-Hackett.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Crown ran an alternative argument to the effect that excess of
+alcohol in the appellant’s blood at the time of the accident constituted
+sufficient fault to go to the jury. This was said to be because “if he had been
+sober he would not have been driving at all, [and] the fatal accident would not
+have happened”. To my mind this argument is misconceived. The relevant fault is
+the fault in the driving which is necessary to establish the causal connection
+between the driving and the accident. The fact that the appellant had excess
+alcohol in his blood establishes that he was guilty of the summary offence
+under section 5(1)(a) of the Road Traffic Act 1988, but not that this
+circumstance had anything to do with the accident. On the agreed facts, it had
+none. I need not therefore comment on the oddity of the suggestion that he was
+only driving his friend back to Exmouth because he had drunk too much and would
+not have driven if he had been sober.</a></p><a name="para31">
+
+<p class="ParaHeading">Disposition</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I would express the test applicable in this case in the same terms as
+Lord Hughes and Lord Toulson expressed it in <i>Hughes</i> at para 36. There
+must be “at least some act or omission in the control of the car, which
+involves some element of fault, whether amounting to careless/inconsiderate
+driving or not, and which contributes in some more than minimal way to the
+death”.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For these reasons I would allow the appeal and answer the certified
+question “No”.</a></p><a name="para33">
+
+</a></div><a name="para33">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/5.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

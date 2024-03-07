@@ -1,0 +1,1028 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 15 (filtered)">
+<title>Johnson, R (on the application of) v Secretary of State for the Home Department [2016] UKSC 56 (19 October 2016)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)",sans-serif;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Johnson, R (on the application of) v Secretary of State for the Home Department [2016] UKSC 56 (19 October 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/56.html</i>
+<br>Cite as: 
+[2017] AC 365,
+
+[2016] UKSC 56,
+
+41 BHRC 711,
+
+[2017] 4 All ER 91,
+
+[2016] 3 WLR 1267,
+
+[2016] WLR(D) 531,
+
+[2017] Imm AR 306,
+
+[2017] INLR 235
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/56.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2017+AC+365">[2017] AC 365</a>]
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+531">[2016] WLR(D) 531</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+3+WLR+1267">[2016] 3 WLR 1267</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/56(image1).pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2016] UKSC 56</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/22.html">[2016] EWCA Civ 22</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+<center>
+<p class="MsoNormal"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+<p class="Title1" align="left" style="margin-left:0cm"><span style="font-size:20.0pt">R (on the application of Johnson) (Appellant) <i>v</i>
+Secretary of State for the Home Department (Respondent) </span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:14.0pt">before </span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lady Hale, Deputy
+President</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Kerr</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Hughes</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">Lord Toulson</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:17.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:18.0pt">19 October 2016</span></b></p>
+
+<p class="MsoNormal"><span style="font-size:16.0pt">&nbsp;</span></p>
+
+<p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="font-size:15.0pt">Heard on 25 and 26 July
+2016</span></b></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr style="height:85.5pt">
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Hugh Southey QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Paul Turner</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Barnes Harrild and Dyer)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:85.5pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  <p class="MsoNormal" align="center" style="text-align:center">Tim Eicke QC</p>
+  <p class="MsoNormal" align="center" style="text-align:center">Edward Brown</p>
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by The
+  Government Legal Department)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LADY HALE: (<span style="text-transform:none">with whom Lord
+Kerr, Lord Reed, Lord Hughes and Lord Toulson agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The fundamental issue in this case is a simple one. Is it compatible
+with the European Convention on Human Rights to deny British citizenship to the
+child of a British father and a non-British mother simply because they were not
+married to one another at the time of his birth or at any time thereafter? If
+the parents had been married to one another, their child would have been a
+British citizen. If the mother had been British and the father non-British,
+their child would have been a British citizen. If the child had been born after
+1 July 2006 he would have been a British citizen. The child is not responsible for
+the marital status of his parents or the date of his birth, yet it is he who
+suffers the consequences.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There are many benefits to being a British citizen, among them the right
+to vote, the right to live and to work here without needing permission to do so,
+and everything that comes along with those rights. This case is about the right
+not to be deported on the ground that one is a “foreign criminal” whose
+presence here is not conducive to the public good. But the unsympathetic
+context in which the issue arises should not distract us from the importance of
+the issue to anyone who was born to unmarried parents at the relevant time.</a></p><a name="para2">
+
+<p class="ParaHeading">The facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The appellant was born on 18 March 1985 in Jamaica. His mother was
+Jamaican and his father British. His paternity is not in doubt. His parents
+were not married to one another. Under the law then in force the appellant
+became a citizen of Jamaica but not a British citizen. His father brought him
+to the United Kingdom in 1989, when he was aged four, and he has lived here ever
+since. He or his father might have made an application for him to be registered
+as a British citizen while he was still a child and it would have been the
+policy of the UK government to grant such an application provided that, if the
+child was 16 or over, he was of good character. But no such application was
+made. He was, however, granted indefinite leave to remain here in 1992, just
+before his seventh birthday.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Neither has the appellant since applied to be registered as a British
+citizen. It is accepted that such an application would not succeed, because the
+appellant cannot demonstrate that he is of good character. He has a very
+serious criminal record and has been convicted of offences from 2003, the year
+in which he reached the age of 18, until 2008, when he was convicted of
+manslaughter and sentenced to nine years’ imprisonment.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In March 2011, the Secretary of State served notice upon him that he was
+liable to automatic deportation as a “foreign criminal” under section 32(5) of
+the UK Borders Act 2007. A deportation order was made in August that same year.
+On appeal, the First-tier Tribunal held that he had both a private and a family
+life in this country but that his deportation was a proportionate and lawful
+interference with them. The tribunal remitted to the Secretary of State the
+question whether his deportation was unlawfully discriminatory, given that he
+would not have been liable to deportation had his parents been married to one
+another. One year later, in August 2012, the Secretary of State set removal
+directions for his removal on 16 September 2012 and these judicial review
+proceedings were launched to challenge them, principally on the ground that he
+still had an extant appeal.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The removal directions were stayed by the court and on 19 November 2012
+the Secretary of State accepted that they should not have been issued given the
+tribunal’s decision to remit. On 23 November 2012, she reconsidered her
+deportation decision but decided that it was not unlawfully discriminatory and
+refused to revoke it. She also certified that the appellant’s claim was clearly
+unfounded and thus that he had no right of appeal within this country against
+the decision. These proceedings were amended to challenge that decision and its
+certification.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In July 2014, Dingemans J held that the discrimination against a child
+of unmarried parents was not justified at the time of his birth and continued
+to be unjustified; that there had been a violation of article 14 of the
+Convention read with article 8; and that the certification of the claim as
+clearly unfounded was unlawful. He quashed the certificate, but declined either
+to read the relevant legislative provisions so as to entitle the appellant to
+British citizenship under section 3(1) of the Human Rights Act 1998 or to make a
+declaration of incompatibility under section 4: </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Admin/2014/2386.html">[2014] EWHC 2386 (Admin)</a>.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In January 2016, the Court of Appeal allowed the Secretary of State’s
+appeal, finding that there had been no violation of the Convention rights at
+the time of the appellant’s birth in 1985 and no wrong for which the UK courts
+could have given a remedy then. The matter had to be judged at that time rather
+than as a continuing act. Any violation had taken effect before the Human
+Rights Act came into force. Hence there was no violation of the Convention
+rights and thus the claim could be certified as clearly unfounded: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2016/22.html">[2016] EWCA Civ 22</a>. The appellant now appeals to this court.</p>
+
+<p class="ParaHeading">British Nationality Law</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9">9.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At all material times, section 2(1)(a) of the British Nationality Act
+1981 provided (and still provides):</a></p><a name="para9">
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:36.0pt;margin-bottom:0cm;
+margin-left:72.0pt;margin-bottom:.0001pt">“A person born outside the United
+Kingdom … shall be a British citizen if at the time of the birth his father or
+mother -</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is a British citizen
+otherwise than by descent ...”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, until amended by the Nationality, Immigration and Asylum Act
+2002, section 50(9) of the 1981 Act provided the following definition of a
+person’s mother and father:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-top:0cm;margin-right:39.65pt;margin-bottom:
+26.0pt;margin-left:72.0pt">“For the purposes of this Act - (a) the relationship
+of mother and child shall be taken to exist between a woman and any child
+(legitimate or illegitimate) born to her; but (b) … the relationship of father
+and child shall be taken to exist only between a man and any legitimate child
+born to him; and the expressions ‘mother’, ‘father’, ‘parent’, ‘child’ and
+‘descended’ shall be construed accordingly.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Nevertheless, section 47 of the 1981 Act, until its repeal by section
+9(4) of the 2002 Act, provided that a person born out of wedlock but
+legitimated by the subsequent marriage of his parents (if their marriage
+operated to legitimate him by the law of the place where the father was
+domiciled when the marriage took place) was to be treated as from the date of
+the marriage as if he had been born legitimate.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 50(9) of the 1981 Act was amended, and a new section 50(9A)
+added, by section 9(1) of the 2002 Act, with effect from 1 July 2006, as
+follows:</a></p><a name="para12">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(9)&nbsp;&nbsp;&nbsp;&nbsp; For the purposes of this
+Act a child’s mother is the woman who gives birth to the child.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(9A)&nbsp;&nbsp;&nbsp; For the purposes of this
+Act a child’s father is … (c) … a person who satisfies prescribed requirements
+as to proof of paternity.”</p>
+
+<p class="ParaLevel1">Section 162(5) of the 2002 Act made it clear that section 9
+would have effect only in relation to a child born on or after the date
+appointed by the Secretary of State, which was 1 July 2006. Thus persons born
+before that date can still take advantage of the legitimation provision in
+section 47.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>These provisions define people who are automatically entitled to British
+citizenship, whether they want it or not. Other people can apply to be
+registered as British citizens. Section 3(1) of the 1981 Act provides that
+applications may be made while a person is a minor for him to be registered as
+a British citizen; and from 1987 onwards it was the policy of the Secretary of
+State to grant, on satisfactory proof of paternity, applications made by or on
+behalf of minors whose unmarried fathers were British citizens, who were living
+in the United Kingdom, and who, if aged 16 or over, were of good character.
+Section 65 of the Immigration Act 2014 has now introduced sections 4E to 4I
+into the 1981 Act, giving a specific right to be registered to people who were
+unable to acquire citizenship automatically because their father was not
+married to their mother. But this is subject to the general provision governing
+applications for registration, under section 41A of the 1981 Act, that such an
+application “must not be granted unless the Secretary of State is satisfied
+that the adult or young person is of good character”.</a></p><a name="para13">
+
+<p class="ParaHeading">The progressive removal of discrimination against children
+of unmarried parents</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At common law, a child of parents who were not married to one another at
+the time of his birth was <i>filius nullius </i>or “nobody’s child”. The law
+scarcely recognised his relationship with his mother, let alone with his
+father. Relationships traced otherwise than through marriage were ignored for
+the purpose of succession and other dispositions of property. References to
+children or other relationships in legislation or other legal instruments were
+presumed to refer only to those born within or traced through marriage. Case
+law and statute gradually accorded limited recognition to the relationship
+between mother and child but scarcely any to the relationship between father
+and child. The first major reform came with the Family Law Reform Act 1969,
+which implemented the recommendations of the Report of the Russell Committee on
+<i>The Law of Succession in relation to Illegitimate Persons</i> (1966, Cmnd
+3051). As the Committee observed, in the archaic language of the time (pp 4-5):</a></p><a name="para14">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“At the root of any suggestion for
+the improvement of the lot of bastards in relation to the law of succession to
+property is, of course, that in one sense they start level with legitimate
+children, in that no child is created of its own volition. Whatever may be said
+of the parents, the bastard is innocent of any wrongdoing. To allot him an
+inferior, or indeed an unrecognised, status in succession is to punish him for
+a wrong of which he is not guilty.”</p>
+
+<p class="ParaLevel1">Accordingly, the 1969 Act gave children of unmarried
+parents rights of intestate succession from both their parents, and vice versa,
+and enacted a presumption that references to children and other relatives in
+dispositions of property included references to, and to persons related
+through, illegitimate children.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The next major reform came with the Family Law Reform Act 1987, which
+implemented the Law Commission’s <i>Report on Illegitimacy </i>(1982, Law Com
+No 118, </a><a title="Link to BAILII version" href="/ew/other/EWLC/1982/118.html">[1982] EWLC 118</a>) with modifications recommended in its <i>Illegitimacy: Second Report </i>(1986,
+Law Com No 157, <a title="Link to BAILII version" href="/ew/other/EWLC/1986/157.html">[1986] EWLC 157</a>). The object was to remove all discrimination in family law
+against children whose parents were not married to one another and against
+relationships traced otherwise than through marriage (while preserving some
+distinction between the parents in relation to their upbringing). The drafting
+technique, borrowed from the Law Reform (Parent and Child) (Scotland) Act 1986,
+was to avoid using adjectives such as “legitimate” and “illegitimate” to
+describe the child and to refer instead to the relationship between the
+parents. Section 1(1) of the 1987 Act provides:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“In this Act and enactments passed
+and instruments made after the coming into force of this section, references
+(however expressed) to any relationship between two persons shall, unless the
+contrary intention appears, be construed without regard to whether or not the
+father and mother of either of them, or the father and mother of any person
+through whom the relationship is deduced, have or had been married to each
+other at any time.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But that, of course, does not apply to the 1981 Act, which was passed
+before the 1987 Act came into force. The Law Commission had considered the law
+of citizenship in its first Report and concluded that, as a matter of policy, a
+“non-marital” child should be entitled to British citizenship on the same terms
+as a “marital” child (Law Com No 118, para 11.20). But no clauses relating to
+this were included in the draft Bill annexed to that Report, or in the draft
+Bill annexed to the second Report, because citizenship is a United Kingdom
+matter affecting each part of the United Kingdom as well as England and Wales.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It may well be as a result of the enactment of the 1987 Act that the
+Secretary of State adopted the policy in relation to the registration of minor
+children of unmarried parents referred to above (para 13). But the law itself
+was not changed until the 2002 Act came into force.</a></p><a name="para17">
+
+<p class="ParaHeading">Deportation law</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>British citizens cannot be deported. Non-citizens may be deported if the
+Secretary of State deems this “conducive to the public good” (Immigration Act
+1971, section 3(5)(a)). Section 32(4) of the UK Borders Act 2007 provides that,
+for this purpose, the deportation of a “foreign criminal” is conducive to the
+public good. Under section 32(1) a non-citizen convicted in the United Kingdom
+of an offence for which he was sentenced to at least 12 months’ imprisonment is
+a “foreign criminal”. Section 32(5) provides that the Secretary of State must
+make a deportation order in respect of a foreign criminal, but this is subject
+to section 33. Section 33(1) provides that section 32(4) and (5) do not apply
+where an exception applies. By section 33(2), “Exception 1 is where removal of
+the foreign criminal in pursuance of the deportation order would breach - (a) a
+person’s Convention rights …” By section 33(7) the application of an exception
+does not prevent the making of a deportation order and section 32(4) applies
+despite the application of Exception 1. The net effect is that if Exception 1
+applies, section 32(5) does not, and the person is not liable to automatic
+deportation. Deportation is nevertheless still deemed conducive to the public
+good and the Secretary of State <i>may</i> still make a deportation order, but
+it would be contrary to the person’s Convention rights actually to deport him.</a></p><a name="para18">
+
+<p class="ParaHeading">Immigration appeals</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At the relevant time, in 2012, immigration appeals were governed by
+sections 82 and 84 of the Nationality, Immigration and Asylum Act 2002 as they
+then stood. Section 82(1) gave a right of appeal to the First-tier Tribunal
+against an “immigration decision”, an expression which included a decision that
+section 32(5) of the 2007 Act applied to a person, but did not include the
+making of a deportation order which stated that it was made in accordance with
+section 32(5). Under section 84 of the 2002 Act, the grounds of appeal
+included, at (a), that the decision was not in accordance with the Immigration
+Rules; at (c), that the decision was unlawful under section 6 of the Human
+Rights Act 1998 as being incompatible with the appellant’s Convention rights;
+and at (e), that the decision was not otherwise in accordance with the law.
+Under section 92, only certain appeals might be brought within the United
+Kingdom. These included human rights claims. But section 94 gave the Secretary
+of State power to prevent an in-country appeal by certifying that the claim was
+“clearly unfounded”.</a></p><a name="para19">
+
+<p class="ParaHeading">The issues</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Much of the argument in the courts below focussed upon (1) whether the
+denial of automatic citizenship at birth was a “one off” act, which took place
+before the Human Rights Act came into force, or whether it had continuing
+consequences which could amount to a violation of the Convention rights; and
+(2) even if it were not a “one off” act, whether the appellant’s liability to
+deportation was caused by the initial discrimination or whether that was only
+one of a number of contributory factors, not least his failure to apply for
+citizenship when he could have done and his commission of serious crimes.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, the subject matter of these proceedings is the Secretary of
+State’s certificate that an appeal under section 82 of the 2002 Act is “clearly
+unfounded”. It is argued that the Secretary of State has no alternative but to
+treat the appellant as a “foreign criminal” to whom section 32(5) of the 2007
+Act applies and is therefore required to make a deportation order. This is because,
+by virtue of the statutory provisions described above, he is not a British
+citizen. Thus, it is argued, her action is not unlawful within the meaning of
+section 6(1) of the Human Rights Act 1998, even if it is incompatible with his
+Convention rights, because section 6(2)(a) provides that it is not unlawful to
+act incompatibly with the Convention rights if, as a result of one or more
+provisions of primary legislation, she could not have acted differently.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>However, as we have already seen (para 18 above), Exception 1 does not
+require that there be a breach of section 6 of the 1998 Act, merely that the
+deportation be a breach of the Convention rights. If Exception 1 applies, then
+section 32(5) of the 2007 Act does not apply and a deportation order cannot
+lawfully be made under that provision. To similar effect is rule 397 of the
+Immigration Rules, which provides that “A deportation order will not be made if
+the person’s removal pursuant to the order would be contrary to the UK’s
+obligations under … the Human Rights Convention”. The grounds of appeal under
+section 84(1), as it stood at the relevant time, included, not only, at (a),
+that the decision was not in accordance with the Immigration Rules, but also,
+at (e), that it was not in accordance with the law. Thus it matters not that
+ground (c) is limited to decisions that are contrary to section 6 of the 1998
+Act, provided that there is a breach of the Convention rights. Section 6(2)(a)
+of that Act is a red herring.</a></p><a name="para22">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The issue, therefore, is whether an appeal against the decision that
+section 32(5) of the 2007 Act applies to the appellant, on the basis that to
+deport the appellant now would be a breach of the UK’s obligations under the
+Human Rights Convention, is clearly unfounded. That depends upon (1) whether it
+is sufficiently within the ambit of article 8 of the Convention to bring into
+play the prohibition of discrimination in the enjoyment of the Convention
+rights in article 14; (2) whether the discrimination had a “one off effect” at
+birth or whether it has continuing consequences which may amount to a present
+violation of the Convention rights; and (3) whether such discriminatory effect
+can be justified. The discrimination complained of in this case is that he is
+liable to deportation whereas he would not be if (a) his mother and father had
+been married to one another at the time of his birth; (b) his mother and father
+had been married to one another at any time after his birth; (c) his mother had
+been British and his father Jamaican; or (d) an application had been made to
+register him as a citizen before he was 18.</a></p><a name="para23">
+
+<p class="ParaHeading">Article 8</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Although article 15.1 of the Universal Declaration of Human Rights says
+that “Everyone has the right to a nationality”, the European Convention says
+nothing about the right to a nationality. In <i>K and W v The Netherlands </i>(1985) 43 D &amp; R 216, </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1985/15.html">(1986) 8 EHRR CD95</a>, the European Commission on Human Rights declared inadmissible
+a complaint about Dutch citizenship law: a woman married to a Dutch man could
+obtain citizenship simply by writing to the local mayor; a man married to a
+Dutch woman could not. The Commission found that the right to acquire a
+particular nationality was not covered by, or sufficiently related to, article
+8 or any other provision of the Convention, for article 14 to come into play.
+In <i>Karassev v Finland </i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1999/200.html">28 EHRR CD132</a>, the Commission repeated that
+the Convention did not guarantee the right to acquire a particular nationality.
+Nevertheless, it did “not exclude that an arbitrary denial of citizenship might
+in certain circumstances raise an issue under article 8 of the Convention
+because of the impact of such a denial on the private life of the individual.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Genovese</i> <i>v Malta </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2011/1590.html">(2014) 58 EHRR 25</a>, the complaint was
+that the denial of Maltese citizenship to the son of a British mother and a Maltese
+father who were not married to one another was in breach of article 14 read
+with article 8. The Court held (para 33) that</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“While the right to citizenship is
+not as such a Convention right and while its denial in the present case was not
+such as to give rise to a violation of article 8, the Court considers that its impact
+on the applicant’s social identity was such as to bring it within the general
+scope and ambit of that article.”</p>
+
+<p class="ParaLevel1">Malta was not obliged to recognise the right to citizenship
+by descent, but as it did so, it had to ensure that the right was secured
+without discrimination. The discrimination could not be justified by the
+argument that “motherhood is certain, whereas fatherhood is not”: in that case,
+paternity had been established scientifically and in legal proceedings.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>To similar effect is <i>Kuric v Slovenia </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2012/1083.html">(2013) 56 EHRR 20</a>, where
+the discriminatory erasure of the applicants’ residence rights was held to be a
+breach of article 14 read with article 8 even though their residence had not in
+fact been affected. It is well established that a person’s social identity is
+an important component of his private life, which is entitled to respect under
+article 8. This includes the recognition of his biological relationships, even
+if the refusal of recognition has no noticeable impact upon his family life.
+Thus, for example, in <i>Menneson v France, Labassee v France, </i>App Nos
+65192/11 and 65941/11, <a title="Link to BAILII version" href="/eu/cases/ECHR/2014/664.html">[2014] ECHR 664</a>, Judgment of 26 June 2014, it was a violation of the
+right to respect for private life for French law to deny the existence of the
+relationship between the biological father and the children born as a result of
+surrogacy arrangements in the United States.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27">27.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is clear, therefore, that the denial of citizenship, having such an
+important effect upon a person’s social identity, is sufficiently within the
+ambit of article 8 to trigger the application of the prohibition of
+discrimination in article 14.</a></p><a name="para27">
+
+<p class="ParaHeading">A continuing effect?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal held that the denial of automatic citizenship was a
+“one off” event that happened at birth and had no continuing effect capable of
+being a violation of the Convention rights. For example, in <i>Posti and Rahko
+v Finland </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2002/634.html">(2003) 37 EHRR 6</a>, the restriction on the applicants’ right to
+fish in state-owned waters, imposed by a decree in 1994, obviously continued to
+limit their fishing, but was a single event and their complaint was out of
+time. However, the court reiterated that “the concept of a ‘continuing
+situation’ refers to a state of affairs which operates by continuous activities
+by or on the part of the state to render the applicants victims” (para 39).
+Thus, in <i>Norris v Ireland </i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1988/22.html">(1991) 13 EHRR 186</a>, it was held that the very
+existence of legislation penalising homosexual acts “continuously and directly”
+affected the applicant’s private life, despite the fact that he had neither
+been prosecuted nor threatened with prosecution. In this case, the denial of
+citizenship has a current and direct effect upon the appellant who is currently
+liable to action by the state, in the shape of deportation, as a result.</p>
+
+<p class="ParaHeading">Article 14</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is not in dispute that birth outside wedlock is a “status” for the
+purpose of article 14. It has been so regarded at the very least since the
+landmark case of <i>Marckx v Belgium </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1979/2.html">(1979) 2 EHRR 330</a>. It is no
+co-incidence that the laws of both Scotland and England and Wales were changed
+within a few years of that decision. Nor can it be seriously disputed that
+there is here a difference in treatment between people who are otherwise in an
+analogous situation on the ground of that birth status: had the appellant’s
+parents been married to one another he would automatically have become a
+British citizen and not been liable to deportation no matter how badly he had
+behaved.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30">30.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As has been said many times, “For the purpose of article 14, a
+difference in treatment is discriminatory if it has no objective and reasonable
+justification, that is, if it does not pursue a legitimate aim or if there is
+not a reasonable relationship of proportionality between the means employed and
+the aim sought to be realised” (see, eg, <i>Inze v Austria </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/1987/28.html">(1988) 10 EHRR 394</a>, para 41; <i>Genovese v Malta</i>, para 43). It is also clear that birth
+outside wedlock falls within the class of “suspect” grounds, where “very
+weighty reasons” are required to justify discrimination. This was held as long
+ago as <i>Inze v Austria</i>, at para 41, where children born in wedlock were
+given priority over children born outside wedlock in the inheritance of a
+family farm:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The question of equality between
+children born in and children born out of wedlock as regards their civil rights
+is today given importance in the member states of the Council of Europe. This
+is shown by the 1975 European Convention on the Legal Status of Children born
+out of Wedlock, which is presently in force in respect of nine member states of
+the Council of Europe [including Austria]. Very weighty reasons would
+accordingly have to be advanced before a difference in treatment on the ground
+of birth out of wedlock could be regarded as compatible with the Convention.”</p>
+
+<p class="ParaLevel1">The likelihood that a child born outside wedlock would have
+had less to do with the family farm, and the attitudes of the rural population,
+were not regarded as weighty reasons.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31">31.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The need for “very weighty reasons” has been repeated many times since,
+for example, in <i>Fabris v France</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/eu/cases/ECHR/2013/128.html">(2013) 57 EHRR 19</a>, at paras 58 and 59,
+where reference was made to “the principle of equality eliminating the very
+concepts of legitimate children and children born outside marriage”, and in <i>Genovese
+v Malta</i>, at para 44, where it was noted that 22 member states were now
+parties to the 1975 Convention and it was irrelevant that Malta was not. The
+United Kingdom signed the Convention in 1975 and ratified it in 1981.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This case has, however, been bedevilled by arguments about precisely
+what has to be justified. If it is the initial denial of automatic citizenship
+in 1985, the Secretary of State can argue that it was not even recognised as
+within the ambit of article 8 at the time and so does not need justification.
+If it is the continued denial of citizenship in 2012, the Secretary of State
+can argue that steps have now been taken to put right the historic injustice,
+but that it is justifiable for these steps only to operate prospectively: it is
+reasonable to have a citizenship law which assigns citizenship to certain
+people automatically at birth and grants it later only on application.
+Citizenship should not be imposed upon people unless they have asked for it: it
+may bring disadvantages if they are also citizens of a state which does not
+recognise dual nationality. The problem with that argument is that citizenship
+is imposed automatically at birth upon certain people, whether they want it or
+not and whether or not it gives rise to dual nationality problems. Furthermore
+it is also imposed automatically if a person is legitimated by the subsequent
+marriage of his parents. The appellant’s problems would be over if his mother
+could be found and his father persuaded to marry her.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>If what needs to be justified is the liability of non-citizens to
+deportation while citizens cannot be deported, the Secretary of State would
+have a comparatively simple task. It has always been justifiable to distinguish
+between citizens and aliens in matters relating to entering, remaining in and
+removal from the country. The right to live in one’s own country is the
+principal right of citizenship. Further, if what needs to be justified is the
+liability of foreign criminals to be deported when other foreigners are not
+similarly liable (although their presence here may be controlled in other
+ways), again the Secretary of State might have a comparatively easy task.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But in this case what needs to be justified is the current liability of
+the appellant, and others whose parents were not married to one another when
+they were born or at any time thereafter, to be deported when they would not be
+so liable had their parents been married to one another at any time after their
+birth. That is a present distinction which is based solely on the accident of
+birth outside wedlock, for which the appellant is not responsible, and no
+justification has been suggested for it. It is impossible to say that his claim
+that Exception 1 applies, based on article 14 read with article 8, is “clearly
+unfounded”.</a></p><a name="para34">
+
+<p class="ParaHeading">Conclusion</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It follows that I would allow this appeal and quash the Secretary of
+State’s certificate. The consequence, as I understand it, is that his appeal
+against the Secretary of State’s decision of 23 November 2012 must be allowed
+to proceed and, for the reasons given earlier, is certain to succeed.</a></p><a name="para35">
+
+<p class="ParaHeading">Declaration of incompatibility?</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Allowing this appeal is the consequence of the particular provisions
+relating to deportation which are relevant here. However, there are bound to be
+other people in the appellant’s situation - that is, who are denied the automatic
+right to citizenship by reason of the fact that their British father was not
+married to their non-British mother at the time of their birth. There are all
+sorts of current consequences which might flow from that situation. An example
+is the right to vote, which is an aspect of citizenship and also a Convention
+right under article 3 of the First Protocol. People born before 1 July 2006 are
+denied that right unless they are first registered as citizens. In order to do
+this they must pass the “good character” test in section 41A of the 1981 Act.
+Had their parents been married to one another at or at any time after their
+birth they would not have to do this. While of course all babies arrive in the
+world with a good character the same cannot be said of those legitimated by the
+subsequent marriage of their parents. The distinction is based solely on birth
+status and for the reasons given earlier cannot be justified.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Mr Hugh Southey QC, for the appellant, argued that it followed that the
+Nationality, Immigration and Asylum Act 2002 (Commencement No 11) Order 2006,
+SI 2006/1498, bringing into force the 2002 amendments to section 50(9) of the
+1981 Act was incompatible with the Convention rights. It should have operated
+retrospectively so as to grant automatic citizenship to all people previously
+denied it because of their parents’ marital status. Mr Tim Eicke QC, for the
+Secretary of State, argues that it is contrary to principle for legislation to
+have retrospective effect, in particular where it effects an automatic change
+of status. Citizenship should not be imposed upon people unless they have asked
+for it.</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As already mentioned, Mr Eicke’s argument cannot be taken too far: there
+are many people who are entitled at birth to the citizenship of more than one country
+whether they like it or not: they may be born in a country, such as the United
+States of America, which still recognises the <i>ius soli</i>, the right to
+citizenship of all persons born within the territory; and they may be entitled
+to citizenship by descent from either or both of their parents, as is the case
+under the 1981 Act. But where a person has not automatically acquired
+citizenship at birth, it is reasonable to expect him to apply for it, even if
+he is entitled to be registered if he does so. This avoids the risk of
+inconvenient results and provides everyone with clarity and certainty. But it
+is not reasonable to impose the additional hurdle of a good character test upon
+persons who would, but for their parents’ marital status, have automatically acquired
+citizenship at birth, as this produces the discriminatory result that a person
+will be deprived of citizenship status because of an accident of birth which is
+no fault of his.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The incompatible provision, therefore, is paragraph 70 of Schedule 9 to
+the Immigration Act 2014, which inserts into section 41A of the 1981 Act (the
+requirement to be of good character) a reference to sections 4F, 4G, 4H and 4I,
+which relate to various categories of people who would automatically have
+become UK citizens had their parents been married to one another at their
+birth. The court will make a declaration to that effect, although it is not
+necessary to do so in order to dispose of this case.</a></p><a name="para39">
+
+</a></div><a name="para39">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/56.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

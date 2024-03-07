@@ -1,0 +1,473 @@
+<html><head> 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered)"> 
+<title>The Public Law Project, R (on the application of) v Lord Chancellor [2016] UKSC 39 (13 July 2016)</title> 
+<style> <!-- /* Font Definitions */ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:"Segoe UI"; panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face {font-family:SymbolMT; panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face {font-family:"Univers \(W1\)"; panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face {font-family:BookAntiqua-Italic; panose-1:0 0 0 0 0 0 0 0 0 0;} @font-face {font-family:BookAntiqua; panose-1:0 0 0 0 0 0 0 0 0 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Times New Roman",serif;} p.MsoHeader, li.MsoHeader, div.MsoHeader {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} p.MsoFooter, li.MsoFooter, div.MsoFooter {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Univers (W1)",sans-serif;} a:link, span.MsoHyperlink {color:blue; text-decoration:underline;} a:visited, span.MsoHyperlinkFollowed {color:#954F72; text-decoration:underline;} p.MsoAcetate, li.MsoAcetate, div.MsoAcetate {mso-style-link:"Balloon Text Char"; margin:0cm; margin-bottom:.0001pt; font-size:9.0pt; font-family:"Segoe UI",sans-serif;} p.MsoQuote, li.MsoQuote, div.MsoQuote {margin-top:0cm; margin-right:36.0pt; margin-bottom:26.0pt; margin-left:36.0pt; text-align:justify; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaHeading, li.ParaHeading, div.ParaHeading {mso-style-name:ParaHeading; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman",serif; font-style:italic;} p.Title1, li.Title1, div.Title1 {mso-style-name:Title1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:72.0pt; text-align:center; font-size:13.0pt; font-family:"Times New Roman",serif; font-weight:bold;} p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber {mso-style-name:ParaNoNumber; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel1, li.ParaLevel1, div.ParaLevel1 {mso-style-name:ParaLevel1; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel2, li.ParaLevel2, div.ParaLevel2 {mso-style-name:ParaLevel2; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:35.45pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel3, li.ParaLevel3, div.ParaLevel3 {mso-style-name:ParaLevel3; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:70.9pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel4, li.ParaLevel4, div.ParaLevel4 {mso-style-name:ParaLevel4; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:106.35pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel5, li.ParaLevel5, div.ParaLevel5 {mso-style-name:ParaLevel5; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:141.8pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel6, li.ParaLevel6, div.ParaLevel6 {mso-style-name:ParaLevel6; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:177.25pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel7, li.ParaLevel7, div.ParaLevel7 {mso-style-name:ParaLevel7; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:212.7pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel8, li.ParaLevel8, div.ParaLevel8 {mso-style-name:ParaLevel8; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:248.15pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.ParaLevel9, li.ParaLevel9, div.ParaLevel9 {mso-style-name:ParaLevel9; margin-top:0cm; margin-right:0cm; margin-bottom:26.0pt; margin-left:283.6pt; text-align:justify; text-indent:0cm; font-size:13.0pt; font-family:"Times New Roman",serif;} p.Caveat, li.Caveat, div.Caveat {mso-style-name:Caveat; margin:0cm; margin-bottom:.0001pt; text-align:justify; border:none; padding:0cm; font-size:10.0pt; font-family:"Times New Roman",serif; font-weight:bold;} p.NewSpeech, li.NewSpeech, div.NewSpeech {mso-style-name:NewSpeech; margin-top:39.0pt; margin-right:0cm; margin-bottom:26.0pt; margin-left:0cm; page-break-after:avoid; font-size:13.0pt; font-family:"Times New Roman",serif; text-transform:uppercase; font-weight:bold;} p.WorkingDate, li.WorkingDate, div.WorkingDate {mso-style-name:WorkingDate; margin:0cm; margin-bottom:.0001pt; text-align:right; font-size:18.0pt; font-family:"Times New Roman",serif; font-weight:bold;} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Segoe UI",sans-serif;} .MsoChpDefault {font-size:10.0pt;} /* Page Definitions */ @page WordSection1 {size:595.3pt 841.9pt; margin:72.0pt 72.0pt 72.0pt 90.0pt;} div.WordSection1 {page:WordSection1;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> </style> <style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head> 
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      The Public Law Project, R (on the application of) v Lord Chancellor [2016] UKSC 39 (13 July 2016)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/39.html</i>
+<br>Cite as: 
+[2016] 3 WLR 387,
+
+[2016] HRLR 17,
+
+[2016] AC 1531,
+
+[2016] UKSC 39,
+
+[2016] WLR(D) 384
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2016/39.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+WLR(D)+384">[2016] WLR(D) 384</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+AC+1531">[2016] AC 1531</a>]
+[Buy ICLR report: <a href="http://iclr.co.uk/pubrefLookup/redirectTo?ref=2016+3+WLR+387">[2016] 3 WLR 387</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2016/39(image1).pdf">Summary</a></span></p><br> 
+<div class="WordSection1"> 
+<p class="MsoNormal" align="right" style="text-align:right">
+
+<a name="Text12">
+<b>Trinity Term</b></a></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<b>[2016] UKSC 39</b></p> 
+<p class="MsoNormal" align="right" style="text-align:right">
+<i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2015/1193.html">[2015] EWCA Civ 1193</a></i></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="letter-spacing:-.15pt">&nbsp;</span></p> 
+<p class="MsoNormal"></p><center>
+<b>
+<span style="font-size:20.0pt">JUDGMENT</span></b><p></p> 
+<p class="MsoNormal">
+<b>&nbsp;</b></p> 
+<p class="MsoNormal">
+<b>&nbsp;</b></p> 
+<p class="Title1" align="left" style="margin-left:0cm">
+<span style="font-size:20.0pt">R (on the application of The Public Law Project) (Appellant) 
+<i>v</i> Lord Chancellor (Respondent)</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:14.0pt">before </span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Neuberger, President</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lady Hale, Deputy President</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Mance</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Reed</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Carnwath</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Hughes</span></b></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:17.0pt">Lord Toulson</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:18.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:18.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:18.0pt">13 July 2016</span></b></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+
+<span style="font-size:16.0pt">&nbsp;</span></p> 
+<p class="MsoNormal">
+<b>
+<span style="font-size:15.0pt">Heard on 18 April 2016</span></b></p> 
+<p class="MsoNormal">&nbsp;</p> 
+<p class="MsoNormal">&nbsp;</p> 
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"> 
+<tbody><tr style="height:114.0pt"> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt; height:114.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Appellant</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">Michael Fordham QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Ben Jaffey</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Naina Patel</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Alison Pickup</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Bindmans LLP)</p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt; height:114.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt; height:114.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Respondent</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">James Eadie QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Patrick Goodall QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Simon Pritchard</p> 
+<p class="MsoNormal" align="center" style="text-align:center">David Lowe</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by The Government Legal Department)</p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>&nbsp;</i></p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>&nbsp;</i></p> </td> </tr> 
+<tr style="height:114.0pt"> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt; height:114.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>&nbsp;</i></p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt; height:114.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt; height:114.0pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Intervener (Office of the Children's Commissioner)</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>
+<u>Written submissions only</u></i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">Paul Bowen QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Eric Metcalfe</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Catherine Meredith</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by Freshfields Bruckhaus Deringer LLP)</p> </td> </tr> 
+<tr> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>&nbsp;</i></p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>&nbsp;</i></p> </td> </tr> 
+<tr style="height:99.75pt"> 
+<td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt; height:99.75pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>&nbsp;</i></p> </td> 
+<td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt; height:99.75pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p> </td> 
+<td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt; height:99.75pt"> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>Intervener (The Law Society)</i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">
+<i>
+<u>Written submissions only</u></i></p> 
+<p class="MsoNormal" align="center" style="text-align:center">Dinah Rose QC</p> 
+<p class="MsoNormal" align="center" style="text-align:center">Iain Steele</p> 
+<p class="MsoNormal" align="center" style="text-align:center">(Instructed by The Law Society)</p> </td> </tr> </tbody></table> </center>
+<p class="MsoNormal">&nbsp;</p> 
+<p class="MsoNormal">&nbsp;</p> 
+<p class="NewSpeech">LORD NEUBERGER: (
+<span style="text-transform:none">with whom Lady Hale, Lord Mance, Lord Reed, Lord Carnwath, Lord Hughes and Lord Toulson agree</span>)</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This appeal concerns the lawfulness of a proposal by the Lord Chancellor (then The Rt Hon Christopher Grayling MP) in September 2013 to introduce a residence test for civil legal aid by amending Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012 ("LASPO"), by means of delegated legislation, in the form of a statutory instrument, which I will refer to as "the draft order".</a></p><a name="para1"> 
+<p class="ParaHeading">Part 1 of LASPO</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In November 2010, the Ministry of Justice published a consultation paper entitled 
+<i>Proposals for the Reform of Legal Aid in England and Wales</i>. Following the subsequent public consultation exercise, the Ministry published a paper entitled 
+<i>Reform of Legal Aid in England and Wales: the Government Response </i>in June 2011. The proposals in this June 2011 paper were then largely reflected in a Bill which was put before Parliament, and which, subject to amendments, was enacted as LASPO, a statute which was enacted on 1 May 2012. As its title suggests, LASPO is concerned with a number of different areas of the legal system.</a></p><a name="para2"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This case is concerned with Part 1 of LASPO, which came into force on 1 April 2013, is entitled "Legal Aid", and contains 43 sections. Sections 1 to 12 are headed "Provision of legal aid". Sections 8 to 12 are concerned with civil legal services, and sections 13 to 20 with "Criminal legal aid". Sections 21 and 22 are concerned with "Financial resources", sections 23 to 26 with "Contributions and costs", and sections 27 to 30 with "Providers of services etc". Sections 31 to 43 are "Supplementary" provisions.</a></p><a name="para3"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 1(1) of LASPO imposes on the Lord Chancellor a duty to "secure that legal aid is made available in accordance with this Part", and section 1(4) enables him to "do anything" to further those functions. Section 2(1) empowers him to make "such arrangements as [he] considers appropriate" to carry out those functions, and section 3 is concerned with "standards of service". Section 4(1) requires the Lord Chancellor to appoint a "Director of Legal Aid Casework", defined as "the Director". Section 8 defines "civil legal services" as the provision of legal advice and assistance as to the law, proceedings, disputes and enforcement other than in connection with criminal matters.</a></p><a name="para4"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 9 of LASPO is entitled "General cases", and it provides:</a></p><a name="para5"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"(1) Civil legal services are to be available to an individual under this Part if -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) they are civil legal services described in Part 1 of Schedule 1, and</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) the Director has determined that the individual qualifies for the services in accordance with this Part ...</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(2) The Lord Chancellor may by order -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) add services to Part 1 of Schedule 1, or</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) vary or omit services described in that Part, (whether by modifying that Part or Parts 2, 3 or 4 of the Schedule
+<span style="font-size:12.0pt">)."</span></p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 10 of LASPO deals with "Exceptional cases", in respect of which civil legal services are to be available even though they would not be available under section 9. It includes, in subsection (3), cases where the denial of civil legal services would be "a breach of ... [an] individual's Convention rights ... or ... EU rights".</a></p><a name="para6"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 11 of LASPO is entitled "Qualifying for civil legal aid". Section 11(1) requires the Director to determine whether an individual qualifies for civil legal services by reference to (a) his financial resources (as defined in section 21 and "regulations under that section"), and (b) criteria set out in regulations. Section 11(2) provides that, in setting the criteria under section 11(1)(b), the Lord Chancellor (a) "must consider the circumstances in which it is appropriate to make civil legal services available", and (b) "must, in particular, consider the extent to which the criteria ought to reflect the factors set out in subsection (3)". The ten factors set out in section 11(3) include (a) the likely cost and likely benefit of providing the services, (b) the availability of resources, (e) the nature and the seriousness of the case, (f) the availability of alternative services, (g) the prospects of success, (h) the conduct of the individual concerned "in connection with services made available under this Part", and (j) the public interest.</a></p><a name="para7"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Section 41 of LASPO is headed "Orders, regulations and directions", and subsections (1), (2) and (3) are in these terms:</a></p><a name="para8"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"(1) Orders, regulations and directions under this Part -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) may make different provision for different cases, circumstances or areas,</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) may make provision generally or only for specified cases, circumstances or areas, and</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(c) may make provision having effect for a period specified or described in the order, regulations or direction.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(2) They may, in particular, make provision by reference to -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) services provided for the purposes of proceedings before a particular court, tribunal or other person,</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) services provided for a particular class of individual, or</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(c) services provided for individuals selected by reference to particular criteria or on a sampling basis.</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">(3) Orders and regulations under this Part -</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(a) may provide for a person to exercise a discretion in dealing with any matter,</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(b) may make provision by reference to a document produced by any person, and</p> 
+<p class="MsoQuote" style="margin-left:108.0pt">(c) may make consequential, supplementary, incidental, transitional or saving provision."</p> 
+<p class="ParaNoNumber">Section 41(6) provides that a statutory instrument containing an order made under any section mentioned in section 41(7) "may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament", and section 41(7) included, in para (a), "orders under section 9".</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Schedule 1 to LASPO is headed "Civil Legal Services" and Part 1 sets out the "Services", which are referred to in section 9(1)(a). Over 40 categories are set out in Part 1 of Schedule 1, and almost all of them begin with the words "Civil legal services provided" either "to" or "in relation to". They include "care, supervision and protection of children" (para 1), "special educational needs" (para 2), and "abuse of an individual ... when ... a child or a vulnerable adult, but only where (a) the services are provided to the individual ..." (para 3). The categories also include "appeals relating to welfare benefits" (para 8), "victims of domestic violence and family matters" (para 12), and "judicial review", save where such review will produce no benefit to the individual concerned (para 19). Other categories are "breach of Convention rights by a public authority" (para 22), certain specified immigration matters (paras 24-31), "loss of home" and "homelessness" (paras 33 and 34), "protection from harassment" (para 37), "in relation to a sexual offence, but only where (a) the services are provided to the victim of the offence ..." (para 39). Also, "inquests" (para 41), "environmental pollution" (para 42), and "equality" (para 43). Some of these paragraphs are fairly detailed and include exclusions and definitions.</a></p><a name="para9"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Part 2 of Schedule 1 is entitled "Excluded services", and it is introduced with the following words, "The services described in Part 1 of this Schedule do not include the services listed in this Part of this Schedule, except to the extent that Part 1 of this Schedule provides otherwise". Part 2 contains 18 paragraphs, and (with the exception of para 14) they all begin with the words "Civil legal services provided in relation to", and then refer to specific areas, including "personal injury or death" (para 1), "a claim in tort in respect of negligence" (para 2), "damage to property" (para 6), "a claim in tort in respect of breach of statutory duty" (para 8) and "a benefit, allowance, payment, credit or pension" under certain statutes (para 15). Paragraph 14 of Part 2 of Schedule 1 is "Civil legal services provided to an individual in relation to matters arising out of" establishing, carrying on, or terminating a business.</a></p><a name="para10"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Part 3 of Schedule 1 is concerned with "Advocacy: exclusion and exceptions", and it sets out tribunals before which advocacy is within the Services covered by Part 1 of the Schedule. Part 4 of that Schedule is concerned with "Interpretation".</a></p><a name="para11"> 
+<p class="ParaHeading">The draft order</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In April 2013, the Ministry of Justice issued a paper, 
+<i>Transforming Legal Aid</i>,
+<i> </i>and subsequently carried out a public consultation exercise in connection with its proposals. In September 2013, the Ministry published its response to the results of that exercise, 
+<i>Transforming Legal Aid: Next Steps</i>. In the September 2013 paper, the Ministry stated at para 132 that, subject to certain specified exceptions:</a></p><a name="para12"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"[T]he Government has decided to proceed with the introduction of a residence test in civil legal aid so that only those who are:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt;text-indent:0cm">
+<span style="font-family:SymbolMT">•
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>lawfully resident in the UK, Crown Dependencies or British Overseas Territories at the time the application for civil legal aid was made; and</p> 
+<p class="MsoQuote" style="margin-left:72.0pt;text-indent:0cm">
+<span style="font-family:SymbolMT">•
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>have resided lawfully in the UK, Crown Dependencies or British Overseas territories for a continuous period of at least 12 months at any point in the past</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">would be eligible for civil legal aid ..."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The specified exceptions were (i) serving members of the armed forces and their families, (ii) asylum seekers, and (iii) in relation to the second bullet point, children aged under 12 months. No exception was to be made for older children who were not responsible for their lack of lawful resident status. The Ministry later agreed to exclude certain classes of case from the ambit of this proposal, namely "
+<span style="font-family:&quot;BookAntiqua-Italic&quot;,serif">categories of case which broadly</span> 
+<span style="font-family:&quot;BookAntiqua-Italic&quot;,serif">relate to an individual's liberty, where the individual is particularly vulnerable, or where the case relates to the protection of children".</span></a></p><a name="para13"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In its September 2013 paper, the Ministry described the proposal as "justified and proportionate", and pointed out that "anyone excluded by the residence test would be entitled to apply for exceptional funding". In para 6.3 of an Equality Statement attached to that paper, the Ministry described the "primary objective" of the proposal as being "to bear down on the cost of legal aid, ensuring that every aspect of expenditure is justified and that we are getting the best deal for the taxpayer", and further stated that "
+<span style="font-family:&quot;BookAntiqua-Italic&quot;,serif">the reforms seek to promote public confidence in the system by ensuring limited public resources are targeted at those cases which justify it and those people who need it".</span></a></p><a name="para14"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style="font-family:&quot;BookAntiqua-Italic&quot;,serif">Also in September 2013, the Lord Chancellor decided to proceed with his proposal described in paras 12 and 13 above, and to give effect to that decision by laying a draft order before Parliament. </span>The draft order was put before Parliament on 31 March 2014. The draft order stated that it was made pursuant to sections 9(2)(b), 41(1)(a) and (b), 41(2)(a) and (b), and 41(3)(b) and (c) of LASPO.</a></p><a name="para15"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The draft order effectively provides that an individual who fails the residence test would no longer qualify for civil legal aid for any types of claim, subject to certain limited exceptions. The effect of the draft order was to insert a new para 19 into Part 2 of Schedule 1, whose effect was explained by Moses LJ in the Divisional Court at </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2014/2365.html">[2015] 1 WLR 251</a>, paras 21-24, and was more shortly summarised by Mr Eadie QC, who appeared for the Lord Chancellor, in a description adopted by Laws LJ in the Court of Appeal at para 8:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"To satisfy the residence test, an individual would have to be lawfully resident in the UK, the Channel Islands, Isle of Man or a British Overseas Territory on the day the application for civil legal services was made, and (unless they were under 12 months old or a particular kind of asylum claimant or involved with the UK Armed Forces) have been so lawfully resident for a 12-month period at some time in the past (excluding absences of up to 30 days).</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">There were proposed exceptions to the test. Claimants pursuing certain types of proceedings were not required to satisfy the test (for example, domestic violence cases, and challenges to the lawfulness of detention). In any event, regardless of residence, a claimant who failed the residence test would have been entitled to apply for legal aid under the Exceptional Case Funding ... regime in section l0 of LASPO whose purpose is to ensure that all those who have a right to legal aid under the European Convention or EU law are able to obtain it."</p> 
+<p class="ParaHeading">The instant proceedings</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17">17.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Before the draft order had been laid before Parliament, Public Law Project ("PLP") applied to the High Court for a declaration that it would be unlawful. The alleged unlawfulness was based on two grounds, namely that the draft order was or would be (i) 
+<i>ultra vires</i>, ie outside the scope of the power granted to the Lord Chancellor in LASPO to bring forward delegated legislation, and (ii) unjustifiably discriminatory in its effect. The Divisional Court, in a judgment given by Moses LJ (with whom Collins and Jay JJ agreed), held that the draft order was unlawful on both grounds - </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Admin/2014/2365.html">[2015] 1 WLR 251</a>. As the draft order was before Parliament at the time of the decision of the Divisional Court, it was withdrawn, and that remains the position today.</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18">18.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Lord Chancellor appealed against both conclusions reached by the Divisional Court. The Court of Appeal, in a judgment given by Laws LJ (with whom Kitchin and Christopher Clarke LJJ agreed), allowed his appeal, holding that the draft order was 
+<i>intra vires </i>and, while it was discriminatory in its effect, the discrimination could be justified - </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2015/1193.html">[2016] 2 WLR 995</a>.</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>PLP now appeals to this court, and maintains both the 
+<i>ultra vires </i>and the discrimination arguments.</a></p><a name="para19"> 
+<p class="ParaHeading">The 
+<span style="font-style:normal">ultra vires</span> principle in the present context</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The draft order, once formally made, would, of course, be secondary, or subordinate, legislation, unlike LASPO itself which, as a statute, is primary legislation. Primary legislation is initiated by a Bill which is placed before Parliament. To the extent that Parliament considers it appropriate, all or any of the provisions of a Bill can be subject to detailed scrutiny, discussion, and amendment in Parliament before being formally enacted as primary legislation; it is then formally approved by the monarch, whereupon it becomes a statute. In our system of parliamentary supremacy (subject to arguable extreme exceptions, which I hope and expect will never have to be tested in practice), it is not open to a court to challenge or refuse to apply a statute, save to the extent that Parliament authorises or requires a court to do so.</a></p><a name="para20"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Subordinate legislation consists of legislation made by members of the Executive (often, as in this case, by Government ministers), almost always pursuant to an authority given by Parliament in primary legislation. The draft order in the present case would be a statutory instrument, which is a type of subordinate legislation which must be laid in draft before Parliament. Some statutory instruments are subject to the negative resolution procedure - ie they will become law unless, within a specified period, they are debated and voted down. Other statutory instruments, such as the draft order in this case, are subject to the affirmative resolution procedure - ie they can only become law if they are formally approved by Parliament - see subsections (6) and (7)(a) of section 41.</a></p><a name="para21"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Although they can be said to have been approved by Parliament, draft statutory instruments, even those subject to the affirmative resolution procedure, are not subject to the same legislative scrutiny as bills; and, unlike bills, they cannot be amended by Parliament. Accordingly, it is well established that, unlike statutes, the lawfulness of statutory instruments (like other subordinate legislation) can be challenged in court. As Lord Diplock said in 
+<i>F Hoffmann-La Roche &amp; Co v Secretary of State for Trade and Industry </i>[1975] AC 295, 365, "even though [subordinate legislation] is contained in an order made by statutory instrument approved by resolutions of both Houses of Parliament, ... I entertain no doubt that the courts have jurisdiction to declare it to be invalid if they are satisfied that in making it the Minister who did so acted outwith the legislative powers conferred upon him by the ... Act of Parliament under which the order [was] purported to be made ...".</a></p><a name="para22"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Subordinate legislation will be held by a court to be invalid if it has an effect, or is made for a purpose, which is 
+<i>ultra vires</i>, that is,
+<i> </i>outside the scope of the statutory power pursuant to which it was purportedly made. In declaring subordinate legislation to be invalid in such a case, the court is upholding the supremacy of Parliament over the Executive. That is because the court is preventing a member of the Executive from making an order which is outside the scope of the power which Parliament has given him or her by means of the statute concerned. Accordingly, when, as in this case, it is contended that actual or intended subordinate legislation is 
+<i>ultra vires</i>, it is necessary for a court to determine the scope of the statutorily conferred power to make that legislation.</a></p><a name="para23"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Normally, statutory provisions which provide for subordinate legislation are concerned with subsidiary issues such as procedural rules, practice directions, and forms of notice; hence statutory instruments are frequently referred to as regulations. However, such statutory provisions sometimes permit more substantive issues to be covered by subordinate legislation, and, as is the case with section 9(2)(b) of LASPO, they sometimes permit subordinate legislation which actually amends the statute concerned (or even another statute), by addition, deletion or variation.</a></p><a name="para24"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>As explained in 
+<i>Craies on Legislation </i>(10th ed (2015)), edited by Daniel Greenberg), para 1.3.9:</a></p><a name="para25"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"The term 'Henry VIII power' is commonly used to describe a delegated power under which subordinate legislation is enabled to amend primary legislation."</p> 
+<p class="ParaLevel1">When a court is considering the validity of a statutory instrument made under a Henry VIII power, its role in upholding Parliamentary supremacy is particularly striking, as the statutory instrument will be purporting to vary primary legislation passed into law by Parliament.</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The interpretation of the statutory provision conferring a power to make secondary legislation is, of course, to be effected in accordance with normal principles of statutory construction. However, in the case of an "amendment that is permitted under a Henry VIII power", to quote again from 
+<i>Craies</i> (
+<i>op cit</i>)
+<i> </i>para 1.3.11:</a></p><a name="para26"> 
+<p class="MsoQuote" style="margin-left:72.0pt">"as with all delegated powers the only rule for construction is to test each proposed exercise by reference to whether or not it is within the class of action that Parliament must have contemplated when delegating. Although Henry VIII powers are often cast in very wide terms, the more general the words by Parliament to delegate a power, the more likely it is that an exercise within the literal meaning of the words will nevertheless be outside the legislature's contemplation."</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In two cases, 
+<i>R v Secretary of State for Social Security, Ex p Britnell </i>[1991] 1 WLR 198, 204 and 
+<i>R v Secretary of State for the Environment, Transport and the Regions, Ex p Spath Holme Ltd </i></a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2000/61.html">[2001] 2 AC 349</a>, 383, the House of Lords has cited with approval the following observation of Lord Donaldson MR in 
+<i>McKiernon v Secretary of State for Social Security</i>, The Times, November 1989; Court of Appeal (Civil Division) Transcript No 1017 of 1989, which is to much the same effect:</p> 
+<p class="MsoQuote" style="margin-left:72.0pt">"Whether subject to the negative or affirmative resolution procedure, [subordinate legislation] is subject to much briefer, if any, examination by Parliament and cannot be amended. The duty of the courts being to give effect to the will of Parliament, it is, in my judgment, legitimate to take account of the fact that a delegation to the Executive of power to modify primary legislation must be an exceptional course and that, if there is any doubt about the scope of the power conferred upon the Executive or upon whether it has been exercised, it should be resolved
+<i> </i>by a restrictive approach."</p> 
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28">28.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Immediately after quoting this passage in 
+<i>Spath Holme</i>, Lord Bingham went on to say "[r]ecognition of Parliament's primary law-making role in my view requires such an approach". He went on to add that, where there is "little room for doubt about the scope of the power" in the statute concerned, it is not for the courts to cut down that scope by some artificial reading of the power.</a></p><a name="para28"> 
+<p class="ParaHeading">Is the draft order 
+<span style="font-style:normal">ultra vires</span>?</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The argument that the draft order is 
+<i>ultra vires </i>the powers granted to the Lord Chancellor is, in essence, as follows. The exclusion of a specific group of people from the right to receive civil legal services in relation to an issue, on the ground of personal circumstances or characteristics (namely those not 
+<span style="font-family:&quot;BookAntiqua&quot;,serif">lawfully resident in the UK, Crown Dependencies or British Overseas Territories)</span> which have nothing to do with the nature of the issue or services involved or the individual's need, or ability to pay, for the services,
+<span style="font-family:&quot;BookAntiqua&quot;,serif"> is simply not within the scope of the power accorded to the Lord Chancellor by section 9(2)(b) of LASPO, and nothing in section 41 undermines that contention.</span></a></p><a name="para29"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In my view, that argument is sound, and should be accepted. Turning to section 9(2)(b) itself, as a matter of ordinary language, the relevant parts of the draft order do not seek to "vary or omit services": rather they seek to reduce the class of individuals who are entitled to receive those services by reference to a personal characteristic or circumstance unrelated to the services. Of course, the words of section 9(2)(b) have to be interpreted in their context, and I accept that a sufficiently clear and strong context could justify a different conclusion, in the sense that the words of section 9(2)(b) could, as a matter of language, just about extend to a regulation such as the draft order. Nonetheless, that is not their natural meaning, and, of course, the natural meaning of the words in question is an important factor in an issue of statutory interpretation, particularly when they suggest that a so-called Henry VIII power does not extend to authorise the subordinate legislation in question.</a></p><a name="para30"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>When one turns to the wider statutory context, I consider that it supports, rather than undermines, the conclusion indicated by the natural meaning of the words of section 9(2)(b) on their own. First, section 9(2)(b) permits a variation or omission of the services set out in Part 1 of Schedule 1, by, inter alia, modifying that Part or Part 2 of that Schedule. Each of the services identified in Part 1 and Part 2 is linked to a specific type of legal issue or claim, and has nothing to do with the personal circumstances or characteristics, and in particular the geographical residence, of the potential recipient of the services, other than those which relate to the issue or the services concerned. The point is well demonstrated by the fact that, as mentioned in para 10 above, all the existing 18 paragraphs of Part 2 of the Schedule are concerned with "Civil legal services provided in relation to" specified areas of litigation, whereas the new proposed para 19 will have nothing to do with any specified area of litigation at all.</a></p><a name="para31"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para31"></a><a name="para32">32.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It is true that, as mentioned in para 9 above, some provisions, such as paras 3(a) and 39(a) of Part 1, limit the right to receive legal services to one specific group, namely the victims of alleged wrongdoing, and exclude, for instance, the alleged perpetrators. However, that does not in any way undermine PLP's case, because the objection to the draft order is that it excludes (albeit subject to exceptions) a group of individuals on grounds which have nothing to do with the issue or services involved.</a></p><a name="para32"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>This conclusion is supported by the contrast in the wording of the two subsections of section 9. Subsection (1) states that "[c]ivil legal services are to be available to an individual" if (a) "they are civil legal services described in Part 1 of Schedule 1", and (b) the Director determines "that the individual qualifies for the services". Thus, subsection (1) clearly distinguishes between the question whether the particular services qualify - para (a) - and whether the particular individual qualifies - para (b). When one turns to the subsection under which the draft order in the present case is said to have been made, both para (a) and para (b) of subsection (2) refer only to "services" within Part 1 of Schedule 1. The natural inference from this is that subsection (2) is concerned with adding to, varying or omitting services, and not the individuals to whom the services may be provided.</a></p><a name="para33"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Looking elsewhere in LASPO, whereas section 9, the section under which the draft order was purportedly made, is concerned with the issues in respect of which civil legal services are to be available, section 11 of LASPO is the provision which appears to be concerned with identifying the characteristics or circumstances of individuals who are to qualify for civil legal aid. Section 11 gives rise to two points in favour of PLP's case. First, the very fact that it is that section which sets out the personal characteristics or circumstances of those individuals who are entitled to civil legal aid provides obvious support that such matters are outwith section 9. Secondly, the factors listed in section 11(1) or (3), some of which are described in para 7 above, are concerned with criteria which are connected to the need of the individual for the services, the cost of the services, the extent and likelihood of the benefit from those services and the conduct of the individual "in connection with" the services. There is no criterion which is based on personal characteristics or circumstances which have nothing to do with the issue involved, the services concerned, or the need of the individual concerned for financial assistance. (It is true that "public interest", mentioned in section 11(3)(j), would be capable in some contexts of extending to personal characteristics or circumstances, but, read in their context, those words cannot have such an effect in section 11(3), and it was not argued otherwise.) This suggests that the draft order is attempting to do something which the legislature never had in mind when enacting Part 1 of LASPO, let alone section 9. As Lord Carnwath mentioned, that point is underlined by the strong presumption that, as it is put in 
+<i>Bennion on Statutory Interpretation </i>6th ed (2013), section 129, an "enactment applies to foreigners ... within its territory as it applies to persons ... within that territory belonging to it".</a></p><a name="para34"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It was conceded on behalf of the Lord Chancellor that he could not have made the draft order under section 11. Given that that section is concerned with prescribing the characteristics and circumstances of those who should be able to qualify for civil legal services, it seems to me that that concession tends of itself to provide additional support for PLP's contention that the Lord Chancellor cannot make such an order under section 9.</a></p><a name="para35"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The Court of Appeal concluded that section 41, and in particular section 41(2)(b), could be invoked to defeat this contention. It is true that section 41(2)(b) permits any order made under section 9(2)(b) to "make provision by reference to ... services provided for a particular class of individual". However, I cannot accept that this means that the power to make orders under section 9(2)(b) is thereby extended to exclude a whole class of individuals from the scope of Part 1 of LASPO by reference to their residence. Section 41 is clearly intended to grant ancillary powers to those powers which are, as it were, primarily granted by provisions such as section 9: it is not intended to permit an alteration in the nature, or a substantive extension, of those powers. The observations in 
+<i>Craies</i>, cited in para 26 above, is very much in point. In my view, in relation to his powers under section 9(2), section 41(2)(b) enables the Lord Chancellor to make limitations such as those already found in paras 3(a) and 39(a) of Part 1 of Schedule 1 to LASPO, and explained in para 8 above.</a></p><a name="para36"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Finally, looking at the issue more broadly, it is said that one of the main purposes of Part 1 of LASPO was to reduce the availability of legal aid in connection with legal advice and representation in relation to civil claims, and that this is also the reason for the draft order. It is also said that one of the aims of the provisions of sections 9 and 11 of, and Parts 1 and 2 of Schedule 1 to, LASPO is to direct legal aid to what are believed to be the individuals who, and types of claim which, are most deserving of public support, and that the draft order has that aim too. However, even if they are right (which in a broad sense I think they are), those contentions involve expressing the aim of the legislation in far too general terms to justify rejecting PLP's case. As is apparent from sections 9 and 11 themselves, and from the Ministry of Justice's June 2011 paper referred to in para 2 above, the purpose of Part 1 of LASPO was, in very summary terms, to channel civil legal aid on the basis of the nature and importance of the issue, an individual's need for financial support, the availability of other funding, and the availability of other forms of dispute resolution. The exclusion of individuals from the scope of most areas of civil legal aid on the ground that they do not satisfy the residence requirements of the proposed order involves a wholly different sort of criterion from those embodied in LASPO and articulated in the 2011 paper.</a></p><a name="para37"> 
+<p class="ParaHeading">Conclusion</p> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Accordingly, in agreement with the Divisional Court, I have reached the conclusion that the appeal should be allowed on the first, 
+<i>ultra vires</i>, issue.</a></p><a name="para38"> 
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.
+
+<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We had unanimously come to this view at the end of the argument on the 
+<i>ultra vires </i>issue, and decided that, subject to the parties seeking to persuade us otherwise, it would be wiser not to deal with the discrimination issue. The parties did not seek to dissuade us from this course, and therefore it would be inappropriate to say anything more about it.</a></p><a name="para39"> </a></div><a name="para39"> 
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2016/39.html</i>
+</small>
+<p></p>
+
+  
+
+
+</body></html>

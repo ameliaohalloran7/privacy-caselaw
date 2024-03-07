@@ -1,0 +1,1096 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>Steel &amp; Anor v NRAM Ltd (formerly NRAM Plc) (Scotland) [2018] UKSC 13 (28 February 2018)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Header Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Footer Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Quote Char";
+	margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;
+	font-family:"Univers (W1)","sans-serif";}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;
+	font-family:"Univers (W1)","sans-serif";}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-link:Quote;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      Steel &amp; Anor v NRAM Ltd (formerly NRAM Plc) (Scotland) [2018] UKSC 13 (28 February 2018)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/13.html</i>
+<br>Cite as: 
+[2018] UKSC 13,
+
+2019 SCLR 379,
+
+[2018] 1 WLR 1190,
+
+[2018] WLR 1190,
+
+2018 SLT 835,
+
+[2018] 3 All ER 81,
+
+2018 SC (UKSC) 141,
+
+2018 GWD 24-311,
+
+[2018] WLR(D) 124,
+
+[2018] PNLR 21
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2018/13.pdf">Printable PDF version</a>]
+
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2018000352/casereport_3bf1035a-bfbd-4636-baa4-58a8784f098c/html">[2018] WLR(D) 124</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2018000352/casereport_481c49d0-e944-413a-af5c-1c6f053c08b1/html">[2018] 1 WLR 1190</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+<p align="center"><span class="font3"><a href="/uk/cases/UKSC/2018/13.image.pdf">Summary</a></span></p><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" align="right" style="text-align:right"><span style="letter-spacing:
+-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Hilary
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2018] UKSC 13</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/scot/cases/ScotCS/2016/[2016]CSIH11.html">[2016] CSIH 11</a></i></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><span style="letter-spacing:-.15pt">&nbsp;</span></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">Steel
+  and another (Appellants) <i>v</i> NRAM Limited (formerly NRAM Plc)
+  (Respondent) (Scotland)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Hale, President</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Reed</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt">&nbsp;</span></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">28 February 2018</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 7 November 2017</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellants</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Alastair Duncan QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Ronald Clancy QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Chris Paterson</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Graeme Hawkes</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by CMS
+  Cameron McKenna Nabarro Olswang LLP)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by TLT
+  LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="NewSpeech">LORD WILSON: (<span style="text-transform:none">with whom Lady
+Hale, Lord Reed, Lord Hodge and Lady Black agree)</span></p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A makes a careless misrepresentation which causes economic loss to B. There
+was no contract between them. But did A owe a duty of care to B? No, said the
+trial judge. Yes, said the appellate court. So it is A who brings this further
+appeal.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Steel, who was the first defender and is now the first appellant, is
+a solicitor. At the material time she was a partner in Bell &amp; Scott LLP, a
+firm of solicitors in Glasgow, who were the second defenders and are now the
+second appellants; I will refer to them as “the firm”. NRAM Ltd, until recently
+named NRAM Plc and, prior to that, named Northern Rock (Asset Management) Plc,
+was the pursuer and is now the respondent; I will refer to it as “Northern
+Rock”.</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Steel and the firm appeal against an interlocutor issued by an Extra
+Division of the Inner House of the Court of Session (Lady Smith; Lord Brodie
+who dissented; and Lady Clark of Calton who agreed with Lady Smith) on 19 February
+2016. By its interlocutor, the Inner House allowed Northern Rock’s reclaiming
+motion in respect of an interlocutor which had been issued in the Outer House
+by the Lord Ordinary, Lord Doherty, on 5 December 2014. He had sustained the
+pleas in law of Ms Steel and the firm and had assoilzied them from the first
+conclusion of the summons. In other words he had dismissed Northern Rock’s
+claim. The Inner House, however, sustained Northern Rock’s second plea in law
+and substituted an award of damages in its favour against Ms Steel and the firm
+in the sum of almost £370,000, being the sum which the Lord Ordinary had
+assessed as the amount of damages payable by them to Northern Rock in the event
+that, contrary to his conclusion, they were liable to it at all.</a></p><a name="para3">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>For many years prior to 2007 Ms Steel had acted for Mr Hamish Munro. From
+2005 onwards she also acted for a company in which he had an interest, namely
+Headway Caledonian Ltd; I will refer to it as “Headway”.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 1997 Headway had purchased Cadzow Business Park in Hamilton. The
+property, which comprised Units 1, 2, 3 and 4, had been registered in the Land
+Register under two separate titles. In order to make the purchase, Headway had
+borrowed part of the price from Northern Rock; and in return it had granted
+Northern Rock an “all sums” standard security over the property, which had been
+registered against the titles in 1998. Indeed in 2002 Headway had granted
+Northern Rock a floating charge over all its assets.</a></p><a name="para5">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2005 Headway proposed to sell Unit 3 of the business park. Ms Steel
+acted for it in the sale. So she negotiated on Headway’s behalf with Northern
+Rock for the release of the unit from its security. Northern Rock did not
+appoint solicitors to represent it in that regard; it was not its practice to
+do so in relation to a negotiation of that character. It agreed to release the
+unit from its security in return for a partial redemption of its loan, namely a
+repayment of almost £470,000. The transaction duly proceeded. Ms Steel
+forwarded for execution by Northern Rock deeds of restriction, by which its
+security was restricted to Units 1, 2 and 4. It executed them and returned them
+to her. The sale of Unit 3, unencumbered, then proceeded; and, on behalf of
+Headway, Ms Steel remitted the sum of almost £470,000 to Northern Rock.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Later in 2005 Headway proposed to sell a property in Lossiemouth over
+which Northern Rock held a standard security for a separate loan. Again, Ms
+Steel acted for Headway in the sale. Again, she dealt directly with Northern
+Rock in respect of the repayment of its loan and the discharge of its security.
+The sale, the repayment and the discharge all duly proceeded.</a></p><a name="para7">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para7"></a><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In 2006 Headway entered into heads of agreement for the sale of Unit 1 of
+the business park in Hamilton for £560,000. Ms Steel was instructed to act on
+its behalf in the proposed sale. Either she or Mr Munro himself asked Northern
+Rock to release Unit 1 from its security. Northern Rock obtained a valuation of
+Units 2 and 4 in the sum of £1,425,000. It noted that its loan to Headway then
+secured on the three units was about £1,222,000 and decided to require
+repayment of £495,000 in return for the release of its security upon Unit 1,
+which would leave the balance of its loan apparently well secured upon Units 2
+and 4. In September 2006, by email to Mr Munro, Northern Rock therefore
+confirmed that it would release its security upon Unit 1 in consideration of a
+repayment of £495,000 by way of reduction of the loan. By its email Northern
+Rock made clear that it expected its security to remain in place in relation to
+Units 2 and 4 unless and until they were also sold. Mr Munro at once forwarded
+Northern Rock’s email to Ms Steel. Headway accepted its terms.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ultimately it was agreed that the transaction of sale would settle on 23
+March 2007. Several weeks beforehand Mr Munro had, by email, instructed Ms
+Steel that, upon settlement, she should remit £470,000 (later corrected to
+£495,000) to Northern Rock and should remit the balance of the proceeds to
+Headway.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>At 5.00 pm on 22 March 2007, namely the eve of the proposed settlement,
+Ms Steel sent to Northern Rock the email which is central to these proceedings.
+She wrote:</a></p><a name="para10">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“Subject: headway caledonian
+limited sale of Pavilion 1 Cadzow Park Hamilton (title nos …)</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Helen/Neil</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">I need your usual letter of
+non-crystallisation for the sale of the above subjects to be faxed through here
+first thing tomorrow am if possible … marked for my attention - I have had a
+few letters on this one for previous other units that have been sold. I also
+attach discharges for signing and return as well as the whole loan is being
+paid off for the estate and I have a settlement figure for that. Can you please
+arrange to get these signed and returned again asap.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Many thanks</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">Jane A Steel</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On any view this was an extraordinary email. It was quite wrong for Ms
+Steel to say that the whole loan was to be paid off. It had never been
+suggested to her, or at all, that the whole loan was to be repaid. Her
+instructions from Headway had never been to that effect. On the contrary, and
+as she had been told, Northern Rock’s loan was to be reduced by repayment only
+of £495,000 and its security upon Units 2 and 4 was to remain. Equally, it was
+quite wrong for Ms Steel to say that she had a settlement figure for repayment
+of the whole loan. She had no such thing. Northern Rock had never supplied such
+a figure to her; it would have been irrelevant.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In evidence to the Lord Ordinary given seven years later, Ms Steel said
+that she accepted that she must have sent the email but said that she had no
+recollection of having done so and that she could not explain why she had so
+misrepresented the nature of the proposed transaction between her client and
+Northern Rock. No doubt Ms Steel is usually a solicitor of the utmost
+competence but on this occasion she was guilty of gross carelessness.</a></p><a name="para12">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para12"></a><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Labouring, as she was at the time when she sent the email to Northern
+Rock, under the misapprehension that Headway was undertaking to repay the whole
+loan secured on the remaining three units, Ms Steel attached to it not the two
+draft deeds of restriction of Northern Rock’s security to Units 2 and 4 which
+would have been appropriate to the agreement reached, but, instead, two draft
+deeds of discharge of its security upon all three units, being one deed for
+each of the two registered titles.</a></p><a name="para13">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Ms Steel’s email, addressed to Helen and Neil at Northern Rock, was read
+by Mr (Neil) Atkin, a case manager, and, at 8.58 am on 23 March 2007, attached
+to an email of his own, he forwarded it and its attachments to Mr Clarke, who,
+as the head of the Loan Review Team, had authority within Northern Rock to
+authorise discharges. One minute after receiving the two emails Mr Clarke, who
+had read them albeit not Ms Steel’s attachments, forwarded them to Ms Harrison
+in Northern Rock’s administration team. Mr Clarke had made no attempt to check
+the accuracy of Ms Steel’s statements against the material on Northern Rock’s
+file. Ms Harrison apparently understood, and correctly understood, that, by
+forwarding the emails to her, Mr Clarke was authorising her to cause the deeds
+of discharge to be executed as well as to draft, for his signature, the
+requested letter of non-crystallisation of the floating charge over Unit 1.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On that morning of 23 March 2007, the two deeds of discharge were
+therefore executed on behalf of Northern Rock; a letter of non-crystallisation
+was drafted and signed by Mr Clarke; and copies of all of them were at once
+faxed to Ms Steel. Thus it was that, on that same day, upon her undertaking to
+deliver the original deeds of discharge to the solicitors for the purchasers
+within seven days, Ms Steel settled the sale of Unit 1 on Headway’s behalf. She
+remitted £495,000 to Northern Rock, which received it on 27 March and apparently
+raised no question about the amount of it. On that day it posted the original
+deeds of discharge to her and two days later, in compliance with her
+undertaking, she forwarded them to the purchaser’s solicitors, who caused them
+to be registered in the Land Register. Thus was Northern Rock’s security on
+Units 2 and 4 discharged.</a></p><a name="para15">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para15"></a><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Until 2010 Headway continued to make interest payments to Northern Rock
+on the balance of the loan. Headway then went into liquidation; and it was at
+that time, according to evidence given on behalf of Northern Rock, that it
+discovered that its security for the loan had been discharged. Units 2 and 4
+had, however, by then been sold. As had been foreshadowed in 2006, Headway had
+sold them later in 2007; Ms Steel had again acted for it in the sales and she
+had extracted from Northern Rock the necessary letters of non-crystallisation
+of the floating charge. One might expect that, when alerted to the proposed
+sales and if continuing to believe that its standard security upon the units remained
+in place, Northern Rock would then have purported to enforce it. But there is
+no evidence to that effect. These later events are shrouded in mystery.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The court will proceed, as invited, on the basis that, by the email
+dated 22 March 2007, Ms Steel and the firm caused both the discharge of
+Northern Rock’s security over Units 2 and 4 and, resulting therefrom, an
+ultimate loss to it, net of recovery elsewhere, of almost £370,000. It notes,
+however, that the issue in the case might well have been cast in terms of
+whether they were the cause of Northern Rock’s loss rather than whether they
+owed a duty of care to it.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>Customs and Excise Comrs v Barclays Bank Plc</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2006/28.html">[2006] UKHL 28</a>,
+<a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2006/28.html">[2007] 1 AC 181</a>, Lord Mance at para 85 described the case of <i>Hedley Byrne
+&amp; Co Ltd v Heller &amp; Partners Ltd </i><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1963/4.html">[1964] AC 465</a> as “the fountain of
+most modern economic claims”. In the <i>Hedley Byrne</i> case the appellant
+asked its bankers to inquire into the stability of a company and, in response
+to the inquiry, the company’s bankers, acting (so it was assumed) carelessly,
+gave false information about the company, which it expressed as “without
+responsibility” but on which the appellant relied to its detriment. Because of
+the disclaimer the appellant’s claim against the company’s bankers failed. The
+House of Lords held, however, that in the absence of the disclaimer the bankers
+would have owed a duty of care to the appellant. At p 529 Lord Devlin held
+that, in the absence of a contract between a representor and a representee, a
+duty of care in making the representation arose only if the representor had
+assumed responsibility for it towards the representee; and he proceeded to
+interpret all five of the speeches delivered in that case as requiring that the
+responsibility should have been voluntarily accepted or undertaken. The
+assumption of responsibility could, he explained at pp 529 and 530, be express
+or implied from all the circumstances. Lord Pearce added at p 539 that
+liability in such circumstances could arise only from “a special relationship”.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>What is noteworthy for present purposes is the emphasis given in the
+decision in the <i>Hedley Byrne</i> case to the need for the representee
+reasonably to have relied on the representation and for the representor
+reasonably to have foreseen that he would do so. This is expressly stressed in
+the speech of Lord Hodson at p 514. In fact it lies at the heart of the whole
+decision: in the light of the disclaimer, how could it have been reasonable for
+the appellant to rely on the representation? If it is not reasonable for a
+representee to have relied on a representation and for the representor to have
+foreseen that he would do so, it is difficult to imagine that the latter will
+have assumed responsibility for it. If it is not reasonable for a representee
+to have relied on a representation, it may often follow that it is not
+reasonable for the representor to have foreseen that he would do so. But the
+two inquiries remain distinct.</a></p><a name="para19">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para19"></a><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the decades which followed the decision in the <i>Hedley Byrne</i>
+case, it became clear that not all claims in tort for losses consequent upon
+representations carelessly made could satisfactorily be despatched by reference
+to whether the representor had assumed responsibility for it towards the
+representee. A case in point is the situation in which the representor is bound
+by a contract with a third party to make a representation upon which the
+claimant has relied: an analysis of whether, in making the representation in
+those circumstances, he has voluntarily assumed responsibility for it towards
+the claimant would be artificial. Thus in <i>Smith v Eric S Bush</i> and <i>Harris
+v Wyre Forest District Council</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1990/1.html">[1990] 1 AC 831</a> the claimants, in purchasing
+their houses, had relied on information about their condition contained in
+reports given by surveyors pursuant to contracts between them and prospective
+mortgagees. The House of Lords held that the surveyors owed duties of care to
+the claimants. Lord Griffiths at p 862 explained that the law did not - in the
+context before the court - ask whether the surveyors had voluntarily assumed
+responsibility towards the claimants in giving the information. But he did so
+in terms which were arrestingly wide. He said that the test of an assumption of
+responsibility was neither helpful nor realistic (or, he added at p 864, at any
+rate not so in most cases) and that it had meaning only if it referred to the
+circumstances in which the law deemed responsibility to have been assumed. In
+effect Lord Griffiths was suggesting that the test identified only a conclusion
+rather than a criterion.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lord Griffiths, with whom three other members of the committee agreed,
+proceeded at p 865 to propound a threefold test by reference to which the
+surveyors owed a duty of care to the claimants. The test required first that it
+was foreseeable that, were the information given negligently, the claimants
+would be likely to suffer damage; second that there was a sufficiently
+proximate relationship between the parties; and third that it was just and
+reasonable to impose the liability.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Months later the threefold test propounded by Lord Griffiths was
+addressed by the House of Lords in <i>Caparo Industries Plc v Dickman</i>
+</a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1990/2.html">[1990] 2 AC 605</a>. The claimants had taken over a company in reliance on its
+accounts and alleged that the defendants had negligently discharged their
+statutory functions in the course of their audit of them. For years afterwards
+the speeches in the House were taken to have indorsed the threefold test. In
+fact, however, Lord Bridge of Harwich, with whom three other members of the
+committee agreed, observed at p 618 that the concepts of proximity and fairness
+were so imprecise as to deprive them of utility as practical tests; and Lord
+Oliver of Aylmerton suggested at p 633 that the three suggested ingredients of
+the so-called test were usually facets of the same thing and that to search for
+a single formula was to pursue a will-o’-the-wisp. That the House in the <i>Caparo
+Industries</i> case did not indorse the threefold test was explained by Lord
+Toulson in <i>Michael v Chief</i> <i>Constable of South Wales Police</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2015/2.html">[2015] UKSC 2</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2015/2.html">[2015] AC 1732</a>, at para 106; and it has recently been underlined by
+Lord Reed in <i>Robinson v Chief Constable of West Yorkshire Police</i> <a title="Link to BAILII version" href="/uk/cases/UKSC/2018/4.html">[2018] UKSC 4</a>, paras 21 to 29. In the <i>Caparo Industries</i> case both Lord Bridge
+at p 618 and Lord Oliver at p 633 quoted with approval the remarks of Brennan J
+in <i>Sutherland Shire Council v Heyman</i> (1985) 60 ALR 1, 43-44 that it was
+preferable for the law to develop novel categories of negligence incrementally
+and by analogy with established categories; and, as Lord Reed has explained in
+the <i>Robinson</i> case, it was by declining to accept that the law should
+develop incrementally to the point for which the claimants contended that the
+House in the <i>Caparo Industries</i> case determined to allow the auditors’
+appeal.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>More important for present purposes is the reassertion in the <i>Caparo
+Industries</i> case of the need for a representee to establish that it was
+reasonable for him to have relied on the representation and that the
+representor should reasonably have foreseen that he would do so. Thus at pp
+620-621 Lord Bridge observed that a salient feature of liability was that the
+representor knew that it was very likely that the representee would rely on the
+representation; and at p 638 Lord Oliver observed that a usual condition of
+liability was that the representor knew that the representee would act on it
+without independent inquiry. Some months later, in <i>James McNaughton Paper
+Group Ltd v Hicks Anderson &amp; Co</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1990/11.html">[1991] 2 QB 113</a>, the Court of Appeal,
+confronted with a similar claim against company accountants, rejected it by
+reference to the decision in the <i>Caparo Industries</i> case. But Neill LJ
+expanded on the need for foreseeability of reliance. At pp 126-127 he said:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“One should therefore consider
+whether and to what extent the advisee was entitled to rely on the statement to
+take the action that he did take. It is also necessary to consider whether he
+did in fact rely on the statement, whether he did use or should have used his
+own judgment and whether he did seek or should have sought independent advice.
+In business transactions conducted at arms’ length it may sometimes be
+difficult for an advisee to prove that he was entitled to act on a statement
+without taking any independent advice or to prove that the adviser knew,
+actually or inferentially, that he would act without taking such advice.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In July 1994, in <i>Spring v Guardian Assurance Plc</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1994/7.html">[1995] 2 AC 296</a>,
+the House held that, in writing a reference for the claimant who had worked for
+them and who was now seeking work elsewhere, the defendants owed a duty of care
+to him. Lord Goff of Chieveley explained at p 316 that the basis of his conclusion
+was that the defendants had assumed responsibility to the claimant in respect
+of the reference within the meaning of the <i>Hedley Byrne</i> case. Weeks
+later, in <i>Henderson v Merrett Syndicates Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1994/5.html">[1995] 2 AC 145</a>, the House
+held that underwriting agents at Lloyd’s owed a duty of care to a member in
+their conduct of his underwriting affairs even in the absence of any contract
+between them. In a speech with which the other members of the House agreed,
+Lord Goff held at p 181 that the case should be decided by reference to the
+concept of an assumption of responsibility. In <i>Williams v Natural Life
+Health Foods Ltd</i> <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/1998/17.html">[1998] 1 WLR 830</a>. Lord Steyn remarked at p 837 that there
+was no better rationalisation for liability in tort for negligent
+misrepresentation than the concept of an assumption of responsibility. It has
+therefore become clear that, although it may require cautious incremental
+development in order to fit cases to which it does not readily apply, this
+concept remains the foundation of the liability.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The legal consequences of Ms Steel’s careless misrepresentation are
+clearly governed by whether, in making it, she assumed responsibility for it
+towards Northern Rock. The concept fits the present case perfectly and there is
+no need to consider whether there should be any incremental development of it. Nevertheless
+the case has an unusual dimension: for the claim is brought by one party to an
+arm’s length transaction against the solicitor who was acting for the other
+party. A solicitor owes a duty of care to the party for whom he is acting but
+generally owes no duty to the opposite party: <i>Ross v Caunters</i> [1980] Ch
+297, 322. The absence of that duty runs parallel with the absence of any
+general duty of care on the part of one litigant towards his opponent: <i>Jain
+v Trent Strategic Health Authority</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2009/4.html">[2009] UKHL 4</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2009/4.html">[2009] AC 853</a>. Six
+authorities, briefly noticed in chronological order in what follows, may
+illumine inquiry into the existence of an assumption of responsibility by a
+solicitor towards the opposite party.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, the decision of the Court of Appeal of New Zealand in <i>Allied
+Finance and Investments Ltd v Haddow and Co</i> [1983] NZLR 22. The claimant
+had agreed to make a loan to X and to take security for it on a yacht. The
+defendants, who were X’s solicitors, certified to the claimant that the
+instrument of security executed by X in relation to the yacht was binding on
+him. In fact, as the defendants knew, it was not binding on him because he was
+not, and was not intended to become, the owner of the yacht. The court held
+that the defendants had owed, and breached, a duty of care to the claimant. Richardson
+J said at p 30, in terms which the other members of the court echoed:</a></p><a name="para26">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“This is not the ordinary case of
+two solicitors simply acting for different parties in a commercial transaction.
+The special feature attracting the prima facie duty of care is the giving of a
+certificate in circumstances where the [defendants] must have known it was
+likely to be relied on by the [claimant].”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Second, the decision of the Lord Ordinary, Lord Jauncey, in the Outer
+House in <i>Midland Bank Plc v Cameron, Thom, Peterkin and Duncans</i> 1988 SLT
+611. The pursuer had made a loan to X in assumed reliance on a statement by the
+defenders, who were X’s solicitors, about the extent of his assets. The statement
+was materially inaccurate. But the pursuer’s claim against the defenders
+failed. Having referred to the <i>Hedley Byrne</i> case as the proper starting
+point and to the <i>Allied Finance</i> case, the Lord Ordinary observed as
+follows at p 616:</a></p><a name="para27">
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:36.0pt;margin-bottom:
+26.0pt;margin-left:72.0pt;text-align:justify"><span style="font-size:13.0pt">“In
+my opinion four factors are relevant to a determination of the question whether
+in a particular case a solicitor, while acting for a client, also owes a duty
+of care to a third party: (1) the solicitor must assume responsibility for the
+advice or information furnished to the third party; (2) the solicitor must let
+it be known to the third party expressly or impliedly that he claims, by reason
+of his calling, to have the requisite skill or knowledge to give the advice or
+furnish the information; (3) the third party must have relied upon that advice
+or information as matter for which the solicitor has assumed personal
+responsibility; and (4) the solicitor must have been aware that the third party
+was likely so to rely.”</span></p>
+
+<p class="ParaNoNumber">The Lord Ordinary concluded that the pursuer was able to
+establish none of the first three of the four factors.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Third, the decision of the Court of Appeal in <i>Al-Kandari v J R Brown
+and Co</i> </a><a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/1988/13.html">[1988] QB 665</a>. The claimant, a mother of two children, feared that
+the father would abduct them to Kuwait. The court had made an order which, with
+their consent, obliged the defendants, who were the father’s solicitors, to
+retain possession of his passport on which the children were registered. With
+the mother’s consent, the solicitors allowed their agents to take the passport
+to the Kuwaiti embassy for alteration on condition that it would never be out
+of their sight. In fact the embassy insisted on retaining it overnight. The
+solicitors did not inform the mother that the embassy had retained the passport
+nor that (as they knew) the father was due to attend there on the following
+day. The embassy released the passport to the father, who abducted the children
+to Kuwait. The court held that, in failing so to inform the mother, the
+solicitors had breached a duty of care to her. Both Lord Donaldson of Lymington
+MR at p 672 and Bingham LJ at p 675 explained that, in agreeing to become
+obliged to retain possession of the father’s passport, the solicitors had
+stepped outside their role as his solicitors and assumed responsibility towards
+the mother.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fourth, the decision of Sir Donald Nicholls V-C in the High Court in <i>Gran
+Gelato Ltd v Richcliff (Group) Ltd</i> [1992] Ch 560. The claimant wished to
+purchase an underlease from the first defendant. The claimant’s solicitors
+inquired of the second defendants, a firm of solicitors acting for the first
+defendant, whether any provisions in the headlease might affect the length of
+the underlease. The negative answer of the second defendants was a
+misrepresentation, which, following its purchase of the underlease, caused loss
+to the claimant. The Vice-Chancellor held that it had a valid claim against the
+first defendant but that the second defendants had themselves owed no duty of
+care to it. He observed at pp 571-572 that only in special cases, such as the <i>Allied
+Finance</i> case, would a solicitor owe a duty of care to the opposite party
+and that there was nothing special about the case before him.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fifth, the decision of the Court of Appeal of New Zealand in <i>Connell
+v Odlum</i> [1993] 2 NZLR 257. Prior to his marriage to W, the claimant wished
+to enter with her into an agreement of which the statutory effect would be to
+contract them out of the law’s general provisions for the making of financial
+adjustments between them in the event of separation. Pursuant to one of the
+statutory requirements, the defendant, who was W’s solicitor, certified that,
+prior to her signing the agreement, he had explained its effect to her.
+Following separation a judge found that he had not explained its effect to her
+and held that the agreement was void. The Court of Appeal held that it was
+highly arguable that, in giving the certificate, the defendant owed a duty of
+care to the claimant and that the claim should not be struck out. Thomas J
+explained at p 269 that the claimant had relied, and had been expected by the
+defendant to rely, on the certificate as a feature of the validity of the
+agreement and that there had been the necessary assumption of responsibility
+towards him on the part of the defendant.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>And sixth, the decision of the Court of Appeal in <i>Dean v Allin and
+Watts</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2001/758.html">[2001] EWCA Civ 758</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2001/758.html">[2001] 2 Lloyd's Rep 249</a>. The claimant proposed
+to lend money to W and X on the security of property owned by Y and Z. W and X
+instructed the defendants, their solicitors, to effect the security in favour
+of the claimant, with which Y and Z were willing to co-operate. The loan was
+made on the footing that the security was in place. But the defendants had
+carelessly misunderstood what was legally required in order to effect the
+security. In due course Y and Z established that the purported charge on their
+property was ineffective. The court held that the defendants had owed, and
+breached, a duty of care to the claimant. Robert Walker LJ explained in
+summary, at para 69, that the provision of effective security was of
+fundamental importance to the claimant and that, as the defendants knew or
+should have known, he was relying on them in that regard.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Perhaps it helps only slightly for us to have been reminded in the
+authorities cited above that Ms Steel and the firm are liable to Northern Rock
+only if it was a special case. Probably of greater assistance is the analysis
+in the <i>Al-Kandari</i> case that the solicitors owed a duty of care to the
+opposite party because they had stepped outside their normal role. But the six
+authorities cited above demonstrate in particular that the solicitor will not
+assume responsibility towards the opposite party unless it was reasonable for
+the latter to have relied on what the solicitor said and unless the solicitor
+should reasonably have foreseen that he would do so. These are, as I have
+shown, two ingredients of the general liability in tort for negligent
+misrepresentation; but they are particularly relevant to a claim against a
+solicitor by the opposite party because the latter’s reliance in that situation
+is presumptively inappropriate. Thus the reasonableness of the claimant’s
+reliance and of the defendant’s foreseeability of it comprised the special
+feature which gave rise to the liability in the <i>Allied Finance</i> case and
+in the <i>Dean</i> case and to the arguable liability in the <i>Connell</i>
+case; and, although the claim in the <i>Midland Bank</i> case failed for other
+reasons, the fourth of the requirements valuably identified in Lord Jauncey’s
+judgment was that the solicitor should have been aware that the pursuer was
+likely to rely on what he had said.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In dismissing Northern Rock’s claim the Lord Ordinary held that the
+crucial question arose from the fact that, prior to executing and returning the
+deeds of discharge, it had failed to check the accuracy of the representations
+made by Ms Steel in the email dated 22 March 2007 against the material on its
+file. Had it done so, it would have seen immediately that it was entirely
+inappropriate for it to accede to her invitation to execute the deeds of
+discharge. Having heard her evidence, the Lord Ordinary found that, although
+she knew that Northern Rock was acting without solicitors in relation to the
+sale of Unit 1 and to the two earlier sales, she had generally expected it to
+check the propriety of her various requests before complying with them. Notwithstanding
+her inability, when giving evidence, to recall her state of mind when sending
+the email, the Lord Ordinary therefore found that Ms Steel had not foreseen
+that Northern Rock would rely on her assertions in it without checking their
+accuracy. He then proceeded to ask whether it was reasonable for her not to
+have foreseen that it would do so. His answer was that any prudent bank taking
+the most basic precautions would have checked the accuracy of her
+representations by reference to its file or indeed by asking for further
+clarification of an email which he had found in some respects to be vague and
+ambiguous; that it was therefore not reasonable for Northern Rock to have
+relied on her representations without thus checking their accuracy; and that it
+was reasonable for Ms Steel not to have foreseen that it would do so. That the
+Lord Ordinary had been entitled to reach this crucial conclusion formed the
+basis of Lord Brodie’s dissent upon the appeal to the Inner House.</a></p><a name="para33">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But the majority in the Inner House took a different view. Lady Smith
+held that circumstances were present which led to the attribution to Ms Steel
+of an assumption of responsibility for the representations in the email towards
+Northern Rock without any need for the court to inquire whether it should have
+checked its file. These circumstances were said to be that Ms Steel was a
+solicitor; that her representations fell within her area of expertise; that, as
+she knew, Northern Rock was not represented by solicitors; that Headway had not
+given her actual or even ostensible authority to make the representations;
+that, by her email, she was demanding an urgent response; and that the
+transaction between Headway and Northern Rock was not at arm’s length.</a></p><a name="para34">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para34"></a><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>With great respect, I would not accept that all the circumstances were
+as described by Lady Smith. Whether Headway had conferred on Ms Steel
+ostensible authority to make the representations had not been fully explored
+before the Lord Ordinary - and rightly so because for obvious reasons no claim
+was brought against Headway and because an agent may well owe a duty of care to
+a third party even if he is acting within the scope of his authority. And,
+although Headway and Northern Rock were not engaged in hostile litigation, I
+find it impossible to subscribe to the suggestion that they were not at arm’s
+length in relation to the removal of security over Unit 1. Overarchingly,
+however, neither the general jurisprudence relating to liability in negligence
+for a misrepresentation leading to economic loss nor the focussed jurisprudence
+relating to a solicitor’s liability to the opposite party in that regard
+supports a conclusion that it is not always necessary for the representee to
+establish that it was reasonable for him to have relied on the representation. On
+the contrary, the reasonableness of his reliance on it is, as I have explained,
+central to the concept of an assumption of responsibility.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Lady Smith added however that in any event Ms Steel should have foreseen
+that Northern Rock would rely on her representations without checking their
+accuracy. There was, so she said, no expert or other evidence in relation to
+the basic precautions taken by a lender to which the Lord Ordinary had referred
+and no scope for judicial knowledge to be taken of them; and it was likely and
+therefore foreseeable that Northern Rock would simply rely on Ms Steel’s
+representations.</a></p><a name="para36">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Resolution of the further appeal to this court could no doubt be based
+on inquiry into whether Lady Smith and Lady Clark were entitled to depart from
+the Lord Ordinary’s conclusion that it was not reasonable for Northern Rock to
+have relied on Ms Steel’s representation without inquiry. How does the law
+classify a trial judge’s conclusion that it was not reasonable for a party to
+act as it did? It is not a conclusion of fact. It is a judgement referable to
+an already established fact and, albeit required by law, it is not a judgement
+about what the law is. So it is difficult to pigeon-hole it as a conclusion
+either of fact or of law or even in my view as a conclusion of mixed fact and
+law. It is, rather, an evaluation; and in <i>In re B (A Child) (Care
+Proceedings: Threshold Criteria)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/33.html">[2013] UKSC 33</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/33.html">[2013] 1 WLR 1911</a>, Lady Hale
+at para 203 recorded all members of the court as having agreed that an
+appellate court needed to be satisfied that an evaluative conclusion of a trial
+judge was wrong before it could be set aside.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But in my view this court does not need to explain why the Lord Ordinary
+cannot be said to have been wrong in concluding that it was not reasonable for
+Northern Rock to have relied on Ms Steel’s representation without inquiry. We
+should bypass examination of whether he was wrong and should hold positively
+that he was right. We should accept that a commercial lender about to implement
+an agreement with its borrower referable to its security does not act
+reasonably if it proceeds upon no more than a description of its terms put
+forward by or on behalf of the borrower. The lender knows the terms of the
+agreement and indeed, as in this case, is likely to have evolved and proposed
+them. Insofar as the particular officers in Northern Rock who on 23 March 2007
+saw and acted upon the email had never been aware of the terms or had forgotten
+them, immediate access to the correct terms lay - literally - at their
+finger-tips. No authority has been cited to the court, nor discovered by me in
+preparing this judgment, in which it has been held that there was an assumption
+of responsibility for a careless misrepresentation about a fact wholly within
+the knowledge of the representee. The explanation is, no doubt, that in such
+circumstances it is not reasonable for the representee to rely on the
+representation without checking its accuracy and that it is, by contrast,
+reasonable for the representor not to foresee that he would do so.</a></p><a name="para38">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para38"></a><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court should allow the appeal and restore the Lord Ordinary’s
+interlocutor.</a></p><a name="para39">
+
+</a></div><a name="para39">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2018/13.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>

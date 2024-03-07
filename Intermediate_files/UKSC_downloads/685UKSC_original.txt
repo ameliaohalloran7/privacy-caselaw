@@ -1,0 +1,1604 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="Generator" content="Microsoft Word 14 (filtered)">
+<title>NY (A Child), Re [2019] UKSC 49 (30 October 2019)</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Univers \(W1\)";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Univers (W1)","sans-serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Segoe UI","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{margin-top:0cm;
+	margin-right:36.0pt;
+	margin-bottom:26.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaHeading, li.ParaHeading, div.ParaHeading
+	{mso-style-name:ParaHeading;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+p.Title1, li.Title1, div.Title1
+	{mso-style-name:Title1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:72.0pt;
+	text-align:center;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.ParaNoNumber, li.ParaNoNumber, div.ParaNoNumber
+	{mso-style-name:ParaNoNumber;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel1, li.ParaLevel1, div.ParaLevel1
+	{mso-style-name:ParaLevel1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel2, li.ParaLevel2, div.ParaLevel2
+	{mso-style-name:ParaLevel2;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:35.45pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel3, li.ParaLevel3, div.ParaLevel3
+	{mso-style-name:ParaLevel3;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel4, li.ParaLevel4, div.ParaLevel4
+	{mso-style-name:ParaLevel4;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:106.35pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel5, li.ParaLevel5, div.ParaLevel5
+	{mso-style-name:ParaLevel5;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:141.8pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel6, li.ParaLevel6, div.ParaLevel6
+	{mso-style-name:ParaLevel6;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:177.25pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel7, li.ParaLevel7, div.ParaLevel7
+	{mso-style-name:ParaLevel7;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:212.7pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel8, li.ParaLevel8, div.ParaLevel8
+	{mso-style-name:ParaLevel8;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:248.15pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.ParaLevel9, li.ParaLevel9, div.ParaLevel9
+	{mso-style-name:ParaLevel9;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:283.6pt;
+	text-align:justify;
+	text-indent:0cm;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";}
+p.Caveat, li.Caveat, div.Caveat
+	{mso-style-name:Caveat;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	border:none;
+	padding:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.NewSpeech, li.NewSpeech, div.NewSpeech
+	{mso-style-name:NewSpeech;
+	margin-top:39.0pt;
+	margin-right:0cm;
+	margin-bottom:26.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.WorkingDate, li.WorkingDate, div.WorkingDate
+	{mso-style-name:WorkingDate;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:right;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Segoe UI","sans-serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.45pt 841.7pt;
+	margin:36.0pt 72.0pt 36.0pt 72.0pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 90.0pt;}
+div.WordSection3
+	{page:WordSection3;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+<style type="text/css">
+  @media screen {
+  }
+  @media print {
+    #screenonly {
+      display: none;
+    }
+  }
+</style></head>
+
+<body lang="EN-GB" link="blue" vlink="#954F72">
+<!-- bailii-specific markup for top of page -->
+
+<p>
+<table border="0" width="100%" cellspacing="2" cellpadding="2">
+<tbody><tr valign="top">
+  <td align="left" rowspan="2" width="5%">
+    <a href="/" title="BAILII Home Page"><img alt="BAILII" border="0" src="/images/bailii_logo_small.jpg"></a></td>
+
+  <td align="left" width="60%">
+    [<a href="/">Home</a>]
+    [<a href="/databases.html">Databases</a>]
+    [<a href="http://www.austlii.edu.au/links/World/">World Law</a>]
+    [<a href="/form/search_multidatabase.html">Multidatabase Search</a>] 
+    [<a href="/bailii/help/">Help</a>]
+    [<a href="/bailii/feedback.html">Feedback</a>]
+  </td>
+
+  
+
+  
+</tr>
+
+<tr>
+  <td align="left">
+    <h1>United Kingdom Supreme Court</h1>
+  </td>
+
+  
+
+</tr>
+
+<tr>
+  <td colspan="3">
+
+    <hr>
+    <small><b>You are here:</b>
+      <a href="/">BAILII</a> &gt;&gt;
+      
+      <a href="/databases.html">Databases</a> &gt;&gt;
+      
+      <a href="/uk/cases/UKSC/">United Kingdom Supreme Court</a> &gt;&gt;
+      
+      NY (A Child), Re [2019] UKSC 49 (30 October 2019)
+    <br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/49.html</i>
+<br>Cite as: 
+[2019] 3 WLR 962,
+
+[2019] WLR(D) 601,
+
+[2020] 1 All ER 923,
+
+[2019] 2 FLR 1247,
+
+[2020] AC 665,
+
+[2020] 1 FCR 56,
+
+[2019] UKSC 49
+
+    </small>
+    <hr>
+  </td>
+</tr>
+</tbody></table>
+</p>
+<p>
+
+[<a href="/form/search_cases.html">New search</a>]
+
+
+
+
+
+
+
+[<a href="/uk/cases/UKSC/2019/49.pdf">Printable PDF version</a>]
+
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2019003174/casereport_a70f2be7-2e07-40ac-9e5c-fea0eb81f3d2/html">[2020] AC 665</a>]
+[View ICLR summary: <a href="http://www.iclr.co.uk/document/2019003174/casereport_7d5ebbe4-7680-44ad-b599-84326deb81e6/html">[2019] WLR(D) 601</a>]
+[Buy ICLR report: <a href="http://www.iclr.co.uk/document/2019003174/casereport_5d0789b3-444a-4161-a76c-c2d35de87b2d/html">[2019] 3 WLR 962</a>]
+
+[<a href="/bailii/help/">Help</a>]
+
+
+</p><hr>
+
+
+
+<br><center><a href="/uk/cases/UKSC/2019/49.image.pdf"><h2>Summary</h2></a></center><br><br>
+<div class="WordSection1">
+
+<p class="MsoNormal" style="text-align:justify"><b><span style="font-size:13.0pt;
+font-family:&quot;Garamond&quot;,&quot;serif&quot;;color:red">THE COURT ORDERED that no one shall
+publish or reveal the name or address of the child who is the subject of these
+proceedings or publish or reveal any information which would be likely to lead
+to the identification of the child or of any member of her family in connection
+with these proceedings.</span></b></p>
+
+<p class="MsoNormal"><b>&nbsp;</b></p>
+
+
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><a name="Text12"><b>Michaelmas
+Term</b></a></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><b>[2019] UKSC 49</b></p>
+
+<p class="MsoNormal" align="right" style="text-align:right"><i>On appeal from: <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2019/1065.html">[2019] EWCA Civ 1065</a></i></p>
+
+<p class="MsoNormal"><b><span style="letter-spacing:-.15pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="letter-spacing:-.15pt">&nbsp;</span></b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:20.0pt">JUDGMENT</span></b></p>
+<center>
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+
+<p class="MsoNormal" align="center" style="text-align:center"><b>&nbsp;</b></p>
+</center>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="598" style="margin-left:5.0pt;border-collapse:collapse">
+ <tbody><tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="Title1" style="margin-left:4.0pt"><span style="font-size:20.0pt">In
+  the matter of NY (A Child)</span></p>
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm">
+  <p class="MsoNormal"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt">before </span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Wilson</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Hodge</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lady Black</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Kitchin</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:17.0pt">Lord Sales</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">JUDGMENT GIVEN ON</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:18.0pt">30 October 2019</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.55pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.55pt">
+  <p class="MsoNormal" align="center" style="margin-left:288.0pt;text-align:center;
+  text-indent:-288.0pt"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" style="text-align:justify"><b><span style="font-size:16.0pt">&nbsp;</span></b></p>
+  </td>
+ </tr>
+ <tr style="height:20.6pt">
+  <td width="598" valign="top" style="width:448.6pt;padding:0cm 0cm 0cm 0cm;
+  height:20.6pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:15.0pt">Heard on 18 July 2019</span></b></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</center></div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection2">
+
+<p class="MsoNormal">&nbsp;</p>
+
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Appellant</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Respondent</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Mark Twomey QC</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Henry Setright QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Alex Laing</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Mark Jarman</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Dr Rob George</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Gration</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Dawson
+  Cornwell)</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Ellis
+  Jones Solicitors LLP (Bournemouth))</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+</center>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener (1)</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Teertha Gupta QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jacqueline Renton</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Jennifer Perrins</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by Freemans
+  Solicitors)</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+</center>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener (2)</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Christopher Hames
+  QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Michael Edwards</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Charlotte Baker</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by
+  Bindmans LLP)</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+<center>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+ <tbody><tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>&nbsp;</i></p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center"><i>Intervener (3)</i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">Timothy Scott QC</p>
+  </td>
+ </tr>
+ <tr>
+  <td width="187" valign="top" style="width:140.4pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="192" valign="top" style="width:144.0pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+  </td>
+  <td width="189" valign="top" style="width:141.7pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center">(Instructed by SKO
+  Family Law Specialists (Edinburgh))</p>
+  </td>
+ </tr>
+</tbody></table>
+</center>
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p>
+
+<p class="MsoNormal"><b><u>Interveners:- (written submissions only)</u></b></p>
+
+<p class="MsoNormal"><u><span style="text-decoration:none">&nbsp;</span></u></p>
+
+<p class="MsoNormal">(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reunite International</p>
+
+<p class="MsoNormal">(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The International Centre for Family Law, Policy
+&amp; Practice</p>
+
+<p class="MsoNormal">(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Academy of Family Lawyers</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+</div>
+
+<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><br clear="all" style="page-break-before:always">
+</span>
+
+<div class="WordSection3">
+
+<p class="NewSpeech">LORD WILSON: (<span style="text-transform:none">with whom
+Lord Hodge, Lady Black, Lord Kitchin and Lord Sales agree)</span></p>
+
+<p class="ParaHeading">Introduction</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>A father applies under the Hague Convention on the Civil Aspects of
+International Child Abduction 1980 (“the Convention”), set out in Schedule 1 to
+the Child Abduction and Custody Act 1985 (“the 1985 Act”), for a summary order
+for the return of his young daughter from England to Israel. The mother opposes
+the application but a High Court judge grants it. On the mother’s appeal the
+Court of Appeal rules that it had not been open to the judge to make an order
+under the Convention. So it sets his order aside. But the Court of Appeal then
+proceeds to invoke the inherent jurisdiction of the High Court (“the inherent
+jurisdiction”) and, pursuant to it, the court makes a summary order analogous
+to that made by the judge, namely for the immediate return of the child to
+Israel, in substitution for his order under the Convention.</a></p><a name="para1">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para1"></a><a name="para2">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The overall question raised before us by the mother’s further appeal has
+been whether the Court of Appeal was entitled to make the summary order for the
+child’s return to Israel under the inherent jurisdiction. But the question has
+been broken down into two parts. First, was the inherent jurisdiction in
+principle available to be exercised in the making of a summary order for the
+child’s return? Second, if so, was the Court of Appeal’s approach to the
+exercise of the jurisdiction flawed?</a></p><a name="para2">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para2"></a><a name="para3">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>This court has already answered the overall question. It heard the
+appeal on 18 July 2019 and received the last of the parents’ further written
+submissions on 1 August. It was conscious of the urgency of the decision. The
+aspiration set out in Practice Direction 3.4.5(c), annexed to the Supreme Court
+Rules 2009, is for the result of an appeal in a Convention case to be given
+within two weeks of the end of the hearing; and the court considered that the
+aspiration should apply equally to the instant appeal. On 14 August 2019 it
+therefore made its order, which was that the mother’s appeal be allowed and
+that the Court of Appeal’s order under the inherent jurisdiction be set aside.
+By today’s judgments, the court will explain its reasons for having made that
+order. In doing so it will explain why its answer to both parts of the overall
+question is “yes”.</a></p><a name="para3">
+
+<p class="ParaHeading">Facts</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para3"></a><a name="para4">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mother and father are Israeli nationals, aged 31 and 29
+respectively. They married in 2013 and have only the one child to whom I have
+referred. She is now aged almost three. They lived in Israel with the father’s
+parents. The father worked as a police officer. The marriage ran into
+difficulties and, partly as a result of them, the parties decided to move, with
+the child, to England. The move took place on 25 November 2018. They rented a
+flat in North London. The father found employment as a waiter and the child
+started to attend nursery school. Although both parents regarded it as possible
+that, were the marriage to break down, they would return to live separately in
+Israel, there was no agreement that they would necessarily do so.</a></p><a name="para4">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para4"></a><a name="para5">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In London the marriage quickly broke down. On 10 January 2019 the father
+told the mother that he intended to return to live in Israel; and he sought to
+insist that, with the child, the mother should also return there, where issues
+between them could be resolved. While accepting that the marriage had broken
+down, the mother replied that she proposed to remain with the child in London. On
+14 January 2019 the mother called the police and alleged to them that the
+father intended to kidnap the child. The police advised the father to leave the
+flat. He thereupon returned to Israel, where he continues to live. The mother
+continues to live with the child in London. Acting by lawyers, the father
+quickly issued proceedings for divorce and custody of the child in the
+Rabbinical Court of Jerusalem, which remained pending at the date of the
+hearing before the judge.</a></p><a name="para5">
+
+<p class="ParaHeading">Judgment at First Instance</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para5"></a><a name="para6">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The factual allegation which formed the basis of the father’s
+application under the Convention was that, on the day when the marriage finally
+broke down, namely 10 January 2019, the mother had wrongfully retained the
+child in England and Wales.</a></p><a name="para6">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para6"></a><a name="para7">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first of the mother’s three contentions by way of defence was that
+the child had become habitually resident in England and Wales by 10 January
+2019. By his written judgment handed down on 17 April 2019, </a><a title="Link to BAILII version" href="/ew/cases/EWHC/Fam/2019/1310.html">[2019] EWHC 1310 (Fam)</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWHC/Fam/2019/1310.html">[2019] 3 FCR 82</a>, following a hearing on 15 April, the judge (MacDonald
+J) rejected this contention and the Court of Appeal refused to permit the
+mother to appeal against his rejection of it. For present purposes it is
+therefore an established fact that, at any rate until 10 January 2019, the
+child remained habitually resident in Israel.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The second of the mother’s contentions was that her retention of the
+child on 10 January 2019 had not been wrongful. She linked this contention with
+an assertion pursuant to article 13(a) of the Convention that the father had
+given a relevant consent. Although in earlier presentations of her case she had
+alleged that he had consented both to the child’s removal from Israel on 25
+November 2018 and to the retention of her in England on 10 January 2019, her
+case of consent became properly focussed in the position statement laid on her
+behalf before the judge: it was simply that he had consented to her retention
+of the child on 10 January. For the father’s consent to the child’s removal
+from Israel on 25 November was irrelevant to his claim of wrongful retention.</a></p><a name="para8">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para8"></a><a name="para9">9.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>As the Court of Appeal was later to hold, the proper focus of the
+mother’s case of consent for some reason became lost during the hearing before
+the judge. Her case was taken to be that the father had consented to the
+child’s removal from Israel on 25 November. In relation to that point, the
+judge received brief oral evidence from the mother, from a male friend of hers
+and from the father; and it is important to note that the judge received no
+oral evidence on any other aspect of the case. In the event he held that the
+father’s consent had been operative at the time of the child’s removal from
+Israel; that the mother had therefore established a defence under article 13(a)
+of the Convention; and that the defence yielded to him a discretion not to
+order the child’s return to Israel.</a></p><a name="para9">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para9"></a><a name="para10">10.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The third of the mother’s contentions, made pursuant to article 13(b) of
+the Convention, was that there was a grave risk that a return to Israel would
+expose the child to physical or psychological harm or would otherwise place her
+in an intolerable situation. In this regard the mother, in her written
+evidence, made what appeared to be serious allegations of domestic abuse
+against the father. She alleged that his work as an Israeli policeman had in
+effect brutalised him; that during the marriage he had pushed or hit her every
+two or three weeks; that he had once held a gun to her head and had frequently
+demonstrated how he could crush her skull with his hands; and that once in
+Israel and again on an underground train in London he had even assaulted the
+child.</a></p><a name="para10">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para10"></a><a name="para11">11.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge weighed the mother’s allegations of domestic abuse against the
+father’s written denials and, in particular, against other material which on
+any view raised substantial concern about her credibility in that respect. For,
+in text messages sent to the mother on 13 January 2019, the male friend who
+gave oral evidence on her behalf had suggested that, in any approach on her
+part to the Rabbinical Court in London, she should “play the game”; should
+dress modestly; should pretend that she was religious; and should express fear
+that the father would kidnap the child. He had also suggested that she should
+offer the father greater contact with the child than she genuinely intended to
+afford to him in order to induce him to give her a Jewish “get”. Indeed it was
+on the day following her receipt of these messages that the mother had alleged
+to the police that the father intended to kidnap the child.</a></p><a name="para11">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para11"></a><a name="para12">12.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The judge was fully entitled to observe that, in the light of the above
+material, he should approach the mother’s allegations of domestic abuse with
+caution. He then evaluated them in accordance with the approach recommended for
+Convention cases in <i>In re E (Children) (Abduction: Custody Appeal)</i>
+</a><a title="Link to BAILII version" href="/uk/cases/UKSC/2011/27.html">[2011] UKSC 27</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2011/27.html">[2012] 1 AC 144</a>. He therefore heard no oral evidence in
+relation to them and made no findings about them. Instead he sought to make a
+reasonable assumption about the maximum level of risk to the child in the light
+of all the available evidence. On this basis his assumption was of some risk to
+the mother, but not directly to the child, of physical and verbal abuse on the
+part of the father. The judge then addressed a series of undertakings offered
+to him by the father, including not to molest the mother in Israel, not to
+remove the child from her care in Israel without an order of the Israeli court
+and to provide reasonable financial support for both of them there until that
+court might otherwise order. The judge’s conclusion was that, in the light of
+the undertakings, the risk to the child, if returned to Israel, did not reach
+the level of gravity required by article 13(b). So that defence failed. The
+judge did not consider, because he was not asked to consider, whether the
+undertakings would be enforceable against the father in Israel. The Court of
+Appeal’s view, however, was that the judge would have been unlikely to have
+overlooked the well-recognised concern about the enforceability in a foreign
+state of undertakings given to the English court.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13">13.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Then the judge turned to the discretion whether to order the child’s
+return to Israel, to which his finding that the father had consented to her
+removal from Israel appeared to him to have given rise. In this regard he
+reminded himself that he was entitled to have regard to the policy aims of the
+Convention. He regarded them as based on</a></p><a name="para13">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“the recognition that it is of
+manifest benefit to a child to have decisions regarding their welfare taken in
+the jurisdiction of their habitual residence.”</p>
+
+<p class="ParaNoNumber">The judge surveyed the multitude of features which
+connected the child to Israel and, by contrast, her connection with the UK for
+less than five months prior to the hearing; and he concluded that he should not
+exercise his discretion to decline to order her return to Israel.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para13"></a><a name="para14">14.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It was by those steps that the judge’s order for the child’s return to
+Israel was made under the Convention.</a></p><a name="para14">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para14"></a><a name="para15">15.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But then the judge added a postscript. It was based on passing
+observations which he had made earlier. He had there reminded himself that,
+under article 18 of the Convention, its provisions for the return of children
+did not limit the domestic powers of a contracting state to order their return
+at any time; and he had referred to the decision of this court in <i>In re L (A
+Child) (Custody: Habitual Residence)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/75.html">[2013] UKSC 75</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/75.html">[2014] AC 1017</a> (“the <i>L</i>
+case”), as for which see para 43 below. His postscript was:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“As I have made clear above, I am
+satisfied that had I concluded that [the child] was habitually resident in this
+country, I would have reached the same decision under the inherent jurisdiction
+…”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16">16.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The father had issued no application for an order for the child’s return
+to Israel to be made under the inherent jurisdiction. Indeed no reference had
+been made to that jurisdiction in the course of the hearing, whether by counsel
+for either party in the course of their written or oral submissions to the
+court or by the judge himself.</a></p><a name="para16">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para16"></a><a name="para17">17.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>No doubt many judges (at any rate I speak for myself) have occasionally
+been guilty of including in judgments ill-considered, off-the-cuff, remarks
+which later prove highly unfortunate.</a></p><a name="para17">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para17"></a><a name="para18">18.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The counterfactual hypothesis of the judge’s postscript was that the
+child had been habitually resident in England on 10 January 2019, with the
+result that the Convention would, for that reason alone, not have applied to a
+retention on that date. But, apart from the wider principles applicable to the
+making of an order under the inherent jurisdiction addressed below, the
+hypothesis of the child’s habitual residence in England should by itself have
+generated substantial questions, never addressed by the judge, about the
+propriety of such an order. One question would of course have surrounded
+recognition of the fact that (to use the judge’s own words quoted in para 13
+above)</a></p><a name="para18">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“it is of manifest benefit to a
+child to have decisions regarding their welfare taken in the jurisdiction of
+their habitual residence.”</p>
+
+<p class="ParaHeading">Judgment of the Court of Appeal</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para18"></a><a name="para19">19.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 18 June 2019 the Court of Appeal (Flaux, Moylan and Haddon-Cave LJJ)
+not only heard the mother’s appeal but determined it, by a judgment delivered
+by Moylan LJ with which the other members of the court agreed: </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2019/1065.html">[2019] EWCA Civ 1065</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2019/1065.html">[2019] 3 FCR 49</a>. The court’s order is however dated 24 June 2019.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20">20.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is no need to consider in detail the court’s reasons for setting
+aside the judge’s order under the Convention. They will already be apparent in
+any event. In summary the court held that there had been no focus in the
+judgment on the father’s foundational assertion that there had been a wrongful
+retention of the child by the mother on 10 January 2019; and it held that, once
+the judge had found that there was no agreement between the parties to return
+to Israel if the marriage broke down, there was no ground for concluding that
+the mother’s retention of the child in England on and after that date had been
+wrongful. Therefore the Convention had not been engaged.</a></p><a name="para20">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para20"></a><a name="para21">21.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>There is, by contrast, every need to consider in detail the court’s
+reasons for substituting an order for the child’s return to Israel under the
+inherent jurisdiction.</a></p><a name="para21">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para21"></a><a name="para22">22.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In this regard the court in para 63 identified the following two issues:</a></p><a name="para22">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether the mother was
+prejudiced by the absence of any … application [for the exercise of the
+inherent jurisdiction] and by the other matters relied on by her so as to make
+the <i>judge’s determination</i> unfair; and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether <i>the judge</i>
+was in a position to make a sufficient welfare assessment necessary to the
+proper exercise of the inherent jurisdiction.” (Emphasis supplied)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para22"></a><a name="para23">23.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>It is worthwhile to note the court’s use of the word “determination” in
+its formulation of the first issue. In at least six places in the judgment the
+court referred to the judge’s “determination” or “decision” to make an order
+under the inherent jurisdiction. The court well knew that he had made no such determination
+or decision but it clearly regarded it as appropriate to deem him to have done
+so. In what follows, however, it is as well to remember that the order under
+the inherent jurisdiction was made not by the judge on 17 April 2019 but by the
+Court of Appeal on 18 June 2019. This leads to the second issue identified by
+that court. If the Court of Appeal, always invested with the powers of the
+judge against whose judgment an appeal is brought and thus in this case
+invested with his inherent jurisdiction, was considering whether to make a
+fresh order on a different basis, it had to survey the relevant evidence for
+itself; indeed, as is agreed between the parties, it had to satisfy itself that
+the evidence was sufficiently up-to-date to form the basis of an order which
+could be made that day by reference to circumstances which then existed. On the
+contrary, however, in its formulation of the second issue, the court asked
+whether the <i>judge </i>had been in a position to make the requisite welfare
+assessment.</a></p><a name="para23">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para23"></a><a name="para24">24.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Central to the mother’s objections in the Court of Appeal to the making
+of any order under the inherent jurisdiction was a contention that the court’s
+exercise of that jurisdiction had to be conducted by reference to an
+overarching consideration, namely the paramountcy of the child’s welfare,
+entirely different from the considerations by reference to which the
+jurisdiction under the Convention would fall to be exercised. The Court of
+Appeal’s answer was to rely on the judge’s analysis of the discretion not to
+make an order under the Convention which, however mistakenly, he had considered
+to have arisen from the father’s consent to the child’s removal from Israel. In
+the judgment the Court of Appeal reasoned as follows:</a></p><a name="para24">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“65.&nbsp;&nbsp;&nbsp;&nbsp; … there were no
+additional matters of substance which would not be relevant to the exercise of
+that discretion but would be relevant to the discretion under the inherent
+jurisdiction.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">66.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; … it could be argued
+that the inherent jurisdiction has a wider canvas based, as it is, on welfare
+being the court’s paramount consideration but, when the court is deciding
+whether to exercise its discretion to make a return order under the 1980
+Convention once a ground for opposing the return has been established, the
+court will consider the wider canvas, in particular when the ground is other
+than grave harm.”</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para24"></a><a name="para25">25.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal’s resolution of the two issues set out in para 22
+above was therefore as follows, at para 68:</a></p><a name="para25">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the mother was not
+significantly prejudiced in this case so as to make the <i>judge’s
+determination</i> unfair; and</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>the judge</i> was in
+a position to make a sufficient welfare assessment.” (Emphasis supplied)</p>
+
+<p class="ParaNoNumber">Their resolution led to the court’s overall conclusion as
+follows, at para 73(c):</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“<i>The judge</i> was entitled to
+make an order for [the child’s] return under the court’s inherent jurisdiction
+and his summary welfare <i>decision </i>to do so is fully supported by the
+reasons he gave.” (Emphasis supplied)</p>
+
+<p class="ParaHeading">Inherent Jurisdiction Available</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para25"></a><a name="para26">26.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The first basis of the mother’s assault on the Court of Appeal’s summary
+order for the child’s return to Israel under the inherent jurisdiction is that
+it was not open to that court, and would not have been open to the trial judge,
+to deploy the inherent jurisdiction in that way. Her case is that a summary
+order for the child’s return outside the Convention could have been made only
+as a specific issue order under the Children Act 1989 (“the 1989 Act”).</a></p><a name="para26">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para26"></a><a name="para27">27.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Section 10 of the 1989 Act empowers the court to make the orders
+specified in section 8(1). They include a specific issue order, there defined
+as “an order giving directions for the purpose of determining a specific
+question which has arisen … in connection with any aspect of parental
+responsibility for a child”. An order for the return of a child to a foreign
+state falls within that definition; and a specific issue order to that effect
+can be made not only after a full inquiry into the merits of the case but also
+on a summary basis; see paras 34 and 35 below.</a></p><a name="para27">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para27"></a><a name="para28">28.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Had it been otherwise appropriate for the Court of Appeal to make a
+summary order in the circumstances of the present case, it could have been made
+as a specific issue order. There would have been jurisdiction to make such an
+order in relation to this child. For, had the child remained habitually
+resident in Israel on the date when, in the absence of an application, the
+court was considering whether to make the order (18 June 2019), her presence in
+England and Wales, coupled with the absence of her habitual residence in any
+part of the United Kingdom, would have endowed the court with jurisdiction to
+make it: sections 2(1)(b)(ii) and 3(1)(b) of the Family Law Act 1986 (“the 1986
+Act”). If, alternatively, the child had become habitually resident in England
+by that date, article 8(1) of Council Regulation (EC) No 2201/2003 (“Regulation
+B2R”), which applies even when the other possible jurisdiction is not a member
+state as there defined, would, as confirmed by section 2(1)(a) of the 1986 Act,
+have endowed the court with jurisdiction to make it.</a></p><a name="para28">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para28"></a><a name="para29">29.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>But could a summary order for the child’s return to Israel also have
+been made under the inherent jurisdiction? In principle the inherent
+jurisdiction was as fully available in relation to this child as was the
+jurisdiction to make a specific issue order. For, had she remained habitually
+resident in Israel on 18 June 2019, a summary order for the child’s return
+there under the inherent jurisdiction, not being an order which “gives care of
+a child to any person”, would have fallen neither within section 1(1)(d) of the
+1986 Act nor otherwise within Part 1 of it; and the result would have been the
+application of the bases of jurisdiction under common law, including that of
+the child’s presence in England. If, alternatively, she had become habitually
+resident in England by that date, article 8(1) of Regulation B2R would, as in
+the case of a specific issue order, have endowed the court with jurisdiction to
+deploy the inherent jurisdiction in relation to her.</a></p><a name="para29">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para29"></a><a name="para30">30.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mother accepts that, prior to the advent of the 1989 Act, a summary
+order for the return of a child abroad could be made by the High Court in the
+exercise of its inherent jurisdiction. She reminds the court of the classic
+exposition of Buckley LJ in <i>In re L (Minors) (Wardship: Jurisdiction)</i>
+[1974] 1 WLR 250. It is easy to forget that, before ordering the return of the
+child to Germany in that case, the High Court judge had conducted a full
+merits-based inquiry into what the child’s welfare required. Strictly speaking,
+the remarks of Buckley LJ at pp 264-265 were therefore only passing
+observations. Nevertheless he there convincingly explained why an order under
+the inherent jurisdiction for a prompt return of children wrongly taken from a
+foreign state, in order that the courts there might determine their future,
+might well be in their best interests at that stage; and that a full
+investigation of the merits of the parental dispute in the English courts might
+be incompatible with them. These remarks formed the basis of a number of
+decisions in the following decade, beginning with that of <i>In re C (Minors)
+(Wardship: Jurisdiction)</i> [1978] Fam 105.</a></p><a name="para30">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para30"></a><a name="para31">31.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 1 August 1986 the 1985 Act, to which the Convention was scheduled,
+came into force. It is a fair working assumption that application of the
+Convention will generally identify the circumstances in which it is, and is
+not, in the interests of a child to be the subject of a summary order for
+return to another contracting state. The court should look critically at any
+application for a summary order, whether as a specific issue order or as an
+order under the inherent jurisdiction, for the return to a contracting state of
+a child who as in the present case has been held not to be susceptible, or who
+would probably be held not to be susceptible, to the making of an order under
+the Convention. In her judgment in the Irish High Court in <i>KW v PW</i>
+</a><a title="Link to BAILII version" href="/ie/cases/IEHC/2016/H513.html">[2016] IEHC 513</a>, O’Hanlon J went further:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“57.&nbsp;&nbsp;&nbsp;&nbsp; This Court finds that the
+inherent jurisdiction is not applicable in this case. The inherent jurisdiction
+exists to fill a lacuna in the law and there is no lacuna here. To use the
+inherent jurisdiction to make an order returning these children to Australia
+after holding that they are habitually resident in Ireland would be to circumnavigate
+the content and the principles of the Hague Convention.”</p>
+
+<p class="ParaNoNumber">One has considerable sympathy for the judge’s approach;
+but I respectfully suggest that it would be better for our approach in England
+and Wales to be less categorical. For, as I will explain in para 53 below, the
+principles of the Convention are not constructed by reference to the
+paramountcy of the child’s welfare and so we must recognise, as being at any
+rate a possibility, that a child’s welfare will require a summary order for his
+return to a contracting state even when the Convention does not so operate as
+to require it.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32">32.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>On 14 October 1991 sections 8 and 10 of the 1989 Act came into force. It
+was, according to the mother, at this moment, which marked the advent of the
+specific issue order, that it became impermissible for a summary order for the
+child’s return abroad to be made instead under the inherent jurisdiction.</a></p><a name="para32">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para32"></a><a name="para33">33.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mother cites the decision of the appellate committee of the House of
+Lords in <i>Richards v Richards</i> [1984] AC 174. It held that, following an
+enactment in 1967 which conferred specific jurisdiction to order a spouse to
+leave the home, a court could no longer make such an order pursuant to its
+general jurisdiction to grant an injunction. Lord Hailsham of St Marylebone,
+Lord Chancellor, said at pp 199, 200:</a></p><a name="para33">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… where, as here, Parliament has
+spelt out in considerable detail what must be done in a particular class of
+case it is not open to litigants to bypass the special Act, nor to the courts
+to disregard its provisions by resorting to the earlier procedure, and thus
+choose to apply a different jurisprudence from that which the Act prescribes.”</p>
+
+<p class="ParaNoNumber">Lord Brandon of Oakbrook spoke at p 221 to similar
+effect.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para33"></a><a name="para34">34.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mother also relies heavily on the decision of the appellate
+committee in <i>In re J (A Child) (Custody Rights: Jurisdiction)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2005/40.html">[2005] UKHL 40</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2005/40.html">[2006] 1 AC 80</a>. The issue was whether, as his father contended, there
+should be a summary order for the return of a five-year-old boy to Saudi
+Arabia, which was not (and is not) a contracting state under the Convention.
+The committee set aside the summary order made by the Court of Appeal and
+restored the order by which the judge had refused to make it. Baroness Hale of
+Richmond made the only substantive speech. She observed at para 5 that, had the
+Convention applied, the mother’s retention of the boy in England would probably
+have been categorised as wrongful. She said at para 28:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is plain, therefore, that
+there is always a choice to be made. Summary return should not be the automatic
+reaction to any and every unauthorised taking or keeping a child from his home
+country. On the other hand, summary return may very well be in the best interests
+of the individual child.”</p>
+
+<p class="ParaNoNumber">In concluding that the Court of Appeal had not been
+entitled to interfere with the judge’s order, Baroness Hale referred at paras
+39, 40 and 46 not only to the relevance of the effect of an order for the
+child’s return on his primary carer but also to the occasional relevance of
+differences in the criteria applied by the rival courts to resolution of the
+substantive issues in relation to the child and, in particular, to any absence
+of a power in the foreign court to authorise the primary carer to relocate with
+the child back to England.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35">35.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The decision in <i>In re J</i> was, says the mother, impeccable. And her
+point is this: the application by the father under consideration in all three
+courts was for a specific issue order for the child’s return to Saudi Arabia,
+not for an order to that effect under the inherent jurisdiction. It was thus in
+relation to a specific issue order that, for example, Baroness Hale stressed
+the facility in principle for an order for return to be made summarily.</a></p><a name="para35">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para35"></a><a name="para36">36.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>We now reach the high-point of the mother’s case that the inherent
+jurisdiction is no longer available for the making of a summary order for a
+child’s return abroad. It is Practice Direction 12D, which supplements Chapter
+5 of Part 12 of the Family Procedure Rules 2010 (“the 2010 Rules”) and which is
+entitled “Inherent Jurisdiction … Proceedings”. Paragraph 1.2 emphasises the
+width of the jurisdiction:</a></p><a name="para36">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“The court may under its inherent
+jurisdiction, in addition to all of the orders which can be made in family
+proceedings, make a wide range of injunctions for the child’s protection of
+which the following are the most common -</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt;text-indent:36.0pt">…</p>
+
+<p class="MsoQuote" style="margin-left:108.0pt">(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; orders for the return
+of children to and from another state.”</p>
+
+<p class="ParaNoNumber">For the purpose of the 2010 Rules, the phrase “family
+proceedings” has the broad meaning ascribed to it by section 75(3) of the
+Courts Act 2003 (“the 2003 Act”). But the mother’s case focusses on para 1.1 of
+the Practice Direction which provides:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“It is the duty of the court under
+its inherent jurisdiction to ensure that a child who is the subject of
+proceedings is protected and properly taken care of. The court may in
+exercising its inherent jurisdiction make any order or determine any issue in
+respect of a child unless limited by case law or statute. <i>Such proceedings
+should not be commenced unless it is clear that the issues concerning the child
+cannot be resolved under the Children Act 1989</i>.” (Emphasis supplied)</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para36"></a><a name="para37">37.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>An application for a specific issue order for the return of a child to a
+foreign state cannot be issued in the High Court. It has to be issued in the
+Family Court: rule 5.4(1) of the 2010 Rules. It can then, however, be allocated
+to be heard by a judge of High Court level sitting as a judge of the Family
+Court or it can indeed be transferred to the High Court. There are strong
+reasons of policy, applied to all areas of civil justice, to confine claims to
+the lowest court which has jurisdiction to hear them in order to preserve the
+ability of the higher courts, in particular the High Court, to address only the
+claims strictly identified as deserving their attention. Is the italicised
+instruction in para 1.1 of the Practice Direction nevertheless too categorical?
+Does it have to be clear that the issues <i>cannot</i> be resolved under the
+1989 Act before the inherent jurisdiction can be invoked?</a></p><a name="para37">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para37"></a><a name="para38">38.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The 2010 Rules are made pursuant to section 75(1) of the 2003 Act and so
+have legislative force. But practice directions, even including those which are
+stated to supplement the 2010 Rules, are not made pursuant to that or any other
+statutory authority. As Brooke LJ said in <i>U v Liverpool City Council
+(Practice Note) </i></a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2005/475.html">[2005] EWCA Civ 475</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/ew/cases/EWCA/Civ/2005/475.html">[2005] 1 WLR 2657</a>, at para 48:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“… a practice direction has no
+legislative force. Practice directions provide invaluable guidance to matters
+of practice in the civil courts, but in so far as they contain statements of
+the law which are wrong they carry no authority at all.”</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39">39.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The question therefore is whether the categorical instruction in para
+1.1 of Practice Direction 12D is wrong.</a></p><a name="para39">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para39"></a><a name="para40">40.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>One of the major achievements of the 1989 Act was to streamline the
+procedure for ordering a child to be placed in the care of a local authority.
+One of the former procedures for doing so had been by way of exercise by the
+High Court of its inherent jurisdiction. Section 100 of the 1989 Act provides:</a></p><a name="para40">
+
+<p class="MsoQuote" style="margin-left:72.0pt">“(2)&nbsp;&nbsp;&nbsp;&nbsp; No court shall exercise
+the High Court’s inherent jurisdiction with respect to children -</p>
+
+<p class="MsoQuote" style="margin-left:144.0pt;text-indent:-36.0pt">(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; so
+as to require a child to be placed in the care of a local authority;”</p>
+
+<p class="ParaNoNumber">What is significant is that, in making the 1989 Act, Parliament,
+by contrast, nowhere sought to preclude exercise of the inherent jurisdiction
+so as to make orders equivalent to those for which sections 8 and 10 of it
+provide, including specific issue orders.</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para40"></a><a name="para41">41.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the absence of any statutory provision which the instruction in para
+1.1 of Practice Direction 12D could be said to reflect, the court should turn
+to consider case law.</a></p><a name="para41">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para41"></a><a name="para42">42.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In <i>A v A (Children: Habitual Residence)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKSC/2013/60.html">[2013] UKSC 60</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKSC/2013/60.html">[2014] AC 1</a>, the trial judge had invoked the inherent jurisdiction to make a summary
+order of the obverse kind, namely for the return of four children from abroad,
+specifically from Pakistan, to England and Wales. By the time of the arrival of
+the case in the Supreme Court, the issue surrounded only the order in relation
+to the youngest child, who was a British national but who had been born in
+Pakistan and, unlike his siblings, had never lived or even been present in
+England. The majority of this court expressed doubt as to whether in these
+circumstances the trial judge had been right to ascribe to him habitual
+residence in England. But it perceived a different basis for the possible
+exercise of the inherent jurisdiction in relation to him, namely the basis at
+common law of his British nationality; and it remitted the case to the judge to
+determine whether it was appropriate to exercise it. In that a specific issue
+order cannot be made on the basis only of nationality, it could be said that
+the decision in the <i>A </i>case does not carry the present inquiry much
+further. It is however worthwhile to note that, at para 26 of her judgment,
+Baroness Hale rejected the submission that the judge’s order, based on the
+child’s perceived habitual residence, had been a specific issue order and
+observed that there were many orders relating to children which could be made
+either under the 1989 Act or under the inherent jurisdiction.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43">43.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>In the <i>L</i> case, cited in para <span style="color:black">15</span>
+above, the mother brought a boy, then aged seven, from Texas to England with
+the permission of a federal court. A year later a federal appeal court reversed
+the trial court’s ruling; and the latter then made a revised order for the
+mother to return the boy to Texas. The father thereupon applied to the High
+Court for an order under the Convention and alternatively under the inherent
+jurisdiction for the boy’s return to Texas. On appeal this court held that the
+trial judge had been entitled to find that, by the time of the revised order
+made by the trial court, the boy had acquired habitual residence in England;
+and that therefore the mother’s retention of him had not been wrongful and that
+the application under the Convention failed. Nevertheless this court proceeded
+to hold that in all the circumstances the boy’s welfare required a summary
+order to be made under the inherent jurisdiction for his return to Texas. In
+that the child was habitually resident in England, there is no doubt that his
+return to Texas could equally have been made the subject of a specific issue
+order. But it was not made the subject of such an order; and it was never
+suggested that it should have been so made.</a></p><a name="para43">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para43"></a><a name="para44">44.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The instruction in para 1.1 of Practice Direction 12D goes too far.
+There is no law which precludes the commencement of an application under the
+inherent jurisdiction unless the issue “cannot” be resolved under the 1989 Act.
+Some applications, such as for a summary order for the return of a child to a
+foreign state, can be commenced in the High Court as an application for the
+exercise of the inherent jurisdiction. But then, if the issue could have been
+determined under the 1989 Act as, for example, an application for a specific
+issue order, the policy reasons to which I have referred will need to be
+addressed. At the first hearing for directions the judge will need to be
+persuaded that, exceptionally, it was reasonable for the applicant to attempt
+to invoke the inherent jurisdiction. It may be that, for example, for reasons
+of urgency, of complexity or of the need for particular judicial expertise in
+the determination of a cross-border issue, the judge may be persuaded that the
+attempted invocation of the inherent jurisdiction was reasonable and that the
+application should proceed. Sometimes, however, she or he will decline to hear
+the application on the basis that the issue could satisfactorily be determined
+under the 1989 Act.</a></p><a name="para44">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para44"></a><a name="para45">45.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Why has the mother been so concerned to argue that the Court of Appeal’s
+consideration of the making of a summary order for the child’s return to Israel
+needed to take place within the framework of a specific issue order?</a></p><a name="para45">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para45"></a><a name="para46">46.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The answer is that, although the child’s welfare is the paramount
+consideration in the making of such an order whether made under the inherent
+jurisdiction or as a specific issue order, the mother considers that a specific
+issue order could be made only following a more extensive inquiry into the
+child’s welfare.</a></p><a name="para46">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para46"></a><a name="para47">47.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Where an application for the same order can be made in two different
+proceedings and falls to be determined by reference to the same overarching
+principle of the child’s welfare, it would be wrong for the substantive inquiry
+to be conducted in a significantly different way in each of the proceedings.</a></p><a name="para47">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para47"></a><a name="para48">48.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Of course, when in each of the proceedings it is considering whether to
+make a summary order, the court will initially examine whether the child’s
+welfare requires it to conduct the extensive inquiry into certain matters which
+it would ordinarily conduct. Again, however, it would be wrong for that initial
+decision to be reached in a significantly different way in each of them.</a></p><a name="para48">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para48"></a><a name="para49">49.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mother refers to the list of seven specific aspects of a child’s
+welfare, known as the welfare check-list, to which a court is required by
+section 1(3) of the 1989 Act to have particular regard. She points out,
+however, that, by subsections (3) and (4), the check-list expressly applies
+only to the making of certain orders under the 1989 Act, including a specific
+issue order, as is confirmed by the seventh specific aspect, namely the range
+of powers under that Act. The first six specified aspects of a child’s welfare
+are therefore not expressly applicable to the making of an order under the
+inherent jurisdiction. But their utility in any analysis of a child’s welfare
+has been recognised for nearly 30 years. In its determination of an application
+under the inherent jurisdiction governed by consideration of a child’s welfare,
+the court is likely to find it appropriate to consider the first six aspects of
+welfare specified in section 1(3) (see <i>In re S (A Child) (Abduction: Hearing
+the Child)</i> </a><a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/1557.html">[2014] EWCA Civ 1557</a>, <a title="Link to BAILII version" href="/ew/cases/EWCA/Civ/2014/1557.html">[2015] Fam 263</a>, at para 22(iv), Ryder LJ);
+and, if it is considering whether to make a summary order, it will initially
+examine whether, in order sufficiently to identify what the child’s welfare
+requires, it should conduct an inquiry into any or all of those aspects and, if
+so, how extensive that inquiry should be.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50">50.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The mother also refers to Practice Direction 12J, which supplements Part
+12 of the 2010 Rules and which is entitled “Child Arrangements and Contact
+Orders: Domestic Abuse and Harm”. By para 4, the Practice Direction explains that
+harm is suffered not only by children who are the direct victims of domestic
+abuse but also by children who live in a home in which it is perpetrated. When
+disputed allegations of domestic abuse are made, the Practice Direction makes
+detailed requirements of the court, in particular to consider whether to
+conduct a fact-finding hearing in relation to them (para 16), whether to direct
+the preparation of a report by a CAFCASS officer (para 21) and whether to order
+a child to be made a party and be separately represented (para 24). The mother
+points out, however, that, by para 1, the Practice Direction applies only to
+proceedings under the relevant parts of the 1989 Act (which would include an
+application for a specific issue order) or of the Adoption and Children Act
+2002. Therefore it does not expressly apply to the determination of any
+application under the inherent jurisdiction, including of an application
+governed by consideration of a child’s welfare in which disputed allegations of
+domestic abuse are made. Nevertheless, as in relation to the welfare
+check-list, a court which determines such an application is likely to find it
+helpful to consider the requirements of the Practice Direction; and if it is
+considering whether to make a summary order, it will initially examine whether,
+in order sufficiently to identify what the child’s welfare requires, it should,
+in the light of the Practice Direction, conduct an inquiry into the allegations
+and, if so, how extensive that inquiry should be.</a></p><a name="para50">
+
+<p class="ParaHeading">Exercise of Inherent Jurisdiction Flawed</p>
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para50"></a><a name="para51">51.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal did not conduct for itself an inquiry into whether
+the welfare of the child required her to be the subject of a summary order for
+return to Israel. It considered that the judge had conducted such an inquiry
+and had determined that her welfare did so require; and it held that his
+perceived determination was not wrong.</a></p><a name="para51">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para51"></a><a name="para52">52.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>With great respect, I find it impossible to agree that the judge had
+conducted any such inquiry or had made any such determination. The judge had
+not purported to make any determination at all under the inherent jurisdiction;
+and he had not conducted any inquiry in relation to which the child’s welfare
+was the paramount consideration; still less had he conducted what was commended
+by the Court of Appeal as a “sufficient welfare assessment”.</a></p><a name="para52">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para52"></a><a name="para53">53.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The Court of Appeal held that, in determining not to exercise the
+discretion so as to decline to order the child’s return to Israel, which he
+perceived to have arisen under the Convention, the judge had considered the
+“wider canvas based … on welfare being the court’s paramount consideration”.
+But the discretion which arises under the Convention lacks that basis. It has
+been best explained by Baroness Hale in <i>In re M (Children) (Abduction:
+Rights of Custody)</i> </a><a title="Link to BAILII version" href="/uk/cases/UKHL/2007/55.html">[2007] UKHL 55</a>, <a title="Link to BAILII version" href="/cgi-bin/redirect.cgi?path=/uk/cases/UKHL/2007/55.html">[2008] AC 1288</a> as follows:</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">“42.&nbsp;&nbsp;&nbsp;&nbsp; In Convention cases,
+however, there are general policy considerations which may be weighed against
+the interests of the child in the individual case. These policy considerations
+include, not only the swift return of abducted children, but also comity
+between the contracting states and respect for one another’s judicial
+processes. Furthermore, the Convention is there, not only to secure the prompt
+return of abducted children, but also to deter abduction in the first place.
+The message should go out to potential abductors that there are no safe havens
+among the contracting states.</p>
+
+<p class="MsoQuote" style="margin-left:72.0pt">43.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My Lords, in cases where
+a discretion arises from the terms of the Convention itself, it seems to me
+that the discretion is at large. The court is entitled to take into account the
+various aspects of the Convention policy, alongside the circumstances which
+gave the court a discretion in the first place and the wider considerations of
+the child’s rights and welfare.”</p>
+
+<p class="ParaNoNumber">The judge’s determination not to exercise the discretion
+perceived to have arisen under the Convention cannot stand as a determination
+that the child’s welfare required her return to Israel.</p>
+
+<p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54">54.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The initial question for the Court of Appeal was whether the mother had
+had sufficient notice of its intention to make a summary order under the
+inherent jurisdiction. The fact that the father had not applied for an order
+under the inherent jurisdiction did not, of itself, inhibit the Court of Appeal
+from making the order; and, had the judge made such an order, the absence of an
+application would not, of itself, have inhibited him from doing so. Section
+10(1<span style="color:black">)(b) </span>of the 1989 Act provides that a
+specific issue order can be made even though no application for it has been
+made; and there is no reason to doubt that an order under the inherent
+jurisdiction, the flexibility of which is a key feature of it, can also be made
+of the court’s own motion. But in such circumstances a heavy duty lies upon a
+court to ask whether the effective respondent has had notice of the court’s intention
+sufficient to afford to her (or him) a reasonable opportunity to mount
+opposition to it. In the present case the Court of Appeal did address this
+initial question; and it answered it affirmatively. It is correct that, upon
+her receipt of the father’s skeleton argument three weeks prior to the hearing
+in the Court of Appeal, the mother became aware that, in the event of the
+success of her appeal against the order under the Convention, the father
+aspired to persuade that court to make an order under the inherent
+jurisdiction; and respect must be given to the Court of Appeal’s observation
+that Mr Twomey QC, on behalf of the mother, had at its hearing (unlike at ours)
+struggled to identify any additional evidence which he might have adduced, or
+submission which he might have made, had such notice been given to him prior to
+the conclusion of the hearing before the judge. But, since it was the Court of
+Appeal which made the order, the real question was whether the mother had had
+sufficient notice of the intention of that court to do so. It is sufficient to
+record significant doubt whether the mother could reasonably have anticipated
+that, in the event of the success of her appeal, an appellate court, instead
+of, at most, remitting to the judge consideration of the exercise of the
+inherent jurisdiction, would itself exercise it even in the absence of material
+with which to analyse what the child’s welfare required.</a></p><a name="para54">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para54"></a><a name="para55">55.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I respectfully suggest, however, that, before making a summary order
+under the inherent jurisdiction for this child to be returned to Israel, the
+Court of Appeal should have given (but did not give) at least some
+consideration to eight further, linked, questions.</a></p><a name="para55">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para55"></a><a name="para56">56.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>First, the court, which was sitting on 18 June 2019, should have
+considered whether the evidence before it was sufficiently up to date to enable
+it then to make the summary order. The mother’s statement in answer to the
+claim under the Convention was dated 29 March 2019. In it she had devoted seven
+out of 67 paragraphs to assertions of the child’s habitual residence in England
+and of particular circumstances said to demonstrate how happy and settled she
+had become. In his statement in reply dated 11 April the father had joined
+issue with the mother’s assertions. The oral evidence given by the parties to
+the judge on 15 April had been limited to the issue of consent to the child’s
+removal from Israel and so had not addressed these matters.</a></p><a name="para56">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para56"></a><a name="para57">57.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Second, the court should have considered whether the judge had made, or
+whether it could make, findings sufficient to justify the summary order. The
+only relevant finding made by the judge had been that on 10 January 2019, only
+seven weeks after her arrival in England, the child had retained habitual
+residence in Israel. Was that sufficient to justify the making of a summary
+order five months later? In the light of the policy in favour of the making of
+substantive welfare determinations by the courts of habitual residence, did
+there need to be inquiry into the child’s habitual residence at the relevant
+date, which, in the absence of an application, was in this case the date of the
+proposed order?</a></p><a name="para57">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para57"></a><a name="para58">58.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Third, the court should have considered whether, in order sufficiently
+to identify what the child’s welfare required for the purposes of a summary
+order, an inquiry should be conducted into any or all of the aspects of welfare
+specified in section 1(3) of the 1989 Act and, if so, how extensive that
+inquiry should be: see para 49 above. It might in particular have considered
+that the third of those aspects, namely “the likely effect on [the child] of
+any change in [her] circumstances”, merited inquiry.</a></p><a name="para58">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para58"></a><a name="para59">59.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fourth, the court should have considered whether in the light of
+Practice Direction 12J, an inquiry should be conducted into the disputed
+allegations made by the mother of domestic abuse and, if so, how extensive that
+inquiry should be: see para 50 above. The judge had made no findings about
+them. Instead, in accordance with the <i>E</i> case cited in para 12 above, he
+had, for the purposes of the claim under the Convention, made a reasonable
+assumption in relation to the maximum level of risk to the child arising out of
+any domestic abuse to be perpetrated by the father and had considered that such
+risk would be contained within acceptable limits by undertakings offered by the
+father, the enforceability of which in Israel the judge had not explored.
+Consideration should therefore have been given to whether, in a determination
+to be governed by the child’s welfare, the judge’s approach to the mother’s
+allegations remained sufficient.</a></p><a name="para59">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para59"></a><a name="para60">60.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Fifth, the court should have considered whether, without identification
+in evidence of any arrangements for the child in Israel, in particular of where
+she and the mother would live, it would be appropriate to conclude that her
+welfare required her to return there.</a></p><a name="para60">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para60"></a><a name="para61">61.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Sixth, the court should have considered whether, in the light of its
+consideration of the five matters identified above, any oral evidence should be
+given by the parties and, if so, upon what aspects and to what extent.</a></p><a name="para61">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para61"></a><a name="para62">62.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Seventh, the court should have considered whether, in the light of its
+consideration of the same matters, a CAFCASS officer should be directed to
+prepare a report and, if so, upon what aspects and to what extent. It is
+noteworthy that in the <i>L</i> case discussed in para 43 above, a CAFCASS
+report had been prepared. It had been designed to ascertain the boy’s wishes
+and feelings and so was apparently made as if pursuant to section 1(3)(a) of
+the 1989 Act: see para 14 of Baroness Hale’s judgment. In her careful weighing,
+in paras 34 to 37 of her judgment, of the welfare considerations which
+militated both in favour of, and against, the boy’s return to Texas, Baroness
+Hale relied to a significant extent upon the content of the CAFCASS report.</a></p><a name="para62">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para62"></a><a name="para63">63.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>Eighth, the court should have considered whether it needed to compare
+the relative abilities of the Rabbinical Court in Jerusalem and the Family
+Court in London to reach a swift resolution of the substantive issues between
+the parents in relation to the child and to satisfy itself that the Rabbinical
+Court had power to authorise the mother to relocate with the child back to
+England: see para 34 above.</a></p><a name="para63">
+
+</a><p class="ParaLevel1" style="margin-left:0cm;text-indent:0cm"><a name="para63"></a><a name="para64">64.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>The effect of the above is not to submerge efficient exercise of the
+inherent jurisdiction to make a summary order within an ocean of onerous
+judicial obligations. The linked obligations are obligations only to <i>consider</i>
+the eight specified matters. There is no need for us to contemplate what the
+proper outcome of the Court of Appeal’s consideration of them might have been.
+It is the fact that it failed even to consider them which yields the conclusion
+that it conducted no defensible analysis of the child’s welfare prior to its
+determination to make the summary order and which led this court to uphold the
+mother’s appeal.</a></p><a name="para64">
+
+</a></div><a name="para64">
+
+
+
+<p>
+</p><hr>
+<small>
+<b>BAILII:</b>
+</small></a><small><a href="/bailii/copyright.html">Copyright Policy</a> <b>|</b>
+<a href="/bailii/disclaimers.html">Disclaimers</a> <b>|</b>
+<a href="/bailii/privacy.html">Privacy Policy</a> <b>|</b>
+<a href="/bailii/feedback.html">Feedback</a> <b>|</b>
+<a href="http://www.givenow.org/charitysearch/charitydetails.asp?ID=554118&amp;PID=512038&amp;SearchString=British+%26+Irish+Legal+Information+Institute&amp;page=quick&amp;orgname=British+%26+Irish+Legal+Information+Institute">Donate to BAILII</a>
+<br>URL: <i>http://www.bailii.org/uk/cases/UKSC/2019/49.html</i>
+</small>
+<p></p>
+
+
+
+
+
+
+
+</body></html>
