@@ -1,12 +1,17 @@
 README
 
+
 The objective of this analysis is to compare US and UK privacy caselaw by performing a distant reading and textual analysis of US / UK cases that reference privacy.
+
 
 Scope of analysis: US Supreme Court Cases 1997 - 2023; UK House of Lords Cases 1997 - 2009; UK Supreme Court Cases 2009 - 2023.
 
+
 Instructions: In order to run the analysis, download the folder and navigate to the directory in your terminal. Then enter "python Run.py". Run.py will gather raw HTML data for cases from 1997 to 2023, convert them to readable text, and then run Comparative_analysis.Rmd, which runs R code to perform the distant reading analysis. It then outputs Comparative_analysis.html to view the R code, explanations, and graphs that demonstrate the differences between US and UK privacy cases. 
 
+
 Input: Input_files contains the input for this project, which is a set of three CSVs that contain URLs for each US, UKSC, and UKHL case in the timeframe. However, for the sake of time, I have already performed the first step and downloaded the raw HTML extract from each page in the CSV. Thus, the input raw HTML extracts already exist in the Intermediate_files/ folder. If you would like to start from scratch and work off of the CSVs instead of the pre-downloaded raw HTML extracts, please see "Additional options" below. 
+
 
 Output: Comparative_analysis.html, which is the output of the R markdown file. It shares figures that demonstrate the differences between US privacy caselaw and UK privacy caselaw. 
 Specifically:
@@ -15,9 +20,11 @@ Figure 2 shows the keywords that are more highly correlated with US cases with a
 Figure 3 shows the keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in US cases versus keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in UK cases
 Figure 4 shows the frequency of privacy-included cases (cases with at least one instance of "privacy") and privacy-focused cases (cases with at least ten instances of "privacy") over the years.
 
+
 Additional options: Two parameter options exist for this run. The parameters accept True or False. For both, the default is False. 
 --install_r_packages: Set to True if you need to install the R packages required for Rmd to run. This will likely be necessary on your first time running this code if you haven't used R packages knitr or rmarkdown. After your first time running or if the R packages are already installed on your machine, feel free to leave this argument out. 
 --redownload_case_files: Set to True if you want to start this code from the raw CSV files in input_files. The CSV files contain a list of URLs for each case. I highly recommend against this, as it could take at least 6 hours for the Selenium code to run since it opens a web browser individually for each case. However, if you want to test from the first step, you could set to True. 
+
 
 Dependencies:
 Before running this code, you will need to have rpy2 and pandoc installed. To do so, you can enter in command line:
