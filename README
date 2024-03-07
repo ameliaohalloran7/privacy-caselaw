@@ -17,7 +17,7 @@ Figure 4 shows the frequency of privacy-included cases (cases with at least one 
 
 Additional options: Two parameter options exist for this run. The parameters accept True or False. For both, the default is False. 
 --install_r_packages: Set to True if you need to install the R packages required for Rmd to run. This will likely be necessary on your first time running this code if you haven't used R packages knitr or rmarkdown. After your first time running or if the R packages are already installed on your machine, feel free to leave this argument out. 
---redownload_case_files: Set to True if you want to start this code from the raw CSV files in input_files. The CSV files contain a list of URLs for each case. I highly recommend not doing this, as it could take at least 6 hours for the Selenium code to run since it opens a web browser individually for each case. However, if you want to test from the first step, you could set to True. 
+--redownload_case_files: Set to True if you want to start this code from the raw CSV files in input_files. The CSV files contain a list of URLs for each case. I highly recommend against this, as it could take at least 6 hours for the Selenium code to run since it opens a web browser individually for each case. However, if you want to test from the first step, you could set to True. 
 
 Dependencies:
 Before running this code, you will need to have rpy2 and pandoc installed. To do so, you can enter in command line:
