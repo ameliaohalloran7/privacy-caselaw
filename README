@@ -15,10 +15,10 @@ Input: Input_files contains the input for this project, which is a set of three 
 
 Output: Comparative_analysis.html, which is the output of the R markdown file. It shares figures that demonstrate the differences between US privacy caselaw and UK privacy caselaw. 
 Specifically:
-Figure 1 shows the keywords that are more highly correlated with US cases with at least one instance of the word "privacy" versus UK cases with at least one instance of the word "privacy."
-Figure 2 shows the keywords that are more highly correlated with US cases with at least ten instances of the word "privacy" versus UK cases with at least ten instances of the word "privacy."
-Figure 3 shows the keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in US cases versus keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in UK cases
-Figure 4 shows the frequency of privacy-included cases (cases with at least one instance of "privacy") and privacy-focused cases (cases with at least ten instances of "privacy") over the years.
++ Figure 1 shows the keywords that are more highly correlated with US cases with at least one instance of the word "privacy" versus UK cases with at least one instance of the word "privacy."
++ Figure 2 shows the keywords that are more highly correlated with US cases with at least ten instances of the word "privacy" versus UK cases with at least ten instances of the word "privacy."
++ Figure 3 shows the keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in US cases versus keywords that are more highly correlated with co-existing in the same paragraph or textual proximity as the word "privacy" in UK cases
++ Figure 4 shows the frequency of privacy-included cases (cases with at least one instance of "privacy") and privacy-focused cases (cases with at least ten instances of "privacy") over the years.
 
 
 Additional options: Two parameter options exist for this run. The parameters accept True or False. For both, the default is False. 
